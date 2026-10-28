@@ -110,9 +110,10 @@
 
   /* ================= globe ================= */
   const gc = $("globe"), g = gc.getContext("2d");
-  const proj = d3.geoOrthographic().clipAngle(90).precision(0.6);
-  const path = d3.geoPath(proj, g);
-  const graticule = d3.geoGraticule10();
+  const MAP = !!(window.d3 && window.topojson); // map library loaded? if not, the app still works without the globe
+  const proj = MAP ? d3.geoOrthographic().clipAngle(90).precision(0.6) : null;
+  const path = MAP ? d3.geoPath(proj, g) : null;
+  const graticule = MAP ? d3.geoGraticule10() : null;
   let land = null, borders = null, byName = new Map();
   let W = 0, H = 0, R = 0, CY = 0;
   let rot = [-55, -22, 0], zoom = 1;          // current view
@@ -131,19 +132,27 @@
   }
 
   async function loadWorld() {
+    if (!MAP) return;
     // light map for the globe (fast on phones), detailed shapes only for highlighting
-    const world = await (await fetch("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json")).json();
+    const atlas = async (f) => { // jsDelivr first, unpkg as backup
+      for (const host of ["https://cdn.jsdelivr.net/npm/", "https://unpkg.com/"]) {
+        try { const r = await fetch(host + "world-atlas@2.0.2/" + f); if (r.ok) return await r.json(); } catch {}
+      }
+      throw new Error("map data unavailable");
+    };
+    const world = await atlas("countries-110m.json");
     const obj = world.objects.countries;
     land = topojson.merge(world, obj.geometries);
     borders = topojson.mesh(world, obj, (a, b) => a !== b);
     for (const f of topojson.feature(world, obj).features) byName.set(f.properties.name, f);
-    fetch("https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json").then((r) => r.json()).then((w) => {
+    atlas("countries-50m.json").then((w) => {
       for (const f of topojson.feature(w, w.objects.countries).features) byName.set(f.properties.name, f);
     }).catch(() => {});
   }
 
   function flyTo(s) {
     focus = s;
+    if (!MAP) return;
     const target = [-s.lon, -Math.max(-60, Math.min(60, s.lat)), 0];
     const f = byName.get(s.country);
     let tz = 2.1;
@@ -154,6 +163,14 @@
     }
     if (s.country === null) tz = 1.3;
     if (s.zoom) tz = s.zoom;
+    const many = (s.countries || []).map((n) => byName.get(n)).filter(Boolean);
+    if (many.length > 1) { // several countries: centre between them and zoom out until all are on screen
+      const pts = many.map((f) => d3.geoCentroid(f));
+      const mid = d3.geoCentroid({ type: "MultiPoint", coordinates: pts });
+      const far = Math.max(...pts.map((p) => d3.geoDistance(p, mid))) * 180 / Math.PI;
+      if (far < 80 && isFinite(mid[0]) && isFinite(mid[1])) { target[0] = -mid[0]; target[1] = -Math.max(-60, Math.min(60, mid[1])); }
+      tz = far > 55 ? 1.0 : far > 35 ? 1.2 : far > 20 ? 1.6 : far > 10 ? 2.2 : 2.8;
+    }
     arcFrom = focusPrev ? [focusPrev.lon, focusPrev.lat] : null; arcTo = [s.lon, s.lat]; arcT0 = performance.now();
     focusPrev = s;
     const r0 = rot.slice(), z0 = zoom;
@@ -178,12 +195,12 @@
       rot[0] += 0.04; // idle spin
       zoom += (1 - zoom) * 0.02;
     }
-    draw();
-    requestAnimationFrame(frame);
+    requestAnimationFrame(frame); // schedule first, so one bad frame can never stop the globe
+    try { draw(); } catch (e) { if (!frame.warned) { frame.warned = true; console.warn("globe frame skipped:", e); } }
   }
 
   function draw() {
-    if (!W) return;
+    if (!W || !H || !MAP) return;
     g.clearRect(0, 0, W, H);
     const r = R * zoom;
     proj.translate([W / 2, CY]).scale(r).rotate(rot);
@@ -209,10 +226,12 @@
       g.beginPath(); path(borders); g.stroke();
       if (pkOnScreen() && byName.get("Pakistan")) { g.fillStyle = "#1a2029"; pkMask(g); } // no line through Kashmir
 
-      // highlight focused country
-      const f = focus && focus.country && byName.get(focus.country);
-      if (f) {
-        const ss = sev(focus.severity), isPk = focus.country === "Pakistan";
+      // highlight every country in the report (India before Pakistan, so Pakistan's full map stays on top)
+      const marked = focus ? (focus.countries && focus.countries.length ? focus.countries : [focus.country]).filter((n) => n && byName.get(n)) : [];
+      marked.sort((x, y) => (x === "India" ? -1 : y === "India" ? 1 : 0));
+      for (const name of marked) {
+        const f = byName.get(name), main = name === marked.find((n) => n === focus.country) || (!focus.country && name === marked[0]);
+        const ss = sev(focus.severity), isPk = name === "Pakistan";
         const ph = reduce ? 0.5 : (Math.sin(pulseT / 420) + 1) / 2;          // border pulse 0..1
         const shape = isPk
           ? { fill: pkFill, lines: (arr) => pkOutline(arr), clip: pkClip, k: 0.5 }
@@ -221,17 +240,17 @@
               clip: (fn) => { g.save(); g.beginPath(); path(f); g.clip(); fn(g); g.restore(); }, k: 1 };
         if (!shape.lines) shape.lines = (arr) => arr.forEach((a) => shape.line(...a));
         shape.fill(ss.glow + (0.2 + 0.14 * ph).toFixed(3) + ")");
-        // scanning sweep across the country
-        if (!reduce) {
+        // scanning sweep across the main country
+        if (!reduce && main) {
           const bb = isPk ? path.bounds({ type: "FeatureCollection", features: [f, { type: "Feature", geometry: CLAIM }] }) : path.bounds(f);
           const bw = bb[1][0] - bb[0][0], x = bb[0][0] - 40 + ((pulseT / 2600) % 1) * (bw + 80);
-          shape.clip((c) => { const gr = c.createLinearGradient(x - 40, 0, x + 40, 0); gr.addColorStop(0, ss.glow + "0)"); gr.addColorStop(0.5, ss.glow + "0.35)"); gr.addColorStop(1, ss.glow + "0)"); c.fillStyle = gr; c.fillRect(x - 40, bb[0][1], 80, bb[1][1] - bb[0][1]); });
+          if (isFinite(x) && isFinite(bw) && isFinite(bb[0][1]) && isFinite(bb[1][1])) shape.clip((c) => { const gr = c.createLinearGradient(x - 40, 0, x + 40, 0); gr.addColorStop(0, ss.glow + "0)"); gr.addColorStop(0.5, ss.glow + "0.35)"); gr.addColorStop(1, ss.glow + "0)"); c.fillStyle = gr; c.fillRect(x - 40, bb[0][1], 80, bb[1][1] - bb[0][1]); });
         }
         // pulsing glow on the borders, a solid edge, and a light running along the border
         const L = [[ss.glow + (0.18 + 0.32 * ph).toFixed(3) + ")", (3 + 7 * ph) * shape.k], [ss.col, 1.4 * shape.k]];
         if (!reduce) L.push(["rgba(255,255,255,0.75)", 1.2 * shape.k, [10, 22]]);
         shape.lines(L);
-        if (focus.country === "India" && pkOnScreen()) { g.fillStyle = "#1a2029"; pkMask(g); pkOutline([["rgba(160,175,195,0.35)", 0.5]]); }
+        if (name === "India" && pkOnScreen()) { g.fillStyle = "#1a2029"; pkMask(g); pkOutline([["rgba(160,175,195,0.35)", 0.5]]); }
       }
     }
 
@@ -272,6 +291,12 @@
     if (focus && !fly) {
       const p = visible(focus.lon, focus.lat);
       if (p) label(p, (focus.flag ? focus.flag + " " : "") + (focus.label || focus.country || "").toUpperCase());
+      for (const n of focus.countries || []) { // a smaller tag on every other country in the report
+        if (n === focus.country) continue;
+        const f = byName.get(n); if (!f) continue;
+        const c = centroidOf(n), q = visible(c[0], c[1]);
+        if (q && (!p || Math.hypot(q[0] - p[0], q[1] - p[1]) > 26)) label(q, SHORT[n] || n.toUpperCase(), true);
+      }
     }
 
     // HUD ring with ticks and a slow sweep
@@ -299,7 +324,7 @@
   const JUN = { type: "Polygon", coordinates: [[[69.95, 21.55], [70.3, 21.78], [70.8, 21.7], [71.05, 21.4], [71.0, 21.05], [70.6, 20.85], [70.2, 20.95], [69.95, 21.2], [69.95, 21.55]]] };
   const CLAIM = { type: "MultiPolygon", coordinates: [JK.coordinates, JUN.coordinates] };
   const NEIGH = ["China", "Afghanistan", "Tajikistan"];
-  const off = document.createElement("canvas"), oc = off.getContext("2d"), svgPath = d3.geoPath(proj);
+  const off = document.createElement("canvas"), oc = off.getContext("2d"), svgPath = MAP ? d3.geoPath(proj) : null;
   let P = null, PT = -1;
   function pkPaths() { // projected outlines, worked out once per frame and reused
     if (PT !== pulseT || !P) {
@@ -369,7 +394,18 @@
     const d = d3.geoDistance([lon, lat], [-c[0], -c[1]]);
     return d < Math.PI / 2 - 0.05 ? proj([lon, lat]) : null;
   }
-  function label(p, text) {
+  const SHORT = { "United States of America": "UNITED STATES", "United Arab Emirates": "UAE", "United Kingdom": "UK", "Saudi Arabia": "SAUDI ARABIA" };
+  const cents = new Map();
+  function centroidOf(n) { if (!cents.has(n)) cents.set(n, d3.geoCentroid(byName.get(n))); return cents.get(n); }
+  function label(p, text, small) {
+    if (small) { // dot + compact tag for extra countries
+      g.font = "600 9.5px 'Chakra Petch', sans-serif";
+      const w = g.measureText(text).width + 10, x = Math.min(W - w - 8, Math.max(8, p[0] + 6)), y = p[1] - 16;
+      g.fillStyle = "#fff"; g.beginPath(); g.arc(p[0], p[1], 2.2, 0, 7); g.fill();
+      g.fillStyle = "rgba(0,0,0,0.6)"; g.fillRect(x, y, w, 14);
+      g.fillStyle = "rgba(255,255,255,0.85)"; g.fillText(text, x + 5, y + 10.5);
+      return;
+    }
     g.font = "600 11px 'Chakra Petch', sans-serif";
     const w = g.measureText(text).width + 14, x = Math.min(W - w - 8, Math.max(8, p[0] + 10)), y = p[1] - 24;
     g.fillStyle = "rgba(0,0,0,0.72)"; g.fillRect(x, y, w, 18);
@@ -535,6 +571,7 @@
   /* ================= caption ================= */
   let typeTimer = null;
   function caption(role, text) {
+    text = text == null ? "" : String(text);
     $("role").className = "role " + role; $("role").textContent = role;
     const el = $("line"); clearInterval(typeTimer);
     if (reduce) { el.textContent = text; return; }
@@ -550,8 +587,9 @@
     setTimeout(() => {
       c.className = "card" + (s.severity === "critical" ? " critical" : "");
       $("cFlag").textContent = s.flag || "🌐";
-      $("cCountry").textContent = s.label || s.country || "World";
-      const tag = $("cTag"); tag.className = "tag " + (SEV[s.severity] ? s.severity : "info"); tag.textContent = s.category && s.category !== "World" ? s.category : sev(s.severity).name;
+      const more = (s.countries || []).filter((c) => c !== s.country).length;
+      $("cCountry").textContent = (s.label || s.country || "World") + (more ? "  +" + more : "");
+      const tag = $("cTag"); tag.className = "tag " + (SEV[s.severity] ? s.severity : "info"); tag.textContent = (s.type && TYPE_NAME[s.type] ? TYPE_NAME[s.type] + " · " : "") + (s.category && s.category !== "World" ? s.category : sev(s.severity).name);
       $("cHead").textContent = s.headline;
       $("cSum").textContent = s.summary && s.summary !== s.headline ? s.summary : "";
       $("coords").textContent = `LAT ${Math.abs(s.lat).toFixed(2)}°${s.lat >= 0 ? "N" : "S"}  LON ${Math.abs(s.lon).toFixed(2)}°${s.lon >= 0 ? "E" : "W"}`;
@@ -593,7 +631,14 @@
   let manualPick = false, caughtSaid = false;
   const nextUnheard = (from) => { for (let k = 0; k < stories.length; k++) { const i = (from + k) % stories.length; if (!isHeard(stories[i])) return i; } return -1; };
 
-  async function run(fromLine = 0) {
+  async function run(fromLine = 0) { // if anything goes wrong on one report, skip it and keep briefing
+    try { await runCore(fromLine); }
+    catch (e) {
+      console.warn("report skipped:", e);
+      if (playing) { idx = stories.length ? (idx + 1) % stories.length : 0; setTimeout(() => { if (playing) run(0); }, 800); }
+    }
+  }
+  async function runCore(fromLine = 0) {
     const my = ++runId;
     const alive = () => playing && my === runId;
     while (alive()) {
@@ -618,7 +663,8 @@
       }
       caughtSaid = false;
       const s = stories[idx];
-      let lines = s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }];
+      let lines = (s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }]).filter((l) => l && l.text);
+      if (!lines.length) lines = [{ role: "OPERATOR", text: s.headline || "Report" }];
       if (!dialogue) { // one presenter: headline then the facts, no questions
         const facts = s.summary && s.summary !== s.headline ? s.summary : (lines.find((l) => l.role === "ANALYST") || {}).text;
         lines = [{ role: "OPERATOR", text: lines[0].text }].concat(facts && facts !== lines[0].text ? [{ role: "OPERATOR", text: facts }] : []);
@@ -676,6 +722,52 @@
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible" && playing) keepAwake(); });
 
   /* ================= news loading ================= */
+  /* report type: "Video:", "Live updates:", "(Video)"… is a format label, not news. It is shown as a tag and never read out. */
+  const TYPES = [
+    ["VIDEO", "video|videos|watch|vidéo|بالفيديو|فيديو|ویڈیو|वीडियो|视频|видео"],
+    ["LIVE", "live updates?|live blog|live|as it happened|[\\w ]{0,30}\\blatest|mises à jour en direct|en direct|direct|تحديثات حية|مباشر|لائیو اپ ڈیٹس|لائیو|लाइव अपडेट्स?|लाइव|实时更新|直播|постоянные обновления|прямая трансляция|онлайн"],
+    ["PHOTOS", "photos?|in pictures|pictures|gallery|photo essay|en images|بالصور|تصاویر|तस्वीरें|图集|фото"],
+    ["OPINION", "opinion|op-ed|comment|editorial|view|رأي|رائے|राय|观点|мнение"],
+    ["ANALYSIS", "analysis|news analysis|analyse|تحليل|تجزیہ|विश्लेषण|分析|анализ"],
+    ["EXPLAINER", "explainer|explained|fact ?check"],
+    ["PODCAST", "podcast|audio"], ["REVIEW", "review"], ["INTERVIEW", "interview|q&a"],
+  ].map(([t, w]) => [t, new RegExp("^\\s*(?:" + w + ")\\s*(?:[:：|]|\\s[–—-])\\s*", "iu"),
+                         new RegExp("\\s*(?:[(\\[（](?:" + w + ")[)\\]）]|[|–—-]\\s*(?:" + w + "))\\s*[.!。۔]?\\s*$", "iu")]);
+  const TYPE_NAME = { VIDEO: "▶ VIDEO", LIVE: "● LIVE", PHOTOS: "PHOTOS", OPINION: "OPINION", ANALYSIS: "ANALYSIS", EXPLAINER: "EXPLAINER", PODCAST: "PODCAST", REVIEW: "REVIEW", INTERVIEW: "INTERVIEW" };
+  function newsType(text) {
+    let t = String(text || "").trim(), kind = null;
+    for (let n = 0; n < 2; n++) {
+      let hit = false;
+      for (const [name, pre, suf] of TYPES) {
+        for (const rx of [pre, suf]) {
+          const c = t.replace(rx, "").trim();
+          if (c !== t && c.length >= 12) { t = c; kind = kind || name; hit = true; break; }
+        }
+        if (hit) break;
+      }
+      if (!hit) break;
+    }
+    if (kind) t = t.charAt(0).toUpperCase() + t.slice(1);
+    return [t, kind];
+  }
+  const PLACE_RX = [["\\b(uae|emirati|dubai|sharjah|abu dhabi|ajman|ras al khaimah|fujairah|emirates|flydubai|etihad)\\b", "United Arab Emirates", "UNITED ARAB EMIRATES"], ["\\b(pakistan\\w*|karachi|lahore|islamabad|peshawar|khyber|balochistan|quetta|rawalpindi|swabi)\\b", "Pakistan", "PAKISTAN"], ["\\b(iran\\w*|tehran|khamenei|pezeshkian|irgc|araghchi)\\b", "Iran", "IRAN"], ["\\b(israel\\w*|netanyahu|tel aviv|jerusalem|idf)\\b", "Israel", "ISRAEL"], ["\\b(gaza|west bank|palestin\\w*|hamas)\\b", "Palestine", "PALESTINE"], ["\\b(lebanon|lebanese|hezbollah|beirut)\\b", "Lebanon", "LEBANON"], ["\\b(saudi\\w*|riyadh|jeddah|aramco|mbs)\\b", "Saudi Arabia", "SAUDI ARABIA"], ["\\b(yemen\\w*|houthi\\w*|sanaa|aden)\\b", "Yemen", "YEMEN"], ["\\b(qatar\\w*|doha)\\b", "Qatar", "QATAR"], ["\\b(oman\\w*|muscat)\\b", "Oman", "OMAN"], ["\\b(kuwait\\w*)\\b", "Kuwait", "KUWAIT"], ["\\b(bahrain\\w*|manama)\\b", "Bahrain", "BAHRAIN"], ["\\b(iraq\\w*|baghdad|basra|erbil)\\b", "Iraq", "IRAQ"], ["\\b(syria\\w*|damascus)\\b", "Syria", "SYRIA"], ["\\b(egypt\\w*|cairo|suez)\\b", "Egypt", "EGYPT"], ["\\b(turkey|turkish|türkiye|ankara|istanbul|erdogan)\\b", "Turkey", "TURKEY"], ["\\b(afghan\\w*|kabul|taliban)\\b", "Afghanistan", "AFGHANISTAN"], ["\\b(india\\w*|delhi|mumbai|modi)\\b", "India", "INDIA"], ["\\b(ukrain\\w*|kyiv|zelensky\\w*)\\b", "Ukraine", "UKRAINE"], ["\\b(russia\\w*|moscow|kremlin|putin)\\b", "Russia", "RUSSIA"], ["\\b(china|chinese|beijing|xi jinping|shanghai|guangzhou)\\b", "China", "CHINA"], ["\\b(taiwan\\w*|taipei)\\b", "Taiwan", "TAIWAN"], ["\\b(north korea\\w*|pyongyang|kim jong)\\b", "North Korea", "NORTH KOREA"], ["\\b(south korea\\w*|seoul)\\b", "South Korea", "SOUTH KOREA"], ["\\b(japan\\w*|tokyo)\\b", "Japan", "JAPAN"], ["\\b(uzbek\\w*|tashkent)\\b", "Uzbekistan", "UZBEKISTAN"], ["\\b(tajik\\w*|dushanbe)\\b", "Tajikistan", "TAJIKISTAN"], ["\\b(georgia's|tbilisi|georgian)\\b", "Georgia", "GEORGIA"], ["\\b(nigeria\\w*|lagos|abuja)\\b", "Nigeria", "NIGERIA"], ["\\b(kenya\\w*|nairobi)\\b", "Kenya", "KENYA"], ["\\b(sudan\\w*|khartoum)\\b", "Sudan", "SUDAN"], ["\\b(ethiopia\\w*|addis ababa)\\b", "Ethiopia", "ETHIOPIA"], ["\\b(somalia\\w*|mogadishu)\\b", "Somalia", "SOMALIA"], ["\\b(south africa\\w*|johannesburg|cape town)\\b", "South Africa", "SOUTH AFRICA"], ["\\b(uk|britain|british|london|starmer)\\b", "United Kingdom", "UNITED KINGDOM"], ["\\b(france|french|paris|macron)\\b", "France", "FRANCE"], ["\\b(germany|german|berlin)\\b", "Germany", "GERMANY"], ["\\b(serbia\\w*|belgrade)\\b", "Serbia", "SERBIA"], ["\\b(canada|canadian|ottawa|toronto|carney)\\b", "Canada", "CANADA"], ["\\b(jordan\\w*|amman)\\b", "Jordan", "JORDAN"], ["\\b(libya\\w*|tripoli|benghazi)\\b", "Libya", "LIBYA"], ["\\b(morocc\\w*|rabat)\\b", "Morocco", "MOROCCO"], ["\\b(algeria\\w*|algiers)\\b", "Algeria", "ALGERIA"], ["\\b(bangladesh\\w*|dhaka)\\b", "Bangladesh", "BANGLADESH"], ["\\b(sri lanka\\w*|colombo)\\b", "Sri Lanka", "SRI LANKA"], ["\\b(nepal\\w*|kathmandu)\\b", "Nepal", "NEPAL"], ["\\b(azerbaijan\\w*|baku)\\b", "Azerbaijan", "AZERBAIJAN"], ["\\b(armenia\\w*|yerevan)\\b", "Armenia", "ARMENIA"], ["\\b(kazakh\\w*|astana|almaty)\\b", "Kazakhstan", "KAZAKHSTAN"], ["\\b(indonesia\\w*|jakarta)\\b", "Indonesia", "INDONESIA"], ["\\b(malaysia\\w*|kuala lumpur)\\b", "Malaysia", "MALAYSIA"], ["\\b(thailand|thai|bangkok)\\b", "Thailand", "THAILAND"], ["\\b(vietnam\\w*|hanoi)\\b", "Vietnam", "VIETNAM"], ["\\b(philippin\\w*|filipino|manila)\\b", "Philippines", "PHILIPPINES"], ["\\b(australia\\w*|canberra|sydney)\\b", "Australia", "AUSTRALIA"], ["\\b(italy|italian|rome|meloni)\\b", "Italy", "ITALY"], ["\\b(spain|spanish|madrid)\\b", "Spain", "SPAIN"], ["\\b(poland|polish|warsaw)\\b", "Poland", "POLAND"], ["\\b(brazil\\w*|brasilia|lula)\\b", "Brazil", "BRAZIL"], ["\\b(mexic\\w*)\\b", "Mexico", "MEXICO"], ["\\b(venezuela\\w*|caracas)\\b", "Venezuela", "VENEZUELA"], ["\\b(u\\.s\\.|usa|america\\w*|washington|pentagon|white house|trump|congress)\\b", "United States of America", "UNITED STATES"]].map(([p, c, l]) => [new RegExp(p, "iu"), c, l]);
+  function countriesFor(text) { // every country a report mentions, in order of appearance
+    const found = [];
+    for (const [rx, c] of PLACE_RX) { const m = rx.exec(text); if (m && !found.some((f) => f[1] === c)) found.push([m.index, c]); }
+    const us = /\bU\.S\.|\bUS\b|\bUSA\b/.exec(text); if (us && !found.some((f) => f[1] === "United States of America")) found.push([us.index, "United States of America"]);
+    return found.sort((a, b) => a[0] - b[0]).map((f) => f[1]);
+  }
+  function cleanStory(s) { // make every report safe to show and read, whatever the news file contains
+    const [h, kind] = newsType(s.headline);
+    s.headline = h; s.type = TYPE_NAME[s.type] ? s.type : kind;
+    s.lat = Math.max(-90, Math.min(90, +s.lat || 0)); s.lon = ((((+s.lon || 0) + 180) % 360) + 360) % 360 - 180;
+    s.summary = typeof s.summary === "string" && s.summary.trim() ? newsType(s.summary)[0] : s.headline;
+    s.lines = Array.isArray(s.lines) ? s.lines.filter((l) => l && typeof l.text === "string" && l.text.trim()) : [];
+    s.lines.forEach((l) => { l.text = newsType(l.text)[0]; });
+    const named = Array.isArray(s.countries) && s.countries.length ? s.countries.filter((c) => typeof c === "string") : countriesFor(s.headline + " . " + s.summary);
+    s.countries = [s.country, ...named].filter((c, i, a) => c && a.indexOf(c) === i);
+    return s;
+  }
   async function loadNews(announce) {
     try {
       let data = null;
@@ -688,7 +780,7 @@
       if (data.stories && data.stories.length) {
         const wasEmpty = !allStories.length;
         news = data; allStories = data.stories.filter((s) => s && s.headline);
-        allStories.forEach((s) => { s.lat = +s.lat || 0; s.lon = +s.lon || 0; });
+        allStories.forEach(cleanStory);
         applyCat(true);
         renderInfo();
         if (announce && fresh && !wasEmpty && playing) {
@@ -696,6 +788,7 @@
           await say(phrase("fresh"), "OPERATOR");
         }
       }
+      else if (!stories.length) $("startMeta").textContent = "No reports right now. New ones arrive within the hour.";
       if (announce && here) await loadLocal(true);
       return fresh;
     } catch {
@@ -813,7 +906,7 @@
     for (const c of Object.values(localData.cities)) { const d = km(here, c); if (d < bd) { bd = d; best = c; } }
     if (best && bd < 400) {
       localCity = best;
-      localStories = best.stories.map((s) => ({ ...s, zoom: 3, lat: +s.lat, lon: +s.lon }));
+      localStories = best.stories.filter((s) => s && s.headline).map((s) => cleanStory({ ...s, zoom: 3 }));
     }
   }
   setInterval(() => { if (here && Date.now() - lastWx > 30 * 60 * 1000) refreshLocal(); }, 5 * 60 * 1000);
@@ -997,7 +1090,8 @@ How to answer:
   let asking = false, geminiWarned = false;
   async function ask(q, fromVoice) {
     q = (q || "").trim(); if (!q || asking) return;
-    asking = true; $("q").value = ""; $("q").blur();
+    asking = true; setTimeout(() => { asking = false; }, 90000); // never lock the question box for good
+    $("q").value = ""; $("q").blur();
     hush();
     addMsg("me", q);
     const pending = addMsg("ai", "Thinking…");
@@ -1012,7 +1106,8 @@ How to answer:
     if (!answer) {
       try { const r = await freeAI(q, waitNote); answer = r.text; } catch (e) { console.warn(e); }
     }
-    if (!answer) answer = localAnswer(q);
+    if (!answer) { try { answer = localAnswer(q); } catch (e) { console.warn(e); } }
+    if (!answer) answer = "Sorry, I couldn't get an answer right now. Please try again in a moment.";
     pending.el.remove();
     addMsg("ai", answer, sources);
     turns.push({ role: "user", text: q }, { role: "model", text: answer });
