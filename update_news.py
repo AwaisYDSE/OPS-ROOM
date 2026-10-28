@@ -138,10 +138,18 @@ def parse_feed(data, weight):
     return items
 
 
-def norm_key(title):
-    words = re.findall(r"[a-z0-9]+", title.lower())
-    stop = {"the", "a", "an", "to", "of", "in", "on", "for", "and", "as", "at", "with", "after", "is", "says"}
-    return " ".join([w for w in words if w not in stop][:6])
+STOP = {"the", "a", "an", "to", "of", "in", "on", "for", "and", "as", "at", "with", "after", "is", "says", "by",
+        "from", "over", "amid", "its", "new", "news", "other", "live", "updates", "during", "said"}
+
+
+def words_of(title):
+    return {w for w in re.findall(r"[a-z0-9]+", title.lower()) if w not in STOP and len(w) > 2}
+
+
+def overlap(a, b):
+    if not a or not b:
+        return 0
+    return len(a & b) / min(len(a), len(b))
 
 
 def place_for(text):
@@ -151,7 +159,15 @@ def place_for(text):
     return None
 
 
+SOFT = re.compile(r"\b(honou?rs?\w*|awards?\w*|celebrat\w*|festival|wins?|launch\w*)\b", re.I)
+MKT_STRONG = re.compile(r"\b(oil prices?|brent|wti|crude|gold price|stocks?|shares|forecast|markets?)\b", re.I)
+
+
 def severity_for(text):
+    if MKT_STRONG.search(text):
+        return "markets"
+    if SOFT.search(text):
+        return "info"
     if CRITICAL.search(text):
         return "critical"
     if MARKETS.search(text):
@@ -192,7 +208,7 @@ def heuristic(candidates, n=14):
         if not pl:
             continue
         country = pl[0]
-        if seen_place.get(country, 0) >= 3:
+        if seen_place.get(country, 0) >= 2:
             continue
         seen_place[country] = seen_place.get(country, 0) + 1
         sev = severity_for(text)
@@ -279,21 +295,24 @@ def main():
         return 0
 
     now = datetime.now(timezone.utc)
-    by_key = {}
+    items = []
     for it in all_items:
-        k = norm_key(it["title"])
-        if k in by_key:
-            by_key[k]["weight"] += 1  # reported by several feeds = more important
+        ws = words_of(it["title"])
+        dup = next((x for x in items if overlap(ws, x["_w"]) >= 0.45), None)
+        if dup:
+            dup["weight"] += 1  # reported by several feeds = more important
+            if not dup["desc"] and it["desc"]:
+                dup["desc"] = it["desc"]
         else:
-            by_key[k] = it
-    items = list(by_key.values())
+            it["_w"] = ws
+            items.append(it)
 
     def score(it):
         text = it["title"] + " " + it["desc"]
         age_h = (now - it["when"]).total_seconds() / 3600 if it["when"] else 12
         if age_h > 36:
             return -99
-        s = it["weight"] * 2 - age_h * 0.25
+        s = it["weight"] * 2 - age_h * 0.25 + (2 if it["desc"] else 0)
         sev = severity_for(text)
         s += {"critical": 6, "high": 4, "markets": 3, "watch": 2, "info": 0}[sev]
         if re.search(r"\b(uae|dubai|sharjah|pakistan|hormuz|oil|gold)\b", text, re.I):
