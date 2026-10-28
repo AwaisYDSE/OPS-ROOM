@@ -180,6 +180,30 @@ PLACES = [
     (r"\b(uk|britain|british|london|starmer)\b", ("United Kingdom", "UNITED KINGDOM", 52.5, -1.5, "🇬🇧")),
     (r"\b(france|french|paris|macron)\b", ("France", "FRANCE", 46.6, 2.2, "🇫🇷")),
     (r"\b(germany|german|berlin)\b", ("Germany", "GERMANY", 51.2, 10.4, "🇩🇪")),
+    (r"\b(serbia\w*|belgrade)\b", ("Serbia", "SERBIA", 44.0, 20.9, "🇷🇸")),
+    (r"\b(canada|canadian|ottawa|toronto|carney)\b", ("Canada", "CANADA", 56.1, -106.3, "🇨🇦")),
+    (r"\b(jordan\w*|amman)\b", ("Jordan", "JORDAN", 31.0, 36.5, "🇯🇴")),
+    (r"\b(libya\w*|tripoli|benghazi)\b", ("Libya", "LIBYA", 27.0, 17.0, "🇱🇾")),
+    (r"\b(morocc\w*|rabat)\b", ("Morocco", "MOROCCO", 31.8, -7.1, "🇲🇦")),
+    (r"\b(algeria\w*|algiers)\b", ("Algeria", "ALGERIA", 28.0, 1.7, "🇩🇿")),
+    (r"\b(bangladesh\w*|dhaka)\b", ("Bangladesh", "BANGLADESH", 23.7, 90.4, "🇧🇩")),
+    (r"\b(sri lanka\w*|colombo)\b", ("Sri Lanka", "SRI LANKA", 7.9, 80.8, "🇱🇰")),
+    (r"\b(nepal\w*|kathmandu)\b", ("Nepal", "NEPAL", 28.4, 84.1, "🇳🇵")),
+    (r"\b(azerbaijan\w*|baku)\b", ("Azerbaijan", "AZERBAIJAN", 40.1, 47.6, "🇦🇿")),
+    (r"\b(armenia\w*|yerevan)\b", ("Armenia", "ARMENIA", 40.1, 45.0, "🇦🇲")),
+    (r"\b(kazakh\w*|astana|almaty)\b", ("Kazakhstan", "KAZAKHSTAN", 48.0, 66.9, "🇰🇿")),
+    (r"\b(indonesia\w*|jakarta)\b", ("Indonesia", "INDONESIA", -0.8, 113.9, "🇮🇩")),
+    (r"\b(malaysia\w*|kuala lumpur)\b", ("Malaysia", "MALAYSIA", 4.2, 101.9, "🇲🇾")),
+    (r"\b(thailand|thai|bangkok)\b", ("Thailand", "THAILAND", 15.9, 100.9, "🇹🇭")),
+    (r"\b(vietnam\w*|hanoi)\b", ("Vietnam", "VIETNAM", 14.1, 108.3, "🇻🇳")),
+    (r"\b(philippin\w*|filipino|manila)\b", ("Philippines", "PHILIPPINES", 12.9, 121.8, "🇵🇭")),
+    (r"\b(australia\w*|canberra|sydney)\b", ("Australia", "AUSTRALIA", -25.3, 133.8, "🇦🇺")),
+    (r"\b(italy|italian|rome|meloni)\b", ("Italy", "ITALY", 41.9, 12.6, "🇮🇹")),
+    (r"\b(spain|spanish|madrid)\b", ("Spain", "SPAIN", 40.5, -3.7, "🇪🇸")),
+    (r"\b(poland|polish|warsaw)\b", ("Poland", "POLAND", 51.9, 19.1, "🇵🇱")),
+    (r"\b(brazil\w*|brasilia|lula)\b", ("Brazil", "BRAZIL", -14.2, -51.9, "🇧🇷")),
+    (r"\b(mexic\w*)\b", ("Mexico", "MEXICO", 23.6, -102.5, "🇲🇽")),
+    (r"\b(venezuela\w*|caracas)\b", ("Venezuela", "VENEZUELA", 6.4, -66.6, "🇻🇪")),
     (r"(?-i:\bUS\b)|\b(u\.s\.|usa|america\w*|washington|pentagon|white house|trump|congress)\b",
      ("United States of America", "UNITED STATES", 39.0, -98.0, "🇺🇸")),
 ]
@@ -248,11 +272,32 @@ def overlap(a, b):
     return len(a & b) / min(len(a), len(b))
 
 
-def place_for(text):
+CUE = re.compile(r"\b(in|at|from|over|near|outside|inside|across|into|off|targets?|targeting|targeted|hits?|against|strikes? on|attacks? on)\s+(the\s+)?$", re.I)
+AWAY = re.compile(r"^\W*(embassy|consulate|mission|envoy|ambassador|diplomats?|nationals?|citizens?|tourists?)\b", re.I)
+
+
+def _best(text):
+    """The place the story happens: a place after 'in/at/from…' wins, a mention like
+    'Israeli embassy' (somewhere else) loses, otherwise the first place in the text."""
+    best, best_score = None, -1e9
     for rx, v in PLACES:
-        if rx.search(text):
-            return v
-    return None
+        for m in rx.finditer(text):
+            sc = 50 - 20 * m.start() / max(1, len(text))
+            if CUE.search(text[max(0, m.start() - 12):m.start()]):
+                sc += 100
+            if AWAY.search(text[m.end():m.end() + 14]):
+                sc -= 200
+            if v[0] in ("United Arab Emirates", "Pakistan"):
+                sc += 5  # home markets win a tie
+            if sc > best_score:
+                best, best_score = v, sc
+    return best
+
+
+def place_for(text, title=None):
+    if title:  # the headline decides; the description only helps when the headline names no place
+        return _best(title) or _best(text)
+    return _best(text)
 
 
 SOFT = re.compile(r"\b(honou?rs?\w*|awards?\w*|celebrat\w*|festival|wins?|launch\w*)\b", re.I)
@@ -300,7 +345,7 @@ def heuristic(candidates, n=18):
     stories, seen_place = [], {}
     for i, c in enumerate(candidates):
         text = c["title"] + " " + c["desc"]
-        pl = place_for(text)
+        pl = place_for(text, c["title"])
         if not pl:
             continue
         country = pl[0]
