@@ -1,6 +1,6 @@
 /* Ops Room — AI news streamer. Built by Awais Amin.
-   Free: news.json is refreshed hourly by GitHub Actions,
-   voice uses the phone's built-in speech, answers use the user's free Gemini key. */
+   All free: news.json is refreshed hourly by GitHub Actions, the voice is Google's free
+   speech (phone voice as offline fallback), answers come from free AI (Gemini key optional). */
 (() => {
   "use strict";
   const $ = (id) => document.getElementById(id);
@@ -17,6 +17,28 @@
   };
   const sev = (s) => SEV[s] || SEV.info;
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  /* ================= languages ================= */
+  const LANGS = {
+    en: { name: "English", tts: "en", sr: "en-US" },
+    ur: { name: "اردو · Urdu", tts: "ur", sr: "ur-PK", rtl: true, ai: "Urdu (Urdu script)" },
+    ar: { name: "العربية · Arabic", tts: "ar", sr: "ar-AE", rtl: true, ai: "Arabic" },
+    hi: { name: "हिन्दी · Hindi", tts: "hi", sr: "hi-IN", ai: "Hindi" },
+    zh: { name: "中文 · Chinese", tts: "zh-CN", sr: "zh-CN", ai: "Simplified Chinese" },
+    ru: { name: "Русский · Russian", tts: "ru", sr: "ru-RU", ai: "Russian" },
+    fr: { name: "Français · French", tts: "fr", sr: "fr-FR", ai: "French" },
+  };
+  let lang = store.get("lang", "en"); if (!LANGS[lang]) lang = "en";
+  const PHRASE = {
+    hello: { en: "{g}, sir. Operations room is live. {n} reports on the board.", ur: "السلام علیکم سر۔ آپریشنز روم لائیو ہے۔ بورڈ پر {n} رپورٹس ہیں۔", ar: "مرحباً سيدي. غرفة العمليات على الهواء. لدينا {n} تقارير.", hi: "नमस्ते सर। ऑपरेशंस रूम लाइव है। बोर्ड पर {n} रिपोर्ट्स हैं।", zh: "您好。作战室已上线，共有{n}条报告。", ru: "Здравствуйте. Оперативный штаб в эфире. На доске {n} сообщений.", fr: "Bonjour monsieur. La salle des opérations est en direct. {n} rapports à l'écran." },
+    end: { en: "That's the full briefing, sir. Monitoring all sectors.", ur: "یہ تھی مکمل بریفنگ، سر۔ تمام محاذوں پر نظر ہے۔", ar: "هذا هو الموجز الكامل يا سيدي. نراقب جميع القطاعات.", hi: "यह थी पूरी ब्रीफिंग, सर। सभी क्षेत्रों पर नज़र है।", zh: "以上是完整简报。正在监控所有区域。", ru: "Это была полная сводка. Следим за всеми секторами.", fr: "C'était le briefing complet. Nous surveillons tous les secteurs." },
+    fresh: { en: "New reports coming in.", ur: "نئی رپورٹس آ رہی ہیں۔", ar: "تقارير جديدة تصل الآن.", hi: "नई रिपोर्ट्स आ रही हैं।", zh: "新的报告正在传入。", ru: "Поступают новые сообщения.", fr: "De nouveaux rapports arrivent." },
+  };
+  const phrase = (k, vars = {}) => (PHRASE[k][lang] || PHRASE[k].en).replace(/\{(\w)\}/g, (_, v) => vars[v] ?? "");
+  function applyLang() {
+    $("app").classList.toggle("nolatin", lang !== "en" && lang !== "fr" && lang !== "ru");
+    $("app").classList.toggle("rtl", !!LANGS[lang].rtl);
+  }
 
   /* ================= state ================= */
   let news = { updated: null, stories: [] };
@@ -224,27 +246,83 @@
     voices = { OPERATOR: op, COMMANDER: cmd, ANALYST: ana };
   }
   if (synth) { pickVoices(); synth.onvoiceschanged = pickVoices; }
-  const PITCH = { OPERATOR: 1.02, COMMANDER: 0.9, ANALYST: 1.0 };
-
   let rate = parseFloat(store.get("rate", "1")) || 1;
+  let engine = store.get("voice", "google"); // "google" = clear online voice, "device" = phone's built-in voice
 
-  /** speak text; resolves when finished (or by timeout fallback, since iOS sometimes drops onend). */
-  function say(text, role = "ANALYST") {
+  /* Phone's built-in voice (offline fallback) */
+  function sayDevice(text) {
     return new Promise((resolve) => {
-      const est = 1500 + (text.length * 68) / rate;
+      const est = 1500 + (text.length * 70) / rate;
       let done = false; const fin = () => { if (!done) { done = true; clearTimeout(to); resolve(); } };
       const to = setTimeout(fin, est + 2500);
       if (!synth) return;
       try {
         const u = new SpeechSynthesisUtterance(text.replace(/—/g, ", "));
-        if (voices[role]) { u.voice = voices[role]; u.lang = voices[role].lang; } else u.lang = "en-US";
-        u.rate = rate; u.pitch = PITCH[role] || 1;
+        const L = LANGS[lang].sr;
+        const v = lang === "en" ? voices.OPERATOR : synth.getVoices().find((x) => x.lang.replace("_", "-").toLowerCase().startsWith(L.slice(0, 2).toLowerCase()));
+        if (v) u.voice = v;
+        u.lang = v ? v.lang : L; u.rate = rate; u.pitch = 1;
         u.onend = fin; u.onerror = fin;
         synth.speak(u);
       } catch { /* timer still advances */ }
     });
   }
-  function hush() { try { synth && synth.cancel(); } catch {} }
+
+  /* Clear natural voice: Google's free speech, one audio element (iOS allows it after the first tap) */
+  const player = new Audio(); player.preload = "auto"; player.setAttribute("playsinline", "");
+  const TLD = { OPERATOR: "com", COMMANDER: "co.uk", ANALYST: "com.au" }; // three English accents for the three roles
+  let sayGen = 0, gFails = 0, curStop = null;
+  function chunks(text) {
+    const out = [];
+    const parts = text.replace(/\s+/g, " ").trim().split(/(?<=[.!?؟۔。！？])\s*/);
+    for (let p of parts) {
+      while (p.length > 180) {
+        let cut = p.lastIndexOf(",", 180); if (cut < 60) cut = p.lastIndexOf("،", 180);
+        if (cut < 60) cut = p.lastIndexOf(" ", 180); if (cut < 60) cut = 180;
+        out.push(p.slice(0, cut + 1).trim()); p = p.slice(cut + 1);
+      }
+      if (p.trim()) out.push(p.trim());
+    }
+    return out;
+  }
+  function ttsUrl(q, role) {
+    const host = lang === "en" ? "translate.google." + (TLD[role] || "com") : "translate.google.com";
+    return `https://${host}/translate_tts?ie=UTF-8&client=tw-ob&tl=${LANGS[lang].tts}&q=${encodeURIComponent(q)}`;
+  }
+  function playUrl(url, len) {
+    return new Promise((res) => {
+      let done = false;
+      const fin = (ok) => { if (done) return; done = true; clearTimeout(t); player.onended = player.onerror = null; curStop = null; res(ok); };
+      const t = setTimeout(() => fin(false), 5000 + len * 110 / rate);
+      curStop = () => fin(true);
+      player.onended = () => fin(true); player.onerror = () => fin(false);
+      player.src = url; player.playbackRate = rate; player.defaultPlaybackRate = rate;
+      const p = player.play(); if (p && p.catch) p.catch(() => fin(false));
+    });
+  }
+  /** speak text in the current language; resolves when finished */
+  async function say(text, role = "ANALYST") {
+    if (!text) return;
+    const gen = sayGen;
+    if (engine === "google" && gFails < 3) {
+      const cs = chunks(text);
+      for (let i = 0; i < cs.length; i++) {
+        if (gen !== sayGen) return;
+        const ok = await playUrl(ttsUrl(cs[i], role), cs[i].length);
+        if (gen !== sayGen) return;
+        if (!ok) { gFails++; if (gFails >= 3) toast("Online voice unavailable, using phone voice"); return sayDevice(cs.slice(i).join(" ")); }
+        gFails = 0;
+      }
+      return;
+    }
+    return sayDevice(text);
+  }
+  function hush() {
+    sayGen++;
+    try { player.pause(); } catch {}
+    if (curStop) curStop();
+    try { synth && synth.cancel(); } catch {}
+  }
 
   /* ================= caption ================= */
   let typeTimer = null;
@@ -271,7 +349,14 @@
       $("cTime").textContent = s.time ? ago(s.time) : "";
       c.classList.add("show");
     }, 200);
+    mediaInfo(s);
     renderProgress();
+  }
+  function mediaInfo(s) {
+    if (!("mediaSession" in navigator)) return;
+    try {
+      navigator.mediaSession.metadata = new MediaMetadata({ title: s.headline, artist: (s.label || s.country || "World") + " · Ops Room", album: "Built by Awais Amin", artwork: [{ src: "icon-512.png", sizes: "512x512", type: "image/png" }] });
+    } catch {}
   }
   function renderProgress() {
     $("progress").innerHTML = stories.map((_, i) => `<i class="${i < idx ? "done" : i === idx ? "now" : ""}"></i>`).join("");
@@ -306,8 +391,8 @@
       await sleep(700);
       if (!alive()) return;
       if (idx >= stories.length - 1) {
-        caption("OPERATOR", "That's the full briefing, sir. Monitoring all sectors.");
-        await say("That's the full briefing, sir. Monitoring all sectors.", "OPERATOR");
+        caption("OPERATOR", phrase("end"));
+        await say(phrase("end"), "OPERATOR");
         if (!alive()) return;
         await loadNews(true);
         idx = 0;
@@ -338,8 +423,12 @@
   /* ================= news loading ================= */
   async function loadNews(announce) {
     try {
-      const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
-      const data = await r.json();
+      let data = null;
+      if (lang !== "en") {
+        try { const rl = await fetch(`news-${lang}.json?t=` + Date.now(), { cache: "no-store" }); if (rl.ok) data = await rl.json(); } catch {}
+        if (!data && !loadNews._warned) { loadNews._warned = true; toast(LANGS[lang].name + " reports arrive with the next hourly update. Showing English for now.", 4500); }
+      }
+      if (!data) { const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" }); data = await r.json(); }
       const fresh = !news.updated || data.updated !== news.updated;
       if (data.stories && data.stories.length) {
         const wasEmpty = !stories.length;
@@ -348,8 +437,8 @@
         if (idx >= stories.length) idx = 0;
         renderList(); renderProgress(); renderInfo();
         if (announce && fresh && !wasEmpty && playing) {
-          caption("OPERATOR", "New reports coming in.");
-          await say("New reports coming in.", "OPERATOR");
+          caption("OPERATOR", phrase("fresh"));
+          await say(phrase("fresh"), "OPERATOR");
         }
       }
       return fresh;
@@ -376,6 +465,7 @@
       b.querySelector(".sv").style.background = sev(s.severity).col;
       b.querySelector(".n").textContent = (s.label || s.country || "World") + (s.time ? " · " + ago(s.time) : "");
       b.querySelector(".h").textContent = s.headline;
+      b.querySelector(".h").dir = "auto";
       b.onclick = () => { closeSheets(); if (!started) begin(false); jump(i); if (!playing) play(); };
       $("listBody").appendChild(b);
     });
@@ -396,7 +486,7 @@
   document.querySelectorAll("[data-close]").forEach((b) => (b.onclick = () => closeSheets()));
   $("scrim").onclick = () => closeSheets();
 
-  /* ================= Ask: Gemini (free key) ================= */
+  /* ================= Ask the analyst ================= */
   const MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"];
   let turns = [];
   const chips = [
@@ -412,20 +502,28 @@
     return stories.map((s, i) => `${i + 1}. [${s.label || s.country || "World"}] ${s.headline} — ${s.summary || ""} (Source: ${s.source || "n/a"})`).join("\n");
   }
 
-  async function gemini(question, key) {
-    const sys = `You are the senior ANALYST in a live news "Operations Room" app, briefing Awais, a businessman in Sharjah, UAE
-(auto spare parts trade; from Pakistan; exports to Africa, Iraq, Middle East, Georgia, Central Asia).
-Today is ${new Date().toDateString()}. Reports currently on the board:
+  function rules() {
+    const L = LANGS[lang].ai || "English";
+    return `You are the ANALYST in "Ops Room", a live news app, talking to Awais, a businessman in Sharjah, UAE
+(auto spare parts trade; from Pakistan; exports to Africa, Iraq, the Middle East, Georgia and Central Asia).
+Today is ${new Date().toDateString()}. Latest reports on the board:
 ${newsContext()}
 
-Answer the question using the reports above and Google Search for anything newer or missing.
-Speak like a calm TV analyst: plain English, 2 to 5 short sentences, no markdown, no bullet points, no emojis.
-Write numbers so they read well aloud. If something is unconfirmed, say so. If you don't know, say so.`;
-    const contents = turns.concat([{ role: "user", parts: [{ text: question }] }]);
+How to answer:
+- Answer ONLY the exact question. The first sentence must be the direct answer.
+- At most 3 short sentences. Do not list other news that was not asked about.
+- Use the reports above; if they don't cover it, say so in one short clause, then give what you know and mark anything uncertain.
+- Plain spoken text: no markdown, no bullet points, no emojis. Write numbers so they read well aloud.
+- Reply in ${L}.`;
+  }
+
+  async function gemini(question, key) {
+    const contents = turns.map((t) => ({ role: t.role === "user" ? "user" : "model", parts: [{ text: t.text }] }))
+      .concat([{ role: "user", parts: [{ text: question }] }]);
     let lastErr = null;
     for (const model of MODELS) {
       for (const withSearch of [true, false]) {
-        const body = { systemInstruction: { parts: [{ text: sys }] }, contents, generationConfig: { temperature: 0.5, maxOutputTokens: 700 } };
+        const body = { systemInstruction: { parts: [{ text: rules() }] }, contents, generationConfig: { temperature: 0.3, maxOutputTokens: 600 } };
         if (withSearch) body.tools = [{ google_search: {} }];
         try {
           const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${encodeURIComponent(key)}`, {
@@ -435,19 +533,46 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
           if (!r.ok) {
             lastErr = new Error((data.error && data.error.message) || "HTTP " + r.status);
             if (r.status === 400 && /api key/i.test(lastErr.message)) throw lastErr;
-            if (r.status === 429) throw new Error("The free AI limit is used up for now. Try again in a minute.");
+            if (r.status === 429) throw new Error("The free Gemini limit is used up for now.");
             continue;
           }
           const cand = data.candidates && data.candidates[0];
           const text = cand && cand.content && (cand.content.parts || []).map((p) => p.text || "").join("").trim();
           if (!text) { lastErr = new Error("Empty answer"); continue; }
-          const chunks = (cand.groundingMetadata && cand.groundingMetadata.groundingChunks) || [];
-          const sources = chunks.map((c) => c.web).filter(Boolean).slice(0, 4);
+          const chunksG = (cand.groundingMetadata && cand.groundingMetadata.groundingChunks) || [];
+          const sources = chunksG.map((c) => c.web).filter(Boolean).slice(0, 4);
           return { text: text.replace(/[*#_`]/g, ""), sources };
         } catch (e) { lastErr = e; if (/api key|limit/i.test(e.message)) throw e; }
       }
     }
     throw lastErr || new Error("No answer");
+  }
+
+  /* Free AI with no key at all (pollinations.ai). One question at a time, about 30 s apart. */
+  let freeNext = 0;
+  async function freeAI(question, onWait) {
+    const messages = [{ role: "system", content: rules() }]
+      .concat(turns.map((t) => ({ role: t.role === "user" ? "user" : "assistant", content: t.text })))
+      .concat([{ role: "user", content: question }]);
+    for (let attempt = 0; attempt < 3; attempt++) {
+      const wait = freeNext - Date.now();
+      if (wait > 0) { onWait && onWait(Math.ceil(wait / 1000)); await sleep(wait); }
+      const r = await fetch("https://text.pollinations.ai/openai", {
+        method: "POST", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ model: "openai", messages, private: true, referrer: "opsroom" }),
+      });
+      freeNext = Date.now() + 31000;
+      if (r.status === 402 || r.status === 429) {
+        const ra = parseInt(r.headers.get("Retry-After") || "30", 10);
+        freeNext = Date.now() + (isFinite(ra) ? ra : 30) * 1000 + 500;
+        continue;
+      }
+      if (!r.ok) throw new Error("Free AI is busy (HTTP " + r.status + ")");
+      const data = await r.json();
+      const text = data.choices && data.choices[0] && data.choices[0].message && (data.choices[0].message.content || "").trim();
+      if (text) return { text: text.replace(/[*#_`]/g, "").replace(/\n{2,}/g, "\n"), sources: [] };
+    }
+    throw new Error("Free AI is busy. Try again in a minute.");
   }
 
   function localAnswer(q) {
@@ -456,17 +581,14 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
       const hay = `${s.label} ${s.country} ${s.headline} ${s.summary}`.toLowerCase();
       return { s, n: words.filter((w) => hay.includes(w)).length };
     }).filter((x) => x.n > 0).sort((a, b) => b.n - a.n).slice(0, 2);
-    if (!scored.length) {
-      const top = stories.slice(0, 3).map((s) => s.headline).join(". ");
-      return `I don't have a report on that. Today's top stories: ${top}. Add your free AI key in Settings and I can search the web for you.`;
-    }
-    return scored.map((x) => x.s.summary || x.s.headline).join(" ") + " For deeper answers, add your free AI key in Settings.";
+    if (!scored.length) return "I couldn't reach the AI just now and I have no report on that. Please try again in a minute.";
+    return scored[0].s.summary || scored[0].s.headline;
   }
 
   function addMsg(who, text, sources) {
     const m = document.createElement("div"); m.className = "msg " + (who === "me" ? "me" : "ai");
     if (who !== "me") { const h = document.createElement("div"); h.className = "who"; h.textContent = "ANALYST"; m.appendChild(h); }
-    const p = document.createElement("div"); p.textContent = text; m.appendChild(p);
+    const p = document.createElement("div"); p.dir = "auto"; p.textContent = text; m.appendChild(p);
     if (sources && sources.length) {
       const s = document.createElement("div"); s.className = "src";
       sources.forEach((w) => { const a = document.createElement("a"); a.href = w.uri; a.target = "_blank"; a.rel = "noopener"; a.textContent = w.title || "Source"; s.appendChild(a); });
@@ -485,14 +607,18 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
     addMsg("me", q);
     const pending = addMsg("ai", "Thinking…");
     const key = store.get("gkey", "");
-    let answer, sources = [];
+    let answer = null, sources = [];
+    const waitNote = (n) => { pending.text.textContent = `Analyst is finishing the last answer… ${n}s`; };
     if (key) {
-      try { const r = await gemini(q, key); answer = r.text; sources = r.sources; }
-      catch (e) { answer = localAnswer(q); pending.text.textContent = answer; addMsg("ai", "AI answer failed: " + e.message); }
-    } else answer = localAnswer(q);
+      try { const r = await gemini(q, key); answer = r.text; sources = r.sources; } catch (e) { console.warn(e); }
+    }
+    if (!answer) {
+      try { const r = await freeAI(q, waitNote); answer = r.text; } catch (e) { console.warn(e); }
+    }
+    if (!answer) answer = localAnswer(q);
     pending.el.remove();
     addMsg("ai", answer, sources);
-    turns.push({ role: "user", parts: [{ text: q }] }, { role: "model", parts: [{ text: answer }] });
+    turns.push({ role: "user", text: q }, { role: "model", text: answer });
     turns = turns.slice(-10);
     asking = false;
     caption("ANALYST", answer.length > 140 ? answer.slice(0, 137) + "…" : answer);
@@ -508,7 +634,7 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
     if (rec) { rec.stop(); return; }
     hush();
     try {
-      rec = new SR(); rec.lang = "en-US"; rec.interimResults = true; rec.continuous = false;
+      rec = new SR(); rec.lang = LANGS[lang].sr; rec.interimResults = true; rec.continuous = false;
       $("bMic").classList.add("rec");
       let final = "";
       rec.onresult = (e) => { let t = ""; for (const r of e.results) t += r[0].transcript; $("q").value = t; if (e.results[e.results.length - 1].isFinal) final = t; };
@@ -520,7 +646,7 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
 
   /* ================= settings ================= */
   $("key").value = store.get("gkey", "");
-  function keyNote() { $("keyNote").innerHTML = store.get("gkey", "") ? '<span class="ok">AI key saved. The analyst can search the web.</span>' : "The analyst uses this key to answer questions and search the web for the latest news. Google gives it free; no card needed."; }
+  function keyNote() { $("keyNote").innerHTML = store.get("gkey", "") ? '<span class="ok">AI key saved. The analyst can search the web.</span>' : "The analyst already answers for free without a key. A free Gemini key adds live Google search for questions beyond today's reports."; }
   keyNote();
   $("bSaveKey").onclick = () => { store.set("gkey", $("key").value.trim()); keyNote(); toast($("key").value.trim() ? "Key saved" : "Key removed"); };
   $("bTestKey").onclick = async () => {
@@ -529,11 +655,27 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
     try { const r = await gemini("Reply with exactly: Analyst online.", k); $("keyNote").innerHTML = '<span class="ok">Working: ' + r.text.replace(/</g, "&lt;") + "</span>"; store.set("gkey", k); }
     catch (e) { $("keyNote").textContent = "Didn't work: " + e.message; }
   };
+  function fillSelect(el) {
+    el.innerHTML = Object.entries(LANGS).map(([k, v]) => `<option value="${k}">${v.name}</option>`).join("");
+    el.value = lang;
+    el.onchange = async () => {
+      lang = el.value; store.set("lang", lang); loadNews._warned = false;
+      document.querySelectorAll(".langSel").forEach((x) => (x.value = lang));
+      applyLang(); hush(); runId++;
+      await loadNews(false);
+      idx = 0; if (playing) run(0);
+    };
+  }
+  document.querySelectorAll(".langSel").forEach(fillSelect);
+  applyLang();
+  $("voiceSel").value = engine;
+  $("voiceSel").onchange = () => { engine = $("voiceSel").value; gFails = 0; store.set("voice", engine); };
   $("rate").value = rate; $("rateVal").textContent = rate.toFixed(2) + "×";
   $("rate").oninput = () => { rate = parseFloat($("rate").value); store.set("rate", String(rate)); $("rateVal").textContent = rate.toFixed(2) + "×"; };
   $("bTestVoice").onclick = async () => {
     hush(); pickVoices();
-    say("Operator online.", "OPERATOR").then(() => say("Commander here.", "COMMANDER")).then(() => say("Analyst ready.", "ANALYST"));
+    gFails = 0;
+    say(phrase("fresh"), "OPERATOR").then(() => say(lang === "en" ? "Commander here." : "", "COMMANDER")).then(() => say(lang === "en" ? "Analyst ready." : "", "ANALYST"));
   };
   $("bRefresh").onclick = async () => { const f = await loadNews(false); toast(f ? "New reports loaded" : "No new reports yet"); };
 
@@ -542,14 +684,14 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
     if (started) return; started = true;
     $("start").hidden = true; $("app").classList.remove("pre");
     setTimeout(() => $("intro").classList.add("gone"), 1200);
-    // first utterance must happen inside the tap, so iOS unlocks speech
-    const first = `${greeting()}, sir. Operations room is live. ${stories.length} reports on the board.`;
+    // first sound must start inside the tap, so iOS unlocks audio
+    const first = phrase("hello", { g: greeting(), n: stories.length });
     caption("OPERATOR", first);
     if (withIntro) {
       setPlaying(true);
       const my = ++runId;
       say(first, "OPERATOR").then(() => { if (playing && my === runId) run(0); });
-    } else { hush(); say("", "OPERATOR"); }
+    } else { hush(); try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
   }
   $("bStart").onclick = () => begin(true);
   $("bSettings0").onclick = () => open("setSheet");
@@ -558,11 +700,20 @@ Write numbers so they read well aloud. If something is unconfirmed, say so. If y
   $("bPrev").onclick = () => { if (!started) begin(false); jump(idx - 1); };
   $("bList").onclick = () => { renderList(); open("listSheet"); };
   $("bAsk").onclick = () => {
-    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {} }
+    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {} try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
     resumeAfter = playing; if (playing) pause();
     open("askSheet");
   };
   $("bSet").onclick = () => { resumeAfter = playing; if (playing) pause(); open("setSheet"); };
+
+  if ("mediaSession" in navigator) {
+    try {
+      navigator.mediaSession.setActionHandler("play", () => { if (!playing) play(lineIdx); });
+      navigator.mediaSession.setActionHandler("pause", () => { if (playing) pause(); });
+      navigator.mediaSession.setActionHandler("nexttrack", () => jump(idx + 1));
+      navigator.mediaSession.setActionHandler("previoustrack", () => jump(idx - 1));
+    } catch {}
+  }
 
   addEventListener("resize", resize);
 
