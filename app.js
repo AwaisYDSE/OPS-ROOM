@@ -520,6 +520,13 @@
       fromLine = 0;
       await sleep(400);
       if (!alive()) return;
+      if (freshWaiting) { // new reports arrived while playing: go straight to them
+        freshWaiting = false;
+        caption("OPERATOR", phrase("fresh"));
+        await say(phrase("fresh"), "OPERATOR");
+        if (!alive()) return;
+        idx = 0; continue;
+      }
       if (idx >= stories.length - 1) {
         caption("OPERATOR", phrase("end"));
         await say(phrase("end"), "OPERATOR");
@@ -701,9 +708,17 @@
   function renderInfo() {
     const n = allStories.length;
     $("startMeta").textContent = `${n} reports · updated ${ago(news.updated)}`;
-    $("newsInfo").textContent = `${n} reports, updated ${ago(news.updated)}. New reports arrive every hour automatically.`;
+    $("newsInfo").textContent = `${n} reports, updated ${ago(news.updated)}. New reports arrive every 30 minutes automatically.`;
   }
-  setInterval(() => { if (!playing) loadNews(false); }, 10 * 60 * 1000);
+  let freshWaiting = false;
+  async function checkFresh() {
+    const f = await loadNews(false);
+    if (f && playing) freshWaiting = true;
+    if (here) refreshLocal();
+    return f;
+  }
+  setInterval(checkFresh, 5 * 60 * 1000); // keeps checking even while the briefing plays
+  document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") checkFresh(); });
 
   /* ================= list sheet ================= */
   function renderList() {
@@ -971,7 +986,7 @@ How to answer:
     gFails = 0;
     say(lang === "en" ? "Operator here. Reports are coming in." : phrase("fresh"), "OPERATOR").then(() => say(lang === "en" ? "Commander here. What's the situation?" : phrase("fresh"), "COMMANDER")).then(() => say(lang === "en" ? "Analyst here. Here are the facts." : phrase("fresh"), "ANALYST"));
   };
-  $("bRefresh").onclick = async () => { const f = await loadNews(false); toast(f ? "New reports loaded" : "No new reports yet"); };
+  $("bRefresh").onclick = async () => { const f = await checkFresh(); toast(f ? "New reports loaded" : "You already have the latest reports (" + ago(news.updated) + ")"); };
 
   /* ================= controls ================= */
   function begin(withIntro = true) {
