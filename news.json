@@ -1,293 +1,332 @@
 {
-  "updated": "2026-10-28T02:30:00Z",
-  "generator": "seed",
-  "stories": [
+ "updated": "2026-10-28T09:04:28.072415Z",
+ "generator": "rss",
+ "stories": [
+  {
+   "id": "us-costs-of-iran-war-rise-to-over-47bn-according",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "summary": "The US military has spent over $47 billion so far to prosecute the war in Iran , more than 25 per cent higher than the Defense Department’s estimate in July, according to Pentagon data obtained by Reuters .",
+   "lines": [
     {
-      "id": "us-iran-96h",
-      "country": "Iran",
-      "label": "IRAN",
-      "lat": 32.4, "lon": 53.7,
-      "flag": "🇮🇷",
-      "severity": "critical",
-      "category": "conflict",
-      "headline": "US forces ready to strike Iran within 96 hours of an order",
-      "summary": "CNN reports US forces can launch a major operation against Iran within 96 hours of a Trump order, with energy, military and nuclear sites as possible targets. Trump has not decided, and any order may come after the November 3 US midterms.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Sir, US forces are reported ready to launch a major operation against Iran within ninety-six hours of an order."},
-        {"role": "COMMANDER", "text": "Has the President given the order?"},
-        {"role": "ANALYST", "text": "Not yet. Trump says an attack is a possibility. Reports say a decision may wait until after the November third midterms."},
-        {"role": "ANALYST", "text": "Possible targets include energy infrastructure, military sites and nuclear facilities."}
-      ],
-      "source": "Gulf News live updates (citing CNN)",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-trump-leaves-iran-attack-on-the-table-tehran-vows-changes-to-hormuz-strait-houthis-claim-saudi-strikes-1.500723497",
-      "time": "2026-10-27T10:00:00Z"
+     "role": "OPERATOR",
+     "text": "US costs of Iran war rise to over $47bn, according to Pentagon estimate."
     },
     {
-      "id": "hormuz-tanker-mines",
-      "country": "Iran",
-      "label": "STRAIT OF HORMUZ",
-      "lat": 26.6, "lon": 56.4,
-      "flag": "🇮🇷",
-      "severity": "critical",
-      "category": "shipping",
-      "headline": "Tanker on fire after hitting mines in the Strait of Hormuz",
-      "summary": "Iran's army says an oil tanker caught fire after hitting naval mines on a route Tehran had not authorised, with its tracking switched off. Iran says the strait is closed to ships that don't follow its rules, and its foreign minister says it will not return to pre-war arrangements.",
-      "lines": [
-        {"role": "OPERATOR", "text": "An oil tanker is on fire in the Strait of Hormuz after hitting naval mines."},
-        {"role": "COMMANDER", "text": "Whose mines?"},
-        {"role": "ANALYST", "text": "Iran's army says the ship used a route Tehran had not authorised, with its tracking systems switched off."},
-        {"role": "ANALYST", "text": "Iran now says the strait is completely closed to vessels that don't follow Iranian rules, and will not go back to pre-war arrangements."}
-      ],
-      "source": "Gulf News (citing IRNA)",
-      "url": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-27-2026-1.500725816",
-      "time": "2026-10-27T14:00:00Z"
+     "role": "COMMANDER",
+     "text": "Any casualties?"
     },
     {
-      "id": "riyadh-missiles",
-      "country": "Saudi Arabia",
-      "label": "SAUDI ARABIA",
-      "lat": 24.7, "lon": 46.7,
-      "flag": "🇸🇦",
-      "severity": "critical",
-      "category": "conflict",
-      "headline": "Houthi missiles intercepted over Riyadh",
-      "summary": "Saudi air defences destroyed two ballistic missiles fired at Riyadh by Yemen's Houthis; shrapnel caused material damage. Saudi forces also downed three drones and say they destroyed two launchers in Sanaa. The Houthis claim they hit Riyadh's airport and oil pumping stations.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Sir, two Houthi ballistic missiles were intercepted over Riyadh."},
-        {"role": "COMMANDER", "text": "Any damage?"},
-        {"role": "OPERATOR", "text": "Shrapnel caused material damage. Saudi forces also shot down three drones and destroyed two launchers in Sanaa."},
-        {"role": "ANALYST", "text": "The Houthis claim they hit Riyadh airport and oil pumping stations. Those claims are not confirmed."}
-      ],
-      "source": "Khaleej Times / Gulf News",
-      "url": "https://www.khaleejtimes.com/world/mena/us-israel-iran-lebanon-war-live-updates-october-27-2026",
-      "time": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "egypt-saudi-support",
-      "country": "Egypt",
-      "label": "EGYPT",
-      "lat": 26.8, "lon": 30.8,
-      "flag": "🇪🇬",
-      "severity": "high",
-      "category": "conflict",
-      "headline": "Egypt authorises military support for Saudi Arabia",
-      "summary": "Egypt's parliament approved military support for Saudi Arabia against Houthi attacks. A Houthi political bureau member said the move amounts to a declaration of war against Yemen.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Egypt's parliament has authorised military support for Saudi Arabia against the Houthis."},
-        {"role": "COMMANDER", "text": "Egypt is joining the fight?"},
-        {"role": "ANALYST", "text": "It is authorised, not yet deployed. The Houthis call it a declaration of war against Yemen."}
-      ],
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-27-2026-1.500725816",
-      "time": "2026-10-27T11:00:00Z"
-    },
-    {
-      "id": "tehran-talks-pakistan",
-      "country": "Pakistan",
-      "label": "PAKISTAN",
-      "lat": 30.4, "lon": 69.3,
-      "flag": "🇵🇰",
-      "severity": "high",
-      "category": "diplomacy",
-      "headline": "Pakistan army chief joins peace talks in Tehran",
-      "summary": "Pakistan's army chief, Saudi Arabia's defence minister and Turkey's intelligence chief met Iranian officials in Tehran under the Mecca Common Defence Agreement. All sides agreed to keep talking. Saudi Arabia's cabinet reviewed the talks on Tuesday.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Pakistan's army chief has held talks in Tehran with Saudi and Turkish officials."},
-        {"role": "COMMANDER", "text": "Any result?"},
-        {"role": "ANALYST", "text": "All four countries agreed to keep talking. Iran says security should come from inside the region, not from foreign forces."},
-        {"role": "ANALYST", "text": "Oil prices eased on the news."}
-      ],
-      "source": "Dawn / Gulf News",
-      "url": "https://www.dawn.com/latest-news/2026-10-27",
-      "time": "2026-10-27T09:00:00Z"
-    },
-    {
-      "id": "oil-prices",
-      "country": null,
-      "label": "GLOBAL MARKETS",
-      "lat": 26.0, "lon": 52.0,
-      "flag": "🛢️",
-      "severity": "markets",
-      "category": "markets",
-      "headline": "Oil slips to about $115 as Gulf diplomacy picks up",
-      "summary": "Brent fell about $1 to $114.81 a barrel and WTI to $100.98 after the Tehran talks. Houthi attacks on Saudi Arabia limited the drop. UBS expects Brent to stay near $110 through year-end.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Markets update. Brent crude is down about one dollar, near one hundred and fifteen dollars a barrel."},
-        {"role": "COMMANDER", "text": "Why the drop?"},
-        {"role": "ANALYST", "text": "The Tehran talks eased supply fears. But attacks on Saudi Arabia kept prices high. UBS expects Brent near one hundred and ten dollars until year end."}
-      ],
-      "source": "Eurasia Business News",
-      "url": "https://eurasiabusinessnews.com/2026/10/27/oil-futures-retreat-as-middle-east-diplomacy-gains-momentum-on/",
-      "time": "2026-10-27T13:11:00Z"
-    },
-    {
-      "id": "israel-election",
-      "country": "Israel",
-      "label": "ISRAEL",
-      "lat": 31.4, "lon": 35.0,
-      "flag": "🇮🇱",
-      "severity": "high",
-      "category": "politics",
-      "headline": "Record turnout in Israel's election",
-      "summary": "Turnout hit 44.9% by 2pm, the highest since 1973, in the first election since October 7, 2023. Netanyahu is in a tight race. Defence Minister Katz said there would be no attack on Iran before the vote.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Israel's election has record turnout. Forty-four point nine percent by two p.m., the highest since 1973."},
-        {"role": "COMMANDER", "text": "Who's leading?"},
-        {"role": "ANALYST", "text": "Netanyahu is in a tight race. His defence minister says there will be no attack on Iran before the vote."}
-      ],
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-27-2026-1.500725816",
-      "time": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "uae-flights",
-      "country": "United Arab Emirates",
-      "label": "UNITED ARAB EMIRATES",
-      "lat": 25.2, "lon": 55.3,
-      "flag": "🇦🇪",
-      "severity": "watch",
-      "category": "travel",
-      "headline": "UAE flights to Saudi Arabia disrupted; Europe routes returning",
-      "summary": "Etihad extended cancellations on Abu Dhabi–Saudi flights until November 5. Emirates, flydubai and Air Arabia list cancellations on Saudi routes. UAE departing seats rose 23% to 7.2 million from June to October, and up to 36 weekly Dubai–Europe flights should return by December.",
-      "lines": [
-        {"role": "OPERATOR", "text": "UAE travel update. Etihad has cancelled Abu Dhabi to Saudi flights until November fifth."},
-        {"role": "COMMANDER", "text": "What about Dubai?"},
-        {"role": "ANALYST", "text": "Emirates, flydubai and Air Arabia also list cancellations on Saudi routes. Check your flight before you travel."},
-        {"role": "ANALYST", "text": "Good news: up to thirty-six weekly Dubai to Europe flights should be back by December."}
-      ],
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-27-2026-1.500725816",
-      "time": "2026-10-27T15:00:00Z"
-    },
-    {
-      "id": "uae-flydubai-honour",
-      "country": "United Arab Emirates",
-      "label": "UNITED ARAB EMIRATES",
-      "lat": 24.45, "lon": 54.4,
-      "flag": "🇦🇪",
-      "severity": "info",
-      "category": "national",
-      "headline": "UAE President honours flydubai crew; Flag Day call",
-      "summary": "The UAE President awarded the flydubai crew the Order of Zayed II for their courage during the September 30 mid-air attack. Sheikh Mohammed called on the public to raise the flag for Flag Day.",
-      "lines": [
-        {"role": "OPERATOR", "text": "The UAE President has honoured the flydubai crew for their courage during the September thirtieth mid-air attack."},
-        {"role": "ANALYST", "text": "They received the Order of Zayed the Second. Sheikh Mohammed has also called on everyone to raise the flag for Flag Day."}
-      ],
-      "source": "The National",
-      "url": "https://www.thenationalnews.com/news/uae/2026/10/27/uae-president-honours-flydubai-crew-september-30-attack/",
-      "time": "2026-10-27T08:00:00Z"
-    },
-    {
-      "id": "pakistan-lpg",
-      "country": "Pakistan",
-      "label": "PAKISTAN",
-      "lat": 24.9, "lon": 67.0,
-      "flag": "🇵🇰",
-      "severity": "markets",
-      "category": "economy",
-      "headline": "Pakistan LPG prices rise as Iran border stays shut",
-      "summary": "Pakistan's petroleum minister blamed the closed Pakistan–Iran border for higher LPG prices and said the government is sourcing fuel by sea. The State Bank's rate hike has split business: investors back it, industry warns it will hurt exports.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Pakistan. LPG prices are rising because the border with Iran is closed."},
-        {"role": "COMMANDER", "text": "What is the government doing?"},
-        {"role": "ANALYST", "text": "It is trying to bring fuel in by sea. Meanwhile the State Bank's interest rate hike has split the business community."}
-      ],
-      "source": "Dawn",
-      "url": "https://www.dawn.com/latest-news/2026-10-27",
-      "time": "2026-10-27T07:00:00Z"
-    },
-    {
-      "id": "kp-peshawar",
-      "country": "Pakistan",
-      "label": "KHYBER PAKHTUNKHWA",
-      "lat": 34.0, "lon": 71.5,
-      "flag": "🇵🇰",
-      "severity": "high",
-      "category": "security",
-      "headline": "Peshawar operation against illegal Afghan residents from Nov 1",
-      "summary": "Authorities plan an operation against illegal Afghan residents in Peshawar from November 1 using 120 special teams. In KP, the PTI called off a protest after an emergency was imposed. Gatherings are banned in Pishin, Balochistan, ahead of an operation.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Khyber Pakhtunkhwa. Peshawar will start an operation against illegal Afghan residents on November first."},
-        {"role": "COMMANDER", "text": "How big?"},
-        {"role": "ANALYST", "text": "One hundred and twenty special teams. The PTI also called off its protest in KP after the emergency was imposed."}
-      ],
-      "source": "Dawn",
-      "url": "https://www.dawn.com/latest-news/2026-10-27",
-      "time": "2026-10-27T06:00:00Z"
-    },
-    {
-      "id": "oman-gulf-pact",
-      "country": "Oman",
-      "label": "OMAN",
-      "lat": 21.5, "lon": 57.0,
-      "flag": "🇴🇲",
-      "severity": "watch",
-      "category": "diplomacy",
-      "headline": "Oman proposes Gulf security pact that includes Iran",
-      "summary": "Oman's foreign minister proposed a Gulf security framework including Iran and a non-aggression pact among eight states. Iran's president met Qatar's emir in Moscow, and an Iranian official set seven conditions for new talks with Washington.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Oman has proposed a Gulf security pact that includes Iran."},
-        {"role": "COMMANDER", "text": "Is Iran interested?"},
-        {"role": "ANALYST", "text": "Iran's president met Qatar's emir in Moscow. But Tehran has set seven conditions before any new talks with Washington."}
-      ],
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-trump-leaves-iran-attack-on-the-table-tehran-vows-changes-to-hormuz-strait-houthis-claim-saudi-strikes-1.500723497",
-      "time": "2026-10-27T10:30:00Z"
-    },
-    {
-      "id": "iraq-ship-fire",
-      "country": "Iraq",
-      "label": "IRAQ",
-      "lat": 29.4, "lon": 49.0,
-      "flag": "🇮🇶",
-      "severity": "high",
-      "category": "shipping",
-      "headline": "Ship on fire off Iraq's Al-Faw",
-      "summary": "UKMTO reports a vessel caught fire about 63 nautical miles southeast of Al-Faw, Iraq. Crew status and damage are unknown.",
-      "lines": [
-        {"role": "OPERATOR", "text": "A second vessel is on fire, sixty-three nautical miles southeast of Al-Faw, Iraq."},
-        {"role": "COMMANDER", "text": "The crew?"},
-        {"role": "ANALYST", "text": "Unknown for now. The British maritime agency UKMTO is monitoring."}
-      ],
-      "source": "Gulf News (citing UKMTO)",
-      "url": "https://gulfnews.com/world/mena/middle-east-war-trump-leaves-iran-attack-on-the-table-tehran-vows-changes-to-hormuz-strait-houthis-claim-saudi-strikes-1.500723497",
-      "time": "2026-10-27T16:00:00Z"
-    },
-    {
-      "id": "uk-airbase-charges",
-      "country": "United Kingdom",
-      "label": "UNITED KINGDOM",
-      "lat": 52.5, "lon": -1.5,
-      "flag": "🇬🇧",
-      "severity": "high",
-      "category": "security",
-      "headline": "Two charged over plot at UK airbase used by US",
-      "summary": "UK counter-terrorism police charged two British men over an incident last month at an airbase used by the United States. One is charged with assisting a foreign intelligence service believed linked to Iran.",
-      "lines": [
-        {"role": "OPERATOR", "text": "Britain has charged two men over an incident at an airbase used by US forces."},
-        {"role": "ANALYST", "text": "One is accused of helping a foreign intelligence service believed to be linked to Iran."}
-      ],
-      "source": "Gulf News",
-      "url": "https://gulfnews.com/uae/middle-east-conflict-what-uae-residents-need-to-know-tonight-october-27-2026-1.500725816",
-      "time": "2026-10-27T13:00:00Z"
-    },
-    {
-      "id": "south-korea",
-      "country": "South Korea",
-      "label": "SOUTH KOREA",
-      "lat": 37.5, "lon": 127.0,
-      "flag": "🇰🇷",
-      "severity": "info",
-      "category": "general",
-      "headline": "Cold wave hits South Korea; Seoul village fire put out",
-      "summary": "Cold wave advisories cover most of South Korea, with some regions below freezing. A fire in Seoul's Guryong Village burned for 13 hours; all residents got out safely. The US said wartime operational control will transfer when agreed conditions are met.",
-      "lines": [
-        {"role": "OPERATOR", "text": "South Korea. A cold wave has hit, with Seoul at its coldest morning of the autumn."},
-        {"role": "ANALYST", "text": "A large fire in Seoul's Guryong Village burned for thirteen hours. All residents evacuated safely."}
-      ],
-      "source": "SBS News",
-      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008818039",
-      "time": "2026-10-28T00:00:00Z"
+     "role": "ANALYST",
+     "text": "The US military has spent over $47 billion so far to prosecute the war in Iran , more than 25 per cent higher than the Defense Department’s estimate in July, according to Pentagon data obtained by Reuters ."
     }
-  ]
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040407/us-costs-of-iran-war-rise-to-over-47bn-according-to-pentagon-estimate",
+   "time": "2026-10-28T05:16:03Z"
+  },
+  {
+   "id": "saudi-arabia-says-air-defenses-intercept-houthi-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Saudi Arabia says air defenses intercept Houthi missiles over capital, and other Mideast news",
+   "summary": "Saudi Arabia says air defenses intercept Houthi missiles over capital, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia says air defenses intercept Houthi missiles over capital, and other Mideast news."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
+   "time": "2026-10-28T01:00:00Z"
+  },
+  {
+   "id": "egypt-saudi-arabia-uae-discuss-regional-de-escal",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "info",
+   "headline": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
+   "summary": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan."
+    }
+   ],
+   "source": "TRT World",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRWtmVG5WWmJWMTZhUDNFTE1nWXg1NjdWS21WRTNjVDN0Z04tLWhncVZqR2RHdmlRNkpMcmZXVVNHTV9VaVc0bF9qdlhlbWVGWEYxNkZCWlE?oc=5",
+   "time": "2026-10-28T08:42:40Z"
+  },
+  {
+   "id": "oil-prices-rise-as-houthi-attacks-on-saudi-arabi",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "summary": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VVTZnQjZMOUgxd3doMmJKclN5eUlkbFJoOE9TZDJQVlN5Zm92aDRIYW5yMWcwTGxtRHBfNW9FQ3NIbTJXSmdJZU9ibE9XZFRaQWJXb3JYbDJWY1l4c2o5OU5xeC1VbmFRN1JmMWZUUG9LNVhCYnk2ZNIBfkFVX3lxTE9PVWR4YV9Fa0UyQi0tN013V0d5bjY3bUJqZ1R2VGlsSHdGOURZVkRTSDhLUkpQS2lyV0ZDVlNua3RRelVoMmV4QUdfZUU5S09oV0ZHQTAzNm1hVWxVTVMzRWd0X2M3b3RfdVFUcFNfckgxMUdKMnNldWo2RWpIdw?oc=5",
+   "time": "2026-10-28T05:52:51Z"
+  },
+  {
+   "id": "uae-honours-indian-captain-smit-machchhar-for-th",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "UAE honours Indian Captain Smit Machchhar for thwarting mid-air cockpit attack on Dubai-Tel Aviv flight",
+   "summary": "UAE honours Indian Captain Smit Machchhar for thwarting mid-air cockpit attack on Dubai-Tel Aviv flight",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE honours Indian Captain Smit Machchhar for thwarting mid-air cockpit attack on Dubai-Tel Aviv flight."
+    }
+   ],
+   "source": "Deccan Herald",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ2lGUWpaY2ZUWmFWblJDdmhzUzhDbkF3ZWU2MWpMUFhQSFNiTnlsVmRjWHVVeHZWVGpLZTdDSmFTRWN6dmRRUHVZdzJkV3dNVDhubDJ5TFhocEIzX3JpallLN21RQTcwYnZ2aU1ySGdpYmxUby1zc3VtT29QVmtnZ0NMOUQxNmNqamdQSkN4WEhtVXlkemVlUk1TV3ppeE5TT21ndm84dWtkVlp3UmZxUHNOMENwR2dMbG8wY25nT1Z1ZUpDWkIyVWxfeXJQZWNRaXFxWTJGQldLNlhBaV9COEhJTngxbmVIa0dYRTk5cw?oc=5",
+   "time": "2026-10-28T05:12:33Z"
+  },
+  {
+   "id": "oil-prices-climb-as-houthi-attacks-reignite-saud",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+   "summary": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0I4Y1FvYjEzSmVqN205clo4TFpnSkU4WjdnQ3VzcUhLRnRvUTluTXZrbHMtQnZkaUdZZnRFbkRCYTJCeTdwY1pCejF0UU1aNUxIbWJFbzVsdVQ4R3hGWXhRSlVJU0gtZFVicmE3cVJGdlpDcDBVR0VpcGFqdS1seFRzZFMyUmxpRDVTX1EyeGNpcVBDa19kS1VEYWtjR2YzYUdwcEJLREVwV2tRN3NHT1ctTFJQRVV1d2fSAb8BQVVfeXFMTlJpYmRqako1bTB2MnRZZkNCdl84Vm80ZDZ5WVNwdXZ2YU1Kbm9nVUgyT2dOREpfX0F1NGRnRXNtMU9ld0Z1QU40TVlyTzdHVHJQUkpIaVBpSjNCZHMwSGZ3ZjZYRFdPTVNNSlhhY1lCZmk4Z1F0RWYwTnNIdkl5aGRCOWF2WUN1Rmh2M0ctN0F5aWMtcGhWZ1lqMHNUeE5rb3J0LUNzSGVFOFdjZWkwVk5kMDhyaWlMLU1uZTRtRTQ?oc=5",
+   "time": "2026-10-28T03:53:00Z"
+  },
+  {
+   "id": "9-indian-sponsored-terrorists-killed-in-balochis",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "9 Indian-sponsored terrorists killed in Balochistan IBOs: ISPR",
+   "summary": "Nine Indian-sponsored terrorists were killed in two separate intelligence-based operations (IBOs) in Balochistan’s Kachhi and Wadh districts, the military’s media wing said on Wednesday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "9 Indian-sponsored terrorists killed in Balochistan IBOs: ISPR."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Nine Indian-sponsored terrorists were killed in two separate intelligence-based operations (IBOs) in Balochistan’s Kachhi and Wadh districts, the military’s media wing said on Wednesday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040427/9-indian-sponsored-terrorists-killed-in-balochistan-ibos-ispr",
+   "time": "2026-10-28T08:46:05Z"
+  },
+  {
+   "id": "pakistan-says-afghan-firing-kills-one-in-border-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Pakistan says Afghan firing kills one in border district",
+   "summary": "Pakistan says Afghan firing kills one in border district",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan says Afghan firing kills one in border district."
+    }
+   ],
+   "source": "KSLM Radio",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcW9fcWt6M3A3djRTWEF1eHh4VVNHcWNBWmdoUVU0UUFZRWtPMlpGd1l2RklEUlBmMGRzNVZZcEFTdmM2YVZqQ05lVHNDb01VNHJncUVUMlNFYnBhSEt1ZE5IanhYWnEtZ3NlbUZfWjAzMmwxSGJ5d0FRbnloUnB6ZlVuVkFxSFg4Z2M2V2dQMWYxZ21wVlJN?oc=5",
+   "time": "2026-10-28T08:00:21Z"
+  },
+  {
+   "id": "iran-hasn-t-tried-to-repair-nuclear-facilities-d",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
+   "summary": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran hasn’t tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT05MNG55Umh0cXBoZVlpeTVHTWdjZjhMb0hCS21LMmRiOU9ZWEhITjVYZEJBNXF6ejRwbDBBbThpMlNORGxacUV3T2s0VHp0YTV5UVdqRmpid09VNFg3RE1yT19SMmxhZk5ZNUtRcmdHQ3pFLUp5V01pdmVmcE9mdkhReFB0bmFoNGxqUEhCOVQxNlFITXByR2NUaGdsd0k?oc=5",
+   "time": "2026-10-28T02:37:00Z"
+  },
+  {
+   "id": "indian-captain-smit-machchhar-flydubai-crew-hono",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+   "summary": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack."
+    }
+   ],
+   "source": "The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcnR1TzlNNU5Zd0VwZ1hsb3FiM0NmbjA1VUN5R0pmMlpwNkhVbkloUEMtMEFHNkQ0SkhITVlTLTdoZmFyckIzTERXdnBLRC1PWFRRWS1BT3JTTlRVb3NlV0tLS1NtR1FBdnFxR2YweXExaWZOVzQzQjE3U1daMVJQYXF2ZmhWeVk3cTk0b0pEVTQ1aDVGNktaM1U1WWRhSmQ4RzFUc19wWUgxY3dwaFluVzk1eVRQX2htSU56YTFsVkVHUEc0WE5ncFdwX2xHOWVjeHEwMU4tMlo0SUZPYVkzYkZ4T2RQNGU0QWFNT2hjZkV6Zm4z0gH7AUFVX3lxTFBWTVFPQTYya1o4OXFYU1l6dFJJM2RnWDhqQ2owbk9SdjJyTkFPTVdfSFFxZHZvZUlLRUI3V3dZLUNBeUdKbHl3b3RqTzRub3EtT3d4aFBXZXJLVERPekJhbF95RWI5SnFycDQxdFY3RDZzNks0aDFBTVB6SW9xZEQ1QzdFbExnMmoxMlJjeU16R1I5UVRfZS1HUXpldmduNUVHZ1k0SmQ5SDNwdXpmZXdJaGFXeDV5cV9adnFnMU5mR3YtbFdYbHdfdEVmdHMwTV9fQWlja0QyRExVM2YycFN6OEpqYWZhVGVzanF2Skt4ODh1T2l4Uk1jdWFJ?oc=5",
+   "time": "2026-10-28T06:27:23Z"
+  },
+  {
+   "id": "-have-no-illusions-kundi-tells-afghan-taliban-pa",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "‘Have no illusions’: Kundi tells Afghan Taliban Pakistan will not tolerate attacks after Angoor Adda firing",
+   "summary": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi condemned on Wednesday the latest instance of firing from across the Afghan border in Lower South Waziristan, asserting that Pakistan would “never tolerate” attacks on its people or violations of its sovereignty.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "‘Have no illusions’: Kundi tells Afghan Taliban Pakistan will not tolerate attacks after Angoor Adda firing."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi condemned on Wednesday the latest instance of firing from across the Afghan border in Lower South Waziristan, asserting that Pakistan would “never tolerate” attacks on its people or violations of its sovereignty."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040416/have-no-illusions-kundi-tells-afghan-taliban-pakistan-will-not-tolerate-attacks-after-angoor-adda-firing",
+   "time": "2026-10-28T06:24:08Z"
+  },
+  {
+   "id": "u-s-warns-gulf-of-possible-short-intense-renewal",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+   "summary": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
+   "time": "2026-10-28T03:48:00Z"
+  },
+  {
+   "id": "natural-gas-and-oil-forecast-houthi-strike-on-ra",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Natural Gas and Oil Forecast: Houthi Strike on Ras Tanura Lifts Oil, Can WTI Break $103.94?",
+   "summary": "Natural Gas and Oil Forecast: Houthi Strike on Ras Tanura Lifts Oil, Can WTI Break $103.94?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Natural Gas and Oil Forecast: Houthi Strike on Ras Tanura Lifts Oil, Can WTI Break $103.94?."
+    }
+   ],
+   "source": "FXEmpire",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVnpCT2NIMGJuSmRicU5wMUo2RHE3UlRwVHVZSU1YSFhZZm9iYjBtdy1UUnlZMVFFSjkxekIzZWpOc21vdU9sYXR2OHVCNGNzbUhwSGFuLUctRGRYRnoyWkVDZDF6Um5CSG9oUGljVVFGWDNyYkw1UGthNTEya3JxY2VCRUZnMlRuUnF5cEF4anROSERVSFFiS3p0aVczZnQyV0pZemtldFFiVi1pWjU3NDl4enR3aFlMN1d3aEJoaTR0b1NwM0NLeEpmZFJoWjIyS21CNA?oc=5",
+   "time": "2026-10-28T05:29:53Z"
+  },
+  {
+   "id": "elderly-women-and-children-survive-russian-attac",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "critical",
+   "headline": "Elderly women and children survive Russian attack on Kharkiv",
+   "summary": "A Russian drone attack in Ukraine's Kharkiv late Tuesday forced elderly women and children to evacuate their homes.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Elderly women and children survive Russian attack on Kharkiv."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A Russian drone attack in Ukraine's Kharkiv late Tuesday forced elderly women and children to evacuate their homes."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
+   "time": "2026-10-28T07:35:20Z"
+  }
+ ]
 }
