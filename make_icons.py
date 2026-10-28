@@ -1,5 +1,5 @@
 """Draws the Ops Room home-screen icon: a premium 3D world globe with glowing news routes,
-a HUD ring with radar sweep and a red LIVE dot. Run by the GitHub workflow; output only changes if this file does."""
+a HUD ring with radar sweep and a red LIVE dot. Run by update_news.py when the design stamp below changes."""
 import json, math
 from PIL import Image, ImageDraw, ImageFilter, ImageChops
 import os
@@ -88,4 +88,6 @@ pip=layer(); ImageDraw.Draw(pip).ellipse([px-70,py-70,px+70,py+70],fill=(255,45,
 img=Image.alpha_composite(img,pip.filter(ImageFilter.GaussianBlur(30)))
 dd=ImageDraw.Draw(img); dd.ellipse([px-30,py-30,px+30,py+30],fill=(255,52,74,255)); dd.ellipse([px-12,py-12,px+12,py+12],fill=(255,220,225,255))
 out=img.convert("RGB")
-for s in (512,192,180): out.resize((s,s),Image.LANCZOS).save(f"icon-{s}.png", optimize=True)
+from PIL.PngImagePlugin import PngInfo
+meta=PngInfo(); meta.add_text("design", "ops-room-icon:globe-v2")  # update_news.py redraws only when this stamp is missing
+for s in (512,192,180): out.resize((s,s),Image.LANCZOS).save(f"icon-{s}.png", optimize=True, pnginfo=meta)
