@@ -301,6 +301,28 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 .chip { border-radius: 999px; }
 .btn, .sel, .field input[type=password], .askbar input, .askbar button { border-radius: 10px; }
 
+/* talk orb */
+.orbWrap { display: grid; justify-items: center; gap: 12px; padding: 10px 0 18px; }
+.orb { position: relative; width: 112px; height: 112px; border-radius: 50%; display: grid; place-items: center; }
+.orb .core { position: relative; z-index: 2; width: 84px; height: 84px; border-radius: 50%; display: grid; place-items: center; color: #001018;
+  background: radial-gradient(circle at 35% 30%, #c9f3ff, #4fd1ff 45%, #1b7fb3 100%); box-shadow: 0 0 30px rgba(79,209,255,.45), inset 0 -6px 14px rgba(0,0,0,.25); transition: transform .25s; }
+.orb .core svg { width: 30px; height: 30px; }
+.orb .ring { position: absolute; inset: 0; border-radius: 50%; border: 1px solid rgba(79,209,255,.35); opacity: 0; }
+.orb.listen .core { transform: scale(1.06); }
+.orb.listen .ring { animation: ripple 1.6s ease-out infinite; } .orb.listen .r2 { animation-delay: .8s; }
+.orb.think .core { background: radial-gradient(circle at 35% 30%, #fff3c4, #f5d142 45%, #a07d00 100%); box-shadow: 0 0 30px rgba(245,209,66,.45); animation: breathe 1.2s ease-in-out infinite; }
+.orb.speak .core { background: radial-gradient(circle at 35% 30%, #d4ffe4, #39e27a 45%, #137a3c 100%); box-shadow: 0 0 34px rgba(57,226,122,.5); animation: breathe .7s ease-in-out infinite; }
+@keyframes ripple { 0% { transform: scale(.75); opacity: .9; } 100% { transform: scale(1.35); opacity: 0; } }
+@keyframes breathe { 50% { transform: scale(1.07); } }
+.orbTxt { font: 500 14px/1.45 var(--body); color: var(--ink-dim); text-align: center; max-width: 34ch; }
+/* on/off switch */
+.tgl { display: inline-flex; align-items: center; gap: 10px; padding: 6px 12px 6px 6px; border-radius: 999px; background: #141920; border: 1px solid var(--line); font: 600 12px/1 var(--display); letter-spacing: .14em; text-transform: uppercase; }
+.tgl i { width: 40px; height: 24px; border-radius: 999px; background: #2a313b; position: relative; transition: background .2s; }
+.tgl i::after { content: ""; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; border-radius: 50%; background: #fff; transition: transform .2s; }
+.tgl[aria-checked="true"] i { background: var(--op); }
+.tgl[aria-checked="true"] i::after { transform: translateX(16px); }
+@media (prefers-reduced-motion: reduce) { .orb .ring, .orb .core { animation: none !important; } }
+
 .pre .controls, .pre .progress, .pre .card, .pre .caption, .pre .ticker, .pre .brackets, .pre .cats { visibility: hidden; }
 .toast { position: absolute; z-index: 12; left: 50%; top: calc(var(--safe-t) + 76px); transform: translateX(-50%); background: #1b222c; border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; font: 500 13px/1.3 var(--body); opacity: 0; transition: opacity .3s; pointer-events: none; max-width: calc(100% - 32px); text-align: center; }
 .toast.on { opacity: 1; }
@@ -357,7 +379,7 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
     <button class="ctl" id="bPrev" aria-label="Previous story"><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button>
     <button class="ctl play" id="bPlay" aria-label="Play"><svg viewBox="0 0 24 24" id="playIcon"><path d="M8 5v14l11-7z"/></svg></button>
     <button class="ctl" id="bNext" aria-label="Next story"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button>
-    <button class="ctl ask" id="bAsk" aria-label="Ask a question"><svg viewBox="0 0 24 24" style="width:18px;height:18px"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>ASK</button>
+    <button class="ctl ask" id="bAsk" aria-label="Ask a question"><svg viewBox="0 0 24 24" style="width:18px;height:18px"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>TALK</button>
   </div></nav>
 
   <div class="start" id="start">
@@ -370,14 +392,17 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
   <div class="scrim" id="scrim"></div>
 
   <section class="sheet" id="askSheet" aria-label="Ask the analyst">
-    <div class="bar"><h3>Ask the analyst</h3><button class="x" data-close>Close</button></div>
+    <div class="bar"><h3>Talk to the analyst</h3><button class="x" data-close>Close</button></div>
     <div class="body" id="chatBody">
+      <div class="orbWrap">
+        <button class="orb idle" id="orb" aria-label="Talk to the analyst"><span class="ring r1"></span><span class="ring r2"></span><span class="core"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg></span></button>
+        <div class="orbTxt" id="orbTxt" dir="auto">Tap to talk</div>
+      </div>
       <div class="chips" id="chips"></div>
       <div class="chat" id="chat"></div>
     </div>
     <form class="askbar" id="askForm" autocomplete="off">
-      <input id="q" type="text" placeholder="Ask about the news…" enterkeyhint="send" dir="auto">
-      <button type="button" id="bMic" aria-label="Speak your question"><svg viewBox="0 0 24 24"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg></button>
+      <input id="q" type="text" placeholder="Or type a question…" enterkeyhint="send" dir="auto">
       <button type="submit" class="send" aria-label="Send"><svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
     </form>
   </section>
@@ -399,6 +424,11 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
         <label>Location</label>
         <div class="note" id="locNote">Your location is used on this phone only, for local weather and local news. It updates as you move.</div>
         <div class="row"><button class="btn" id="bLoc">Use my location</button></div>
+      </div>
+      <div class="field">
+        <label>Commander &amp; Analyst Q&amp;A</label>
+        <div class="row"><button class="tgl" id="tglDialogue" role="switch" aria-checked="true"><i></i><span>On</span></button></div>
+        <div class="note">On: the Commander asks questions and the Analyst answers, in different voices. Off: one presenter reads each report.</div>
       </div>
       <div class="field">
         <label for="voiceSel">Voice</label>
@@ -436,6 +466,6 @@ canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
-<script src="app.js?v=4"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>
