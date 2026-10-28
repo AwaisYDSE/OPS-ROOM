@@ -305,6 +305,7 @@
   }
   if (synth) { pickVoices(); synth.onvoiceschanged = pickVoices; }
   let rate = parseFloat(store.get("rate", "1")) || 1;
+  let dialogue = store.get("dialogue", "on") !== "off"; // Commander & Analyst ask each other questions
   let engine = store.get("voice", "google"); // "google" = clear online voice, "device" = phone's built-in voice
 
   /* Phone's built-in voice (offline fallback) */
@@ -319,45 +320,88 @@
         const lg = L0 || lang, L = LANGS[lg].sr;
         const v = lg === "en" ? voices.OPERATOR : synth.getVoices().find((x) => x.lang.replace("_", "-").toLowerCase().startsWith(L.slice(0, 2).toLowerCase()));
         if (v) u.voice = v;
-        u.lang = v ? v.lang : L; u.rate = rate; u.pitch = 1;
+        u.lang = v ? v.lang : L; u.rate = rate; u.pitch = sayDevice.pitch || 1;
         u.onend = fin; u.onerror = fin;
         synth.speak(u);
       } catch { /* timer still advances */ }
     });
   }
 
-  /* Clear natural voice: Google's free speech, one audio element (iOS allows it after the first tap) */
-  const player = new Audio(); player.preload = "auto"; player.setAttribute("playsinline", "");
-  const TLD = { OPERATOR: "com", COMMANDER: "co.uk", ANALYST: "com.au" }; // three English accents for the three roles
+  /* Clear natural voice: Google's free speech. Two audio players take turns so the next sentence is
+     already loaded while the current one plays (no gaps). Each role has its own accent and pitch. */
+  const ROLE = {
+    OPERATOR: { tld: "com", speed: 1.04, deep: false },   // American, slightly brisk
+    COMMANDER: { tld: "co.uk", speed: 0.88, deep: true }, // British, deeper and slower
+    ANALYST: { tld: "com.au", speed: 1.0, deep: false },  // Australian, natural
+  };
+  const SILENT = (() => { // 0.1 s of silence as a WAV, used to unlock both players on the first tap
+    const n = 2400, buf = new Uint8Array(44 + n * 2), v = new DataView(buf.buffer);
+    const w = (o, str) => [...str].forEach((c, i) => (buf[o + i] = c.charCodeAt(0)));
+    w(0, "RIFF"); v.setUint32(4, 36 + n * 2, true); w(8, "WAVEfmt "); v.setUint32(16, 16, true); v.setUint16(20, 1, true); v.setUint16(22, 1, true);
+    v.setUint32(24, 24000, true); v.setUint32(28, 48000, true); v.setUint16(32, 2, true); v.setUint16(34, 16, true); w(36, "data"); v.setUint32(40, n * 2, true);
+    let bin = ""; buf.forEach((x) => (bin += String.fromCharCode(x))); return "data:audio/wav;base64," + btoa(bin);
+  })();
+  const players = [new Audio(), new Audio()];
+  players.forEach((p) => { p.preload = "auto"; p.setAttribute("playsinline", ""); });
+  let unlocked = false;
+  function unlockAudio() { // must run inside a tap so iOS lets these players speak later
+    if (unlocked) return; unlocked = true;
+    players.forEach((p) => { try { p.src = SILENT; const q = p.play(); if (q && q.catch) q.catch(() => {}); } catch {} });
+    try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {}
+  }
   let sayGen = 0, gFails = 0, curStop = null;
   function chunks(text) {
     const out = [];
     const parts = text.replace(/\s+/g, " ").trim().split(/(?<=[.!?؟۔。！？])\s*/);
     for (let p of parts) {
-      while (p.length > 180) {
-        let cut = p.lastIndexOf(",", 180); if (cut < 60) cut = p.lastIndexOf("،", 180);
-        if (cut < 60) cut = p.lastIndexOf(" ", 180); if (cut < 60) cut = 180;
+      while (p.length > 190) {
+        let cut = p.lastIndexOf(", ", 190); if (cut < 60) cut = p.lastIndexOf("، ", 190);
+        if (cut < 60) cut = p.lastIndexOf(" ", 190); if (cut < 60) cut = 190;
         out.push(p.slice(0, cut + 1).trim()); p = p.slice(cut + 1);
       }
       if (p.trim()) out.push(p.trim());
     }
-    return out;
+    // join very short pieces so the voice doesn't stop after two words
+    const merged = [];
+    for (const c of out) { const last = merged[merged.length - 1]; if (last && (last + " " + c).length <= 190 && last.length < 60) merged[merged.length - 1] = last + " " + c; else merged.push(c); }
+    return merged;
   }
   function ttsUrl(q, role, L0) {
-    const lg = L0 || lang;
-    const host = lg === "en" ? "translate.google." + (TLD[role] || "com") : "translate.google.com";
+    const lg = L0 || lang, R = ROLE[role] || ROLE.ANALYST;
+    const host = lg === "en" ? "translate.google." + R.tld : "translate.google.com";
     return `https://${host}/translate_tts?ie=UTF-8&client=tw-ob&tl=${LANGS[lg].tts}&q=${encodeURIComponent(q)}`;
   }
-  function playUrl(url, len) {
+  function voiceOf(p, role) {
+    const R = ROLE[role] || ROLE.ANALYST;
+    const deep = R.deep;
+    p.preservesPitch = !deep; p.webkitPreservesPitch = !deep; p.mozPreservesPitch = !deep;
+    p.playbackRate = rate * R.speed; p.defaultPlaybackRate = rate * R.speed;
+  }
+  function preload(url) {
+    if (players.some((p) => p.dataset.u === url)) return;
+    const idle = players.find((p) => p.paused && p !== players.current);
+    if (!idle) return;
+    idle.dataset.u = url; idle.src = url; try { idle.load(); } catch {}
+  }
+  function playUrl(url, len, role) {
     return new Promise((res) => {
+      let p = players.find((x) => x.dataset.u === url) || players.find((x) => x.paused && x !== players.current) || players[0];
+      if (p.dataset.u !== url) { p.dataset.u = url; p.src = url; }
+      players.current = p;
       let done = false;
-      const fin = (ok) => { if (done) return; done = true; clearTimeout(t); player.onended = player.onerror = null; curStop = null; res(ok); };
-      const t = setTimeout(() => fin(false), 5000 + len * 110 / rate);
-      curStop = () => fin(true);
-      player.onended = () => fin(true); player.onerror = () => fin(false);
-      player.src = url; player.playbackRate = rate; player.defaultPlaybackRate = rate;
-      const p = player.play(); if (p && p.catch) p.catch(() => fin(false));
+      const fin = (ok) => { if (done) return; done = true; clearTimeout(t); p.onended = p.onerror = null; curStop = null; p.dataset.u = ""; res(ok); };
+      const t = setTimeout(() => fin(false), 6000 + len * 120 / rate);
+      curStop = () => { try { p.pause(); } catch {} fin(true); };
+      p.onended = () => fin(true); p.onerror = () => fin(false);
+      voiceOf(p, role);
+      const q = p.play(); if (q && q.catch) q.catch(() => fin(false));
     });
+  }
+  let nextUp = null; // the next line, so its first sentence can load early
+  function prefetch(text, role, L0) {
+    nextUp = { text, role, L0 };
+    if (engine !== "google" || !text) return;
+    const c = chunks(text)[0]; if (c) preload(ttsUrl(c, role, L0));
   }
   /** speak text in the current language (or L0); resolves when finished */
   async function say(text, role = "ANALYST", L0) {
@@ -377,18 +421,21 @@
       const cs = chunks(text);
       for (let i = 0; i < cs.length; i++) {
         if (gen !== sayGen) return;
-        const ok = await playUrl(ttsUrl(cs[i], role, L0), cs[i].length);
+        if (i + 1 < cs.length) setTimeout(() => preload(ttsUrl(cs[i + 1], role, L0)), 150);
+        else if (nextUp && nextUp.text !== text) setTimeout(() => { const n = nextUp; const c = n && chunks(n.text)[0]; if (c) preload(ttsUrl(c, n.role, n.L0)); }, 150);
+        const ok = await playUrl(ttsUrl(cs[i], role, L0), cs[i].length, role);
         if (gen !== sayGen) return;
         if (!ok) { gFails++; if (gFails >= 3) toast("Online voice unavailable, using phone voice"); return sayDevice(cs.slice(i).join(" "), L0); }
         gFails = 0;
       }
       return;
     }
+    sayDevice.pitch = role === "COMMANDER" ? 0.8 : role === "OPERATOR" ? 1.1 : 1;
     return sayDevice(text, L0);
   }
   function hush() {
     sayGen++;
-    try { player.pause(); } catch {}
+    players.forEach((p) => { try { p.pause(); } catch {} });
     if (curStop) curStop();
     try { synth && synth.cancel(); } catch {}
   }
@@ -449,19 +496,29 @@
       if (!stories.length) { await sleep(3000); continue; }
       if (idx >= stories.length) idx = 0;
       const s = stories[idx];
-      if (fromLine === 0) { clearInterval(typeTimer); $("role").textContent = ""; $("line").textContent = ""; flyTo(s); showCard(s); await sleep(reduce ? 300 : 1500); if (!alive()) return; }
-      const lines = s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }];
+      let lines = s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }];
+      if (!dialogue) { // one presenter: headline then the facts, no questions
+        const facts = s.summary && s.summary !== s.headline ? s.summary : (lines.find((l) => l.role === "ANALYST") || {}).text;
+        lines = [{ role: "OPERATOR", text: lines[0].text }].concat(facts && facts !== lines[0].text ? [{ role: "OPERATOR", text: facts }] : []);
+      }
+      if (fromLine === 0) {
+        clearInterval(typeTimer); $("role").textContent = ""; $("line").textContent = "";
+        prefetch(lines[0].text, lines[0].role, s.forceLang); // load the first sentence while the globe flies
+        flyTo(s); showCard(s); await sleep(reduce ? 300 : 1200); if (!alive()) return;
+      }
       for (lineIdx = fromLine; lineIdx < lines.length; lineIdx++) {
         if (!alive()) return;
         const l = lines[lineIdx];
         const role = ["OPERATOR", "COMMANDER", "ANALYST"].includes(l.role) ? l.role : "ANALYST";
         caption(role, l.text);
+        const nl = lines[lineIdx + 1], ns = stories[(idx + 1) % stories.length];
+        if (nl) prefetch(nl.text, nl.role, s.forceLang); else if (ns && ns.lines && ns.lines[0]) prefetch(ns.lines[0].text, ns.lines[0].role, ns.forceLang);
         await say(l.text, role, s.forceLang);
         if (!alive()) return;
-        await sleep(350);
+        await sleep(150);
       }
       fromLine = 0;
-      await sleep(700);
+      await sleep(400);
       if (!alive()) return;
       if (idx >= stories.length - 1) {
         caption("OPERATOR", phrase("end"));
@@ -674,6 +731,7 @@
   function closeSheets(silent) {
     document.querySelectorAll(".sheet.open").forEach((s) => s.classList.remove("open"));
     $("scrim").classList.remove("on");
+    if (openSheet && openSheet.id === "askSheet") { talkOn = false; try { rec && rec.abort(); } catch {} orb("idle"); }
     if (!silent && resumeAfter) { resumeAfter = false; if (started) play(lineIdx); }
     openSheet = null;
   }
@@ -681,7 +739,8 @@
   $("scrim").onclick = () => closeSheets();
 
   /* ================= Ask the analyst ================= */
-  const MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"];
+  const MODELS = ["gemini-2.5-flash", "gemini-2.5-flash-lite", "gemini-2.0-flash", "gemini-flash-latest", "gemini-flash-lite-latest", "gemini-2.0-flash-lite"];
+  let goodModel = store.get("gmodel", ""); // remember the model that worked for this key
   let turns = [];
   const chips = [
     "Summarise today's news in 30 seconds",
@@ -691,7 +750,7 @@
     "How will this affect oil and shipping prices?",
     "What's happening in Pakistan?",
   ];
-  chips.forEach((t) => { const b = document.createElement("button"); b.className = "chip"; b.textContent = t; b.onclick = () => ask(t); $("chips").appendChild(b); });
+  chips.forEach((t) => { const b = document.createElement("button"); b.className = "chip"; b.textContent = t; b.onclick = () => { unlockAudio(); ask(t); }; $("chips").appendChild(b); });
 
   function newsContext() {
     const all = [weatherStory, ...allStories, ...localStories].filter(Boolean);
@@ -714,35 +773,39 @@ How to answer:
 - Reply in ${L}.`;
   }
 
-  async function gemini(question, key) {
+  async function gemini(question, key, opts = {}) {
     const contents = turns.map((t) => ({ role: t.role === "user" ? "user" : "model", parts: [{ text: t.text }] }))
       .concat([{ role: "user", parts: [{ text: question }] }]);
-    let lastErr = null;
-    for (const model of MODELS) {
-      for (const withSearch of [true, false]) {
-        const body = { systemInstruction: { parts: [{ text: rules() }] }, contents, generationConfig: { temperature: 0.3, maxOutputTokens: 600 } };
+    const order = goodModel ? [goodModel, ...MODELS.filter((m) => m !== goodModel)] : MODELS;
+    const errors = [];
+    for (const model of order) {
+      for (const withSearch of opts.noSearch ? [false] : [true, false]) {
+        const body = { systemInstruction: { parts: [{ text: opts.system || rules() }] }, contents, generationConfig: { temperature: 0.3, maxOutputTokens: 600 } };
         if (withSearch) body.tools = [{ google_search: {} }];
+        let r, data;
         try {
-          const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${encodeURIComponent(key)}`, {
+          r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${encodeURIComponent(key)}`, {
             method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body),
           });
-          const data = await r.json();
-          if (!r.ok) {
-            lastErr = new Error((data.error && data.error.message) || "HTTP " + r.status);
-            if (r.status === 400 && /api key/i.test(lastErr.message)) throw lastErr;
-            if (r.status === 429) throw new Error("The free Gemini limit is used up for now.");
-            continue;
-          }
-          const cand = data.candidates && data.candidates[0];
-          const text = cand && cand.content && (cand.content.parts || []).map((p) => p.text || "").join("").trim();
-          if (!text) { lastErr = new Error("Empty answer"); continue; }
-          const chunksG = (cand.groundingMetadata && cand.groundingMetadata.groundingChunks) || [];
-          const sources = chunksG.map((c) => c.web).filter(Boolean).slice(0, 4);
-          return { text: text.replace(/[*#_`]/g, ""), sources };
-        } catch (e) { lastErr = e; if (/api key|limit/i.test(e.message)) throw e; }
+          data = await r.json();
+        } catch (e) { errors.push(model + ": network"); continue; }
+        if (!r.ok) {
+          const msg = (data.error && data.error.message) || "HTTP " + r.status;
+          errors.push(`${model}${withSearch ? "+search" : ""}: ${r.status}`);
+          if (r.status === 400 && /api key not valid|API_KEY_INVALID/i.test(msg)) throw new Error("This key is not valid. Copy it again from aistudio.google.com/apikey.");
+          if (r.status === 403) errors.push(msg.slice(0, 140));
+          continue; // 429 (limit), 404 (model not available) or anything else: try the next option
+        }
+        const cand = data.candidates && data.candidates[0];
+        const text = cand && cand.content && (cand.content.parts || []).map((p) => p.text || "").join("").trim();
+        if (!text) { errors.push(model + ": empty"); continue; }
+        if (goodModel !== model) { goodModel = model; store.set("gmodel", model); }
+        const chunksG = (cand.groundingMetadata && cand.groundingMetadata.groundingChunks) || [];
+        const sources = chunksG.map((c) => c.web).filter(Boolean).slice(0, 4);
+        return { text: text.replace(/[*#_`]/g, ""), sources, model };
       }
     }
-    throw lastErr || new Error("No answer");
+    throw new Error("Google refused every model (" + errors.slice(0, 6).join("; ") + ")");
   }
 
   /* Free AI with no key at all (pollinations.ai). One question at a time, about 30 s apart. */
@@ -798,18 +861,20 @@ How to answer:
     return { el: m, text: p };
   }
 
-  let asking = false;
-  async function ask(q) {
+  let asking = false, geminiWarned = false;
+  async function ask(q, fromVoice) {
     q = (q || "").trim(); if (!q || asking) return;
     asking = true; $("q").value = ""; $("q").blur();
     hush();
     addMsg("me", q);
     const pending = addMsg("ai", "Thinking…");
+    orb("think");
     const key = store.get("gkey", "");
     let answer = null, sources = [];
     const waitNote = (n) => { pending.text.textContent = `Analyst is finishing the last answer… ${n}s`; };
     if (key) {
-      try { const r = await gemini(q, key); answer = r.text; sources = r.sources; } catch (e) { console.warn(e); }
+      try { const r = await gemini(q, key); answer = r.text; sources = r.sources; }
+      catch (e) { console.warn(e); if (!geminiWarned) { geminiWarned = true; toast("Gemini key: " + e.message.slice(0, 160) + ". Using the free AI instead.", 6000); } }
     }
     if (!answer) {
       try { const r = await freeAI(q, waitNote); answer = r.text; } catch (e) { console.warn(e); }
@@ -821,37 +886,63 @@ How to answer:
     turns = turns.slice(-10);
     asking = false;
     caption("ANALYST", answer.length > 140 ? answer.slice(0, 137) + "…" : answer);
+    orb("speak");
     await say(answer, "ANALYST");
+    if (!fromVoice) orb("idle");
   }
-  $("askForm").onsubmit = (e) => { e.preventDefault(); ask($("q").value); };
+  $("askForm").onsubmit = (e) => { e.preventDefault(); unlockAudio(); ask($("q").value); };
 
-  /* voice input */
+  /* ================= hands-free talk (like Gemini Live) ================= */
   const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
-  let rec = null;
-  $("bMic").onclick = () => {
-    if (!SR) { $("q").focus(); toast("Tap the mic on your keyboard to speak"); return; }
-    if (rec) { rec.stop(); return; }
+  let rec = null, talkOn = false, orbState = "idle";
+  function orb(state, text) {
+    orbState = state;
+    $("orb").className = "orb " + state;
+    $("orbTxt").textContent = text || { idle: "Tap to talk", listen: "Listening… just speak", think: "Thinking…", speak: "Speaking… tap to stop" }[state];
+  }
+  function listen() {
+    if (!SR) {
+      orb("idle", "Voice input is off on this phone. Turn on Settings → Siri → \"Talk to Siri\", and Settings → General → Keyboard → Enable Dictation. Then reopen the app.");
+      talkOn = false; return;
+    }
     hush();
     try {
-      rec = new SR(); rec.lang = LANGS[lang].sr; rec.interimResults = true; rec.continuous = false;
-      $("bMic").classList.add("rec");
-      let final = "";
-      rec.onresult = (e) => { let t = ""; for (const r of e.results) t += r[0].transcript; $("q").value = t; if (e.results[e.results.length - 1].isFinal) final = t; };
-      rec.onerror = () => { toast("Couldn't hear you. Tap the keyboard mic instead."); };
-      rec.onend = () => { $("bMic").classList.remove("rec"); rec = null; const v = final || $("q").value; if (v.trim()) ask(v); };
-      rec.start();
-    } catch { rec = null; $("bMic").classList.remove("rec"); $("q").focus(); }
+      rec = new SR(); rec.lang = LANGS[lang].sr; rec.interimResults = true; rec.continuous = false; rec.maxAlternatives = 1;
+      let finalText = "", heard = "";
+      rec.onresult = (e) => {
+        let t = ""; for (const r of e.results) t += r[0].transcript;
+        heard = t; $("orbTxt").textContent = "“" + t + "”";
+        if (e.results[e.results.length - 1].isFinal) finalText = t;
+      };
+      rec.onerror = (e) => {
+        if (e.error === "not-allowed" || e.error === "service-not-allowed") { talkOn = false; orb("idle", "Allow the microphone and speech recognition for this site, then tap again."); }
+      };
+      rec.onend = async () => {
+        rec = null;
+        const q = (finalText || heard).trim();
+        if (!q) { if (talkOn) orb("idle", "I didn't hear anything. Tap to talk."); talkOn = false; return; }
+        await ask(q, true);
+        if (talkOn) setTimeout(() => { if (talkOn) listen(); }, 300); else orb("idle");
+      };
+      rec.start(); orb("listen");
+    } catch (e) { talkOn = false; orb("idle", "Couldn't start the microphone. Tap to try again."); }
+  }
+  $("orb").onclick = () => {
+    unlockAudio();
+    if (orbState === "listen") { talkOn = false; try { rec && rec.stop(); } catch {} return; }
+    if (orbState === "speak" || orbState === "think") { talkOn = false; hush(); orb("idle"); return; }
+    talkOn = true; listen();
   };
 
   /* ================= settings ================= */
   $("key").value = store.get("gkey", "");
   function keyNote() { $("keyNote").innerHTML = store.get("gkey", "") ? '<span class="ok">AI key saved. The analyst can search the web.</span>' : "The analyst already answers for free without a key. A free Gemini key adds live Google search for questions beyond today's reports."; }
   keyNote();
-  $("bSaveKey").onclick = () => { store.set("gkey", $("key").value.trim()); keyNote(); toast($("key").value.trim() ? "Key saved" : "Key removed"); };
+  $("bSaveKey").onclick = () => { store.set("gkey", $("key").value.trim()); goodModel = ""; geminiWarned = false; keyNote(); toast($("key").value.trim() ? "Key saved" : "Key removed"); };
   $("bTestKey").onclick = async () => {
     const k = $("key").value.trim(); if (!k) { toast("Paste a key first"); return; }
-    $("keyNote").textContent = "Testing…";
-    try { const r = await gemini("Reply with exactly: Analyst online.", k); $("keyNote").innerHTML = '<span class="ok">Working: ' + r.text.replace(/</g, "&lt;") + "</span>"; store.set("gkey", k); }
+    $("keyNote").textContent = "Testing every Gemini model…";
+    try { goodModel = ""; const r = await gemini("Reply with exactly: Analyst online.", k, { noSearch: true, system: "Reply briefly." }); $("keyNote").innerHTML = '<span class="ok">Working with ' + r.model + ": " + r.text.replace(/</g, "&lt;") + "</span>"; store.set("gkey", k); }
     catch (e) { $("keyNote").textContent = "Didn't work: " + e.message; }
   };
   function fillSelect(el) {
@@ -868,42 +959,47 @@ How to answer:
   }
   document.querySelectorAll(".langSel").forEach(fillSelect);
   applyLang();
+  function showDialogue() { const t = $("tglDialogue"); t.setAttribute("aria-checked", String(dialogue)); t.querySelector("span").textContent = dialogue ? "On" : "Off"; }
+  showDialogue();
+  $("tglDialogue").onclick = () => { dialogue = !dialogue; store.set("dialogue", dialogue ? "on" : "off"); showDialogue(); toast(dialogue ? "Commander and Analyst will discuss each report" : "One presenter reads each report"); };
   $("voiceSel").value = engine;
   $("voiceSel").onchange = () => { engine = $("voiceSel").value; gFails = 0; store.set("voice", engine); };
   $("rate").value = rate; $("rateVal").textContent = rate.toFixed(2) + "×";
   $("rate").oninput = () => { rate = parseFloat($("rate").value); store.set("rate", String(rate)); $("rateVal").textContent = rate.toFixed(2) + "×"; };
   $("bTestVoice").onclick = async () => {
-    hush(); pickVoices();
+    unlockAudio(); hush(); pickVoices();
     gFails = 0;
-    say(phrase("fresh"), "OPERATOR").then(() => say(lang === "en" ? "Commander here." : "", "COMMANDER")).then(() => say(lang === "en" ? "Analyst ready." : "", "ANALYST"));
+    say(lang === "en" ? "Operator here. Reports are coming in." : phrase("fresh"), "OPERATOR").then(() => say(lang === "en" ? "Commander here. What's the situation?" : phrase("fresh"), "COMMANDER")).then(() => say(lang === "en" ? "Analyst here. Here are the facts." : phrase("fresh"), "ANALYST"));
   };
   $("bRefresh").onclick = async () => { const f = await loadNews(false); toast(f ? "New reports loaded" : "No new reports yet"); };
 
   /* ================= controls ================= */
   function begin(withIntro = true) {
     if (started) return; started = true;
+    unlockAudio();
     $("start").hidden = true; $("app").classList.remove("pre");
     startLocation(false);
     setTimeout(() => $("intro").classList.add("gone"), 1200);
-    // first sound must start inside the tap, so iOS unlocks audio
     const first = phrase("hello", { g: greeting(), n: allStories.length });
     caption("OPERATOR", first);
     if (withIntro) {
       setPlaying(true);
       const my = ++runId;
       say(first, "OPERATOR").then(() => { if (playing && my === runId) run(0); });
-    } else { hush(); try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
+    } else { hush(); }
   }
   $("bStart").onclick = () => begin(true);
   $("bSettings0").onclick = () => open("setSheet");
-  $("bPlay").onclick = () => { if (!started) return begin(true); playing ? pause() : play(lineIdx); };
+  $("bPlay").onclick = () => { unlockAudio(); if (!started) return begin(true); playing ? pause() : play(lineIdx); };
   $("bNext").onclick = () => { if (!started) begin(false); jump(idx + 1); };
   $("bPrev").onclick = () => { if (!started) begin(false); jump(idx - 1); };
   $("bList").onclick = () => { renderList(); open("listSheet"); };
   $("bAsk").onclick = () => {
-    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); startLocation(false); try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {} try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
+    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); startLocation(false); }
+    unlockAudio();
     resumeAfter = playing; if (playing) pause();
     open("askSheet");
+    if (SR && orbState === "idle") { talkOn = true; listen(); }
   };
   $("bSet").onclick = () => { resumeAfter = playing; if (playing) pause(); open("setSheet"); };
 
