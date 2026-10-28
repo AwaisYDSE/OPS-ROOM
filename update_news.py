@@ -606,7 +606,30 @@ def tag_types(stories, items):
         st["countries"] = ([main] if main else []) + extra
 
 
+ICON_DESIGN = "ops-room-icon:globe-v2"  # must match the stamp in make_icons.py
+
+
+def refresh_icons():
+    """Redraw the home-screen icons once when the icon design changes; never stops the news update."""
+    try:
+        with open(os.path.join(ROOT, "icon-512.png"), "rb") as f:
+            if ICON_DESIGN.encode() in f.read():
+                return
+        import subprocess
+        def run(*cmd, **kw):
+            subprocess.run(list(cmd), cwd=ROOT, check=True, timeout=600, **kw)
+        run(sys.executable, "-m", "pip", "install", "-q", "pillow")
+        run("npm", "i", "--no-save", "--silent", "d3@7.8.5", "topojson-client@3.1.0", "world-atlas@2.0.2")
+        with open(os.path.join(ROOT, "icon-geo.json"), "w") as f:
+            run("node", "make_icon_geo.js", stdout=f)
+        run(sys.executable, "make_icons.py")
+        print("Icons redrawn")
+    except Exception as e:
+        print(f"icon drawing skipped: {e}", file=sys.stderr)
+
+
 def main():
+    refresh_icons()
     all_items = []
     for url, w in FEEDS:
         try:
