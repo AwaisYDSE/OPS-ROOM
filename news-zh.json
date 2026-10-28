@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:59:43.700312Z",
+ "updated": "2026-10-28T16:46:44.646316Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
@@ -43,7 +43,7 @@
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US costs of Iran war rise to over $47bn, according to Pentagon estimate."
+     "text": "据五角大楼估计，美国在伊朗战争中的成本将上升至超过 470 亿美元。"
     },
     {
      "role": "COMMANDER",
@@ -61,59 +61,6 @@
    "countries": [
     "United States of America",
     "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "巴基斯坦以“一个中国”政策为由拒绝台湾航空公司入境",
-   "summary": "巴基斯坦以“一个中国”政策为由拒绝台湾航空公司入境",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦以一个中国政策为由拒绝台湾航空公司入境。"
-    }
-   ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:05:17Z",
-   "countries": [
-    "Pakistan",
-    "Taiwan",
-    "China"
-   ]
-  },
-  {
-   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "加拿大和阿联酋签署贸易、国防和能源协议",
-   "summary": "加拿大和阿联酋签署贸易、国防和能源协议",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "加拿大和阿联酋签署贸易、国防和能源协议。"
-    }
-   ],
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "type": "VIDEO",
-   "time": "2026-10-28T11:34:24Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
    ]
   },
   {
@@ -143,6 +90,32 @@
    ]
   },
   {
+   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "加拿大和阿联酋签署贸易、国防和能源协议",
+   "summary": "加拿大和阿联酋签署贸易、国防和能源协议",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "加拿大和阿联酋签署贸易、国防和能源协议。"
+    }
+   ],
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
+   "type": "VIDEO",
+   "time": "2026-10-28T11:34:24Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
+  },
+  {
    "id": "oil-spikes-following-houthi-attack-on-saudi-oil-",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
@@ -162,10 +135,147 @@
    "source": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVMyaWtEMjQ2Z1YtOF92LUp3SXlLOWp4REd1RXFwOEJPSExYTjZRS2Q5bXpGcW0yMlRiVks2Z0xIbmt1NDZoamxwWURib2V3WjUtLUtKaFdPNWl5SFF0NWVVOElDeHFkYUdLR0FZYnZEZGNpZ2xuU1VxZkVuLWVkRFlIX2JfUE0tV3FjNFo2U3dlVkZQTXdFRmFQWUQyY0dD?oc=5",
    "type": null,
-   "time": "2026-10-28T15:47:17Z",
+   "time": "2026-10-28T15:46:03Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
+   "summary": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告。"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:20:22Z",
+   "countries": [
+    "Pakistan",
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "哈里斯·劳夫因在对阵英格兰的三系列赛中违反国际刑事法院行为准则而受到处罚",
+   "summary": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "哈里斯·劳夫 (Haris Rauf) 在对阵英格兰的三系列赛中因违反国际刑事法院行为准则而受到处罚。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "霍尔木兹漏油事件迫使阿联酋海滩关闭",
+   "summary": "霍尔木兹漏油事件迫使阿联酋海滩关闭",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "霍尔木兹漏油事件迫使阿联酋海滩关闭。"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5",
+   "type": null,
+   "time": "2026-10-28T11:15:08Z",
+   "countries": [
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "拉杰纳特·辛格在与美国战争部长赫格塞斯的会谈中向巴基斯坦提出了 F-16 喷气式飞机包",
+   "summary": "拉杰纳特·辛格在与美国战争部长赫格塞斯的会谈中向巴基斯坦提出了 F-16 喷气式飞机包",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "拉杰纳特·辛格 (Rajnath Singh) 在与美国战争部长赫格斯 (Hegseth) 的会谈中向巴基斯坦提出了 F-16 喷气式飞机包。"
+    }
+   ],
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:18:17Z",
+   "countries": [
+    "Pakistan",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法",
+   "summary": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "type": null,
+   "time": "2026-10-28T16:02:29Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -197,267 +307,6 @@
    ]
   },
   {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "交易商权衡美伊外交和沙特袭击，油价下跌",
-   "summary": "交易商权衡美伊外交和沙特袭击，油价下跌",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着交易商权衡美国与伊朗的外交和沙特的袭击，油价下跌。"
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:48:49Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "哈里斯·劳夫因在对阵英格兰的三系列赛中违反国际刑事法院行为准则而受到处罚",
-   "summary": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "哈里斯·劳夫 (Haris Rauf) 在对阵英格兰的三系列赛中因违反国际刑事法院行为准则而受到处罚。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
-   "type": null,
-   "time": "2026-10-28T15:23:22Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-prices-climb-after-houthis-claim-strike-on-s",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "胡塞武装声称袭击沙特阿拉伯最大炼油厂后油价上涨",
-   "summary": "胡塞武装声称袭击沙特阿拉伯最大炼油厂后油价上涨",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装声称袭击沙特阿拉伯最大的炼油厂后，油价上涨。"
-    }
-   ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNjdwU0VoYnFNU2dtSDRuZnRCUW9BdFZTVVh6UElIMXlYV2RLZFZUQ3RsUEVmdExsN3ppdGZPMUNEb1F0QWE5WEYzbFoyWkhfcDB0cFlKMm9UUzJYc29vd1lLYWtIbmlPZW5hclc0Mlg3MkxnbHc?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:09:38Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "拉杰纳特·辛格在与美国战争部长赫格塞斯的会谈中向巴基斯坦提出了 F-16 喷气式飞机包",
-   "summary": "拉杰纳特·辛格在与美国战争部长赫格塞斯的会谈中向巴基斯坦提出了 F-16 喷气式飞机包",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "拉杰纳特·辛格 (Rajnath Singh) 在与美国战争部长赫格斯 (Hegseth) 的会谈中向巴基斯坦提出了 F-16 喷气式飞机包。"
-    }
-   ],
-   "source": "The Tribune",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:18:17Z",
-   "countries": [
-    "Pakistan",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞武装在疏散警告后袭击也门亚丁机场",
-   "summary": "胡塞武装在疏散警告后袭击也门亚丁机场",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装在发出疏散警告后袭击了也门亚丁机场。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:28:31Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法",
-   "summary": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "官员表示，伊朗在最新的结束战争调解中只看到了不可接受的想法。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-   "type": null,
-   "time": "2026-10-28T12:20:04Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "俄罗斯-非洲峰会：议程上有什么，为什么重要？",
-   "summary": "莫斯科旨在在为期两天的会议期间加强与非洲领导人的经济和安全关系。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯-非洲峰会：议程上有什么，为什么重要？"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好的。细节？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "莫斯科旨在在为期两天的会议期间加强与非洲领导人的经济和安全关系。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-28T11:33:26Z",
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
-   "country": "Spain",
-   "label": "西班牙",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "西班牙火车相撞事故造成至少68人死亡，目击者描述了毁灭性的场景",
-   "summary": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "西班牙火车相撞事故造成至少 68 人死亡，目击者描述了毁灭性的场景。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。"
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T15:42:00Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "spanish-football-postpones-24-copa-del-rey-games",
-   "country": "Spain",
-   "label": "西班牙",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "西班牙足球因火车相撞事故推迟24场国王杯比赛",
-   "summary": "西班牙足球俱乐部下令推迟美洲杯，皇家马德里和巴塞罗那在火车相撞事故后发出了支持信息。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "西班牙足球因火车相撞事故推迟了 24 场国王杯比赛。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好吧，还有什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "西班牙足球俱乐部下令推迟美洲杯，皇家马德里和巴塞罗那在火车相撞事故后发出了支持信息。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-28T13:48:09Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
    "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
@@ -477,7 +326,7 @@
    "source": "Euromaidan Press",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
    "type": null,
-   "time": "2026-10-28T13:42:38Z",
+   "time": "2026-10-28T13:43:37Z",
    "countries": [
     "United Arab Emirates",
     "Ukraine",
@@ -486,31 +335,188 @@
    ]
   },
   {
-   "id": "egypt-saudi-arabia-pledge-closer-coordination-wi",
-   "country": "Egypt",
-   "label": "埃及",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "info",
+   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
    "category": "Middle East",
-   "headline": "埃及、沙特阿拉伯承诺与土耳其和巴基斯坦加强协调",
-   "summary": "埃及、沙特阿拉伯承诺与土耳其和巴基斯坦加强协调",
+   "headline": "胡塞武装在疏散警告后袭击也门亚丁机场",
+   "summary": "胡塞武装在疏散警告后袭击也门亚丁机场",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "埃及、沙特阿拉伯承诺与土耳其和巴基斯坦进行更密切的协调。"
+     "text": "胡塞武装在发出疏散警告后袭击也门亚丁机场。"
     }
    ],
-   "source": "Türkiye Today",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
    "type": null,
-   "time": "2026-10-28T08:37:05Z",
+   "time": "2026-10-28T13:28:31Z",
    "countries": [
-    "Egypt",
-    "Saudi Arabia",
-    "Turkey",
-    "Pakistan"
+    "Yemen"
+   ]
+  },
+  {
+   "id": "what-is-the-controversy-between-real-madrid-s-ky",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "皇马姆巴佩与中国之间有何争议？",
+   "summary": "这位法国巨星对毛泽东的评论引起了中国的愤怒，中国是运动队利润丰厚的市场。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "皇马姆巴佩与中国之间有何争议？"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "为什么要搬家？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "这位法国巨星对毛泽东的评论引起了中国的愤怒，中国是运动队利润丰厚的市场。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-28T15:36:39Z",
+   "countries": [
+    "Spain",
+    "China",
+    "France"
+   ]
+  },
+  {
+   "id": "philippines-in-talks-with-several-countries-incl",
+   "country": "Philippines",
+   "label": "菲律宾",
+   "lat": 12.9,
+   "lon": 121.8,
+   "flag": "🇵🇭",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "菲律宾正在与包括沙特阿拉伯在内的多个国家就石油储存问题进行谈判",
+   "summary": "菲律宾正在与包括沙特阿拉伯在内的多个国家就石油储存问题进行谈判",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "菲律宾正在与包括沙特阿拉伯在内的多个国家就石油储存问题进行谈判。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWM1YlAzX25ySkZ2NmFQUzBWQnNPLTVzYlVOLVdsMHlFcEN0QWJ5a05xQXMyRF9VR05iNmc4MnNzVW5zd2tYWW5YUEJxR0xKN1NpTmxOYjdyemFiT1JfaUc0R29kQ3plNHJOZ2hnNTE0X1E3MmNDNDM5NmVqQXpVbnJBNTNOaU1LaHA3aW5fV0JmUzd5RDQyQWF1a3hVTG4tQVFUaTlzelhMT0lfcEZKU1VpSVZlejJjUEpGLTh2bm94b3FwNWc?oc=5",
+   "type": null,
+   "time": "2026-10-28T09:07:44Z",
+   "countries": [
+    "Philippines",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "at-least-68-killed-in-train-crash-in-spain-offic",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "官员称西班牙火车相撞事故至少造成 68 人死亡",
+   "summary": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "官员称，西班牙火车相撞事故至少造成 68 人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。"
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5",
+   "type": "LIVE",
+   "time": "2026-10-28T16:33:55Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "how-could-israel-break-election-deadlock-here-ar",
+   "country": "Israel",
+   "label": "以色列",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "以色列如何打破选举僵局？这里有四种情况",
+   "summary": "85% 的选票已清点完毕，所有迹象都表明陷入僵局。最有可能的结果可能是新的选举。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以色列如何打破选举僵局？这里有四种情况。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "85% 的选票已清点完毕，所有迹象都表明陷入僵局。最有可能的结果可能是新的选举。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-28T14:30:31Z",
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "at-least-64-people-killed-in-spain-as-two-high-s",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "西班牙两列高铁相撞 至少64人死亡",
+   "summary": "周三，西班牙救援人员在事故现场搜寻更多尸体，两列高速列车相撞，造成至少 64 人死亡，这是该国今年第二起致命铁路事故。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "西班牙两列高铁相撞，造成至少 64 人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周三，西班牙救援人员在事故现场搜寻更多尸体，两列高速列车相撞，造成至少 64 人死亡，这是该国今年第二起致命铁路事故。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040442/at-least-64-people-killed-in-spain-as-two-high-speed-trains-collide",
+   "type": null,
+   "time": "2026-10-28T13:38:36Z",
+   "countries": [
+    "Spain"
    ]
   }
  ]

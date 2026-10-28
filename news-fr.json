@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:59:43.700312Z",
+ "updated": "2026-10-28T16:46:44.646316Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
@@ -64,30 +64,29 @@
    ]
   },
   {
-   "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Le Pakistan refuse l'entrée à Taiwan Airlines en invoquant la politique d'une seule Chine",
-   "summary": "Le Pakistan refuse l'entrée à Taiwan Airlines en invoquant la politique d'une seule Chine",
+   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne",
+   "summary": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Pakistan refuse l'entrée à Taiwan Airlines en invoquant la politique d'une seule Chine."
+     "text": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne."
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
    "type": null,
-   "time": "2026-10-28T14:05:17Z",
+   "time": "2026-10-28T13:29:34Z",
    "countries": [
-    "Pakistan",
-    "Taiwan",
-    "China"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -117,32 +116,6 @@
    ]
   },
   {
-   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne",
-   "summary": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole augmentent alors que les militants Houthis ciblent l’énergie saoudienne."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:29:34Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
    "id": "oil-spikes-following-houthi-attack-on-saudi-oil-",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
@@ -151,8 +124,8 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Le pétrole augmente après l'attaque des Houthis contre une raffinerie saoudienne",
-   "summary": "Le pétrole augmente après l'attaque des Houthis contre une raffinerie saoudienne",
+   "headline": "Le prix du pétrole augmente après l'attaque des Houthis contre une raffinerie saoudienne",
+   "summary": "Le prix du pétrole augmente après l'attaque des Houthis contre une raffinerie saoudienne",
    "lines": [
     {
      "role": "OPERATOR",
@@ -162,65 +135,37 @@
    "source": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVMyaWtEMjQ2Z1YtOF92LUp3SXlLOWp4REd1RXFwOEJPSExYTjZRS2Q5bXpGcW0yMlRiVks2Z0xIbmt1NDZoamxwWURib2V3WjUtLUtKaFdPNWl5SFF0NWVVOElDeHFkYUdLR0FZYnZEZGNpZ2xuU1VxZkVuLWVkRFlIX2JfUE0tV3FjNFo2U3dlVkZQTXdFRmFQWUQyY0dD?oc=5",
    "type": null,
-   "time": "2026-10-28T15:47:17Z",
+   "time": "2026-10-28T15:46:03Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "watch",
-   "category": "Middle East",
-   "headline": "Mohsen Rezaei accueille à Téhéran des discussions sur la sécurité régionale entre l'Iran, l'Arabie Saoudite, le Pakistan et la Turquie",
-   "summary": "Mohsen Rezaei accueille à Téhéran des discussions sur la sécurité régionale entre l'Iran, l'Arabie Saoudite, le Pakistan et la Turquie",
+   "category": "Pakistan",
+   "headline": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport",
+   "summary": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Mohsen Rezaei accueille à Téhéran des discussions sur la sécurité régionale entre l'Iran, l'Arabie saoudite, le Pakistan et la Turquie."
+     "text": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport."
     }
    ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhVekJqV3pMazdMUVU2SFUxdWtITkZkdWNmZ19GWTRtaTFsN3BJVG5FbmN0ZmpZX3JQYWtIVmlTYkhqMjlqLTFuWkR5T1l3UnpCcEdKNDU4YUZQVVlNZFBHbl9mSGdyZ1lnUjlNTW04NjNac2ZVcVFhSHliYWlIanpLWll1MkxVb1VjUGs1eFZLOUZfeDdoSUxZb0YwemUtSmFLb2JuMHV2a2xZVmJseUtUenBGS0pJZDVrRVZGSUlHRTlWdl8tRWJpclYxUQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
    "type": null,
-   "time": "2026-10-28T11:33:19Z",
+   "time": "2026-10-28T12:20:22Z",
    "countries": [
-    "Iran",
-    "Saudi Arabia",
     "Pakistan",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole chutent alors que les commerçants évaluent la diplomatie américano-iranienne et les attaques saoudiennes",
-   "summary": "Les prix du pétrole chutent alors que les commerçants évaluent la diplomatie américano-iranienne et les attaques saoudiennes",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole chutent alors que les commerçants évaluent la diplomatie américano-iranienne et les attaques saoudiennes."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:48:49Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
@@ -232,7 +177,7 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Sports",
-   "headline": "Haris Rauf sanctionné pour violation du code de conduite de la CCI lors d'un match de trois séries contre l'Angleterre",
+   "headline": "Haris Rauf pénalisé pour violation du code de conduite de la CCI lors d'un match de trois séries contre l'Angleterre",
    "summary": "Le meneur pakistanais Haris Rauf a été condamné à une amende de 20 % de son montant pour avoir enfreint le code de conduite de l'International Cricket Council (ICC) lors du match de trois séries One-day International (ODI) contre l'Angleterre dimanche.",
    "lines": [
     {
@@ -241,7 +186,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
+     "text": "Qui est derrière tout ça ?"
     },
     {
      "role": "ANALYST",
@@ -257,29 +202,29 @@
    ]
   },
   {
-   "id": "oil-prices-climb-after-houthis-claim-strike-on-s",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "country": "Iran",
+   "label": "DÉTROIT D'HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Les prix du pétrole grimpent après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie d'Arabie Saoudite",
-   "summary": "Les prix du pétrole grimpent après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie d'Arabie Saoudite",
+   "headline": "La marée noire d'Ormuz force la fermeture des plages des Émirats arabes unis",
+   "summary": "La marée noire d'Ormuz force la fermeture des plages des Émirats arabes unis",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les prix du pétrole grimpent après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie d'Arabie saoudite."
+     "text": "La marée noire d’Ormuz force la fermeture des plages des Émirats arabes unis."
     }
    ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNjdwU0VoYnFNU2dtSDRuZnRCUW9BdFZTVVh6UElIMXlYV2RLZFZUQ3RsUEVmdExsN3ppdGZPMUNEb1F0QWE5WEYzbFoyWkhfcDB0cFlKMm9UUzJYc29vd1lLYWtIbmlPZW5hclc0Mlg3MkxnbHc?oc=5",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5",
    "type": null,
-   "time": "2026-10-28T14:09:38Z",
+   "time": "2026-10-28T11:15:08Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Iran",
+    "United Arab Emirates"
    ]
   },
   {
@@ -309,6 +254,87 @@
    ]
   },
   {
+   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
+   "summary": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Iran ne voit que des idées inacceptables dans la dernière médiation visant à mettre fin à la guerre, a déclaré un responsable."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "type": null,
+   "time": "2026-10-28T16:02:29Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "Mohsen Rezaei accueille à Téhéran des pourparlers entre l'Iran, l'Arabie Saoudite, le Pakistan et la Turquie sur la sécurité régionale",
+   "summary": "Mohsen Rezaei accueille à Téhéran des pourparlers entre l'Iran, l'Arabie Saoudite, le Pakistan et la Turquie sur la sécurité régionale",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Mohsen Rezaei accueille à Téhéran des discussions sur la sécurité régionale entre l'Iran, l'Arabie saoudite, le Pakistan et la Turquie."
+    }
+   ],
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhVekJqV3pMazdMUVU2SFUxdWtITkZkdWNmZ19GWTRtaTFsN3BJVG5FbmN0ZmpZX3JQYWtIVmlTYkhqMjlqLTFuWkR5T1l3UnpCcEdKNDU4YUZQVVlNZFBHbl9mSGdyZ1lnUjlNTW04NjNac2ZVcVFhSHliYWlIanpLWll1MkxVb1VjUGs1eFZLOUZfeDdoSUxZb0YwemUtSmFLb2JuMHV2a2xZVmJseUtUenBGS0pJZDVrRVZGSUlHRTlWdl8tRWJpclYxUQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T11:33:19Z",
+   "countries": [
+    "Iran",
+    "Saudi Arabia",
+    "Pakistan",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "L'Ukraine veut des négociations d'Abou Dhabi avec la Russie avant le sommet Trump-Poutine-Xi proposé",
+   "summary": "L'Ukraine veut des négociations d'Abou Dhabi avec la Russie avant le sommet Trump-Poutine-Xi proposé",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Ukraine souhaite avoir des pourparlers à Abou Dhabi avec la Russie avant la proposition d’un sommet Trump-Poutine-Xi."
+    }
+   ],
+   "source": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:43:37Z",
+   "countries": [
+    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ]
+  },
+  {
    "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
    "country": "Yemen",
    "label": "YÉMEN",
@@ -334,65 +360,68 @@
    ]
   },
   {
-   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
-   "summary": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
+   "id": "what-is-the-controversy-between-real-madrid-s-ky",
+   "country": "Spain",
+   "label": "ESPAGNE",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Quelle est la polémique entre Kylian Mbappé du Real Madrid et la Chine ?",
+   "summary": "Les propos de la superstar française à l'égard de Mao Zedong ont suscité l'ire de la Chine, un marché lucratif pour les équipes sportives.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'Iran ne voit que des idées inacceptables dans la dernière médiation visant à mettre fin à la guerre, a déclaré un responsable."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-   "type": null,
-   "time": "2026-10-28T12:20:04Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
-   "country": "Russia",
-   "label": "RUSSIE",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Sommet Russie-Afrique : quel est l’ordre du jour et pourquoi est-ce important ?",
-   "summary": "Moscou vise à renforcer les liens économiques et sécuritaires avec les dirigeants africains au cours de cette réunion de deux jours.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Sommet Russie-Afrique : quel est le programme et pourquoi est-ce important ?"
+     "text": "Quelle est la polémique entre Kylian Mbappé du Real Madrid et la Chine ?"
     },
     {
      "role": "COMMANDER",
-     "text": "D'accord. Détails?"
+     "text": "Pourquoi ce déménagement ?"
     },
     {
      "role": "ANALYST",
-     "text": "Moscou vise à renforcer les liens économiques et sécuritaires avec les dirigeants africains au cours de cette réunion de deux jours."
+     "text": "Les propos de la superstar française à l'égard de Mao Zedong ont suscité l'ire de la Chine, un marché lucratif pour les équipes sportives."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
    "type": null,
-   "time": "2026-10-28T11:33:26Z",
+   "time": "2026-10-28T15:36:39Z",
    "countries": [
-    "Russia"
+    "Spain",
+    "China",
+    "France"
    ]
   },
   {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
+   "id": "philippines-in-talks-with-several-countries-incl",
+   "country": "Philippines",
+   "label": "PHILIPPINES",
+   "lat": 12.9,
+   "lon": 121.8,
+   "flag": "🇵🇭",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les Philippines en pourparlers avec plusieurs pays, dont l'Arabie saoudite, pour le stockage du pétrole",
+   "summary": "Les Philippines en pourparlers avec plusieurs pays, dont l'Arabie saoudite, pour le stockage du pétrole",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les Philippines sont en pourparlers avec plusieurs pays, dont l'Arabie saoudite, pour le stockage du pétrole."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWM1YlAzX25ySkZ2NmFQUzBWQnNPLTVzYlVOLVdsMHlFcEN0QWJ5a05xQXMyRF9VR05iNmc4MnNzVW5zd2tYWW5YUEJxR0xKN1NpTmxOYjdyemFiT1JfaUc0R29kQ3plNHJOZ2hnNTE0X1E3MmNDNDM5NmVqQXpVbnJBNTNOaU1LaHA3aW5fV0JmUzd5RDQyQWF1a3hVTG4tQVFUaTlzelhMT0lfcEZKU1VpSVZlejJjUEpGLTh2bm94b3FwNWc?oc=5",
+   "type": null,
+   "time": "2026-10-28T09:07:44Z",
+   "countries": [
+    "Philippines",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "at-least-68-killed-in-train-crash-in-spain-offic",
    "country": "Spain",
    "label": "ESPAGNE",
    "lat": 40.5,
@@ -400,12 +429,45 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Un accident de train en Espagne fait au moins 68 morts et des témoins décrivent des scènes dévastatrices",
+   "headline": "Au moins 68 morts dans un accident de train en Espagne, selon les autorités",
    "summary": "La ministre de la Santé, Monica Garcia, a déclaré que les secouristes se concentraient sur le sauvetage des survivants.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Un accident de train en Espagne fait au moins 68 morts tandis que des témoins décrivent des scènes dévastatrices."
+     "text": "Au moins 68 morts dans un accident de train en Espagne, selon les autorités."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Des victimes ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "La ministre de la Santé, Monica Garcia, a déclaré que les secouristes se concentraient sur le sauvetage des survivants."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5",
+   "type": "LIVE",
+   "time": "2026-10-28T16:33:55Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "how-could-israel-break-election-deadlock-here-ar",
+   "country": "Israel",
+   "label": "ISRAËL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Comment Israël pourrait-il sortir de l’impasse électorale ? Voici quatre scénarios",
+   "summary": "Avec 85 % des votes dépouillés, tous les signes indiquent une impasse. L’issue la plus probable pourrait être de nouvelles élections.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Comment Israël pourrait-il sortir de l’impasse électorale ? Voici quatre scénarios."
     },
     {
      "role": "COMMANDER",
@@ -413,104 +475,48 @@
     },
     {
      "role": "ANALYST",
-     "text": "La ministre de la Santé, Monica Garcia, a déclaré que les secouristes se concentraient sur le sauvetage des survivants."
+     "text": "Avec 85 % des votes dépouillés, tous les signes indiquent une impasse. L’issue la plus probable pourrait être de nouvelles élections."
     }
    ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-28T15:42:00Z",
+   "time": "2026-10-28T14:30:31Z",
    "countries": [
-    "Spain"
+    "Israel"
    ]
   },
   {
-   "id": "spanish-football-postpones-24-copa-del-rey-games",
+   "id": "at-least-64-people-killed-in-spain-as-two-high-s",
    "country": "Spain",
    "label": "ESPAGNE",
    "lat": 40.5,
    "lon": -3.7,
    "flag": "🇪🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Le football espagnol reporte 24 matchs de la Copa del Rey après un accident de train",
-   "summary": "Le Real Madrid et Barcelone proposent des messages de soutien suite à un accident de train alors que le football espagnol ordonne le report de la Copa.",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Espagne : au moins 64 morts dans la collision de deux trains à grande vitesse",
+   "summary": "Les secouristes espagnols parcouraient mercredi les décombres à la recherche d'autres corps sur les lieux de l'accident où au moins 64 personnes ont été tuées lorsque deux trains à grande vitesse sont entrés en collision, dans le deuxième accident ferroviaire mortel dans le pays cette année.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le football espagnol reporte 24 matchs de la Copa del Rey après un accident de train."
+     "text": "Au moins 64 personnes sont mortes en Espagne dans la collision de deux trains à grande vitesse."
     },
     {
      "role": "COMMANDER",
-     "text": "D'accord, quoi d'autre ?"
+     "text": "Est-ce confirmé ?"
     },
     {
      "role": "ANALYST",
-     "text": "Le Real Madrid et Barcelone proposent des messages de soutien suite à un accident de train alors que le football espagnol ordonne le report de la Copa."
+     "text": "Les secouristes espagnols parcouraient mercredi les décombres à la recherche d'autres corps sur les lieux de l'accident où au moins 64 personnes ont été tuées lorsque deux trains à grande vitesse sont entrés en collision, dans le deuxième accident ferroviaire mortel dans le pays cette année."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040442/at-least-64-people-killed-in-spain-as-two-high-speed-trains-collide",
    "type": null,
-   "time": "2026-10-28T13:48:09Z",
+   "time": "2026-10-28T13:38:36Z",
    "countries": [
     "Spain"
-   ]
-  },
-  {
-   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "L'Ukraine veut des négociations d'Abou Dhabi avec la Russie avant le sommet Trump-Poutine-Xi proposé",
-   "summary": "L'Ukraine veut des négociations d'Abou Dhabi avec la Russie avant le sommet Trump-Poutine-Xi proposé",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Ukraine souhaite avoir des pourparlers à Abou Dhabi avec la Russie avant la proposition d’un sommet Trump-Poutine-Xi."
-    }
-   ],
-   "source": "Euromaidan Press",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:42:38Z",
-   "countries": [
-    "United Arab Emirates",
-    "Ukraine",
-    "Russia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "egypt-saudi-arabia-pledge-closer-coordination-wi",
-   "country": "Egypt",
-   "label": "EGYPTE",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "L'Égypte et l'Arabie saoudite s'engagent à renforcer leur coordination avec la Turquie et le Pakistan",
-   "summary": "L'Égypte et l'Arabie saoudite s'engagent à renforcer leur coordination avec la Turquie et le Pakistan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'Égypte et l'Arabie saoudite s'engagent à renforcer leur coordination avec la Turquie et le Pakistan."
-    }
-   ],
-   "source": "Türkiye Today",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
-   "type": null,
-   "time": "2026-10-28T08:37:05Z",
-   "countries": [
-    "Egypt",
-    "Saudi Arabia",
-    "Turkey",
-    "Pakistan"
    ]
   }
  ]

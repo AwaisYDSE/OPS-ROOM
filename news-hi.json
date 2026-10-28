@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:59:43.700312Z",
+ "updated": "2026-10-28T16:46:44.646316Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
@@ -38,12 +38,12 @@
    "flag": "🇺🇸",
    "severity": "info",
    "category": "Tech",
-   "headline": "पेंटागन के अनुमान के अनुसार, ईरान युद्ध में अमेरिकी लागत बढ़कर $47 बिलियन से अधिक हो गई है",
+   "headline": "पेंटागन के अनुमान के अनुसार, ईरान युद्ध की अमेरिकी लागत बढ़कर $47 बिलियन से अधिक हो गई है",
    "summary": "रॉयटर्स द्वारा प्राप्त पेंटागन के आंकड़ों के अनुसार, अमेरिकी सेना ने ईरान में युद्ध पर मुकदमा चलाने के लिए अब तक 47 बिलियन डॉलर से अधिक खर्च किए हैं, जो जुलाई में रक्षा विभाग के अनुमान से 25 प्रतिशत अधिक है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पेंटागन के अनुमान के अनुसार, ईरान युद्ध में अमेरिकी लागत बढ़कर $47 बिलियन से अधिक हो गई है।"
+     "text": "पेंटागन के अनुमान के अनुसार, ईरान युद्ध की अमेरिकी लागत बढ़कर $47 बिलियन से अधिक हो गई है।"
     },
     {
      "role": "COMMANDER",
@@ -61,59 +61,6 @@
    "countries": [
     "United States of America",
     "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान ने वन-चाइना नीति का हवाला देते हुए ताइवान एयरलाइंस को प्रवेश से इनकार कर दिया",
-   "summary": "पाकिस्तान ने वन-चाइना नीति का हवाला देते हुए ताइवान एयरलाइंस को प्रवेश से इनकार कर दिया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान ने वन-चाइना नीति का हवाला देते हुए ताइवान एयरलाइंस को प्रवेश से इनकार कर दिया।"
-    }
-   ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:05:17Z",
-   "countries": [
-    "Pakistan",
-    "Taiwan",
-    "China"
-   ]
-  },
-  {
-   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए",
-   "summary": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए।"
-    }
-   ],
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "type": "VIDEO",
-   "time": "2026-10-28T11:34:24Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
    ]
   },
   {
@@ -143,6 +90,32 @@
    ]
   },
   {
+   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए",
+   "summary": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "कनाडा और यूएई ने व्यापार, रक्षा और ऊर्जा समझौतों पर हस्ताक्षर किए।"
+    }
+   ],
+   "source": "The Globe and Mail",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
+   "type": "VIDEO",
+   "time": "2026-10-28T11:34:24Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
+  },
+  {
    "id": "oil-spikes-following-houthi-attack-on-saudi-oil-",
    "country": "Saudi Arabia",
    "label": "सऊदी अरब",
@@ -151,21 +124,158 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल",
-   "summary": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल",
+   "headline": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल आया",
+   "summary": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल आया",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल।"
+     "text": "सऊदी तेल रिफाइनरी पर हौथी हमले के बाद तेल में उछाल आया।"
     }
    ],
    "source": "CNBC",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVMyaWtEMjQ2Z1YtOF92LUp3SXlLOWp4REd1RXFwOEJPSExYTjZRS2Q5bXpGcW0yMlRiVks2Z0xIbmt1NDZoamxwWURib2V3WjUtLUtKaFdPNWl5SFF0NWVVOElDeHFkYUdLR0FZYnZEZGNpZ2xuU1VxZkVuLWVkRFlIX2JfUE0tV3FjNFo2U3dlVkZQTXdFRmFQWUQyY0dD?oc=5",
    "type": null,
-   "time": "2026-10-28T15:47:17Z",
+   "time": "2026-10-28T15:46:03Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "वन-चाइना नीति के समर्थन में, पाकिस्तान ने ताइवानी एयरलाइनों को अपने हवाई क्षेत्र के उपयोग पर प्रतिबंध लगा दिया: रिपोर्ट",
+   "summary": "वन-चाइना नीति के समर्थन में, पाकिस्तान ने ताइवानी एयरलाइनों को अपने हवाई क्षेत्र के उपयोग पर प्रतिबंध लगा दिया: रिपोर्ट",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "वन-चाइना नीति के समर्थन में, पाकिस्तान ने ताइवानी एयरलाइनों को अपने हवाई क्षेत्र के उपयोग पर प्रतिबंध लगा दिया: रिपोर्ट।"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:20:22Z",
+   "countries": [
+    "Pakistan",
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "हारिस रऊफ को इंग्लैंड के खिलाफ त्रिकोणीय श्रृंखला मैच में आईसीसी आचार संहिता के उल्लंघन के लिए दंडित किया गया",
+   "summary": "पाकिस्तान के तेज गेंदबाज हारिस रऊफ पर रविवार को इंग्लैंड के खिलाफ एक दिवसीय अंतर्राष्ट्रीय (ODI) त्रिकोणीय श्रृंखला मैच के दौरान अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) की आचार संहिता का उल्लंघन करने के लिए उनकी मैच फीस का 20 प्रतिशत जुर्माना लगाया गया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "हारिस रऊफ को इंग्लैंड के खिलाफ त्रिकोणीय श्रृंखला मैच में आईसीसी आचार संहिता के उल्लंघन के लिए दंडित किया गया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "पाकिस्तान के तेज गेंदबाज हारिस रऊफ पर रविवार को इंग्लैंड के खिलाफ एक दिवसीय अंतर्राष्ट्रीय (ODI) त्रिकोणीय श्रृंखला मैच के दौरान अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) की आचार संहिता का उल्लंघन करने के लिए उनकी मैच फीस का 20 प्रतिशत जुर्माना लगाया गया है।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "country": "Iran",
+   "label": "होर्मुज़ जलडमरूमध्य",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "होर्मुज तेल रिसाव के कारण संयुक्त अरब अमीरात के समुद्र तटों को बंद करना पड़ा",
+   "summary": "होर्मुज तेल रिसाव के कारण संयुक्त अरब अमीरात के समुद्र तटों को बंद करना पड़ा",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "होर्मुज तेल रिसाव के कारण संयुक्त अरब अमीरात के समुद्र तटों को बंद करना पड़ा।"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazhNdmVtWjJXOVNEN2UzWEV1TnhGd051RzRLVHBkdTV4T2RrMk9kdURUaUFfWDdOUTB3cEdjZzhSN09LdThZVVpsWmMtSFhNa2VtZTczOG8zendjQzhqSWFrUE5YMHNXaXkyckROZXBVYjJzdTZ4QzUyWENQOFVwSW5rak53WkFFcHhFYW14WEZmc3g1bEw1QzkxRUZKUVnSAaQBQVVfeXFMT1FZYlViaTM4aFJfVkN5bHdjTm95MGxfcGtaVTM2WmZiUXNxTWFRY0hlbnJMcklZZ0R1T0lRTG5wYXk1SEZxbERBWXFhOEt1RTQ1ZTU1S1Y3eFJSRHNzU3JIM3U0cmJRaGw0dkFHdUcyZ2ViejhTekpMQ2lSX0M2ZlYyVzY4RHRjQ0NQVWs3VmsxYmhQWDBfWERCc1VoVHlXWTJMcHE?oc=5",
+   "type": null,
+   "time": "2026-10-28T11:15:08Z",
+   "countries": [
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई",
+   "summary": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई।"
+    }
+   ],
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:18:17Z",
+   "countries": [
+    "Pakistan",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है",
+   "summary": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है।"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "type": null,
+   "time": "2026-10-28T16:02:29Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -197,114 +307,30 @@
    ]
   },
   {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "तेल की कीमतें गिर गईं क्योंकि व्यापारी अमेरिका-ईरान कूटनीति, सऊदी हमलों पर विचार कर रहे हैं",
-   "summary": "तेल की कीमतें गिर गईं क्योंकि व्यापारी अमेरिका-ईरान कूटनीति, सऊदी हमलों पर विचार कर रहे हैं",
+   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है",
+   "summary": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "तेल की कीमतें गिर गईं क्योंकि व्यापारी अमेरिका-ईरान कूटनीति, सऊदी हमलों पर विचार कर रहे हैं।"
+     "text": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है।"
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
+   "source": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
    "type": null,
-   "time": "2026-10-28T13:48:49Z",
+   "time": "2026-10-28T13:43:37Z",
    "countries": [
-    "Iran",
-    "United States of America",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "हारिस रऊफ को इंग्लैंड के खिलाफ त्रिकोणीय श्रृंखला मैच में आईसीसी आचार संहिता के उल्लंघन के लिए दंडित किया गया",
-   "summary": "पाकिस्तान के तेज गेंदबाज हारिस रऊफ पर रविवार को इंग्लैंड के खिलाफ एक दिवसीय अंतर्राष्ट्रीय (ODI) त्रिकोणीय श्रृंखला मैच के दौरान अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) की आचार संहिता का उल्लंघन करने के लिए उनकी मैच फीस का 20 प्रतिशत जुर्माना लगाया गया है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "हारिस रऊफ को इंग्लैंड के खिलाफ त्रिकोणीय श्रृंखला मैच में आईसीसी आचार संहिता के उल्लंघन के लिए दंडित किया गया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "पाकिस्तान के तेज गेंदबाज हारिस रऊफ पर रविवार को इंग्लैंड के खिलाफ एक दिवसीय अंतर्राष्ट्रीय (ODI) त्रिकोणीय श्रृंखला मैच के दौरान अंतर्राष्ट्रीय क्रिकेट परिषद (ICC) की आचार संहिता का उल्लंघन करने के लिए उनकी मैच फीस का 20 प्रतिशत जुर्माना लगाया गया है।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
-   "type": null,
-   "time": "2026-10-28T15:23:22Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-prices-climb-after-houthis-claim-strike-on-s",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "सऊदी अरब की सबसे बड़ी रिफाइनरी पर हौथी के हमले के दावे के बाद तेल की कीमतें चढ़ गईं",
-   "summary": "सऊदी अरब की सबसे बड़ी रिफाइनरी पर हौथी के हमले के दावे के बाद तेल की कीमतें चढ़ गईं",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सऊदी अरब की सबसे बड़ी रिफाइनरी पर हौथी के हमले के दावे के बाद तेल की कीमतें चढ़ गईं।"
-    }
-   ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNjdwU0VoYnFNU2dtSDRuZnRCUW9BdFZTVVh6UElIMXlYV2RLZFZUQ3RsUEVmdExsN3ppdGZPMUNEb1F0QWE5WEYzbFoyWkhfcDB0cFlKMm9UUzJYc29vd1lLYWtIbmlPZW5hclc0Mlg3MkxnbHc?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:09:38Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई",
-   "summary": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिकी युद्ध सचिव हेगसेथ के साथ बातचीत में राजनाथ सिंह ने पाकिस्तान के लिए एफ-16 जेट पैकेज को हरी झंडी दिखाई।"
-    }
-   ],
-   "source": "The Tribune",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:18:17Z",
-   "countries": [
-    "Pakistan",
+    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
     "United States of America"
    ]
   },
@@ -334,65 +360,68 @@
    ]
   },
   {
-   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है",
-   "summary": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है",
+   "id": "what-is-the-controversy-between-real-madrid-s-ky",
+   "country": "Spain",
+   "label": "स्पेन",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "रियल मैड्रिड के किलियन एम्बाप्पे और चीन के बीच क्या विवाद है?",
+   "summary": "माओत्से तुंग के बारे में फ्रांसीसी सुपरस्टार की टिप्पणियों ने खेल टीमों के लिए आकर्षक बाजार चीन को नाराज कर दिया है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "अधिकारी का कहना है कि ईरान युद्ध ख़त्म करने के लिए नवीनतम मध्यस्थता में केवल अस्वीकार्य विचार देखता है।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
-   "type": null,
-   "time": "2026-10-28T12:20:04Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "रूस-अफ्रीका शिखर सम्मेलन: एजेंडे में क्या है, और यह क्यों मायने रखता है?",
-   "summary": "दो दिवसीय सभा के दौरान मॉस्को का लक्ष्य अफ्रीकी नेताओं के साथ आर्थिक और सुरक्षा संबंधों को मजबूत करना है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रूस-अफ्रीका शिखर सम्मेलन: एजेंडे में क्या है, और यह क्यों मायने रखता है?"
+     "text": "रियल मैड्रिड के किलियन एम्बाप्पे और चीन के बीच क्या विवाद है?"
     },
     {
      "role": "COMMANDER",
-     "text": "ठीक है। विवरण?"
+     "text": "यह कदम क्यों?"
     },
     {
      "role": "ANALYST",
-     "text": "दो दिवसीय सभा के दौरान मॉस्को का लक्ष्य अफ्रीकी नेताओं के साथ आर्थिक और सुरक्षा संबंधों को मजबूत करना है।"
+     "text": "माओत्से तुंग के बारे में फ्रांसीसी सुपरस्टार की टिप्पणियों ने खेल टीमों के लिए आकर्षक बाजार चीन को नाराज कर दिया है।"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
    "type": null,
-   "time": "2026-10-28T11:33:26Z",
+   "time": "2026-10-28T15:36:39Z",
    "countries": [
-    "Russia"
+    "Spain",
+    "China",
+    "France"
    ]
   },
   {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
+   "id": "philippines-in-talks-with-several-countries-incl",
+   "country": "Philippines",
+   "label": "फिलीपींस",
+   "lat": 12.9,
+   "lon": 121.8,
+   "flag": "🇵🇭",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "फिलीपींस तेल भंडारण के लिए सऊदी अरब समेत कई देशों से बातचीत कर रहा है",
+   "summary": "फिलीपींस तेल भंडारण के लिए सऊदी अरब समेत कई देशों से बातचीत कर रहा है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "फिलीपींस तेल भंडारण के लिए सऊदी अरब समेत कई देशों से बातचीत कर रहा है।"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWM1YlAzX25ySkZ2NmFQUzBWQnNPLTVzYlVOLVdsMHlFcEN0QWJ5a05xQXMyRF9VR05iNmc4MnNzVW5zd2tYWW5YUEJxR0xKN1NpTmxOYjdyemFiT1JfaUc0R29kQ3plNHJOZ2hnNTE0X1E3MmNDNDM5NmVqQXpVbnJBNTNOaU1LaHA3aW5fV0JmUzd5RDQyQWF1a3hVTG4tQVFUaTlzelhMT0lfcEZKU1VpSVZlejJjUEpGLTh2bm94b3FwNWc?oc=5",
+   "type": null,
+   "time": "2026-10-28T09:07:44Z",
+   "countries": [
+    "Philippines",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "at-least-68-killed-in-train-crash-in-spain-offic",
    "country": "Spain",
    "label": "स्पेन",
    "lat": 40.5,
@@ -400,12 +429,45 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "स्पेन ट्रेन दुर्घटना में कम से कम 68 लोग मारे गए, जैसा कि प्रत्यक्षदर्शियों ने विनाशकारी दृश्यों का वर्णन किया है",
+   "headline": "अधिकारियों का कहना है कि स्पेन में ट्रेन दुर्घटना में कम से कम 68 लोग मारे गए",
    "summary": "स्वास्थ्य मंत्री मोनिका गार्सिया का कहना है कि आपातकालीन कर्मचारी जीवित बचे लोगों को बचाने पर ध्यान केंद्रित कर रहे हैं।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "स्पेन ट्रेन दुर्घटना में कम से कम 68 लोग मारे गए, जैसा कि प्रत्यक्षदर्शियों ने विनाशकारी दृश्यों का वर्णन किया है।"
+     "text": "अधिकारियों का कहना है कि स्पेन में ट्रेन दुर्घटना में कम से कम 68 लोग मारे गए।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "स्वास्थ्य मंत्री मोनिका गार्सिया का कहना है कि आपातकालीन कर्मचारी जीवित बचे लोगों को बचाने पर ध्यान केंद्रित कर रहे हैं।"
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wZzBvVXBCSW9TcEkyamF0VHFVN1B0UTE4N1lnS05oSW5CZzU1YjhQV1J1TzRsb0dZSTg1STh5WjdXY0VoWTR2UXlCRWpGRk4tblkyaU03Q2Rrd3BrOGNCVklQLWpfc3hsbU55ODdMOURQemE1YUtVelRB?oc=5",
+   "type": "LIVE",
+   "time": "2026-10-28T16:33:55Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "how-could-israel-break-election-deadlock-here-ar",
+   "country": "Israel",
+   "label": "इजराइल",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "इज़राइल कैसे तोड़ सकता है चुनावी गतिरोध? यहां चार परिदृश्य हैं",
+   "summary": "85% वोटों की गिनती के साथ, सभी संकेत गतिरोध की ओर इशारा करते हैं। सबसे संभावित परिणाम नए चुनाव हो सकते हैं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "इज़राइल कैसे तोड़ सकता है चुनावी गतिरोध? यहां चार परिदृश्य हैं."
     },
     {
      "role": "COMMANDER",
@@ -413,104 +475,48 @@
     },
     {
      "role": "ANALYST",
-     "text": "स्वास्थ्य मंत्री मोनिका गार्सिया का कहना है कि आपातकालीन कर्मचारी जीवित बचे लोगों को बचाने पर ध्यान केंद्रित कर रहे हैं।"
+     "text": "85% वोटों की गिनती के साथ, सभी संकेत गतिरोध की ओर इशारा करते हैं। सबसे संभावित परिणाम नए चुनाव हो सकते हैं।"
     }
    ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-28T15:42:00Z",
+   "time": "2026-10-28T14:30:31Z",
    "countries": [
-    "Spain"
+    "Israel"
    ]
   },
   {
-   "id": "spanish-football-postpones-24-copa-del-rey-games",
+   "id": "at-least-64-people-killed-in-spain-as-two-high-s",
    "country": "Spain",
    "label": "स्पेन",
    "lat": 40.5,
    "lon": -3.7,
    "flag": "🇪🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "ट्रेन दुर्घटना के बाद स्पेनिश फुटबॉल ने 24 कोपा डेल रे खेल स्थगित कर दिए",
-   "summary": "रियल मैड्रिड और बार्सिलोना ने ट्रेन दुर्घटना के बाद समर्थन के संदेश दिए क्योंकि स्पेनिश फुटबॉल ने कोपा को स्थगित करने का आदेश दिया।",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 64 लोगों की मौत हो गई",
+   "summary": "स्पेन में बचावकर्मी बुधवार को दुर्घटनास्थल पर और अधिक शवों की तलाश में मलबे की जांच कर रहे थे, जहां इस साल देश में दूसरी घातक रेलवे दुर्घटना में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 64 लोग मारे गए थे।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ट्रेन दुर्घटना के बाद स्पेनिश फुटबॉल ने 24 कोपा डेल रे खेल स्थगित कर दिए।"
+     "text": "स्पेन में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 64 लोगों की मौत हो गई।"
     },
     {
      "role": "COMMANDER",
-     "text": "ठीक है, और क्या?"
+     "text": "क्या इसकी पुष्टि हो गई है?"
     },
     {
      "role": "ANALYST",
-     "text": "रियल मैड्रिड और बार्सिलोना ने ट्रेन दुर्घटना के बाद समर्थन के संदेश दिए क्योंकि स्पेनिश फुटबॉल ने कोपा को स्थगित करने का आदेश दिया।"
+     "text": "स्पेन में बचावकर्मी बुधवार को दुर्घटनास्थल पर और अधिक शवों की तलाश में मलबे की जांच कर रहे थे, जहां इस साल देश में दूसरी घातक रेलवे दुर्घटना में दो हाई-स्पीड ट्रेनों की टक्कर में कम से कम 64 लोग मारे गए थे।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040442/at-least-64-people-killed-in-spain-as-two-high-speed-trains-collide",
    "type": null,
-   "time": "2026-10-28T13:48:09Z",
+   "time": "2026-10-28T13:38:36Z",
    "countries": [
     "Spain"
-   ]
-  },
-  {
-   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है",
-   "summary": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूक्रेन प्रस्तावित ट्रम्प-पुतिन-शी शिखर सम्मेलन से पहले रूस के साथ अबू धाबी वार्ता चाहता है।"
-    }
-   ],
-   "source": "Euromaidan Press",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
-   "type": null,
-   "time": "2026-10-28T13:42:38Z",
-   "countries": [
-    "United Arab Emirates",
-    "Ukraine",
-    "Russia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "egypt-saudi-arabia-pledge-closer-coordination-wi",
-   "country": "Egypt",
-   "label": "मिस्र",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "मिस्र, सऊदी अरब ने तुर्किये और पाकिस्तान के साथ घनिष्ठ समन्वय की प्रतिज्ञा की",
-   "summary": "मिस्र, सऊदी अरब ने तुर्किये और पाकिस्तान के साथ घनिष्ठ समन्वय की प्रतिज्ञा की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "मिस्र, सऊदी अरब ने तुर्किये और पाकिस्तान के साथ घनिष्ठ समन्वय की प्रतिज्ञा की।"
-    }
-   ],
-   "source": "Türkiye Today",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
-   "type": null,
-   "time": "2026-10-28T08:37:05Z",
-   "countries": [
-    "Egypt",
-    "Saudi Arabia",
-    "Turkey",
-    "Pakistan"
    ]
   }
  ]
