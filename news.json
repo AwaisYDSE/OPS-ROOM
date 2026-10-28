@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:11:13.114732Z",
+ "updated": "2026-10-28T15:59:43.700312Z",
  "generator": "rss",
  "stories": [
   {
@@ -21,28 +21,46 @@
    ],
    "source": "Semafor",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkszQTMyNEc5WnhmNVZRUmFlcFlDa1hKclRXX1ZoSzFEMmtUTG82bi0xMU51QWNlTVBNczlEQzBnVmVzTURoTnR0OEhWVUl4b1FhVE1hc3BZbDBpREVWYkRPSnhzQmZySmdZY2t5eC1zNVhRcjRIdE83WURoN2FVcHp5WS1nTkdPU0t1X3NKU0JFb0NqNVE?oc=5",
-   "time": "2026-10-28T13:10:00Z"
+   "type": null,
+   "time": "2026-10-28T13:10:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
   },
   {
-   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
-   "summary": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
+   "id": "us-costs-of-iran-war-rise-to-over-47bn-according",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "US costs of Iran war rise to over $47bn, according to Pentagon estimate",
+   "summary": "The US military has spent over $47 billion so far to prosecute the war in Iran , more than 25 per cent higher than the Defense Department’s estimate in July, according to Pentagon data obtained by Reuters .",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil Prices Rise as Houthi Militants Target Saudi Energy."
+     "text": "US costs of Iran war rise to over $47bn, according to Pentagon estimate."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "The US military has spent over $47 billion so far to prosecute the war in Iran , more than 25 per cent higher than the Defense Department’s estimate in July, according to Pentagon data obtained by Reuters ."
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-   "time": "2026-10-28T13:12:00Z"
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040407/us-costs-of-iran-war-rise-to-over-47bn-according-to-pentagon-estimate",
+   "type": null,
+   "time": "2026-10-28T10:28:45Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
   },
   {
    "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
@@ -63,10 +81,16 @@
    ],
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
-   "time": "2026-10-28T13:05:42Z"
+   "type": null,
+   "time": "2026-10-28T14:05:17Z",
+   "countries": [
+    "Pakistan",
+    "Taiwan",
+    "China"
+   ]
   },
   {
-   "id": "video-canada-and-uae-sign-trade-defence-and-ener",
+   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -74,38 +98,74 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Video: Canada and UAE sign trade, defence and energy agreements",
-   "summary": "Video: Canada and UAE sign trade, defence and energy agreements",
+   "headline": "Canada and UAE sign trade, defence and energy agreements",
+   "summary": "Canada and UAE sign trade, defence and energy agreements",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Video: Canada and UAE sign trade, defence and energy agreements."
+     "text": "Canada and UAE sign trade, defence and energy agreements."
     }
    ],
    "source": "The Globe and Mail",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "time": "2026-10-28T11:34:24Z"
+   "type": "VIDEO",
+   "time": "2026-10-28T11:34:24Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
   },
   {
-   "id": "egypt-saudi-arabia-uae-discuss-regional-de-escal",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
-   "summary": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
+   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
+   "summary": "Oil Prices Rise as Houthi Militants Target Saudi Energy",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan."
+     "text": "Oil Prices Rise as Houthi Militants Target Saudi Energy."
     }
    ],
-   "source": "TRT World",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRWtmVG5WWmJWMTZhUDNFTE1nWXg1NjdWS21WRTNjVDN0Z04tLWhncVZqR2RHdmlRNkpMcmZXVVNHTV9VaVc0bF9qdlhlbWVGWEYxNkZCWlE?oc=5",
-   "time": "2026-10-28T08:42:40Z"
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:29:34Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "oil-spikes-following-houthi-attack-on-saudi-oil-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil spikes following Houthi attack on Saudi oil refinery",
+   "summary": "Oil spikes following Houthi attack on Saudi oil refinery",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil spikes following Houthi attack on Saudi oil refinery."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVMyaWtEMjQ2Z1YtOF92LUp3SXlLOWp4REd1RXFwOEJPSExYTjZRS2Q5bXpGcW0yMlRiVks2Z0xIbmt1NDZoamxwWURib2V3WjUtLUtKaFdPNWl5SFF0NWVVOElDeHFkYUdLR0FZYnZEZGNpZ2xuU1VxZkVuLWVkRFlIX2JfUE0tV3FjNFo2U3dlVkZQTXdFRmFQWUQyY0dD?oc=5",
+   "type": null,
+   "time": "2026-10-28T15:47:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
   },
   {
    "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
@@ -126,99 +186,176 @@
    ],
    "source": "NewsCord",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhVekJqV3pMazdMUVU2SFUxdWtITkZkdWNmZ19GWTRtaTFsN3BJVG5FbmN0ZmpZX3JQYWtIVmlTYkhqMjlqLTFuWkR5T1l3UnpCcEdKNDU4YUZQVVlNZFBHbl9mSGdyZ1lnUjlNTW04NjNac2ZVcVFhSHliYWlIanpLWll1MkxVb1VjUGs1eFZLOUZfeDdoSUxZb0YwemUtSmFLb2JuMHV2a2xZVmJseUtUenBGS0pJZDVrRVZGSUlHRTlWdl8tRWJpclYxUQ?oc=5",
-   "time": "2026-10-28T11:33:19Z"
+   "type": null,
+   "time": "2026-10-28T11:33:19Z",
+   "countries": [
+    "Iran",
+    "Saudi Arabia",
+    "Pakistan",
+    "Turkey"
+   ]
   },
   {
-   "id": "oil-up-1-as-saudi-arabian-refinery-attack-reigni",
+   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "summary": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:48:49Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Haris Rauf penalised for breach of ICC Code of Conduct in tri-series match against England",
+   "summary": "Pakistan pacer Haris Rauf has been fined 20pc of his match-fee for breaching the International Cricket Council (ICC) Code of Conduct during the One-day International (ODI) tri-series match against England on Sunday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Haris Rauf penalised for breach of ICC Code of Conduct in tri-series match against England."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan pacer Haris Rauf has been fined 20pc of his match-fee for breaching the International Cricket Council (ICC) Code of Conduct during the One-day International (ODI) tri-series match against England on Sunday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-prices-climb-after-houthis-claim-strike-on-s",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns",
-   "summary": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices climb after Houthis claim strike on Saudi Arabia's biggest refinery",
+   "summary": "Oil prices climb after Houthis claim strike on Saudi Arabia's biggest refinery",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns."
+     "text": "Oil prices climb after Houthis claim strike on Saudi Arabia's biggest refinery."
+    }
+   ],
+   "source": "Quartz",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNjdwU0VoYnFNU2dtSDRuZnRCUW9BdFZTVVh6UElIMXlYV2RLZFZUQ3RsUEVmdExsN3ppdGZPMUNEb1F0QWE5WEYzbFoyWkhfcDB0cFlKMm9UUzJYc29vd1lLYWtIbmlPZW5hclc0Mlg3MkxnbHc?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:09:38Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Rajnath Singh flags F-16 jets package for Pakistan in talks with US Secretary of War Hegseth",
+   "summary": "Rajnath Singh flags F-16 jets package for Pakistan in talks with US Secretary of War Hegseth",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rajnath Singh flags F-16 jets package for Pakistan in talks with US Secretary of War Hegseth."
+    }
+   ],
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:18:17Z",
+   "countries": [
+    "Pakistan",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis strike Yemen's Aden airport after evacuation warning",
+   "summary": "Houthis strike Yemen's Aden airport after evacuation warning",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis strike Yemen's Aden airport after evacuation warning."
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-   "time": "2026-10-28T01:49:00Z"
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:28:31Z",
+   "countries": [
+    "Yemen"
+   ]
   },
   {
-   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
    "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Hormuz oil spill forces closure of UAE beaches",
-   "summary": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Hormuz oil spill forces closure of UAE beaches."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-   "time": "2026-10-28T10:02:32Z"
-  },
-  {
-   "id": "one-killed-several-wounded-in-pakistan-afghanist",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Pakistan",
-   "headline": "One killed, several wounded in Pakistan-Afghanistan border clashes",
-   "summary": "One killed, several wounded in Pakistan-Afghanistan border clashes",
+   "category": "Middle East",
+   "headline": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+   "summary": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "One killed, several wounded in Pakistan-Afghanistan border clashes."
+     "text": "Iran sees only unacceptable ideas in latest mediation to end war, official says."
     }
    ],
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJub1ZBNlFWbmxyTklxUGhteWhjbWxOcnZEYUVhV0QtMjVkNWM5N3dha0h3b1JQT3pLU2J6WHdQTklydC13Y1BaUXJpN2ZaU05fN2dIRUFOd2FvRnJGNW16ZjQzd0FGMXlhQ0JldG1MMW9IeURDb0s0eW16YVJKYnZIdHo0R0hobVlLM1daeXd5eEVSd2tR?oc=5",
-   "time": "2026-10-28T12:48:34Z"
-  },
-  {
-   "id": "afghan-pakistan-border-clash-kills-one-injures-f",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Afghan-Pakistan border clash kills one, injures five",
-   "summary": "Afghan-Pakistan border clash kills one, injures five",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Afghan-Pakistan border clash kills one, injures five."
-    }
-   ],
-   "source": "Macau Business",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTdjUFNZZWp3TlJQZE1iNXJPMUM4Qi1SeWRiQjE2b3JwYjZsamdwMmVYY2tLR2pGZEdlZ2dNVl9WNGQweHdUNzhFQTZRdllPRk4xVGYtNC1QNS1lNlhvQmxsZ2xwZWhiUTV5aHpnUWZHQUtONWlkckdyNENTMDVrTV8yNk8?oc=5",
-   "time": "2026-10-28T12:30:06Z"
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:20:04Z",
+   "countries": [
+    "Iran"
+   ]
   },
   {
    "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
@@ -238,7 +375,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What's the impact?"
+     "text": "Okay. Details?"
     },
     {
      "role": "ANALYST",
@@ -247,73 +384,14 @@
    ],
    "source": "aljazeera.com",
    "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
-   "time": "2026-10-28T11:33:26Z"
+   "type": null,
+   "time": "2026-10-28T11:33:26Z",
+   "countries": [
+    "Russia"
+   ]
   },
   {
-   "id": "u-s-warns-gulf-of-possible-short-intense-renewal",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-   "summary": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
-   "time": "2026-10-28T11:12:00Z"
-  },
-  {
-   "id": "saudi-arabia-says-air-defenses-intercept-houthi-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia says air defenses intercept Houthi missiles over capital",
-   "summary": "Saudi Arabia says air defenses intercept Houthi missiles over capital",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia says air defenses intercept Houthi missiles over capital."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
-   "time": "2026-10-28T01:00:00Z"
-  },
-  {
-   "id": "uk-treasury-offers-support-with-energy-bills-in-",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "World",
-   "headline": "UK Treasury offers support with energy bills in the face of Iran war price shock",
-   "summary": "UK Treasury offers support with energy bills in the face of Iran war price shock",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UK Treasury offers support with energy bills in the face of Iran war price shock."
-    }
-   ],
-   "source": "Oskaloosa Herald",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEo3bFEtbEtqdV9zWEg1VzhSVjhzQy1SUHJVbDZaWi1LdkVtcXR3Tzl0Nk1IREJFd0drRWFXTnl1QWF4SnFkWFNRazNMNlNYdnZPckUzOXdYVDNoYWRzeFo3SmZPeUc4bTVJWkw1TkpkclNyVlBWbVI0ZmRJU3pnbDFEQi1pdVJaTWNqYTIwa0NJT2t2NmxzNmw3TE92QXRKZFpwYmc1X3dnTURwMFBsaVBYY0hidi1samlCMkRlUGtidHRsYXJ3WmdFSkE1RG5wZkxGbUl4ek1GZG9VNVdQaDd1ZmlZaGV3OHBSOWRwR2thaFlFNlUtZmdrZGVIbXlDT1B3RXFB?oc=5",
-   "time": "2026-10-28T13:49:15Z"
-  },
-  {
-   "id": "live-updates-spain-train-crash-kills-at-least-30",
+   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
    "country": "Spain",
    "label": "SPAIN",
    "lat": 40.5,
@@ -321,16 +399,16 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Live updates: Spain train crash kills at least 30 as witnesses describe devastating scenes",
+   "headline": "Spain train crash kills at least 68 as witnesses describe devastating scenes",
    "summary": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Live updates: Spain train crash kills at least 30 as witnesses describe devastating scenes."
+     "text": "Spain train crash kills at least 68 as witnesses describe devastating scenes."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -339,78 +417,100 @@
    ],
    "source": "CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-   "time": "2026-10-28T13:02:00Z"
+   "type": null,
+   "time": "2026-10-28T15:42:00Z",
+   "countries": [
+    "Spain"
+   ]
   },
   {
-   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "id": "spanish-football-postpones-24-copa-del-rey-games",
    "country": "Spain",
    "label": "SPAIN",
    "lat": 40.5,
    "lon": -3.7,
    "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "What we know so far about deadly Spain train crash",
-   "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Spanish football postpones 24 Copa del Rey games after train crash",
+   "summary": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement .",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "What we know so far about deadly Spain train crash."
+     "text": "Spanish football postpones 24 Copa del Rey games after train crash."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Okay, what else?"
     },
     {
      "role": "ANALYST",
-     "text": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
+     "text": "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement ."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T12:14:44Z"
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-28T13:48:09Z",
+   "countries": [
+    "Spain"
+   ]
   },
   {
-   "id": "crude-oil-remains-under-pressure-amid-us-iran-de",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs",
-   "summary": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs",
+   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "Ukraine wants its Abu Dhabi talks with Russia before a proposed Trump-Putin-Xi summit",
+   "summary": "Ukraine wants its Abu Dhabi talks with Russia before a proposed Trump-Putin-Xi summit",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs."
+     "text": "Ukraine wants its Abu Dhabi talks with Russia before a proposed Trump-Putin-Xi summit."
     }
    ],
-   "source": "investingLive",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmhTMjlhYVplMWplQlp1allwSFNqN1hyRUJXZnVyUmg5aXRtWWJqR1FwZDBnOENIZGFyaTRwcU1WRTVhRTR0Zkw0NWhOMF9lT3ZIb3lTRUFpWUhSRVdfV3VlalNNamlsZUZRQnR5UzNxRGM4YTR1UF9MXzltSzJZeU1ZMlVtWExmdWlKdl9sc2VtWmptRTdNWk5tWkxtNkEyOEdpZ05fU2JRSTJNbFdYWEpWcTVLNXJWRlhhREY3NzBISzNjTDc4ZVhJRGo1Z0hp?oc=5",
-   "time": "2026-10-28T10:33:09Z"
+   "source": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:42:38Z",
+   "countries": [
+    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ]
   },
   {
-   "id": "is-the-uae-secretly-helping-houthis-fight-saudi-",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "egypt-saudi-arabia-pledge-closer-coordination-wi",
+   "country": "Egypt",
+   "label": "EGYPT",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
    "severity": "info",
    "category": "Middle East",
-   "headline": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim",
-   "summary": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim",
+   "headline": "Egypt, Saudi Arabia pledge closer coordination with Türkiye and Pakistan",
+   "summary": "Egypt, Saudi Arabia pledge closer coordination with Türkiye and Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim."
+     "text": "Egypt, Saudi Arabia pledge closer coordination with Türkiye and Pakistan."
     }
    ],
-   "source": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGZTOHFfN1dxWUdwUHVCSjQ0TU01REVVanhSRlE4TkJVVWc3V0FNb3hvNUZrd2J4MldGaUdoRUxGNjBRLU5OQzdWNzllSFB4NVpJWGZXLXlvQVI1SEpKVkdwMEJwQ05vRTJJS2hLSGx4eUZoNFVsclR4b3lOTXR6d3ZocllsbW5LY1NXV0FYY1FuNlNkUGtSQlMzUkhDRC1TYWR3RUdlbXpLbmFEaHhfUFlqSFA2ZXhOcTJrQzIwaHYycWNRSHBzamZJLUgxclBXREJZWGZnUkczemI0YUHSAeMBQVVfeXFMTm9VeFc5V1RBbXM1WVZxZW9SSWlBT05FclhxcERMTWNfVF9QM1VCXzl1cVFZaUptVkNoN2F4LW5tMHRSdGVPUHduNjdQVnFoRGtKbVFFZEpPc3ZteURmTTZVUG50TjVfWld1d1BMVmFJZnNuNzF1NU9lTHdTLVZrVUw1Sl9MVWZnMERSTU8xM2NBUXljeU1qR1lEMm1XTTFSV1piYjlNLXUxTGR1WnVwQjBBM3B1R0N3UkJHcXR6NVpkcW5qdXZWSDZBY0doTjU5dWxRTW0tX3hWUHhiYU4tQlUyXzA?oc=5",
-   "time": "2026-10-28T06:02:43Z"
+   "source": "Türkiye Today",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
+   "type": null,
+   "time": "2026-10-28T08:37:05Z",
+   "countries": [
+    "Egypt",
+    "Saudi Arabia",
+    "Turkey",
+    "Pakistan"
+   ]
   }
  ]
 }

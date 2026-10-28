@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T14:11:13.114732Z",
+ "updated": "2026-10-28T15:59:43.700312Z",
  "generator": "rss",
  "lang": "ur",
  "stories": [
@@ -22,28 +22,46 @@
    ],
    "source": "Semafor",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTkszQTMyNEc5WnhmNVZRUmFlcFlDa1hKclRXX1ZoSzFEMmtUTG82bi0xMU51QWNlTVBNczlEQzBnVmVzTURoTnR0OEhWVUl4b1FhVE1hc3BZbDBpREVWYkRPSnhzQmZySmdZY2t5eC1zNVhRcjRIdE83WURoN2FVcHp5WS1nTkdPU0t1X3NKU0JFb0NqNVE?oc=5",
-   "time": "2026-10-28T13:10:00Z"
+   "type": null,
+   "time": "2026-10-28T13:10:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
   },
   {
-   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ",
-   "summary": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ",
+   "id": "us-costs-of-iran-war-rise-to-over-47bn-according",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "پینٹاگون کے اندازے کے مطابق، ایران جنگ کے امریکی اخراجات 47 بلین ڈالر سے زیادہ ہو گئے۔",
+   "summary": "رائٹرز کے ذریعے حاصل کیے گئے پینٹاگون کے اعداد و شمار کے مطابق، امریکی فوج نے ایران میں جنگ کے خلاف مقدمہ چلانے کے لیے اب تک 47 بلین ڈالر سے زائد رقم خرچ کی ہے، جو جولائی میں محکمہ دفاع کے تخمینے سے 25 فیصد زیادہ ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ۔"
+     "text": "پینٹاگون کے اندازے کے مطابق، ایران جنگ کے امریکی اخراجات 47 بلین ڈالر سے زیادہ ہو گئے۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "سمجھ گیا چلو۔"
+    },
+    {
+     "role": "ANALYST",
+     "text": "رائٹرز کے ذریعے حاصل کیے گئے پینٹاگون کے اعداد و شمار کے مطابق، امریکی فوج نے ایران میں جنگ کے خلاف مقدمہ چلانے کے لیے اب تک 47 بلین ڈالر سے زائد رقم خرچ کی ہے، جو جولائی میں محکمہ دفاع کے تخمینے سے 25 فیصد زیادہ ہے۔"
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-   "time": "2026-10-28T13:12:00Z"
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040407/us-costs-of-iran-war-rise-to-over-47bn-according-to-pentagon-estimate",
+   "type": null,
+   "time": "2026-10-28T10:28:45Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
   },
   {
    "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
@@ -64,10 +82,16 @@
    ],
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
-   "time": "2026-10-28T13:05:42Z"
+   "type": null,
+   "time": "2026-10-28T14:05:17Z",
+   "countries": [
+    "Pakistan",
+    "Taiwan",
+    "China"
+   ]
   },
   {
-   "id": "video-canada-and-uae-sign-trade-defence-and-ener",
+   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
    "country": "United Arab Emirates",
    "label": "متحدہ عرب امارات",
    "lat": 25.2,
@@ -75,38 +99,74 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "ویڈیو: کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔",
-   "summary": "ویڈیو: کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔",
+   "headline": "کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔",
+   "summary": "کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ویڈیو: کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔"
+     "text": "کینیڈا اور متحدہ عرب امارات تجارت، دفاع اور توانائی کے معاہدوں پر دستخط کر رہے ہیں۔"
     }
    ],
    "source": "The Globe and Mail",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "time": "2026-10-28T11:34:24Z"
+   "type": "VIDEO",
+   "time": "2026-10-28T11:34:24Z",
+   "countries": [
+    "United Arab Emirates",
+    "Canada"
+   ]
   },
   {
-   "id": "egypt-saudi-arabia-uae-discuss-regional-de-escal",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "مصر، سعودی عرب، متحدہ عرب امارات نے ترکی، پاکستان پر مشتمل علاقائی کشیدگی کو کم کرنے کے طریقہ کار پر تبادلہ خیال کیا",
-   "summary": "مصر، سعودی عرب، متحدہ عرب امارات نے ترکی، پاکستان پر مشتمل علاقائی کشیدگی کو کم کرنے کے طریقہ کار پر تبادلہ خیال کیا",
+   "id": "oil-prices-rise-as-houthi-militants-target-saudi",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ",
+   "summary": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "مصر، سعودی عرب، متحدہ عرب امارات نے ترکی، پاکستان پر مشتمل علاقائی کشیدگی میں کمی کے طریقہ کار پر تبادلہ خیال کیا۔"
+     "text": "حوثی عسکریت پسندوں کی جانب سے سعودی توانائی کو نشانہ بناتے ہوئے تیل کی قیمتوں میں اضافہ۔"
     }
    ],
-   "source": "TRT World",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRWtmVG5WWmJWMTZhUDNFTE1nWXg1NjdWS21WRTNjVDN0Z04tLWhncVZqR2RHdmlRNkpMcmZXVVNHTV9VaVc0bF9qdlhlbWVGWEYxNkZCWlE?oc=5",
-   "time": "2026-10-28T08:42:40Z"
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:29:34Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "oil-spikes-following-houthi-attack-on-saudi-oil-",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "سعودی آئل ریفائنری پر حوثیوں کے حملے کے بعد تیل میں اضافہ",
+   "summary": "سعودی آئل ریفائنری پر حوثیوں کے حملے کے بعد تیل میں اضافہ",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "سعودی آئل ریفائنری پر حوثیوں کے حملے کے بعد تیل میں اضافہ۔"
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVMyaWtEMjQ2Z1YtOF92LUp3SXlLOWp4REd1RXFwOEJPSExYTjZRS2Q5bXpGcW0yMlRiVks2Z0xIbmt1NDZoamxwWURib2V3WjUtLUtKaFdPNWl5SFF0NWVVOElDeHFkYUdLR0FZYnZEZGNpZ2xuU1VxZkVuLWVkRFlIX2JfUE0tV3FjNFo2U3dlVkZQTXdFRmFQWUQyY0dD?oc=5",
+   "type": null,
+   "time": "2026-10-28T15:47:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
   },
   {
    "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
@@ -127,99 +187,176 @@
    ],
    "source": "NewsCord",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhVekJqV3pMazdMUVU2SFUxdWtITkZkdWNmZ19GWTRtaTFsN3BJVG5FbmN0ZmpZX3JQYWtIVmlTYkhqMjlqLTFuWkR5T1l3UnpCcEdKNDU4YUZQVVlNZFBHbl9mSGdyZ1lnUjlNTW04NjNac2ZVcVFhSHliYWlIanpLWll1MkxVb1VjUGs1eFZLOUZfeDdoSUxZb0YwemUtSmFLb2JuMHV2a2xZVmJseUtUenBGS0pJZDVrRVZGSUlHRTlWdl8tRWJpclYxUQ?oc=5",
-   "time": "2026-10-28T11:33:19Z"
+   "type": null,
+   "time": "2026-10-28T11:33:19Z",
+   "countries": [
+    "Iran",
+    "Saudi Arabia",
+    "Pakistan",
+    "Turkey"
+   ]
   },
   {
-   "id": "oil-up-1-as-saudi-arabian-refinery-attack-reigni",
+   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "تیل کی قیمتوں میں کمی کیونکہ تاجروں نے امریکی ایران سفارت کاری، سعودی حملوں کا وزن کیا۔",
+   "summary": "تیل کی قیمتوں میں کمی کیونکہ تاجروں نے امریکی ایران سفارت کاری، سعودی حملوں کا وزن کیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تیل کی قیمتوں میں کمی کیونکہ تاجروں نے امریکی ایران سفارت کاری، سعودی حملوں کا وزن کیا۔"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:48:49Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "حارث رؤف پر انگلینڈ کے خلاف سہ فریقی میچ میں آئی سی سی کے ضابطہ اخلاق کی خلاف ورزی پر جرمانہ عائد کیا گیا ہے۔",
+   "summary": "پاکستان کے فاسٹ بولر حارث رؤف پر اتوار کو انگلینڈ کے خلاف ون ڈے انٹرنیشنل (او ڈی آئی) سہ ملکی سیریز کے میچ کے دوران انٹرنیشنل کرکٹ کونسل (آئی سی سی) کے ضابطہ اخلاق کی خلاف ورزی پر میچ فیس کا 20 فیصد جرمانہ عائد کیا گیا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "حارث رؤف پر انگلینڈ کے خلاف سہ فریقی میچ میں آئی سی سی کے ضابطہ اخلاق کی خلاف ورزی پر جرمانہ عائد کیا گیا ہے۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ہم اب تک کیا جانتے ہیں؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "پاکستان کے فاسٹ بولر حارث رؤف پر اتوار کو انگلینڈ کے خلاف ون ڈے انٹرنیشنل (او ڈی آئی) سہ ملکی سیریز کے میچ کے دوران انٹرنیشنل کرکٹ کونسل (آئی سی سی) کے ضابطہ اخلاق کی خلاف ورزی پر میچ فیس کا 20 فیصد جرمانہ عائد کیا گیا ہے۔"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-prices-climb-after-houthis-claim-strike-on-s",
    "country": "Saudi Arabia",
    "label": "سعودی عرب",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "سعودی عرب کی ریفائنری پر حملے کے بعد تیل کی قیمتوں میں 1 فیصد اضافہ",
-   "summary": "سعودی عرب کی ریفائنری پر حملے کے بعد تیل کی قیمتوں میں 1 فیصد اضافہ",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "سعودی عرب کی سب سے بڑی ریفائنری پر حوثی باغیوں کے حملے کے بعد تیل کی قیمتیں بڑھ گئیں۔",
+   "summary": "سعودی عرب کی سب سے بڑی ریفائنری پر حوثی باغیوں کے حملے کے بعد تیل کی قیمتیں بڑھ گئیں۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "سعودی عرب کی ریفائنری پر حملے کے بعد تیل کی قیمتوں میں 1 فیصد اضافہ"
+     "text": "سعودی عرب کی سب سے بڑی ریفائنری پر حوثی باغیوں کے حملے کے بعد تیل کی قیمتیں بڑھ گئیں۔"
+    }
+   ],
+   "source": "Quartz",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FNjdwU0VoYnFNU2dtSDRuZnRCUW9BdFZTVVh6UElIMXlYV2RLZFZUQ3RsUEVmdExsN3ppdGZPMUNEb1F0QWE5WEYzbFoyWkhfcDB0cFlKMm9UUzJYc29vd1lLYWtIbmlPZW5hclc0Mlg3MkxnbHc?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:09:38Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "rajnath-singh-flags-f-16-jets-package-for-pakist",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "راج ناتھ سنگھ نے امریکی وزیر جنگ ہیگستھ کے ساتھ بات چیت میں پاکستان کے لیے F-16 جیٹ طیاروں کے پیکیج کو جھنڈا دیا۔",
+   "summary": "راج ناتھ سنگھ نے امریکی وزیر جنگ ہیگستھ کے ساتھ بات چیت میں پاکستان کے لیے F-16 جیٹ طیاروں کے پیکیج کو جھنڈا دیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "راج ناتھ سنگھ نے امریکی وزیر جنگ ہیگستھ کے ساتھ بات چیت میں پاکستان کے لیے F-16 جیٹ طیاروں کے پیکیج کو جھنڈا دیا۔"
+    }
+   ],
+   "source": "The Tribune",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRjVuWTNLelpJUlJqQVNLYTk5TGx2TEJmbXFmcC1fRkJoSXM2NGozSXhXZGJ4ODVJLVRrMjl1MDBWZkotZjlnenZLalpid2dYQnNVMzVUa0tQbzR4N0NSdHVHbWtqMnZ5ZXBCWDBFSDNiQXpaSDU1d2JmS19USjRJOVh2dWpYaGtEam9zLUFRdnNBMHVBdUwwcVhTTjRwWkxSMFQ2RUtwTGowdzFrV3p1OU5ianU1dnNfZnNnUmRWNExzeFF0LU83X21SZFVST2kt0gHUAUFVX3lxTFB4U283a3FTaTlaek9uM01PTHREbWV4THlDdG1DZTEwbkkxV0xUY01mMDdJTnNRSVpCVkxteGc5LWZJeGVJdFF5UVR1clU1cHRFWkxRTjFGUnJQS2lSaUVsb0o1UHRoRnVObHh0alpjT25BUktqQ3dQZWN3UW1feGhWRUdLLXZqX1dGcFlxWm4yWUN1OWxxa1NTUW00R016dHUydnJvNWExcjNKSHhUbGc2NGtkdHMzeVlpYVFjUkcweFVRVFltVFZHaXpCcWJwRHB0QTBa?oc=5",
+   "type": null,
+   "time": "2026-10-28T14:18:17Z",
+   "countries": [
+    "Pakistan",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
+   "country": "Yemen",
+   "label": "یمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "یمن کے عدن ہوائی اڈے پر حوثیوں نے انخلاء کی وارننگ کے بعد حملہ کیا۔",
+   "summary": "یمن کے عدن ہوائی اڈے پر حوثیوں نے انخلاء کی وارننگ کے بعد حملہ کیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "یمن کے عدن ہوائی اڈے پر حوثیوں نے انخلاء کی وارننگ کے بعد حملہ کیا۔"
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-   "time": "2026-10-28T01:49:00Z"
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:28:31Z",
+   "countries": [
+    "Yemen"
+   ]
   },
   {
-   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
    "country": "Iran",
-   "label": "آبنائے ہرمز",
-   "lat": 26.6,
-   "lon": 56.4,
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ہرمز میں تیل کا اخراج متحدہ عرب امارات کے ساحلوں کو بند کرنے پر مجبور",
-   "summary": "آبنائے ہرمز میں ایک تباہ شدہ ٹینکر سے تیل کا رساؤ متحدہ عرب امارات کے ساحلوں تک پہنچ گیا ہے جس کی وجہ سے وہ بند ہو گئے ہیں۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ہرمز میں تیل کا اخراج متحدہ عرب امارات کے ساحلوں کو بند کرنے پر مجبور۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "قیمتوں کا کیا مطلب ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "آبنائے ہرمز میں ایک تباہ شدہ ٹینکر سے تیل کا رساؤ متحدہ عرب امارات کے ساحلوں تک پہنچ گیا ہے جس کی وجہ سے وہ بند ہو گئے ہیں۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-   "time": "2026-10-28T10:02:32Z"
-  },
-  {
-   "id": "one-killed-several-wounded-in-pakistan-afghanist",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Pakistan",
-   "headline": "پاکستان افغانستان سرحدی جھڑپوں میں ایک ہلاک، متعدد زخمی",
-   "summary": "پاکستان افغانستان سرحدی جھڑپوں میں ایک ہلاک، متعدد زخمی",
+   "category": "Middle East",
+   "headline": "اہلکار کا کہنا ہے کہ ایران جنگ کے خاتمے کے لیے تازہ ترین ثالثی میں صرف ناقابل قبول خیالات دیکھتا ہے۔",
+   "summary": "اہلکار کا کہنا ہے کہ ایران جنگ کے خاتمے کے لیے تازہ ترین ثالثی میں صرف ناقابل قبول خیالات دیکھتا ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "پاکستان افغانستان سرحدی جھڑپوں میں ایک ہلاک، متعدد زخمی۔"
+     "text": "اہلکار کا کہنا ہے کہ ایران جنگ کے خاتمے کے لیے تازہ ترین ثالثی میں صرف ناقابل قبول خیالات دیکھتا ہے۔"
     }
    ],
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJub1ZBNlFWbmxyTklxUGhteWhjbWxOcnZEYUVhV0QtMjVkNWM5N3dha0h3b1JQT3pLU2J6WHdQTklydC13Y1BaUXJpN2ZaU05fN2dIRUFOd2FvRnJGNW16ZjQzd0FGMXlhQ0JldG1MMW9IeURDb0s0eW16YVJKYnZIdHo0R0hobVlLM1daeXd5eEVSd2tR?oc=5",
-   "time": "2026-10-28T12:48:34Z"
-  },
-  {
-   "id": "afghan-pakistan-border-clash-kills-one-injures-f",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "پاک افغان سرحدی جھڑپ میں ایک شخص ہلاک، پانچ زخمی",
-   "summary": "پاک افغان سرحدی جھڑپ میں ایک شخص ہلاک، پانچ زخمی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "پاک افغان سرحدی جھڑپ میں ایک شخص ہلاک، پانچ زخمی۔"
-    }
-   ],
-   "source": "Macau Business",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTdjUFNZZWp3TlJQZE1iNXJPMUM4Qi1SeWRiQjE2b3JwYjZsamdwMmVYY2tLR2pGZEdlZ2dNVl9WNGQweHdUNzhFQTZRdllPRk4xVGYtNC1QNS1lNlhvQmxsZ2xwZWhiUTV5aHpnUWZHQUtONWlkckdyNENTMDVrTV8yNk8?oc=5",
-   "time": "2026-10-28T12:30:06Z"
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:20:04Z",
+   "countries": [
+    "Iran"
+   ]
   },
   {
    "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
@@ -239,7 +376,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "اثر کیا ہے؟"
+     "text": "ٹھیک ہے۔ تفصیلات؟"
     },
     {
      "role": "ANALYST",
@@ -248,73 +385,14 @@
    ],
    "source": "aljazeera.com",
    "url": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
-   "time": "2026-10-28T11:33:26Z"
+   "type": null,
+   "time": "2026-10-28T11:33:26Z",
+   "countries": [
+    "Russia"
+   ]
   },
   {
-   "id": "u-s-warns-gulf-of-possible-short-intense-renewal",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "امریکہ نے خلیج کو مڈٹرم کے بعد ایران جنگ کی ممکنہ مختصر، شدید تجدید سے خبردار کیا",
-   "summary": "امریکہ نے خلیج کو مڈٹرم کے بعد ایران جنگ کی ممکنہ مختصر، شدید تجدید سے خبردار کیا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "امریکہ نے خلیج کو مڈٹرم کے بعد ایران جنگ کی ممکنہ مختصر، شدید تجدید سے خبردار کیا ہے۔"
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYXd0OHZEUnBrMFNkRjJ5dHFUakFsTDU0NUxhdzhQUnpPQ0JxMllJanhoeVFQWm1GMmk2RkRUdDFWLVR2N0VwczZOQmZmbG9BanpUSTE2VEhnSS1xd29mUzFzbEdRTVBDWGRSOW1hRW41WU04eE9OSUo4QmFoSG9DUUhUNi13bzNkbEZaWlFUaVUzUzZPWGtMc2JDeEZyODg2Q09JdFZBekl1WnNJdDVBYnZQMzhieGt4bjFuOFZnMA?oc=5",
-   "time": "2026-10-28T11:12:00Z"
-  },
-  {
-   "id": "saudi-arabia-says-air-defenses-intercept-houthi-",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "سعودی عرب کا کہنا ہے کہ فضائی دفاع نے دارالحکومت پر حوثیوں کے میزائلوں کو روک دیا۔",
-   "summary": "سعودی عرب کا کہنا ہے کہ فضائی دفاع نے دارالحکومت پر حوثیوں کے میزائلوں کو روک دیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "سعودی عرب کا کہنا ہے کہ فضائی دفاع نے دارالحکومت پر حوثیوں کے میزائلوں کو روک دیا۔"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnNFYkswVTNNR0trQlNVMmxTVFk4THIxWUpJcFZJbUsyN2ZHdzFqNXM0U2pBWU9uRzg2SkJhQkYxYjlySHRfS2cxMy1xRTRBRnB3LWhMTjk5VmxiM09mRk9JRlBTY0p1UlFhMFRYNlR1VmxGdUFCbXFnbU85THg3ZVVHUHdodEVKZmxnakVwT1ZJdw?oc=5",
-   "time": "2026-10-28T01:00:00Z"
-  },
-  {
-   "id": "uk-treasury-offers-support-with-energy-bills-in-",
-   "country": "United Kingdom",
-   "label": "یونائیٹڈ کنگڈم",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "World",
-   "headline": "یوکے ٹریژری نے ایران کے جنگی قیمتوں کے جھٹکے کے پیش نظر توانائی کے بلوں میں مدد کی پیشکش کی ہے۔",
-   "summary": "یوکے ٹریژری نے ایران کے جنگی قیمتوں کے جھٹکے کے پیش نظر توانائی کے بلوں میں مدد کی پیشکش کی ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "یوکے ٹریژری نے ایران کے جنگی قیمتوں کے جھٹکے کے پیش نظر توانائی کے بلوں میں مدد کی پیشکش کی ہے۔"
-    }
-   ],
-   "source": "Oskaloosa Herald",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEo3bFEtbEtqdV9zWEg1VzhSVjhzQy1SUHJVbDZaWi1LdkVtcXR3Tzl0Nk1IREJFd0drRWFXTnl1QWF4SnFkWFNRazNMNlNYdnZPckUzOXdYVDNoYWRzeFo3SmZPeUc4bTVJWkw1TkpkclNyVlBWbVI0ZmRJU3pnbDFEQi1pdVJaTWNqYTIwa0NJT2t2NmxzNmw3TE92QXRKZFpwYmc1X3dnTURwMFBsaVBYY0hidi1samlCMkRlUGtidHRsYXJ3WmdFSkE1RG5wZkxGbUl4ek1GZG9VNVdQaDd1ZmlZaGV3OHBSOWRwR2thaFlFNlUtZmdrZGVIbXlDT1B3RXFB?oc=5",
-   "time": "2026-10-28T13:49:15Z"
-  },
-  {
-   "id": "live-updates-spain-train-crash-kills-at-least-30",
+   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
    "country": "Spain",
    "label": "سپین",
    "lat": 40.5,
@@ -322,16 +400,16 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "لائیو اپ ڈیٹس: اسپین ٹرین حادثے میں کم از کم 30 افراد ہلاک ہوئے جب کہ عینی شاہدین نے تباہ کن مناظر بیان کیے",
+   "headline": "اسپین ٹرین حادثے میں کم از کم 68 افراد ہلاک ہو گئے جب کہ عینی شاہدین تباہ کن مناظر بیان کر رہے ہیں۔",
    "summary": "وزیر صحت مونیکا گارسیا کا کہنا ہے کہ ہنگامی کارکن زندہ بچ جانے والوں کو بچانے پر توجہ دے رہے ہیں۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "لائیو اپ ڈیٹس: اسپین ٹرین حادثے میں کم از کم 30 افراد ہلاک ہوگئے جب کہ عینی شاہدین نے تباہ کن مناظر بیان کیے ہیں۔"
+     "text": "اسپین ٹرین حادثے میں کم از کم 68 افراد ہلاک ہو گئے جب کہ عینی شاہدین تباہ کن مناظر بیان کر رہے ہیں۔"
     },
     {
      "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
+     "text": "ہم اب تک کیا جانتے ہیں؟"
     },
     {
      "role": "ANALYST",
@@ -340,78 +418,100 @@
    ],
    "source": "CNN",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-   "time": "2026-10-28T13:02:00Z"
+   "type": null,
+   "time": "2026-10-28T15:42:00Z",
+   "countries": [
+    "Spain"
+   ]
   },
   {
-   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "id": "spanish-football-postpones-24-copa-del-rey-games",
    "country": "Spain",
    "label": "سپین",
    "lat": 40.5,
    "lon": -3.7,
    "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "اسپین کے مہلک ٹرین حادثے کے بارے میں ہم اب تک کیا جانتے ہیں۔",
-   "summary": "ٹرینوں میں 500 سے زائد مسافر سوار تھے جب یہ واقعہ میڈرڈ کے جنوب میں واقع صوبے ٹولیڈو میں پیش آیا۔",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "ہسپانوی فٹ بال نے ٹرین حادثے کے بعد 24 کوپا ڈیل رے گیمز ملتوی کر دیے۔",
+   "summary": "ریئل میڈرڈ اور بارسلونا ٹرین حادثے کے بعد حمایت کے پیغامات پیش کرتے ہیں کیونکہ ہسپانوی فٹ بال نے کوپا ملتوی کرنے کا حکم دیا ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "اسپین کے مہلک ٹرین حادثے کے بارے میں ہم اب تک کیا جانتے ہیں۔"
+     "text": "ہسپانوی فٹ بال نے ٹرین حادثے کے بعد 24 کوپا ڈیل رے گیمز ملتوی کر دیے۔"
     },
     {
      "role": "COMMANDER",
-     "text": "اس کے پیچھے کون ہے؟"
+     "text": "ٹھیک ہے، اور کیا؟"
     },
     {
      "role": "ANALYST",
-     "text": "ٹرینوں میں 500 سے زائد مسافر سوار تھے جب یہ واقعہ میڈرڈ کے جنوب میں واقع صوبے ٹولیڈو میں پیش آیا۔"
+     "text": "ریئل میڈرڈ اور بارسلونا ٹرین حادثے کے بعد حمایت کے پیغامات پیش کرتے ہیں کیونکہ ہسپانوی فٹ بال نے کوپا ملتوی کرنے کا حکم دیا ہے۔"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T12:14:44Z"
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-28T13:48:09Z",
+   "countries": [
+    "Spain"
+   ]
   },
   {
-   "id": "crude-oil-remains-under-pressure-amid-us-iran-de",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "امریکہ ایران معاہدے کی امیدوں کے درمیان خام تیل دباؤ میں رہتا ہے۔ دھچکے قیمتوں کو نئی بلندیوں تک لے جا سکتے ہیں۔",
-   "summary": "امریکہ ایران معاہدے کی امیدوں کے درمیان خام تیل دباؤ میں رہتا ہے۔ دھچکے قیمتوں کو نئی بلندیوں تک لے جا سکتے ہیں۔",
+   "id": "ukraine-wants-its-abu-dhabi-talks-with-russia-be",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "یوکرین چاہتا ہے کہ اس کی ابوظہبی میں مجوزہ ٹرمپ-پیوٹن-ژی سربراہی اجلاس سے قبل روس کے ساتھ بات چیت ہو",
+   "summary": "یوکرین چاہتا ہے کہ اس کی ابوظہبی میں مجوزہ ٹرمپ-پیوٹن-ژی سربراہی اجلاس سے قبل روس کے ساتھ بات چیت ہو",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "امریکہ ایران معاہدے کی امیدوں کے درمیان خام تیل دباؤ میں رہتا ہے۔ دھچکے قیمتوں کو نئی بلندیوں تک لے جا سکتے ہیں۔"
+     "text": "یوکرین چاہتا ہے کہ اس کا ابوظہبی مجوزہ ٹرمپ-پیوٹن-ژی سربراہی اجلاس سے قبل روس کے ساتھ بات چیت کرے۔"
     }
    ],
-   "source": "investingLive",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmhTMjlhYVplMWplQlp1allwSFNqN1hyRUJXZnVyUmg5aXRtWWJqR1FwZDBnOENIZGFyaTRwcU1WRTVhRTR0Zkw0NWhOMF9lT3ZIb3lTRUFpWUhSRVdfV3VlalNNamlsZUZRQnR5UzNxRGM4YTR1UF9MXzltSzJZeU1ZMlVtWExmdWlKdl9sc2VtWmptRTdNWk5tWkxtNkEyOEdpZ05fU2JRSTJNbFdYWEpWcTVLNXJWRlhhREY3NzBISzNjTDc4ZVhJRGo1Z0hp?oc=5",
-   "time": "2026-10-28T10:33:09Z"
+   "source": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYVdVV2NxUlcwZWQ4ZmZaNmtIWkN1VHNvSnhOVncwaW9YRk9neGk1UTBFU1RPZEh2WVpuOHdBWW1TWkRXV1dTMFY2cDRmWUtrQ0NOQVRmdlNzZmNWZ05VQ3JIY3VwNTJ5dUdvLTlmQmxZNUg2bXNBakZpREt5bVBydl9JMnpMN0RKdmFiLWtDYWRLYmxkR0RIdkZPTXY1cks3VDdyZmREbHRtbUNscVVlZmFmQUhTYzZ3bHFQaGhZcFRrRk0?oc=5",
+   "type": null,
+   "time": "2026-10-28T13:42:38Z",
+   "countries": [
+    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ]
   },
   {
-   "id": "is-the-uae-secretly-helping-houthis-fight-saudi-",
-   "country": "Yemen",
-   "label": "یمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "egypt-saudi-arabia-pledge-closer-coordination-wi",
+   "country": "Egypt",
+   "label": "مصر",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
    "severity": "info",
    "category": "Middle East",
-   "headline": "کیا متحدہ عرب امارات خفیہ طور پر یمن میں سعودی حمایت یافتہ افواج سے لڑنے میں حوثیوں کی مدد کر رہا ہے؟ رپورٹ نے چونکا دینے والا دعویٰ کر دیا۔",
-   "summary": "کیا متحدہ عرب امارات خفیہ طور پر یمن میں سعودی حمایت یافتہ افواج سے لڑنے میں حوثیوں کی مدد کر رہا ہے؟ رپورٹ نے چونکا دینے والا دعویٰ کر دیا۔",
+   "headline": "مصر، سعودی عرب نے ترکی اور پاکستان کے ساتھ قریبی رابطہ کاری کا عہد کیا۔",
+   "summary": "مصر، سعودی عرب نے ترکی اور پاکستان کے ساتھ قریبی رابطہ کاری کا عہد کیا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "کیا متحدہ عرب امارات خفیہ طور پر یمن میں سعودی حمایت یافتہ افواج سے لڑنے میں حوثیوں کی مدد کر رہا ہے؟ رپورٹ نے چونکا دینے والا دعویٰ کر دیا۔"
+     "text": "مصر، سعودی عرب نے ترکی اور پاکستان کے ساتھ قریبی رابطہ کاری کا عہد کیا۔"
     }
    ],
-   "source": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGZTOHFfN1dxWUdwUHVCSjQ0TU01REVVanhSRlE4TkJVVWc3V0FNb3hvNUZrd2J4MldGaUdoRUxGNjBRLU5OQzdWNzllSFB4NVpJWGZXLXlvQVI1SEpKVkdwMEJwQ05vRTJJS2hLSGx4eUZoNFVsclR4b3lOTXR6d3ZocllsbW5LY1NXV0FYY1FuNlNkUGtSQlMzUkhDRC1TYWR3RUdlbXpLbmFEaHhfUFlqSFA2ZXhOcTJrQzIwaHYycWNRSHBzamZJLUgxclBXREJZWGZnUkczemI0YUHSAeMBQVVfeXFMTm9VeFc5V1RBbXM1WVZxZW9SSWlBT05FclhxcERMTWNfVF9QM1VCXzl1cVFZaUptVkNoN2F4LW5tMHRSdGVPUHduNjdQVnFoRGtKbVFFZEpPc3ZteURmTTZVUG50TjVfWld1d1BMVmFJZnNuNzF1NU9lTHdTLVZrVUw1Sl9MVWZnMERSTU8xM2NBUXljeU1qR1lEMm1XTTFSV1piYjlNLXUxTGR1WnVwQjBBM3B1R0N3UkJHcXR6NVpkcW5qdXZWSDZBY0doTjU5dWxRTW0tX3hWUHhiYU4tQlUyXzA?oc=5",
-   "time": "2026-10-28T06:02:43Z"
+   "source": "Türkiye Today",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzg3eU9TWkZ5cW40M3lnbndJcjc1X2xMYTNfR3NMbEtJUEUwV3BWRDdDN1pGaEs4cWw1N0RUM2l3SUdrTkFybHBVaG9QVmU4UWthR215VzlndkZMUG9tbzVJazJYZmpzdkFUcmNJdHlmNTJBUU5IVmJiVHg4Qk01QzVrekc4OEUtWmJUcENCUkFqVnpSaV9SZG1jMThqaHpCMy0wQ3RPVFdrdUNEdUlLNg?oc=5",
+   "type": null,
+   "time": "2026-10-28T08:37:05Z",
+   "countries": [
+    "Egypt",
+    "Saudi Arabia",
+    "Turkey",
+    "Pakistan"
+   ]
   }
  ]
 }
