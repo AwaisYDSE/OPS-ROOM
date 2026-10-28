@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<title>Ops Room</title>
+<meta name="author" content="Awais Amin">
+<meta name="description" content="Live AI news operations room: a 3D globe that reads the news aloud and answers your questions.">
+<meta name="theme-color" content="#000000">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Ops Room">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" type="image/png" href="icon-512.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: full-screen globe; HUD caption on top, story card + controls at the bottom (portrait-first, like a broadcast) */
+:root {
+  --bg: #000;
+  --ink: #e9edf2;
+  --ink-dim: #8b95a3;
+  --ink-faint: #4a525d;
+  --panel: rgba(16, 19, 24, .86);
+  --line: rgba(255, 255, 255, .09);
+  --op: #39e27a;       /* operator */
+  --cmd: #ff3d3d;      /* commander */
+  --ana: #4fd1ff;      /* analyst */
+  --crit: #b3121c;
+  --crit-hi: #ff3341;
+  --high: #ff9f1a;
+  --mkt: #2fd3b3;
+  --watch: #f5d142;
+  --info: #5b8cff;
+  --display: "Chakra Petch", "Avenir Next Condensed", "Arial Narrow", system-ui, sans-serif;
+  --body: "IBM Plex Sans", -apple-system, system-ui, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --safe-t: env(safe-area-inset-top, 0px);
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --gut-l: max(16px, env(safe-area-inset-left, 0px));
+  --gut-r: max(16px, env(safe-area-inset-right, 0px));
+  color-scheme: dark;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); overflow: hidden; }
+body { font: 15px/1.45 var(--body); -webkit-font-smoothing: antialiased; overscroll-behavior: none; }
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+button:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--ana); outline-offset: 2px; }
+[hidden] { display: none !important; }
+
+#app { position: fixed; inset: 0; }
+canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+
+/* ---------- top bar ---------- */
+.top {
+  position: absolute; left: 0; right: 0; top: 0; z-index: 5;
+  padding: calc(var(--safe-t) + 8px) var(--gut-r) 0 var(--gut-l);
+  display: flex; align-items: center; gap: 10px;
+  font: 600 11px/1 var(--mono); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-dim);
+}
+.top .brand { color: var(--op); }
+.top .clock { margin-left: auto; font-variant-numeric: tabular-nums; }
+.live { display: flex; align-items: center; gap: 6px; color: var(--cmd); }
+.live .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--cmd); box-shadow: 0 0 10px var(--cmd); animation: blink 1.4s infinite; }
+.live.off { color: var(--ink-faint); } .live.off .dot { background: var(--ink-faint); box-shadow: none; animation: none; }
+@keyframes blink { 50% { opacity: .25; } }
+
+/* ---------- caption ---------- */
+.caption {
+  position: absolute; left: 0; right: 0; z-index: 4;
+  top: calc(var(--safe-t) + 34px);
+  padding: 0 var(--gut-r) 0 var(--gut-l);
+  text-align: center; min-height: 92px;
+}
+.caption .role { font: 700 12px/1 var(--display); letter-spacing: .22em; margin-bottom: 6px; }
+.caption .role.OPERATOR { color: var(--op); } .caption .role.COMMANDER { color: var(--cmd); } .caption .role.ANALYST { color: var(--ana); }
+.caption .line {
+  font: 600 15px/1.35 var(--display); letter-spacing: .08em; text-transform: uppercase;
+  max-width: 34ch; margin: 0 auto; text-wrap: balance; text-shadow: 0 2px 12px #000;
+}
+
+/* ---------- intro overlay (date + OPERATIONS ROOM) ---------- */
+.intro {
+  position: absolute; z-index: 6; left: 0; right: 0; top: 40%;
+  padding: 0 var(--gut-r) 0 var(--gut-l); text-align: center; pointer-events: none;
+  transition: opacity .8s;
+}
+.intro .date { font: 600 18px/1 var(--mono); letter-spacing: .12em; color: var(--ink); }
+.intro .title { font: 700 22px/1.2 var(--display); letter-spacing: .26em; color: var(--op); margin-top: 8px; text-shadow: 0 0 18px rgba(57,226,122,.45); }
+.intro.gone { opacity: 0; }
+.intro .by { font: 600 12px/1 var(--mono); letter-spacing: .3em; color: var(--ink-dim); margin-top: 14px; text-transform: uppercase; }
+.credit { position: absolute; z-index: 5; right: var(--gut-r); top: calc(var(--safe-t) + 26px); font: 600 9px/1 var(--mono); letter-spacing: .18em; color: var(--ink-faint); text-transform: uppercase; pointer-events: none; }
+
+/* ---------- story card ---------- */
+.card {
+  position: absolute; z-index: 4; left: var(--gut-l); right: var(--gut-r);
+  bottom: calc(var(--safe-b) + 92px);
+  max-width: 560px; margin: 0 auto;
+  background: var(--panel); border: 1px solid var(--line);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  padding: 12px 14px 10px; transform: translateY(14px); opacity: 0; transition: transform .45s, opacity .45s, background .4s;
+}
+.card.show { transform: none; opacity: 1; }
+.card.critical { background: linear-gradient(180deg, rgba(160,14,24,.92), rgba(110,8,16,.92)); border-color: rgba(255,80,90,.45); }
+.card .head { display: flex; align-items: center; gap: 10px; }
+.card .flag { font-size: 22px; line-height: 1; }
+.card .country { margin: 0; font: 700 20px/1.1 var(--display); letter-spacing: .14em; text-transform: uppercase; min-width: 0; overflow-wrap: anywhere; }
+.card .tag { margin-left: auto; flex: none; font: 600 10px/1 var(--mono); letter-spacing: .12em; padding: 4px 6px; border: 1px solid currentColor; text-transform: uppercase; }
+.tag.critical { color: #fff; } .tag.high { color: var(--high); } .tag.markets { color: var(--mkt); } .tag.watch { color: var(--watch); } .tag.info { color: var(--info); }
+.card .headline { margin: 8px 0 8px; font: 500 14.5px/1.35 var(--body); }
+.card .foot { display: flex; gap: 10px; justify-content: space-between; font: 400 10px/1.3 var(--mono); letter-spacing: .1em; color: rgba(255,255,255,.55); text-transform: uppercase; }
+.card .foot a { color: inherit; text-decoration: none; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* ---------- progress ---------- */
+.progress {
+  position: absolute; z-index: 4; left: var(--gut-l); right: var(--gut-r);
+  bottom: calc(var(--safe-b) + 78px); max-width: 560px; margin: 0 auto;
+  display: flex; gap: 3px; height: 2px;
+}
+.progress i { flex: 1; background: rgba(255,255,255,.14); }
+.progress i.done { background: rgba(255,255,255,.55); }
+.progress i.now { background: var(--ink); }
+
+/* ---------- controls ---------- */
+.controls {
+  position: absolute; z-index: 5; left: 0; right: 0; bottom: 0;
+  padding: 10px var(--gut-r) calc(var(--safe-b) + 12px) var(--gut-l);
+  display: flex; align-items: center; justify-content: center; gap: 14px;
+}
+.ctl { width: 46px; height: 46px; display: grid; place-items: center; border-radius: 50%; background: rgba(255,255,255,.06); border: 1px solid var(--line); }
+.ctl svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.ctl.play { width: 58px; height: 58px; background: var(--ink); color: #000; border: 0; }
+.ctl.play svg { width: 22px; height: 22px; fill: currentColor; stroke: none; }
+.ctl.ask { width: auto; padding: 0 16px; border-radius: 24px; gap: 8px; display: flex; color: var(--ana); border-color: rgba(79,209,255,.35); font: 600 12px/1 var(--display); letter-spacing: .14em; }
+
+/* ---------- start screen ---------- */
+.start {
+  position: absolute; inset: 0; z-index: 8; display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
+  padding: 0 var(--gut-r) calc(var(--safe-b) + 36px) var(--gut-l);
+  background: linear-gradient(180deg, rgba(0,0,0,0) 45%, rgba(0,0,0,.85) 80%);
+  text-align: center; gap: 12px;
+}
+.start .go {
+  font: 700 15px/1 var(--display); letter-spacing: .2em; text-transform: uppercase;
+  padding: 18px 28px; background: var(--crit-hi); color: #fff; width: min(100%, 340px);
+  box-shadow: 0 0 32px rgba(255,51,65,.45);
+}
+.start .meta { font: 400 11px/1.5 var(--mono); letter-spacing: .1em; color: var(--ink-dim); text-transform: uppercase; }
+
+/* ---------- sheets ---------- */
+.sheet {
+  position: absolute; z-index: 10; left: 0; right: 0; bottom: 0; max-height: 86%;
+  background: #0b0d11; border-top: 1px solid var(--line);
+  display: flex; flex-direction: column;
+  transform: translateY(102%); transition: transform .35s cubic-bezier(.2,.8,.2,1);
+}
+.sheet.open { transform: none; }
+.sheet .bar { display: flex; align-items: center; gap: 10px; padding: 14px var(--gut-r) 10px var(--gut-l); border-bottom: 1px solid var(--line); }
+.sheet .bar h3 { margin: 0; font: 700 13px/1 var(--display); letter-spacing: .2em; text-transform: uppercase; }
+.sheet .bar .x { margin-left: auto; font: 600 12px/1 var(--mono); letter-spacing: .1em; color: var(--ink-dim); padding: 8px; }
+.sheet .body { overflow-y: auto; -webkit-overflow-scrolling: touch; padding: 12px var(--gut-r) calc(var(--safe-b) + 16px) var(--gut-l); min-height: 0; }
+.scrim { position: absolute; inset: 0; z-index: 9; background: rgba(0,0,0,.5); opacity: 0; pointer-events: none; transition: opacity .3s; }
+.scrim.on { opacity: 1; pointer-events: auto; }
+
+/* ask */
+#askSheet { height: 86%; }
+.chat { display: flex; flex-direction: column; gap: 12px; }
+.msg { max-width: 90%; padding: 10px 12px; font-size: 15px; line-height: 1.45; overflow-wrap: anywhere; }
+.msg.me { align-self: flex-end; background: #1d2530; }
+.msg.ai { align-self: flex-start; background: #10161d; border-left: 2px solid var(--ana); }
+.msg.ai .who { font: 700 10px/1 var(--display); letter-spacing: .2em; color: var(--ana); margin-bottom: 6px; }
+.msg .src { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+.msg .src a { font: 400 10.5px/1.3 var(--mono); color: var(--ink-dim); border: 1px solid var(--line); padding: 3px 6px; text-decoration: none; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.chip { font: 500 13px/1.2 var(--body); padding: 8px 10px; border: 1px solid var(--line); background: #11151b; text-align: left; }
+.askbar { display: flex; gap: 8px; padding: 10px var(--gut-r) calc(var(--safe-b) + 10px) var(--gut-l); border-top: 1px solid var(--line); background: #0b0d11; }
+.askbar input { flex: 1; min-width: 0; font: 16px/1.2 var(--body); color: var(--ink); background: #141920; border: 1px solid var(--line); padding: 12px; border-radius: 0; }
+.askbar button { flex: none; width: 46px; height: 46px; display: grid; place-items: center; background: #141920; border: 1px solid var(--line); }
+.askbar button.send { background: var(--ana); color: #000; border: 0; }
+.askbar button.rec { background: var(--cmd); color: #fff; border: 0; animation: blink 1s infinite; }
+.askbar svg { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.note { font: 400 12px/1.5 var(--body); color: var(--ink-dim); }
+.resume { margin-top: 4px; font: 600 12px/1 var(--display); letter-spacing: .16em; padding: 12px 14px; border: 1px solid var(--line); text-transform: uppercase; align-self: flex-start; }
+
+/* list */
+.story { display: grid; grid-template-columns: 28px 1fr; gap: 2px 10px; padding: 12px 0; border-bottom: 1px solid var(--line); text-align: left; width: 100%; }
+.story .f { font-size: 20px; grid-row: span 2; }
+.story .c { font: 700 11px/1.2 var(--display); letter-spacing: .16em; text-transform: uppercase; display: flex; gap: 8px; align-items: center; min-width: 0; }
+.story .c .sv { width: 7px; height: 7px; border-radius: 50%; flex: none; }
+.story .h { font: 500 14.5px/1.35 var(--body); min-width: 0; }
+.story.cur .h { color: var(--ana); }
+
+/* settings */
+.field { display: grid; gap: 6px; margin-bottom: 18px; }
+.field label { font: 600 11px/1 var(--display); letter-spacing: .18em; text-transform: uppercase; color: var(--ink-dim); }
+.field input[type=password], .field input[type=text] { font: 16px/1.2 var(--mono); color: var(--ink); background: #141920; border: 1px solid var(--line); padding: 12px; width: 100%; }
+.field input[type=range] { width: 100%; accent-color: var(--ana); }
+.row { display: flex; gap: 8px; flex-wrap: wrap; }
+.btn { font: 600 12px/1 var(--display); letter-spacing: .14em; text-transform: uppercase; padding: 12px 14px; border: 1px solid var(--line); background: #141920; }
+.btn.pri { background: var(--ana); color: #000; border: 0; }
+.steps { margin: 6px 0 0; padding-left: 18px; color: var(--ink-dim); font-size: 13.5px; }
+.steps a { color: var(--ana); }
+.ok { color: var(--op); font: 600 12px/1.4 var(--mono); }
+
+.pre .controls, .pre .progress, .pre .card, .pre .caption { visibility: hidden; }
+.toast { position: absolute; z-index: 12; left: 50%; top: calc(var(--safe-t) + 40px); transform: translateX(-50%); background: #1b222c; border: 1px solid var(--line); padding: 10px 14px; font: 500 13px/1.3 var(--body); opacity: 0; transition: opacity .3s; pointer-events: none; max-width: calc(100% - 32px); text-align: center; }
+.toast.on { opacity: 1; }
+
+@media (min-height: 760px) { .caption .line { font-size: 16px; } .card .headline { font-size: 15.5px; } }
+@media (prefers-reduced-motion: reduce) { .card, .sheet, .intro { transition: none; } .live .dot { animation: none; } }
+</style>
+</head>
+<body>
+<div id="app" class="pre">
+  <canvas id="stars"></canvas>
+  <canvas id="globe" aria-label="Globe showing where each story is"></canvas>
+
+  <header class="top">
+    <span class="brand">Ops Room</span>
+    <span class="live off" id="live"><span class="dot"></span><span id="liveTxt">Standby</span></span>
+    <span class="clock" id="clock"></span>
+    <button id="bSet" aria-label="Settings" style="padding:6px;margin:-6px -6px -6px 0;color:var(--ink-dim)"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg></button>
+  </header>
+
+  <div class="credit">Built by Awais Amin</div>
+
+  <section class="caption" aria-live="polite">
+    <div class="role OPERATOR" id="role"></div>
+    <div class="line" id="line"></div>
+  </section>
+
+  <div class="intro" id="intro">
+    <div class="date" id="introDate"></div>
+    <div class="title">Operations Room</div>
+    <div class="by">Built by Awais Amin</div>
+  </div>
+
+  <article class="card" id="card">
+    <div class="head"><span class="flag" id="cFlag"></span><h2 class="country" id="cCountry"></h2><span class="tag" id="cTag"></span></div>
+    <p class="headline" id="cHead"></p>
+    <div class="foot"><a id="cSrc" target="_blank" rel="noopener"></a><span id="cTime"></span></div>
+  </article>
+
+  <div class="progress" id="progress"></div>
+
+  <nav class="controls">
+    <button class="ctl" id="bList" aria-label="All stories"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg></button>
+    <button class="ctl" id="bPrev" aria-label="Previous story"><svg viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button>
+    <button class="ctl play" id="bPlay" aria-label="Play"><svg viewBox="0 0 24 24" id="playIcon"><path d="M8 5v14l11-7z"/></svg></button>
+    <button class="ctl" id="bNext" aria-label="Next story"><svg viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button>
+    <button class="ctl ask" id="bAsk" aria-label="Ask a question"><svg viewBox="0 0 24 24" style="width:18px;height:18px"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg>ASK</button>
+  </nav>
+
+  <div class="start" id="start">
+    <button class="go" id="bStart">Start briefing</button>
+    <div class="meta" id="startMeta">Loading reports…</div>
+    <button class="meta" id="bSettings0" style="text-decoration:underline">Settings</button>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+
+  <section class="sheet" id="askSheet" aria-label="Ask the analyst">
+    <div class="bar"><h3>Ask the analyst</h3><button class="x" data-close>Close</button></div>
+    <div class="body" id="chatBody">
+      <div class="chips" id="chips"></div>
+      <div class="chat" id="chat"></div>
+    </div>
+    <form class="askbar" id="askForm" autocomplete="off">
+      <input id="q" type="text" placeholder="Ask about the news…" enterkeyhint="send">
+      <button type="button" id="bMic" aria-label="Speak your question"><svg viewBox="0 0 24 24"><path d="M12 3a3 3 0 0 0-3 3v6a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3z"/><path d="M5 11a7 7 0 0 0 14 0M12 18v3"/></svg></button>
+      <button type="submit" class="send" aria-label="Send"><svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+    </form>
+  </section>
+
+  <section class="sheet" id="listSheet" aria-label="All stories">
+    <div class="bar"><h3>All reports</h3><button class="x" data-close>Close</button></div>
+    <div class="body" id="listBody"></div>
+  </section>
+
+  <section class="sheet" id="setSheet" aria-label="Settings">
+    <div class="bar"><h3>Settings</h3><button class="x" data-close>Close</button></div>
+    <div class="body">
+      <div class="field">
+        <label for="key">Free AI key (Google Gemini)</label>
+        <input id="key" type="password" placeholder="Paste your key here" autocomplete="off" spellcheck="false">
+        <div class="row"><button class="btn pri" id="bSaveKey">Save key</button><button class="btn" id="bTestKey">Test</button></div>
+        <div class="note" id="keyNote">The analyst uses this key to answer questions and search the web for the latest news. Google gives it free; no card needed.</div>
+        <ol class="steps">
+          <li>Open <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">aistudio.google.com/apikey</a> and sign in with Gmail.</li>
+          <li>Tap <b>Create API key</b>, then copy it.</li>
+          <li>Paste it above and tap <b>Save key</b>.</li>
+        </ol>
+      </div>
+      <div class="field">
+        <label for="rate">Voice speed <span id="rateVal"></span></label>
+        <input id="rate" type="range" min="0.8" max="1.35" step="0.05" value="1">
+        <div class="row"><button class="btn" id="bTestVoice">Test voices</button></div>
+      </div>
+      <div class="field">
+        <label>News</label>
+        <div class="note" id="newsInfo"></div>
+        <div class="row"><button class="btn" id="bRefresh">Check for new reports</button></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="toast" id="toast"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<script src="app.js?v=1"></script>
+</body>
+</html>
