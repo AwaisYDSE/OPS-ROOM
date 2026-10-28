@@ -207,15 +207,31 @@
       g.fillStyle = "#1a2029"; g.beginPath(); path(land); g.fill();
       g.strokeStyle = "rgba(160,175,195,0.22)"; g.lineWidth = 0.5;
       g.beginPath(); path(borders); g.stroke();
+      if (pkOnScreen() && byName.get("Pakistan")) { g.fillStyle = "#1a2029"; pkMask(g); } // no line through Kashmir
 
       // highlight focused country
       const f = focus && focus.country && byName.get(focus.country);
       if (f) {
-        const ss = sev(focus.severity);
-        g.fillStyle = ss.glow + "0.30)"; g.beginPath(); path(f); g.fill();
-        g.strokeStyle = ss.glow + "0.35)"; g.lineWidth = 5; g.beginPath(); path(f); g.stroke();
-        g.strokeStyle = ss.col; g.lineWidth = 1.4; g.stroke();
-        if ((focus.country === "Pakistan" || focus.country === "India") && byName.get("India")) drawKashmir(ss);
+        const ss = sev(focus.severity), isPk = focus.country === "Pakistan";
+        const ph = reduce ? 0.5 : (Math.sin(pulseT / 420) + 1) / 2;          // border pulse 0..1
+        const shape = isPk
+          ? { fill: pkFill, lines: (arr) => pkOutline(arr), clip: pkClip, k: 0.5 }
+          : { fill: (st) => { g.fillStyle = st; g.beginPath(); path(f); g.fill(); },
+              line: (c, w, dash) => { g.save(); if (dash) { g.setLineDash(dash); g.lineDashOffset = -pulseT / 25; } g.strokeStyle = c; g.lineWidth = w; g.lineJoin = "round"; g.beginPath(); path(f); g.stroke(); g.restore(); },
+              clip: (fn) => { g.save(); g.beginPath(); path(f); g.clip(); fn(g); g.restore(); }, k: 1 };
+        if (!shape.lines) shape.lines = (arr) => arr.forEach((a) => shape.line(...a));
+        shape.fill(ss.glow + (0.2 + 0.14 * ph).toFixed(3) + ")");
+        // scanning sweep across the country
+        if (!reduce) {
+          const bb = isPk ? path.bounds({ type: "FeatureCollection", features: [f, { type: "Feature", geometry: CLAIM }] }) : path.bounds(f);
+          const bw = bb[1][0] - bb[0][0], x = bb[0][0] - 40 + ((pulseT / 2600) % 1) * (bw + 80);
+          shape.clip((c) => { const gr = c.createLinearGradient(x - 40, 0, x + 40, 0); gr.addColorStop(0, ss.glow + "0)"); gr.addColorStop(0.5, ss.glow + "0.35)"); gr.addColorStop(1, ss.glow + "0)"); c.fillStyle = gr; c.fillRect(x - 40, bb[0][1], 80, bb[1][1] - bb[0][1]); });
+        }
+        // pulsing glow on the borders, a solid edge, and a light running along the border
+        const L = [[ss.glow + (0.18 + 0.32 * ph).toFixed(3) + ")", (3 + 7 * ph) * shape.k], [ss.col, 1.4 * shape.k]];
+        if (!reduce) L.push(["rgba(255,255,255,0.75)", 1.2 * shape.k, [10, 22]]);
+        shape.lines(L);
+        if (focus.country === "India" && pkOnScreen()) { g.fillStyle = "#1a2029"; pkMask(g); pkOutline([["rgba(160,175,195,0.35)", 0.5]]); }
       }
     }
 
@@ -232,6 +248,10 @@
         g.save(); g.setLineDash([4, 4]); g.lineDashOffset = -pulseT / 40;
         g.strokeStyle = s.glow + "0.85)"; g.lineWidth = 1.4;
         g.beginPath(); path({ type: "LineString", coordinates: pts }); g.stroke(); g.restore();
+        if (k < 1) { // glowing dot travelling along the track
+          const hp = visible(pts[pts.length - 1][0], pts[pts.length - 1][1]);
+          if (hp) { const gl = g.createRadialGradient(hp[0], hp[1], 0, hp[0], hp[1], 14); gl.addColorStop(0, "rgba(255,255,255,0.95)"); gl.addColorStop(0.3, s.glow + "0.8)"); gl.addColorStop(1, s.glow + "0)"); g.fillStyle = gl; g.beginPath(); g.arc(hp[0], hp[1], 14, 0, 7); g.fill(); }
+        }
       }
     }
 
@@ -274,27 +294,75 @@
     g.strokeStyle = rim; g.lineWidth = 1.6; g.beginPath(); g.arc(W / 2, CY, r, 0, 7); g.stroke();
   }
 
-  // Jammu & Kashmir (Indian-administered): marked as disputed territory, as on Pakistan's official map
-  const KASH = { type: "Polygon", coordinates: [[[73.3, 32.25], [73.3, 37.2], [80.4, 37.2], [80.4, 32.25], [73.3, 32.25]]] };
-  let hatch = null, hatchCol = "";
-  function drawKashmir(ss) {
-    if (!hatch || hatchCol !== ss.col) {
-      const c = document.createElement("canvas"); c.width = c.height = 8; const x = c.getContext("2d");
-      x.strokeStyle = ss.col; x.globalAlpha = 0.75; x.lineWidth = 1.4; x.beginPath(); x.moveTo(0, 8); x.lineTo(8, 0); x.moveTo(-2, 2); x.lineTo(2, -2); x.moveTo(6, 10); x.lineTo(10, 6); x.stroke();
-      hatch = g.createPattern(c, "repeat"); hatchCol = ss.col;
+  /* Pakistan drawn as on its official map: all of Jammu & Kashmir and Junagadh are part of Pakistan, with no line through them */
+  const JK = { type: "Polygon", coordinates: [[[73.3, 37.2], [80.6, 37.2], [80.6, 32.55], [79.4, 32.55], [78.95, 32.35], [78.4, 32.5], [77.9, 32.75], [77.3, 32.85], [76.8, 33.2], [76.3, 33.0], [75.95, 32.6], [75.55, 32.35], [75.3, 32.25], [74.65, 32.45], [73.3, 32.45], [73.3, 37.2]]] };
+  const JUN = { type: "Polygon", coordinates: [[[69.95, 21.55], [70.3, 21.78], [70.8, 21.7], [71.05, 21.4], [71.0, 21.05], [70.6, 20.85], [70.2, 20.95], [69.95, 21.2], [69.95, 21.55]]] };
+  const CLAIM = { type: "MultiPolygon", coordinates: [JK.coordinates, JUN.coordinates] };
+  const NEIGH = ["China", "Afghanistan", "Tajikistan"];
+  const off = document.createElement("canvas"), oc = off.getContext("2d"), svgPath = d3.geoPath(proj);
+  let P = null, PT = -1;
+  function pkPaths() { // projected outlines, worked out once per frame and reused
+    if (PT !== pulseT || !P) {
+      const mk = (o) => new Path2D(o ? (svgPath(o) || "M0,0") : "M0,0");
+      const pk = byName.get("Pakistan"), ind = byName.get("India");
+      P = { pk: mk(pk), ind: mk(ind), jk: mk(JK), jun: mk(JUN), others: new Path2D(), notOthers: new Path2D() };
+      P.notOthers.rect(-5000, -5000, 20000, 20000);
+      for (const n of NEIGH) { const f = byName.get(n); if (f) { const q = mk(f); P.others.addPath(q); P.notOthers.addPath(q); } }
+      const b = path.bounds({ type: "FeatureCollection", features: [pk, { type: "Feature", geometry: CLAIM }] });
+      const x0 = Math.max(0, Math.floor(b[0][0] - 24)), y0 = Math.max(0, Math.floor(b[0][1] - 24));
+      const x1 = Math.min(W, Math.ceil(b[1][0] + 24)), y1 = Math.min(H, Math.ceil(b[1][1] + 24));
+      P.box = x1 > x0 && y1 > y0 ? [x0, y0, x1 - x0, y1 - y0] : [0, 0, 1, 1]; PT = pulseT;
     }
-    g.save();
-    g.beginPath(); path(KASH); g.clip();
-    g.fillStyle = ss.glow + "0.18)"; g.beginPath(); path(byName.get("India")); g.fill();
-    g.fillStyle = hatch; g.fill();
-    g.setLineDash([3, 3]); g.strokeStyle = ss.col; g.lineWidth = 1; g.stroke();
-    g.restore();
-    const p = !fly && visible(76.6, 34.6);
-    if (p && zoom > 1.6) {
-      g.font = "600 9px 'JetBrains Mono', monospace"; g.fillStyle = "rgba(255,255,255,.8)";
-      g.fillText("J&K · DISPUTED", p[0] + 6, p[1] - 4);
-    }
+    return P;
   }
+  function pkMask(ctx) { // Pakistan + all of Jammu & Kashmir + Junagadh as one shape, no line inside
+    const q = pkPaths();
+    ctx.fill(q.pk);
+    ctx.save(); ctx.clip(q.jk); ctx.clip(q.notOthers, "evenodd"); ctx.fillRect(...q.box); ctx.restore();
+    ctx.save(); ctx.clip(q.jun); ctx.clip(q.ind); ctx.fillRect(...q.box); ctx.restore();
+  }
+  function pkPrep() { // work only inside the box around Pakistan
+    const dpr = gc.width / W, q = pkPaths();
+    if (off.width !== gc.width || off.height !== gc.height) { off.width = gc.width; off.height = gc.height; }
+    oc.restore(); oc.save();
+    oc.setTransform(dpr, 0, 0, dpr, 0, 0); oc.globalCompositeOperation = "source-over"; oc.setLineDash([]);
+    oc.clearRect(...q.box); oc.beginPath(); oc.rect(...q.box); oc.clip();
+    return q;
+  }
+  function pkBlit() { const d = gc.width / W, [x, y, w, h] = P.box; g.drawImage(off, x * d, y * d, w * d, h * d, x, y, w, h); }
+  const mcv = document.createElement("canvas"), mc = mcv.getContext("2d"); let MT = -1;
+  function pkMaskLayer() { // Pakistan's full shape as a stencil, built once per frame
+    if (MT === pulseT && mcv.width === gc.width) return mcv;
+    const dpr = gc.width / W;
+    if (mcv.width !== gc.width || mcv.height !== gc.height) { mcv.width = gc.width; mcv.height = gc.height; }
+    mc.setTransform(1, 0, 0, 1, 0, 0); mc.clearRect(0, 0, mcv.width, mcv.height);
+    mc.setTransform(dpr, 0, 0, dpr, 0, 0); mc.fillStyle = "#000"; pkMask(mc); MT = pulseT;
+    return mcv;
+  }
+  function pkLayer(paint) { // paint anything, keep only the part inside Pakistan's full shape
+    pkPrep(); paint(oc);
+    const m = pkMaskLayer();
+    oc.globalCompositeOperation = "destination-in";
+    oc.save(); oc.setTransform(1, 0, 0, 1, 0, 0); oc.drawImage(m, 0, 0); oc.restore();
+    oc.globalCompositeOperation = "source-over"; pkBlit();
+  }
+  function pkFill(style) { pkLayer((c) => { c.fillStyle = style; c.fillRect(...P.box); }); }
+  function pkClip(fn) { pkLayer(fn); }
+  function pkOutline(strokes) { // outer edge only, so nothing is drawn inside Pakistan
+    const q = pkPrep();
+    for (const [color, width, dash] of strokes) {
+      oc.setLineDash(dash || []); oc.lineDashOffset = dash ? -pulseT / 25 : 0;
+      oc.strokeStyle = color; oc.lineWidth = width * 2; oc.lineJoin = "round";
+      oc.stroke(q.pk);
+      oc.save(); oc.clip(q.notOthers, "evenodd"); oc.stroke(q.jk); oc.restore();
+      oc.save(); oc.clip(q.jk); oc.stroke(q.others); oc.restore();
+      oc.save(); oc.clip(q.ind); oc.stroke(q.jun); oc.restore();
+      oc.save(); oc.clip(q.jun); oc.stroke(q.ind); oc.restore();
+    }
+    oc.setLineDash([]); oc.globalCompositeOperation = "destination-out"; oc.fillStyle = "#000"; pkMask(oc);
+    oc.globalCompositeOperation = "source-over"; pkBlit();
+  }
+  const pkOnScreen = () => !!visible(72, 30);
 
   function visible(lon, lat) {
     const c = proj.rotate();
