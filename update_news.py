@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pull free RSS news feeds and write news.json (+ translations) for the Ops Room app.
+"""Pull free RSS news feeds and write news.json (+ translations + local news) for the Ops Room app.
 
 Runs every hour on GitHub Actions (free for public repos). A free AI (pollinations.ai,
 no key) writes the Operator/Commander/Analyst dialogue and the translations. If a free
@@ -41,7 +41,101 @@ FEEDS = [
     (gnews("Saudi Arabia OR Qatar OR Oman OR Kuwait"), 1),
     (gnews("Ukraine OR Russia OR China OR Taiwan OR \"North Korea\""), 1),
     (gnews("Africa OR Iraq OR Georgia OR Uzbekistan OR Tajikistan"), 1),
+    (gnews("business OR economy OR trade UAE OR Gulf OR Pakistan"), 1),
+    (gnews("technology OR AI OR Apple OR Google OR Samsung"), 1),
+    (gnews("cricket OR football OR \"Formula 1\" OR tennis"), 1),
 ]
+
+CATS = ["World", "Middle East", "UAE", "Pakistan", "Markets", "Business", "Tech", "Sports"]
+MIDEAST = {"Iran", "Israel", "Palestine", "Lebanon", "Saudi Arabia", "Yemen", "Qatar", "Oman", "Kuwait", "Bahrain",
+           "Iraq", "Syria", "Egypt", "Turkey", "Jordan"}
+SPORTS = re.compile(r"\b(cricket|football|soccer|fifa|uefa|premier league|ipl|psl|t20|odi|test match|tennis|formula 1|f1|grand prix|olympic\w*|goal|match|tournament|cup|league|nba|golf)\b", re.I)
+TECH = re.compile(r"\b(ai|artificial intelligence|tech\w*|apple|iphone|google|samsung|microsoft|openai|chip\w*|software|app|smartphone|cyber\w*|startup|robot\w*|tesla|ev|electric vehicle|crypto\w*|bitcoin)\b", re.I)
+BUSINESS = re.compile(r"\b(business|company|companies|deal|merger|invest\w*|profit|revenue|bank\w*|trade|export\w*|import\w*|tariff\w*|port|shipping|freight|budget|tax\w*|real estate|property)\b", re.I)
+
+
+def category_for(text, country, sev):
+    if SPORTS.search(text):
+        return "Sports"
+    if TECH.search(text):
+        return "Tech"
+    if sev == "markets":
+        return "Markets"
+    if country == "United Arab Emirates":
+        return "UAE"
+    if country == "Pakistan":
+        return "Pakistan"
+    if BUSINESS.search(text):
+        return "Business"
+    if country in MIDEAST:
+        return "Middle East"
+    return "World"
+
+
+# Local news: the app picks the city nearest to the phone. (slug, name, lat, lon, search, flag)
+CITIES = [
+    ("sharjah", "Sharjah", 25.35, 55.42, "Sharjah", "🇦🇪"),
+    ("dubai", "Dubai", 25.20, 55.27, "Dubai", "🇦🇪"),
+    ("abudhabi", "Abu Dhabi", 24.45, 54.38, "\"Abu Dhabi\"", "🇦🇪"),
+    ("ajman", "Ajman", 25.41, 55.51, "Ajman OR \"Umm Al Quwain\"", "🇦🇪"),
+    ("rak", "Ras Al Khaimah", 25.79, 55.94, "\"Ras Al Khaimah\" OR Fujairah", "🇦🇪"),
+    ("alain", "Al Ain", 24.21, 55.74, "\"Al Ain\"", "🇦🇪"),
+    ("peshawar", "Peshawar / KP", 34.01, 71.58, "Peshawar OR \"Khyber Pakhtunkhwa\" OR Swabi OR Mardan", "🇵🇰"),
+    ("islamabad", "Islamabad", 33.68, 73.05, "Islamabad OR Rawalpindi", "🇵🇰"),
+    ("lahore", "Lahore", 31.55, 74.34, "Lahore", "🇵🇰"),
+    ("karachi", "Karachi", 24.86, 67.01, "Karachi", "🇵🇰"),
+    ("quetta", "Quetta", 30.18, 66.98, "Quetta OR Balochistan", "🇵🇰"),
+    ("riyadh", "Riyadh", 24.71, 46.68, "Riyadh", "🇸🇦"),
+    ("jeddah", "Jeddah", 21.49, 39.19, "Jeddah OR Makkah OR Madinah", "🇸🇦"),
+    ("dammam", "Dammam", 26.43, 50.10, "Dammam OR \"Eastern Province\" Saudi", "🇸🇦"),
+    ("doha", "Doha", 25.29, 51.53, "Doha Qatar", "🇶🇦"),
+    ("muscat", "Muscat", 23.59, 58.41, "Muscat Oman", "🇴🇲"),
+    ("kuwait", "Kuwait City", 29.37, 47.98, "Kuwait", "🇰🇼"),
+    ("manama", "Manama", 26.23, 50.59, "Bahrain", "🇧🇭"),
+    ("baghdad", "Baghdad", 33.31, 44.36, "Baghdad", "🇮🇶"),
+    ("basra", "Basra", 30.51, 47.81, "Basra OR Erbil", "🇮🇶"),
+    ("tbilisi", "Tbilisi", 41.72, 44.79, "Tbilisi Georgia", "🇬🇪"),
+    ("tashkent", "Tashkent", 41.30, 69.24, "Tashkent OR Uzbekistan", "🇺🇿"),
+    ("dushanbe", "Dushanbe", 38.56, 68.79, "Dushanbe OR Tajikistan", "🇹🇯"),
+    ("nairobi", "Nairobi", -1.29, 36.82, "Nairobi Kenya", "🇰🇪"),
+    ("lagos", "Lagos", 6.52, 3.38, "Lagos Nigeria", "🇳🇬"),
+    ("guangzhou", "Guangzhou", 23.13, 113.26, "Guangzhou OR \"Canton Fair\"", "🇨🇳"),
+    ("shanghai", "Shanghai", 31.23, 121.47, "Shanghai", "🇨🇳"),
+    ("beijing", "Beijing", 39.90, 116.40, "Beijing", "🇨🇳"),
+    ("london", "London", 51.51, -0.13, "London", "🇬🇧"),
+]
+
+
+def local_news(now):
+    out = {}
+    for slug, name, lat, lon, q, flag in CITIES:
+        try:
+            items = parse_feed(fetch(gnews(q).replace("when%3A1d", "when%3A2d").replace("when:1d", "when:2d")), 1)
+        except Exception as e:
+            print(f"local {slug} failed: {e}", file=sys.stderr)
+            continue
+        seen, stories = [], []
+        for it in items:
+            ws = words_of(it["title"])
+            if any(overlap(ws, w) >= 0.45 for w in seen):
+                continue
+            seen.append(ws)
+            sev = severity_for(it["title"])
+            stories.append({
+                "id": slug + "-" + str(len(stories)), "country": None, "label": name.upper(),
+                "lat": lat, "lon": lon, "flag": flag, "severity": sev, "category": "Local",
+                "headline": it["title"], "summary": first_sentences(it["desc"]) or it["title"],
+                "lines": [{"role": "OPERATOR", "text": it["title"] + "."}],
+                "source": it["source"], "url": it["link"], "forceLang": "en",
+                "time": it["when"].isoformat().replace("+00:00", "Z") if it["when"] else None,
+            })
+            if len(stories) >= 6:
+                break
+        if stories:
+            out[slug] = {"name": name, "lat": lat, "lon": lon, "flag": flag, "stories": stories}
+        time.sleep(0.5)
+    return out
+
 
 # keyword -> (map country name or None, label, lat, lon, flag)
 PLACES = [
@@ -201,7 +295,7 @@ def first_sentences(text, limit=260):
     return out[:limit]
 
 
-def heuristic(candidates, n=14):
+def heuristic(candidates, n=18):
     stories, seen_place = [], {}
     for i, c in enumerate(candidates):
         text = c["title"] + " " + c["desc"]
@@ -209,7 +303,7 @@ def heuristic(candidates, n=14):
         if not pl:
             continue
         country = pl[0]
-        if seen_place.get(country, 0) >= 2:
+        if seen_place.get(country, 0) >= 3:
             continue
         seen_place[country] = seen_place.get(country, 0) + 1
         sev = severity_for(text)
@@ -222,7 +316,7 @@ def heuristic(candidates, n=14):
         stories.append({
             "id": re.sub(r"[^a-z0-9]+", "-", c["title"].lower())[:48],
             "country": country, "label": pl[1], "lat": pl[2], "lon": pl[3], "flag": pl[4],
-            "severity": sev, "category": sev,
+            "severity": sev, "category": category_for(text, country, sev),
             "headline": c["title"], "summary": summary,
             "lines": lines, "source": c["source"], "url": c["link"],
             "time": c["when"].isoformat().replace("+00:00", "Z") if c["when"] else None,
@@ -301,16 +395,18 @@ def llm_json(prompt, key):
 def editor(candidates, key):
     listing = "\n".join(
         f"{i+1}. [{c['source']}] {c['title']} — {c['desc'][:300]} ({c['link']})"
-        for i, c in enumerate(candidates[:40]))
+        for i, c in enumerate(candidates[:45]))
     prompt = f"""You are the editor of a TV-style "Operations Room" news stream for a businessman in Sharjah, UAE
 (auto spare parts trader, from Pakistan, exports to Africa, Iraq, Middle East, Georgia, Central Asia).
-From the headlines below, pick the 14 most important stories of the day: world security first, then
-UAE, Pakistan, Gulf, oil/gold/markets, shipping and trade. Merge duplicates. Use ONLY facts in the headlines.
+From the headlines below, pick the 18 most important stories of the day: world security first, then
+UAE, Pakistan, Gulf, oil/gold/markets, shipping and trade; also include 2 business, 2 technology and 2 sports
+stories when available. Merge duplicates. Use ONLY facts in the headlines.
 
 Return ONLY a JSON array. Each item:
 {{"id": short-slug, "country": exact country name as in Natural Earth maps (e.g. "United States of America",
 "United Arab Emirates", "Iran") or null for global, "label": UPPERCASE place label, "lat": number, "lon": number,
-"flag": emoji flag, "severity": one of critical|high|markets|watch|info, "category": one word,
+"flag": emoji flag, "severity": one of critical|high|markets|watch|info,
+"category": one of World|Middle East|UAE|Pakistan|Markets|Business|Tech|Sports,
 "headline": max 70 chars, "summary": 1-2 sentences max 260 chars,
 "lines": 3 dialogue lines [{{"role":"OPERATOR"|"COMMANDER"|"ANALYST","text": short spoken sentence}}]
 (OPERATOR reports the news, COMMANDER asks one short question, ANALYST answers it with facts; write numbers so they read well aloud),
@@ -333,6 +429,8 @@ Headlines:
         s["lines"] = [l for l in s["lines"] if isinstance(l, dict) and l.get("text")][:4]
         if s.get("severity") not in ("critical", "high", "markets", "watch", "info"):
             s["severity"] = "info"
+        if s.get("category") not in CATS:
+            s["category"] = category_for(s["headline"] + " " + s.get("summary", ""), s.get("country"), s["severity"])
         good.append(s)
     if len(good) < 5:
         raise RuntimeError("editor returned too few stories")
@@ -424,6 +522,15 @@ def main():
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     print(f"Wrote {len(stories)} stories via {generator}")
+
+    try:
+        loc = local_news(now)
+        if loc:
+            with open(os.path.join(ROOT, "news-local.json"), "w", encoding="utf-8") as f:
+                json.dump({"updated": stamp, "cities": loc}, f, ensure_ascii=False, indent=1)
+            print(f"Local news for {len(loc)} cities")
+    except Exception as e:
+        print(f"local news failed: {e}", file=sys.stderr)
 
     for code in LANGS:
         try:
