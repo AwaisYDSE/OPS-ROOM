@@ -1,6 +1,7 @@
 /* Ops Room — AI news streamer. Built by Awais Amin.
    All free: news.json is refreshed hourly by GitHub Actions, the voice is Google's free
-   speech (phone voice as offline fallback), answers come from free AI (Gemini key optional). */
+   speech (phone voice as offline fallback), answers come from free AI (Gemini key optional),
+   weather from Open-Meteo, place names from BigDataCloud. */
 (() => {
   "use strict";
   const $ = (id) => document.getElementById(id);
@@ -34,6 +35,24 @@
     end: { en: "That's the full briefing, sir. Monitoring all sectors.", ur: "یہ تھی مکمل بریفنگ، سر۔ تمام محاذوں پر نظر ہے۔", ar: "هذا هو الموجز الكامل يا سيدي. نراقب جميع القطاعات.", hi: "यह थी पूरी ब्रीफिंग, सर। सभी क्षेत्रों पर नज़र है।", zh: "以上是完整简报。正在监控所有区域。", ru: "Это была полная сводка. Следим за всеми секторами.", fr: "C'était le briefing complet. Nous surveillons tous les secteurs." },
     fresh: { en: "New reports coming in.", ur: "نئی رپورٹس آ رہی ہیں۔", ar: "تقارير جديدة تصل الآن.", hi: "नई रिपोर्ट्स आ रही हैं।", zh: "新的报告正在传入。", ru: "Поступают новые сообщения.", fr: "De nouveaux rapports arrivent." },
   };
+  const WX = {
+    cond: {
+      en: ["clear skies", "mostly clear", "partly cloudy", "cloudy", "fog", "light drizzle", "rain", "snow", "thunderstorms"],
+      ur: ["صاف آسمان", "زیادہ تر صاف", "جزوی ابر آلود", "ابر آلود", "دھند", "ہلکی بوندا باندی", "بارش", "برف باری", "گرج چمک کے ساتھ طوفان"],
+      ar: ["سماء صافية", "صافية غالباً", "غائم جزئياً", "غائم", "ضباب", "رذاذ خفيف", "أمطار", "ثلوج", "عواصف رعدية"],
+      hi: ["साफ़ आसमान", "ज़्यादातर साफ़", "आंशिक बादल", "बादल छाए", "कोहरा", "हल्की बूंदाबांदी", "बारिश", "बर्फ़बारी", "आंधी-तूफ़ान"],
+      zh: ["晴朗", "大致晴朗", "局部多云", "多云", "有雾", "小毛毛雨", "下雨", "下雪", "雷暴"],
+      ru: ["ясно", "преимущественно ясно", "переменная облачность", "облачно", "туман", "лёгкая морось", "дождь", "снег", "гроза"],
+      fr: ["ciel dégagé", "plutôt dégagé", "partiellement nuageux", "nuageux", "brouillard", "bruine légère", "pluie", "neige", "orages"],
+    },
+    now: { en: "Local weather for {c}: {t} degrees and {w}.", ur: "{c} کا موسم: {t} ڈگری، {w}۔", ar: "الطقس في {c}: {t} درجة، {w}.", hi: "{c} का मौसम: {t} डिग्री, {w}।", zh: "{c}天气：{t}度，{w}。", ru: "Погода в {c}: {t} градусов, {w}.", fr: "Météo à {c} : {t} degrés, {w}." },
+    day: { en: "Today's high {h}, low {l}. Feels like {f}. Wind {k} kilometres an hour, humidity {u} percent, chance of rain {p} percent.", ur: "آج زیادہ سے زیادہ {h} اور کم سے کم {l} ڈگری۔ ہوا {k} کلومیٹر فی گھنٹہ، نمی {u} فیصد، بارش کا امکان {p} فیصد۔", ar: "العظمى اليوم {h} والصغرى {l}. الرياح {k} كيلومتر في الساعة، الرطوبة {u} بالمئة، واحتمال المطر {p} بالمئة.", hi: "आज अधिकतम {h} और न्यूनतम {l} डिग्री। हवा {k} किलोमीटर प्रति घंटा, नमी {u} प्रतिशत, बारिश की संभावना {p} प्रतिशत।", zh: "今天最高{h}度，最低{l}度。风速每小时{k}公里，湿度百分之{u}，降雨概率百分之{p}。", ru: "Сегодня до {h}, минимум {l}. Ветер {k} км в час, влажность {u} процентов, вероятность дождя {p} процентов.", fr: "Aujourd'hui maximum {h}, minimum {l}. Vent {k} kilomètres heure, humidité {u} pour cent, risque de pluie {p} pour cent." },
+    heat: { en: "Heat alert: stay hydrated and avoid the midday sun.", ur: "شدید گرمی: پانی زیادہ پئیں اور دوپہر کی دھوپ سے بچیں۔", ar: "تنبيه حرارة: اشرب الماء وتجنب شمس الظهيرة.", hi: "गर्मी की चेतावनी: पानी पीते रहें और दोपहर की धूप से बचें।", zh: "高温提醒：多喝水，避免正午日晒。", ru: "Жара: пейте больше воды и избегайте полуденного солнца.", fr: "Alerte chaleur : hydratez-vous et évitez le soleil de midi." },
+    rain: { en: "Rain is likely today. Drive carefully.", ur: "آج بارش کا امکان ہے۔ احتیاط سے گاڑی چلائیں۔", ar: "من المرجح هطول أمطار اليوم. قُد بحذر.", hi: "आज बारिश की संभावना है। सावधानी से गाड़ी चलाएँ।", zh: "今天可能下雨，请小心驾驶。", ru: "Сегодня вероятен дождь. Будьте осторожны за рулём.", fr: "De la pluie est probable aujourd'hui. Prudence sur la route." },
+  };
+  const WX_ICON = ["☀️", "🌤️", "⛅", "☁️", "🌫️", "🌦️", "🌧️", "❄️", "⛈️"];
+  const wxIndex = (c) => c === 0 ? 0 : c === 1 ? 1 : c === 2 ? 2 : c === 3 ? 3 : c === 45 || c === 48 ? 4 : c >= 51 && c <= 57 ? 5 : (c >= 61 && c <= 67) || (c >= 80 && c <= 82) ? 6 : (c >= 71 && c <= 77) || c === 85 || c === 86 ? 7 : c >= 95 ? 8 : 2;
+  const fill = (tpl, v) => tpl.replace(/\{(\w)\}/g, (_, k) => v[k] ?? "");
   const phrase = (k, vars = {}) => (PHRASE[k][lang] || PHRASE[k].en).replace(/\{(\w)\}/g, (_, v) => vars[v] ?? "");
   function applyLang() {
     $("app").classList.toggle("nolatin", lang !== "en" && lang !== "fr" && lang !== "ru");
@@ -42,7 +61,12 @@
 
   /* ================= state ================= */
   let news = { updated: null, stories: [] };
-  let stories = [];
+  let stories = [];                 // what is playing now (after the category filter)
+  let allStories = [], localStories = [], localData = null, localCity = null;
+  let weatherStory = null, wx = null, here = null;
+  const CATS = ["All", "Local", "World", "Middle East", "UAE", "Pakistan", "Markets", "Business", "Tech", "Sports"];
+  let cat = store.get("cat", "All"); if (!CATS.includes(cat)) cat = "All";
+  try { here = JSON.parse(store.get("here", "null")); } catch { here = null; }
   let idx = 0, lineIdx = 0, playing = false, started = false, runId = 0;
   let wakeLock = null;
 
@@ -50,7 +74,7 @@
   const pad = (n) => String(n).padStart(2, "0");
   function tick() {
     const d = new Date();
-    $("clock").textContent = `${pad(d.getDate())}/${pad(d.getMonth() + 1)}/${d.getFullYear()} ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+    $("clock").textContent = `${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
   }
   tick(); setInterval(tick, 1000);
   { const d = new Date(); $("introDate").textContent = `${pad(d.getDate())}/${pad(d.getMonth() + 1)}/${d.getFullYear()}`; }
@@ -128,6 +152,7 @@
       tz = span > 60 ? 1.15 : span > 30 ? 1.5 : span > 12 ? 2.1 : 2.8;
     }
     if (s.country === null) tz = 1.3;
+    if (s.zoom) tz = s.zoom;
     arcFrom = focusPrev ? [focusPrev.lon, focusPrev.lat] : null; arcTo = [s.lon, s.lat]; arcT0 = performance.now();
     focusPrev = s;
     const r0 = rot.slice(), z0 = zoom;
@@ -283,7 +308,7 @@
   let engine = store.get("voice", "google"); // "google" = clear online voice, "device" = phone's built-in voice
 
   /* Phone's built-in voice (offline fallback) */
-  function sayDevice(text) {
+  function sayDevice(text, L0) {
     return new Promise((resolve) => {
       const est = 1500 + (text.length * 70) / rate;
       let done = false; const fin = () => { if (!done) { done = true; clearTimeout(to); resolve(); } };
@@ -291,8 +316,8 @@
       if (!synth) return;
       try {
         const u = new SpeechSynthesisUtterance(text.replace(/—/g, ", "));
-        const L = LANGS[lang].sr;
-        const v = lang === "en" ? voices.OPERATOR : synth.getVoices().find((x) => x.lang.replace("_", "-").toLowerCase().startsWith(L.slice(0, 2).toLowerCase()));
+        const lg = L0 || lang, L = LANGS[lg].sr;
+        const v = lg === "en" ? voices.OPERATOR : synth.getVoices().find((x) => x.lang.replace("_", "-").toLowerCase().startsWith(L.slice(0, 2).toLowerCase()));
         if (v) u.voice = v;
         u.lang = v ? v.lang : L; u.rate = rate; u.pitch = 1;
         u.onend = fin; u.onerror = fin;
@@ -318,9 +343,10 @@
     }
     return out;
   }
-  function ttsUrl(q, role) {
-    const host = lang === "en" ? "translate.google." + (TLD[role] || "com") : "translate.google.com";
-    return `https://${host}/translate_tts?ie=UTF-8&client=tw-ob&tl=${LANGS[lang].tts}&q=${encodeURIComponent(q)}`;
+  function ttsUrl(q, role, L0) {
+    const lg = L0 || lang;
+    const host = lg === "en" ? "translate.google." + (TLD[role] || "com") : "translate.google.com";
+    return `https://${host}/translate_tts?ie=UTF-8&client=tw-ob&tl=${LANGS[lg].tts}&q=${encodeURIComponent(q)}`;
   }
   function playUrl(url, len) {
     return new Promise((res) => {
@@ -333,11 +359,11 @@
       const p = player.play(); if (p && p.catch) p.catch(() => fin(false));
     });
   }
-  /** speak text in the current language; resolves when finished */
-  async function say(text, role = "ANALYST") {
+  /** speak text in the current language (or L0); resolves when finished */
+  async function say(text, role = "ANALYST", L0) {
     if (!text) return;
     talk(true);
-    try { return await sayInner(text, role); } finally { talk(false); }
+    try { return await sayInner(text, role, L0); } finally { talk(false); }
   }
   let talkN = 0;
   function talk(on) {
@@ -345,20 +371,20 @@
     const c = document.querySelector(".caption"); c.classList.toggle("talking", talkN > 0);
     $("eq").hidden = talkN === 0; $("eq").style.color = getComputedStyle($("role")).color;
   }
-  async function sayInner(text, role) {
+  async function sayInner(text, role, L0) {
     const gen = sayGen;
     if (engine === "google" && gFails < 3) {
       const cs = chunks(text);
       for (let i = 0; i < cs.length; i++) {
         if (gen !== sayGen) return;
-        const ok = await playUrl(ttsUrl(cs[i], role), cs[i].length);
+        const ok = await playUrl(ttsUrl(cs[i], role, L0), cs[i].length);
         if (gen !== sayGen) return;
-        if (!ok) { gFails++; if (gFails >= 3) toast("Online voice unavailable, using phone voice"); return sayDevice(cs.slice(i).join(" ")); }
+        if (!ok) { gFails++; if (gFails >= 3) toast("Online voice unavailable, using phone voice"); return sayDevice(cs.slice(i).join(" "), L0); }
         gFails = 0;
       }
       return;
     }
-    return sayDevice(text);
+    return sayDevice(text, L0);
   }
   function hush() {
     sayGen++;
@@ -386,7 +412,7 @@
       c.className = "card" + (s.severity === "critical" ? " critical" : "");
       $("cFlag").textContent = s.flag || "🌐";
       $("cCountry").textContent = s.label || s.country || "World";
-      const tag = $("cTag"); tag.className = "tag " + (SEV[s.severity] ? s.severity : "info"); tag.textContent = sev(s.severity).name;
+      const tag = $("cTag"); tag.className = "tag " + (SEV[s.severity] ? s.severity : "info"); tag.textContent = s.category && s.category !== "World" ? s.category : sev(s.severity).name;
       $("cHead").textContent = s.headline;
       $("cSum").textContent = s.summary && s.summary !== s.headline ? s.summary : "";
       $("coords").textContent = `LAT ${Math.abs(s.lat).toFixed(2)}°${s.lat >= 0 ? "N" : "S"}  LON ${Math.abs(s.lon).toFixed(2)}°${s.lon >= 0 ? "E" : "W"}`;
@@ -421,6 +447,7 @@
     const alive = () => playing && my === runId;
     while (alive()) {
       if (!stories.length) { await sleep(3000); continue; }
+      if (idx >= stories.length) idx = 0;
       const s = stories[idx];
       if (fromLine === 0) { clearInterval(typeTimer); $("role").textContent = ""; $("line").textContent = ""; flyTo(s); showCard(s); await sleep(reduce ? 300 : 1500); if (!alive()) return; }
       const lines = s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }];
@@ -429,7 +456,7 @@
         const l = lines[lineIdx];
         const role = ["OPERATOR", "COMMANDER", "ANALYST"].includes(l.role) ? l.role : "ANALYST";
         caption(role, l.text);
-        await say(l.text, role);
+        await say(l.text, role, s.forceLang);
         if (!alive()) return;
         await sleep(350);
       }
@@ -477,29 +504,145 @@
       if (!data) { const r = await fetch("news.json?t=" + Date.now(), { cache: "no-store" }); data = await r.json(); }
       const fresh = !news.updated || data.updated !== news.updated;
       if (data.stories && data.stories.length) {
-        const wasEmpty = !stories.length;
-        news = data; stories = data.stories.filter((s) => s && s.headline);
-        stories.forEach((s) => { s.lat = +s.lat || 0; s.lon = +s.lon || 0; });
-        if (idx >= stories.length) idx = 0;
-        renderList(); renderProgress(); renderInfo(); renderTicker();
+        const wasEmpty = !allStories.length;
+        news = data; allStories = data.stories.filter((s) => s && s.headline);
+        allStories.forEach((s) => { s.lat = +s.lat || 0; s.lon = +s.lon || 0; });
+        applyCat(true);
+        renderInfo();
         if (announce && fresh && !wasEmpty && playing) {
           caption("OPERATOR", phrase("fresh"));
           await say(phrase("fresh"), "OPERATOR");
         }
       }
+      if (announce && here) await loadLocal(true);
       return fresh;
     } catch {
       if (!stories.length) $("startMeta").textContent = "Couldn't load reports. Check your connection.";
       return false;
     }
   }
+
+  /* ================= categories ================= */
+  function listFor(c) {
+    if (c === "All") return [weatherStory, ...allStories].filter(Boolean);
+    if (c === "Local") return [weatherStory, ...localStories].filter(Boolean);
+    return allStories.filter((s) => s.category === c);
+  }
+  function applyCat(keep) {
+    let list = listFor(cat);
+    if (!list.length && cat !== "Local") { cat = "All"; list = listFor(cat); }
+    const cur = stories[idx];
+    stories = list;
+    const k = keep && cur ? stories.indexOf(cur) : -1;
+    idx = k >= 0 ? k : Math.min(idx, Math.max(0, stories.length - 1));
+    renderCats(); renderList(); renderProgress(); renderTicker();
+  }
+  function renderCats() {
+    const bar = $("cats"); bar.innerHTML = "";
+    for (const c of CATS) {
+      const n = listFor(c).length;
+      if (!n && c !== "Local" && c !== "All") continue;
+      const b = document.createElement("button");
+      b.className = "cat" + (c === cat ? " on" : "");
+      b.innerHTML = `<span></span><i>${n}</i>`; b.firstChild.textContent = c === "Local" && localCity ? "📍 " + localCity.name : c;
+      b.onclick = () => chooseCat(c);
+      bar.appendChild(b);
+    }
+  }
+  function chooseCat(c) {
+    cat = c; store.set("cat", c);
+    if (c === "Local" && !here) { toast("Allow location to get your local weather and news"); startLocation(true); }
+    hush(); runId++; idx = 0;
+    applyCat(false);
+    if (!stories.length) { toast("No reports in this category yet"); return; }
+    if (playing) run(0); else if (started) { flyTo(stories[0]); showCard(stories[0]); }
+  }
+
+  /* ================= location, weather, local news ================= */
+  const km = (a, b) => { const R = 6371, t = Math.PI / 180, dLa = (b.lat - a.lat) * t, dLo = (b.lon - a.lon) * t;
+    const x = Math.sin(dLa / 2) ** 2 + Math.cos(a.lat * t) * Math.cos(b.lat * t) * Math.sin(dLo / 2) ** 2; return 2 * R * Math.asin(Math.sqrt(x)); };
+  let watching = false, lastWx = 0;
+  function startLocation(ask) {
+    if (!("geolocation" in navigator) || watching) return;
+    watching = true;
+    navigator.geolocation.watchPosition(onPos, (e) => {
+      watching = false;
+      if (ask || e.code === 1) $("locNote").textContent = e.code === 1 ? "Location is off. Allow it in iPhone Settings → Privacy & Security → Location Services → Safari Websites, then tap Use my location." : "Couldn't get your location right now.";
+    }, { enableHighAccuracy: false, maximumAge: 5 * 60 * 1000, timeout: 30000 });
+  }
+  async function onPos(p) {
+    const pos = { lat: p.coords.latitude, lon: p.coords.longitude };
+    const moved = !here || km(here, pos) > 3;
+    if (!moved && Date.now() - lastWx < 30 * 60 * 1000) return;
+    here = { ...(here || {}), ...pos };
+    if (moved || !here.city) {
+      try {
+        const g = await (await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${pos.lat}&longitude=${pos.lon}&localityLanguage=en`)).json();
+        here.city = g.city || g.locality || g.principalSubdivision || "your area";
+        here.area = g.locality && g.locality !== here.city ? g.locality : "";
+        here.country = g.countryName || "";
+      } catch {}
+    }
+    store.set("here", JSON.stringify(here));
+    await refreshLocal();
+  }
+  async function refreshLocal() {
+    if (!here) return;
+    await Promise.all([fetchWeather(), loadLocal()]);
+    applyCat(true);
+    $("locNote").textContent = `📍 ${here.area ? here.area + ", " : ""}${here.city || ""}${here.country ? ", " + here.country : ""} · local news from ${localCity ? localCity.name : "—"}`;
+  }
+  async function fetchWeather() {
+    try {
+      const u = `https://api.open-meteo.com/v1/forecast?latitude=${here.lat}&longitude=${here.lon}&current=temperature_2m,apparent_temperature,relative_humidity_2m,weather_code,wind_speed_10m&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=auto&forecast_days=1`;
+      const d = await (await fetch(u)).json();
+      wx = { t: Math.round(d.current.temperature_2m), f: Math.round(d.current.apparent_temperature), u: Math.round(d.current.relative_humidity_2m),
+        k: Math.round(d.current.wind_speed_10m), code: d.current.weather_code,
+        h: Math.round(d.daily.temperature_2m_max[0]), l: Math.round(d.daily.temperature_2m_min[0]), p: Math.round(d.daily.precipitation_probability_max[0] || 0) };
+      lastWx = Date.now();
+      buildWeather();
+    } catch (e) { console.warn("weather", e); }
+  }
+  function buildWeather() {
+    if (!wx || !here) return;
+    const i = wxIndex(wx.code), L = lang, c = here.city || "your area";
+    const cond = (WX.cond[L] || WX.cond.en)[i];
+    const lines = [{ role: "OPERATOR", text: fill(WX.now[L] || WX.now.en, { c, t: wx.t, w: cond }) },
+      { role: "ANALYST", text: fill(WX.day[L] || WX.day.en, { h: wx.h, l: wx.l, f: wx.f, k: wx.k, u: wx.u, p: wx.p }) }];
+    if (wx.h >= 42) lines.push({ role: "ANALYST", text: WX.heat[L] || WX.heat.en });
+    if (wx.p >= 60 || i === 8) lines.push({ role: "ANALYST", text: WX.rain[L] || WX.rain.en });
+    const ws = weatherStory || {};
+    Object.assign(ws, { id: "weather", country: null, zoom: 3.2, label: c.toUpperCase(), lat: here.lat, lon: here.lon, flag: WX_ICON[i],
+      severity: wx.h >= 44 || i === 8 ? "watch" : "info", category: "Weather",
+      headline: `${c} · ${wx.t}°C · ${cond}`, summary: lines[1].text, lines, source: "Open-Meteo weather", url: "https://open-meteo.com/", time: new Date().toISOString() });
+    weatherStory = ws;
+    $("wx").hidden = false; $("wx").textContent = `${WX_ICON[i]} ${wx.t}° ${c.toUpperCase()}`;
+  }
+  async function loadLocal(force) {
+    try {
+      if (force || !localData || Date.now() - localData._t > 20 * 60 * 1000) {
+        const r = await fetch("news-local.json?t=" + Date.now(), { cache: "no-store" });
+        if (r.ok) { localData = await r.json(); localData._t = Date.now(); }
+      }
+    } catch {}
+    localCity = null; localStories = [];
+    if (!localData || !localData.cities || !here) return;
+    let best = null, bd = 1e9;
+    for (const c of Object.values(localData.cities)) { const d = km(here, c); if (d < bd) { bd = d; best = c; } }
+    if (best && bd < 400) {
+      localCity = best;
+      localStories = best.stories.map((s) => ({ ...s, zoom: 3, lat: +s.lat, lon: +s.lon }));
+    }
+  }
+  setInterval(() => { if (here && Date.now() - lastWx > 30 * 60 * 1000) refreshLocal(); }, 5 * 60 * 1000);
+
   function renderTicker() {
     const items = stories.map((s) => `<span dir="auto">${(s.label || s.country || "World").replace(/</g, "")} — ${s.headline.replace(/</g, "")}</span>`).join("");
     $("tickRun").innerHTML = items + items; // doubled for a seamless loop
     $("tickRun").style.animationDuration = Math.max(40, stories.length * 9) + "s";
   }
   function renderInfo() {
-    const n = stories.length;
+    const n = allStories.length;
     $("startMeta").textContent = `${n} reports · updated ${ago(news.updated)}`;
     $("newsInfo").textContent = `${n} reports, updated ${ago(news.updated)}. New reports arrive every hour automatically.`;
   }
@@ -514,7 +657,7 @@
       b.innerHTML = `<span class="f"></span><span class="c"><span class="sv"></span><span class="n"></span></span><span class="h"></span>`;
       b.querySelector(".f").textContent = s.flag || "🌐";
       b.querySelector(".sv").style.background = sev(s.severity).col;
-      b.querySelector(".n").textContent = (s.label || s.country || "World") + (s.time ? " · " + ago(s.time) : "");
+      b.querySelector(".n").textContent = (s.label || s.country || "World") + (s.category ? " · " + s.category : "") + (s.time ? " · " + ago(s.time) : "");
       b.querySelector(".h").textContent = s.headline;
       b.querySelector(".h").dir = "auto";
       b.onclick = () => { closeSheets(); if (!started) begin(false); jump(i); if (!playing) play(); };
@@ -542,22 +685,25 @@
   let turns = [];
   const chips = [
     "Summarise today's news in 30 seconds",
+    "What's the weather here today?",
+    "Any local news near me?",
     "What's the biggest risk to the UAE right now?",
     "How will this affect oil and shipping prices?",
     "What's happening in Pakistan?",
-    "Is it safe to travel to Saudi Arabia this week?",
   ];
   chips.forEach((t) => { const b = document.createElement("button"); b.className = "chip"; b.textContent = t; b.onclick = () => ask(t); $("chips").appendChild(b); });
 
   function newsContext() {
-    return stories.map((s, i) => `${i + 1}. [${s.label || s.country || "World"}] ${s.headline} — ${s.summary || ""} (Source: ${s.source || "n/a"})`).join("\n");
+    const all = [weatherStory, ...allStories, ...localStories].filter(Boolean);
+    const where = here ? `The user is now in ${[here.area, here.city, here.country].filter(Boolean).join(", ")}.\n` : "";
+    return where + all.map((s, i) => `${i + 1}. [${s.category || ""} · ${s.label || s.country || "World"}] ${s.headline} — ${s.summary || ""} (Source: ${s.source || "n/a"})`).join("\n");
   }
 
   function rules() {
     const L = LANGS[lang].ai || "English";
     return `You are the ANALYST in "Ops Room", a live news app, talking to Awais, a businessman in Sharjah, UAE
 (auto spare parts trade; from Pakistan; exports to Africa, Iraq, the Middle East, Georgia and Central Asia).
-Today is ${new Date().toDateString()}. Latest reports on the board:
+Today is ${new Date().toDateString()}. Latest reports on the board (including local weather and local news):
 ${newsContext()}
 
 How to answer:
@@ -627,8 +773,10 @@ How to answer:
   }
 
   function localAnswer(q) {
+    if (/weather|temperature|rain|hot|mausam|موسم/i.test(q) && weatherStory) return weatherStory.lines.map((l) => l.text).join(" ");
     const words = q.toLowerCase().match(/[a-z]{3,}/g) || [];
-    const scored = stories.map((s) => {
+    const pool = [...allStories, ...localStories];
+    const scored = pool.map((s) => {
       const hay = `${s.label} ${s.country} ${s.headline} ${s.summary}`.toLowerCase();
       return { s, n: words.filter((w) => hay.includes(w)).length };
     }).filter((x) => x.n > 0).sort((a, b) => b.n - a.n).slice(0, 2);
@@ -713,6 +861,7 @@ How to answer:
       lang = el.value; store.set("lang", lang); loadNews._warned = false;
       document.querySelectorAll(".langSel").forEach((x) => (x.value = lang));
       applyLang(); hush(); runId++;
+      buildWeather();
       await loadNews(false);
       idx = 0; if (playing) run(0);
     };
@@ -734,9 +883,10 @@ How to answer:
   function begin(withIntro = true) {
     if (started) return; started = true;
     $("start").hidden = true; $("app").classList.remove("pre");
+    startLocation(false);
     setTimeout(() => $("intro").classList.add("gone"), 1200);
     // first sound must start inside the tap, so iOS unlocks audio
-    const first = phrase("hello", { g: greeting(), n: stories.length });
+    const first = phrase("hello", { g: greeting(), n: allStories.length });
     caption("OPERATOR", first);
     if (withIntro) {
       setPlaying(true);
@@ -751,7 +901,7 @@ How to answer:
   $("bPrev").onclick = () => { if (!started) begin(false); jump(idx - 1); };
   $("bList").onclick = () => { renderList(); open("listSheet"); };
   $("bAsk").onclick = () => {
-    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {} try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
+    if (!started) { started = true; $("start").hidden = true; $("app").classList.remove("pre"); $("intro").classList.add("gone"); startLocation(false); try { synth && synth.speak(new SpeechSynthesisUtterance("")); } catch {} try { player.src = ttsUrl(".", "OPERATOR"); player.play().catch(() => {}); } catch {} }
     resumeAfter = playing; if (playing) pause();
     open("askSheet");
   };
@@ -772,5 +922,7 @@ How to answer:
   resize();
   requestAnimationFrame(frame);
   loadWorld().catch(() => {});
-  loadNews(false).then(() => { if (stories[0]) { focus = null; } });
+  loadNews(false).then(() => { if (here) refreshLocal(); });
+  $("wx").onclick = () => { if (!weatherStory) return; if (!stories.includes(weatherStory)) chooseCat("All"); if (!started) begin(false); jump(stories.indexOf(weatherStory)); };
+  $("bLoc").onclick = () => { watching = false; startLocation(true); $("locNote").textContent = "Getting your location…"; };
 })();
