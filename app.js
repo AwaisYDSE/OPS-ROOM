@@ -33,6 +33,7 @@
   const PHRASE = {
     hello: { en: "{g}, sir. Operations room is live. {n} reports on the board.", ur: "السلام علیکم سر۔ آپریشنز روم لائیو ہے۔ بورڈ پر {n} رپورٹس ہیں۔", ar: "مرحباً سيدي. غرفة العمليات على الهواء. لدينا {n} تقارير.", hi: "नमस्ते सर। ऑपरेशंस रूम लाइव है। बोर्ड पर {n} रिपोर्ट्स हैं।", zh: "您好。作战室已上线，共有{n}条报告。", ru: "Здравствуйте. Оперативный штаб в эфире. На доске {n} сообщений.", fr: "Bonjour monsieur. La salle des opérations est en direct. {n} rapports à l'écran." },
     end: { en: "That's the full briefing, sir. Monitoring all sectors.", ur: "یہ تھی مکمل بریفنگ، سر۔ تمام محاذوں پر نظر ہے۔", ar: "هذا هو الموجز الكامل يا سيدي. نراقب جميع القطاعات.", hi: "यह थी पूरी ब्रीफिंग, सर। सभी क्षेत्रों पर नज़र है।", zh: "以上是完整简报。正在监控所有区域。", ru: "Это была полная сводка. Следим за всеми секторами.", fr: "C'était le briefing complet. Nous surveillons tous les secteurs." },
+    caught: { en: "You're all caught up, sir. I'll brief you as soon as new reports arrive.", ur: "آپ تمام خبریں سن چکے ہیں، سر۔ نئی رپورٹس آتے ہی بتاؤں گا۔" },
     fresh: { en: "New reports coming in.", ur: "نئی رپورٹس آ رہی ہیں۔", ar: "تقارير جديدة تصل الآن.", hi: "नई रिपोर्ट्स आ रही हैं।", zh: "新的报告正在传入。", ru: "Поступают новые сообщения.", fr: "De nouveaux rapports arrivent." },
   };
   const WX = {
@@ -149,7 +150,7 @@
     if (f) { // zoom so the country fills a good part of the globe
       const b = d3.geoBounds(f);
       const span = Math.max(Math.abs(b[1][0] - b[0][0]) % 360, Math.abs(b[1][1] - b[0][1]));
-      tz = span > 60 ? 1.15 : span > 30 ? 1.5 : span > 12 ? 2.1 : 2.8;
+      tz = span > 60 ? 1.3 : span > 30 ? 1.9 : span > 12 ? 2.9 : 3.8;
     }
     if (s.country === null) tz = 1.3;
     if (s.zoom) tz = s.zoom;
@@ -214,6 +215,7 @@
         g.fillStyle = ss.glow + "0.30)"; g.beginPath(); path(f); g.fill();
         g.strokeStyle = ss.glow + "0.35)"; g.lineWidth = 5; g.beginPath(); path(f); g.stroke();
         g.strokeStyle = ss.col; g.lineWidth = 1.4; g.stroke();
+        if ((focus.country === "Pakistan" || focus.country === "India") && byName.get("India")) drawKashmir(ss);
       }
     }
 
@@ -270,6 +272,28 @@
     const rim = g.createLinearGradient(W / 2 - r, CY - r, W / 2 + r, CY + r);
     rim.addColorStop(0, "rgba(255,255,255,0)"); rim.addColorStop(0.5, s.glow + "0.0)"); rim.addColorStop(1, s.glow + "0.75)");
     g.strokeStyle = rim; g.lineWidth = 1.6; g.beginPath(); g.arc(W / 2, CY, r, 0, 7); g.stroke();
+  }
+
+  // Jammu & Kashmir (Indian-administered): marked as disputed territory, as on Pakistan's official map
+  const KASH = { type: "Polygon", coordinates: [[[73.3, 32.25], [73.3, 37.2], [80.4, 37.2], [80.4, 32.25], [73.3, 32.25]]] };
+  let hatch = null, hatchCol = "";
+  function drawKashmir(ss) {
+    if (!hatch || hatchCol !== ss.col) {
+      const c = document.createElement("canvas"); c.width = c.height = 8; const x = c.getContext("2d");
+      x.strokeStyle = ss.col; x.globalAlpha = 0.75; x.lineWidth = 1.4; x.beginPath(); x.moveTo(0, 8); x.lineTo(8, 0); x.moveTo(-2, 2); x.lineTo(2, -2); x.moveTo(6, 10); x.lineTo(10, 6); x.stroke();
+      hatch = g.createPattern(c, "repeat"); hatchCol = ss.col;
+    }
+    g.save();
+    g.beginPath(); path(KASH); g.clip();
+    g.fillStyle = ss.glow + "0.18)"; g.beginPath(); path(byName.get("India")); g.fill();
+    g.fillStyle = hatch; g.fill();
+    g.setLineDash([3, 3]); g.strokeStyle = ss.col; g.lineWidth = 1; g.stroke();
+    g.restore();
+    const p = !fly && visible(76.6, 34.6);
+    if (p && zoom > 1.6) {
+      g.font = "600 9px 'JetBrains Mono', monospace"; g.fillStyle = "rgba(255,255,255,.8)";
+      g.fillText("J&K · DISPUTED", p[0] + 6, p[1] - 4);
+    }
   }
 
   function visible(lon, lat) {
@@ -489,12 +513,42 @@
     return h < 12 ? "Good morning" : h < 17 ? "Good afternoon" : "Good evening";
   }
 
+  /* news that has been read out is remembered on this phone and never read again */
+  let heard = new Set();
+  try { heard = new Set(JSON.parse(store.get("heard", "[]"))); } catch {}
+  const hKey = (s) => s.id === "weather" ? "wx-" + new Date().toISOString().slice(0, 13) : (s.id || s.headline);
+  const isHeard = (s) => heard.has(hKey(s));
+  function markHeard(s) {
+    heard.add(hKey(s));
+    const arr = [...heard].slice(-800); heard = new Set(arr); store.set("heard", JSON.stringify(arr));
+  }
+  let manualPick = false, caughtSaid = false;
+  const nextUnheard = (from) => { for (let k = 0; k < stories.length; k++) { const i = (from + k) % stories.length; if (!isHeard(stories[i])) return i; } return -1; };
+
   async function run(fromLine = 0) {
     const my = ++runId;
     const alive = () => playing && my === runId;
     while (alive()) {
       if (!stories.length) { await sleep(3000); continue; }
       if (idx >= stories.length) idx = 0;
+      if (manualPick) manualPick = false;      // the user chose this story, so play it
+      else if (fromLine === 0 && isHeard(stories[idx])) {
+        const n = nextUnheard(idx);
+        if (n < 0) { // everything has been heard: wait quietly for new reports
+          if (!caughtSaid) {
+            caughtSaid = true;
+            caption("OPERATOR", phrase("caught"));
+            await say(phrase("caught"), "OPERATOR");
+          }
+          for (let t = 0; t < 40 && alive(); t++) await sleep(3000); // check again in 2 minutes
+          if (!alive()) return;
+          await checkFresh(); freshWaiting = false;
+          if (nextUnheard(0) >= 0) { caption("OPERATOR", phrase("fresh")); await say(phrase("fresh"), "OPERATOR"); idx = nextUnheard(0); }
+          continue;
+        }
+        idx = n;
+      }
+      caughtSaid = false;
       const s = stories[idx];
       let lines = s.lines && s.lines.length ? s.lines : [{ role: "OPERATOR", text: s.headline }, { role: "ANALYST", text: s.summary }];
       if (!dialogue) { // one presenter: headline then the facts, no questions
@@ -515,6 +569,7 @@
         if (nl) prefetch(nl.text, nl.role, s.forceLang); else if (ns && ns.lines && ns.lines[0]) prefetch(ns.lines[0].text, ns.lines[0].role, ns.forceLang);
         await say(l.text, role, s.forceLang);
         if (!alive()) return;
+        if (lineIdx === 0) markHeard(s);
         await sleep(150);
       }
       fromLine = 0;
@@ -527,13 +582,7 @@
         if (!alive()) return;
         idx = 0; continue;
       }
-      if (idx >= stories.length - 1) {
-        caption("OPERATOR", phrase("end"));
-        await say(phrase("end"), "OPERATOR");
-        if (!alive()) return;
-        await loadNews(true);
-        idx = 0;
-      } else idx++;
+      idx = (idx + 1) % stories.length;
     }
   }
 
@@ -549,6 +598,7 @@
   function jump(i) {
     if (!stories.length) return;
     idx = (i + stories.length) % stories.length; lineIdx = 0;
+    manualPick = true;
     hush(); runId++;
     if (playing) run(0); else { flyTo(stories[idx]); showCard(stories[idx]); const s = stories[idx]; caption("OPERATOR", s.headline); }
   }
