@@ -94,6 +94,7 @@
   let fly = null;                              // active flight tween
   let focus = null;                            // current story
   let pulseT = 0;
+  let focusPrev = null, arcFrom = null, arcTo = null, arcT0 = 0;
 
   function resize() {
     const dpr = Math.min(devicePixelRatio || 1, 2);
@@ -127,6 +128,8 @@
       tz = span > 60 ? 1.15 : span > 30 ? 1.5 : span > 12 ? 2.1 : 2.8;
     }
     if (s.country === null) tz = 1.3;
+    arcFrom = focusPrev ? [focusPrev.lon, focusPrev.lat] : null; arcTo = [s.lon, s.lat]; arcT0 = performance.now();
+    focusPrev = s;
     const r0 = rot.slice(), z0 = zoom;
     // shortest way round
     let dl = target[0] - r0[0]; dl = ((dl + 540) % 360) - 180;
@@ -189,6 +192,22 @@
       }
     }
 
+    // 3D shading: dark limb + soft specular highlight
+    const sh = g.createRadialGradient(W / 2 - r * 0.3, CY - r * 0.35, r * 0.2, W / 2, CY, r * 1.02);
+    sh.addColorStop(0, "rgba(255,255,255,0.06)"); sh.addColorStop(0.55, "rgba(0,0,0,0)"); sh.addColorStop(1, "rgba(0,0,0,0.6)");
+    g.fillStyle = sh; g.beginPath(); path({ type: "Sphere" }); g.fill();
+
+    // flight track from the previous story to this one
+    if (arcFrom && arcTo) {
+      const k = Math.min(1, (pulseT - arcT0) / 1900), ip = d3.geoInterpolate(arcFrom, arcTo);
+      const pts = []; for (let i = 0; i <= 40 * k; i++) pts.push(ip(i / 40));
+      if (pts.length > 1) {
+        g.save(); g.setLineDash([4, 4]); g.lineDashOffset = -pulseT / 40;
+        g.strokeStyle = s.glow + "0.85)"; g.lineWidth = 1.4;
+        g.beginPath(); path({ type: "LineString", coordinates: pts }); g.stroke(); g.restore();
+      }
+    }
+
     // markers for all stories
     for (const st of stories) {
       const p = visible(st.lon, st.lat); if (!p) continue;
@@ -207,6 +226,20 @@
       const p = visible(focus.lon, focus.lat);
       if (p) label(p, (focus.flag ? focus.flag + " " : "") + (focus.label || focus.country || "").toUpperCase());
     }
+
+    // HUD ring with ticks and a slow sweep
+    const rr = R * 1.14, t = pulseT / 9000; // fixed reticle ring around the globe
+    g.save(); g.translate(W / 2, CY);
+    g.strokeStyle = "rgba(255,255,255,0.10)"; g.lineWidth = 1; g.beginPath(); g.arc(0, 0, rr, 0, 7); g.stroke();
+    for (let i = 0; i < 120; i++) {
+      const a = (i / 120) * Math.PI * 2, L = i % 10 === 0 ? 8 : 3;
+      g.strokeStyle = i % 10 === 0 ? "rgba(255,255,255,0.30)" : "rgba(255,255,255,0.12)";
+      g.beginPath(); g.moveTo(Math.cos(a) * rr, Math.sin(a) * rr); g.lineTo(Math.cos(a) * (rr + L), Math.sin(a) * (rr + L)); g.stroke();
+    }
+    const a0 = t * Math.PI * 2;
+    g.strokeStyle = s.glow + "0.9)"; g.lineWidth = 2; g.beginPath(); g.arc(0, 0, rr, a0, a0 + 0.55); g.stroke();
+    g.strokeStyle = s.glow + "0.35)"; g.beginPath(); g.arc(0, 0, rr, a0 + Math.PI, a0 + Math.PI + 0.25); g.stroke();
+    g.restore();
 
     // rim light
     const rim = g.createLinearGradient(W / 2 - r, CY - r, W / 2 + r, CY + r);
@@ -303,6 +336,16 @@
   /** speak text in the current language; resolves when finished */
   async function say(text, role = "ANALYST") {
     if (!text) return;
+    talk(true);
+    try { return await sayInner(text, role); } finally { talk(false); }
+  }
+  let talkN = 0;
+  function talk(on) {
+    talkN = Math.max(0, talkN + (on ? 1 : -1));
+    const c = document.querySelector(".caption"); c.classList.toggle("talking", talkN > 0);
+    $("eq").hidden = talkN === 0; $("eq").style.color = getComputedStyle($("role")).color;
+  }
+  async function sayInner(text, role) {
     const gen = sayGen;
     if (engine === "google" && gFails < 3) {
       const cs = chunks(text);
@@ -345,6 +388,9 @@
       $("cCountry").textContent = s.label || s.country || "World";
       const tag = $("cTag"); tag.className = "tag " + (SEV[s.severity] ? s.severity : "info"); tag.textContent = sev(s.severity).name;
       $("cHead").textContent = s.headline;
+      $("cSum").textContent = s.summary && s.summary !== s.headline ? s.summary : "";
+      $("coords").textContent = `LAT ${Math.abs(s.lat).toFixed(2)}°${s.lat >= 0 ? "N" : "S"}  LON ${Math.abs(s.lon).toFixed(2)}°${s.lon >= 0 ? "E" : "W"}`;
+      $("sector").textContent = (s.category || s.severity || "").toUpperCase() + " · " + String(idx + 1).padStart(2, "0") + "/" + String(stories.length).padStart(2, "0");
       const a = $("cSrc"); a.textContent = s.source || ""; if (s.url) a.href = s.url; else a.removeAttribute("href");
       $("cTime").textContent = s.time ? ago(s.time) : "";
       c.classList.add("show");
@@ -435,7 +481,7 @@
         news = data; stories = data.stories.filter((s) => s && s.headline);
         stories.forEach((s) => { s.lat = +s.lat || 0; s.lon = +s.lon || 0; });
         if (idx >= stories.length) idx = 0;
-        renderList(); renderProgress(); renderInfo();
+        renderList(); renderProgress(); renderInfo(); renderTicker();
         if (announce && fresh && !wasEmpty && playing) {
           caption("OPERATOR", phrase("fresh"));
           await say(phrase("fresh"), "OPERATOR");
@@ -446,6 +492,11 @@
       if (!stories.length) $("startMeta").textContent = "Couldn't load reports. Check your connection.";
       return false;
     }
+  }
+  function renderTicker() {
+    const items = stories.map((s) => `<span dir="auto">${(s.label || s.country || "World").replace(/</g, "")} — ${s.headline.replace(/</g, "")}</span>`).join("");
+    $("tickRun").innerHTML = items + items; // doubled for a seamless loop
+    $("tickRun").style.animationDuration = Math.max(40, stories.length * 9) + "s";
   }
   function renderInfo() {
     const n = stories.length;
