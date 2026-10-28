@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Pull free RSS news feeds and write news.json for the Ops Room app.
+"""Pull free RSS news feeds and write news.json (+ translations) for the Ops Room app.
 
-Runs every hour on GitHub Actions (free for public repos). If a free
-Gemini API key is saved as the GEMINI_API_KEY secret, Gemini turns the
-headlines into an "operations room" dialogue. Without a key it still
-works: headlines and summaries are read as they are.
+Runs every hour on GitHub Actions (free for public repos). A free AI (pollinations.ai,
+no key) writes the Operator/Commander/Analyst dialogue and the translations. If a free
+Gemini API key is saved as the GEMINI_API_KEY secret, Gemini is used instead.
+Built by Awais Amin.
 """
 import email.utils
 import html
@@ -14,6 +14,7 @@ import re
 import sys
 import urllib.parse
 import urllib.request
+import time
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 
@@ -232,12 +233,75 @@ def heuristic(candidates, n=14):
 
 
 GEMINI_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
+LANGS = {"ur": "Urdu (Urdu script)", "ar": "Arabic", "hi": "Hindi (Devanagari)", "zh": "Simplified Chinese",
+         "ru": "Russian", "fr": "French"}
+_free_next = [0.0]
 
 
-def gemini(candidates, key):
+def _post(url, payload, timeout=120):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(),
+                                 headers={"Content-Type": "application/json", "User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
+
+
+def _gemini_text(prompt, key):
+    last = None
+    for model in GEMINI_MODELS:
+        try:
+            data = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}",
+                         {"contents": [{"parts": [{"text": prompt}]}],
+                          "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4}})
+            return "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
+        except Exception as e:
+            last = e
+            print(f"gemini {model} failed: {e}", file=sys.stderr)
+    raise RuntimeError(f"Gemini failed: {last}")
+
+
+def _free_text(prompt):
+    """pollinations.ai: free, no key; one request at a time, ~30 s apart."""
+    last = None
+    for _ in range(4):
+        wait = _free_next[0] - time.time()
+        if wait > 0:
+            time.sleep(wait)
+        try:
+            data = _post("https://text.pollinations.ai/openai",
+                         {"model": "openai", "private": True, "referrer": "opsroom",
+                          "messages": [{"role": "system", "content": "You return only valid JSON, no commentary."},
+                                       {"role": "user", "content": prompt}]}, timeout=180)
+            _free_next[0] = time.time() + 32
+            return data["choices"][0]["message"]["content"]
+        except urllib.error.HTTPError as e:
+            last = e
+            ra = e.headers.get("Retry-After") if e.headers else None
+            _free_next[0] = time.time() + (int(ra) if ra and ra.isdigit() else 35)
+        except Exception as e:
+            last = e
+            _free_next[0] = time.time() + 35
+    raise RuntimeError(f"free AI failed: {last}")
+
+
+def llm_json(prompt, key):
+    text = _gemini_text(prompt, key) if key else _free_text(prompt)
+    text = text.strip()
+    m = re.search(r"```(?:json)?\s*(.*?)```", text, re.S)
+    if m:
+        text = m.group(1)
+    a, b = text.find("["), text.rfind("]")
+    c, d = text.find("{"), text.rfind("}")
+    if a != -1 and (c == -1 or a < c):
+        text = text[a:b + 1]
+    elif c != -1:
+        text = text[c:d + 1]
+    return json.loads(text)
+
+
+def editor(candidates, key):
     listing = "\n".join(
         f"{i+1}. [{c['source']}] {c['title']} — {c['desc'][:300]} ({c['link']})"
-        for i, c in enumerate(candidates[:45]))
+        for i, c in enumerate(candidates[:40]))
     prompt = f"""You are the editor of a TV-style "Operations Room" news stream for a businessman in Sharjah, UAE
 (auto spare parts trader, from Pakistan, exports to Africa, Iraq, Middle East, Georgia, Central Asia).
 From the headlines below, pick the 14 most important stories of the day: world security first, then
@@ -248,39 +312,59 @@ Return ONLY a JSON array. Each item:
 "United Arab Emirates", "Iran") or null for global, "label": UPPERCASE place label, "lat": number, "lon": number,
 "flag": emoji flag, "severity": one of critical|high|markets|watch|info, "category": one word,
 "headline": max 70 chars, "summary": 1-2 sentences max 260 chars,
-"lines": 2-4 dialogue lines [{{"role":"OPERATOR"|"COMMANDER"|"ANALYST","text": short spoken sentence}}]
-(OPERATOR reports, COMMANDER asks a short question, ANALYST answers with facts; write numbers so they read well aloud),
+"lines": 3 dialogue lines [{{"role":"OPERATOR"|"COMMANDER"|"ANALYST","text": short spoken sentence}}]
+(OPERATOR reports the news, COMMANDER asks one short question, ANALYST answers it with facts; write numbers so they read well aloud),
 "source": outlet name, "url": link from the list, "time": null}}
 
 Headlines:
 {listing}"""
-    body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
-                       "generationConfig": {"responseMimeType": "application/json", "temperature": 0.4}}).encode()
-    last = None
-    for model in GEMINI_MODELS:
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+    arr = llm_json(prompt, key)
+    if isinstance(arr, dict):
+        arr = arr.get("stories") or next(iter(arr.values()))
+    good = []
+    for s in arr:
+        if not isinstance(s, dict) or not s.get("headline") or not s.get("lines"):
+            continue
         try:
-            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-            with urllib.request.urlopen(req, timeout=90) as r:
-                data = json.loads(r.read())
-            text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
-            arr = json.loads(text)
-            if isinstance(arr, dict):
-                arr = arr.get("stories") or next(iter(arr.values()))
-            good = []
-            for s in arr:
-                if not s.get("headline") or not s.get("lines"):
-                    continue
-                s["lat"] = float(s.get("lat") or 0)
-                s["lon"] = float(s.get("lon") or 0)
-                s["lines"] = [l for l in s["lines"] if l.get("text")][:4]
-                good.append(s)
-            if len(good) >= 5:
-                return good, model
-        except Exception as e:  # try the next model
-            last = e
-            print(f"gemini {model} failed: {e}", file=sys.stderr)
-    raise RuntimeError(f"Gemini failed: {last}")
+            s["lat"] = float(s.get("lat") or 0)
+            s["lon"] = float(s.get("lon") or 0)
+        except (TypeError, ValueError):
+            continue
+        s["lines"] = [l for l in s["lines"] if isinstance(l, dict) and l.get("text")][:4]
+        if s.get("severity") not in ("critical", "high", "markets", "watch", "info"):
+            s["severity"] = "info"
+        good.append(s)
+    if len(good) < 5:
+        raise RuntimeError("editor returned too few stories")
+    return good
+
+
+def translate(stories, code, key):
+    """Translate the spoken/visible text of every story; keep everything else."""
+    slim = [{"i": i, "label": s.get("label", ""), "headline": s["headline"], "summary": s.get("summary", ""),
+             "lines": [l["text"] for l in s["lines"]]} for i, s in enumerate(stories)]
+    prompt = (f"Translate the text fields of this JSON array into {LANGS[code]} for a TV news broadcast. "
+              "Keep the same structure, the same 'i' numbers and the same number of lines. "
+              "Keep names correct; write numbers naturally for speaking. Return ONLY the JSON array.\n\n"
+              + json.dumps(slim, ensure_ascii=False))
+    arr = llm_json(prompt, key)
+    if isinstance(arr, dict):
+        arr = next(iter(arr.values()))
+    by_i = {int(x["i"]): x for x in arr if isinstance(x, dict) and "i" in x}
+    out = []
+    for i, s in enumerate(stories):
+        t = by_i.get(i)
+        if not t or not t.get("headline"):
+            raise RuntimeError(f"missing translation for story {i}")
+        n = dict(s)
+        n["label"] = t.get("label") or s.get("label")
+        n["headline"] = t["headline"]
+        n["summary"] = t.get("summary") or s.get("summary", "")
+        tl = t.get("lines") or []
+        n["lines"] = [{"role": l["role"], "text": (tl[j] if j < len(tl) and tl[j] else l["text"])}
+                      for j, l in enumerate(s["lines"])]
+        out.append(n)
+    return out
 
 
 def main():
@@ -324,22 +408,32 @@ def main():
 
     stories, generator = None, "rss"
     key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if key:
-        try:
-            stories, model = gemini(items, key)
-            generator = "gemini:" + model
-        except Exception as e:
-            print(e, file=sys.stderr)
+    try:
+        stories = editor(items, key)
+        generator = "gemini" if key else "free-ai"
+    except Exception as e:
+        print(f"AI editor failed, using plain headlines: {e}", file=sys.stderr)
     if not stories:
         stories = heuristic(items)
     if len(stories) < 3:
         print("Too few stories; keeping the old news.json", file=sys.stderr)
         return 0
 
-    out = {"updated": now.isoformat().replace("+00:00", "Z"), "generator": generator, "stories": stories}
+    stamp = now.isoformat().replace("+00:00", "Z")
+    out = {"updated": stamp, "generator": generator, "stories": stories}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     print(f"Wrote {len(stories)} stories via {generator}")
+
+    for code in LANGS:
+        try:
+            tr = translate(stories, code, key)
+            with open(os.path.join(ROOT, f"news-{code}.json"), "w", encoding="utf-8") as f:
+                json.dump({"updated": stamp, "generator": generator, "lang": code, "stories": tr},
+                          f, ensure_ascii=False, indent=1)
+            print(f"Translated into {code}")
+        except Exception as e:
+            print(f"translation {code} failed (keeping previous file): {e}", file=sys.stderr)
     return 0
 
 
