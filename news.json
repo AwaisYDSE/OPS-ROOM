@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:43:34.931631Z",
+ "updated": "2026-10-28T14:11:13.114732Z",
  "generator": "rss",
  "stories": [
   {
@@ -42,7 +42,7 @@
    ],
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-   "time": "2026-10-28T07:51:24Z"
+   "time": "2026-10-28T13:12:00Z"
   },
   {
    "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
@@ -87,14 +87,35 @@
    "time": "2026-10-28T11:34:24Z"
   },
   {
+   "id": "egypt-saudi-arabia-uae-discuss-regional-de-escal",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
+   "summary": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Egypt, Saudi Arabia, UAE discuss regional de-escalation mechanism involving Türkiye, Pakistan."
+    }
+   ],
+   "source": "TRT World",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRWtmVG5WWmJWMTZhUDNFTE1nWXg1NjdWS21WRTNjVDN0Z04tLWhncVZqR2RHdmlRNkpMcmZXVVNHTV9VaVc0bF9qdlhlbWVGWEYxNkZCWlE?oc=5",
+   "time": "2026-10-28T08:42:40Z"
+  },
+  {
    "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "watch",
-   "category": "Pakistan",
+   "category": "Middle East",
    "headline": "Mohsen Rezaei Hosts Iran, Saudi Arabia, Pakistan, Turkey Talks In Tehran On Regional Security",
    "summary": "Mohsen Rezaei Hosts Iran, Saudi Arabia, Pakistan, Turkey Talks In Tehran On Regional Security",
    "lines": [
@@ -108,7 +129,57 @@
    "time": "2026-10-28T11:33:19Z"
   },
   {
-   "id": "pakistan-says-afghan-firing-kills-one-in-border-",
+   "id": "oil-up-1-as-saudi-arabian-refinery-attack-reigni",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns",
+   "summary": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil up 1% as Saudi Arabian refinery attack reignites supply concerns."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+   "time": "2026-10-28T01:49:00Z"
+  },
+  {
+   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Hormuz oil spill forces closure of UAE beaches",
+   "summary": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Hormuz oil spill forces closure of UAE beaches."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+   "time": "2026-10-28T10:02:32Z"
+  },
+  {
+   "id": "one-killed-several-wounded-in-pakistan-afghanist",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -116,17 +187,38 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan says Afghan firing kills one in border district",
-   "summary": "Pakistan says Afghan firing kills one in border district",
+   "headline": "One killed, several wounded in Pakistan-Afghanistan border clashes",
+   "summary": "One killed, several wounded in Pakistan-Afghanistan border clashes",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan says Afghan firing kills one in border district."
+     "text": "One killed, several wounded in Pakistan-Afghanistan border clashes."
     }
    ],
-   "source": "SRN News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUxNaWZQQTVMZ0ZfcFZlQ3dhaVprV0l0R3lsaVpSUWJMUnRfWTY1YWRXMFZLWXNmYThpS0Q2SWpab3JJQU9RT3drWFRBT3ZLSlZhbV9qdmw3LUI4TEhNdDBYQ1AxeGl3Rk85U1l2WnhvMDhFUkF3OVhjb1B4SFN3Q0ZTMA?oc=5",
-   "time": "2026-10-28T07:37:21Z"
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJub1ZBNlFWbmxyTklxUGhteWhjbWxOcnZEYUVhV0QtMjVkNWM5N3dha0h3b1JQT3pLU2J6WHdQTklydC13Y1BaUXJpN2ZaU05fN2dIRUFOd2FvRnJGNW16ZjQzd0FGMXlhQ0JldG1MMW9IeURDb0s0eW16YVJKYnZIdHo0R0hobVlLM1daeXd5eEVSd2tR?oc=5",
+   "time": "2026-10-28T12:48:34Z"
+  },
+  {
+   "id": "afghan-pakistan-border-clash-kills-one-injures-f",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Afghan-Pakistan border clash kills one, injures five",
+   "summary": "Afghan-Pakistan border clash kills one, injures five",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Afghan-Pakistan border clash kills one, injures five."
+    }
+   ],
+   "source": "Macau Business",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTdjUFNZZWp3TlJQZE1iNXJPMUM4Qi1SeWRiQjE2b3JwYjZsamdwMmVYY2tLR2pGZEdlZ2dNVl9WNGQweHdUNzhFQTZRdllPRk4xVGYtNC1QNS1lNlhvQmxsZ2xwZWhiUTV5aHpnUWZHQUtONWlkckdyNENTMDVrTV8yNk8?oc=5",
+   "time": "2026-10-28T12:30:06Z"
   },
   {
    "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
@@ -146,7 +238,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "What's the impact?"
     },
     {
      "role": "ANALYST",
@@ -179,77 +271,6 @@
    "time": "2026-10-28T11:12:00Z"
   },
   {
-   "id": "uae-canada-seal-trade-pact-cutting-99-of-tariffs",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE, Canada seal trade pact cutting 99% of tariffs on exports",
-   "summary": "UAE, Canada seal trade pact cutting 99% of tariffs on exports",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE, Canada seal trade pact cutting 99% of tariffs on exports."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmgwVGlTQmZPbk9OeVFZUXNwYm1vVm9jelpDWXNmMDRVZFd6NFl5aGx3MTFiX3hEU3lxR1Vkb3FpUlRYNmpjNUJ4N083RzlwSlRvcWhKVEx6X0tsMWRJUUNFcVhJMjJ3QmxmdFFrQ29adFdiR1NyVjJtUXgwRlVIaWVQM2tKR0xnSU5LQmJ1bi02S0dVR1F6X1liLWJyRXp6a2ww?oc=5",
-   "time": "2026-10-28T09:38:25Z"
-  },
-  {
-   "id": "middle-east-latest-qatari-mediators-present-iran",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
-   "summary": "Middle East latest: Qatari mediators present Iran with deal to end war, official says",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Middle East latest: Qatari mediators present Iran with deal to end war, official says."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lem9tb1QwUDdzdGVId2ZLZXBTc0tsTGs1aTdHS29mRjR1di1IOThPYVFLQUp6MFdoN3VBZF9GWWZzQVp4RmpRQTFucmhOMEF6eUZpdXpCa05SQjlkVVdhbFJOVnFBMDVXaFg0WDBfZi1nQmsyYnVCdXhFQmVRdw?oc=5",
-   "time": "2026-10-28T11:58:39Z"
-  },
-  {
-   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Hormuz oil spill forces closure of UAE beaches",
-   "summary": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Hormuz oil spill forces closure of UAE beaches."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "An oil spill from a damaged tanker in the Strait of Hormuz has reached the UAE’s beaches, forcing their closure."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-   "time": "2026-10-28T10:02:32Z"
-  },
-  {
    "id": "saudi-arabia-says-air-defenses-intercept-houthi-",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
@@ -271,162 +292,125 @@
    "time": "2026-10-28T01:00:00Z"
   },
   {
-   "id": "oil-up-over-1-as-saudi-arabian-refinery-attack-r",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "uk-treasury-offers-support-with-energy-bills-in-",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns",
-   "summary": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil up over 1% as Saudi Arabian refinery attack reignites supply risk concerns."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-   "time": "2026-10-28T01:49:00Z"
-  },
-  {
-   "id": "putin-seeks-to-expand-ties-with-african-countrie",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
    "category": "World",
-   "headline": "Putin seeks to expand ties with African countries at Russia-Africa summit",
-   "summary": "Putin seeks to expand ties with African countries at Russia-Africa summit",
+   "headline": "UK Treasury offers support with energy bills in the face of Iran war price shock",
+   "summary": "UK Treasury offers support with energy bills in the face of Iran war price shock",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Putin seeks to expand ties with African countries at Russia-Africa summit."
+     "text": "UK Treasury offers support with energy bills in the face of Iran war price shock."
     }
    ],
-   "source": "WSLS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGNyWlNEbGU2a0U0dHZJanNDcVdBNmd0bGxmWjZ5U1F5NkFQM1NJSXd3dWZnNzJBVWpUYUVzVVBpd3dvVFZDTUZBNUhwWld0ZjBGZTh5UjlRTE1MX05mM3dSS29Jd0RjOF9sbzB3eV9kcFpqVDZYcVhWbXdKQXV3Qkl2S3dIZUF3WkpRVW9vT2R3eVBWbzRfb1ROTWRLOWJQVWdsU1c5V2ZYOHlMSS1xak9LaXVldw?oc=5",
-   "time": "2026-10-28T12:51:41Z"
+   "source": "Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEo3bFEtbEtqdV9zWEg1VzhSVjhzQy1SUHJVbDZaWi1LdkVtcXR3Tzl0Nk1IREJFd0drRWFXTnl1QWF4SnFkWFNRazNMNlNYdnZPckUzOXdYVDNoYWRzeFo3SmZPeUc4bTVJWkw1TkpkclNyVlBWbVI0ZmRJU3pnbDFEQi1pdVJaTWNqYTIwa0NJT2t2NmxzNmw3TE92QXRKZFpwYmc1X3dnTURwMFBsaVBYY0hidi1samlCMkRlUGtidHRsYXJ3WmdFSkE1RG5wZkxGbUl4ek1GZG9VNVdQaDd1ZmlZaGV3OHBSOWRwR2thaFlFNlUtZmdrZGVIbXlDT1B3RXFB?oc=5",
+   "time": "2026-10-28T13:49:15Z"
   },
   {
-   "id": "victims-of-jordan-s-air-strikes-in-syria",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "live-updates-spain-train-crash-kills-at-least-30",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Victims of Jordan’s air strikes in Syria",
-   "summary": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
+   "category": "World",
+   "headline": "Live updates: Spain train crash kills at least 30 as witnesses describe devastating scenes",
+   "summary": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Victims of Jordan’s air strikes in Syria."
+     "text": "Live updates: Spain train crash kills at least 30 as witnesses describe devastating scenes."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories."
+     "text": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-   "time": "2026-10-28T12:35:19Z"
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "time": "2026-10-28T13:02:00Z"
   },
   {
-   "id": "serbian-shot-dead-after-attacking-officer-outsid",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
+   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+   "category": "World",
+   "headline": "What we know so far about deadly Spain train crash",
+   "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Serbian shot dead after attacking officer outside Israeli embassy, minister says."
+     "text": "What we know so far about deadly Spain train crash."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
-     "text": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
+     "text": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T10:17:54Z"
+   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-28T12:14:44Z"
   },
   {
-   "id": "cyclone-leaves-trail-of-destruction-in-india-as-",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "high",
-   "category": "World",
-   "headline": "Cyclone leaves trail of destruction in India as thousands evacuated",
-   "summary": "Cyclone Arnab has left a trail of destruction along India’s eastern coast.",
+   "id": "crude-oil-remains-under-pressure-amid-us-iran-de",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs",
+   "summary": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Cyclone leaves trail of destruction in India as thousands evacuated."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Cyclone Arnab has left a trail of destruction along India’s eastern coast."
+     "text": "Crude oil remains under pressure amid US-Iran deal hopes; setbacks could push prices to new highs."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
-   "time": "2026-10-28T11:41:04Z"
+   "source": "investingLive",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmhTMjlhYVplMWplQlp1allwSFNqN1hyRUJXZnVyUmg5aXRtWWJqR1FwZDBnOENIZGFyaTRwcU1WRTVhRTR0Zkw0NWhOMF9lT3ZIb3lTRUFpWUhSRVdfV3VlalNNamlsZUZRQnR5UzNxRGM4YTR1UF9MXzltSzJZeU1ZMlVtWExmdWlKdl9sc2VtWmptRTdNWk5tWkxtNkEyOEdpZ05fU2JRSTJNbFdYWEpWcTVLNXJWRlhhREY3NzBISzNjTDc4ZVhJRGo1Z0hp?oc=5",
+   "time": "2026-10-28T10:33:09Z"
   },
   {
-   "id": "families-brace-for-a-fourth-winter-of-wind-rain-",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "high",
+   "id": "is-the-uae-secretly-helping-houthis-fight-saudi-",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
-   "summary": "Gaza's impending winter is likely to lead to further devastation for Palestinians.",
+   "headline": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim",
+   "summary": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "How serious is it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Gaza's impending winter is likely to lead to further devastation for Palestinians."
+     "text": "Is the UAE secretly helping Houthis fight Saudi-backed forces in Yemen? Report makes startling claim."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-   "time": "2026-10-28T11:36:04Z"
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGZTOHFfN1dxWUdwUHVCSjQ0TU01REVVanhSRlE4TkJVVWc3V0FNb3hvNUZrd2J4MldGaUdoRUxGNjBRLU5OQzdWNzllSFB4NVpJWGZXLXlvQVI1SEpKVkdwMEJwQ05vRTJJS2hLSGx4eUZoNFVsclR4b3lOTXR6d3ZocllsbW5LY1NXV0FYY1FuNlNkUGtSQlMzUkhDRC1TYWR3RUdlbXpLbmFEaHhfUFlqSFA2ZXhOcTJrQzIwaHYycWNRSHBzamZJLUgxclBXREJZWGZnUkczemI0YUHSAeMBQVVfeXFMTm9VeFc5V1RBbXM1WVZxZW9SSWlBT05FclhxcERMTWNfVF9QM1VCXzl1cVFZaUptVkNoN2F4LW5tMHRSdGVPUHduNjdQVnFoRGtKbVFFZEpPc3ZteURmTTZVUG50TjVfWld1d1BMVmFJZnNuNzF1NU9lTHdTLVZrVUw1Sl9MVWZnMERSTU8xM2NBUXljeU1qR1lEMm1XTTFSV1piYjlNLXUxTGR1WnVwQjBBM3B1R0N3UkJHcXR6NVpkcW5qdXZWSDZBY0doTjU5dWxRTW0tX3hWUHhiYU4tQlUyXzA?oc=5",
+   "time": "2026-10-28T06:02:43Z"
   }
  ]
 }

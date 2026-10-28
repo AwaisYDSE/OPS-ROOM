@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T13:43:34.931631Z",
+ "updated": "2026-10-28T14:11:13.114732Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
@@ -43,7 +43,7 @@
    ],
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-   "time": "2026-10-28T07:51:24Z"
+   "time": "2026-10-28T13:12:00Z"
   },
   {
    "id": "pakistan-denies-entry-to-taiwan-airlines-citing-",
@@ -88,14 +88,35 @@
    "time": "2026-10-28T11:34:24Z"
   },
   {
+   "id": "egypt-saudi-arabia-uae-discuss-regional-de-escal",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "埃及、沙特阿拉伯和阿联酋讨论涉及土耳其和巴基斯坦的区域降级机制",
+   "summary": "埃及、沙特阿拉伯和阿联酋讨论涉及土耳其和巴基斯坦的区域降级机制",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "埃及、沙特阿拉伯、阿联酋讨论涉及土耳其、巴基斯坦的地区降级机制。"
+    }
+   ],
+   "source": "TRT World",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRWtmVG5WWmJWMTZhUDNFTE1nWXg1NjdWS21WRTNjVDN0Z04tLWhncVZqR2RHdmlRNkpMcmZXVVNHTV9VaVc0bF9qdlhlbWVGWEYxNkZCWlE?oc=5",
+   "time": "2026-10-28T08:42:40Z"
+  },
+  {
    "id": "mohsen-rezaei-hosts-iran-saudi-arabia-pakistan-t",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "watch",
-   "category": "Pakistan",
+   "category": "Middle East",
    "headline": "穆赫森·雷扎伊在德黑兰主持伊朗、沙特阿拉伯、巴基斯坦和土耳其就地区安全问题举行会谈",
    "summary": "穆赫森·雷扎伊在德黑兰主持伊朗、沙特阿拉伯、巴基斯坦和土耳其就地区安全问题举行会谈",
    "lines": [
@@ -109,7 +130,57 @@
    "time": "2026-10-28T11:33:19Z"
   },
   {
-   "id": "pakistan-says-afghan-firing-kills-one-in-border-",
+   "id": "oil-up-1-as-saudi-arabian-refinery-attack-reigni",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "沙特阿拉伯炼油厂遇袭重燃供应担忧，油价上涨 1%",
+   "summary": "沙特阿拉伯炼油厂遇袭重燃供应担忧，油价上涨 1%",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "沙特阿拉伯炼油厂遇袭再次引发供应担忧，油价上涨 1%。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+   "time": "2026-10-28T01:49:00Z"
+  },
+  {
+   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "霍尔木兹漏油事件迫使阿联酋海滩关闭",
+   "summary": "霍尔木兹海峡一艘受损油轮的漏油已到达阿联酋海滩，迫使其关闭。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "霍尔木兹漏油事件迫使阿联酋海滩关闭。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "霍尔木兹海峡一艘受损油轮的漏油已到达阿联酋海滩，迫使其关闭。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
+   "time": "2026-10-28T10:02:32Z"
+  },
+  {
+   "id": "one-killed-several-wounded-in-pakistan-afghanist",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -117,17 +188,38 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "巴基斯坦称阿富汗边境地区的枪击事件造成一人死亡",
-   "summary": "巴基斯坦称阿富汗边境地区的枪击事件造成一人死亡",
+   "headline": "巴基斯坦与阿富汗边境冲突造成一人死亡、多人受伤",
+   "summary": "巴基斯坦与阿富汗边境冲突造成一人死亡、多人受伤",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦称阿富汗边境地区的枪击事件造成一人死亡。"
+     "text": "巴基斯坦与阿富汗边境冲突造成一人死亡、多人受伤。"
     }
    ],
-   "source": "SRN News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUxNaWZQQTVMZ0ZfcFZlQ3dhaVprV0l0R3lsaVpSUWJMUnRfWTY1YWRXMFZLWXNmYThpS0Q2SWpab3JJQU9RT3drWFRBT3ZLSlZhbV9qdmw3LUI4TEhNdDBYQ1AxeGl3Rk85U1l2WnhvMDhFUkF3OVhjb1B4SFN3Q0ZTMA?oc=5",
-   "time": "2026-10-28T07:37:21Z"
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJub1ZBNlFWbmxyTklxUGhteWhjbWxOcnZEYUVhV0QtMjVkNWM5N3dha0h3b1JQT3pLU2J6WHdQTklydC13Y1BaUXJpN2ZaU05fN2dIRUFOd2FvRnJGNW16ZjQzd0FGMXlhQ0JldG1MMW9IeURDb0s0eW16YVJKYnZIdHo0R0hobVlLM1daeXd5eEVSd2tR?oc=5",
+   "time": "2026-10-28T12:48:34Z"
+  },
+  {
+   "id": "afghan-pakistan-border-clash-kills-one-injures-f",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "阿富汗与巴基斯坦边境冲突造成1人死亡、5人受伤",
+   "summary": "阿富汗与巴基斯坦边境冲突造成1人死亡、5人受伤",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿富汗和巴基斯坦边境冲突造成 1 人死亡、5 人受伤。"
+    }
+   ],
+   "source": "Macau Business",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOTdjUFNZZWp3TlJQZE1iNXJPMUM4Qi1SeWRiQjE2b3JwYjZsamdwMmVYY2tLR2pGZEdlZ2dNVl9WNGQweHdUNzhFQTZRdllPRk4xVGYtNC1QNS1lNlhvQmxsZ2xwZWhiUTV5aHpnUWZHQUtONWlkckdyNENTMDVrTV8yNk8?oc=5",
+   "time": "2026-10-28T12:30:06Z"
   },
   {
    "id": "russia-africa-summit-what-is-on-the-agenda-and-w",
@@ -138,16 +230,16 @@
    "flag": "🇷🇺",
    "severity": "watch",
    "category": "World",
-   "headline": "俄罗斯-非洲峰会：议程上有什么内容，为什么重要？",
+   "headline": "俄罗斯-非洲峰会：议程上有什么，为什么重要？",
    "summary": "莫斯科旨在在为期两天的会议期间加强与非洲领导人的经济和安全关系。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "俄罗斯-非洲峰会：议程上有什么内容，为什么重要？"
+     "text": "俄罗斯-非洲峰会：议程上有什么，为什么重要？"
     },
     {
      "role": "COMMANDER",
-     "text": "好的。细节？"
+     "text": "有什么影响？"
     },
     {
      "role": "ANALYST",
@@ -180,77 +272,6 @@
    "time": "2026-10-28T11:12:00Z"
   },
   {
-   "id": "uae-canada-seal-trade-pact-cutting-99-of-tariffs",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "阿联酋与加拿大签署贸易协定，削减99%的出口关税",
-   "summary": "阿联酋与加拿大签署贸易协定，削减99%的出口关税",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋与加拿大签署贸易协定，削减99%的出口关税。"
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmgwVGlTQmZPbk9OeVFZUXNwYm1vVm9jelpDWXNmMDRVZFd6NFl5aGx3MTFiX3hEU3lxR1Vkb3FpUlRYNmpjNUJ4N083RzlwSlRvcWhKVEx6X0tsMWRJUUNFcVhJMjJ3QmxmdFFrQ29adFdiR1NyVjJtUXgwRlVIaWVQM2tKR0xnSU5LQmJ1bi02S0dVR1F6X1liLWJyRXp6a2ww?oc=5",
-   "time": "2026-10-28T09:38:25Z"
-  },
-  {
-   "id": "middle-east-latest-qatari-mediators-present-iran",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "中东最新动态：官员表示，卡塔尔调解人向伊朗提出结束战争的协议",
-   "summary": "中东最新动态：官员表示，卡塔尔调解人向伊朗提出结束战争的协议",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "中东最新情况：官员称，卡塔尔调解人向伊朗提出结束战争的协议。"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lem9tb1QwUDdzdGVId2ZLZXBTc0tsTGs1aTdHS29mRjR1di1IOThPYVFLQUp6MFdoN3VBZF9GWWZzQVp4RmpRQTFucmhOMEF6eUZpdXpCa05SQjlkVVdhbFJOVnFBMDVXaFg0WDBfZi1nQmsyYnVCdXhFQmVRdw?oc=5",
-   "time": "2026-10-28T11:58:39Z"
-  },
-  {
-   "id": "hormuz-oil-spill-forces-closure-of-uae-beaches",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "霍尔木兹漏油事件迫使阿联酋海滩关闭",
-   "summary": "霍尔木兹海峡一艘受损油轮的漏油已到达阿联酋海滩，迫使其关闭。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "霍尔木兹漏油事件迫使阿联酋海滩关闭。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "这对价格意味着什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "霍尔木兹海峡一艘受损油轮的漏油已到达阿联酋海滩，迫使其关闭。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/hormuz-oil-spill-forces-closure-of-uae-beaches?traffic_source=rss",
-   "time": "2026-10-28T10:02:32Z"
-  },
-  {
    "id": "saudi-arabia-says-air-defenses-intercept-houthi-",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
@@ -272,162 +293,125 @@
    "time": "2026-10-28T01:00:00Z"
   },
   {
-   "id": "oil-up-over-1-as-saudi-arabian-refinery-attack-r",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "uk-treasury-offers-support-with-energy-bills-in-",
+   "country": "United Kingdom",
+   "label": "英国",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "沙特阿拉伯炼油厂遇袭重燃供应风险担忧 油价上涨逾1%",
-   "summary": "沙特阿拉伯炼油厂遇袭重燃供应风险担忧 油价上涨逾1%",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特阿拉伯炼油厂遇袭再次引发供应风险担忧，油价上涨逾 1%。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
-   "time": "2026-10-28T01:49:00Z"
-  },
-  {
-   "id": "putin-seeks-to-expand-ties-with-african-countrie",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
    "category": "World",
-   "headline": "普京在俄非峰会上寻求扩大与非洲国家的关系",
-   "summary": "普京在俄非峰会上寻求扩大与非洲国家的关系",
+   "headline": "面对伊朗战争价格冲击，英国财政部提供能源法案支持",
+   "summary": "面对伊朗战争价格冲击，英国财政部提供能源法案支持",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "普京寻求在俄非峰会上扩大与非洲国家的关系。"
+     "text": "面对伊朗战争价格冲击，英国财政部提供能源法案支持。"
     }
    ],
-   "source": "WSLS",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSGNyWlNEbGU2a0U0dHZJanNDcVdBNmd0bGxmWjZ5U1F5NkFQM1NJSXd3dWZnNzJBVWpUYUVzVVBpd3dvVFZDTUZBNUhwWld0ZjBGZTh5UjlRTE1MX05mM3dSS29Jd0RjOF9sbzB3eV9kcFpqVDZYcVhWbXdKQXV3Qkl2S3dIZUF3WkpRVW9vT2R3eVBWbzRfb1ROTWRLOWJQVWdsU1c5V2ZYOHlMSS1xak9LaXVldw?oc=5",
-   "time": "2026-10-28T12:51:41Z"
+   "source": "Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSEo3bFEtbEtqdV9zWEg1VzhSVjhzQy1SUHJVbDZaWi1LdkVtcXR3Tzl0Nk1IREJFd0drRWFXTnl1QWF4SnFkWFNRazNMNlNYdnZPckUzOXdYVDNoYWRzeFo3SmZPeUc4bTVJWkw1TkpkclNyVlBWbVI0ZmRJU3pnbDFEQi1pdVJaTWNqYTIwa0NJT2t2NmxzNmw3TE92QXRKZFpwYmc1X3dnTURwMFBsaVBYY0hidi1samlCMkRlUGtidHRsYXJ3WmdFSkE1RG5wZkxGbUl4ek1GZG9VNVdQaDd1ZmlZaGV3OHBSOWRwR2thaFlFNlUtZmdrZGVIbXlDT1B3RXFB?oc=5",
+   "time": "2026-10-28T13:49:15Z"
   },
   {
-   "id": "victims-of-jordan-s-air-strikes-in-syria",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "live-updates-spain-train-crash-kills-at-least-30",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "约旦空袭叙利亚的受害者",
-   "summary": "约旦对叙利亚南部的空袭造成至少七人死亡，其中包括三名儿童。这是他们的故事。",
+   "category": "World",
+   "headline": "实时更新：西班牙火车相撞事故造成至少 30 人死亡，目击者描述了毁灭性的场景",
+   "summary": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "约旦空袭叙利亚的受害者。"
+     "text": "实时更新：西班牙火车相撞事故造成至少 30 人死亡，目击者描述了毁灭性的场景。"
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "确认了吗？"
     },
     {
      "role": "ANALYST",
-     "text": "约旦对叙利亚南部的空袭造成至少七人死亡，其中包括三名儿童。这是他们的故事。"
+     "text": "卫生部长莫妮卡·加西亚表示，紧急救援人员正在集中精力营救幸存者。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
-   "time": "2026-10-28T12:35:19Z"
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "time": "2026-10-28T13:02:00Z"
   },
   {
-   "id": "serbian-shot-dead-after-attacking-officer-outsid",
-   "country": "Israel",
-   "label": "以色列",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
+   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "部长称塞尔维亚人在以色列大使馆外袭击官员后被枪杀",
-   "summary": "当局表示，贝尔格莱德的袭击者是一名未成年男性，目前正受到安全部门的监视。",
+   "category": "World",
+   "headline": "到目前为止我们对西班牙致命火车事故的了解",
+   "summary": "事件发生在马德里南部托莱多省时，火车上有 500 多名乘客。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "部长称，塞尔维亚人在以色列大使馆外袭击官员后被枪杀。"
+     "text": "迄今为止我们对西班牙致命火车事故的了解。"
     },
     {
      "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
+     "text": "背后是谁？"
     },
     {
      "role": "ANALYST",
-     "text": "当局表示，贝尔格莱德的袭击者是一名未成年男性，目前正受到安全部门的监视。"
+     "text": "事件发生在马德里南部托莱多省时，火车上有 500 多名乘客。"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "time": "2026-10-28T10:17:54Z"
+   "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+   "time": "2026-10-28T12:14:44Z"
   },
   {
-   "id": "cyclone-leaves-trail-of-destruction-in-india-as-",
-   "country": "India",
-   "label": "印度",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "high",
-   "category": "World",
-   "headline": "飓风在印度留下破坏痕迹，数千人撤离",
-   "summary": "飓风“阿纳布”在印度东海岸造成了严重破坏。",
+   "id": "crude-oil-remains-under-pressure-amid-us-iran-de",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "由于美国与伊朗达成协议的希望，原油仍面临压力；挫折可能会将价格推至新高",
+   "summary": "由于美国与伊朗达成协议的希望，原油仍面临压力；挫折可能会将价格推至新高",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "旋风在印度造成了破坏，数千人撤离。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "给我详细信息。"
-    },
-    {
-     "role": "ANALYST",
-     "text": "飓风“阿纳布”在印度东海岸造成了严重破坏。"
+     "text": "由于美国与伊朗达成协议的希望，原油仍面临压力；挫折可能会将价格推至新高。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
-   "time": "2026-10-28T11:41:04Z"
+   "source": "investingLive",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSmhTMjlhYVplMWplQlp1allwSFNqN1hyRUJXZnVyUmg5aXRtWWJqR1FwZDBnOENIZGFyaTRwcU1WRTVhRTR0Zkw0NWhOMF9lT3ZIb3lTRUFpWUhSRVdfV3VlalNNamlsZUZRQnR5UzNxRGM4YTR1UF9MXzltSzJZeU1ZMlVtWExmdWlKdl9sc2VtWmptRTdNWk5tWkxtNkEyOEdpZ05fU2JRSTJNbFdYWEpWcTVLNXJWRlhhREY3NzBISzNjTDc4ZVhJRGo1Z0hp?oc=5",
+   "time": "2026-10-28T10:33:09Z"
   },
   {
-   "id": "families-brace-for-a-fourth-winter-of-wind-rain-",
-   "country": "Palestine",
-   "label": "巴勒斯坦",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "high",
+   "id": "is-the-uae-secretly-helping-houthis-fight-saudi-",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "加沙难民营中的家庭正准备迎接第四个充满风雨和洪水的冬天",
-   "summary": "加沙即将到来的冬季可能会给巴勒斯坦人带来进一步的破坏。",
+   "headline": "阿联酋是否正在秘密帮助胡塞武装在也门打击沙特支持的部队？报告提出令人震惊的主张",
+   "summary": "阿联酋是否正在秘密帮助胡塞武装在也门打击沙特支持的部队？报告提出令人震惊的主张",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "加沙难民营里的家庭正准备迎接第四个充满风雨和洪水的冬天。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有多严重？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "加沙即将到来的冬季可能会给巴勒斯坦人带来进一步的破坏。"
+     "text": "阿联酋是否正在秘密帮助胡塞武装在也门打击沙特支持的部队？报告提出了令人震惊的主张。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
-   "time": "2026-10-28T11:36:04Z"
+   "source": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcGZTOHFfN1dxWUdwUHVCSjQ0TU01REVVanhSRlE4TkJVVWc3V0FNb3hvNUZrd2J4MldGaUdoRUxGNjBRLU5OQzdWNzllSFB4NVpJWGZXLXlvQVI1SEpKVkdwMEJwQ05vRTJJS2hLSGx4eUZoNFVsclR4b3lOTXR6d3ZocllsbW5LY1NXV0FYY1FuNlNkUGtSQlMzUkhDRC1TYWR3RUdlbXpLbmFEaHhfUFlqSFA2ZXhOcTJrQzIwaHYycWNRSHBzamZJLUgxclBXREJZWGZnUkczemI0YUHSAeMBQVVfeXFMTm9VeFc5V1RBbXM1WVZxZW9SSWlBT05FclhxcERMTWNfVF9QM1VCXzl1cVFZaUptVkNoN2F4LW5tMHRSdGVPUHduNjdQVnFoRGtKbVFFZEpPc3ZteURmTTZVUG50TjVfWld1d1BMVmFJZnNuNzF1NU9lTHdTLVZrVUw1Sl9MVWZnMERSTU8xM2NBUXljeU1qR1lEMm1XTTFSV1piYjlNLXUxTGR1WnVwQjBBM3B1R0N3UkJHcXR6NVpkcW5qdXZWSDZBY0doTjU5dWxRTW0tX3hWUHhiYU4tQlUyXzA?oc=5",
+   "time": "2026-10-28T06:02:43Z"
   }
  ]
 }
