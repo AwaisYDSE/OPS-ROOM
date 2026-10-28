@@ -127,12 +127,13 @@ def local_news(now):
                 "lat": lat, "lon": lon, "flag": flag, "severity": sev, "category": "Local",
                 "headline": it["title"], "summary": first_sentences(it["desc"]) or it["title"],
                 "lines": [{"role": "OPERATOR", "text": it["title"] + "."}],
-                "source": it["source"], "url": it["link"], "forceLang": "en",
+                "source": it["source"], "url": it["link"], "forceLang": "en", "type": it.get("type"),
                 "time": it["when"].isoformat().replace("+00:00", "Z") if it["when"] else None,
             })
             if len(stories) >= 6:
                 break
         if stories:
+            tag_types(stories, [])
             out[slug] = {"name": name, "lat": lat, "lon": lon, "flag": flag, "stories": stories}
         time.sleep(0.5)
     return out
@@ -226,6 +227,36 @@ def clean(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+# What kind of report it is. Feeds put this in the title ("Video: ...", "Live updates: ...", "... (Video)");
+# it is not news, so it is taken out of the headline and kept as a type tag instead.
+_TYPE_WORDS = [
+    ("VIDEO", r"video|videos|watch|vid[eé]o"), ("LIVE", r"live updates?|live blog|live|as it happened|[\w ]{0,30}\blatest"),
+    ("PHOTOS", r"photos?|in pictures|pictures|gallery|photo essay"), ("OPINION", r"opinion|op-ed|comment|editorial|view"),
+    ("ANALYSIS", r"analysis|news analysis"), ("EXPLAINER", r"explainer|explained|fact ?check"),
+    ("PODCAST", r"podcast|audio"), ("REVIEW", r"review"), ("INTERVIEW", r"interview|q&a"),
+]
+_PRE = [(t, re.compile(r"^\s*(?:" + w + r")\s*(?:[:|]|\s[–—-])\s*", re.I)) for t, w in _TYPE_WORDS]
+_SUF = [(t, re.compile(r"\s*(?:[(\[](?:" + w + r")[)\]]|[|–—-]\s*(?:" + w + r"))\s*[.!]?\s*$", re.I)) for t, w in _TYPE_WORDS]
+
+
+def news_type(title):
+    """Return (headline without the format label, type or None)."""
+    t, kind = (title or "").strip(), None
+    for _ in range(2):  # a title can carry a label at both ends
+        for name, rx in _PRE + _SUF:
+            new = rx.sub("", t, count=1)
+            if new != t and len(new) >= 12:
+                t, kind = new.strip(), kind or name
+                break
+    if kind and t[:1].islower():
+        t = t[0].upper() + t[1:]
+    return t, kind
+
+
+def strip_type(text):
+    return news_type(text)[0] if text else text
+
+
 def parse_feed(data, weight):
     items = []
     root = ET.fromstring(data)
@@ -241,6 +272,7 @@ def parse_feed(data, weight):
         m = re.match(r"^(.*) - ([^-]{2,60})$", title)
         if m and ("news.google" in link or not source):
             title, source = m.group(1).strip(), source or m.group(2).strip()
+        title, kind = news_type(title)
         if desc.startswith(title[:30]) or "news.google" in link:
             desc = ""  # Google News descriptions only repeat the title
         when = None
@@ -254,7 +286,7 @@ def parse_feed(data, weight):
             host = urllib.parse.urlparse(link).netloc.replace("www.", "")
             source = host
         items.append({"title": title, "desc": desc, "link": link, "source": source,
-                      "when": when, "weight": weight})
+                      "when": when, "weight": weight, "type": kind})
     return items
 
 
@@ -364,7 +396,7 @@ def heuristic(candidates, n=18):
             "country": country, "label": pl[1], "lat": pl[2], "lon": pl[3], "flag": pl[4],
             "severity": sev, "category": category_for(text, country, sev),
             "headline": c["title"], "summary": summary,
-            "lines": lines, "source": c["source"], "url": c["link"],
+            "lines": lines, "source": c["source"], "url": c["link"], "type": c.get("type"),
             "time": c["when"].isoformat().replace("+00:00", "Z") if c["when"] else None,
         })
         if len(stories) >= n:
@@ -440,13 +472,15 @@ def llm_json(prompt, key):
 
 def editor(candidates, key):
     listing = "\n".join(
-        f"{i+1}. [{c['source']}] {c['title']} — {c['desc'][:300]} ({c['link']})"
+        f"{i+1}. [{c['source']}]{' [' + c['type'] + ']' if c.get('type') else ''} {c['title']} — {c['desc'][:300]} ({c['link']})"
         for i, c in enumerate(candidates[:45]))
     prompt = f"""You are the editor of a TV-style "Operations Room" news stream for a businessman in Sharjah, UAE
 (auto spare parts trader, from Pakistan, exports to Africa, Iraq, Middle East, Georgia, Central Asia).
 From the headlines below, pick the 18 most important stories of the day: world security first, then
 UAE, Pakistan, Gulf, oil/gold/markets, shipping and trade; also include 2 business, 2 technology and 2 sports
 stories when available. Merge duplicates. Use ONLY facts in the headlines.
+A tag like [VIDEO] or [LIVE] tells you the format of the report: never write words like "Video", "Watch",
+"Live updates" or "Photos" in the headline or the lines, and never say there is a video; just report the news.
 
 Return ONLY a JSON array. Each item:
 {{"id": short-slug, "country": exact country name as in Natural Earth maps (e.g. "United States of America",
@@ -542,6 +576,36 @@ def translate(stories, code, key):
     return out
 
 
+def countries_for(text):
+    """Every country a report mentions, in the order they appear (Hormuz is a place, not a country mention)."""
+    found = []
+    for rx, v in PLACES:
+        if v[1] == "STRAIT OF HORMUZ":
+            continue
+        m = rx.search(text or "")
+        if m and v[0] not in [c for _, c in found]:
+            found.append((m.start(), v[0]))
+    m = re.search(r"\bU\.S\.|\bUS\b|\bUSA\b", text or "")  # "U.S." has no word edge after the last dot
+    if m and "United States of America" not in [c for _, c in found]:
+        found.append((m.start(), "United States of America"))
+    return [c for _, c in sorted(found)]
+
+
+def tag_types(stories, items):
+    """Give each story its report type and make sure no format label is left in what is shown or spoken."""
+    by_link = {i["link"]: i.get("type") for i in items if i.get("link")}
+    for st in stories:
+        h, kind = news_type(st.get("headline", ""))
+        st["headline"] = h
+        st["summary"] = strip_type(st.get("summary") or "") or h
+        for l in st.get("lines") or []:
+            l["text"] = strip_type(l.get("text", ""))
+        st["type"] = st.get("type") or by_link.get(st.get("url")) or kind
+        main = st.get("country")
+        extra = [c for c in countries_for(st["headline"] + " . " + (st.get("summary") or "")) if c != main]
+        st["countries"] = ([main] if main else []) + extra
+
+
 def main():
     all_items = []
     for url, w in FEEDS:
@@ -593,6 +657,7 @@ def main():
     if len(stories) < 3:
         print("Too few stories; keeping the old news.json", file=sys.stderr)
         return 0
+    tag_types(stories, items)
 
     stamp = now.isoformat().replace("+00:00", "Z")
     out = {"updated": stamp, "generator": generator, "stories": stories}
