@@ -2,8 +2,9 @@
 """Pull free RSS news feeds and write news.json (+ translations + local news) for the Ops Room app.
 
 Runs every hour on GitHub Actions (free for public repos). A free AI (pollinations.ai,
-no key) writes the Operator/Commander/Analyst dialogue and the translations. If a free
-Gemini API key is saved as the GEMINI_API_KEY secret, Gemini is used instead.
+no key) tries to write the Operator/Commander/Analyst dialogue; translations use Google
+Translate's free endpoint. If a free Gemini API key is saved as the GEMINI_API_KEY secret,
+Gemini is used for both instead.
 Built by Awais Amin.
 """
 import email.utils
@@ -356,7 +357,7 @@ def _gemini_text(prompt, key):
 def _free_text(prompt):
     """pollinations.ai: free, no key; one request at a time, ~30 s apart."""
     last = None
-    for _ in range(4):
+    for _ in range(2):
         wait = _free_next[0] - time.time()
         if wait > 0:
             time.sleep(wait)
@@ -364,7 +365,7 @@ def _free_text(prompt):
             data = _post("https://text.pollinations.ai/openai",
                          {"model": "openai", "private": True, "referrer": "opsroom",
                           "messages": [{"role": "system", "content": "You return only valid JSON, no commentary."},
-                                       {"role": "user", "content": prompt}]}, timeout=180)
+                                       {"role": "user", "content": prompt}]}, timeout=90)
             _free_next[0] = time.time() + 32
             return data["choices"][0]["message"]["content"]
         except urllib.error.HTTPError as e:
@@ -437,8 +438,39 @@ Headlines:
     return good
 
 
+GTX = {"ur": "ur", "ar": "ar", "hi": "hi", "zh": "zh-CN", "ru": "ru", "fr": "fr"}
+
+
+def gtx(text, tl):
+    """Google Translate's free web endpoint (no key)."""
+    url = ("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&dt=t&tl=" + tl
+           + "&q=" + urllib.parse.quote(text))
+    data = json.loads(fetch(url))
+    return "".join(seg[0] for seg in data[0] if seg and seg[0])
+
+
+def translate_free(stories, code):
+    tl = GTX[code]
+    out = []
+    for s in stories:
+        fields = [s.get("label", "") or "", s["headline"], s.get("summary", "") or ""] + [l["text"] for l in s["lines"]]
+        fields = [f.replace("\n", " ").strip() or "-" for f in fields]
+        res = gtx("\n".join(fields), tl).split("\n")
+        if len(res) != len(fields):
+            res = [gtx(f, tl) for f in fields]
+        res = [r.strip() for r in res]
+        n = dict(s)
+        n["label"], n["headline"], n["summary"] = res[0] or s.get("label"), res[1], res[2] if res[2] != "-" else ""
+        n["lines"] = [{"role": l["role"], "text": res[3 + j] or l["text"]} for j, l in enumerate(s["lines"])]
+        out.append(n)
+        time.sleep(0.15)
+    return out
+
+
 def translate(stories, code, key):
     """Translate the spoken/visible text of every story; keep everything else."""
+    if not key:
+        return translate_free(stories, code)
     slim = [{"i": i, "label": s.get("label", ""), "headline": s["headline"], "summary": s.get("summary", ""),
              "lines": [l["text"] for l in s["lines"]]} for i, s in enumerate(stories)]
     prompt = (f"Translate the text fields of this JSON array into {LANGS[code]} for a TV news broadcast. "
