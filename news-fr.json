@@ -1,59 +1,8 @@
 {
- "updated": "2026-10-29T02:56:00.045184Z",
+ "updated": "2026-10-29T10:08:04.544074Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
-  {
-   "id": "oil-prices-increase-after-attack-on-saudi-refine",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole augmentent après l'attaque d'une raffinerie saoudienne",
-   "summary": "Les prix du pétrole augmentent après l'attaque d'une raffinerie saoudienne",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole augmentent après l'attaque d'une raffinerie saoudienne."
-    }
-   ],
-   "source": "Transport Topics",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0M2x6SVJXLWExZ01sX05JWC1qMnpmSlIxcDdLOXVjUHktbDNoTGkwbWZEdnIzdllfeGZ6clpLWEVBS1U0WUJxc1BpbWlNYlhHMVNGZV96VjdjM2VKUGNNbXp5WEEtTkEz?oc=5",
-   "type": null,
-   "time": "2026-10-28T12:23:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-destroys-houthi-ballistic-mi",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "La coalition dirigée par l'Arabie saoudite détruit un missile balistique Houthi tiré vers le royaume",
-   "summary": "La coalition dirigée par l'Arabie saoudite détruit un missile balistique Houthi tiré vers le royaume",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La coalition dirigée par l'Arabie saoudite détruit un missile balistique Houthi tiré vers le royaume."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbWZ3dFNrUE5MVzVmaVhiNDBmV3hjTDZjN0J6cmdXRzg2clpzX1NBRnphQVRJeFNXOGZOZ09haHozamRjMFZ2T2xoa0FmakYzRm9SSVByTDNwdnlB?oc=5",
-   "type": null,
-   "time": "2026-10-29T02:06:03Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
   {
    "id": "iran-update-october-28-2026",
    "country": "Iran",
@@ -63,183 +12,141 @@
    "flag": "🇮🇷",
    "severity": "info",
    "category": "Middle East",
-   "headline": "Mise à jour sur l’Iran : 28 octobre 2026",
-   "summary": "Mise à jour sur l’Iran : 28 octobre 2026",
+   "headline": "Mise à jour sur l’Iran, 28 octobre 2026",
+   "summary": "Mise à jour sur l’Iran, 28 octobre 2026",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Mise à jour sur l’Iran : 28 octobre 2026."
+     "text": "Mise à jour sur l’Iran, 28 octobre 2026."
     }
    ],
-   "source": "Critical Threats",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYkxod0x1YmhmNDdqb01SMHMtN0tPdDAxd2dfSGRtaUxpX3VjQWd1TXBWNWtQTlJqOWxXZVVQTkUxclhWNV9DRHZFUUg4bm1neVFyQjJUaG5HWHFTRjUyRFRabXlPN0ZyTHp1X244ZmtzbFN5eGhr?oc=5",
+   "source": "Institute for the Study of War",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUt1SnRaTTREU1ZlUS1TTVhuS2QzVGg1UHRrWGc2UTNkUDRZY3Y1QUREU3FielhZanZEY0h0OUxONWpyMEJldGtuU2ItZ3o4RnBvTnZQdDV2dkFrSkpZanVmU1g2WW9yMlVNRGxCaEZ4a1pYVEwyRDcyY3VEOC1lS2tRU28?oc=5",
    "type": null,
-   "time": "2026-10-28T22:59:05Z",
+   "time": "2026-10-29T03:15:39Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "iran-war-live-tehran-presses-7-day-hormuz-plan-t",
+   "id": "-economic-incentives-are-limited-what-does-russi",
+   "country": "Russia",
+   "label": "RUSSIE",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "info",
+   "category": "World",
+   "headline": "« Les incitations économiques sont limitées » : qu’est-ce que la Russie offre réellement à l’Afrique ?",
+   "summary": "Les nations africaines pèsent sur les incitations politiques, car Moscou offre des avantages économiques limités par rapport à la Chine et à l’Occident.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "« Les incitations économiques sont limitées » : qu’est-ce que la Russie offre réellement à l’Afrique ?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Compris. Continue."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les nations africaines pèsent sur les incitations politiques, car Moscou offre des avantages économiques limités par rapport à la Chine et à l’Occident."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T08:14:34Z",
+   "countries": [
+    "Russia",
+    "China"
+   ]
+  },
+  {
+   "id": "how-to-stop-the-us-israel-war-on-iran",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Comment arrêter la guerre américano-israélienne contre l’Iran",
+   "summary": "Les États arabes doivent rejeter l’hégémonie israélienne et construire un cadre de sécurité régional indépendant de Washington.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Comment arrêter la guerre américano-israélienne contre l’Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les États arabes doivent rejeter l’hégémonie israélienne et construire un cadre de sécurité régional indépendant de Washington."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T07:54:51Z",
+   "countries": [
+    "United States of America",
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
    "country": "Iran",
    "label": "L'IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "La guerre en Iran est en direct : Téhéran insiste sur le plan d’Ormuz sur 7 jours ; Trump nie les pourparlers de paix",
-   "summary": "Araghchi affirme que l'Iran est en contact étroit avec les médiateurs sur des idées visant à mettre en œuvre son plan de sept jours visant à rouvrir le détroit d'Ormuz.",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole chutent alors que les commerçants pèsent sur la diplomatie américano-iranienne",
+   "summary": "Les prix du pétrole chutent alors que les commerçants pèsent sur la diplomatie américano-iranienne",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La guerre en Iran est en direct : Téhéran insiste sur le plan d’Ormuz sur 7 jours ; Trump nie les pourparlers de paix."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Araghchi affirme que l'Iran est en contact étroit avec les médiateurs sur des idées visant à mettre en œuvre son plan de sept jours visant à rouvrir le détroit d'Ormuz."
+     "text": "Les prix du pétrole chutent alors que les commerçants évaluent la diplomatie américano-iranienne."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
    "type": null,
-   "time": "2026-10-29T00:00:00Z",
+   "time": "2026-10-29T07:01:00Z",
    "countries": [
     "Iran",
     "United States of America"
    ]
   },
   {
-   "id": "saudi-oil-exports-boom-despite-relentless-houthi",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Les exportations de pétrole saoudiennes explosent malgré les attaques incessantes des Houthis",
-   "summary": "Les exportations de pétrole saoudiennes explosent malgré les attaques incessantes des Houthis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les exportations saoudiennes de pétrole explosent malgré les attaques incessantes des Houthis."
-    }
-   ],
-   "source": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdCVG5hYllpY3VIU3l6bnZRWFQtQmhHYlJValgySjFiMkZBdmRDZzhoN2lNMk1CSUxYQVJFUW4xclM0NHlnNVhqUzBmU3RtZDFKYjhSVzgteDBZUm5wcUVqek5PRUVZNEc2NzJmeURIWXF5WUVFbHJLRGpoNUJyb1FhRU1fVi1QUUZZZmloMVNhZkp1cmxTdnRMeXlLQzg?oc=5",
-   "type": null,
-   "time": "2026-10-28T23:15:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "canada-uae-reach-free-trade-deal-amid-plans-for-",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le Canada et les Émirats arabes unis concluent un accord de libre-échange dans le cadre de projets de traité d'extradition",
-   "summary": "Le Canada et les Émirats arabes unis concluent un accord de libre-échange dans le cadre de projets de traité d'extradition",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Canada et les Émirats arabes unis concluent un accord de libre-échange dans le cadre de projets de traité d'extradition."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1VaNFliRDlvZ1ZLZVRsVC1ZS29TMnlZQ1BnTUktQ0t2U2llb1ZyeFYwYzZaOVljOWVIeFRtaldpRDZsX2dEeVR2NzhCVHEzMlgzSnIxdzF6NEtndlZOaVExX1Nud3hUNlJpRGd6ME8wQ1dJY3FVbVlCTldCa0hNa3NrbWtjczZTSDFobXZ2YTc0VzNHdFQxZ0o2djBKajU1N21N?oc=5",
-   "type": null,
-   "time": "2026-10-28T21:15:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "uae-canada-trade-deal-to-boost-uae-economy-by-8-",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "L'accord commercial entre les Émirats arabes unis et le Canada devrait stimuler l'économie des Émirats arabes unis de 8,7 milliards de dollars et leurs exportations de 11,8 milliards de dollars d'ici 2033.",
-   "summary": "L'accord commercial entre les Émirats arabes unis et le Canada devrait stimuler l'économie des Émirats arabes unis de 8,7 milliards de dollars et leurs exportations de 11,8 milliards de dollars d'ici 2033.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’accord commercial entre les Émirats arabes unis et le Canada devrait stimuler l’économie des Émirats arabes unis de 8,7 milliards de dollars et leurs exportations de 11,8 milliards de dollars d’ici 2033."
-    }
-   ],
-   "source": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:06:22Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "iran-sees-only-unacceptable-ideas-in-latest-medi",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "houthi-ballistic-missile-targeting-eastern-saudi",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
-   "summary": "L'Iran ne voit que des idées inacceptables dans la dernière médiation pour mettre fin à la guerre, selon un responsable",
+   "headline": "Un missile balistique Houthi visant l'est de l'Arabie saoudite intercepté (Coalition)",
+   "summary": "Un missile balistique Houthi visant l'est de l'Arabie saoudite intercepté (Coalition)",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'Iran ne voit que des idées inacceptables dans la dernière médiation visant à mettre fin à la guerre, a déclaré un responsable."
+     "text": "Missile balistique Houthi visant l’est de l’Arabie saoudite intercepté : Coalition."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRvVmRLZjViRzBDS19yM1pjV1lfR21memhUdi1zVGlva3lvY0F1NmhDZVhLNG9ROFdrb1IxYkR2emJMUFQ1c0U4MHF4bnVIaFlhMEFtUHMySVM3LUU4MzQ0ck1MQXlwSGtMdHN0SnZ1cjdFU1BwNk1vcFZVOU83MHZDWFJ6TUcwM1Q3TUNJdWhLa1RoMmw1Zm0tOVgyc0s4WWJTaS1FQUZiTTBtcVBkZE5jbC1NM09EOUlqYmVkQQ?oc=5",
    "type": null,
-   "time": "2026-10-28T20:37:00Z",
+   "time": "2026-10-29T01:28:01Z",
    "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-allows-taiwan-airlines-to-use-airspace-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Le Pakistan autorise Taiwan Airlines à utiliser l’espace aérien dans un demi-tour brusque",
-   "summary": "Le Pakistan autorise Taiwan Airlines à utiliser l’espace aérien dans un demi-tour brusque",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan autorise Taiwan Airlines à utiliser l’espace aérien dans un demi-tour brusque."
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T14:05:17Z",
-   "countries": [
-    "Pakistan",
-    "Taiwan"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
@@ -262,27 +169,78 @@
    "source": "AP News",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
    "type": null,
-   "time": "2026-10-29T00:21:00Z",
+   "time": "2026-10-29T02:58:00Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
-   "country": "Spain",
-   "label": "ESPAGNE",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
+   "id": "north-korea-fires-missile-barrage-toward-the-sea",
+   "country": "North Korea",
+   "label": "CORÉE DU NORD",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
    "severity": "critical",
    "category": "World",
-   "headline": "Un accident de train en Espagne fait au moins 68 morts et des témoins décrivent des scènes dévastatrices",
-   "summary": "L'accident, entre un train en marche et un autre arrêté plus loin sur la voie, a été provoqué par une erreur \"inexplicable\", a déclaré le ministre des Transports.",
+   "headline": "La Corée du Nord tire un barrage de missiles vers la mer alors que les tensions avec le Sud montent",
+   "summary": "La Corée du Nord tire un barrage de missiles vers la mer alors que les tensions avec le Sud montent",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Un accident de train en Espagne fait au moins 68 morts tandis que des témoins décrivent des scènes dévastatrices."
+     "text": "La Corée du Nord tire un barrage de missiles vers la mer alors que les tensions avec le Sud montent."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
+   "type": null,
+   "time": "2026-10-29T09:52:00Z",
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "sri-lanka-wins-toss-fields-against-england-in-pa",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Le Sri Lanka remporte le tirage au sort et affronte l'Angleterre dans la tri-série de cricket du Pakistan",
+   "summary": "Le Sri Lanka remporte le tirage au sort et affronte l'Angleterre dans la tri-série de cricket du Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Sri Lanka remporte le tirage au sort et affronte l'Angleterre dans la tri-série de cricket du Pakistan."
+    }
+   ],
+   "source": "10TV",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSkxVM2JsWWF4d2ZTRGV6Tmt6MTVzeGZTaXZjVVMtNzFXczlvVmdCOW1zV2hvcmZiRGVDVURFb1kteE9CblFBMk5Iek9jS0ptWUxRWmRidTFzNUhnWUhxcV95dnN4bjEtREo1cjdEZ25qVWFvYS16NlRvdlFMQ3RZdm12b2tKbE80MHdvT3N4Z2RiMlRJVEJkdWo4WWdJMU05cXlvUHd6WGszT1FWWktTNHV2YUxEZmlwRDN4RUdGNHlMZHU1aU1fNF9sTmxXZGhDcnQ1dWlFanVfaUFublNyRmJhVEtoUWJKenNRaFdPVEFxUWxjZnRQQjRNQ1lERjh4?oc=5",
+   "type": null,
+   "time": "2026-10-29T08:09:00Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "obama-and-trump-spar-at-rallies-in-georgia-and-o",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Obama et Trump s’affrontent lors de rassemblements en Géorgie et dans l’Ohio : points à retenir",
+   "summary": "Obama et Trump ont échangé des piques sur la guerre en Iran, les tarifs douaniers et la salle de bal de la Maison Blanche à l'approche des élections américaines de mi-mandat.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Obama et Trump s’affrontent lors de rassemblements en Géorgie et dans l’Ohio : points à retenir."
     },
     {
      "role": "COMMANDER",
@@ -290,44 +248,20 @@
     },
     {
      "role": "ANALYST",
-     "text": "L'accident, entre un train en marche et un autre arrêté plus loin sur la voie, a été provoqué par une erreur \"inexplicable\", a déclaré le ministre des Transports."
+     "text": "Obama et Trump ont échangé des piques sur la guerre en Iran, les tarifs douaniers et la salle de bal de la Maison Blanche à l'approche des élections américaines de mi-mandat."
     }
    ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
    "type": null,
-   "time": "2026-10-28T22:09:00Z",
+   "time": "2026-10-29T08:51:30Z",
    "countries": [
-    "Spain"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "uae-president-honours-flydubai-crew-captain-smit",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Le président des Émirats arabes unis rend hommage à l'équipage de Flydubai et au capitaine Smit Machchhar pour leur bravoure en vol",
-   "summary": "Le président des Émirats arabes unis rend hommage à l'équipage de Flydubai et au capitaine Smit Machchhar pour leur bravoure en vol",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le président des Émirats arabes unis rend hommage à l'équipage de Flydubai et au capitaine Smit Machchhar pour sa bravoure en vol."
-    }
-   ],
-   "source": "India Narrative",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG1TRWZDVmk4cExrOG1SU2ZNVjFIUFgtV3c3ZFhNOWhselVBVHhaTm5ONWVoR2QwT01sejZRZDFjeUNRQUFManJzWU9qQUtDekI5ano3MnhMZmFXYU1qdFFrR3kzTVFQWTdiNkpmR3ZBUTZXMjZrTnV6RkV4Nm9kMWFCb3Q4cFhkLS1HdWRmMkNDOTBRdTQ3SzhmazhodjUyMW8tQnd6ay1jRFNYQlNKZmNjQm1GYlc1?oc=5",
-   "type": null,
-   "time": "2026-10-29T00:29:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "id": "singapore-foreign-minister-to-undertake-official",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -335,93 +269,32 @@
    "flag": "🇵🇰",
    "severity": "watch",
    "category": "Pakistan",
-   "headline": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport",
-   "summary": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport",
+   "headline": "Le ministre des Affaires étrangères de Singapour entreprendra une visite officielle au Pakistan le 30 octobre",
+   "summary": "La ministre des Affaires étrangères de Singapour, Vivian Balakrishnan, entreprendra une visite officielle à Islamabad vendredi 30 octobre à l'invitation du vice-Premier ministre et ministre des Affaires étrangères Ishaq Dar, a annoncé jeudi le ministère des Affaires étrangères (FO).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "En soutien à la politique d'une seule Chine, le Pakistan interdit aux compagnies aériennes taïwanaises d'utiliser son espace aérien : rapport."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDZqVm82alc5bjUwVHBBaUlJVThVSHN4S09UZ2V1aERPWWRkVDNudEpYTGlqOVdqaHRBMzRnejF5NGlmV0JwTlBKb2RlZ0QwTndOeWtOQVVKcG1sQmlxUWJRYlg2cGRma0J6N1ZFVDJ6aEJoVVNOZmRxOG9sRU80a0hQSEprYk42UWozM1U3SHBHZlRLakpvRXN4U1FGd0FzQlJvRXg4Y0I4a0NnSnA3MFZ6VTAwcmtxelJseDEybEtvdVZzbkUydUhyQTdOUU9xZEN4ZA?oc=5",
-   "type": null,
-   "time": "2026-10-28T12:32:09Z",
-   "countries": [
-    "Pakistan",
-    "China",
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Haris Rauf pénalisé pour violation du code de conduite de la CCI lors d'un match de trois séries contre l'Angleterre",
-   "summary": "Le meneur pakistanais Haris Rauf a été condamné à une amende de 20 % de son montant pour avoir enfreint le code de conduite de l'International Cricket Council (ICC) lors du match de trois séries One-day International (ODI) contre l'Angleterre dimanche.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Haris Rauf pénalisé pour violation du code de conduite de l'ICC lors d'un match de trois séries contre l'Angleterre."
+     "text": "Le ministre des Affaires étrangères de Singapour entreprendra une visite officielle au Pakistan le 30 octobre."
     },
     {
      "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
+     "text": "D'accord. Détails?"
     },
     {
      "role": "ANALYST",
-     "text": "Le meneur pakistanais Haris Rauf a été condamné à une amende de 20 % de son montant pour avoir enfreint le code de conduite de l'International Cricket Council (ICC) lors du match de trois séries One-day International (ODI) contre l'Angleterre dimanche."
+     "text": "La ministre des Affaires étrangères de Singapour, Vivian Balakrishnan, entreprendra une visite officielle à Islamabad vendredi 30 octobre à l'invitation du vice-Premier ministre et ministre des Affaires étrangères Ishaq Dar, a annoncé jeudi le ministère des Affaires étrangères (FO)."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
    "type": null,
-   "time": "2026-10-28T15:23:22Z",
+   "time": "2026-10-29T07:10:35Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "israeli-settlers-savagely-attack-journalists-in-",
-   "country": "Israel",
-   "label": "ISRAËL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Des colons israéliens attaquent sauvagement des journalistes en Cisjordanie occupée",
-   "summary": "Des vidéos circulant sur les réseaux sociaux montrent des colons israéliens agressant trois journalistes étrangers en Cisjordanie",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les colons israéliens attaquent sauvagement les journalistes en Cisjordanie occupée."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Des vidéos circulant sur les réseaux sociaux montrent des colons israéliens agressant trois journalistes étrangers en Cisjordanie"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T02:43:29Z",
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "riot-police-deployed-in-madrid-as-protests-erupt",
+   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
    "country": "Spain",
    "label": "ESPAGNE",
    "lat": 40.5,
@@ -429,94 +302,215 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "La police anti-émeute déployée à Madrid alors que des manifestations éclatent suite à un accident de train mortel",
-   "summary": "Un accident de train meurtrier a attisé la colère en Espagne alors que des manifestants d'extrême droite affrontaient la police",
+   "headline": "Ce que nous savons jusqu'à présent sur l'accident ferroviaire mortel en Espagne",
+   "summary": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La police anti-émeute s'est déployée à Madrid alors que des manifestations éclataient suite à un accident de train mortel."
+     "text": "Ce que nous savons jusqu’à présent sur l’accident ferroviaire mortel en Espagne."
     },
     {
      "role": "COMMANDER",
-     "text": "Des victimes ?"
+     "text": "Est-ce confirmé ?"
     },
     {
      "role": "ANALYST",
-     "text": "Un accident de train meurtrier a attisé la colère en Espagne alors que des manifestants d'extrême droite affrontaient la police"
+     "text": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZnNqRWV1SjZMemxDT0pIX1Bqd00zbEdoS1djUWk1aGZYTkxoVm1hTm5GM3p5UV83RFF5clBUWTdBU3YxaDhmVlNuZENPUGhVTDRVLXE5WURSdHM?oc=5",
    "type": null,
-   "time": "2026-10-29T00:36:33Z",
+   "time": "2026-10-29T07:59:20Z",
    "countries": [
     "Spain"
    ]
   },
   {
-   "id": "fed-leaves-interest-rates-unchanged-despite-infl",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "La Fed laisse ses taux d'intérêt inchangés malgré l'inflation aux États-Unis",
-   "summary": "Les taux resteront entre 3,75 et 4 pour cent même si l’inflation continue d’augmenter.",
+   "id": "taiwan-suspects-china-behind-brief-pakistan-airs",
+   "country": "Taiwan",
+   "label": "TAÏWAN",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "info",
+   "category": "World",
+   "headline": "Taïwan « soupçonne » la Chine d’être à l’origine d’une brève interdiction de l’espace aérien au Pakistan",
+   "summary": "Taïwan « soupçonne » la Chine d’être à l’origine d’une brève interdiction de l’espace aérien au Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La Fed laisse ses taux d'intérêt inchangés malgré l'inflation aux États-Unis."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qu'est-ce que cela signifie pour les prix ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les taux resteront entre 3,75 et 4 pour cent même si l’inflation continue d’augmenter."
+     "text": "Taïwan « soupçonne » la Chine d’être à l’origine d’une brève interdiction de l’espace aérien au Pakistan."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSklRV1hMZm5ZY09LbzNRSmtSbTRfTUpkeW9faE5ZM3FVM2JvTmVZOGlmVllYbWdhSFYwSUZwRWRWR1NDZERueWd4alFRVkU2c2hYM25iNmhsdVpQV1Y4b1M5aDI1dF9OZmZTcE83S0RkWFdMa2l3VXpjWDBDZ0hfWVdnckZkaUlSS1JFNGhnb0NOZTJfUEtyNkM0Mi1veEJBaGJpMkNLVjFyams?oc=5",
    "type": null,
-   "time": "2026-10-28T19:05:44Z",
+   "time": "2026-10-29T07:23:44Z",
    "countries": [
-    "United States of America"
+    "Taiwan",
+    "China",
+    "Pakistan"
    ]
   },
   {
-   "id": "fl-vio-bolsonaro-lands-in-miami-after-fleeing-br",
-   "country": "Brazil",
-   "label": "BRÉSIL",
-   "lat": -14.2,
-   "lon": -51.9,
-   "flag": "🇧🇷",
+   "id": "pakistan-saudi-arabia-discuss-agriculture-mining",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "info",
-   "category": "World",
-   "headline": "Flávio Bolsonaro atterrit à Miami après avoir fui le Brésil",
-   "summary": "Le candidat brésilien battu se dit victime d’un coup d’État et de persécutions politiques, recyclant des allégations non fondées de « fraude électorale ».",
+   "category": "Pakistan",
+   "headline": "Le Pakistan et l'Arabie Saoudite discutent de l'agriculture, des investissements miniers et du renforcement des liens commerciaux",
+   "summary": "Le Pakistan et l'Arabie Saoudite discutent de l'agriculture, des investissements miniers et du renforcement des liens commerciaux",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Flávio Bolsonaro atterrit à Miami après avoir fui le Brésil."
+     "text": "Le Pakistan et l'Arabie Saoudite discutent de l'agriculture, des investissements miniers et du renforcement des liens commerciaux."
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d1STVKd2lkbEdoYjlBQ3dTSVFZckJrZkdiTHhvV0pLRVBSN244OVBIRzZhOFdUQjZzbXdQVXFGNlQwQllnYkVOS1F4MzlSbHlsQlZqRXpjSlEzWUpaWVZiRnBTNjYzeEpMQmhKSlNOSnVTQXNxLUN0WFQ5UWEyT0hJcVZlZEJQRVJvZVhRb2E4M1g1cno5OEtoYkJSTVh5cEgzZVRmb3lVNzRzSzR2ZDV5dzlpMGhSZzdVZzBrcDNlSlY4VHc?oc=5",
+   "type": null,
+   "time": "2026-10-29T09:08:16Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "wwe-crown-jewel-moving-locations-amid-attacks-in",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "WWE Crown Jewel déménage au milieu des attaques en Arabie Saoudite",
+   "summary": "WWE Crown Jewel déménage au milieu des attaques en Arabie Saoudite",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "WWE Crown Jewel déménage au milieu des attaques en Arabie Saoudite."
+    }
+   ],
+   "source": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEJueHlSakljWjU3dmladW15eURVVWdCejBOU3FLc3F0LVRlYUdIVUFLdHAtYlZDQjVIdkhXd2hsbDV6QmQ2SzlBeEQybFc4MjRuZ2RBOHVYYzN1R3I3Rk5TejJYWDRHV0daQWhtZzJwY1dCRm9NaU5COUVUaVN4SXc2RVVSaVNhbnRfNDAxV3ViRTlQRFpPblZpYTZlUjlxQUNwaEpxdGZwWG9qUU9wZGFtaTJRVVl3Ymo4Sw?oc=5",
+   "type": null,
+   "time": "2026-10-28T20:33:00Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "uae-holds-interest-rates-after-fed-decision",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Les Émirats arabes unis maintiennent leurs taux d'intérêt après la décision de la Fed",
+   "summary": "Les Émirats arabes unis maintiennent leurs taux d'intérêt après la décision de la Fed",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les Émirats arabes unis maintiennent leurs taux d’intérêt après la décision de la Fed."
+    }
+   ],
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzlEbEM0Y0xtS1pmcHJudUZ3akgxM0FtbXY4d3JaN09hdkM1YjAySjFTS1Y5UnJ3Y0xoVzc3elE2Tm1QVTd3R3I3YzlBYmxxTUIxT0h3RXQyY0hROV8xMGlXZDAwUE1kTExVcW9OQ2tFRlFNcHFkdXNSTnQxVUhjRnFkSmJYbkluU1lCRVJVNHpaNUtqdmxocXZ3?oc=5",
+   "type": null,
+   "time": "2026-10-28T23:15:53Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "middle-east-tensions-push-up-oil-prices-china-ca",
+   "country": "China",
+   "label": "CHINE",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les tensions au Moyen-Orient font monter les prix du pétrole ; La Chine plafonne l'augmentation du prix intérieur du carburant à 345 yuans la tonne",
+   "summary": "Les tensions au Moyen-Orient font monter les prix du pétrole ; La Chine plafonne l'augmentation du prix intérieur du carburant à 345 yuans la tonne",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les tensions au Moyen-Orient font monter les prix du pétrole ; La Chine plafonne l’augmentation du prix intérieur du carburant à 345 yuans par tonne."
+    }
+   ],
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11TGR6LXhFcEN1dW1qck9lOEpkTC1xQUYwM1czVldEQzRtVnRka3FhYUo2WVRVeVZuSkJKeGd3aWNxNS1PWFlWODQ1UUU0N09rVms5eGZaREFpWTFEWUZPajR0R2M4MG9xZTVCc21Ca0NWYk5HaVE?oc=5",
+   "type": null,
+   "time": "2026-10-29T08:06:00Z",
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "north-korea-fires-missiles-as-row-over-landmine-",
+   "country": "North Korea",
+   "label": "CORÉE DU NORD",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "World",
+   "headline": "La Corée du Nord tire des missiles alors que la querelle autour de l'explosion d'une mine terrestre s'intensifie",
+   "summary": "Séoul accuse Pyongyang d'avoir provoqué l'explosion d'une mine terrestre qui a blessé trois de ses soldats, une accusation que Nord nie.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La Corée du Nord tire des missiles alors que la querelle autour de l'explosion d'une mine terrestre s'intensifie."
     },
     {
      "role": "COMMANDER",
-     "text": "Compris. Continue."
+     "text": "Que savons-nous jusqu’à présent ?"
     },
     {
      "role": "ANALYST",
-     "text": "Le candidat brésilien battu se dit victime d’un coup d’État et de persécutions politiques, recyclant des allégations non fondées de « fraude électorale »."
+     "text": "Séoul accuse Pyongyang d'avoir provoqué l'explosion d'une mine terrestre qui a blessé trois de ses soldats, une accusation que Nord nie."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckFQcFh6dl9SaVI2alN6QWgxZ2xIZzNPRVFEd3l6SXZUcUxPbm5xUGF0Z0JEdnNaZUgyeTBaT1JTQXBFeFlPVDFXeEpXeVlPc0E4bGk1Z3pnNmR2bk5KZWVhN3FnY3l2U2pMbWJLZnp1cXJCeW1vOFZlY3V3Zk9MVDdVcTRBTTFPS0FoU2c4c0dYNzdadk84dQ?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
    "type": null,
-   "time": "2026-10-28T23:04:44Z",
+   "time": "2026-10-29T07:24:47Z",
    "countries": [
-    "Brazil"
+    "North Korea",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "how-could-the-oil-spill-off-the-uae-coast-affect",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Comment la marée noire au large des côtes des Émirats arabes unis pourrait-elle affecter les usines de dessalement ?",
+   "summary": "Comment la marée noire au large des côtes des Émirats arabes unis pourrait-elle affecter les usines de dessalement ?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Comment la marée noire au large des côtes des Émirats arabes unis pourrait-elle affecter les usines de dessalement ?"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU5JejdRZjhyTnRhQjVwOFVubXBzeWpJa2JJWkF0MmNKMlg5cWJnUi1FeFN6czdwUEFfTy1UTjRZVU1oS1lLb3ZVa0hlQzU3T3dwZVV1M0JmUTNZVEtfd3hscEVuclQ1UjloZEFWQWRqc2FiOEZpczRYY3V1RmJYaUJFVENfeml6Ymktc29qZW1LOTRSVUl0XzVoU1hfXzN1SUNlVTBiRkVzd0NxWmp6Q2ZvTQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T06:02:00Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   }
  ]
