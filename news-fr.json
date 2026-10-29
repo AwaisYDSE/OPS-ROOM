@@ -1,60 +1,10 @@
 {
- "updated": "2026-10-29T16:58:28.878297Z",
+ "updated": "2026-10-29T21:51:17.856066Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "jake-paul-announces-christmas-eve-comeback-fight",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Jake Paul annonce son combat de retour pour le réveillon de Noël à Dubaï après qu'une mâchoire cassée ait menacé sa carrière",
-   "summary": "Jake Paul annonce son combat de retour pour le réveillon de Noël à Dubaï après qu'une mâchoire cassée ait menacé sa carrière",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Jake Paul annonce son combat de retour pour le réveillon de Noël à Dubaï après qu'une mâchoire cassée ait menacé sa carrière."
-    }
-   ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQURYX1ZHZmJfVHZhRE5sbFR2TEZ2UkVfOFk5cE1sbXQ5eFJUajhlNW1MVVhLUC1TdXZZdFNjZC1ybnROc0pxc0Fqa0kzbUlIQ2NBbkV2TncyVV85Z2tpVlRqdm1QSnhGZ0tFTnlXNTR2RmhKRHRvLVNEV1hUNHZKWUtWNDVLVlVLTmQ0YXZEQTYtcWtfdF85Qm00dnA5MmdVUmtpMVlwSGhHTjBqMGlORHpZNGNyNkFYR0NmdVFkSQ?oc=5",
-   "type": null,
-   "time": "2026-10-29T11:19:54Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "oil-prices-slip-as-vance-letter-to-iran-raises-h",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole chutent alors que la lettre de Vance à l'Iran suscite l'espoir de pourparlers de paix",
-   "summary": "Les prix du pétrole chutent alors que la lettre de Vance à l'Iran suscite l'espoir de pourparlers de paix",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole chutent alors que la lettre de Vance à l'Iran suscite l'espoir de pourparlers de paix."
-    }
-   ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UY1NfUW05dXBJSkduWm44cFBMeTI2cURvN1ppT1JyeVpaNDRZWVJlVkRyR3dIX2hJcnBRZ2lLUmZaMGRmRmR6QzdSYWZrRGh6cmVPWFdrTjZjeVR6dFFEakhRamplRlBCQ0N3WGRTNA?oc=5",
-   "type": null,
-   "time": "2026-10-29T14:19:47Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-drone-attack-on-ukrainian-train-station-",
+   "id": "ukraine-war-continues-despite-trump-s-promise-to",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -62,113 +12,174 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Une attaque de drone russe contre une gare ukrainienne fait au moins 14 morts, selon des responsables",
+   "headline": "La guerre en Ukraine continue malgré la promesse de Trump d’y mettre fin",
+   "summary": "La guerre en Ukraine continue malgré la promesse de Trump d’y mettre fin",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La guerre en Ukraine continue malgré la promesse de Trump d’y mettre fin."
+    }
+   ],
+   "source": "Gray TV",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnBSRnBpVm9iSXVZMEcwSFE3UklTQURGVkM0VDd0enlzR3ZTUjQxXzJQSU91Nkk3c05yLTNzVjBIWXZpT2tiN2hrWk5nV09LV2dmc21CLXhzckdmWVY2VmJoQ1c1OUVvUGY1VjdXNWFwV1c1NXpLM1pLYll3aVgwcTV3Rm4yUnlBZEl4aGlscF9MNEZSXzRkOQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T17:11:00Z",
+   "countries": [
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "spend-christmas-eve-in-dubai-with-jake-paul-for-",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Passez le réveillon de Noël à Dubaï avec Jake Paul pour son retour sur le ring",
+   "summary": "Passez le réveillon de Noël à Dubaï avec Jake Paul pour son retour sur le ring",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Passez le réveillon de Noël à Dubaï avec Jake Paul pour son retour sur le ring."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ25PSXkwZXFVVmRFX2xaS2UxbUxSOTJUQUNVYmV0LTlFb05nbHdGbGI1c2VvdktXSFA2bkJEYTJBRkhsaDVJbmFRZGhvQlFSQU1hcVB3SmJIUGM4aVBHcy0waF9VRGNQREZQY2JnVFk2QkVqYnFQMUJCeTNYSjk4VUNsLTVQUQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T18:50:37Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-sentences-eight-people-to-life-over-arms-sup",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Les Émirats arabes unis condamnent huit personnes à perpétuité pour avoir fourni des armes à l’armée soudanaise",
+   "summary": "Les accusés ont été condamnés à la prison à vie dans un contexte de tensions entre Khartoum et Abou Dhabi à propos de la guerre au Soudan et des RSF.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les Émirats arabes unis condamnent huit personnes à perpétuité pour avoir fourni des armes à l’armée soudanaise."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les accusés ont été condamnés à la prison à vie dans un contexte de tensions entre Khartoum et Abou Dhabi à propos de la guerre au Soudan et des RSF."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T17:25:17Z",
+   "countries": [
+    "United Arab Emirates",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "pakistan-rights-activist-imaan-mazari-and-husban",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "La militante pakistanaise des droits de l'homme Imaan Mazari et son mari condamnés à 10 ans de prison",
+   "summary": "Un couple affirme qu'ils sont des « prisonniers d'opinion » et que les autorités pakistanaises, soutenues par l'armée, en font un exemple.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La militante pakistanaise des droits de l'homme Imaan Mazari et son mari ont été condamnés à 10 ans de prison."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quelle est la situation maintenant ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Un couple affirme qu'ils sont des « prisonniers d'opinion » et que les autorités pakistanaises, soutenues par l'armée, en font un exemple."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T17:28:18Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-prices-ease-as-u-s-seeks-to-renew-diplomacy-",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole baissent alors que les États-Unis cherchent à renouveler leur diplomatie avec l’Iran",
+   "summary": "Les prix du pétrole baissent alors que les États-Unis cherchent à renouveler leur diplomatie avec l’Iran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les prix du pétrole baissent alors que les États-Unis cherchent à renouveler leur diplomatie avec l’Iran."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
+   "type": null,
+   "time": "2026-10-29T19:53:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "russian-drone-kills-14-at-ukraine-train-station-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Un drone russe tue 14 personnes à la gare d'Ukraine, mais la trêve locale attribuée à Melania Trump apporte un peu d'espoir",
    "summary": "Au moins 14 autres personnes ont été blessées lors de l'attaque survenue dans la ville centrale de Dnipro, dont un garçon de 11 ans.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Une attaque de drone russe contre une gare ukrainienne a fait au moins 14 morts, selon des responsables."
+     "text": "Un drone russe tue 14 personnes à la gare d'Ukraine, mais la trêve locale attribuée à Melania Trump apporte un peu d'espoir."
     },
     {
      "role": "COMMANDER",
-     "text": "Des victimes ?"
+     "text": "Qui est derrière tout ça ?"
     },
     {
      "role": "ANALYST",
      "text": "Au moins 14 autres personnes ont été blessées lors de l'attaque survenue dans la ville centrale de Dnipro, dont un garçon de 11 ans."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
    "type": null,
-   "time": "2026-10-29T14:17:35Z",
+   "time": "2026-10-29T16:33:00Z",
    "countries": [
     "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "L'Iran affirme que 3 pétroliers ont heurté des mines et autres informations sur le Moyen-Orient",
-   "summary": "L'Iran affirme que 3 pétroliers ont heurté des mines et autres informations sur le Moyen-Orient",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'Iran affirme que 3 pétroliers ont heurté des mines, et d'autres informations au Moyen-Orient."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
-   "type": null,
-   "time": "2026-10-29T13:51:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "oil-tanker-catches-fire-after-hitting-naval-mine",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Un pétrolier prend feu après avoir heurté des mines navales près du détroit d'Ormuz (marine iranienne)",
-   "summary": "Un pétrolier prend feu après avoir heurté des mines navales près du détroit d'Ormuz (marine iranienne)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Un pétrolier prend feu après avoir heurté des mines navales près du détroit d'Ormuz : marine iranienne."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:06:03Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-china-sign-agreement-to-operationalise-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le Pakistan et la Chine signent un accord pour opérationnaliser le canal vert à la frontière de Sost-Khunjerab",
-   "summary": "ISLAMABAD : Le Pakistan et la Chine ont signé un accord pour opérationnaliser une voie verte à la frontière de Sost-Khunjerab pour les produits agricoles et connexes afin de faciliter le commerce bilatéral.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan et la Chine signent un accord pour opérationnaliser le canal vert à la frontière de Sost-Khunjerab."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Pourquoi ce déménagement ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD : Le Pakistan et la Chine ont signé un accord pour opérationnaliser une voie verte à la frontière de Sost-Khunjerab pour les produits agricoles et connexes afin de faciliter le commerce bilatéral."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
-   "type": null,
-   "time": "2026-10-29T10:42:26Z",
-   "countries": [
-    "Pakistan",
-    "China"
+    "Russia",
+    "United States of America"
    ]
   },
   {
@@ -198,7 +209,33 @@
    ]
   },
   {
-   "id": "how-to-stop-the-us-israel-war-on-iran",
+   "id": "saudi-citizen-injured-in-riyadh-by-falling-debri",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Un citoyen saoudien blessé à Riyad par la chute de débris de missiles balistiques Houthis interceptés : Défense civile",
+   "summary": "Un citoyen saoudien blessé à Riyad par la chute de débris de missiles balistiques Houthis interceptés : Défense civile",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Citoyen saoudien blessé à Riyad par la chute de débris de missiles balistiques Houthis interceptés : Défense civile."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUd6dlFRRGp0WHFabmtpRFRtdUxQMU9oWTdsUG9Od2FDLWgxdjJNbmFKX05NZm5iZUMyYnFyaGE1VlpsNGZwa242cVBIM3AxX3pKUTRONE1FV3AtYnhpRWtJcDl2SHBVVVM2SXBBY2FkT05ER1ZselVEZzlXa2FaM3pBdWpJcjZoVGtMbDQ3TF9BVmRvU0FScWhScGdYRV9wSERibFY4T3FNSHVVUVRYUHc1Vm5WNkx2MUZSRVNTb0FDQlRGRS02ak0yeTJrLXc3d3pCbEI4WHRMcE5PajJLVWczYWlGUQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T21:18:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "exclusive-top-admiral-briefs-trump-on-iran-attac",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
@@ -206,52 +243,176 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Comment arrêter la guerre américano-israélienne contre l’Iran",
-   "summary": "Comment arrêter la guerre américano-israélienne contre l’Iran",
+   "headline": "Exclusif | L'amiral informe Trump des options d'attaque contre l'Iran",
+   "summary": "Exclusif | L'amiral informe Trump des options d'attaque contre l'Iran",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Comment arrêter la guerre américano-israélienne contre l’Iran."
+     "text": "Exclusif | Le meilleur amiral informe Trump des options d’attaque contre l’Iran."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5",
    "type": null,
-   "time": "2026-10-29T07:59:36Z",
+   "time": "2026-10-29T20:30:59Z",
    "countries": [
     "United States of America",
-    "Israel",
     "Iran"
    ]
   },
   {
-   "id": "evolving-scope-of-the-china-pakistan-economic-co",
+   "id": "pakistan-china-sign-agreement-to-operationalise-",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Évolution de la portée du corridor économique Chine-Pakistan - The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "summary": "Évolution de la portée du corridor économique Chine-Pakistan - The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Le Pakistan et la Chine signent un accord pour opérationnaliser le canal vert à la frontière de Sost-Khunjerab",
+   "summary": "ISLAMABAD : Le Pakistan et la Chine ont signé un accord pour opérationnaliser une voie verte à la frontière de Sost-Khunjerab pour les produits agricoles et connexes afin de faciliter le commerce bilatéral.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Évolution de la portée du corridor économique Chine-Pakistan - The Diplomat – Asia-Pacific Current Affairs Magazine."
+     "text": "Le Pakistan et la Chine signent un accord pour opérationnaliser le canal vert à la frontière de Sost-Khunjerab."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qu'est-ce que cela signifie pour les prix ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD : Le Pakistan et la Chine ont signé un accord pour opérationnaliser une voie verte à la frontière de Sost-Khunjerab pour les produits agricoles et connexes afin de faciliter le commerce bilatéral."
     }
    ],
-   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdXclR5WlJMSVB3R0tOTnNMNDhGV2hZOU15bXlGemd2c2tQR0FBZFRtTDlTWGQyc3d4Z2U0XzBpUTJTRmZZd0VrMXdWTUQ0dzFWa3U1bzl1VjVENjB0Vk1SZnozWC1qY3Vsa1FRMEtUbXh5VXJBUW1fNFZiSHJ2blR1cGx6RnluTFN0V1ZBTlU?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
    "type": null,
-   "time": "2026-10-29T11:55:28Z",
+   "time": "2026-10-29T10:42:26Z",
    "countries": [
     "Pakistan",
     "China"
    ]
   },
   {
-   "id": "hegseth-fires-pentagon-s-top-military-planner-ov",
+   "id": "at-least-14-people-killed-in-attack-on-ukraine-t",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Ukraine: au moins 14 personnes tuées dans une attaque contre une gare",
+   "summary": "Une frappe de drone russe a tué au moins 14 personnes à la gare principale de Dnipro, dans le centre de l’Ukraine.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Au moins 14 personnes ont été tuées dans l'attaque d'une gare ferroviaire en Ukraine."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Une frappe de drone russe a tué au moins 14 personnes à la gare principale de Dnipro, dans le centre de l’Ukraine."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T18:03:21Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "-not-related-to-defence-govt-responds-to-fazl-s-",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "\"Non lié à la défense\": le gouvernement répond aux remarques de Fazl sur la réunion des pays du pacte de La Mecque à Téhéran",
+   "summary": "Les ministres fédéraux ont répondu jeudi aux remarques du chef du Jamiat Ulema-i-Islam-Fazl (JUI-F), Maulana Fazlur Rehman, concernant un récent rassemblement à Téhéran comprenant les pays du pacte de défense de La Mecque et l’Iran.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "« Sans rapport avec la défense » : le gouvernement répond aux remarques de Fazl sur la réunion des pays du pacte de La Mecque à Téhéran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les ministres fédéraux ont répondu jeudi aux remarques du chef du Jamiat Ulema-i-Islam-Fazl (JUI-F), Maulana Fazlur Rehman, concernant un récent rassemblement à Téhéran comprenant les pays du pacte de défense de La Mecque et l’Iran."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040695/not-related-to-defence-govt-responds-to-fazls-remarks-about-makkah-pact-countries-meeting-in-tehran",
+   "type": null,
+   "time": "2026-10-29T20:04:50Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L'Iran affirme que 3 pétroliers ont heurté des mines et autres informations sur le Moyen-Orient",
+   "summary": "L'Iran affirme que 3 pétroliers ont heurté des mines et autres informations sur le Moyen-Orient",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Iran affirme que 3 pétroliers ont heurté des mines, et d'autres informations au Moyen-Orient."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
+   "type": null,
+   "time": "2026-10-29T19:58:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "umrah-tinubu-arrives-in-saudi-arabia",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Omra : Tinubu arrive en Arabie Saoudite",
+   "summary": "Omra : Tinubu arrive en Arabie Saoudite",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Omra : Tinubu arrive en Arabie Saoudite."
+    }
+   ],
+   "source": "Channels Television",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ25qNnZCdDVXdG81QWYzQlhUSWZpYnVDNC14eVBWbkIzTFk4Y0dMcGZQb2gwRHNyNzg3dFR6UklhR2s1RTdhYTlVYURmRUlCOXI1WlQxSWhPRUNZMEVkRVlOSm15UExlbDJlamFnSDZVa2NKRkp2T0RnQ1I4N1pZYg?oc=5",
+   "type": null,
+   "time": "2026-10-29T20:43:28Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "senator-briefed-on-trump-s-iran-war-plans-warns-",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
@@ -259,32 +420,85 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Hegseth licencie le principal planificateur militaire du Pentagone suite à ce qu'un responsable considère comme des fuites dans les médias",
-   "summary": "Les États-Unis ont licencié un haut responsable militaire, ont rapporté les médias américains, certains médias affirmant que ce licenciement était dû au fait que l'officier aurait divulgué des informations classifiées.",
+   "headline": "Le sénateur informé des plans de guerre de Trump en Iran met en garde contre une « escalade dévastatrice »",
+   "summary": "Le sénateur informé des plans de guerre de Trump en Iran met en garde contre une « escalade dévastatrice »",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Hegseth licencie le principal planificateur militaire du Pentagone en raison de ce qu'un responsable considère comme des fuites dans les médias."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les États-Unis ont licencié un haut responsable militaire, ont rapporté les médias américains, certains médias affirmant que ce licenciement était dû au fait que l'officier aurait divulgué des informations classifiées."
+     "text": "Le sénateur informé des plans de guerre de Trump en Iran met en garde contre une « escalade dévastatrice »."
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
+   "source": "Truthout",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU01saVVYbXpiSkpURHhpSy1TYWxvUGZ6ejlRblFBUDZHejRtYlo0endWeGNlZ2Z3bUtmbTd4RXBxOXFsR1hfdlo5VUZHYU1lWmxrSlF5eUh1WTlSN1pRdGRHa1NlZTh0YUhfR0dvVHBZM0duNXBheW03cW13Y0VZOU03R0dtNUM2dWtGR1k5dmpRUURFRm1XNmVQMDRCSEZlOUFQTm5B?oc=5",
    "type": null,
-   "time": "2026-10-29T14:37:08Z",
+   "time": "2026-10-29T20:17:00Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "audio-reveals-exchanges-between-control-centre-a",
+   "id": "pentagon-fires-general-it-says-leaked-classified",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "Le Pentagone limoge un général qui aurait divulgué des informations classifiées aux médias",
+   "summary": "Le lieutenant-général Brett Sylvia a fait l'objet d'une enquête suite à des fuites d'informations sur l'Iran et l'Ukraine.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pentagone licencie un général qui aurait divulgué des informations classifiées aux médias."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Donnez-moi les détails."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le lieutenant-général Brett Sylvia a fait l'objet d'une enquête suite à des fuites d'informations sur l'Iran et l'Ukraine."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T19:02:19Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "exclusive-exxon-chevron-cancel-executive-trips-t",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "EXCLUSIF : Exxon et Chevron annulent les voyages de dirigeants à l'ADIPEC des Émirats arabes unis, selon des sources",
+   "summary": "EXCLUSIF : Exxon et Chevron annulent les voyages de dirigeants à l'ADIPEC des Émirats arabes unis, selon des sources",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "EXCLUSIF : Exxon et Chevron annulent les voyages de dirigeants à l'ADIPEC des Émirats arabes unis, selon des sources."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkZqUUpRX3h5ZFY0MnN4dkkyR0VnVjRVdHBpQTdaV2piMjl2dkM3ZDZLTS1JLVdaeWx6WWxzaWVxS1N2OF9EVW5RUVRhdVBRS2ZWZ2xFbTJyU1Ztc1haWWtoejJxLXJnbXdBaVJXQ0NwbEtydVktRW83WEkwUkJXS1ZpQmNPV21sVGZ4N2dLSk5vOTJnblRFMXlISUVWZWFqYmFFWDd6Z3VXUXc?oc=5",
+   "type": null,
+   "time": "2026-10-29T18:20:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "audio-reveals-exchanges-between-spain-train-oper",
    "country": "Spain",
    "label": "ESPAGNE",
    "lat": 40.5,
@@ -292,20 +506,20 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident mortel d'un train en Espagne",
-   "summary": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne.",
+   "headline": "L'audio révèle des échanges entre les opérateurs ferroviaires espagnols et les conducteurs quelques instants avant l'accident mortel",
+   "summary": "Les enregistrements divulgués semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler à vitesse normale, même si un autre train devant lui était en panne.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'audio révèle des échanges entre le centre de contrôle et les conducteurs avant l'accident ferroviaire mortel en Espagne."
+     "text": "L'audio révèle des échanges entre les opérateurs ferroviaires espagnols et les conducteurs quelques instants avant l'accident mortel."
     },
     {
      "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
+     "text": "Que savons-nous jusqu’à présent ?"
     },
     {
      "role": "ANALYST",
-     "text": "Les enregistrements semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler même si un autre train devant lui était en panne."
+     "text": "Les enregistrements divulgués semblent montrer qu'un train à grande vitesse a reçu l'autorisation de circuler à vitesse normale, même si un autre train devant lui était en panne."
     }
    ],
    "source": "bbc.co.uk",
@@ -314,227 +528,6 @@
    "time": "2026-10-29T11:07:35Z",
    "countries": [
     "Spain"
-   ]
-  },
-  {
-   "id": "youtube-star-jake-paul-returns-to-boxing-after-j",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "La star de YouTube Jake Paul revient à la boxe après la défaite de Joshua pour le combat à Dubaï",
-   "summary": "L'Américain Jake Paul sera la tête d'affiche de l'événement de boxe du réveillon de Noël à Dubaï, son adversaire n'ayant pas encore été annoncé.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La star de YouTube, Jake Paul, revient à la boxe après la défaite de Joshua pour le combat à Dubaï."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Compris. Continue."
-    },
-    {
-     "role": "ANALYST",
-     "text": "L'Américain Jake Paul sera la tête d'affiche de l'événement de boxe du réveillon de Noël à Dubaï, son adversaire n'ayant pas encore été annoncé."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T13:54:18Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "standard-asset-company-unveils-1-5b-bitcoin-and-",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Standard Asset Company dévoile une stratégie immobilière de 1,5 milliard de dollars en Bitcoin et aux Émirats arabes unis",
-   "summary": "Standard Asset Company dévoile une stratégie immobilière de 1,5 milliard de dollars en Bitcoin et aux Émirats arabes unis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Standard Asset Company dévoile une stratégie immobilière de 1,5 milliard de dollars en Bitcoin et aux Émirats arabes unis."
-    }
-   ],
-   "source": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHTV84cGZSRFBtZkI4UktVc1ZqNDBuUTRYdHRHLUVNZ29Dd0Y0YlRtdVFPR0lrY0d3VS1iRnY0dTJvczNyMTV4TVJTUzYzMFM1QlNnbnVuTkhoc3RwaVN5UUFWNlhTTnJENUlNSWE2R1A1bFppYzZwdnBOZi13dw?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:36:44Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "ethiopia-acquires-russian-fighter-jets-and-air-d",
-   "country": "Ethiopia",
-   "label": "ETHIOPIE",
-   "lat": 9.1,
-   "lon": 40.5,
-   "flag": "🇪🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "L’Éthiopie acquiert des avions de combat et des systèmes de défense aérienne russes au milieu de la guerre au Tigré",
-   "summary": "L’acquisition des avions de guerre intervient au milieu des combats en cours dans la région du nord du Tigré qui ont commencé le mois dernier.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Éthiopie acquiert des avions de combat et des systèmes de défense aérienne russes au milieu de la guerre au Tigré."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "L’acquisition des avions de guerre intervient au milieu des combats en cours dans la région du nord du Tigré qui ont commencé le mois dernier."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-29T08:23:31Z",
-   "countries": [
-    "Ethiopia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "hegseth-fires-top-pentagon-strategist-accused-of",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Hegseth licencie un haut stratège du Pentagone accusé d'avoir divulgué des informations classifiées sur la guerre entre l'Iran et l'Ukraine",
-   "summary": "Hegseth licencie un haut stratège du Pentagone accusé d'avoir divulgué des informations classifiées sur la guerre entre l'Iran et l'Ukraine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Hegseth licencie un haut stratège du Pentagone accusé d'avoir divulgué des informations classifiées sur la guerre entre l'Iran et l'Ukraine."
-    }
-   ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdndkUVJlajlyeUd2NkUyUktXSERnbzE3d3FMSjJqdXozbTU3SHo5ZVlNMGlYQVhNZVV6X1BSa2VWMUEtZEpjYlJ3UGVYc0dfZU41aFNwZVl4MG1DVGJPeDJ1Vl9xZFdGZ0FobTZWZDlXNnQzdWU1S2RaZk9yOURnMW1MSEptbWJzMkFzMm93cXpmS25zdjZrWW1BUFJoTjNkUXZWYzhmVW5QUVJQZlJEUmpGZ2Y0MnVxS0xwdXNGd0N0T0ZK0gHKAUFVX3lxTE1FZ2ZvYkxpa253QjR4WUxlOVNUemxmbGVfNHRNdlpiaUFvcm9IUlB5V0duNDVhY0M4RXE3TlBYZXFhbVg4aDZleUUwMmJtVDRFS2NIcGY3eWNyNmdvZ1ZUeEdwOGplQlJtZmlZcUYyMEtFSnh6dGRVS29ESkd1Tnl5ZXl3MnQ4b29aR2UxTEpXYWY4SW9WWTVNQlZwRjZhTkdPazc0eUk2dDhRM3lMNHlZM1pzT0szRndONXQyNGlOOUxMNGdRdmVpd0E?oc=5",
-   "type": null,
-   "time": "2026-10-29T13:08:37Z",
-   "countries": [
-    "United States of America",
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "spanish-long-jumper-julieta-gallego-among-victim",
-   "country": "Spain",
-   "label": "ESPAGNE",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "La sauteuse en longueur espagnole Julieta Gallego parmi les victimes d'une collision ferroviaire mortelle",
-   "summary": "Julieta Gallego, qui concourait pour AD Sprint, basée à Madrid, fait partie des personnes tuées dans un accident de train en Espagne.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La sauteuse en longueur espagnole Julieta Gallego parmi les victimes d'une collision ferroviaire mortelle."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Julieta Gallego, qui concourait pour AD Sprint, basée à Madrid, fait partie des personnes tuées dans un accident de train en Espagne."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T15:18:38Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-strikes-hit-gaza-as-health-ministry-urge",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Les frappes israéliennes frappent Gaza alors que le ministère de la Santé demande l'ouverture de Rafah",
-   "summary": "Le ministère de la Santé de Gaza affirme que des dizaines de personnes sont mortes en attendant d'être soignées à l'étranger alors que les attaques israéliennes se poursuivent malgré un « cessez-le-feu ».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les frappes israéliennes frappent Gaza alors que le ministère de la Santé demande l'ouverture de Rafah."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le ministère de la Santé de Gaza affirme que des dizaines de personnes sont mortes en attendant d'être soignées à l'étranger alors que les attaques israéliennes se poursuivent malgré un « cessez-le-feu »."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T15:12:36Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "damascus-amman-contradict-each-other-on-attack-t",
-   "country": "Syria",
-   "label": "SYRIE",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Damas et Amman se contredisent sur l'attaque qui a tué des civils",
-   "summary": "Les analystes affirment que la responsabilité est nécessaire pour apaiser l’indignation du public face au meurtre d’une famille dans le sud de la Syrie.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Damas et Amman se contredisent sur une attaque qui a tué des civils."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les analystes affirment que la responsabilité est nécessaire pour apaiser l’indignation du public face au meurtre d’une famille dans le sud de la Syrie."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T13:44:42Z",
-   "countries": [
-    "Syria",
-    "Jordan"
    ]
   }
  ]

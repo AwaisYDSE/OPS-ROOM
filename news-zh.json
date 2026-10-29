@@ -1,60 +1,10 @@
 {
- "updated": "2026-10-29T16:58:28.878297Z",
+ "updated": "2026-10-29T21:51:17.856066Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "jake-paul-announces-christmas-eve-comeback-fight",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "杰克·保罗在下巴骨折威胁到他的职业生涯后宣布平安夜在迪拜复出",
-   "summary": "杰克·保罗在下巴骨折威胁到他的职业生涯后宣布平安夜在迪拜复出",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "杰克·保罗在下巴骨折威胁到他的职业生涯后，宣布圣诞夜将在迪拜复出。"
-    }
-   ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQURYX1ZHZmJfVHZhRE5sbFR2TEZ2UkVfOFk5cE1sbXQ5eFJUajhlNW1MVVhLUC1TdXZZdFNjZC1ybnROc0pxc0Fqa0kzbUlIQ2NBbkV2TncyVV85Z2tpVlRqdm1QSnhGZ0tFTnlXNTR2RmhKRHRvLVNEV1hUNHZKWUtWNDVLVlVLTmQ0YXZEQTYtcWtfdF85Qm00dnA5MmdVUmtpMVlwSGhHTjBqMGlORHpZNGNyNkFYR0NmdVFkSQ?oc=5",
-   "type": null,
-   "time": "2026-10-29T11:19:54Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "oil-prices-slip-as-vance-letter-to-iran-raises-h",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "万斯致伊朗的信增加了和平谈判的希望，油价下跌",
-   "summary": "万斯致伊朗的信增加了和平谈判的希望，油价下跌",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "由于万斯致伊朗的信增加了和平谈判的希望，油价下跌。"
-    }
-   ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UY1NfUW05dXBJSkduWm44cFBMeTI2cURvN1ppT1JyeVpaNDRZWVJlVkRyR3dIX2hJcnBRZ2lLUmZaMGRmRmR6QzdSYWZrRGh6cmVPWFdrTjZjeVR6dFFEakhRamplRlBCQ0N3WGRTNA?oc=5",
-   "type": null,
-   "time": "2026-10-29T14:19:47Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-drone-attack-on-ukrainian-train-station-",
+   "id": "ukraine-war-continues-despite-trump-s-promise-to",
    "country": "Ukraine",
    "label": "乌克兰",
    "lat": 49.0,
@@ -62,113 +12,174 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "官员称俄罗斯无人机袭击乌克兰火车站至少14人死亡",
+   "headline": "尽管特朗普承诺结束乌克兰战争，但乌克兰战争仍在继续",
+   "summary": "尽管特朗普承诺结束乌克兰战争，但乌克兰战争仍在继续",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "尽管特朗普承诺结束乌克兰战争，但乌克兰战争仍在继续。"
+    }
+   ],
+   "source": "Gray TV",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnBSRnBpVm9iSXVZMEcwSFE3UklTQURGVkM0VDd0enlzR3ZTUjQxXzJQSU91Nkk3c05yLTNzVjBIWXZpT2tiN2hrWk5nV09LV2dmc21CLXhzckdmWVY2VmJoQ1c1OUVvUGY1VjdXNWFwV1c1NXpLM1pLYll3aVgwcTV3Rm4yUnlBZEl4aGlscF9MNEZSXzRkOQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T17:11:00Z",
+   "countries": [
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "spend-christmas-eve-in-dubai-with-jake-paul-for-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "与杰克·保罗一起在迪拜度过圣诞夜，迎接他重返拳台",
+   "summary": "与杰克·保罗一起在迪拜度过圣诞夜，迎接他重返拳台",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "与杰克·保罗一起在迪拜度过圣诞夜，迎接他重返擂台。"
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ25PSXkwZXFVVmRFX2xaS2UxbUxSOTJUQUNVYmV0LTlFb05nbHdGbGI1c2VvdktXSFA2bkJEYTJBRkhsaDVJbmFRZGhvQlFSQU1hcVB3SmJIUGM4aVBHcy0waF9VRGNQREZQY2JnVFk2QkVqYnFQMUJCeTNYSjk4VUNsLTVQUQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T18:50:37Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-sentences-eight-people-to-life-over-arms-sup",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "阿联酋因向苏丹军队提供武器而判处八人终身监禁",
+   "summary": "在喀土穆和阿布扎比之间因苏丹战争和无国界部队而关系紧张之际，被告被判处无期徒刑。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋因向苏丹军队提供武器而判处八人终身监禁。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "在喀土穆和阿布扎比之间因苏丹战争和无国界部队而关系紧张之际，被告被判处无期徒刑。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T17:25:17Z",
+   "countries": [
+    "United Arab Emirates",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "pakistan-rights-activist-imaan-mazari-and-husban",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "巴基斯坦维权人士伊曼·马扎里 (Imaan Mazari) 和丈夫被判入狱 10 年",
+   "summary": "夫妇俩表示，他们是“良心犯”，被巴基斯坦军方支持的当局作为榜样。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦人权活动家伊曼·马扎里 (Imaan Mazari) 和丈夫被判入狱 10 年。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "现在情况如何？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "夫妇俩表示，他们是“良心犯”，被巴基斯坦军方支持的当局作为榜样。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/pakistan-rights-activist-imaan-mazari-and-husband-jailed-for-10-years?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T17:28:18Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-prices-ease-as-u-s-seeks-to-renew-diplomacy-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "美国寻求与伊朗恢复外交关系，油价下跌",
+   "summary": "美国寻求与伊朗恢复外交关系，油价下跌",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着美国寻求与伊朗恢复外交关系，油价下跌。"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
+   "type": null,
+   "time": "2026-10-29T19:53:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "russian-drone-kills-14-at-ukraine-train-station-",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "俄罗斯无人机在乌克兰火车站造成 14 人死亡，但梅拉尼娅·特朗普促成的当地停火协议带来了一些希望",
    "summary": "中部城市第聂伯罗的袭击事件中至少有 14 人受伤，其中包括一名 11 岁男孩。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "官员称，俄罗斯无人机袭击乌克兰火车站，造成至少 14 人死亡。"
+     "text": "俄罗斯无人机在乌克兰火车站造成 14 人死亡，但梅拉尼娅·特朗普促成的当地停火协议带来了一些希望。"
     },
     {
      "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
+     "text": "背后是谁？"
     },
     {
      "role": "ANALYST",
      "text": "中部城市第聂伯罗的袭击事件中至少有 14 人受伤，其中包括一名 11 岁男孩。"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
    "type": null,
-   "time": "2026-10-29T14:17:35Z",
+   "time": "2026-10-29T16:33:00Z",
    "countries": [
     "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗称三艘油轮触雷，以及其他中东新闻",
-   "summary": "伊朗称三艘油轮触雷，以及其他中东新闻",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗称三艘油轮触雷，以及其他中东新闻。"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
-   "type": null,
-   "time": "2026-10-29T13:51:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "oil-tanker-catches-fire-after-hitting-naval-mine",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗海军：油轮在霍尔木兹海峡附近触雷后起火",
-   "summary": "伊朗海军：油轮在霍尔木兹海峡附近触雷后起火",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "油轮在霍尔木兹海峡附近触雷后起火：伊朗海军。"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:06:03Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-china-sign-agreement-to-operationalise-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "巴基斯坦和中国签署南红其拉甫边境绿色通道运营协议",
-   "summary": "伊斯兰堡：巴基斯坦和中国签署了一项协议，将在南红其拉甫边境运营农产品和相关产品绿色通道，以促进双边贸易。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦和中国签署协议，在南红其拉甫边境开通绿色通道。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "伊斯兰堡：巴基斯坦和中国签署了一项协议，将在南红其拉甫边境运营农产品和相关产品绿色通道，以促进双边贸易。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
-   "type": null,
-   "time": "2026-10-29T10:42:26Z",
-   "countries": [
-    "Pakistan",
-    "China"
+    "Russia",
+    "United States of America"
    ]
   },
   {
@@ -198,7 +209,33 @@
    ]
   },
   {
-   "id": "how-to-stop-the-us-israel-war-on-iran",
+   "id": "saudi-citizen-injured-in-riyadh-by-falling-debri",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "沙特公民在利雅得被拦截的胡塞弹道导弹碎片砸伤：民防",
+   "summary": "沙特公民在利雅得被拦截的胡塞弹道导弹碎片砸伤：民防",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "沙特公民在利雅得被拦截的胡塞弹道导弹碎片砸伤：民防。"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeUd6dlFRRGp0WHFabmtpRFRtdUxQMU9oWTdsUG9Od2FDLWgxdjJNbmFKX05NZm5iZUMyYnFyaGE1VlpsNGZwa242cVBIM3AxX3pKUTRONE1FV3AtYnhpRWtJcDl2SHBVVVM2SXBBY2FkT05ER1ZselVEZzlXa2FaM3pBdWpJcjZoVGtMbDQ3TF9BVmRvU0FScWhScGdYRV9wSERibFY4T3FNSHVVUVRYUHc1Vm5WNkx2MUZSRVNTb0FDQlRGRS02ak0yeTJrLXc3d3pCbEI4WHRMcE5PajJLVWczYWlGUQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T21:18:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "exclusive-top-admiral-briefs-trump-on-iran-attac",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -206,52 +243,176 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "如何阻止美以对伊朗的战争",
-   "summary": "如何阻止美以对伊朗的战争",
+   "headline": "独家|高级海军上将向特朗普介绍伊朗袭击方案",
+   "summary": "独家|高级海军上将向特朗普介绍伊朗袭击方案",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "如何阻止美以对伊朗的战争。"
+     "text": "独家|高级海军上将向特朗普介绍了伊朗的攻击选择。"
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5",
    "type": null,
-   "time": "2026-10-29T07:59:36Z",
+   "time": "2026-10-29T20:30:59Z",
    "countries": [
     "United States of America",
-    "Israel",
     "Iran"
    ]
   },
   {
-   "id": "evolving-scope-of-the-china-pakistan-economic-co",
+   "id": "pakistan-china-sign-agreement-to-operationalise-",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "中巴经济走廊范围的不断演变 - 外交官 – 亚太时事杂志",
-   "summary": "中巴经济走廊范围的不断演变 - 外交官 – 亚太时事杂志",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "巴基斯坦和中国签署南红其拉甫边境绿色通道运营协议",
+   "summary": "伊斯兰堡：巴基斯坦和中国签署了一项协议，将在南红其拉甫边境运营农产品和相关产品绿色通道，以促进双边贸易。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "中巴经济走廊不断发展的范围 - 外交官 - 亚太时事杂志。"
+     "text": "巴基斯坦和中国签署协议，在南红其拉甫边境开通绿色通道。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "伊斯兰堡：巴基斯坦和中国签署了一项协议，将在南红其拉甫边境运营农产品和相关产品绿色通道，以促进双边贸易。"
     }
    ],
-   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdXclR5WlJMSVB3R0tOTnNMNDhGV2hZOU15bXlGemd2c2tQR0FBZFRtTDlTWGQyc3d4Z2U0XzBpUTJTRmZZd0VrMXdWTUQ0dzFWa3U1bzl1VjVENjB0Vk1SZnozWC1qY3Vsa1FRMEtUbXh5VXJBUW1fNFZiSHJ2blR1cGx6RnluTFN0V1ZBTlU?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
    "type": null,
-   "time": "2026-10-29T11:55:28Z",
+   "time": "2026-10-29T10:42:26Z",
    "countries": [
     "Pakistan",
     "China"
    ]
   },
   {
-   "id": "hegseth-fires-pentagon-s-top-military-planner-ov",
+   "id": "at-least-14-people-killed-in-attack-on-ukraine-t",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "乌克兰火车站遇袭 至少14人死亡",
+   "summary": "俄罗斯无人机袭击乌克兰中部第聂伯罗主要火车站，造成至少 14 人死亡。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "乌克兰火车站袭击事件造成至少14人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "俄罗斯无人机袭击乌克兰中部第聂伯罗主要火车站，造成至少 14 人死亡。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T18:03:21Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "-not-related-to-defence-govt-responds-to-fazl-s-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "“与国防无关”：政府回应法兹尔有关麦加条约国家德黑兰会议的言论",
+   "summary": "周四，联邦部长们回应了伊斯兰法兹尔联盟 (JUI-F) 主席毛拉纳·法兹鲁尔·拉赫曼 (Maulana Fazlur Rehman) 关于最近由麦加防务条约国家和伊朗在德黑兰举行的集会的言论。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "“与国防无关”：政府回应法兹尔有关麦加条约国家在德黑兰举行会议的言论。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周四，联邦部长们回应了伊斯兰法兹尔联盟 (JUI-F) 主席毛拉纳·法兹鲁尔·拉赫曼 (Maulana Fazlur Rehman) 关于最近由麦加防务条约国家和伊朗在德黑兰举行的集会的言论。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040695/not-related-to-defence-govt-responds-to-fazls-remarks-about-makkah-pact-countries-meeting-in-tehran",
+   "type": null,
+   "time": "2026-10-29T20:04:50Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗称三艘油轮触雷，以及其他中东新闻",
+   "summary": "伊朗称三艘油轮触雷，以及其他中东新闻",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗称三艘油轮触雷，以及其他中东新闻。"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
+   "type": null,
+   "time": "2026-10-29T19:58:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "umrah-tinubu-arrives-in-saudi-arabia",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "副朝：蒂努布抵达沙特阿拉伯",
+   "summary": "副朝：蒂努布抵达沙特阿拉伯",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "副朝：蒂努布抵达沙特阿拉伯。"
+    }
+   ],
+   "source": "Channels Television",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ25qNnZCdDVXdG81QWYzQlhUSWZpYnVDNC14eVBWbkIzTFk4Y0dMcGZQb2gwRHNyNzg3dFR6UklhR2s1RTdhYTlVYURmRUlCOXI1WlQxSWhPRUNZMEVkRVlOSm15UExlbDJlamFnSDZVa2NKRkp2T0RnQ1I4N1pZYg?oc=5",
+   "type": null,
+   "time": "2026-10-29T20:43:28Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "senator-briefed-on-trump-s-iran-war-plans-warns-",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -259,32 +420,85 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "赫格斯解雇了五角大楼最高军事规划师，原因是官员称向媒体泄露了信息",
-   "summary": "据美国媒体报道，美国解雇了一名高级军事策划人员，一些媒体称，解雇原因是该军官涉嫌泄露机密信息。",
+   "headline": "听取特朗普伊朗战争计划简报的参议员警告“毁灭性升级”",
+   "summary": "听取特朗普伊朗战争计划简报的参议员警告“毁灭性升级”",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "赫格斯解雇了五角大楼最高军事规划师，原因是官员称其向媒体泄密。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "据美国媒体报道，美国解雇了一名高级军事策划人员，一些媒体称，解雇原因是该军官涉嫌泄露机密信息。"
+     "text": "听取特朗普伊朗战争计划简报的参议员警告“毁灭性的升级”。"
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
+   "source": "Truthout",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU01saVVYbXpiSkpURHhpSy1TYWxvUGZ6ejlRblFBUDZHejRtYlo0endWeGNlZ2Z3bUtmbTd4RXBxOXFsR1hfdlo5VUZHYU1lWmxrSlF5eUh1WTlSN1pRdGRHa1NlZTh0YUhfR0dvVHBZM0duNXBheW03cW13Y0VZOU03R0dtNUM2dWtGR1k5dmpRUURFRm1XNmVQMDRCSEZlOUFQTm5B?oc=5",
    "type": null,
-   "time": "2026-10-29T14:37:08Z",
+   "time": "2026-10-29T20:17:00Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "audio-reveals-exchanges-between-control-centre-a",
+   "id": "pentagon-fires-general-it-says-leaked-classified",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "五角大楼解雇将军，称其向媒体泄露机密信息",
+   "summary": "陆军中将布雷特·西尔维娅因泄露有关伊朗和乌克兰的信息而受到调查。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "五角大楼解雇了一名将军，称其向媒体泄露了机密信息。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "给我详细信息。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "陆军中将布雷特·西尔维娅因泄露有关伊朗和乌克兰的信息而受到调查。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T19:02:19Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "exclusive-exxon-chevron-cancel-executive-trips-t",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "独家：消息人士称，埃克森美孚、雪佛龙取消了前往阿联酋 ADIPEC 的高管旅行",
+   "summary": "独家：消息人士称，埃克森美孚、雪佛龙取消了前往阿联酋 ADIPEC 的高管旅行",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "独家报道：消息人士称，埃克森美孚、雪佛龙取消了前往阿联酋 ADIPEC 的高管旅行。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkZqUUpRX3h5ZFY0MnN4dkkyR0VnVjRVdHBpQTdaV2piMjl2dkM3ZDZLTS1JLVdaeWx6WWxzaWVxS1N2OF9EVW5RUVRhdVBRS2ZWZ2xFbTJyU1Ztc1haWWtoejJxLXJnbXdBaVJXQ0NwbEtydVktRW83WEkwUkJXS1ZpQmNPV21sVGZ4N2dLSk5vOTJnblRFMXlISUVWZWFqYmFFWDd6Z3VXUXc?oc=5",
+   "type": null,
+   "time": "2026-10-29T18:20:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "audio-reveals-exchanges-between-spain-train-oper",
    "country": "Spain",
    "label": "西班牙",
    "lat": 40.5,
@@ -292,20 +506,20 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "音频显示西班牙致命火车事故前控制中心和司机之间的交流",
-   "summary": "录音似乎显示，尽管前面的另一列高速列车已经熄火，但一列高速列车已获准行驶。",
+   "headline": "音频揭示了致命事故发生前西班牙火车运营商和司机之间的交流",
+   "summary": "泄露的录音带似乎显示，一列高速列车已获准以正常速度行驶，尽管前方另一列列车已经熄火。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "音频揭示了西班牙致命火车事故前控制中心和司机之间的交流。"
+     "text": "音频揭示了致命事故发生前西班牙火车运营商和司机之间的交流。"
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "到目前为止我们知道什么？"
     },
     {
      "role": "ANALYST",
-     "text": "录音似乎显示，尽管前面的另一列高速列车已经熄火，但一列高速列车已获准行驶。"
+     "text": "泄露的录音带似乎显示，一列高速列车已获准以正常速度行驶，尽管前方另一列列车已经熄火。"
     }
    ],
    "source": "bbc.co.uk",
@@ -314,227 +528,6 @@
    "time": "2026-10-29T11:07:35Z",
    "countries": [
     "Spain"
-   ]
-  },
-  {
-   "id": "youtube-star-jake-paul-returns-to-boxing-after-j",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "约书亚在迪拜比赛中失利后，YouTube 明星杰克·保罗重返拳击场",
-   "summary": "美国杰克·保罗将成为迪拜圣诞夜拳击赛事的主角，但他的对手尚未公布。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "在约书亚在迪拜拳击赛中失利后，YouTube 明星杰克·保罗重返拳击场。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "明白了。继续。"
-    },
-    {
-     "role": "ANALYST",
-     "text": "美国杰克·保罗将成为迪拜圣诞夜拳击赛事的主角，但他的对手尚未公布。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T13:54:18Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "standard-asset-company-unveils-1-5b-bitcoin-and-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "标准资产公司推出 1.5B 美元比特币和阿联酋房地产战略",
-   "summary": "标准资产公司推出 1.5B 美元比特币和阿联酋房地产战略",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "标准资产公司推出 1.5B 美元比特币和阿联酋房地产战略。"
-    }
-   ],
-   "source": "Crypto News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHTV84cGZSRFBtZkI4UktVc1ZqNDBuUTRYdHRHLUVNZ29Dd0Y0YlRtdVFPR0lrY0d3VS1iRnY0dTJvczNyMTV4TVJTUzYzMFM1QlNnbnVuTkhoc3RwaVN5UUFWNlhTTnJENUlNSWE2R1A1bFppYzZwdnBOZi13dw?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:36:44Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "ethiopia-acquires-russian-fighter-jets-and-air-d",
-   "country": "Ethiopia",
-   "label": "埃塞俄比亚",
-   "lat": 9.1,
-   "lon": 40.5,
-   "flag": "🇪🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "埃塞俄比亚在提格雷战争中购买了俄罗斯战斗机和防空系统",
-   "summary": "这些战机的采购正值提格雷北部地区上个月开始的持续战斗之际。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "埃塞俄比亚在提格雷战争中购买了俄罗斯战斗机和防空系统。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "这些战机的采购正值提格雷北部地区上个月开始的持续战斗之际。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-29T08:23:31Z",
-   "countries": [
-    "Ethiopia",
-    "Russia"
-   ]
-  },
-  {
-   "id": "hegseth-fires-top-pentagon-strategist-accused-of",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "赫格斯解雇了被指控泄露伊朗和乌克兰战争机密信息的五角大楼高级战略家",
-   "summary": "赫格斯解雇了被指控泄露伊朗和乌克兰战争机密信息的五角大楼高级战略家",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "赫格斯解雇了被指控泄露伊朗和乌克兰战争机密信息的五角大楼高级战略家。"
-    }
-   ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdndkUVJlajlyeUd2NkUyUktXSERnbzE3d3FMSjJqdXozbTU3SHo5ZVlNMGlYQVhNZVV6X1BSa2VWMUEtZEpjYlJ3UGVYc0dfZU41aFNwZVl4MG1DVGJPeDJ1Vl9xZFdGZ0FobTZWZDlXNnQzdWU1S2RaZk9yOURnMW1MSEptbWJzMkFzMm93cXpmS25zdjZrWW1BUFJoTjNkUXZWYzhmVW5QUVJQZlJEUmpGZ2Y0MnVxS0xwdXNGd0N0T0ZK0gHKAUFVX3lxTE1FZ2ZvYkxpa253QjR4WUxlOVNUemxmbGVfNHRNdlpiaUFvcm9IUlB5V0duNDVhY0M4RXE3TlBYZXFhbVg4aDZleUUwMmJtVDRFS2NIcGY3eWNyNmdvZ1ZUeEdwOGplQlJtZmlZcUYyMEtFSnh6dGRVS29ESkd1Tnl5ZXl3MnQ4b29aR2UxTEpXYWY4SW9WWTVNQlZwRjZhTkdPazc0eUk2dDhRM3lMNHlZM1pzT0szRndONXQyNGlOOUxMNGdRdmVpd0E?oc=5",
-   "type": null,
-   "time": "2026-10-29T13:08:37Z",
-   "countries": [
-    "United States of America",
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "spanish-long-jumper-julieta-gallego-among-victim",
-   "country": "Spain",
-   "label": "西班牙",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "西班牙跳远运动员朱丽叶塔·加莱戈（Julieta Gallego）是火车相撞事故的受害者之一",
-   "summary": "参加马德里 AD Sprint 比赛的朱丽叶塔·加莱戈 (Julieta Gallego) 是在西班牙火车相撞事故中丧生的人之一。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "西班牙跳远运动员朱丽叶塔·加列戈是火车相撞事故的受害者之一。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "参加马德里 AD Sprint 比赛的朱丽叶塔·加莱戈 (Julieta Gallego) 是在西班牙火车相撞事故中丧生的人之一。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T15:18:38Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-strikes-hit-gaza-as-health-ministry-urge",
-   "country": "Palestine",
-   "label": "巴勒斯坦",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "以色列空袭加沙，卫生部敦促拉法开放",
-   "summary": "加沙卫生部表示，尽管“停火”，但以色列的袭击仍在继续，数十人在国外等待治疗时死亡。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "卫生部敦促拉法开放，以色列袭击加沙。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "加沙卫生部表示，尽管“停火”，但以色列的袭击仍在继续，数十人在国外等待治疗时死亡。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T15:12:36Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "damascus-amman-contradict-each-other-on-attack-t",
-   "country": "Syria",
-   "label": "叙利亚",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "大马士革和安曼在造成平民死亡的袭击事件上相互矛盾",
-   "summary": "分析人士表示，需要追究责任，以平息公众对叙利亚南部家庭被杀事件的愤怒。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "大马士革和安曼在造成平民死亡的袭击事件上相互矛盾。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "分析人士表示，需要追究责任，以平息公众对叙利亚南部家庭被杀事件的愤怒。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-29T13:44:42Z",
-   "countries": [
-    "Syria",
-    "Jordan"
    ]
   }
  ]
