@@ -1,65 +1,200 @@
 {
- "updated": "2026-10-29T10:08:04.544074Z",
+ "updated": "2026-10-29T16:58:28.878297Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "iran-update-october-28-2026",
+   "id": "jake-paul-announces-christmas-eve-comeback-fight",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "أعلن جيك بول عن عودته للقتال عشية عيد الميلاد في دبي بعد أن هدد كسر الفك مسيرته المهنية",
+   "summary": "أعلن جيك بول عن عودته للقتال عشية عيد الميلاد في دبي بعد أن هدد كسر الفك مسيرته المهنية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "أعلن جيك بول عن عودته للقتال عشية عيد الميلاد في دبي بعد أن هدد كسر الفك مسيرته المهنية."
+    }
+   ],
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQURYX1ZHZmJfVHZhRE5sbFR2TEZ2UkVfOFk5cE1sbXQ5eFJUajhlNW1MVVhLUC1TdXZZdFNjZC1ybnROc0pxc0Fqa0kzbUlIQ2NBbkV2TncyVV85Z2tpVlRqdm1QSnhGZ0tFTnlXNTR2RmhKRHRvLVNEV1hUNHZKWUtWNDVLVlVLTmQ0YXZEQTYtcWtfdF85Qm00dnA5MmdVUmtpMVlwSGhHTjBqMGlORHpZNGNyNkFYR0NmdVFkSQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T11:19:54Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-slip-as-vance-letter-to-iran-raises-h",
    "country": "Iran",
    "label": "إيران",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "تحديث إيران، 28 أكتوبر/تشرين الأول 2026",
-   "summary": "تحديث إيران، 28 أكتوبر/تشرين الأول 2026",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "تراجع أسعار النفط بعد أن أثارت رسالة فانس إلى إيران الآمال في محادثات السلام",
+   "summary": "تراجع أسعار النفط بعد أن أثارت رسالة فانس إلى إيران الآمال في محادثات السلام",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "تحديث إيران، 28 أكتوبر/تشرين الأول 2026."
+     "text": "تراجع أسعار النفط بعد أن أثارت رسالة فانس إلى إيران الآمال في محادثات السلام."
     }
    ],
-   "source": "Institute for the Study of War",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUt1SnRaTTREU1ZlUS1TTVhuS2QzVGg1UHRrWGc2UTNkUDRZY3Y1QUREU3FielhZanZEY0h0OUxONWpyMEJldGtuU2ItZ3o4RnBvTnZQdDV2dkFrSkpZanVmU1g2WW9yMlVNRGxCaEZ4a1pYVEwyRDcyY3VEOC1lS2tRU28?oc=5",
+   "source": "Quartz",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UY1NfUW05dXBJSkduWm44cFBMeTI2cURvN1ppT1JyeVpaNDRZWVJlVkRyR3dIX2hJcnBRZ2lLUmZaMGRmRmR6QzdSYWZrRGh6cmVPWFdrTjZjeVR6dFFEakhRamplRlBCQ0N3WGRTNA?oc=5",
    "type": null,
-   "time": "2026-10-29T03:15:39Z",
+   "time": "2026-10-29T14:19:47Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "-economic-incentives-are-limited-what-does-russi",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "russian-drone-attack-on-ukrainian-train-station-",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
    "category": "World",
-   "headline": "\"الحوافز الاقتصادية محدودة\": ما الذي تقدمه روسيا لأفريقيا حقاً؟",
-   "summary": "تدرس الدول الأفريقية الحوافز السياسية حيث تقدم موسكو فوائد اقتصادية محدودة مقارنة بالصين والغرب.",
+   "headline": "قال مسؤولون إن هجومًا بطائرة روسية بدون طيار على محطة قطار أوكرانية أسفر عن مقتل 14 شخصًا على الأقل",
+   "summary": "وأصيب ما لا يقل عن 14 آخرين في الهجوم الذي وقع في مدينة دنيبرو بوسط البلاد، من بينهم صبي يبلغ من العمر 11 عاما.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "\"الحوافز الاقتصادية محدودة\": ماذا تقدم روسيا لأفريقيا حقاً؟."
+     "text": "قال مسؤولون إن هجومًا بطائرة روسية بدون طيار على محطة قطار أوكرانية أسفر عن مقتل 14 شخصًا على الأقل."
     },
     {
      "role": "COMMANDER",
-     "text": "مفهوم. استمر."
+     "text": "هل هناك ضحايا؟"
     },
     {
      "role": "ANALYST",
-     "text": "تدرس الدول الأفريقية الحوافز السياسية حيث تقدم موسكو فوائد اقتصادية محدودة مقارنة بالصين والغرب."
+     "text": "وأصيب ما لا يقل عن 14 آخرين في الهجوم الذي وقع في مدينة دنيبرو بوسط البلاد، من بينهم صبي يبلغ من العمر 11 عاما."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-29T08:14:34Z",
+   "time": "2026-10-29T14:17:35Z",
    "countries": [
-    "Russia",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً، وأخبار أخرى في الشرق الأوسط",
+   "summary": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً، وأخبار أخرى في الشرق الأوسط",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً، وأخبار أخرى في الشرق الأوسط"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
+   "type": null,
+   "time": "2026-10-29T13:51:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "oil-tanker-catches-fire-after-hitting-naval-mine",
+   "country": "Iran",
+   "label": "مضيق هرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "اشتعلت النيران في ناقلة نفط بعد اصطدامها بلغم بحري قرب مضيق هرمز: البحرية الإيرانية",
+   "summary": "اشتعلت النيران في ناقلة نفط بعد اصطدامها بلغم بحري قرب مضيق هرمز: البحرية الإيرانية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "اشتعلت النيران في ناقلة نفط بعد اصطدامها بلغم بحري قرب مضيق هرمز: البحرية الإيرانية."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
+   "type": null,
+   "time": "2026-10-29T16:06:03Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-china-sign-agreement-to-operationalise-",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "باكستان والصين توقعان اتفاقية لتشغيل القناة الخضراء على حدود سوست-خونجراب",
+   "summary": "إسلام أباد: وقعت باكستان والصين اتفاقية لتشغيل قناة خضراء على حدود سوست-خونجراب للمنتجات الزراعية والمنتجات المرتبطة بها لتسهيل التجارة الثنائية.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "باكستان والصين توقعان اتفاقية لتشغيل القناة الخضراء على حدود سوست-خونجراب."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "لماذا هذه الخطوة؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "إسلام أباد: وقعت باكستان والصين اتفاقية لتشغيل قناة خضراء على حدود سوست-خونجراب للمنتجات الزراعية والمنتجات المرتبطة بها لتسهيل التجارة الثنائية."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
+   "type": null,
+   "time": "2026-10-29T10:42:26Z",
+   "countries": [
+    "Pakistan",
     "China"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-discuss-investment-in-agri",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "باكستان والسعودية تناقشان الاستثمار في الزراعة والمعادن والتعدين",
+   "summary": "باكستان والسعودية تناقشان الاستثمار في الزراعة والمعادن والتعدين",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "باكستان والسعودية تناقشان الاستثمار في الزراعة والمعادن والتعدين."
+    }
+   ],
+   "source": "The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTRGVXVRcjBYd3VmNU5qUElrQm5raVNGb2NCODIwSW82b2tLMEd0WHZnOVhiQjNOSEk5Xy1MelRfYXFsNTdleWgxekRRSkQ1QkRZS3R0cmxva2VVeFlaWUhNZlRiZm5tVldLVFAwWjAwbVd4MklZN3k3OG4tX1o3SWRMNEQzenV3X1BpQVdZcmpfNjhKRjlNQU1NM1dRdUtWbnR6ZUl3TnAyUFVNdG1abTRR?oc=5",
+   "type": null,
+   "time": "2026-10-29T12:05:07Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
    ]
   },
   {
@@ -72,25 +207,17 @@
    "severity": "critical",
    "category": "World",
    "headline": "كيفية وقف الحرب الأمريكية الإسرائيلية على إيران",
-   "summary": "ويجب على الدول العربية أن ترفض الهيمنة الإسرائيلية وأن تبني إطاراً أمنياً إقليمياً مستقلاً عن واشنطن.",
+   "summary": "كيفية وقف الحرب الأمريكية الإسرائيلية على إيران",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "كيفية وقف الحرب الأمريكية الإسرائيلية على إيران."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ويجب على الدول العربية أن ترفض الهيمنة الإسرائيلية وأن تبني إطاراً أمنياً إقليمياً مستقلاً عن واشنطن."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
    "type": null,
-   "time": "2026-10-29T07:54:51Z",
+   "time": "2026-10-29T07:59:36Z",
    "countries": [
     "United States of America",
     "Israel",
@@ -98,203 +225,66 @@
    ]
   },
   {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية",
-   "summary": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
-   "type": null,
-   "time": "2026-10-29T07:01:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "houthi-ballistic-missile-targeting-eastern-saudi",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "التحالف: اعتراض صاروخ باليستي حوثي استهدف شرق السعودية",
-   "summary": "التحالف: اعتراض صاروخ باليستي حوثي استهدف شرق السعودية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "التحالف: اعتراض صاروخ باليستي حوثي استهدف شرق السعودية."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRvVmRLZjViRzBDS19yM1pjV1lfR21memhUdi1zVGlva3lvY0F1NmhDZVhLNG9ROFdrb1IxYkR2emJMUFQ1c0U4MHF4bnVIaFlhMEFtUHMySVM3LUU4MzQ0ck1MQXlwSGtMdHN0SnZ1cjdFU1BwNk1vcFZVOU83MHZDWFJ6TUcwM1Q3TUNJdWhLa1RoMmw1Zm0tOVgyc0s4WWJTaS1FQUZiTTBtcVBkZE5jbC1NM09EOUlqYmVkQQ?oc=5",
-   "type": null,
-   "time": "2026-10-29T01:28:01Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "us-warns-allies-to-prepare-for-possible-iran-str",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "تقول مصادر في وكالة أسوشيتد برس إن الولايات المتحدة تحذر حلفائها من الاستعداد لضربات إيرانية محتملة والانتقام بعد الانتخابات",
-   "summary": "تقول مصادر في وكالة أسوشيتد برس إن الولايات المتحدة تحذر حلفائها من الاستعداد لضربات إيرانية محتملة والانتقام بعد الانتخابات",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تقول مصادر في وكالة أسوشيتد برس إن الولايات المتحدة تحذر حلفائها من الاستعداد لضربات إيرانية محتملة والانتقام بعد الانتخابات."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-   "type": null,
-   "time": "2026-10-29T02:58:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "north-korea-fires-missile-barrage-toward-the-sea",
-   "country": "North Korea",
-   "label": "كوريا الشمالية",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "critical",
-   "category": "World",
-   "headline": "كوريا الشمالية تطلق وابلاً من الصواريخ باتجاه البحر مع تصاعد التوترات مع الجنوب",
-   "summary": "كوريا الشمالية تطلق وابلاً من الصواريخ باتجاه البحر مع تصاعد التوترات مع الجنوب",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "كوريا الشمالية تطلق وابلاً من الصواريخ باتجاه البحر مع تصاعد التوترات مع الجنوب."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
-   "type": null,
-   "time": "2026-10-29T09:52:00Z",
-   "countries": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "sri-lanka-wins-toss-fields-against-england-in-pa",
+   "id": "evolving-scope-of-the-china-pakistan-economic-co",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "info",
-   "category": "Sports",
-   "headline": "سريلانكا تفوز بإرم الحقول ضد إنجلترا في سلسلة الكريكيت الثلاثية الباكستانية",
-   "summary": "سريلانكا تفوز بإرم الحقول ضد إنجلترا في سلسلة الكريكيت الثلاثية الباكستانية",
+   "category": "Pakistan",
+   "headline": "النطاق المتطور للممر الاقتصادي الصيني الباكستاني",
+   "summary": "النطاق المتطور للممر الاقتصادي الصيني الباكستاني",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "سريلانكا تفوز بإرم الحقول ضد إنجلترا في سلسلة الكريكيت الثلاثية الباكستانية."
+     "text": "النطاق المتطور للممر الاقتصادي الصيني الباكستاني – الدبلوماسي – مجلة شؤون آسيا والمحيط الهادئ الحالية."
     }
    ],
-   "source": "10TV",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSkxVM2JsWWF4d2ZTRGV6Tmt6MTVzeGZTaXZjVVMtNzFXczlvVmdCOW1zV2hvcmZiRGVDVURFb1kteE9CblFBMk5Iek9jS0ptWUxRWmRidTFzNUhnWUhxcV95dnN4bjEtREo1cjdEZ25qVWFvYS16NlRvdlFMQ3RZdm12b2tKbE80MHdvT3N4Z2RiMlRJVEJkdWo4WWdJMU05cXlvUHd6WGszT1FWWktTNHV2YUxEZmlwRDN4RUdGNHlMZHU1aU1fNF9sTmxXZGhDcnQ1dWlFanVfaUFublNyRmJhVEtoUWJKenNRaFdPVEFxUWxjZnRQQjRNQ1lERjh4?oc=5",
+   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdXclR5WlJMSVB3R0tOTnNMNDhGV2hZOU15bXlGemd2c2tQR0FBZFRtTDlTWGQyc3d4Z2U0XzBpUTJTRmZZd0VrMXdWTUQ0dzFWa3U1bzl1VjVENjB0Vk1SZnozWC1qY3Vsa1FRMEtUbXh5VXJBUW1fNFZiSHJ2blR1cGx6RnluTFN0V1ZBTlU?oc=5",
    "type": null,
-   "time": "2026-10-29T08:09:00Z",
+   "time": "2026-10-29T11:55:28Z",
    "countries": [
     "Pakistan",
-    "Sri Lanka"
+    "China"
    ]
   },
   {
-   "id": "obama-and-trump-spar-at-rallies-in-georgia-and-o",
+   "id": "hegseth-fires-pentagon-s-top-military-planner-ov",
    "country": "United States of America",
    "label": "الولايات المتحدة",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
    "severity": "critical",
-   "category": "Business",
-   "headline": "أوباما وترامب يتشاحنان في التجمعات الحاشدة في جورجيا وأوهايو: النقاط الرئيسية",
-   "summary": "وتبادل أوباما وترامب الانتقادات اللاذعة بشأن حرب إيران والتعريفات الجمركية وقاعة البيت الأبيض قبل انتخابات التجديد النصفي الأمريكية.",
+   "category": "World",
+   "headline": "يقيل هيجسيث كبير المخططين العسكريين في البنتاغون بسبب ما يقول المسؤول إنها تسريبات لوسائل الإعلام",
+   "summary": "ذكرت وسائل إعلام أمريكية أن الولايات المتحدة فصلت أحد كبار المخططين العسكريين، وقالت بعض وسائل الإعلام إن الفصل يرجع إلى مزاعم عن قيام الضابط بتسريب معلومات سرية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أوباما وترامب يتشاحنان في التجمعات الحاشدة في جورجيا وأوهايو: النقاط الرئيسية."
+     "text": "يقيل هيجسيث كبير المخططين العسكريين في البنتاغون بسبب ما يقول المسؤول إنها تسريبات لوسائل الإعلام."
     },
     {
      "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
+     "text": "من يقف وراء ذلك؟"
     },
     {
      "role": "ANALYST",
-     "text": "وتبادل أوباما وترامب الانتقادات اللاذعة بشأن حرب إيران والتعريفات الجمركية وقاعة البيت الأبيض قبل انتخابات التجديد النصفي الأمريكية."
+     "text": "ذكرت وسائل إعلام أمريكية أن الولايات المتحدة فصلت أحد كبار المخططين العسكريين، وقالت بعض وسائل الإعلام إن الفصل يرجع إلى مزاعم عن قيام الضابط بتسريب معلومات سرية."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
    "type": null,
-   "time": "2026-10-29T08:51:30Z",
+   "time": "2026-10-29T14:37:08Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "United States of America"
    ]
   },
   {
-   "id": "singapore-foreign-minister-to-undertake-official",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "وزير خارجية سنغافورة يقوم بزيارة رسمية لباكستان يوم 30 أكتوبر",
-   "summary": "قالت وزارة الخارجية السنغافورية يوم الخميس إن وزير الخارجية السنغافوري الدكتور فيفيان بالاكريشنان سيقوم بزيارة رسمية إلى إسلام آباد يوم الجمعة (30 أكتوبر) بدعوة من نائب رئيس الوزراء ووزير الخارجية إسحاق دار.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وزير خارجية سنغافورة يقوم بزيارة رسمية لباكستان يوم 30 أكتوبر"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "حسنا. تفاصيل؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "قالت وزارة الخارجية السنغافورية يوم الخميس إن وزير الخارجية السنغافوري الدكتور فيفيان بالاكريشنان سيقوم بزيارة رسمية إلى إسلام آباد يوم الجمعة (30 أكتوبر) بدعوة من نائب رئيس الوزراء ووزير الخارجية إسحاق دار."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
-   "type": null,
-   "time": "2026-10-29T07:10:35Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "id": "audio-reveals-exchanges-between-control-centre-a",
    "country": "Spain",
    "label": "اسبانيا",
    "lat": 40.5,
@@ -302,110 +292,32 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "ما نعرفه حتى الآن عن حادث قطار إسبانيا المميت",
+   "headline": "يكشف الصوت عن التبادلات بين مركز التحكم والسائقين قبل حادث قطار إسبانيا المميت",
    "summary": "ويبدو أن التسجيلات تظهر أن أحد القطارات فائقة السرعة قد حصل على تصريح للتحرك على الرغم من توقف قطار آخر أمامه.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ما نعرفه حتى الآن عن حادث قطار إسبانيا المميت."
+     "text": "يكشف الصوت عن التبادلات بين مركز التحكم والسائقين قبل حادث قطار إسبانيا المميت."
     },
     {
      "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
+     "text": "من يقف وراء ذلك؟"
     },
     {
      "role": "ANALYST",
      "text": "ويبدو أن التسجيلات تظهر أن أحد القطارات فائقة السرعة قد حصل على تصريح للتحرك على الرغم من توقف قطار آخر أمامه."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZnNqRWV1SjZMemxDT0pIX1Bqd00zbEdoS1djUWk1aGZYTkxoVm1hTm5GM3p5UV83RFF5clBUWTdBU3YxaDhmVlNuZENPUGhVTDRVLXE5WURSdHM?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-29T07:59:20Z",
+   "time": "2026-10-29T11:07:35Z",
    "countries": [
     "Spain"
    ]
   },
   {
-   "id": "taiwan-suspects-china-behind-brief-pakistan-airs",
-   "country": "Taiwan",
-   "label": "تايوان",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "info",
-   "category": "World",
-   "headline": "تايوان \"تشتبه\" في أن الصين تقف وراء الحظر الجوي القصير الذي فرضته باكستان على المجال الجوي",
-   "summary": "تايوان \"تشتبه\" في أن الصين تقف وراء الحظر الجوي القصير الذي فرضته باكستان على المجال الجوي",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تايوان \"تشتبه\" في أن الصين تقف وراء الحظر الجوي القصير الذي فرضته باكستان على المجال الجوي"
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSklRV1hMZm5ZY09LbzNRSmtSbTRfTUpkeW9faE5ZM3FVM2JvTmVZOGlmVllYbWdhSFYwSUZwRWRWR1NDZERueWd4alFRVkU2c2hYM25iNmhsdVpQV1Y4b1M5aDI1dF9OZmZTcE83S0RkWFdMa2l3VXpjWDBDZ0hfWVdnckZkaUlSS1JFNGhnb0NOZTJfUEtyNkM0Mi1veEJBaGJpMkNLVjFyams?oc=5",
-   "type": null,
-   "time": "2026-10-29T07:23:44Z",
-   "countries": [
-    "Taiwan",
-    "China",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-saudi-arabia-discuss-agriculture-mining",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "باكستان والمملكة العربية السعودية تناقشان الاستثمار في الزراعة والتعدين وتعزيز العلاقات التجارية",
-   "summary": "باكستان والمملكة العربية السعودية تناقشان الاستثمار في الزراعة والتعدين وتعزيز العلاقات التجارية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "باكستان والمملكة العربية السعودية تناقشان الاستثمار في الزراعة والتعدين وتعزيز العلاقات التجارية."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d1STVKd2lkbEdoYjlBQ3dTSVFZckJrZkdiTHhvV0pLRVBSN244OVBIRzZhOFdUQjZzbXdQVXFGNlQwQllnYkVOS1F4MzlSbHlsQlZqRXpjSlEzWUpaWVZiRnBTNjYzeEpMQmhKSlNOSnVTQXNxLUN0WFQ5UWEyT0hJcVZlZEJQRVJvZVhRb2E4M1g1cno5OEtoYkJSTVh5cEgzZVRmb3lVNzRzSzR2ZDV5dzlpMGhSZzdVZzBrcDNlSlY4VHc?oc=5",
-   "type": null,
-   "time": "2026-10-29T09:08:16Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "wwe-crown-jewel-moving-locations-amid-attacks-in",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية",
-   "summary": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية."
-    }
-   ],
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEJueHlSakljWjU3dmladW15eURVVWdCejBOU3FLc3F0LVRlYUdIVUFLdHAtYlZDQjVIdkhXd2hsbDV6QmQ2SzlBeEQybFc4MjRuZ2RBOHVYYzN1R3I3Rk5TejJYWDRHV0daQWhtZzJwY1dCRm9NaU5COUVUaVN4SXc2RVVSaVNhbnRfNDAxV3ViRTlQRFpPblZpYTZlUjlxQUNwaEpxdGZwWG9qUU9wZGFtaTJRVVl3Ymo4Sw?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:33:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "uae-holds-interest-rates-after-fed-decision",
+   "id": "youtube-star-jake-paul-returns-to-boxing-after-j",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
@@ -413,104 +325,216 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "الإمارات العربية المتحدة تثبت أسعار الفائدة بعد قرار بنك الاحتياطي الفيدرالي",
-   "summary": "الإمارات العربية المتحدة تثبت أسعار الفائدة بعد قرار بنك الاحتياطي الفيدرالي",
+   "headline": "يعود نجم اليوتيوب جيك بول إلى الملاكمة بعد خسارة جوشوا في نزال دبي",
+   "summary": "الأمريكي جيك بول سيتصدر حدث الملاكمة عشية عيد الميلاد في دبي، ولم يتم الإعلان عن خصمه بعد.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الإمارات العربية المتحدة تثبت أسعار الفائدة بعد قرار بنك الاحتياطي الفيدرالي."
-    }
-   ],
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzlEbEM0Y0xtS1pmcHJudUZ3akgxM0FtbXY4d3JaN09hdkM1YjAySjFTS1Y5UnJ3Y0xoVzc3elE2Tm1QVTd3R3I3YzlBYmxxTUIxT0h3RXQyY0hROV8xMGlXZDAwUE1kTExVcW9OQ2tFRlFNcHFkdXNSTnQxVUhjRnFkSmJYbkluU1lCRVJVNHpaNUtqdmxocXZ3?oc=5",
-   "type": null,
-   "time": "2026-10-28T23:15:53Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "middle-east-tensions-push-up-oil-prices-china-ca",
-   "country": "China",
-   "label": "الصين",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "التوترات في الشرق الأوسط تدفع أسعار النفط إلى الارتفاع؛ الصين تحدد سقفًا لزيادة أسعار الوقود المحلية عند 345 يوانًا للطن",
-   "summary": "التوترات في الشرق الأوسط تدفع أسعار النفط إلى الارتفاع؛ الصين تحدد سقفًا لزيادة أسعار الوقود المحلية عند 345 يوانًا للطن",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "التوترات في الشرق الأوسط تدفع أسعار النفط إلى الارتفاع؛ الصين تحدد سقفًا لزيادة أسعار الوقود المحلية عند 345 يوانًا للطن"
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11TGR6LXhFcEN1dW1qck9lOEpkTC1xQUYwM1czVldEQzRtVnRka3FhYUo2WVRVeVZuSkJKeGd3aWNxNS1PWFlWODQ1UUU0N09rVms5eGZaREFpWTFEWUZPajR0R2M4MG9xZTVCc21Ca0NWYk5HaVE?oc=5",
-   "type": null,
-   "time": "2026-10-29T08:06:00Z",
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "north-korea-fires-missiles-as-row-over-landmine-",
-   "country": "North Korea",
-   "label": "كوريا الشمالية",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "critical",
-   "category": "World",
-   "headline": "كوريا الشمالية تطلق صواريخ مع اشتداد الخلاف حول انفجار لغم أرضي",
-   "summary": "وتتهم سيول بيونغ يانغ بالتسبب في انفجار لغم أرضي أدى إلى إصابة ثلاثة من جنودها، وهو ما تنفيه كوريا الشمالية.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "كوريا الشمالية تطلق صواريخ مع اشتداد الخلاف حول انفجار لغم أرضي."
+     "text": "يعود نجم اليوتيوب جيك بول إلى الملاكمة بعد خسارة جوشوا في نزال دبي."
     },
     {
      "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
+     "text": "مفهوم. استمر."
     },
     {
      "role": "ANALYST",
-     "text": "وتتهم سيول بيونغ يانغ بالتسبب في انفجار لغم أرضي أدى إلى إصابة ثلاثة من جنودها، وهو ما تنفيه كوريا الشمالية."
+     "text": "الأمريكي جيك بول سيتصدر حدث الملاكمة عشية عيد الميلاد في دبي، ولم يتم الإعلان عن خصمه بعد."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T07:24:47Z",
+   "time": "2026-10-29T13:54:18Z",
    "countries": [
-    "North Korea",
-    "South Korea"
+    "United Arab Emirates",
+    "United States of America"
    ]
   },
   {
-   "id": "how-could-the-oil-spill-off-the-uae-coast-affect",
+   "id": "standard-asset-company-unveils-1-5b-bitcoin-and-",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "كيف يمكن أن يؤثر التسرب النفطي قبالة سواحل الإمارات على محطات تحلية المياه؟",
-   "summary": "كيف يمكن أن يؤثر التسرب النفطي قبالة سواحل الإمارات على محطات تحلية المياه؟",
+   "category": "Tech",
+   "headline": "تكشف شركة Standard Asset Company عن استراتيجية عقارية بقيمة 1.5 مليار دولار من البيتكوين والإمارات العربية المتحدة",
+   "summary": "تكشف شركة Standard Asset Company عن استراتيجية عقارية بقيمة 1.5 مليار دولار من البيتكوين والإمارات العربية المتحدة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "كيف يمكن أن يؤثر التسرب النفطي قبالة سواحل الإمارات على محطات تحلية المياه؟."
+     "text": "تكشف شركة Standard Asset Company عن استراتيجية عقارية بقيمة 1.5 مليار دولار من البيتكوين والإمارات العربية المتحدة."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU5JejdRZjhyTnRhQjVwOFVubXBzeWpJa2JJWkF0MmNKMlg5cWJnUi1FeFN6czdwUEFfTy1UTjRZVU1oS1lLb3ZVa0hlQzU3T3dwZVV1M0JmUTNZVEtfd3hscEVuclQ1UjloZEFWQWRqc2FiOEZpczRYY3V1RmJYaUJFVENfeml6Ymktc29qZW1LOTRSVUl0XzVoU1hfXzN1SUNlVTBiRkVzd0NxWmp6Q2ZvTQ?oc=5",
+   "source": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHTV84cGZSRFBtZkI4UktVc1ZqNDBuUTRYdHRHLUVNZ29Dd0Y0YlRtdVFPR0lrY0d3VS1iRnY0dTJvczNyMTV4TVJTUzYzMFM1QlNnbnVuTkhoc3RwaVN5UUFWNlhTTnJENUlNSWE2R1A1bFppYzZwdnBOZi13dw?oc=5",
    "type": null,
-   "time": "2026-10-29T06:02:00Z",
+   "time": "2026-10-29T16:36:44Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ethiopia-acquires-russian-fighter-jets-and-air-d",
+   "country": "Ethiopia",
+   "label": "إثيوبيا",
+   "lat": 9.1,
+   "lon": 40.5,
+   "flag": "🇪🇹",
+   "severity": "critical",
+   "category": "World",
+   "headline": "إثيوبيا تحصل على طائرات مقاتلة وأنظمة دفاع جوي روسية وسط الحرب في تيغراي",
+   "summary": "ويأتي الحصول على الطائرات الحربية وسط القتال المستمر في منطقة تيغراي الشمالية الذي بدأ الشهر الماضي.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إثيوبيا تحصل على طائرات مقاتلة وأنظمة دفاع جوي روسية وسط الحرب في تيغراي."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويأتي الحصول على الطائرات الحربية وسط القتال المستمر في منطقة تيغراي الشمالية الذي بدأ الشهر الماضي."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-29T08:23:31Z",
+   "countries": [
+    "Ethiopia",
+    "Russia"
+   ]
+  },
+  {
+   "id": "hegseth-fires-top-pentagon-strategist-accused-of",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "هيجسيث يقيل كبير الخبراء الاستراتيجيين في البنتاغون المتهم بتسريب معلومات سرية عن الحرب بين إيران وأوكرانيا",
+   "summary": "هيجسيث يقيل كبير الخبراء الاستراتيجيين في البنتاغون المتهم بتسريب معلومات سرية عن الحرب بين إيران وأوكرانيا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "هيجسيث يقيل كبير الخبراء الاستراتيجيين في البنتاغون المتهم بتسريب معلومات سرية عن الحرب بين إيران وأوكرانيا."
+    }
+   ],
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdndkUVJlajlyeUd2NkUyUktXSERnbzE3d3FMSjJqdXozbTU3SHo5ZVlNMGlYQVhNZVV6X1BSa2VWMUEtZEpjYlJ3UGVYc0dfZU41aFNwZVl4MG1DVGJPeDJ1Vl9xZFdGZ0FobTZWZDlXNnQzdWU1S2RaZk9yOURnMW1MSEptbWJzMkFzMm93cXpmS25zdjZrWW1BUFJoTjNkUXZWYzhmVW5QUVJQZlJEUmpGZ2Y0MnVxS0xwdXNGd0N0T0ZK0gHKAUFVX3lxTE1FZ2ZvYkxpa253QjR4WUxlOVNUemxmbGVfNHRNdlpiaUFvcm9IUlB5V0duNDVhY0M4RXE3TlBYZXFhbVg4aDZleUUwMmJtVDRFS2NIcGY3eWNyNmdvZ1ZUeEdwOGplQlJtZmlZcUYyMEtFSnh6dGRVS29ESkd1Tnl5ZXl3MnQ4b29aR2UxTEpXYWY4SW9WWTVNQlZwRjZhTkdPazc0eUk2dDhRM3lMNHlZM1pzT0szRndONXQyNGlOOUxMNGdRdmVpd0E?oc=5",
+   "type": null,
+   "time": "2026-10-29T13:08:37Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "spanish-long-jumper-julieta-gallego-among-victim",
+   "country": "Spain",
+   "label": "اسبانيا",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "لاعبة الوثب الطويل الإسبانية جولييتا جاليجو من بين ضحايا حادث تصادم القطارين المميت",
+   "summary": "جولييتا جاليجو، التي تنافست مع فريق AD Sprint ومقره مدريد، كانت من بين القتلى في حادث قطار في إسبانيا.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "لاعبة الوثب الطويل الإسبانية جولييتا جاليجو من بين ضحايا حادث تصادم القطارين المميت."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "جولييتا جاليجو، التي تنافست مع فريق AD Sprint ومقره مدريد، كانت من بين القتلى في حادث قطار في إسبانيا."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T15:18:38Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-strikes-hit-gaza-as-health-ministry-urge",
+   "country": "Palestine",
+   "label": "فلسطين",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "غارات إسرائيلية تضرب غزة ووزارة الصحة تحث على فتح معبر رفح",
+   "summary": "وقالت وزارة الصحة في غزة إن العشرات ماتوا في انتظار العلاج في الخارج مع استمرار الهجمات الإسرائيلية على الرغم من \"وقف إطلاق النار\".",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "غارات إسرائيلية تضرب غزة ووزارة الصحة تحث على فتح معبر رفح."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وقالت وزارة الصحة في غزة إن العشرات ماتوا في انتظار العلاج في الخارج مع استمرار الهجمات الإسرائيلية على الرغم من \"وقف إطلاق النار\"."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T15:12:36Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "damascus-amman-contradict-each-other-on-attack-t",
+   "country": "Syria",
+   "label": "سوريا",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "دمشق وعمان تتناقضان بشأن الهجوم الذي أدى إلى مقتل مدنيين",
+   "summary": "ويقول محللون إن المساءلة ضرورية لتهدئة الغضب الشعبي بشأن مقتل عائلة في جنوب سوريا.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "دمشق وعمان تتناقضان بشأن الهجوم الذي أدى إلى مقتل مدنيين."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويقول محللون إن المساءلة ضرورية لتهدئة الغضب الشعبي بشأن مقتل عائلة في جنوب سوريا."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T13:44:42Z",
+   "countries": [
+    "Syria",
+    "Jordan"
    ]
   }
  ]

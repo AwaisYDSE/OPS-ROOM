@@ -1,64 +1,199 @@
 {
- "updated": "2026-10-29T10:08:04.544074Z",
+ "updated": "2026-10-29T16:58:28.878297Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "iran-update-october-28-2026",
+   "id": "jake-paul-announces-christmas-eve-comeback-fight",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Jake Paul announces Christmas Eve comeback fight in Dubai after broken jaw threatened his career",
+   "summary": "Jake Paul announces Christmas Eve comeback fight in Dubai after broken jaw threatened his career",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Jake Paul announces Christmas Eve comeback fight in Dubai after broken jaw threatened his career."
+    }
+   ],
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQURYX1ZHZmJfVHZhRE5sbFR2TEZ2UkVfOFk5cE1sbXQ5eFJUajhlNW1MVVhLUC1TdXZZdFNjZC1ybnROc0pxc0Fqa0kzbUlIQ2NBbkV2TncyVV85Z2tpVlRqdm1QSnhGZ0tFTnlXNTR2RmhKRHRvLVNEV1hUNHZKWUtWNDVLVlVLTmQ0YXZEQTYtcWtfdF85Qm00dnA5MmdVUmtpMVlwSGhHTjBqMGlORHpZNGNyNkFYR0NmdVFkSQ?oc=5",
+   "type": null,
+   "time": "2026-10-29T11:19:54Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-slip-as-vance-letter-to-iran-raises-h",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Iran Update, October 28, 2026",
-   "summary": "Iran Update, October 28, 2026",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices slip as Vance letter to Iran raises hopes for peace talks",
+   "summary": "Oil prices slip as Vance letter to Iran raises hopes for peace talks",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran Update, October 28, 2026."
+     "text": "Oil prices slip as Vance letter to Iran raises hopes for peace talks."
     }
    ],
-   "source": "Institute for the Study of War",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUt1SnRaTTREU1ZlUS1TTVhuS2QzVGg1UHRrWGc2UTNkUDRZY3Y1QUREU3FielhZanZEY0h0OUxONWpyMEJldGtuU2ItZ3o4RnBvTnZQdDV2dkFrSkpZanVmU1g2WW9yMlVNRGxCaEZ4a1pYVEwyRDcyY3VEOC1lS2tRU28?oc=5",
+   "source": "Quartz",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UY1NfUW05dXBJSkduWm44cFBMeTI2cURvN1ppT1JyeVpaNDRZWVJlVkRyR3dIX2hJcnBRZ2lLUmZaMGRmRmR6QzdSYWZrRGh6cmVPWFdrTjZjeVR6dFFEakhRamplRlBCQ0N3WGRTNA?oc=5",
    "type": null,
-   "time": "2026-10-29T03:15:39Z",
+   "time": "2026-10-29T14:19:47Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "-economic-incentives-are-limited-what-does-russi",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "russian-drone-attack-on-ukrainian-train-station-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
    "category": "World",
-   "headline": "‘Economic incentives are limited’: What does Russia really offer Africa?",
-   "summary": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West.",
+   "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+   "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "‘Economic incentives are limited’: What does Russia really offer Africa?."
+     "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West."
+     "text": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-29T08:14:34Z",
+   "time": "2026-10-29T14:17:35Z",
    "countries": [
-    "Russia",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "iran-says-3-oil-tankers-struck-mines-and-other-m",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says 3 oil tankers struck mines, and other Mideast news",
+   "summary": "Iran says 3 oil tankers struck mines, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says 3 oil tankers struck mines, and other Mideast news."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5",
+   "type": null,
+   "time": "2026-10-29T13:51:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "oil-tanker-catches-fire-after-hitting-naval-mine",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iranian Navy",
+   "summary": "Oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iranian Navy",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil tanker catches fire after hitting naval mines near Strait of Hormuz: Iranian Navy."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVJLSXNBZnpNZFRrUmlucTc2U2xjcVlPa0ZkN0VyYndKUTM5YkJoaENpUUpkZml1X1hULXQ1NWhieVFEVklpSGlwNGlvVkpkMDBLbE9YRFFoWVd0bDRZcmRIRDhReGpuT05Pa1BNbU9zeVUybGk3dlo5TklvMGZxWXh5NEFHdTVTWHJpLW4tNnRBNEdlaTQ0cF81cjZvUGRON2paNFBmNENhemZIVUNNRDI0WWhTZi1zd2NLaklrVzNhNGc4MC05emFraFdDYzlzWWc?oc=5",
+   "type": null,
+   "time": "2026-10-29T16:06:03Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-china-sign-agreement-to-operationalise-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border",
+   "summary": "ISLAMABAD: Pakistan and China have signed an agreement to operationalise a green channel at the Sost-Khunjerab border for agricultural and allied products to facilitate bilateral trade.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, China sign agreement to operationalise green channel at Sost-Khunjerab border."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Why the move?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: Pakistan and China have signed an agreement to operationalise a green channel at the Sost-Khunjerab border for agricultural and allied products to facilitate bilateral trade."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040705/pakistan-china-sign-agreement-to-operationalise-green-channel-at-sost-khunjerab-border",
+   "type": null,
+   "time": "2026-10-29T10:42:26Z",
+   "countries": [
+    "Pakistan",
     "China"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-discuss-investment-in-agri",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Pakistan, Saudi Arabia discuss investment in agriculture, minerals and mining",
+   "summary": "Pakistan, Saudi Arabia discuss investment in agriculture, minerals and mining",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Saudi Arabia discuss investment in agriculture, minerals and mining."
+    }
+   ],
+   "source": "The Express Tribune",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTRGVXVRcjBYd3VmNU5qUElrQm5raVNGb2NCODIwSW82b2tLMEd0WHZnOVhiQjNOSEk5Xy1MelRfYXFsNTdleWgxekRRSkQ1QkRZS3R0cmxva2VVeFlaWUhNZlRiZm5tVldLVFAwWjAwbVd4MklZN3k3OG4tX1o3SWRMNEQzenV3X1BpQVdZcmpfNjhKRjlNQU1NM1dRdUtWbnR6ZUl3TnAyUFVNdG1abTRR?oc=5",
+   "type": null,
+   "time": "2026-10-29T12:05:07Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
    ]
   },
   {
@@ -71,25 +206,17 @@
    "severity": "critical",
    "category": "World",
    "headline": "How to stop the US-Israel war on Iran",
-   "summary": "Arab states must reject Israeli hegemony and build a regional security framework independent of Washington.",
+   "summary": "How to stop the US-Israel war on Iran",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "How to stop the US-Israel war on Iran."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Arab states must reject Israeli hegemony and build a regional security framework independent of Washington."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzN0dVNJQ1U3bGptWHNyNmFsNDBMdF9qaW84MGtyaVEwVmZrUm1xZEtsS2J3eUVjQVktdWlPR3pMQlc1MkM4WTRmSGFYamJLNUN0eUZub0VGbldzcWVOVHo5eWNiVU9EWl83MmFhb0FIM3JhU3hRX01oTDRnYkhhekRwVW9BM2M2eGZZ0gGQAUFVX3lxTE9RNFo1S3I3YVhDdVBNS2l5LTloUHRCeHVqd0lFRjNfOGZrRlNkQ3FCbkdpV25adVVOOFdrbDduVFFOejZWS3VGR0JUVTBpWk5DRjJ1THdEcVR3anoxVTNaOERhTnVPTC16REFjdW1IM3duS092ZUtGaDViWkx1Sk41cFB0R1lhZkZCV3poemlxYw?oc=5",
    "type": null,
-   "time": "2026-10-29T07:54:51Z",
+   "time": "2026-10-29T07:59:36Z",
    "countries": [
     "United States of America",
     "Israel",
@@ -97,203 +224,66 @@
    ]
   },
   {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
-   "summary": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
-   "type": null,
-   "time": "2026-10-29T07:01:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "houthi-ballistic-missile-targeting-eastern-saudi",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthi ballistic missile targeting eastern Saudi Arabia intercepted: Coalition",
-   "summary": "Houthi ballistic missile targeting eastern Saudi Arabia intercepted: Coalition",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Houthi ballistic missile targeting eastern Saudi Arabia intercepted: Coalition."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRvVmRLZjViRzBDS19yM1pjV1lfR21memhUdi1zVGlva3lvY0F1NmhDZVhLNG9ROFdrb1IxYkR2emJMUFQ1c0U4MHF4bnVIaFlhMEFtUHMySVM3LUU4MzQ0ck1MQXlwSGtMdHN0SnZ1cjdFU1BwNk1vcFZVOU83MHZDWFJ6TUcwM1Q3TUNJdWhLa1RoMmw1Zm0tOVgyc0s4WWJTaS1FQUZiTTBtcVBkZE5jbC1NM09EOUlqYmVkQQ?oc=5",
-   "type": null,
-   "time": "2026-10-29T01:28:01Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "us-warns-allies-to-prepare-for-possible-iran-str",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-   "summary": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
-   "type": null,
-   "time": "2026-10-29T02:58:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "north-korea-fires-missile-barrage-toward-the-sea",
-   "country": "North Korea",
-   "label": "NORTH KOREA",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "critical",
-   "category": "World",
-   "headline": "North Korea fires missile barrage toward the sea as tensions with South rise",
-   "summary": "North Korea fires missile barrage toward the sea as tensions with South rise",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "North Korea fires missile barrage toward the sea as tensions with South rise."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNzkzSFBERWxpTVJFbFIyemRsRnZILXJwMGZwQ3VUVmp2RW8tOXBJVmFIZ3NCZEpGaC1QZ19JTThvTWtrU01vTFBvUXUwSUpDWGpoLUNCYnFlVDdBdTJqMkNVWGl0WkdrS2hmdHZ2eElUTmRMUWdmOFgxZ3M0WWVabkswb2ZGTjQ1LThhdmJ6X1BrNmM?oc=5",
-   "type": null,
-   "time": "2026-10-29T09:52:00Z",
-   "countries": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "sri-lanka-wins-toss-fields-against-england-in-pa",
+   "id": "evolving-scope-of-the-china-pakistan-economic-co",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "info",
-   "category": "Sports",
-   "headline": "Sri Lanka wins toss, fields against England in Pakistan cricket tri-series",
-   "summary": "Sri Lanka wins toss, fields against England in Pakistan cricket tri-series",
+   "category": "Pakistan",
+   "headline": "Evolving Scope of the China-Pakistan Economic Corridor - The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "summary": "Evolving Scope of the China-Pakistan Economic Corridor - The Diplomat – Asia-Pacific Current Affairs Magazine",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Sri Lanka wins toss, fields against England in Pakistan cricket tri-series."
+     "text": "Evolving Scope of the China-Pakistan Economic Corridor - The Diplomat – Asia-Pacific Current Affairs Magazine."
     }
    ],
-   "source": "10TV",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSkxVM2JsWWF4d2ZTRGV6Tmt6MTVzeGZTaXZjVVMtNzFXczlvVmdCOW1zV2hvcmZiRGVDVURFb1kteE9CblFBMk5Iek9jS0ptWUxRWmRidTFzNUhnWUhxcV95dnN4bjEtREo1cjdEZ25qVWFvYS16NlRvdlFMQ3RZdm12b2tKbE80MHdvT3N4Z2RiMlRJVEJkdWo4WWdJMU05cXlvUHd6WGszT1FWWktTNHV2YUxEZmlwRDN4RUdGNHlMZHU1aU1fNF9sTmxXZGhDcnQ1dWlFanVfaUFublNyRmJhVEtoUWJKenNRaFdPVEFxUWxjZnRQQjRNQ1lERjh4?oc=5",
+   "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFdXclR5WlJMSVB3R0tOTnNMNDhGV2hZOU15bXlGemd2c2tQR0FBZFRtTDlTWGQyc3d4Z2U0XzBpUTJTRmZZd0VrMXdWTUQ0dzFWa3U1bzl1VjVENjB0Vk1SZnozWC1qY3Vsa1FRMEtUbXh5VXJBUW1fNFZiSHJ2blR1cGx6RnluTFN0V1ZBTlU?oc=5",
    "type": null,
-   "time": "2026-10-29T08:09:00Z",
+   "time": "2026-10-29T11:55:28Z",
    "countries": [
     "Pakistan",
-    "Sri Lanka"
+    "China"
    ]
   },
   {
-   "id": "obama-and-trump-spar-at-rallies-in-georgia-and-o",
+   "id": "hegseth-fires-pentagon-s-top-military-planner-ov",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
    "severity": "critical",
-   "category": "Business",
-   "headline": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-   "summary": "Obama and Trump traded barbs over the Iran war, tariffs and the White House ballroom ahead of the US midterm elections.",
+   "category": "World",
+   "headline": "Hegseth fires Pentagon's top military planner over what official says were leaks to media",
+   "summary": "The United States has fired a top military planner, US media reported, with some outlets saying the dismissal was due to the officer allegedly leaking classified information.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways."
+     "text": "Hegseth fires Pentagon's top military planner over what official says were leaks to media."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
-     "text": "Obama and Trump traded barbs over the Iran war, tariffs and the White House ballroom ahead of the US midterm elections."
+     "text": "The United States has fired a top military planner, US media reported, with some outlets saying the dismissal was due to the officer allegedly leaking classified information."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways?traffic_source=rss",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15YlAzc3RZM0hPSjl1UHVBZEV2UDI3Uko4MWJ0NG1rYUtieDN0Vjl2RG80bFlnXzAtbjVaV1BMYmhTeUlLTUJuYUt4dTN1YWhCRVRjSjRLT29pN25HSHVhQjg5d3BXaDFmZTc3MjNJWUVsMjR4YWh1bE45RTBUb3c?oc=5",
    "type": null,
-   "time": "2026-10-29T08:51:30Z",
+   "time": "2026-10-29T14:37:08Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "United States of America"
    ]
   },
   {
-   "id": "singapore-foreign-minister-to-undertake-official",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Singapore foreign minister to undertake official visit to Pakistan on Oct 30",
-   "summary": "Singapore’s Minister for Foreign Affairs Dr Vivian Balakrishnan will undertake an official visit to Islamabad on Friday (Oct 30) at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the Foreign Office (FO) said on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Singapore foreign minister to undertake official visit to Pakistan on Oct 30."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Singapore’s Minister for Foreign Affairs Dr Vivian Balakrishnan will undertake an official visit to Islamabad on Friday (Oct 30) at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the Foreign Office (FO) said on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
-   "type": null,
-   "time": "2026-10-29T07:10:35Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "what-we-know-so-far-about-deadly-spain-train-cra",
+   "id": "audio-reveals-exchanges-between-control-centre-a",
    "country": "Spain",
    "label": "SPAIN",
    "lat": 40.5,
@@ -301,110 +291,32 @@
    "flag": "🇪🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "What we know so far about deadly Spain train crash",
+   "headline": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
    "summary": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "What we know so far about deadly Spain train crash."
+     "text": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
      "text": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZnNqRWV1SjZMemxDT0pIX1Bqd00zbEdoS1djUWk1aGZYTkxoVm1hTm5GM3p5UV83RFF5clBUWTdBU3YxaDhmVlNuZENPUGhVTDRVLXE5WURSdHM?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-29T07:59:20Z",
+   "time": "2026-10-29T11:07:35Z",
    "countries": [
     "Spain"
    ]
   },
   {
-   "id": "taiwan-suspects-china-behind-brief-pakistan-airs",
-   "country": "Taiwan",
-   "label": "TAIWAN",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "info",
-   "category": "World",
-   "headline": "Taiwan ‘Suspects’ China Behind Brief Pakistan Airspace Ban",
-   "summary": "Taiwan ‘Suspects’ China Behind Brief Pakistan Airspace Ban",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Taiwan ‘Suspects’ China Behind Brief Pakistan Airspace Ban."
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSklRV1hMZm5ZY09LbzNRSmtSbTRfTUpkeW9faE5ZM3FVM2JvTmVZOGlmVllYbWdhSFYwSUZwRWRWR1NDZERueWd4alFRVkU2c2hYM25iNmhsdVpQV1Y4b1M5aDI1dF9OZmZTcE83S0RkWFdMa2l3VXpjWDBDZ0hfWVdnckZkaUlSS1JFNGhnb0NOZTJfUEtyNkM0Mi1veEJBaGJpMkNLVjFyams?oc=5",
-   "type": null,
-   "time": "2026-10-29T07:23:44Z",
-   "countries": [
-    "Taiwan",
-    "China",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-saudi-arabia-discuss-agriculture-mining",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan, Saudi Arabia discuss agriculture, mining investment and stronger business ties",
-   "summary": "Pakistan, Saudi Arabia discuss agriculture, mining investment and stronger business ties",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, Saudi Arabia discuss agriculture, mining investment and stronger business ties."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX0d1STVKd2lkbEdoYjlBQ3dTSVFZckJrZkdiTHhvV0pLRVBSN244OVBIRzZhOFdUQjZzbXdQVXFGNlQwQllnYkVOS1F4MzlSbHlsQlZqRXpjSlEzWUpaWVZiRnBTNjYzeEpMQmhKSlNOSnVTQXNxLUN0WFQ5UWEyT0hJcVZlZEJQRVJvZVhRb2E4M1g1cno5OEtoYkJSTVh5cEgzZVRmb3lVNzRzSzR2ZDV5dzlpMGhSZzdVZzBrcDNlSlY4VHc?oc=5",
-   "type": null,
-   "time": "2026-10-29T09:08:16Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "wwe-crown-jewel-moving-locations-amid-attacks-in",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "WWE Crown Jewel moving locations amid attacks in Saudi Arabia",
-   "summary": "WWE Crown Jewel moving locations amid attacks in Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "WWE Crown Jewel moving locations amid attacks in Saudi Arabia."
-    }
-   ],
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEJueHlSakljWjU3dmladW15eURVVWdCejBOU3FLc3F0LVRlYUdIVUFLdHAtYlZDQjVIdkhXd2hsbDV6QmQ2SzlBeEQybFc4MjRuZ2RBOHVYYzN1R3I3Rk5TejJYWDRHV0daQWhtZzJwY1dCRm9NaU5COUVUaVN4SXc2RVVSaVNhbnRfNDAxV3ViRTlQRFpPblZpYTZlUjlxQUNwaEpxdGZwWG9qUU9wZGFtaTJRVVl3Ymo4Sw?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:33:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "uae-holds-interest-rates-after-fed-decision",
+   "id": "youtube-star-jake-paul-returns-to-boxing-after-j",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -412,104 +324,216 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "UAE Holds Interest Rates After Fed Decision",
-   "summary": "UAE Holds Interest Rates After Fed Decision",
+   "headline": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight",
+   "summary": "American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE Holds Interest Rates After Fed Decision."
-    }
-   ],
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYzlEbEM0Y0xtS1pmcHJudUZ3akgxM0FtbXY4d3JaN09hdkM1YjAySjFTS1Y5UnJ3Y0xoVzc3elE2Tm1QVTd3R3I3YzlBYmxxTUIxT0h3RXQyY0hROV8xMGlXZDAwUE1kTExVcW9OQ2tFRlFNcHFkdXNSTnQxVUhjRnFkSmJYbkluU1lCRVJVNHpaNUtqdmxocXZ3?oc=5",
-   "type": null,
-   "time": "2026-10-28T23:15:53Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "middle-east-tensions-push-up-oil-prices-china-ca",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Middle East Tensions Push Up Oil Prices; China Caps Domestic Fuel Price Increase at 345 Yuan per Ton",
-   "summary": "Middle East Tensions Push Up Oil Prices; China Caps Domestic Fuel Price Increase at 345 Yuan per Ton",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Middle East Tensions Push Up Oil Prices; China Caps Domestic Fuel Price Increase at 345 Yuan per Ton."
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11TGR6LXhFcEN1dW1qck9lOEpkTC1xQUYwM1czVldEQzRtVnRka3FhYUo2WVRVeVZuSkJKeGd3aWNxNS1PWFlWODQ1UUU0N09rVms5eGZaREFpWTFEWUZPajR0R2M4MG9xZTVCc21Ca0NWYk5HaVE?oc=5",
-   "type": null,
-   "time": "2026-10-29T08:06:00Z",
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "north-korea-fires-missiles-as-row-over-landmine-",
-   "country": "North Korea",
-   "label": "NORTH KOREA",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "critical",
-   "category": "World",
-   "headline": "North Korea fires missiles as row over landmine blast intensifies",
-   "summary": "Seoul accuses Pyongyang of causing a landmine explosion that injured three of its soldiers, an accusation North denies.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "North Korea fires missiles as row over landmine blast intensifies."
+     "text": "YouTube star Jake Paul returns to boxing after Joshua loss for Dubai fight."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "Seoul accuses Pyongyang of causing a landmine explosion that injured three of its soldiers, an accusation North denies."
+     "text": "American Jake Paul to headline Christmas Eve boxing event in Dubai, with his opponent yet to be announced."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/youtube-star-jake-paul-returns-to-boxing-after-joshua-loss-for-dubai-fight?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T07:24:47Z",
+   "time": "2026-10-29T13:54:18Z",
    "countries": [
-    "North Korea",
-    "South Korea"
+    "United Arab Emirates",
+    "United States of America"
    ]
   },
   {
-   "id": "how-could-the-oil-spill-off-the-uae-coast-affect",
+   "id": "standard-asset-company-unveils-1-5b-bitcoin-and-",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "How could the oil spill off the UAE coast affect desalination plants?",
-   "summary": "How could the oil spill off the UAE coast affect desalination plants?",
+   "category": "Tech",
+   "headline": "Standard Asset Company unveils $1.5B Bitcoin and UAE property strategy",
+   "summary": "Standard Asset Company unveils $1.5B Bitcoin and UAE property strategy",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "How could the oil spill off the UAE coast affect desalination plants?."
+     "text": "Standard Asset Company unveils $1.5B Bitcoin and UAE property strategy."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUU5JejdRZjhyTnRhQjVwOFVubXBzeWpJa2JJWkF0MmNKMlg5cWJnUi1FeFN6czdwUEFfTy1UTjRZVU1oS1lLb3ZVa0hlQzU3T3dwZVV1M0JmUTNZVEtfd3hscEVuclQ1UjloZEFWQWRqc2FiOEZpczRYY3V1RmJYaUJFVENfeml6Ymktc29qZW1LOTRSVUl0XzVoU1hfXzN1SUNlVTBiRkVzd0NxWmp6Q2ZvTQ?oc=5",
+   "source": "Crypto News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHTV84cGZSRFBtZkI4UktVc1ZqNDBuUTRYdHRHLUVNZ29Dd0Y0YlRtdVFPR0lrY0d3VS1iRnY0dTJvczNyMTV4TVJTUzYzMFM1QlNnbnVuTkhoc3RwaVN5UUFWNlhTTnJENUlNSWE2R1A1bFppYzZwdnBOZi13dw?oc=5",
    "type": null,
-   "time": "2026-10-29T06:02:00Z",
+   "time": "2026-10-29T16:36:44Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ethiopia-acquires-russian-fighter-jets-and-air-d",
+   "country": "Ethiopia",
+   "label": "ETHIOPIA",
+   "lat": 9.1,
+   "lon": 40.5,
+   "flag": "🇪🇹",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+   "summary": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The acquisition of the warplanes comes amid ongoing fighting in northern Tigray region that started last month."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-29T08:23:31Z",
+   "countries": [
+    "Ethiopia",
+    "Russia"
+   ]
+  },
+  {
+   "id": "hegseth-fires-top-pentagon-strategist-accused-of",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+   "summary": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information."
+    }
+   ],
+   "source": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdndkUVJlajlyeUd2NkUyUktXSERnbzE3d3FMSjJqdXozbTU3SHo5ZVlNMGlYQVhNZVV6X1BSa2VWMUEtZEpjYlJ3UGVYc0dfZU41aFNwZVl4MG1DVGJPeDJ1Vl9xZFdGZ0FobTZWZDlXNnQzdWU1S2RaZk9yOURnMW1MSEptbWJzMkFzMm93cXpmS25zdjZrWW1BUFJoTjNkUXZWYzhmVW5QUVJQZlJEUmpGZ2Y0MnVxS0xwdXNGd0N0T0ZK0gHKAUFVX3lxTE1FZ2ZvYkxpa253QjR4WUxlOVNUemxmbGVfNHRNdlpiaUFvcm9IUlB5V0duNDVhY0M4RXE3TlBYZXFhbVg4aDZleUUwMmJtVDRFS2NIcGY3eWNyNmdvZ1ZUeEdwOGplQlJtZmlZcUYyMEtFSnh6dGRVS29ESkd1Tnl5ZXl3MnQ4b29aR2UxTEpXYWY4SW9WWTVNQlZwRjZhTkdPazc0eUk2dDhRM3lMNHlZM1pzT0szRndONXQyNGlOOUxMNGdRdmVpd0E?oc=5",
+   "type": null,
+   "time": "2026-10-29T13:08:37Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "spanish-long-jumper-julieta-gallego-among-victim",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Spanish long jumper Julieta Gallego among victims of deadly train collision",
+   "summary": "Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Spanish long jumper Julieta Gallego among victims of deadly train collision."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Julieta Gallego, who competed for Madrid-based AD Sprint, among those killed in train crash in Spain."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/29/spanish-long-jumper-julieta-gallego-among-victims-of-deadly-train-collision?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T15:18:38Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-strikes-hit-gaza-as-health-ministry-urge",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+   "summary": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T15:12:36Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "damascus-amman-contradict-each-other-on-attack-t",
+   "country": "Syria",
+   "label": "SYRIA",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Damascus, Amman contradict each other on attack that killed civilians",
+   "summary": "Analysts say accountability is needed to quell public outrage over killing of family in southern Syria.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Damascus, Amman contradict each other on attack that killed civilians."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Analysts say accountability is needed to quell public outrage over killing of family in southern Syria."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/features/2026/10/29/damascus-amman-contradict-each-other-on-attack-that-killed-civilians?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T13:44:42Z",
+   "countries": [
+    "Syria",
+    "Jordan"
    ]
   }
  ]
