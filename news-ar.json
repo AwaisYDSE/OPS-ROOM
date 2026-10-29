@@ -1,32 +1,142 @@
 {
- "updated": "2026-10-28T23:17:39.676124Z",
+ "updated": "2026-10-29T02:56:00.045184Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "oil-prices-rise-on-yemen-fighting-saudi-refinery",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "oil-prices-increase-after-attack-on-saudi-refine",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "markets",
    "category": "Markets",
-   "headline": "أسعار النفط ترتفع بسبب القتال في اليمن والهجوم على مصفاة النفط السعودية",
-   "summary": "أسعار النفط ترتفع بسبب القتال في اليمن والهجوم على مصفاة النفط السعودية",
+   "headline": "ارتفاع أسعار النفط بعد الهجوم على مصفاة النفط السعودية",
+   "summary": "ارتفاع أسعار النفط بعد الهجوم على مصفاة النفط السعودية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أسعار النفط ترتفع بسبب القتال في اليمن والهجوم على مصفاة النفط السعودية."
+     "text": "ارتفاع أسعار النفط بعد الهجوم على مصفاة النفط السعودية."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+   "source": "Transport Topics",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0M2x6SVJXLWExZ01sX05JWC1qMnpmSlIxcDdLOXVjUHktbDNoTGkwbWZEdnIzdllfeGZ6clpLWEVBS1U0WUJxc1BpbWlNYlhHMVNGZV96VjdjM2VKUGNNbXp5WEEtTkEz?oc=5",
    "type": null,
-   "time": "2026-10-28T01:49:00Z",
+   "time": "2026-10-28T12:23:00Z",
    "countries": [
-    "Yemen",
     "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-destroys-houthi-ballistic-mi",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "التحالف بقيادة السعودية يدمر صاروخا باليستيا أطلقه الحوثيون باتجاه المملكة",
+   "summary": "التحالف بقيادة السعودية يدمر صاروخا باليستيا أطلقه الحوثيون باتجاه المملكة",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "التحالف بقيادة السعودية يدمر صاروخا باليستيا أطلقه الحوثيون باتجاه المملكة."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbWZ3dFNrUE5MVzVmaVhiNDBmV3hjTDZjN0J6cmdXRzg2clpzX1NBRnphQVRJeFNXOGZOZ09haHozamRjMFZ2T2xoa0FmakYzRm9SSVByTDNwdnlB?oc=5",
+   "type": null,
+   "time": "2026-10-29T02:06:03Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-update-october-28-2026",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "تحديث إيران: 28 أكتوبر 2026",
+   "summary": "تحديث إيران: 28 أكتوبر 2026",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تحديث إيران: 28 أكتوبر 2026."
+    }
+   ],
+   "source": "Critical Threats",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYkxod0x1YmhmNDdqb01SMHMtN0tPdDAxd2dfSGRtaUxpX3VjQWd1TXBWNWtQTlJqOWxXZVVQTkUxclhWNV9DRHZFUUg4bm1neVFyQjJUaG5HWHFTRjUyRFRabXlPN0ZyTHp1X244ZmtzbFN5eGhr?oc=5",
+   "type": null,
+   "time": "2026-10-28T22:59:05Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-war-live-tehran-presses-7-day-hormuz-plan-t",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "حرب إيران مباشرة: طهران تضغط على خطة هرمز لمدة 7 أيام؛ ترامب ينفي محادثات السلام",
+   "summary": "ويقول عراقجي إن إيران على اتصال وثيق مع الوسطاء بشأن أفكار لتنفيذ خطتها التي تستغرق سبعة أيام لإعادة فتح مضيق هرمز.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "حرب إيران مباشرة: طهران تضغط على خطة هرمز لمدة 7 أيام؛ ترامب ينفي محادثات السلام."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويقول عراقجي إن إيران على اتصال وثيق مع الوسطاء بشأن أفكار لتنفيذ خطتها التي تستغرق سبعة أيام لإعادة فتح مضيق هرمز."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T00:00:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "saudi-oil-exports-boom-despite-relentless-houthi",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة",
+   "summary": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة"
+    }
+   ],
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdCVG5hYllpY3VIU3l6bnZRWFQtQmhHYlJValgySjFiMkZBdmRDZzhoN2lNMk1CSUxYQVJFUW4xclM0NHlnNVhqUzBmU3RtZDFKYjhSVzgteDBZUm5wcUVqek5PRUVZNEc2NzJmeURIWXF5WUVFbHJLRGpoNUJyb1FhRU1fVi1QUUZZZmloMVNhZkp1cmxTdnRMeXlLQzg?oc=5",
+   "type": null,
+   "time": "2026-10-28T23:15:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -56,29 +166,29 @@
    ]
   },
   {
-   "id": "iran-war-s-cost-to-american-taxpayers-grows-to-a",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "وترتفع تكلفة الحرب على إيران على دافعي الضرائب الأميركيين إلى ما يقدر بنحو 47.1 مليار دولار",
-   "summary": "وترتفع تكلفة الحرب على إيران على دافعي الضرائب الأميركيين إلى ما يقدر بنحو 47.1 مليار دولار",
+   "id": "uae-canada-trade-deal-to-boost-uae-economy-by-8-",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "اتفاق تجاري بين الإمارات وكندا يعزز اقتصاد الإمارات بـ 8.7 مليار دولار والصادرات بـ 11.8 مليار دولار بحلول 2033",
+   "summary": "اتفاق تجاري بين الإمارات وكندا يعزز اقتصاد الإمارات بـ 8.7 مليار دولار والصادرات بـ 11.8 مليار دولار بحلول 2033",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "وترتفع تكلفة الحرب على إيران على دافعي الضرائب الأميركيين إلى ما يقدر بنحو 47.1 مليار دولار."
+     "text": "اتفاقية تجارية بين الإمارات وكندا لتعزيز اقتصاد الإمارات بقيمة 8.7 مليار دولار وصادراتها بقيمة 11.8 مليار دولار بحلول عام 2033"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmtDOVlyclBObWZ4c3hrWlVJM3g2b0dhTlRYYUd3TUpzWFB2UVVLS0l5cGdjanBwY3IxTk15d3RqcXlIZkpWdUtCZkVnNTB5dHIyMUhLZHpWOEk4R2Mtam8wOURrZWVpWGR6d2tyTlJSLW5zblRNclo0Yk9idlhwbGVjWGdwQmppNDVOdzAtVkFzVzQ?oc=5",
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5",
    "type": null,
-   "time": "2026-10-28T17:23:00Z",
+   "time": "2026-10-28T20:06:22Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "United Arab Emirates",
+    "Canada"
    ]
   },
   {
@@ -107,110 +217,7 @@
    ]
   },
   {
-   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "كندا والإمارات توقعان اتفاقيات التجارة والدفاع والطاقة",
-   "summary": "كندا والإمارات توقعان اتفاقيات التجارة والدفاع والطاقة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "كندا والإمارات توقعان اتفاقيات التجارة والدفاع والطاقة."
-    }
-   ],
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "type": "VIDEO",
-   "time": "2026-10-28T11:34:24Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "wwe-crown-jewel-moving-locations-amid-attacks-in",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية",
-   "summary": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "WWE Crown Jewel تتحرك في المواقع وسط الهجمات في المملكة العربية السعودية."
-    }
-   ],
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEJueHlSakljWjU3dmladW15eURVVWdCejBOU3FLc3F0LVRlYUdIVUFLdHAtYlZDQjVIdkhXd2hsbDV6QmQ2SzlBeEQybFc4MjRuZ2RBOHVYYzN1R3I3Rk5TejJYWDRHV0daQWhtZzJwY1dCRm9NaU5COUVUaVN4SXc2RVVSaVNhbnRfNDAxV3ViRTlQRFpPblZpYTZlUjlxQUNwaEpxdGZwWG9qUU9wZGFtaTJRVVl3Ymo4Sw?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:33:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "saudi-oil-exports-boom-despite-relentless-houthi",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة",
-   "summary": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ازدهار صادرات النفط السعودية رغم هجمات الحوثيين المتواصلة"
-    }
-   ],
-   "source": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdCVG5hYllpY3VIU3l6bnZRWFQtQmhHYlJValgySjFiMkZBdmRDZzhoN2lNMk1CSUxYQVJFUW4xclM0NHlnNVhqUzBmU3RtZDFKYjhSVzgteDBZUm5wcUVqek5PRUVZNEc2NzJmeURIWXF5WUVFbHJLRGpoNUJyb1FhRU1fVi1QUUZZZmloMVNhZkp1cmxTdnRMeXlLQzg?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:39:02Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "uae-canada-trade-deal-to-boost-uae-economy-by-8-",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "اتفاق تجاري بين الإمارات وكندا يعزز اقتصاد الإمارات بـ 8.7 مليار دولار والصادرات بـ 11.8 مليار دولار بحلول 2033",
-   "summary": "اتفاق تجاري بين الإمارات وكندا يعزز اقتصاد الإمارات بـ 8.7 مليار دولار والصادرات بـ 11.8 مليار دولار بحلول 2033",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "اتفاقية تجارية بين الإمارات وكندا لتعزيز اقتصاد الإمارات بقيمة 8.7 مليار دولار وصادراتها بقيمة 11.8 مليار دولار بحلول عام 2033"
-    }
-   ],
-   "source": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:06:22Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "id": "pakistan-allows-taiwan-airlines-to-use-airspace-",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
@@ -218,243 +225,21 @@
    "flag": "🇵🇰",
    "severity": "watch",
    "category": "Pakistan",
-   "headline": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير",
-   "summary": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير",
+   "headline": "باكستان تسمح للخطوط الجوية التايوانية باستخدام المجال الجوي في المنعطفات المفاجئة",
+   "summary": "باكستان تسمح للخطوط الجوية التايوانية باستخدام المجال الجوي في المنعطفات المفاجئة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير."
+     "text": "باكستان تسمح للخطوط الجوية التايوانية باستخدام المجال الجوي في المنعطفات المفاجئة."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
    "type": null,
-   "time": "2026-10-28T12:20:22Z",
+   "time": "2026-10-28T14:05:17Z",
    "countries": [
     "Pakistan",
-    "China",
     "Taiwan"
-   ]
-  },
-  {
-   "id": "the-israeli-election-is-deadlocked",
-   "country": "Israel",
-   "label": "إسرائيل",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "الانتخابات الإسرائيلية وصلت إلى طريق مسدود",
-   "summary": "بدا أن بنيامين نتنياهو مستعد للبقاء في منصب رئيس الوزراء المؤقت لإسرائيل بعد أن ترك الدعم القوي غير المتوقع بين الناخبين اليهود لخصومه فرصة ضئيلة لإسقاطه، على الرغم من خسارة كتلته اليمينية لأغلبيتها البرلمانية.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الانتخابات الإسرائيلية وصلت إلى طريق مسدود."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "لماذا هذه الخطوة؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "بدا أن بنيامين نتنياهو مستعد للبقاء في منصب رئيس الوزراء المؤقت لإسرائيل بعد أن ترك الدعم القوي غير المتوقع بين الناخبين اليهود لخصومه فرصة ضئيلة لإسقاطه، على الرغم من خسارة كتلته اليمينية لأغلبيتها البرلمانية."
-    }
-   ],
-   "source": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0FTVThQZXdVUkNNbTBCLVBETkM1OG05UndKajRIckllbWZyQmRjS3NMemFOSGREbThJSEVERjNuLUw0WWMwa0RMdTF3YzBRVWlFem5HcUFGb1kxZkVZWUlfc1JGLVg4QjBFaVRSblhaaVlvQUhhazNWVTZISUsxUFBDeEJTUQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:18:53Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية والهجمات السعودية",
-   "summary": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية والهجمات السعودية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسعار النفط تنخفض مع تقييم التجار للدبلوماسية الأمريكية الإيرانية والهجمات السعودية."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
-   "type": null,
-   "time": "2026-10-28T21:18:52Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "الحوثيون يقصفون مطار عدن باليمن بعد تحذير بالإخلاء",
-   "summary": "الحوثيون يقصفون مطار عدن باليمن بعد تحذير بالإخلاء",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الحوثيون يقصفون مطار عدن باليمن بعد تحذير بالإخلاء."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
-   "type": null,
-   "time": "2026-10-28T16:51:33Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "crown-prince-of-abu-dhabi-meets-emirati-students",
-   "country": "Canada",
-   "label": "كندا",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "info",
-   "category": "World",
-   "headline": "ولي عهد أبوظبي يلتقي الطلبة الإماراتيين في كندا",
-   "summary": "ولي عهد أبوظبي يلتقي الطلبة الإماراتيين في كندا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ولي عهد أبوظبي يلتقي الطلبة الإماراتيين في كندا."
-    }
-   ],
-   "source": "Sharjah24",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IOGhieTR6cW5LckVVZW9rZXo1c3RUbC16R2tJNy1ldEtZaWZOc1FvaG9vai03c05lbFBVVVVIZFA3MkV4MFZHOVdSeHo3MkVJMFgtMWVvdmFuSmhD?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:11:59Z",
-   "countries": [
-    "Canada",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
-   "country": "Spain",
-   "label": "اسبانيا",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "مقتل 68 شخصًا على الأقل في حادث قطار في إسبانيا، كما وصف شهود العيان المشاهد المدمرة",
-   "summary": "وقال وزير النقل إن الحادث الذي وقع بين قطار متحرك وآخر متوقف على المسار، نجم عن خطأ \"لا يمكن تفسيره\".",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "مقتل 68 شخصًا على الأقل في حادث قطار في إسبانيا، كما وصف شهود العيان المشاهد المدمرة."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وقال وزير النقل إن الحادث الذي وقع بين قطار متحرك وآخر متوقف على المسار، نجم عن خطأ \"لا يمكن تفسيره\"."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:09:00Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "trump-signals-possible-end-to-iran-war-as-us-rep",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "يشير ترامب إلى نهاية محتملة للحرب مع إيران بينما تستعد الولايات المتحدة لضربات ما بعد الانتخابات",
-   "summary": "يشير ترامب إلى نهاية محتملة للحرب مع إيران بينما تستعد الولايات المتحدة لضربات ما بعد الانتخابات",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "يشير ترامب إلى نهاية محتملة للحرب مع إيران بينما تستعد الولايات المتحدة لضربات ما بعد الانتخابات."
-    }
-   ],
-   "source": "KOKH",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUhZR0NrN3Z2UGc1ZG1aQjFJMGNLOEY0My1zVExDSkRaY3F0RFZNY0wtd1A4eTRkajBwYjdpeFY5T3dWczdqYUFaMlFTZFQ2bVVRVjA5TGZSajFPTEQ1MGZIRkNXYm9zZktFRXdNRkNiM2k5ZDcycGtwdXFSWEJtNldrZXlHM2NIZ3RjTDhXSFA4SXVDU25FQ3ZEbXc0TExEc0NCR0NLNW9Nbjc4SjFOellzRlI4b0NiTTlNdGZRY2RJbEk0eUJtQWVJYkhVVXJ5ME1uUmNLeW14YlJrSnpBVXFjeEJMMG9EZmJBSU1kTkU?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:05:24Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-says-us-will-beat-china-in-ai-as-technolog",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "ويقول ترامب إن الولايات المتحدة ستتغلب على الصين في مجال الذكاء الاصطناعي مع ظهور التكنولوجيا",
-   "summary": "ويقول ترامب إن الولايات المتحدة ستتغلب على الصين في مجال الذكاء الاصطناعي مع ظهور التكنولوجيا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ويقول ترامب إن الولايات المتحدة ستتغلب على الصين في مجال الذكاء الاصطناعي مع ظهور التكنولوجيا."
-    }
-   ],
-   "source": "Fox 10 News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkpqakZoN2tUN3RUZlh4czFwdEs2WnFaUEtmTVIwX1I0eV83YjJXd004eThCYlVqUDdtVzROdDZsNzBLMW9HeXA1VnlOQ2haN21JclpkSDhiT2VRRFNBeWR3WGV5dkdFMDFKdS1hc3E4dmRUWG1rNnkyZ3o4Zmp5RE8tWkZ5bXUySFlCRHFKZzfSAaQBQVVfeXFMUHY5N3d0aWtQQTJYLUwyY2x4dHB2NUx2RDhPLWFvcDhScU5jOURvUUJnMTI0NzBqMzJhS01naUVVQ3c1NWhkckRiU3hwWnZ6SjFEdDZ3cjE3WlRNcEZvVERzeFdSRTJrT0twMmgyWHRMVVBUUVpPS3FVbWRSYlpJZE9yY3lOdU9qLXpIaXdsYktEbzNDaDAyVnNsM3NWbnQzWVpCaWI?oc=5",
-   "type": null,
-   "time": "2026-10-28T19:31:00Z",
-   "countries": [
-    "United States of America",
-    "China"
-   ]
-  },
-  {
-   "id": "pakistan-fast-bowler-rauf-fined-for-breaching-ic",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "تم تغريم اللاعب الباكستاني السريع رؤوف لانتهاكه قواعد السلوك للمحكمة الجنائية الدولية",
-   "summary": "تم تغريم اللاعب الباكستاني السريع رؤوف لانتهاكه قواعد السلوك للمحكمة الجنائية الدولية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تم تغريم اللاعب الباكستاني السريع رؤوف لانتهاكه قواعد السلوك للمحكمة الجنائية الدولية."
-    }
-   ],
-   "source": "CTPost",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjJLNENCTGRKeTNubzlhUFhDejZNRWt5X25DZ3AzR0I5aHVIZ3I0WkMwQVVpUmpvNGV3bllPcll6MDlRbldWU3lSVWxfSmFoRTI5ekR2ZVVLRC1nV2trZG9jbUFvb2x3UVh6ODVCVUVUQ0RaNHEydGsxZ1E1V1BaZk1sQkdueWJCeE14N0hEalFtZDhsM2lZM014ZzdxMkF3eHc?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:43:05Z",
-   "countries": [
-    "Pakistan"
    ]
   },
   {
@@ -477,10 +262,261 @@
    "source": "AP News",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
    "type": null,
-   "time": "2026-10-28T22:44:00Z",
+   "time": "2026-10-29T00:21:00Z",
    "countries": [
     "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
+   "country": "Spain",
+   "label": "اسبانيا",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "مقتل 68 شخصًا على الأقل في حادث قطار في إسبانيا، كما وصف شهود العيان المشاهد المدمرة",
+   "summary": "وقال وزير النقل إن الحادث الذي وقع بين قطار متحرك وآخر متوقف على المسار، نجم عن خطأ \"لا يمكن تفسيره\".",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مقتل 68 شخصًا على الأقل في حادث قطار في إسبانيا، كما وصف شهود العيان المشاهد المدمرة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وقال وزير النقل إن الحادث الذي وقع بين قطار متحرك وآخر متوقف على المسار، نجم عن خطأ \"لا يمكن تفسيره\"."
+    }
+   ],
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T22:09:00Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "uae-president-honours-flydubai-crew-captain-smit",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "رئيس الدولة يكرم طاقم فلاي دبي الكابتن سميت مششار على شجاعة الجو",
+   "summary": "رئيس الدولة يكرم طاقم فلاي دبي الكابتن سميت مششار على شجاعة الجو",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "رئيس الدولة يكرم طاقم فلاي دبي الكابتن سميت مششار على شجاعة الجو."
+    }
+   ],
+   "source": "India Narrative",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG1TRWZDVmk4cExrOG1SU2ZNVjFIUFgtV3c3ZFhNOWhselVBVHhaTm5ONWVoR2QwT01sejZRZDFjeUNRQUFManJzWU9qQUtDekI5ano3MnhMZmFXYU1qdFFrR3kzTVFQWTdiNkpmR3ZBUTZXMjZrTnV6RkV4Nm9kMWFCb3Q4cFhkLS1HdWRmMkNDOTBRdTQ3SzhmazhodjUyMW8tQnd6ay1jRFNYQlNKZmNjQm1GYlc1?oc=5",
+   "type": null,
+   "time": "2026-10-29T00:29:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير",
+   "summary": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "دعما لسياسة الصين الواحدة، باكستان تمنع شركات الطيران التايوانية من استخدام مجالها الجوي: تقرير."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDZqVm82alc5bjUwVHBBaUlJVThVSHN4S09UZ2V1aERPWWRkVDNudEpYTGlqOVdqaHRBMzRnejF5NGlmV0JwTlBKb2RlZ0QwTndOeWtOQVVKcG1sQmlxUWJRYlg2cGRma0J6N1ZFVDJ6aEJoVVNOZmRxOG9sRU80a0hQSEprYk42UWozM1U3SHBHZlRLakpvRXN4U1FGd0FzQlJvRXg4Y0I4a0NnSnA3MFZ6VTAwcmtxelJseDEybEtvdVZzbkUydUhyQTdOUU9xZEN4ZA?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:32:09Z",
+   "countries": [
+    "Pakistan",
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "تمت معاقبة هاريس رؤوف لانتهاكه قواعد السلوك للمحكمة الجنائية الدولية في مباراة ثلاثية ضد إنجلترا",
+   "summary": "تم تغريم اللاعب الباكستاني حارس رؤوف بنسبة 20٪ من رسوم المباراة لخرقه قواعد السلوك الخاصة بالمجلس الدولي للكريكيت (ICC) خلال مباراة السلسلة الثلاثية الدولية (ODI) ليوم واحد ضد إنجلترا يوم الأحد.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تمت معاقبة هاريس رؤوف لانتهاكه قواعد السلوك للمحكمة الجنائية الدولية في مباراة ثلاثية ضد إنجلترا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تم تغريم اللاعب الباكستاني حارس رؤوف بنسبة 20٪ من رسوم المباراة لخرقه قواعد السلوك الخاصة بالمجلس الدولي للكريكيت (ICC) خلال مباراة السلسلة الثلاثية الدولية (ODI) ليوم واحد ضد إنجلترا يوم الأحد."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "israeli-settlers-savagely-attack-journalists-in-",
+   "country": "Israel",
+   "label": "إسرائيل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "مستوطنون إسرائيليون يعتدون بوحشية على الصحفيين في الضفة الغربية المحتلة",
+   "summary": "وأظهرت مقاطع فيديو متداولة على مواقع التواصل الاجتماعي، مستوطنين إسرائيليين يعتدون على ثلاثة صحفيين أجانب في الضفة الغربية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مستوطنون إسرائيليون يعتدون بوحشية على الصحفيين في الضفة الغربية المحتلة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وأظهرت مقاطع فيديو متداولة على مواقع التواصل الاجتماعي، مستوطنين إسرائيليين يعتدون على ثلاثة صحفيين أجانب في الضفة الغربية"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T02:43:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "riot-police-deployed-in-madrid-as-protests-erupt",
+   "country": "Spain",
+   "label": "اسبانيا",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "انتشرت شرطة مكافحة الشغب في مدريد مع اندلاع الاحتجاجات على حادث قطار مميت",
+   "summary": "أثار حادث قطار مميت الغضب في إسبانيا حيث اشتبك متظاهرون من اليمين المتطرف مع الشرطة",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "انتشرت شرطة مكافحة الشغب في مدريد مع اندلاع الاحتجاجات على حادث قطار مميت."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "أثار حادث قطار مميت الغضب في إسبانيا حيث اشتبك متظاهرون من اليمين المتطرف مع الشرطة"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T00:36:33Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "fed-leaves-interest-rates-unchanged-despite-infl",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "بنك الاحتياطي الفيدرالي يترك أسعار الفائدة دون تغيير على الرغم من التضخم في الولايات المتحدة",
+   "summary": "وستبقى المعدلات بين 3.75% و4% حتى مع استمرار التضخم في الارتفاع.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "بنك الاحتياطي الفيدرالي يترك أسعار الفائدة دون تغيير على الرغم من التضخم في الولايات المتحدة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا يعني بالنسبة للأسعار؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وستبقى المعدلات بين 3.75% و4% حتى مع استمرار التضخم في الارتفاع."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-28T19:05:44Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "fl-vio-bolsonaro-lands-in-miami-after-fleeing-br",
+   "country": "Brazil",
+   "label": "البرازيل",
+   "lat": -14.2,
+   "lon": -51.9,
+   "flag": "🇧🇷",
+   "severity": "info",
+   "category": "World",
+   "headline": "فلافيو بولسونارو يهبط في ميامي بعد فراره من البرازيل",
+   "summary": "يدعي المرشح البرازيلي المهزوم أنه ضحية انقلاب واضطهاد سياسي، ويكرر مزاعم لا أساس لها عن \"تزوير الانتخابات\".",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "فلافيو بولسونارو يهبط في ميامي بعد فراره من البرازيل."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مفهوم. استمر."
+    },
+    {
+     "role": "ANALYST",
+     "text": "يدعي المرشح البرازيلي المهزوم أنه ضحية انقلاب واضطهاد سياسي، ويكرر مزاعم لا أساس لها عن \"تزوير الانتخابات\"."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckFQcFh6dl9SaVI2alN6QWgxZ2xIZzNPRVFEd3l6SXZUcUxPbm5xUGF0Z0JEdnNaZUgyeTBaT1JTQXBFeFlPVDFXeEpXeVlPc0E4bGk1Z3pnNmR2bk5KZWVhN3FnY3l2U2pMbWJLZnp1cXJCeW1vOFZlY3V3Zk9MVDdVcTRBTTFPS0FoU2c4c0dYNzdadk84dQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T23:04:44Z",
+   "countries": [
+    "Brazil"
    ]
   }
  ]

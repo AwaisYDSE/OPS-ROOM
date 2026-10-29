@@ -1,32 +1,142 @@
 {
- "updated": "2026-10-28T23:17:39.676124Z",
+ "updated": "2026-10-29T02:56:00.045184Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "oil-prices-rise-on-yemen-fighting-saudi-refinery",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "oil-prices-increase-after-attack-on-saudi-refine",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "markets",
    "category": "Markets",
-   "headline": "也门战斗和沙特炼油厂袭击导致油价上涨",
-   "summary": "也门战斗和沙特炼油厂袭击导致油价上涨",
+   "headline": "沙特炼油厂遇袭后油价上涨",
+   "summary": "沙特炼油厂遇袭后油价上涨",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "也门战斗和沙特炼油厂袭击导致油价上涨。"
+     "text": "沙特炼油厂遇袭后油价上涨。"
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcTZ0bjh6dnNPalJZRWI?oc=5",
+   "source": "Transport Topics",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0M2x6SVJXLWExZ01sX05JWC1qMnpmSlIxcDdLOXVjUHktbDNoTGkwbWZEdnIzdllfeGZ6clpLWEVBS1U0WUJxc1BpbWlNYlhHMVNGZV96VjdjM2VKUGNNbXp5WEEtTkEz?oc=5",
    "type": null,
-   "time": "2026-10-28T01:49:00Z",
+   "time": "2026-10-28T12:23:00Z",
    "countries": [
-    "Yemen",
     "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-destroys-houthi-ballistic-mi",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "沙特领导的联军摧毁了胡塞武装向沙特发射的弹道导弹",
+   "summary": "沙特领导的联军摧毁了胡塞武装向沙特发射的弹道导弹",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "沙特领导的联军摧毁了胡塞武装向沙特发射的弹道导弹。"
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wbWZ3dFNrUE5MVzVmaVhiNDBmV3hjTDZjN0J6cmdXRzg2clpzX1NBRnphQVRJeFNXOGZOZ09haHozamRjMFZ2T2xoa0FmakYzRm9SSVByTDNwdnlB?oc=5",
+   "type": null,
+   "time": "2026-10-29T02:06:03Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-update-october-28-2026",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "伊朗更新：2026 年 10 月 28 日",
+   "summary": "伊朗更新：2026 年 10 月 28 日",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗更新：2026 年 10 月 28 日。"
+    }
+   ],
+   "source": "Critical Threats",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYkxod0x1YmhmNDdqb01SMHMtN0tPdDAxd2dfSGRtaUxpX3VjQWd1TXBWNWtQTlJqOWxXZVVQTkUxclhWNV9DRHZFUUg4bm1neVFyQjJUaG5HWHFTRjUyRFRabXlPN0ZyTHp1X244ZmtzbFN5eGhr?oc=5",
+   "type": null,
+   "time": "2026-10-28T22:59:05Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-war-live-tehran-presses-7-day-hormuz-plan-t",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗战事直播：德黑兰施压7天霍尔木兹计划；特朗普否认和谈",
+   "summary": "阿拉格奇表示，伊朗正在与调解人密切接触，商讨实施重新开放霍尔木兹海峡的七日计划的想法。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗战事直播：德黑兰施压7天霍尔木兹计划；特朗普否认和平谈判。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "阿拉格奇表示，伊朗正在与调解人密切接触，商讨实施重新开放霍尔木兹海峡的七日计划的想法。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T00:00:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "saudi-oil-exports-boom-despite-relentless-houthi",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "尽管胡塞武装发动无情袭击，沙特石油出口仍蓬勃发展",
+   "summary": "尽管胡塞武装发动无情袭击，沙特石油出口仍蓬勃发展",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "尽管胡塞武装发动了无情的袭击，沙特石油出口仍蓬勃发展。"
+    }
+   ],
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdCVG5hYllpY3VIU3l6bnZRWFQtQmhHYlJValgySjFiMkZBdmRDZzhoN2lNMk1CSUxYQVJFUW4xclM0NHlnNVhqUzBmU3RtZDFKYjhSVzgteDBZUm5wcUVqek5PRUVZNEc2NzJmeURIWXF5WUVFbHJLRGpoNUJyb1FhRU1fVi1QUUZZZmloMVNhZkp1cmxTdnRMeXlLQzg?oc=5",
+   "type": null,
+   "time": "2026-10-28T23:15:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -56,29 +166,29 @@
    ]
   },
   {
-   "id": "iran-war-s-cost-to-american-taxpayers-grows-to-a",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "伊朗战争给美国纳税人造成的损失估计增至 471 亿美元",
-   "summary": "伊朗战争给美国纳税人造成的损失估计增至 471 亿美元",
+   "id": "uae-canada-trade-deal-to-boost-uae-economy-by-8-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元",
+   "summary": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "伊朗战争给美国纳税人造成的损失估计增至 471 亿美元。"
+     "text": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元。"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmtDOVlyclBObWZ4c3hrWlVJM3g2b0dhTlRYYUd3TUpzWFB2UVVLS0l5cGdjanBwY3IxTk15d3RqcXlIZkpWdUtCZkVnNTB5dHIyMUhLZHpWOEk4R2Mtam8wOURrZWVpWGR6d2tyTlJSLW5zblRNclo0Yk9idlhwbGVjWGdwQmppNDVOdzAtVkFzVzQ?oc=5",
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5",
    "type": null,
-   "time": "2026-10-28T17:23:00Z",
+   "time": "2026-10-28T20:06:22Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "United Arab Emirates",
+    "Canada"
    ]
   },
   {
@@ -107,110 +217,7 @@
    ]
   },
   {
-   "id": "canada-and-uae-sign-trade-defence-and-energy-agr",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "加拿大和阿联酋签署贸易、国防和能源协议",
-   "summary": "加拿大和阿联酋签署贸易、国防和能源协议",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "加拿大和阿联酋签署贸易、国防和能源协议。"
-    }
-   ],
-   "source": "The Globe and Mail",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjIxZTI3TGdPWFpNSld6d3VsbUtxR1JrQUdMVEFHY1hwX2tmYkJ4aWE0c0xhb3o2QUlKR0FzRDlYdXM1UHlyZHhWLTFnUm56a29mTGZXMHpxQ0JNcV83LVZqX1VuZndhUWFMZ0V3czZFaS1wU1ZwdGFheW9GT2M4SWF5MWM0ckFrVTVwSzQxUFpJSzZoWjJadWxPVTdzTTY5cWNn?oc=5",
-   "type": "VIDEO",
-   "time": "2026-10-28T11:34:24Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "wwe-crown-jewel-moving-locations-amid-attacks-in",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "WWE Crown Jewel因沙特阿拉伯袭击事件而搬迁地点",
-   "summary": "WWE Crown Jewel因沙特阿拉伯袭击事件而搬迁地点",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "WWE Crown Jewel 在沙特阿拉伯的袭击中搬迁了地点。"
-    }
-   ],
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcEJueHlSakljWjU3dmladW15eURVVWdCejBOU3FLc3F0LVRlYUdIVUFLdHAtYlZDQjVIdkhXd2hsbDV6QmQ2SzlBeEQybFc4MjRuZ2RBOHVYYzN1R3I3Rk5TejJYWDRHV0daQWhtZzJwY1dCRm9NaU5COUVUaVN4SXc2RVVSaVNhbnRfNDAxV3ViRTlQRFpPblZpYTZlUjlxQUNwaEpxdGZwWG9qUU9wZGFtaTJRVVl3Ymo4Sw?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:33:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "saudi-oil-exports-boom-despite-relentless-houthi",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "尽管胡塞武装发动无情袭击，沙特石油出口仍蓬勃发展",
-   "summary": "尽管胡塞武装发动无情袭击，沙特石油出口仍蓬勃发展",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "尽管胡塞武装发动了无情的袭击，沙特石油出口仍蓬勃发展。"
-    }
-   ],
-   "source": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdCVG5hYllpY3VIU3l6bnZRWFQtQmhHYlJValgySjFiMkZBdmRDZzhoN2lNMk1CSUxYQVJFUW4xclM0NHlnNVhqUzBmU3RtZDFKYjhSVzgteDBZUm5wcUVqek5PRUVZNEc2NzJmeURIWXF5WUVFbHJLRGpoNUJyb1FhRU1fVi1QUUZZZmloMVNhZkp1cmxTdnRMeXlLQzg?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:39:02Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "uae-canada-trade-deal-to-boost-uae-economy-by-8-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元",
-   "summary": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋-加拿大贸易协议将使阿联酋经济到 2033 年增长 87 亿美元，出口增长 118 亿美元。"
-    }
-   ],
-   "source": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:06:22Z",
-   "countries": [
-    "United Arab Emirates",
-    "Canada"
-   ]
-  },
-  {
-   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "id": "pakistan-allows-taiwan-airlines-to-use-airspace-",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -218,243 +225,21 @@
    "flag": "🇵🇰",
    "severity": "watch",
    "category": "Pakistan",
-   "headline": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
-   "summary": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
+   "headline": "巴基斯坦允许台湾航空公司突然掉头使用空域",
+   "summary": "巴基斯坦允许台湾航空公司突然掉头使用空域",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告。"
+     "text": "巴基斯坦允许台湾航空公司突然掉头使用空域。"
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGNGV3F6OG1xWEZwM09MaHlxSEhaTTFhTTlzYWpnbmVzUWNObzJQeTI4NmxpY2xqVk5LVWdSRlhxM3VEbUZfOGVGb0ZVNnhhUmhHa2stUHlXcFpOblJzOWpqU0NNMXRqTHp0dl83YklRTDhmOUxLeHk2dlNRWFVaR3g5UDNqWmhZWjFKVjl0QkduMEZzVE9EQUNQaHV0RzFiQTUtVzh6Nml5eHRYUk9zc2U2bVBZWEV4NHFDTnc2VWlKSWY3TmhJaDkyY0pmdmFDZ01YaFNtSQ?oc=5",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFBvYUx2ZkJWcWRTSF9pZnNBNzNpSUpPSWh3bHhUaGwxVjlqUXliQjhaWDF1WElDTHpOc0MweUMzaWZkVHlxeldUeHljM2dFMG1zMzdSdHRtZFpsUkJjSHFJYU5GYzNPdlNIVUxKUWFvdmtXSFZlZjg3enlaUTRrbDQtVVlldUNkTnNzdEM1Nk1DYVBpczZma08wZ3lySy1VRmxaMUdSeHI3LTVlMzB6OGNfVk1IQQ?oc=5",
    "type": null,
-   "time": "2026-10-28T12:20:22Z",
+   "time": "2026-10-28T14:05:17Z",
    "countries": [
     "Pakistan",
-    "China",
     "Taiwan"
-   ]
-  },
-  {
-   "id": "the-israeli-election-is-deadlocked",
-   "country": "Israel",
-   "label": "以色列",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "以色列大选陷入僵局",
-   "summary": "本杰明·内塔尼亚胡看起来将继续担任以色列看守总理，尽管他的右翼集团失去了议会多数席位，但犹太选民出乎意料地获得了强劲支持，这使得他的对手几乎没有希望将他赶下台。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "以色列选举陷入僵局。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "本杰明·内塔尼亚胡看起来将继续担任以色列看守总理，尽管他的右翼集团失去了议会多数席位，但犹太选民出乎意料地获得了强劲支持，这使得他的对手几乎没有希望将他赶下台。"
-    }
-   ],
-   "source": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0FTVThQZXdVUkNNbTBCLVBETkM1OG05UndKajRIckllbWZyQmRjS3NMemFOSGREbThJSEVERjNuLUw0WWMwa0RMdTF3YzBRVWlFem5HcUFGb1kxZkVZWUlfc1JGLVg4QjBFaVRSblhaaVlvQUhhazNWVTZISUsxUFBDeEJTUQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:18:53Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-as-traders-weigh-u-s-iran-diplom",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "交易商权衡美伊外交和沙特袭击，油价下跌",
-   "summary": "交易商权衡美伊外交和沙特袭击，油价下跌",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着交易商权衡美国与伊朗的外交和沙特的袭击，油价下跌。"
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHd1Q1FTWEFlUlUtZ1FQRWJfYm1QYm5KZW1jTVA2cS01R0cxb0xsNVNrdXJVNm44VTd2ZWN4WnY1R0tla0JuM3NVUmpBVF9GLTl2WEdFRmNUTFpEVUpHVHQzdUREUFBwN2ZEZ2xGcThUa0lKamdzaEY2c19pRy1PcXZCd2hPUmRfTmQ4bUNGWkFPbTM3Z04zLXB2bUdtclBvVmpmQmhqcEloSTJUOHg2ZzRsbEI?oc=5",
-   "type": null,
-   "time": "2026-10-28T21:18:52Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "houthis-strike-yemen-s-aden-airport-after-evacua",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞武装在疏散警告后袭击也门亚丁机场",
-   "summary": "胡塞武装在疏散警告后袭击也门亚丁机场",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装在发出疏散警告后袭击也门亚丁机场。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5",
-   "type": null,
-   "time": "2026-10-28T16:51:33Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "crown-prince-of-abu-dhabi-meets-emirati-students",
-   "country": "Canada",
-   "label": "加拿大",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "info",
-   "category": "World",
-   "headline": "阿布扎比王储在加拿大会见阿联酋学生",
-   "summary": "阿布扎比王储在加拿大会见阿联酋学生",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿布扎比王储在加拿大会见阿联酋学生。"
-    }
-   ],
-   "source": "Sharjah24",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IOGhieTR6cW5LckVVZW9rZXo1c3RUbC16R2tJNy1ldEtZaWZOc1FvaG9vai03c05lbFBVVVVIZFA3MkV4MFZHOVdSeHo3MkVJMFgtMWVvdmFuSmhD?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:11:59Z",
-   "countries": [
-    "Canada",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
-   "country": "Spain",
-   "label": "西班牙",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "西班牙火车相撞事故造成至少68人死亡，目击者描述了毁灭性的场景",
-   "summary": "交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "西班牙火车相撞事故造成至少 68 人死亡，目击者描述了毁灭性的场景。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。"
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
-   "type": null,
-   "time": "2026-10-28T22:09:00Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "trump-signals-possible-end-to-iran-war-as-us-rep",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "特朗普暗示可能结束伊朗战争，据报道美国正在为大选后的袭击做准备",
-   "summary": "特朗普暗示可能结束伊朗战争，据报道美国正在为大选后的袭击做准备",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "据报道，美国正在为大选后的袭击做准备，特朗普暗示可能结束伊朗战争。"
-    }
-   ],
-   "source": "KOKH",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMUhZR0NrN3Z2UGc1ZG1aQjFJMGNLOEY0My1zVExDSkRaY3F0RFZNY0wtd1A4eTRkajBwYjdpeFY5T3dWczdqYUFaMlFTZFQ2bVVRVjA5TGZSajFPTEQ1MGZIRkNXYm9zZktFRXdNRkNiM2k5ZDcycGtwdXFSWEJtNldrZXlHM2NIZ3RjTDhXSFA4SXVDU25FQ3ZEbXc0TExEc0NCR0NLNW9Nbjc4SjFOellzRlI4b0NiTTlNdGZRY2RJbEk0eUJtQWVJYkhVVXJ5ME1uUmNLeW14YlJrSnpBVXFjeEJMMG9EZmJBSU1kTkU?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:05:24Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-says-us-will-beat-china-in-ai-as-technolog",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "特朗普表示，随着技术的出现，美国将在人工智能领域击败中国",
-   "summary": "特朗普表示，随着技术的出现，美国将在人工智能领域击败中国",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "特朗普表示，随着技术的出现，美国将在人工智能领域击败中国。"
-    }
-   ],
-   "source": "Fox 10 News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkpqakZoN2tUN3RUZlh4czFwdEs2WnFaUEtmTVIwX1I0eV83YjJXd004eThCYlVqUDdtVzROdDZsNzBLMW9HeXA1VnlOQ2haN21JclpkSDhiT2VRRFNBeWR3WGV5dkdFMDFKdS1hc3E4dmRUWG1rNnkyZ3o4Zmp5RE8tWkZ5bXUySFlCRHFKZzfSAaQBQVVfeXFMUHY5N3d0aWtQQTJYLUwyY2x4dHB2NUx2RDhPLWFvcDhScU5jOURvUUJnMTI0NzBqMzJhS01naUVVQ3c1NWhkckRiU3hwWnZ6SjFEdDZ3cjE3WlRNcEZvVERzeFdSRTJrT0twMmgyWHRMVVBUUVpPS3FVbWRSYlpJZE9yY3lOdU9qLXpIaXdsYktEbzNDaDAyVnNsM3NWbnQzWVpCaWI?oc=5",
-   "type": null,
-   "time": "2026-10-28T19:31:00Z",
-   "countries": [
-    "United States of America",
-    "China"
-   ]
-  },
-  {
-   "id": "pakistan-fast-bowler-rauf-fined-for-breaching-ic",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "巴基斯坦快速投球手拉乌夫因违反国际刑事法院行为准则而被罚款",
-   "summary": "巴基斯坦快速投球手拉乌夫因违反国际刑事法院行为准则而被罚款",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦快速投球手拉乌夫因违反国际刑事法院行为准则而被罚款。"
-    }
-   ],
-   "source": "CTPost",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjJLNENCTGRKeTNubzlhUFhDejZNRWt5X25DZ3AzR0I5aHVIZ3I0WkMwQVVpUmpvNGV3bllPcll6MDlRbldWU3lSVWxfSmFoRTI5ekR2ZVVLRC1nV2trZG9jbUFvb2x3UVh6ODVCVUVUQ0RaNHEydGsxZ1E1V1BaZk1sQkdueWJCeE14N0hEalFtZDhsM2lZM014ZzdxMkF3eHc?oc=5",
-   "type": null,
-   "time": "2026-10-28T20:43:05Z",
-   "countries": [
-    "Pakistan"
    ]
   },
   {
@@ -477,10 +262,261 @@
    "source": "AP News",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5",
    "type": null,
-   "time": "2026-10-28T22:44:00Z",
+   "time": "2026-10-29T00:21:00Z",
    "countries": [
     "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "spain-train-crash-kills-at-least-68-as-witnesses",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "西班牙火车相撞事故造成至少68人死亡，目击者描述了毁灭性的场景",
+   "summary": "交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "西班牙火车相撞事故造成至少 68 人死亡，目击者描述了毁灭性的场景。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "交通部长表示，一列行驶中的火车与另一列停在轨道上的火车之间的相撞事故是由“莫名其妙”的错误造成的。"
+    }
+   ],
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWtOSHNOSFBibkl5WkRpN0IyaGZWbnhhRmtwenJfa2M3cXVucE9qQnhreUhDZmFvMTYwcGR5T3p0YjhZTjh3NV9mWHBqUUpjYmVaWHFGS2NEay1QVnZocWRiZ3A4Q1pCVXJyWlY0RTFEdnV5SVljTkZUNlhtQ1IyN2NPdXpCUQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T22:09:00Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "uae-president-honours-flydubai-crew-captain-smit",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "阿联酋总统表彰迪拜航空机组人员、机长 Smit Macchhar 在空中的勇敢行为",
+   "summary": "阿联酋总统表彰迪拜航空机组人员、机长 Smit Macchhar 在空中的勇敢行为",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋总统表彰迪拜航空机组人员、机长 Smit Macchhar 的空中勇敢行为。"
+    }
+   ],
+   "source": "India Narrative",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUG1TRWZDVmk4cExrOG1SU2ZNVjFIUFgtV3c3ZFhNOWhselVBVHhaTm5ONWVoR2QwT01sejZRZDFjeUNRQUFManJzWU9qQUtDekI5ano3MnhMZmFXYU1qdFFrR3kzTVFQWTdiNkpmR3ZBUTZXMjZrTnV6RkV4Nm9kMWFCb3Q4cFhkLS1HdWRmMkNDOTBRdTQ3SzhmazhodjUyMW8tQnd6ay1jRFNYQlNKZmNjQm1GYlc1?oc=5",
+   "type": null,
+   "time": "2026-10-29T00:29:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "in-support-of-one-china-policy-pakistan-bans-tai",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
+   "summary": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "为了支持一个中国政策，巴基斯坦禁止台湾航空公司使用其领空：报告。"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSDZqVm82alc5bjUwVHBBaUlJVThVSHN4S09UZ2V1aERPWWRkVDNudEpYTGlqOVdqaHRBMzRnejF5NGlmV0JwTlBKb2RlZ0QwTndOeWtOQVVKcG1sQmlxUWJRYlg2cGRma0J6N1ZFVDJ6aEJoVVNOZmRxOG9sRU80a0hQSEprYk42UWozM1U3SHBHZlRLakpvRXN4U1FGd0FzQlJvRXg4Y0I4a0NnSnA3MFZ6VTAwcmtxelJseDEybEtvdVZzbkUydUhyQTdOUU9xZEN4ZA?oc=5",
+   "type": null,
+   "time": "2026-10-28T12:32:09Z",
+   "countries": [
+    "Pakistan",
+    "China",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "haris-rauf-penalised-for-breach-of-icc-code-of-c",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "哈里斯·劳夫因在对阵英格兰的三系列赛中违反国际刑事法院行为准则而受到处罚",
+   "summary": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "哈里斯·劳夫 (Haris Rauf) 在对阵英格兰的三系列赛中因违反国际刑事法院行为准则而受到处罚。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周日，巴基斯坦配速员哈里斯·劳夫 (Haris Rauf) 因在国际板球一日三连赛 (ODI) 对阵英格兰的比赛中违反国际板球理事会 (ICC) 行为准则，被处以比赛费用 20% 的罚款。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+   "type": null,
+   "time": "2026-10-28T15:23:22Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "israeli-settlers-savagely-attack-journalists-in-",
+   "country": "Israel",
+   "label": "以色列",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "以色列定居者在被占领的约旦河西岸野蛮袭击记者",
+   "summary": "社交媒体上流传的视频显示，以色列定居者在西岸袭击了三名外国记者",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以色列定居者在被占领的约旦河西岸野蛮袭击记者。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "社交媒体上流传的视频显示，以色列定居者在西岸袭击了三名外国记者"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T02:43:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "riot-police-deployed-in-madrid-as-protests-erupt",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "致命火车相撞引发抗议活动，马德里部署防暴警察",
+   "summary": "西班牙发生致命火车事故，极右示威者与警察发生冲突，引发愤怒",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于致命火车事故引发抗议活动，马德里部署了防暴警察。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "西班牙发生致命火车事故，极右示威者与警察发生冲突，引发愤怒"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-29T00:36:33Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "fed-leaves-interest-rates-unchanged-despite-infl",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "尽管美国通胀，美联储维持利率不变",
+   "summary": "即使通胀继续上升，利率仍将保持在 3.75-4%。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "尽管美国出现通胀，美联储仍维持利率不变。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "即使通胀继续上升，利率仍将保持在 3.75-4%。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/10/28/fed-leaves-interest-rates-unchanged-despite-inflation-in-the-us?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-28T19:05:44Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "fl-vio-bolsonaro-lands-in-miami-after-fleeing-br",
+   "country": "Brazil",
+   "label": "巴西",
+   "lat": -14.2,
+   "lon": -51.9,
+   "flag": "🇧🇷",
+   "severity": "info",
+   "category": "World",
+   "headline": "弗拉维奥·博尔索纳罗逃离巴西后抵达迈阿密",
+   "summary": "落败的巴西候选人声称自己是政变和政治迫害的受害者，反复提出未经证实的“选举舞弊”指控。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "弗拉维奥·博尔索纳罗逃离巴西后抵达迈阿密。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "落败的巴西候选人声称自己是政变和政治迫害的受害者，反复提出未经证实的“选举舞弊”指控。"
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckFQcFh6dl9SaVI2alN6QWgxZ2xIZzNPRVFEd3l6SXZUcUxPbm5xUGF0Z0JEdnNaZUgyeTBaT1JTQXBFeFlPVDFXeEpXeVlPc0E4bGk1Z3pnNmR2bk5KZWVhN3FnY3l2U2pMbWJLZnp1cXJCeW1vOFZlY3V3Zk9MVDdVcTRBTTFPS0FoU2c4c0dYNzdadk84dQ?oc=5",
+   "type": null,
+   "time": "2026-10-28T23:04:44Z",
+   "countries": [
+    "Brazil"
    ]
   }
  ]
