@@ -1,180 +1,44 @@
 {
- "updated": "2026-10-30T02:00:08.855509Z",
+ "updated": "2026-10-30T15:22:26.822435Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "universality-and-celebrations-in-abu-dhabi",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "阿布扎比的普遍性和庆祝活动",
-   "summary": "阿布扎比的普遍性和庆祝活动",
+   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "巴基斯坦和沙特阿拉伯同意加强石油、炼油厂和矿产领域合作",
+   "summary": "伊斯兰堡：据一位官员称，巴基斯坦和沙特阿拉伯周五同意加强在石油储存、炼油厂升级、原油和液化石油气（LPG）采购以及矿产领域的战略合作，以促进双边经济关系",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "阿布扎比的普遍性和庆祝活动。"
-    }
-   ],
-   "source": "IJF",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TWFsU0xHTGpwZy10MXFNbmRIUHM2aEV5dUliZ210NzZvV0FlTndPdVBUeThZMEhvYWprZjJHbF9QQmd0ZFZZNFl4c0Z6YU5QLW1FcExkb3ZiSURfZ2Y2ZVZIQzBmaHZFY2hMeThMRk85WW95bTh2dG51WS0?oc=5",
-   "type": null,
-   "time": "2026-10-29T18:49:14Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "jake-paul-plans-return-to-ring-on-christmas-eve-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "杰克·保罗计划在平安夜重返迪拜",
-   "summary": "杰克·保罗计划在平安夜重返迪拜",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "杰克·保罗计划在平安夜重返迪拜。"
-    }
-   ],
-   "source": "Field Level Media",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzdfY1BZS29CTW1FWFNZbzllMHNyNVFCV3pBRzBlZzlpUGZXLVR3UGlPeGpCTFhuMEFxbnhZdEgtejM5LUtfYThXdlpyd04zOUZVM2pDVmhDTFpyN1hLVmx4b0VybUJ0QzVxeDN3WEU2X1lleHdzaE0wZEU3dkJaTTVYZGVkRkpRSkc2cG1PZ1ltTXNZ?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:29:06Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "houthi-forces-claim-six-attacks-on-saudi-airport",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞武装声称沙特机场和石油设施遭受六次袭击",
-   "summary": "尽管伊朗与麦加条约国家本周早些时候在德黑兰举行了会谈，但还是宣布了这一消息。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装声称对沙特机场和石油设施发动了六次袭击。"
+     "text": "巴基斯坦和沙特阿拉伯同意加强石油、炼油厂和矿产领域的合作。"
     },
     {
      "role": "COMMANDER",
-     "text": "确认了吗？"
+     "text": "这对价格意味着什么？"
     },
     {
      "role": "ANALYST",
-     "text": "尽管伊朗与麦加条约国家本周早些时候在德黑兰举行了会谈，但还是宣布了这一消息。"
+     "text": "伊斯兰堡：据一位官员称，巴基斯坦和沙特阿拉伯周五同意加强在石油储存、炼油厂升级、原油和液化石油气（LPG）采购以及矿产领域的战略合作，以促进双边经济关系"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
    "type": null,
-   "time": "2026-10-30T00:11:20Z",
+   "time": "2026-10-30T11:39:36Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Iran"
+    "Pakistan",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-war-live-irgc-says-four-tankers-struck-mine",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗战争直播：伊朗革命卫队称四艘油轮在霍尔木兹海峡触雷",
-   "summary": "伊朗伊斯兰革命卫队表示，四艘油轮在使用“未经授权”的霍尔木兹海峡航线后触雷。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗战争直播：伊朗革命卫队称四艘油轮在霍尔木兹海峡触雷。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "伊朗伊斯兰革命卫队表示，四艘油轮在使用“未经授权”的霍尔木兹海峡航线后触雷。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-30T00:00:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pentagon-says-iran-war-has-cost-us-taxpayers-47b",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "五角大楼称伊朗战争已使美国纳税人损失 470 亿美元：这意味着什么",
-   "summary": "五角大楼称伊朗战争已使美国纳税人损失 470 亿美元：这意味着什么",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "五角大楼称伊朗战争已使美国纳税人损失 470 亿美元：这意味着什么。"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:52:05Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-destroys-2-houthi",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "沙特领导的联军拦截并摧毁了两枚瞄准利雅得的胡塞弹道导弹",
-   "summary": "沙特领导的联军拦截并摧毁了两枚瞄准利雅得的胡塞弹道导弹",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特领导的联军拦截并摧毁了两枚瞄准利雅得的胡塞弹道导弹。"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWtpWG9vcjFQb2FQTVRfSFhHNmdQZnpiX1Q0dTdoSzJtVEhyb2ZxZjVtclVGNzM2bzliZVM4WENNV1dhdUU0TVV0M3A4LTlqMUtGbWhvLWdpSE4wb3daY2NZTWNVZU5yT3M3X2x6aVljT0dMT1c0dGVGNVZWaFNGMXN4c2VsaE1ZZFhqNlhKVnhDNUJPZkgwS0FwbUlyd0tzZmJibXc1VDFZRENMX1NCY0RhRzRfNWR4R3F4S3NFSTUzWEtiYi1adw?oc=5",
-   "type": null,
-   "time": "2026-10-29T18:24:17Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "hegseth-fires-the-pentagon-s-top-military-planne",
+   "id": "senators-briefed-on-trump-s-insane-plan-to-resta",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -182,59 +46,59 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "尽管特朗普考虑对伊朗发动新的打击，赫格斯还是解雇了五角大楼最高军事规划师",
-   "summary": "据美国媒体报道，美国解雇了一名高级军事策划人员，一些媒体称，解雇原因是该军官涉嫌泄露机密信息。",
+   "headline": "参议员们听取了特朗普重启对伊朗战争的“疯狂”计划的简报",
+   "summary": "参议员克里斯·墨菲表示，他已获悉特朗普重启对伊朗战争的计划。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "尽管特朗普正在考虑对伊朗发动新的打击，赫格斯还是解雇了五角大楼最高军事规划师。"
+     "text": "参议员们简要介绍了特朗普重启对伊朗战争的“疯狂”计划。"
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "到目前为止我们知道什么？"
     },
     {
      "role": "ANALYST",
-     "text": "据美国媒体报道，美国解雇了一名高级军事策划人员，一些媒体称，解雇原因是该军官涉嫌泄露机密信息。"
+     "text": "参议员克里斯·墨菲表示，他已获悉特朗普重启对伊朗战争的计划。"
     }
    ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmtqZDlERWUySHdKbDF3cmhHWmF1MVZtNkR1MXFfTndncHhCQVhSS1VUU2xNNnBoMTZRZ1RSenc0ZEl1V0UweGpUYW1WbzlrNnZydzI5bWFZLThqUnplTEY4T1BweTQ1TkpOTjlvZlFPQUZfMlVJRVRtbEw4U2RTRWt2YXVLTmhQS0JubmNZOUN2VE9wMmF5TWNGOUVQXzNEaXVpb0pvbmRlWVlVd2NOR2ZDWS14cG5XQzZxVnJDRXE2YnFKemfSAcsBQVVfeXFMTVFCR2RPZ3RTT1JCY3VHeXBQNHRmbjhuODFjOHM3MTFNaUlZV3Uycldoc0NzdkRMd0pMVXpaU1JTTGZHR29VX2FXTnFVeHJzUHJrdnJsUEFQX3BjWnNTWWd0UlFlbUF1VnNscGFWdk9FTWhxeVhOdHRnVDNSU1A5dU9qUkVpN0RwOXJOcDNFNHp6WkY5RmJMWlo5Z0F4SmlIWlgyWU1Db3RzSnJ4X0ZSS0NYRWo5RW1oajFPWEVKMWl4NmJfOVhTb0hsRzA?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T20:51:20Z",
+   "time": "2026-10-30T14:40:19Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "oil-prices-ease-as-u-s-seeks-to-renew-diplomacy-",
+   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
    "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
    "flag": "🇮🇷",
    "severity": "markets",
    "category": "Markets",
-   "headline": "美国寻求与伊朗恢复外交关系，油价下跌",
-   "summary": "美国寻求与伊朗恢复外交关系，油价下跌",
+   "headline": "霍尔木兹油轮袭击后油价上涨，胡塞武装称引发供应担忧",
+   "summary": "霍尔木兹油轮袭击后油价上涨，胡塞武装称引发供应担忧",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "随着美国寻求与伊朗恢复外交关系，油价下跌。"
+     "text": "霍尔木兹油轮袭击后油价上涨，胡塞武装称引发供应担忧。"
     }
    ],
    "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
    "type": null,
-   "time": "2026-10-29T20:15:48Z",
+   "time": "2026-10-30T13:24:00Z",
    "countries": [
     "Iran",
-    "United States of America"
+    "Yemen"
    ]
   },
   {
-   "id": "pakistan-ksa-discuss-farm-investment",
+   "id": "pakistan-dominate-india-in-a-high-voltage-hong-k",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -242,175 +106,25 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "巴基斯坦与沙特阿拉伯讨论农业投资",
-   "summary": "巴基斯坦与沙特阿拉伯讨论农业投资",
+   "headline": "巴基斯坦在激烈的香港六人制对决中主宰印度",
+   "summary": "巴基斯坦在激烈的香港六人制对决中主宰印度",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦和沙特阿拉伯讨论农业投资。"
+     "text": "巴基斯坦在一场激烈的香港六人制对决中主宰印度。"
     }
    ],
-   "source": "The Express Tribune",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tWi0xX0JRZktIM0FHcW5TZ3F4YkJqOEtqbTZQbUhJd3EzUy1UdlY2NUJIQVY4NDZLcjhBeHNQcVBQMXRKNUMzS2w5elJHeENGZFkyUk1waHRhMmZVNXhYV3o1VXFsc05CeGYzRHJmVmJlMGU0eUI1VU5kYjVQUdIBhgFBVV95cUxPVmptVE9hUzNDLWhRUEhHd3dRVEEtek1VTWsweWY2TFBZdzZXeHRpMVQ3Mkw3dm1iYVNUUVVvNGlTOGJ1OTZ5a3VzMnE2dlk2RmY1OEozR1JfbkJYTUpLRngxZkdRemxsUy1SVEtMdTFSZ0tRZFRiUVJla1F5YWNtUFhiZVZYZw?oc=5",
+   "source": "Taiwan News",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByOFFnSXJVUWhZXy1VcTJyT182cmhoelpWeWh2UTFibjZCb2dmZUVqWnRSd1c4SVJXMEdEOUQ4VWg5S3F5bDJ1UXJrcHRQS1ZBSDZEd2xVVFo?oc=5",
    "type": null,
-   "time": "2026-10-30T01:17:08Z",
+   "time": "2026-10-30T14:49:00Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "India"
    ]
   },
   {
-   "id": "russian-drone-kills-14-at-ukraine-train-station-",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "俄罗斯无人机在乌克兰火车站造成 14 人死亡，但梅拉尼娅·特朗普促成的当地停火协议带来了一些希望",
-   "summary": "中部城市第聂伯罗的袭击事件中至少有 14 人受伤，其中包括一名 11 岁男孩。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯无人机在乌克兰火车站造成 14 人死亡，但梅拉尼娅·特朗普促成的当地停火协议带来了一些希望。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "中部城市第聂伯罗的袭击事件中至少有 14 人受伤，其中包括一名 11 岁男孩。"
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:33:00Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-update-october-29-2026",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "伊朗更新：2026 年 10 月 29 日",
-   "summary": "伊朗更新：2026 年 10 月 29 日",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗更新：2026 年 10 月 29 日。"
-    }
-   ],
-   "source": "Critical Threats",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMzNuX3VZRUpSWm40S2I4LWJkcjc2WWJ0YVRtTDdybHljci1wOTBZVEdVS3MtOFB4UHBIaXdMaHdoaFltRHBpdzVNcFBGWnloNnlsaHNZV3JVWTlXbVNVSlQxU1UzSTdfRlpnV05KRXhqMmFsWHIw?oc=5",
-   "type": null,
-   "time": "2026-10-29T23:40:21Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-turkiye-shall-continue-to-champion-dial",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "巴基斯坦总理谢赫巴兹：巴基斯坦和土耳其将在加强防御的同时“继续倡导对话和外交”",
-   "summary": "谢赫巴兹·谢里夫总理周四确认，巴基斯坦和土耳其将继续推动对话和外交，同时根据《麦加防御协议》加强防御。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦总理谢巴兹表示，土耳其和巴基斯坦将在加强防御的同时“继续支持对话和外交”。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "谢赫巴兹·谢里夫总理周四确认，巴基斯坦和土耳其将继续推动对话和外交，同时根据《麦加防御协议》加强防御。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040754/pakistan-turkiye-shall-continue-to-champion-dialogue-diplomacy-alongside-bolstering-defences-pm-shehbaz",
-   "type": null,
-   "time": "2026-10-29T18:34:20Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "the-1-5b-uae-real-estate-and-bitcoin-strategy-ti",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "$1.5B 阿联酋房地产和比特币策略将财产收入与比特币联系起来",
-   "summary": "$1.5B 阿联酋房地产和比特币策略将财产收入与比特币联系起来",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "$1.5B 阿联酋房地产和比特币策略将财产收入与比特币联系起来。"
-    }
-   ],
-   "source": "Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rc0xiNVVDTi1NTVVfMHk4ZGloT2hEN2NIQXcxZDhvU0FSb1BieTlqZXEzWFJDWFc4dlFyZkJ2THU5RHRYM2lyNEZwNm5ZRWxRb05JdmROdTE?oc=5",
-   "type": null,
-   "time": "2026-10-29T22:59:52Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-overperformer-in-innovation-climbs-4-ra",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "报告：巴基斯坦在创新方面“表现出色”，2026 年全球排名将上升 4 位",
-   "summary": "伊斯兰堡：世界知识产权组织（WIPO）周四公布的“2026年全球创新指数”显示，巴基斯坦在全球139个经济体中排名上升至第95位。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "报告称，巴基斯坦在创新方面“表现出色”，到 2026 年全球排名将上升 4 位。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "伊斯兰堡：世界知识产权组织（WIPO）周四公布的“2026年全球创新指数”显示，巴基斯坦在全球139个经济体中排名上升至第95位。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040752/pakistan-overperformer-in-innovation-climbs-4-ranks-globally-in-2026-report",
-   "type": null,
-   "time": "2026-10-29T21:08:47Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-futures-rise-as-attacks-on-saudi-arabia-u-s-",
+   "id": "saudi-arabia-reports-interception-of-houthi-dron",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
    "lat": 24.7,
@@ -418,59 +132,184 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "沙特阿拉伯遭受袭击，美国和伊朗风险持续存在，石油期货上涨",
-   "summary": "沙特阿拉伯遭受袭击，美国和伊朗风险持续存在，石油期货上涨",
+   "headline": "沙特阿拉伯报告拦截针对麦加的胡塞武装无人机",
+   "summary": "沙特阿拉伯报告拦截针对麦加的胡塞武装无人机",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "由于沙特阿拉伯遭受袭击，美国和伊朗风险持续存在，石油期货上涨。"
+     "text": "沙特阿拉伯报告拦截了针对麦加的胡塞武装无人机。"
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3NIQ2tYTXA2UkVQUUh3UGxESzR2R1JnSVhjQjAtQ01PTm5mckJQcjZuSDA1Q3pmeWlnVUhlbThSaEhKRk9uWWdqUW1qRWlzajhDbHhIbU12NmJPNzA1WXNnWllQMkduX01GUXNvNlV2UEUxckZhek5NLWJNR1VEYjB2eXN6TGhLdjRBdU9XVUZHNnNTa1JDU2FyN3dOUmEzbEFaRmNPLXRhakXSAbABQVVfeXFMUFBWdEVMYlpIblRxQ3lVOWFPRnVTa1FwQ1pPTXFuZmV6ODEzNmd1Y0VFNVF4MHVhWU1kRWl6dHl0N2xWNXR5VmRrVmpRelZHeWZtRGZzcWlsUUhnd28yMXlpcFc2dnJQVHJoSkh4bzNwQ3FZeXBybW5EdHl5WjB6ajlkVUhxQVdJMzJwa0hEZkJrMDM5Ty1zQmU3cEZ2S08wWjFLeGdRZHBvblAxVWE0Vmc?oc=5",
    "type": null,
-   "time": "2026-10-29T21:29:53Z",
+   "time": "2026-10-30T11:11:58Z",
    "countries": [
     "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "巴基斯坦人权律师夫妇被判10年监禁",
+   "summary": "伊曼·马扎里 (Imaan Mazari) 和哈迪·阿里·查塔 (Hadi Ali Chattha) 因 2024 年英格兰板球队在巴基斯坦巡回演出时发生的一起事件而受到指控。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "人权律师夫妇在巴基斯坦被判处 10 年监禁。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有多严重？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "伊曼·马扎里 (Imaan Mazari) 和哈迪·阿里·查塔 (Hadi Ali Chattha) 因 2024 年英格兰板球队在巴基斯坦巡回演出时发生的一起事件而受到指控。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T07:53:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "uae-shares-decline-on-weak-earnings-and-regional",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "阿联酋股市因盈利疲弱和地区紧张局势而下跌",
+   "summary": "阿联酋股市因盈利疲弱和地区紧张局势而下跌",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于盈利疲弱和地区紧张局势，阿联酋股市下跌。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVAxeVFhNDJWMV80WVNnYXBENEpxeElXU0JvWFdVeExYc0pCXzJCTVUzc1V1NWhZT0szQ1FBODRkN18zdGRzYl9mMzRXR0EyWEoxMGJSUVgwaUFlcnowVUMxbmJxMllERzhYUmg0OHlibXM4OVRZeGN1RVRydFNWc0ZodnZnRVRMc3JkY3d0cG84emNPNUdsSlIwNEVwWFhDd0F5eGNPUQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T12:21:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-on-iran-war-it-s-going-to-get-wrapped-up-s",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "特朗普谈伊朗战争：很快就会结束",
+   "summary": "特朗普谈伊朗战争：很快就会结束",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "特朗普谈伊朗战争：很快就会结束。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
+   "type": null,
+   "time": "2026-10-30T12:10:11Z",
+   "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "eu-force-helicopter-crash-kills-four-in-bosnia",
-   "country": "Italy",
-   "label": "意大利",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
+   "id": "saudi-arabia-says-drone-intercepted-near-islam-s",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "欧盟军用直升机在波斯尼亚坠毁 造成四人死亡",
-   "summary": "欧盟部队确认 CH-47 支奴干直升机在波斯尼亚坠毁，四名意大利国民确认死亡。",
+   "category": "Middle East",
+   "headline": "沙特阿拉伯称无人机在伊斯兰圣城附近被拦截，以及其他中东新闻",
+   "summary": "沙特阿拉伯称无人机在伊斯兰圣城附近被拦截，以及其他中东新闻",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "欧盟部队直升机在波斯尼亚坠毁，造成四人死亡。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "欧盟部队确认 CH-47 支奴干直升机在波斯尼亚坠毁，四名意大利国民确认死亡。"
+     "text": "沙特阿拉伯称无人机在伊斯兰圣城附近被拦截，以及其他中东新闻。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
    "type": null,
-   "time": "2026-10-30T00:56:49Z",
+   "time": "2026-10-30T12:10:00Z",
    "countries": [
-    "Italy"
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "what-does-bourbon-have-to-do-with-the-us-midterm",
+   "id": "iran-s-irgc-navy-says-three-tankers-catch-fire-i",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "伊朗伊斯兰革命卫队海军称三艘油轮在霍尔木兹海峡起火",
+   "summary": "伊朗伊斯兰革命卫队海军称三艘油轮在霍尔木兹海峡起火",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗伊斯兰革命卫队海军表示，三艘油轮在霍尔木兹海峡起火。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:08:58Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-fines-foreign-bank-branch-dh200-million-for-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "阿联酋因违反洗钱法对外国银行分行处以 2 亿迪拉姆罚款",
+   "summary": "阿联酋因违反洗钱法对外国银行分行处以 2 亿迪拉姆罚款",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋因违反洗钱法而对外国银行分行处以 2 亿迪拉姆罚款。"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVlVQU0ZRcy0yQjNvTkxzek1qRGw5TXZ4Qks3M2t2SGhzc2Z6bE1hSXpHYUJRMElnVjJNbWhMUnFZN0JPel9VQW5SbXN5OFpCUjFBUHdLdzVmYmx6Zk40VmVNUFVWazdCbk5vSUI0dnZ3TEpvMmhyVE1ObDZOWW5ubS1OVUF6eWo3SFlfaDdDVnNQR1lzQi1sZF9BUmVIUFh3dmpESUpFSjNuVDZKc0xfUFZYX0Q0Si01M1JMeFM0QXZINGhnenAzYnYtR2w?oc=5",
+   "type": null,
+   "time": "2026-10-30T12:18:26Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -478,56 +317,197 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "Business",
-   "headline": "波本威士忌与美国中期选举有什么关系？",
-   "summary": "美加贸易战正在损害肯塔基州的波本威士忌产业，该产业每年产值数十亿美元。",
+   "headline": "特朗普对万斯致伊朗信的报道不以为然",
+   "summary": "• 总统表示外展活动的重点是医疗用品，而不是和平谈判 • 德黑兰确认收到副总统的信，但尚未做出回应 • 美国媒体声称信件旨在避免新的袭击 德黑兰：伊朗媒体周四报道称，德黑兰已",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "波本威士忌与美国中期选举有什么关系？"
+     "text": "特朗普对万斯致伊朗信的报道不以为然。"
     },
     {
      "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
+     "text": "到目前为止我们知道什么？"
     },
     {
      "role": "ANALYST",
-     "text": "美加贸易战正在损害肯塔基州的波本威士忌产业，该产业每年产值数十亿美元。"
+     "text": "• 总统表示外展活动的重点是医疗用品，而不是和平谈判 • 德黑兰确认收到副总统的信，但尚未做出回应 • 美国媒体声称信件旨在避免新的袭击 德黑兰：伊朗媒体周四报道称，德黑兰已"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
    "type": null,
-   "time": "2026-10-30T00:08:50Z",
+   "time": "2026-10-30T02:45:29Z",
    "countries": [
     "United States of America",
-    "Canada"
+    "Iran"
    ]
   },
   {
-   "id": "us-military-planes-arrive-in-israel-from-texas-a",
-   "country": "Israel",
-   "label": "以色列",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "在伊朗战争准备期间，美国军机从德克萨斯州抵达以色列",
-   "summary": "在伊朗战争准备期间，美国军机从德克萨斯州抵达以色列",
+   "id": "russia-back-in-ice-hockey-world-championships-af",
+   "country": "Russia",
+   "label": "俄罗斯",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "info",
+   "category": "World",
+   "headline": "体育法庭裁决后俄罗斯重返冰球世锦赛",
+   "summary": "国际体育仲裁法庭推翻了国际冰联将俄罗斯排除在 2026-27 赛季赛事之外的决定。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "在伊朗战争准备期间，美国军机从德克萨斯州抵达以色列。"
+     "text": "体育法庭裁决后，俄罗斯重返冰球世锦赛。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "好吧，还有什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "国际体育仲裁法庭推翻了国际冰联将俄罗斯排除在 2026-27 赛季赛事之外的决定。"
     }
    ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T23:48:25Z",
+   "time": "2026-10-30T12:43:28Z",
    "countries": [
-    "Israel",
-    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "oil-flows-are-up-as-iran-war-turmoil-eases-why-d",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "随着伊朗战争动荡的缓和，石油流量增加。为何物价持续上涨？",
+   "summary": "随着伊朗战争动荡的缓和，石油流量增加。为何物价持续上涨？",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着伊朗战争动荡的缓和，石油流量增加。为何物价不断上涨？"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5",
+   "type": null,
+   "time": "2026-10-30T08:37:51Z",
+   "countries": [
     "Iran"
+   ]
+  },
+  {
+   "id": "uae-shares-slide-as-fresh-tanker-attack-heighten",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "由于新的油轮袭击加剧了石油供应担忧，阿联酋股价下跌",
+   "summary": "由于新的油轮袭击加剧了石油供应担忧，阿联酋股价下跌",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于新的油轮袭击加剧了石油供应担忧，阿联酋股价下跌。"
+    }
+   ],
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVwZTBvelZVUE82QkdVQnE3MldBM1NaRk15QlV1Qms1QTl2NjBoRE4zWGJDUlY5dERMaTNDb0Y3STdmZnVIaHVGUmlXYXlpZFdlVU52MWJ2RENVcnpweEFFS2IxdFFoOXh3eHlTU2Vwc3QwYUpNYzlUWWpXWFBqdE9meHU?oc=5",
+   "type": null,
+   "time": "2026-10-30T11:43:50Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "six-dead-after-helicopter-crashes-in-northern-in",
+   "country": "India",
+   "label": "印度",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "印度北部邦直升机坠毁造成六人死亡",
+   "summary": "据报道，这架飞机于周五下午从印度教朝圣地巴德里纳特起飞，随后失去联系。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "直升机在印度北部邦坠毁，造成六人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "据报道，这架飞机于周五下午从印度教朝圣地巴德里纳特起飞，随后失去联系。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T15:06:05Z",
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "aid-operation-and-evacuations-in-oleshky-amid-br",
+   "country": "Russia",
+   "label": "俄罗斯",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "在俄罗斯和乌克兰同意短暂休战期间，奥列什基的援助行动和疏散行动",
+   "summary": "在俄罗斯和乌克兰同意短暂休战期间，奥列什基的援助行动和疏散行动",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "在俄罗斯和乌克兰同意短暂休战期间，奥列什基的援助行动和疏散行动。"
+    }
+   ],
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:31:02Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "sheikh-mohammed-bin-rashid-invites-saudi-crown-p",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "谢赫·穆罕默德·本·拉希德邀请沙特王储穆罕默德·本·萨勒曼访问阿联酋",
+   "summary": "谢赫·穆罕默德·本·拉希德邀请沙特王储穆罕默德·本·萨勒曼访问阿联酋",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "谢赫·穆罕默德·本·拉希德邀请沙特王储穆罕默德·本·萨勒曼访问阿联酋。"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTl2cTBndEE3TUJMa2JTeURocmhnampUbXVkNkJjYXJ3NzhnVk9IYWM3S2lYLUVjLXJzcDRkSVhYc3pYWHVDVEQ4ZVNjQUZ1ZlZ5ekZzSXNXdjJoNGlKamJsckExTzh3YVJYam9uUklaRldhazBveWRnZjI5YnZzTjR3QmtwVjRfRnI1ZmlYWDczdko5ZlhYSVo5R3BHTXJyc0F0Rm9yWHVERWh6N2g3RXVubm41ZDFpTzZXdWM2cjNUdGhKbnZERTAtV0pTTkxxNTc0?oc=5",
+   "type": null,
+   "time": "2026-10-30T09:23:55Z",
+   "countries": [
+    "Saudi Arabia",
+    "United Arab Emirates"
    ]
   }
  ]
