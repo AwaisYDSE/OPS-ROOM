@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-30T02:00:08.855509Z",
+ "updated": "2026-10-30T08:44:23.191404Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "universality-and-celebrations-in-abu-dhabi",
+   "id": "abu-dhabi-aldar-championship-rd-2",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -11,45 +11,105 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Universality and Celebrations in Abu Dhabi",
-   "summary": "Universality and Celebrations in Abu Dhabi",
+   "headline": "Abu Dhabi Aldar Championship - Rd 2",
+   "summary": "Abu Dhabi Aldar Championship - Rd 2",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Universality and Celebrations in Abu Dhabi."
+     "text": "Abu Dhabi Aldar Championship - Rd 2."
     }
    ],
-   "source": "IJF",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15TWFsU0xHTGpwZy10MXFNbmRIUHM2aEV5dUliZ210NzZvV0FlTndPdVBUeThZMEhvYWprZjJHbF9QQmd0ZFZZNFl4c0Z6YU5QLW1FcExkb3ZiSURfZ2Y2ZVZIQzBmaHZFY2hMeThMRk85WW95bTh2dG51WS0?oc=5",
+   "source": "Golf Channel",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HYkh6TlhSd2NOSG1ScnhWNDhlcnoyNjhvNFcwMmNHYXRNdC14REtCQ0kxUWUzd0VwRWJxak52NDBRYmJTcFRDTVRrcXQtMmdXZkt4blFfYkdHc0xCdDNyQUktdC0yZGlaTk1xRXdkUVJ5cTByTzJKNHNMTDk?oc=5",
    "type": null,
-   "time": "2026-10-29T18:49:14Z",
+   "time": "2026-10-30T07:09:48Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "jake-paul-plans-return-to-ring-on-christmas-eve-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Jake Paul plans return to ring on Christmas Eve in Dubai",
-   "summary": "Jake Paul plans return to ring on Christmas Eve in Dubai",
+   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Trump at odds with reports of Vance’s letter to Iran",
+   "summary": "• President says outreach focused on medical supplies, not peace talks • Tehran confirms receiving vice president’s letter, no response yet • US media claims correspondence sought to avert new strikes TEHRAN: Iranian media reported on Thursday that Tehran had",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Jake Paul plans return to ring on Christmas Eve in Dubai."
+     "text": "Trump at odds with reports of Vance’s letter to Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "• President says outreach focused on medical supplies, not peace talks • Tehran confirms receiving vice president’s letter, no response yet • US media claims correspondence sought to avert new strikes TEHRAN: Iranian media reported on Thursday that Tehran had"
     }
    ],
-   "source": "Field Level Media",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzdfY1BZS29CTW1FWFNZbzllMHNyNVFCV3pBRzBlZzlpUGZXLVR3UGlPeGpCTFhuMEFxbnhZdEgtejM5LUtfYThXdlpyd04zOUZVM2pDVmhDTFpyN1hLVmx4b0VybUJ0QzVxeDN3WEU2X1lleHdzaE0wZEU3dkJaTTVYZGVkRkpRSkc2cG1PZ1ltTXNZ?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
    "type": null,
-   "time": "2026-10-29T16:29:06Z",
+   "time": "2026-10-30T02:45:29Z",
    "countries": [
-    "United Arab Emirates"
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-as-houthi-attacks-on-saudi-arabi",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116",
+   "summary": "Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil prices rise as Houthi attacks on Saudi Arabia stoke supply fears; Brent nears $116."
+    }
+   ],
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNcHBVcE9WZmcySk53TENURmg3RTRIUTUyTmFvc3otd08wQVVjSDRlN3JKenVMZk1LUzlUQVNvWlBBZHFJM2gyeTdsa0psUjhwM2pCZUNBTDJMa3J6MkVHeEs5U05fZW9PNDc4SUZTMURCVmxLNE50TVdDdjg2dWRpN2JEbjJfdVVpY1c4WThzcHJzdlRBY0JIazdVMkRXSTZPaVp1a0I1bDFHOW5SVTNmUGlKZ1N4dGU1aE9ZblV5S29QeUpiSlROc24xU2c4d25zbnJHT2VYOHdWZ1REYzc5QWhBU1o4UWl6VjFIeVVjT2k0RVlaaU9hWUJUYnZiTm9HaHV6SUR3OFlQUdIBjwJBVV95cUxOR0xLem9wbnFYS2FidG5ETW1hQTZ4WmJLUUhfcFVDWTRxU1BQZFdQTVdoUTFrekdhU3FtbGJmM0Y4dktpUjhxdnhqdW5remxIU2VTa2FjQmZDZFVzbDBlMlZVTDN1cUwxMFlMQW8wVmR0bFI1RmphVmdEMjVqUklzeTJsNXQ0b3ZfVzdxWlBMR2lPRU1WVzZMZ19YNEd6UGJJLUtjeExPWERBRUVxVFNlWDNwUkVSdTgwazBKZC1wTTRzM2tULThKNEROdjcwalJNVWpRM3I4dnFsNUQwX0ozWXVkbmo3ck1Reng5RHVRcERxbG5ob1g0bmMtSHp0Wi1ucEY5NG1NdVNDY3BycFVj?oc=5",
+   "type": null,
+   "time": "2026-10-30T02:46:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "oil-set-for-fourth-monthly-gain-as-hormuz-tanker",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+   "summary": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil set for fourth monthly gain as Hormuz tanker attack highlights supply risks from war."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWE5IUkRJTVJvTFE5SUdOdFFCM2tVN1lKcDI3ci01cjlleVVuXzB1SjI0MDhuWkhwakZFSzl3SGNUZk9uUUYwdHNfMGJOUXExaW1RdmRRVy1Cd0tHb3RqblJCQWczeXdORDVKbVMxMGFrbnVMM3FCY2h5Xzl6T0ZoeTBtbGdnbW9jdWF6VEtqNi14ZnlFaVVpb0xZcHlGTDhtM0ZmY2RYZ2Q?oc=5",
+   "type": null,
+   "time": "2026-10-30T02:27:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -62,88 +122,20 @@
    "severity": "critical",
    "category": "Middle East",
    "headline": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-   "summary": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week.",
+   "summary": "Houthi forces claim six attacks on Saudi airports, oil facilities",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "Houthi forces claim six attacks on Saudi airports, oil facilities."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The announcement comes despite talks between Iran and the Mecca pact countries in Tehran earlier this week."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-30T00:11:20Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-war-live-irgc-says-four-tankers-struck-mine",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-   "summary": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran's IRGC says four tankers have struck naval mines after using \"unauthorised\" Strait of Hormuz routes."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-   "type": null,
-   "time": "2026-10-30T00:00:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pentagon-says-iran-war-has-cost-us-taxpayers-47b",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-   "summary": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pentagon says Iran war has cost US taxpayers $47bn: What that means."
     }
    ],
    "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXo4WGVRZE9wNk5rWUQzcENPb3lhaVRWSU8wSnN4eE5HT2NNT2tNNHV5czhKaGNKQnRSdVNmenFUaEVraTd0WWZYSG1SdGJGZnlmVXNhZHNNanlhVXRLdmx1TV9oV3lfV1kwUko0VVg4bEoyTzFzOFhkd3l4bXBHSzVHMlVXZmJVRGptMUlrZlFpYTlvcXlLZlBTNHlZaDJRekNjRTRCSG9uSjTSAbABQVVfeXFMUGRIczNfdUtzdlp3Sl85MEtReUNERjA3WjdJbWs0bFl1cVh4bHU1clU3bHk5bEthcUJIb2xOM3RiX0IxdWl2elpwbXVQd0M0dlBnc01LLUs0eDRYQ0cwemR1V1hGcFFEc0x5VE1tajh2eS1aaUNUZ1hpTVNyaFc1NTE4MjJNQkJ3V09MSHdnNlQ1Y1h0NjZrYV8zUE5jOFdYRG9DZ3c2UlNRdDZBdURmNjg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv?oc=5",
    "type": null,
-   "time": "2026-10-29T16:52:05Z",
+   "time": "2026-10-30T00:15:13Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -173,41 +165,136 @@
    ]
   },
   {
-   "id": "hegseth-fires-the-pentagon-s-top-military-planne",
+   "id": "exclusive-top-military-admiral-briefs-trump-on-i",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "critical",
+   "severity": "high",
    "category": "World",
-   "headline": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes",
-   "summary": "The United States has fired a top military planner, US media reported, with some outlets saying the dismissal was due to the officer allegedly leaking classified information.",
+   "headline": "Exclusive | Top Military Admiral Briefs Trump on Iran Options",
+   "summary": "Exclusive | Top Military Admiral Briefs Trump on Iran Options",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Hegseth fires the Pentagon's top military planner even as Trump considers new Iran strikes."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The United States has fired a top military planner, US media reported, with some outlets saying the dismissal was due to the officer allegedly leaking classified information."
+     "text": "Exclusive | Top Military Admiral Briefs Trump on Iran Options."
     }
    ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdmtqZDlERWUySHdKbDF3cmhHWmF1MVZtNkR1MXFfTndncHhCQVhSS1VUU2xNNnBoMTZRZ1RSenc0ZEl1V0UweGpUYW1WbzlrNnZydzI5bWFZLThqUnplTEY4T1BweTQ1TkpOTjlvZlFPQUZfMlVJRVRtbEw4U2RTRWt2YXVLTmhQS0JubmNZOUN2VE9wMmF5TWNGOUVQXzNEaXVpb0pvbmRlWVlVd2NOR2ZDWS14cG5XQzZxVnJDRXE2YnFKemfSAcsBQVVfeXFMTVFCR2RPZ3RTT1JCY3VHeXBQNHRmbjhuODFjOHM3MTFNaUlZV3Uycldoc0NzdkRMd0pMVXpaU1JTTGZHR29VX2FXTnFVeHJzUHJrdnJsUEFQX3BjWnNTWWd0UlFlbUF1VnNscGFWdk9FTWhxeVhOdHRnVDNSU1A5dU9qUkVpN0RwOXJOcDNFNHp6WkY5RmJMWlo5Z0F4SmlIWlgyWU1Db3RzSnJ4X0ZSS0NYRWo5RW1oajFPWEVKMWl4NmJfOVhTb0hsRzA?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeXlDRTRqNXluY3ZWOXVwdmY2ck13Z0ttaTdMaVhreFZYdXhpbDJsNlNBcUM2TFo5OFVNSW5sal8xNkVvY3pjT2xOSXFLb0xpaXdvMGdpRzB4UEZlaFZfT0ZKY0FmeFh1TjM2djRzWXVrV3B1Ym9oRjEwbHAtQWd1VnhnRG5tMmswUUJOU3hES1J1ZTdzWHNNZi1ld1VHXzZNeVM3YlBR?oc=5",
    "type": null,
-   "time": "2026-10-29T20:51:20Z",
+   "time": "2026-10-29T21:09:00Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "oil-prices-ease-as-u-s-seeks-to-renew-diplomacy-",
+   "id": "blockchain-analysis-firm-trm-says-north-korea-be",
+   "country": "North Korea",
+   "label": "NORTH KOREA",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+   "summary": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5",
+   "type": null,
+   "time": "2026-10-30T04:26:00Z",
+   "countries": [
+    "North Korea"
+   ]
+  },
+  {
+   "id": "ind-vs-pak-hong-kong-sixes-2026-live-streaming-s",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "IND vs PAK Hong Kong Sixes 2026 live streaming: Start time and where to watch in India, Pakistan and other countries",
+   "summary": "IND vs PAK Hong Kong Sixes 2026 live streaming: Start time and where to watch in India, Pakistan and other countries",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "IND vs PAK Hong Kong Sixes 2026 live streaming: Start time and where to watch in India, Pakistan and other countries."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCcGU4MmdxVWRYV0ZZekhvV3JfUmxpb0x2SDNDdGpobUx4djZrT1BzcGRzQ0ktQjdweGlHRHpoNndwRXU2MzBCUnRBbFdKVm9NVF9pZXNfc1B1Y1Y1dUFFcC1odnd1cG9VQ01mZWpqbUR3Yk1HWExVcg?oc=5",
+   "type": null,
+   "time": "2026-10-29T23:30:02Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-claims-four-tankers-struck-mines-in-hormuz-",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+   "summary": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZMUhKdzZpUlk1T1d3d0tKckIxb055TmdyTFk3ckZtdFVZOGVYYWFGMXZ4U1VaWXNuUm0yVEEzX1ZXYzBNMFZGUWFaTE5PekJjVEpqRnEyaEx5YlJhY2xGLWVVOGlvVHZYV01aUnQ3SWI2TEJGbURBSG1hVdIBgAFBVV95cUxNTzJSUUREZC0xSTk0R1ltcGR2a2VfRzlaZGhYaWxjZG5qMnppMlJGYlZ0MXhDdmlSS3dmOGRkYkt0WktJQnNjVmJuTGtHRjE0RFB0U0dMN1ZES2NFMVU4dW9xanl3aFdMZUlERzU5RDQ0aGh3ZEtOTzl0Y0FMb3ZlNQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T06:33:52Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "russian-oil-refinery-reportedly-attacked-amid-re",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian oil refinery reportedly attacked amid renewed Ukrainian strikes on energy infrastructure",
+   "summary": "Russian oil refinery reportedly attacked amid renewed Ukrainian strikes on energy infrastructure",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian oil refinery reportedly attacked amid renewed Ukrainian strikes on energy infrastructure."
+    }
+   ],
+   "source": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMUMyYVFWU1RMNXVZZjQ4d2oxR254WVVVTlFrbmwyTDB4c0ZDOS1oN1lyVjk1dV9ic1h0UjFjV29hcWVZNkJvLVVDNExCU1V0cllIelBadUdTZDVjeVEwQVhNaGJVc2FWY3JPcXNJZWQxMk1xMnFXTEZEZ0JUODRmdGlHTnZDd1B3YmFhTC1DZHFGZS1xeHVOY1FFNkFMZXNvUmQtQ25NTU1iZmxCdVJWckRmTE1TMkFEMlB4a3pzeTAxSDA?oc=5",
+   "type": null,
+   "time": "2026-10-30T06:01:38Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "oil-flows-are-up-as-iran-war-turmoil-eases-why-d",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -215,181 +302,12 @@
    "flag": "🇮🇷",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
-   "summary": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran",
+   "headline": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+   "summary": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil Prices Ease as U.S. Seeks to Renew Diplomacy With Iran."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW53UkVQVFpVMFB6SjNNeTdCWjNiSUxKZGJVVGVHQkJRZTA2UFljc3ZMc1ZqeVdtMzNPa1BtTkw5T21VMGp5bmVxOUF4QVQ4QWxWNERFbnJicUtuUXo2QWIyVkRCUzVFaHoycEpFVFVjcWRPWGdyQ2xyWHc2V1F3YVVsTk9JQ2pfV2VFLVFKT1lyRHRsM2NhaXlHUWNlSzJTV0E?oc=5",
-   "type": null,
-   "time": "2026-10-29T20:15:48Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-ksa-discuss-farm-investment",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan, KSA discuss farm investment",
-   "summary": "Pakistan, KSA discuss farm investment",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, KSA discuss farm investment."
-    }
-   ],
-   "source": "The Express Tribune",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tWi0xX0JRZktIM0FHcW5TZ3F4YkJqOEtqbTZQbUhJd3EzUy1UdlY2NUJIQVY4NDZLcjhBeHNQcVBQMXRKNUMzS2w5elJHeENGZFkyUk1waHRhMmZVNXhYV3o1VXFsc05CeGYzRHJmVmJlMGU0eUI1VU5kYjVQUdIBhgFBVV95cUxPVmptVE9hUzNDLWhRUEhHd3dRVEEtek1VTWsweWY2TFBZdzZXeHRpMVQ3Mkw3dm1iYVNUUVVvNGlTOGJ1OTZ5a3VzMnE2dlk2RmY1OEozR1JfbkJYTUpLRngxZkdRemxsUy1SVEtMdTFSZ0tRZFRiUVJla1F5YWNtUFhiZVZYZw?oc=5",
-   "type": null,
-   "time": "2026-10-30T01:17:08Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "russian-drone-kills-14-at-ukraine-train-station-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope",
-   "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
-   "type": null,
-   "time": "2026-10-29T16:33:00Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-update-october-29-2026",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Iran Update: October 29, 2026",
-   "summary": "Iran Update: October 29, 2026",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran Update: October 29, 2026."
-    }
-   ],
-   "source": "Critical Threats",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMzNuX3VZRUpSWm40S2I4LWJkcjc2WWJ0YVRtTDdybHljci1wOTBZVEdVS3MtOFB4UHBIaXdMaHdoaFltRHBpdzVNcFBGWnloNnlsaHNZV3JVWTlXbVNVSlQxU1UzSTdfRlpnV05KRXhqMmFsWHIw?oc=5",
-   "type": null,
-   "time": "2026-10-29T23:40:21Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-turkiye-shall-continue-to-champion-dial",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz",
-   "summary": "Prime Minister Shehbaz Sharif on Thursday affirmed that Pakistan and Turkiye would continue to push for dialogue and diplomacy while strengthening their defences under the Makkah Defence Agreement.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, Turkiye shall 'continue to champion dialogue, diplomacy' alongside bolstering defences: PM Shehbaz."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Prime Minister Shehbaz Sharif on Thursday affirmed that Pakistan and Turkiye would continue to push for dialogue and diplomacy while strengthening their defences under the Makkah Defence Agreement."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040754/pakistan-turkiye-shall-continue-to-champion-dialogue-diplomacy-alongside-bolstering-defences-pm-shehbaz",
-   "type": null,
-   "time": "2026-10-29T18:34:20Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "the-1-5b-uae-real-estate-and-bitcoin-strategy-ti",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "The $1.5B UAE real estate and Bitcoin strategy ties property income to Bitcoin",
-   "summary": "The $1.5B UAE real estate and Bitcoin strategy ties property income to Bitcoin",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "The $1.5B UAE real estate and Bitcoin strategy ties property income to Bitcoin."
-    }
-   ],
-   "source": "Cryptonews.net",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rc0xiNVVDTi1NTVVfMHk4ZGloT2hEN2NIQXcxZDhvU0FSb1BieTlqZXEzWFJDWFc4dlFyZkJ2THU5RHRYM2lyNEZwNm5ZRWxRb05JdmROdTE?oc=5",
-   "type": null,
-   "time": "2026-10-29T22:59:52Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-overperformer-in-innovation-climbs-4-ra",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Pakistan 'overperformer' in innovation, climbs 4 ranks globally in 2026: report",
-   "summary": "ISLAMABAD: Pakistan rose to 95th place among the 139 economies of the world featured in the ‘Global Innovation Index 2026’ published by the World Intellectual Property Organisation (WIPO), it emerged on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan 'overperformer' in innovation, climbs 4 ranks globally in 2026: report."
+     "text": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?."
     },
     {
      "role": "COMMANDER",
@@ -397,92 +315,108 @@
     },
     {
      "role": "ANALYST",
-     "text": "ISLAMABAD: Pakistan rose to 95th place among the 139 economies of the world featured in the ‘Global Innovation Index 2026’ published by the World Intellectual Property Organisation (WIPO), it emerged on Thursday."
+     "text": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040752/pakistan-overperformer-in-innovation-climbs-4-ranks-globally-in-2026-report",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T21:08:47Z",
+   "time": "2026-10-30T08:36:11Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-futures-rise-as-attacks-on-saudi-arabia-u-s-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-   "summary": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRlQlhGVEJPT2JaeEpGWkxTZFVEdnpuMUxLRUZhUU1EY09ZcnJMaFlZNmdUbHkwdlBpcURmeHpZXzl1c1Z4WW94YmtMNTJ2N0paSlQtNXJ2eGVfam4tdW5NekpScjdYLU1RSzVGRTJqN3hCT3NOWnNmNGZpYjEwemo3ejBfOTU2ODFoMWtFX1hWS3RHZU9lcm93anl4UUczODQyd1hrUVc4VHQ5ZEpPay1SWGhWbW9YdFFPVmZWd3ZwNmhV?oc=5",
-   "type": null,
-   "time": "2026-10-29T21:29:53Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "eu-force-helicopter-crash-kills-four-in-bosnia",
-   "country": "Italy",
-   "label": "ITALY",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "EU force helicopter crash kills four in Bosnia",
-   "summary": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead.",
+   "id": "yemen-s-houthis-deny-launching-drone-after-coali",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region",
+   "summary": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "EU force helicopter crash kills four in Bosnia."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "EUFOR confirms CH-47 Chinook helicopter crash in Bosnia, with four Italian nationals confirmed dead."
+     "text": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/eu-force-helicopter-crash-kills-four-in-bosnia?traffic_source=rss",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanlQaWczZ25iem9Yem9mcmYzRGxNbU1pcmZXVkpFUU5YYk5tWUJMNm1MdWdmUkxaMXQzdHJ3RHY2c1pWMVU4eXhfT3VMcUgzNUpHTUhSUWJvUXdQeDl3UklYUzFLSnNrcHRkd01ldEZSNDBuVjViSUtDTFJVcElQVFl2OGltV1FnX1hZMTFNRkxTTG9NZU9QaVJlZ0tWMXU1Vk1wS3E5TEtvVXF4OGotNWZRVjVwUWtqYjdrbVNsQVlxMTg3NkR4Y1ZqWEM?oc=5",
    "type": null,
-   "time": "2026-10-30T00:56:49Z",
+   "time": "2026-10-30T06:12:00Z",
    "countries": [
-    "Italy"
+    "Yemen"
    ]
   },
   {
-   "id": "what-does-bourbon-have-to-do-with-the-us-midterm",
+   "id": "gold-slips-as-higher-oil-us-inflation-data-bolst",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "What does bourbon have to do with the US midterms?",
-   "summary": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually.",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+   "summary": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "What does bourbon have to do with the US midterms?."
+     "text": "Gold slips as higher oil, US inflation data bolster Fed hike bets."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMFY2WEZOWHhyVDVPMkM2ZVUxM01TR09lcUZ0RlBWNF96QkJzWXhUZWpIbmlRSUlxN3FiZ0pEYWVXOW1YcVBQcHQ4cjU1NFpCQVlnS3pneWlKeTZIRjJzWkJuek9OeDhNSGxTU1ozV1g0czltbldNNkJORWRWS0ZBU25WdURjNWNpREdpdmZoV1c2ZzBnUmM5cm5HTG16OFpEdVhLWC13RkxHM3IxX1E?oc=5",
+   "type": null,
+   "time": "2026-10-30T03:24:00Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-explore-new-investment-opp",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Pakistan, Saudi Arabia Explore New Investment Opportunities in Agriculture and Mining",
+   "summary": "Pakistan, Saudi Arabia Explore New Investment Opportunities in Agriculture and Mining",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Saudi Arabia Explore New Investment Opportunities in Agriculture and Mining."
+    }
+   ],
+   "source": "The Diplomatic Insight",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaW1hc3UtUVBFaEFJeHltQjlSa09FZEhrcWhldGZYejV2RnBQYmFtUnRoOTNFZFJZdEt0NW9CWGU1aUpmcWE4cjJKRm1yR3M0Vjg3TUZFbEpfQlRqdTBFeUNOV2xJRjNDelhQZEVIVGpkMjV5UC1QY2RKMjVWVHhzRG9EY2FucVFZZ3ZlbTFqaU5wZw?oc=5",
+   "type": null,
+   "time": "2026-10-30T05:44:28Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "cop-martyred-in-kp-s-bajaur-as-terrorists-attack",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Cop martyred in KP's Bajaur as terrorists attack police post: official",
+   "summary": "BAJAUR: A police officer was martyred after terrorists attacked a police post in Khyber Pakhtunkhwa’s Bajaur district, officials said on Friday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Cop martyred in KP's Bajaur as terrorists attack police post: official."
     },
     {
      "role": "COMMANDER",
@@ -490,20 +424,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "The US-Canada trade war is hurting Kentucky’s bourbon industry, which generates billions of dollars annually."
+     "text": "BAJAUR: A police officer was martyred after terrorists attacked a police post in Khyber Pakhtunkhwa’s Bajaur district, officials said on Friday."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040941/cop-martyred-in-kps-bajaur-as-terrorists-attack-police-post-official",
    "type": null,
-   "time": "2026-10-30T00:08:50Z",
+   "time": "2026-10-30T07:18:22Z",
    "countries": [
-    "United States of America",
-    "Canada"
+    "Pakistan"
    ]
   },
   {
-   "id": "us-military-planes-arrive-in-israel-from-texas-a",
+   "id": "netanyahu-attacks-israel-s-arab-parties-as-he-fa",
    "country": "Israel",
    "label": "ISRAEL",
    "lat": 31.4,
@@ -511,22 +444,55 @@
    "flag": "🇮🇱",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "US military planes arrive in Israel from Texas amid Iran war preparations",
-   "summary": "US military planes arrive in Israel from Texas amid Iran war preparations",
+   "headline": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+   "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US military planes arrive in Israel from Texas amid Iran war preparations."
+     "text": "Netanyahu attacks Israel’s Arab parties as he falls short of majority."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud."
     }
    ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
    "type": null,
-   "time": "2026-10-29T23:48:25Z",
+   "time": "2026-10-30T02:40:26Z",
    "countries": [
     "Israel",
-    "United States of America",
-    "Iran"
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-flights-update-at-a-glance-airport-delays-ai",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "UAE flights update at a glance: Airport delays, airline cancellations and Saudi route changes on Oct 30",
+   "summary": "UAE flights update at a glance: Airport delays, airline cancellations and Saudi route changes on Oct 30",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE flights update at a glance: Airport delays, airline cancellations and Saudi route changes on Oct 30."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQTNORmQwU2VlbkcxNXRGNUNodUpiWV9rczdINXJfc01BdDIwamdVU0VaWnRhY3Q2M01EMUFIX29xV2ZzQk9oTk1sQlhEendHcW93NFl5OEVpZmZiRm1Ibkc0UU11SWNublcwVy1RTlFjVVdzMDc4VUFLVUN6SzdQYnVyb3FGd0EwVG0xcTRFUXlsMjBKMjlVR3dGZXVJZXc0ckRwb1h0WXg0aTBRMktnc1B5UG1xcUNWejQ0cEgxQnpQQi1aOHRhbHlWZ3ludnRQVWZIT09jR3NrQkVyUVQwMGs5dUZtbHPSAfoBQVVfeXFMUG1qcmRqQ1M3ZVh2QkxaN24xTjk5aDRVamFPdzk2Tk5mYTQyV0FrQ0RWaGFRSmhFUUtXMVdINjRBbnFKUHlVbER6TFdHSjcwWnZTb3lGY21uMEVvR3JoamtkSTJ2UjZnRmJFZGEzU3dYdDNMQnBBQ1BlbXd2Vm5Ea1R3TTVKSmsyZWt4NVg0bkNWWjZYUU9TNEtCYWprSkJwTTFUa1otREViNS1adlQ3N3JvOUJraFhPZi1ObTdWNEdvWWRwS0RqajFEMlZnM2t6a0R3ZUcyREJKenlnaEJfZXB5bU5DR1RadFBrRFdjZlRMYnlzUTRKZUk3UQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T06:32:47Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
    ]
   }
  ]
