@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:10:32.580615Z",
+ "updated": "2026-10-30T23:53:14.642142Z",
  "generator": "rss",
  "stories": [
   {
@@ -38,7 +38,33 @@
    ]
   },
   {
-   "id": "iran-says-3-tankers-strike-mines-and-catch-fire-",
+   "id": "how-the-us-conflict-in-iran-is-impacting-midterm",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "How the US conflict in Iran is impacting midterms",
+   "summary": "How the US conflict in Iran is impacting midterms",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "How the US conflict in Iran is impacting midterms."
+    }
+   ],
+   "source": "Gray TV",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenRONVpKaWpPeUM3ODFyOVpkRGN3ZnZDbW9aRWZMVXFTYklVbGlmMTltYjFxdHpVcjB6M3o2U200eHd4WjNzaUF5cGhzdWg5UWpVVTFuR1ZMVU11YWFIMWNLa0wtUEVmQU5sRFV3NTYzOVRBVUpGOGZvbjJFOWJZVzFRME42VmZVYXVrYTlQX1lGdzNt?oc=5",
+   "type": null,
+   "time": "2026-10-30T21:53:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-says-4-tankers-strike-mines-and-catch-fire-",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -46,24 +72,24 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
-   "summary": "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+   "headline": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+   "summary": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news."
+     "text": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news."
     }
    ],
    "source": "AP News",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
    "type": null,
-   "time": "2026-10-30T17:39:00Z",
+   "time": "2026-10-30T21:10:00Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "senators-briefed-on-trump-s-insane-plan-to-resta",
+   "id": "us-approves-sale-of-500-patriot-missiles-to-ukra",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -71,55 +97,30 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran",
-   "summary": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran.",
+   "headline": "US approves sale of 500 Patriot missiles to Ukraine",
+   "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Senators briefed on Trump’s ‘insane’ plan to restart war on Iran."
+     "text": "US approves sale of 500 Patriot missiles to Ukraine."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
-     "text": "Senator Chris Murphy says he’s been briefed on Trump’s plan to restart the war on Iran."
+     "text": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/senators-briefed-on-trumps-insane-plan-to-restart-war-on-iran-2?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T14:40:19Z",
+   "time": "2026-10-30T22:20:52Z",
    "countries": [
     "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-destroyed-houthi-dro",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition says it destroyed Houthi drone over Medina region",
-   "summary": "Saudi-led coalition says it destroyed Houthi drone over Medina region",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-led coalition says it destroyed Houthi drone over Medina region."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5",
-   "type": null,
-   "time": "2026-10-30T19:37:43Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -148,224 +149,29 @@
    ]
   },
   {
-   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
-   "summary": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India."
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
-   "type": null,
-   "time": "2026-10-30T17:32:00Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-arabia-reports-interception-of-houthi-dron",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
-   "summary": "Saudi Arabia reports interception of Houthi drone targeting Mecca",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia reports interception of Houthi drone targeting Mecca."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV3NIQ2tYTXA2UkVQUUh3UGxESzR2R1JnSVhjQjAtQ01PTm5mckJQcjZuSDA1Q3pmeWlnVUhlbThSaEhKRk9uWWdqUW1qRWlzajhDbHhIbU12NmJPNzA1WXNnWllQMkduX01GUXNvNlV2UEUxckZhek5NLWJNR1VEYjB2eXN6TGhLdjRBdU9XVUZHNnNTa1JDU2FyN3dOUmEzbEFaRmNPLXRhakXSAbABQVVfeXFMUFBWdEVMYlpIblRxQ3lVOWFPRnVTa1FwQ1pPTXFuZmV6ODEzNmd1Y0VFNVF4MHVhWU1kRWl6dHl0N2xWNXR5VmRrVmpRelZHeWZtRGZzcWlsUUhnd28yMXlpcFc2dnJQVHJoSkh4bzNwQ3FZeXBybW5EdHl5WjB6ajlkVUhxQVdJMzJwa0hEZkJrMDM5Ty1zQmU3cEZ2S08wWjFLeGdRZHBvblAxVWE0Vmc?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:11:58Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
-   "country": "North Korea",
-   "label": "NORTH KOREA",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T17:39:43Z",
-   "countries": [
-    "North Korea"
-   ]
-  },
-  {
-   "id": "saudi-arabia-says-drone-intercepted-near-islam-s",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia says drone intercepted near Islam’s holiest city, and other Mideast news",
-   "summary": "Saudi Arabia says drone intercepted near Islam’s holiest city, and other Mideast news",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia says drone intercepted near Islam’s holiest city, and other Mideast news."
-    }
-   ],
-   "source": "myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWktVkcyMW1KWDNsYjgwTTdtSkpmYjRvUWtycndpN2tCcE40bUkwT0VBVDF6TVA1R1lvT2dzTzJXTk9ZSm0zY1NabWpkSkMwd3Y5TXFZd1RRZHZxU3dmYWlyUnZKOFBlR1dNNUg0aVFlMi14QTN3TE1ISVJZUGJNZy0tR0RDbGZBb3RvUzZ5QkwxSXRuSk4xM1NnQTNqUFJDZWh2Z3E3V2RjQzZkWm1NbnE2QTQzbTFlX1l4amZBNE5EckJSTXRUNDFQcFZzUdIB0wFBVV95cUxQSzhuZkZoTlllMDdERGlHVXhfUzJwZ2ZTU1NrZnRyUkRwNzNwekxSZm9GdmFXU1JYdjQ5MWlKTlJqRmRzTkFTNVJpTFd0MmZTMXQ5Zjk5RkdUU2IzWFY3d3lZNE5DNXVaanRHWWNuUnA1bUpheVp3d1E0a0JlcGhxNVV6OHMtV1U2T0VkUlVva0tIZXV5M25ZWmEzTVAybUFtRDRTQ2gtc1p3SC1tSUZ6QzhNRmRmOE5RSnV0ZjNXc3c1UThOaWJ3V3BSMFFmZmkyWDlr?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:14:32Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "trump-says-iran-war-will-end-soon-while-qatar-ca",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
+   "id": "saudi-arabia-suspends-travel-to-and-from-kenya-a",
+   "country": "Kenya",
+   "label": "KENYA",
+   "lat": 0.0,
+   "lon": 37.9,
+   "flag": "🇰🇪",
+   "severity": "watch",
    "category": "World",
-   "headline": "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran",
-   "summary": "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran",
+   "headline": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English",
+   "summary": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump Says Iran War Will End Soon While Qatar Carries New Terms to Tehran."
+     "text": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English."
     }
    ],
-   "source": "Northeast Times",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "source": "ASHARQ AL-AWSAT English",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2otbExuZ1VoZGp1aU9RUzg4Q0stb3lYTXdvU0xqMXBBS3dVdjdrLWRXeEk4dEhDcW5YZEVXdGhlcTR3dkNaeGVYZlJ5NU9mb1NyemZ0WlVJdHI1YWlDaTQtTFdYZzRPVEJqUkx3UjFuOWNkM2xtbERWMkFtZU1IcFlSdE9DUzk3U3N3QldsTFdYd0lvLTBhY0RUT1FORTBkbktJYUhn?oc=5",
    "type": null,
-   "time": "2026-10-30T17:40:54Z",
+   "time": "2026-10-30T19:40:51Z",
    "countries": [
-    "United States of America",
-    "Iran",
-    "Qatar"
-   ]
-  },
-  {
-   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE says oil leak from tanker has been stopped, pollution eases",
-   "summary": "UAE says oil leak from tanker has been stopped, pollution eases",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE says oil leak from tanker has been stopped, pollution eases."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
-   "type": null,
-   "time": "2026-10-30T16:34:45Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
-   "summary": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
-   "type": null,
-   "time": "2026-10-30T13:24:00Z",
-   "countries": [
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
-   "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T07:53:38Z",
-   "countries": [
-    "Pakistan"
+    "Kenya",
+    "Saudi Arabia"
    ]
   },
   {
@@ -392,6 +198,72 @@
    "countries": [
     "United States of America",
     "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "what-s-at-stake-for-trump-in-the-us-midterms-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "What's at stake for Trump in the US midterms?",
+   "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What's at stake for Trump in the US midterms?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cq77pm2jmmd5o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T10:19:48Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
+   "country": "North Korea",
+   "label": "NORTH KOREA",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T21:13:14Z",
+   "countries": [
+    "North Korea"
    ]
   },
   {
@@ -429,79 +301,227 @@
    ]
   },
   {
-   "id": "uae-fines-foreign-bank-branch-dh200-million-for-",
+   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "UAE fines foreign bank branch Dh200 million for breaching money laundering laws",
-   "summary": "UAE fines foreign bank branch Dh200 million for breaching money laundering laws",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE says oil leak from tanker has been stopped, pollution eases",
+   "summary": "UAE says oil leak from tanker has been stopped, pollution eases",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE fines foreign bank branch Dh200 million for breaching money laundering laws."
+     "text": "UAE says oil leak from tanker has been stopped, pollution eases."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVlVQU0ZRcy0yQjNvTkxzek1qRGw5TXZ4Qks3M2t2SGhzc2Z6bE1hSXpHYUJRMElnVjJNbWhMUnFZN0JPel9VQW5SbXN5OFpCUjFBUHdLdzVmYmx6Zk40VmVNUFVWazdCbk5vSUI0dnZ3TEpvMmhyVE1ObDZOWW5ubS1OVUF6eWo3SFlfaDdDVnNQR1lzQi1sZF9BUmVIUFh3dmpESUpFSjNuVDZKc0xfUFZYX0Q0Si01M1JMeFM0QXZINGhnenAzYnYtR2w?oc=5",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
    "type": null,
-   "time": "2026-10-30T12:18:26Z",
+   "time": "2026-10-30T16:34:45Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "saudi-arabia-suspends-travel-entry-from-kenya-ov",
-   "country": "Kenya",
-   "label": "KENYA",
-   "lat": 0.0,
-   "lon": 37.9,
-   "flag": "🇰🇪",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Saudi Arabia suspends travel, entry from Kenya over Ebola concerns",
-   "summary": "Saudi Arabia suspends travel, entry from Kenya over Ebola concerns",
+   "id": "uae-dr-congo-trade-deal-enters-into-force-after-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone",
+   "summary": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia suspends travel, entry from Kenya over Ebola concerns."
+     "text": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEtVTFpOEhFNUVYQzlqQ0dfWlVoX1RhSTcySnlMM1FVNDAyWVpmd0tYUFY5UWhxQzlNLUN6Z2luLW9zdkdZUDhaZUozZFpGTGVWcm42VEhIQWNXZ2RGb1ptRXpxRUhPZkJkcy1IX3dSV0R6akhwZjBJRzBONElWTjBQSV8ySEdTdjY0VjdFUERpOXVNVlhkdXBfQTZ4bXUyaTRmT3NuSGg?oc=5",
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1diMHQ4X2hiNElNa1I0aGR3Xy1qTDhUTzJyWDRpUnpHZzBMSUpzN0FTWFNCTjZVb2k4RGNWRmJOTWdvcXhWN18wY2VNX2pGWHF0d0Nfd3Myb1laWWkyU3psa2FyNExHMVZiWGRMQ3VtQmMzaXluQXRwVExFanRuRVZR?oc=5",
    "type": null,
-   "time": "2026-10-30T15:38:10Z",
+   "time": "2026-10-30T23:45:56Z",
    "countries": [
-    "Kenya",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "dubai-holiday-home-operator-silkhaus-shuts-down-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War",
+   "summary": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War."
+    }
+   ],
+   "source": "Skift",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGRjWmJCOFY2b2dHX0c4aWkxMWEtTmQxSlA5ODE4VDh1LUNVVTZ1N2ltZVNqNElpQzl0cXluMjRzcW1mY1JRdnc1b3VCdURIUU5EeEI5YXdtWXduWnZEbmRjYTU4dlhfTWJGNk5SLVA1X2tyQjFDOVA2TnFXWmtHekpIQUVrVDNKQXJHMUhyNnl3XzBZQ3NmVWhXTlZLdw?oc=5",
+   "type": null,
+   "time": "2026-10-30T15:46:26Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
+   "summary": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a sta",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Why the move?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a sta"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "type": null,
+   "time": "2026-10-30T11:39:36Z",
+   "countries": [
+    "Pakistan",
     "Saudi Arabia"
    ]
   },
   {
-   "id": "oil-flows-are-up-as-iran-war-turmoil-eases-why-d",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "saudi-led-coalition-says-it-downs-houthi-drone-o",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
-   "summary": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+   "headline": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack",
+   "summary": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?."
+     "text": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTlNLUkh5cVYwaDlIQU45RC1MUm9Wa3gwRDlTOGVaNWFnaDN4dTNjeWR1V2N3UVZIeEFTV0tHRFl5ZUIxQ3lnNVlndjd2ZDZDTmZaZDR0YTJ6amtJZXBVNTZZMWp5d1N4X2h6T3loSGQxTHNoMzdiM0JuZjhMUklUSmJESDcwVGFHMFpBbHFWZzZFYmdub3huUVJpUGw5eVNnMnZpRUluSWZ6YlJaMXVUMmN0b9IBuAFBVV95cUxPZlFzaS1EWm9uVXR2aHZiMGVGWnRLTW9GbVlvclI0bjlFSFFmRXNnc0h6UU1VYTU3VHlvcHEzZmRpRUQ1VTVuc2RjQVhzMkNWYndQWEszSFZDQW9jaTlYeERWT2VpUnFaenB2dFJLRzBWNEZKUy1FMERmWVJ5dENkUHBTWC1HVGRsVUNZeW9QX05BSV9HWG5JNFpWT0NGLXgyNFBvMEZaZWtqUTFINWxNbzg3LXRMeUNf?oc=5",
+   "source": "U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFNpMDVSeVVZM0l0dzFtVUIza3Nsa0pNYnVubDJGVTZkUUMzOURKVFloOXh2Z3U0aG1kc1hCVkJ6bWhOOFF2Y19Fa3JYa1lzaUdadEYxNmVlc3AwMlZMSUdvM1BxRHlZR0xiNmxVM0E1MUlHVlBrc1p3cGR6OGNsRGEtNUpaUWNtWUVPR0xId2pteWI3UlpKUkpIS1ozbkY0Z1dnbEJmbUpyZTZjOVpPVVVxbDZjMGdLb21vUzJSLTI?oc=5",
    "type": null,
-   "time": "2026-10-30T08:37:51Z",
+   "time": "2026-10-30T19:37:00Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "g20-drops-group-photo-as-europeans-refuse-to-sta",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+   "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "G20 drops group photo as Europeans refuse to stand with Lavrov."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-30T20:37:20Z",
+   "countries": [
+    "Russia",
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
+   "summary": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:32:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-as-middle-east-ukraine-russia-co",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "summary": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "type": null,
+   "time": "2026-10-30T20:19:00Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
    ]
   }
  ]
