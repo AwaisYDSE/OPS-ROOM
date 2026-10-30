@@ -1,40 +1,66 @@
 {
- "updated": "2026-10-30T15:22:26.822435Z",
+ "updated": "2026-10-30T20:10:32.580615Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
   {
-   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "id": "pakistan-army-cautiously-optimistic-about-us-ira",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "पाकिस्तान, सऊदी अरब तेल, रिफाइनरियों और खनिजों में सहयोग बढ़ाने पर सहमत हुए",
-   "summary": "इस्लामाबाद: पाकिस्तान और सऊदी अरब शुक्रवार को द्विपक्षीय आर्थिक संबंधों को बढ़ावा देने के लिए तेल भंडारण, रिफाइनरी उन्नयन, कच्चे तेल और तरलीकृत पेट्रोलियम गैस (एलपीजी) की खरीद और खनिज क्षेत्र में रणनीतिक सहयोग को मजबूत करने पर सहमत हुए।",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "अमेरिकी-ईरान मध्यस्थता प्रयासों के बारे में पाकिस्तानी सेना 'सतर्कतापूर्वक आशावादी' है",
+   "summary": "पाकिस्तान के सैन्य प्रवक्ता ने 'शक्तिशाली बिगाड़ने वालों और विरोधियों' को चेतावनी दी है, जो अब भी मानते हैं कि संघर्ष से उन्हें फायदा होता है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान, सऊदी अरब तेल, रिफाइनरियों और खनिजों में सहयोग बढ़ाने पर सहमत हुए।"
+     "text": "अमेरिकी-ईरान मध्यस्थता प्रयासों के बारे में पाकिस्तानी सेना 'सतर्कतापूर्वक आशावादी' है।"
     },
     {
      "role": "COMMANDER",
-     "text": "कीमतों के लिए इसका क्या मतलब है?"
+     "text": "अब क्या स्थिति है?"
     },
     {
      "role": "ANALYST",
-     "text": "इस्लामाबाद: पाकिस्तान और सऊदी अरब शुक्रवार को द्विपक्षीय आर्थिक संबंधों को बढ़ावा देने के लिए तेल भंडारण, रिफाइनरी उन्नयन, कच्चे तेल और तरलीकृत पेट्रोलियम गैस (एलपीजी) की खरीद और खनिज क्षेत्र में रणनीतिक सहयोग को मजबूत करने पर सहमत हुए।"
+     "text": "पाकिस्तान के सैन्य प्रवक्ता ने 'शक्तिशाली बिगाड़ने वालों और विरोधियों' को चेतावनी दी है, जो अब भी मानते हैं कि संघर्ष से उन्हें फायदा होता है।"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T11:39:36Z",
+   "time": "2026-10-30T18:55:36Z",
    "countries": [
     "Pakistan",
-    "Saudi Arabia"
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-tankers-strike-mines-and-catch-fire-",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान का कहना है कि 3 टैंकरों ने होर्मुज जलडमरूमध्य में खदानों पर हमला किया और उनमें आग लग गई, और अन्य मध्यपूर्व समाचार",
+   "summary": "ईरान का कहना है कि 3 टैंकरों ने होर्मुज जलडमरूमध्य में खदानों पर हमला किया और उनमें आग लग गई, और अन्य मध्यपूर्व समाचार",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान का कहना है कि 3 टैंकरों ने होर्मुज जलडमरूमध्य में खदानों पर हमला किया और उनमें आग लग गई, और अन्य मध्यपूर्व समाचार।"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:39:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -55,7 +81,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
+     "text": "क्या इसकी पुष्टि हो गई है?"
     },
     {
      "role": "ANALYST",
@@ -72,55 +98,80 @@
    ]
   },
   {
-   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
-   "country": "Iran",
-   "label": "होर्मुज़ जलडमरूमध्य",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया",
-   "summary": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया",
+   "id": "saudi-led-coalition-says-it-destroyed-houthi-dro",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने मदीना क्षेत्र में हौथी ड्रोन को नष्ट कर दिया",
+   "summary": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने मदीना क्षेत्र में हौथी ड्रोन को नष्ट कर दिया",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया।"
+     "text": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने मदीना क्षेत्र में हौथी ड्रोन को नष्ट कर दिया।"
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5",
    "type": null,
-   "time": "2026-10-30T13:24:00Z",
+   "time": "2026-10-30T19:37:43Z",
    "countries": [
-    "Iran",
+    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "pakistan-dominate-india-in-a-high-voltage-hong-k",
+   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "हाई-वोल्टेज हांगकांग सिक्सेस शोडाउन में पाकिस्तान भारत पर हावी रहा",
-   "summary": "हाई-वोल्टेज हांगकांग सिक्सेस शोडाउन में पाकिस्तान भारत पर हावी रहा",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "पाकिस्तान, सिंगापुर मजबूत आर्थिक और व्यापारिक संबंध चाहते हैं",
+   "summary": "पाकिस्तान, सिंगापुर मजबूत आर्थिक और व्यापारिक संबंध चाहते हैं",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "हाई-वोल्टेज हांगकांग सिक्सेस शोडाउन में पाकिस्तान भारत पर हावी रहा।"
+     "text": "पाकिस्तान, सिंगापुर मजबूत आर्थिक और व्यापारिक संबंध चाहते हैं।"
     }
    ],
-   "source": "Taiwan News",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByOFFnSXJVUWhZXy1VcTJyT182cmhoelpWeWh2UTFibjZCb2dmZUVqWnRSd1c4SVJXMEdEOUQ4VWg5S3F5bDJ1UXJrcHRQS1ZBSDZEd2xVVFo?oc=5",
+   "source": "The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
    "type": null,
-   "time": "2026-10-30T14:49:00Z",
+   "time": "2026-10-30T16:22:00Z",
    "countries": [
-    "Pakistan",
-    "India"
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
+   "country": "India",
+   "label": "भारत",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "'पूर्ण विदूषक': भारत पर हांगकांग सिक्स की जीत का जश्न मनाने वाली 'शर्मनाक' पोस्ट के लिए क्रिकेट प्रशंसकों ने पाकिस्तान के प्रधानमंत्री का मजाक उड़ाया",
+   "summary": "'पूर्ण विदूषक': भारत पर हांगकांग सिक्स की जीत का जश्न मनाने वाली 'शर्मनाक' पोस्ट के लिए क्रिकेट प्रशंसकों ने पाकिस्तान के प्रधानमंत्री का मजाक उड़ाया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "'पूर्ण विदूषक': भारत पर हांगकांग सिक्स की जीत का जश्न मनाने वाली 'शर्मनाक' पोस्ट के लिए क्रिकेट प्रशंसकों ने पाकिस्तान के प्रधानमंत्री का मजाक उड़ाया।"
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:32:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
    ]
   },
   {
@@ -150,87 +201,36 @@
    ]
   },
   {
-   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "पाकिस्तान में मानवाधिकार वकील दंपति को 10 साल की जेल की सज़ा",
-   "summary": "ईमान मजारी और हादी अली चट्ठा पर 2024 में एक घटना को लेकर आरोप लगाया गया था, जब इंग्लैंड की क्रिकेट टीम पाकिस्तान का दौरा कर रही थी।",
+   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
+   "country": "North Korea",
+   "label": "उत्तर कोरिया",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "क्रिप्टो दिग्गज बिनेंस उत्तर कोरिया से जुड़े हैक में चुराए गए 6.3 बिलियन डॉलर की वसूली का प्रयास कर रहा है",
+   "summary": "यह साइबर हमला, जिसे कंपनी जटिल बताती है, अपनी तरह का अब तक का सबसे बड़ा हमला माना जा रहा है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान में मानवाधिकार वकील दंपति को 10 साल की जेल की सज़ा."
+     "text": "क्रिप्टो दिग्गज बिनेंस उत्तर कोरिया से जुड़े हैक में चुराए गए 6.3 बिलियन डॉलर की वसूली का प्रयास कर रहा है।"
     },
     {
      "role": "COMMANDER",
-     "text": "यह कितना गंभीर है?"
+     "text": "कोई हताहत?"
     },
     {
      "role": "ANALYST",
-     "text": "ईमान मजारी और हादी अली चट्ठा पर 2024 में एक घटना को लेकर आरोप लगाया गया था, जब इंग्लैंड की क्रिकेट टीम पाकिस्तान का दौरा कर रही थी।"
+     "text": "यह साइबर हमला, जिसे कंपनी जटिल बताती है, अपनी तरह का अब तक का सबसे बड़ा हमला माना जा रहा है।"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T07:53:38Z",
+   "time": "2026-10-30T17:39:43Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "uae-shares-decline-on-weak-earnings-and-regional",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "कमजोर कमाई और क्षेत्रीय तनाव के कारण यूएई के शेयरों में गिरावट आई है",
-   "summary": "कमजोर कमाई और क्षेत्रीय तनाव के कारण यूएई के शेयरों में गिरावट आई है",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "कमजोर कमाई और क्षेत्रीय तनाव के कारण यूएई के शेयरों में गिरावट आई है।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVAxeVFhNDJWMV80WVNnYXBENEpxeElXU0JvWFdVeExYc0pCXzJCTVUzc1V1NWhZT0szQ1FBODRkN18zdGRzYl9mMzRXR0EyWEoxMGJSUVgwaUFlcnowVUMxbmJxMllERzhYUmg0OHlibXM4OVRZeGN1RVRydFNWc0ZodnZnRVRMc3JkY3d0cG84emNPNUdsSlIwNEVwWFhDd0F5eGNPUQ?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:21:45Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-on-iran-war-it-s-going-to-get-wrapped-up-s",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ईरान युद्ध पर ट्रम्प: यह जल्द ही ख़त्म होने वाला है",
-   "summary": "ईरान युद्ध पर ट्रम्प: यह जल्द ही ख़त्म होने वाला है",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान युद्ध पर ट्रम्प: यह जल्द ही ख़त्म होने वाला है।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:10:11Z",
-   "countries": [
-    "United States of America",
-    "Iran"
+    "North Korea"
    ]
   },
   {
@@ -250,36 +250,182 @@
      "text": "सऊदी अरब का कहना है कि इस्लाम के सबसे पवित्र शहर के पास ड्रोन रोका गया, और अन्य मध्यपूर्व समाचार।"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "source": "myMotherLode.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWktVkcyMW1KWDNsYjgwTTdtSkpmYjRvUWtycndpN2tCcE40bUkwT0VBVDF6TVA1R1lvT2dzTzJXTk9ZSm0zY1NabWpkSkMwd3Y5TXFZd1RRZHZxU3dmYWlyUnZKOFBlR1dNNUg0aVFlMi14QTN3TE1ISVJZUGJNZy0tR0RDbGZBb3RvUzZ5QkwxSXRuSk4xM1NnQTNqUFJDZWh2Z3E3V2RjQzZkWm1NbnE2QTQzbTFlX1l4amZBNE5EckJSTXRUNDFQcFZzUdIB0wFBVV95cUxQSzhuZkZoTlllMDdERGlHVXhfUzJwZ2ZTU1NrZnRyUkRwNzNwekxSZm9GdmFXU1JYdjQ5MWlKTlJqRmRzTkFTNVJpTFd0MmZTMXQ5Zjk5RkdUU2IzWFY3d3lZNE5DNXVaanRHWWNuUnA1bUpheVp3d1E0a0JlcGhxNVV6OHMtV1U2T0VkUlVva0tIZXV5M25ZWmEzTVAybUFtRDRTQ2gtc1p3SC1tSUZ6QzhNRmRmOE5RSnV0ZjNXc3c1UThOaWJ3V3BSMFFmZmkyWDlr?oc=5",
    "type": null,
-   "time": "2026-10-30T12:10:00Z",
+   "time": "2026-10-30T11:14:32Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-s-irgc-navy-says-three-tankers-catch-fire-i",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ईरान की आईआरजीसी नौसेना का कहना है कि होर्मुज जलडमरूमध्य में तीन टैंकरों में आग लग गई",
-   "summary": "ईरान की आईआरजीसी नौसेना का कहना है कि होर्मुज जलडमरूमध्य में तीन टैंकरों में आग लग गई",
+   "id": "trump-says-iran-war-will-end-soon-while-qatar-ca",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "ट्रम्प का कहना है कि ईरान युद्ध जल्द ही समाप्त हो जाएगा, जबकि कतर ने तेहरान के लिए नई शर्तें लागू की हैं",
+   "summary": "ट्रम्प का कहना है कि ईरान युद्ध जल्द ही समाप्त हो जाएगा, जबकि कतर ने तेहरान के लिए नई शर्तें लागू की हैं",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ईरान की आईआरजीसी नौसेना का कहना है कि होर्मुज जलडमरूमध्य में तीन टैंकरों में आग लग गई।"
+     "text": "ट्रम्प का कहना है कि ईरान युद्ध जल्द ही समाप्त हो जाएगा, जबकि कतर ने तेहरान के लिए नई शर्तें लागू की हैं।"
+    }
+   ],
+   "source": "Northeast Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:40:54Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "यूएई का कहना है कि टैंकर से तेल रिसाव रोक दिया गया है, प्रदूषण कम हुआ है",
+   "summary": "यूएई का कहना है कि टैंकर से तेल रिसाव रोक दिया गया है, प्रदूषण कम हुआ है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यूएई का कहना है कि टैंकर से तेल रिसाव रोक दिया गया है, प्रदूषण कम हुआ है।"
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
+   "type": null,
+   "time": "2026-10-30T16:34:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
+   "country": "Iran",
+   "label": "होर्मुज़ जलडमरूमध्य",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया",
+   "summary": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "होर्मुज़ टैंकर हमले के बाद तेल की कीमतें बढ़ीं, हौथी ने स्टोक आपूर्ति की आशंका का दावा किया।"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:24:00Z",
+   "countries": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "पाकिस्तान में मानवाधिकार वकील दंपति को 10 साल की जेल की सज़ा",
+   "summary": "ईमान मजारी और हादी अली चट्ठा पर 2024 में एक घटना को लेकर आरोप लगाया गया था, जब इंग्लैंड की क्रिकेट टीम पाकिस्तान का दौरा कर रही थी।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पाकिस्तान में मानवाधिकार वकील दंपति को 10 साल की जेल की सज़ा."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "मुझे विवरण दीजिए."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ईमान मजारी और हादी अली चट्ठा पर 2024 में एक घटना को लेकर आरोप लगाया गया था, जब इंग्लैंड की क्रिकेट टीम पाकिस्तान का दौरा कर रही थी।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T07:53:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-orders-non-emergency-staff-to-leave-saudi-ara",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "अमेरिका ने सुरक्षा जोखिमों के कारण गैर-आपातकालीन कर्मचारियों को सऊदी अरब छोड़ने का आदेश दिया",
+   "summary": "अमेरिका ने सुरक्षा जोखिमों के कारण गैर-आपातकालीन कर्मचारियों को सऊदी अरब छोड़ने का आदेश दिया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अमेरिका ने सुरक्षा जोखिमों के कारण गैर-आपातकालीन कर्मचारियों को सऊदी अरब छोड़ने का आदेश दिया।"
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
    "type": null,
-   "time": "2026-10-30T13:08:58Z",
+   "time": "2026-10-30T18:32:55Z",
    "countries": [
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oman-rescues-25-from-burning-oil-tanker-in-strai",
+   "country": "Oman",
+   "label": "ओमान",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ओमान ने होर्मुज जलडमरूमध्य में जलते हुए तेल टैंकर से 25 लोगों को बचाया",
+   "summary": "यह घटना तब हुई है जब ईरान का कहना है कि होर्मुज़ को पार करने के लिए 'अनधिकृत मार्गों' का उपयोग करने का प्रयास करते समय तीन तेल टैंकरों को रोक दिया गया था।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ओमान ने होर्मुज जलडमरूमध्य में जलते हुए तेल टैंकर से 25 लोगों को बचाया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "यह घटना तब हुई है जब ईरान का कहना है कि होर्मुज़ को पार करने के लिए 'अनधिकृत मार्गों' का उपयोग करने का प्रयास करते समय तीन तेल टैंकरों को रोक दिया गया था।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-30T18:33:29Z",
+   "countries": [
+    "Oman",
     "Iran"
    ]
   },
@@ -309,70 +455,29 @@
    ]
   },
   {
-   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ईरान को वेंस के पत्र की रिपोर्टों से ट्रम्प असहमत हैं",
-   "summary": "• राष्ट्रपति का कहना है कि आउटरीच चिकित्सा आपूर्ति पर केंद्रित है, शांति वार्ता पर नहीं • तेहरान ने उपराष्ट्रपति का पत्र मिलने की पुष्टि की है, अभी तक कोई प्रतिक्रिया नहीं आई है • अमेरिकी मीडिया का दावा है कि नए हमलों को रोकने के लिए पत्राचार की मांग की गई थी तेहरान: ईरानी मीडिया ने गुरुवार को बताया कि तेहरान ने",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान को वेंस के पत्र की रिपोर्टों से ट्रम्प असहमत हैं।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "• राष्ट्रपति का कहना है कि आउटरीच चिकित्सा आपूर्ति पर केंद्रित है, शांति वार्ता पर नहीं • तेहरान ने उपराष्ट्रपति का पत्र मिलने की पुष्टि की है, अभी तक कोई प्रतिक्रिया नहीं आई है • अमेरिकी मीडिया का दावा है कि नए हमलों को रोकने के लिए पत्राचार की मांग की गई थी तेहरान: ईरानी मीडिया ने गुरुवार को बताया कि तेहरान ने"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
-   "type": null,
-   "time": "2026-10-30T02:45:29Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-back-in-ice-hockey-world-championships-af",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "saudi-arabia-suspends-travel-entry-from-kenya-ov",
+   "country": "Kenya",
+   "label": "केन्या",
+   "lat": 0.0,
+   "lon": 37.9,
+   "flag": "🇰🇪",
+   "severity": "watch",
    "category": "World",
-   "headline": "खेल अदालत के फैसले के बाद रूस आइस हॉकी विश्व चैंपियनशिप में वापस आ गया",
-   "summary": "खेल पंचाट न्यायालय ने IIHF के उन निर्णयों को पलट दिया जिसमें रूस को 2026-27 सीज़न की घटनाओं से बाहर रखा गया था।",
+   "headline": "सऊदी अरब ने इबोला चिंताओं के कारण केन्या से यात्रा, प्रवेश निलंबित कर दिया",
+   "summary": "सऊदी अरब ने इबोला चिंताओं के कारण केन्या से यात्रा, प्रवेश निलंबित कर दिया",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "खेल अदालत के फैसले के बाद रूस आइस हॉकी विश्व चैंपियनशिप में वापस आ गया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ठीक है, और क्या?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "खेल पंचाट न्यायालय ने IIHF के उन निर्णयों को पलट दिया जिसमें रूस को 2026-27 सीज़न की घटनाओं से बाहर रखा गया था।"
+     "text": "सऊदी अरब ने इबोला चिंताओं के कारण केन्या से यात्रा, प्रवेश निलंबित कर दिया।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEtVTFpOEhFNUVYQzlqQ0dfWlVoX1RhSTcySnlMM1FVNDAyWVpmd0tYUFY5UWhxQzlNLUN6Z2luLW9zdkdZUDhaZUozZFpGTGVWcm42VEhIQWNXZ2RGb1ptRXpxRUhPZkJkcy1IX3dSV0R6akhwZjBJRzBONElWTjBQSV8ySEdTdjY0VjdFUERpOXVNVlhkdXBfQTZ4bXUyaTRmT3NuSGg?oc=5",
    "type": null,
-   "time": "2026-10-30T12:43:28Z",
+   "time": "2026-10-30T15:38:10Z",
    "countries": [
-    "Russia"
+    "Kenya",
+    "Saudi Arabia"
    ]
   },
   {
@@ -398,116 +503,6 @@
    "time": "2026-10-30T08:37:51Z",
    "countries": [
     "Iran"
-   ]
-  },
-  {
-   "id": "uae-shares-slide-as-fresh-tanker-attack-heighten",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ताजा टैंकर हमले से तेल आपूर्ति की चिंताएं बढ़ीं, यूएई ने शेयर की स्लाइड",
-   "summary": "ताजा टैंकर हमले से तेल आपूर्ति की चिंताएं बढ़ीं, यूएई ने शेयर की स्लाइड",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ताजा टैंकर हमले से तेल आपूर्ति की चिंताएं बढ़ीं, यूएई ने शेयर की स्लाइड।"
-    }
-   ],
-   "source": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVwZTBvelZVUE82QkdVQnE3MldBM1NaRk15QlV1Qms1QTl2NjBoRE4zWGJDUlY5dERMaTNDb0Y3STdmZnVIaHVGUmlXYXlpZFdlVU52MWJ2RENVcnpweEFFS2IxdFFoOXh3eHlTU2Vwc3QwYUpNYzlUWWpXWFBqdE9meHU?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:43:50Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "six-dead-after-helicopter-crashes-in-northern-in",
-   "country": "India",
-   "label": "भारत",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "उत्तरी भारतीय राज्य में हेलीकॉप्टर दुर्घटनाग्रस्त होने से छह लोगों की मौत",
-   "summary": "कथित तौर पर संपर्क टूटने से पहले विमान ने शुक्रवार दोपहर को हिंदू तीर्थ स्थल बद्रीनाथ से उड़ान भरी थी।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "उत्तरी भारतीय राज्य में हेलीकॉप्टर दुर्घटनाग्रस्त होने से छह लोगों की मौत।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "कथित तौर पर संपर्क टूटने से पहले विमान ने शुक्रवार दोपहर को हिंदू तीर्थ स्थल बद्रीनाथ से उड़ान भरी थी।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T15:06:05Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "aid-operation-and-evacuations-in-oleshky-amid-br",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "रूस और यूक्रेन द्वारा सहमत संक्षिप्त संघर्ष विराम के बीच ओलेस्की में सहायता अभियान और निकासी",
-   "summary": "रूस और यूक्रेन द्वारा सहमत संक्षिप्त संघर्ष विराम के बीच ओलेस्की में सहायता अभियान और निकासी",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रूस और यूक्रेन द्वारा सहमत संक्षिप्त संघर्ष विराम के बीच ओलेस्की में सहायता अभियान और निकासी।"
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
-   "type": null,
-   "time": "2026-10-30T13:31:02Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "sheikh-mohammed-bin-rashid-invites-saudi-crown-p",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "शेख मोहम्मद बिन राशिद ने सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान को यूएई में आमंत्रित किया",
-   "summary": "शेख मोहम्मद बिन राशिद ने सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान को यूएई में आमंत्रित किया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "शेख मोहम्मद बिन राशिद ने सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान को यूएई में आमंत्रित किया।"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTl2cTBndEE3TUJMa2JTeURocmhnampUbXVkNkJjYXJ3NzhnVk9IYWM3S2lYLUVjLXJzcDRkSVhYc3pYWHVDVEQ4ZVNjQUZ1ZlZ5ekZzSXNXdjJoNGlKamJsckExTzh3YVJYam9uUklaRldhazBveWRnZjI5YnZzTjR3QmtwVjRfRnI1ZmlYWDczdko5ZlhYSVo5R3BHTXJyc0F0Rm9yWHVERWh6N2g3RXVubm41ZDFpTzZXdWM2cjNUdGhKbnZERTAtV0pTTkxxNTc0?oc=5",
-   "type": null,
-   "time": "2026-10-30T09:23:55Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
    ]
   }
  ]

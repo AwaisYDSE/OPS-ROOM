@@ -1,40 +1,66 @@
 {
- "updated": "2026-10-30T15:22:26.822435Z",
+ "updated": "2026-10-30T20:10:32.580615Z",
  "generator": "rss",
  "lang": "ur",
  "stories": [
   {
-   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "id": "pakistan-army-cautiously-optimistic-about-us-ira",
    "country": "Pakistan",
    "label": "پاکستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "پاکستان اور سعودی عرب نے تیل، ریفائنریز اور معدنیات میں تعاون بڑھانے پر اتفاق کیا ہے۔",
-   "summary": "اسلام آباد: پاکستان اور سعودی عرب نے جمعہ کو دوطرفہ اقتصادی تعلقات کو فروغ دینے کے لیے تیل ذخیرہ کرنے، ریفائنری کی اپ گریڈیشن، خام تیل اور مائع پیٹرولیم گیس (ایل پی جی) کی خریداری اور معدنیات کے شعبے میں اسٹریٹجک تعاون کو مضبوط بنانے پر اتفاق کیا۔",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "پاک فوج امریکہ ایران ثالثی کی کوششوں کے بارے میں ‘محتاط طور پر پر امید’ ہے۔",
+   "summary": "پاکستان کے فوجی ترجمان نے 'طاقتور بگاڑنے والوں اور دشمنوں' کے بارے میں خبردار کیا ہے جو اب بھی یہ سمجھتے ہیں کہ تنازعہ ان کی مدد کرتا ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "پاکستان اور سعودی عرب تیل، ریفائنریز اور معدنیات میں تعاون بڑھانے پر متفق ہیں۔"
+     "text": "پاک فوج امریکہ ایران ثالثی کی کوششوں کے بارے میں ‘محتاط طور پر پر امید’ ہے۔"
     },
     {
      "role": "COMMANDER",
-     "text": "قیمتوں کا کیا مطلب ہے؟"
+     "text": "اب کیا حال ہے؟"
     },
     {
      "role": "ANALYST",
-     "text": "اسلام آباد: پاکستان اور سعودی عرب نے جمعہ کو دوطرفہ اقتصادی تعلقات کو فروغ دینے کے لیے تیل ذخیرہ کرنے، ریفائنری کی اپ گریڈیشن، خام تیل اور مائع پیٹرولیم گیس (ایل پی جی) کی خریداری اور معدنیات کے شعبے میں اسٹریٹجک تعاون کو مضبوط بنانے پر اتفاق کیا۔"
+     "text": "پاکستان کے فوجی ترجمان نے 'طاقتور بگاڑنے والوں اور دشمنوں' کے بارے میں خبردار کیا ہے جو اب بھی یہ سمجھتے ہیں کہ تنازعہ ان کی مدد کرتا ہے۔"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T11:39:36Z",
+   "time": "2026-10-30T18:55:36Z",
    "countries": [
     "Pakistan",
-    "Saudi Arabia"
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-tankers-strike-mines-and-catch-fire-",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ایران کا کہنا ہے کہ آبنائے ہرمز میں 3 ٹینکروں نے بارودی سرنگوں کو نشانہ بنایا اور آگ پکڑ لی، اور مشرق وسطی کی دیگر خبریں",
+   "summary": "ایران کا کہنا ہے کہ آبنائے ہرمز میں 3 ٹینکروں نے بارودی سرنگوں کو نشانہ بنایا اور آگ پکڑ لی، اور مشرق وسطی کی دیگر خبریں",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایران کا کہنا ہے کہ آبنائے ہرمز میں 3 ٹینکروں نے بارودی سرنگوں کو نشانہ بنایا اور آگ پکڑ لی، اور مشرق وسطیٰ کی دیگر خبریں۔"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:39:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -47,7 +73,7 @@
    "severity": "critical",
    "category": "World",
    "headline": "سینیٹرز نے ایران کے خلاف جنگ دوبارہ شروع کرنے کے ٹرمپ کے 'پاگل' منصوبے سے آگاہ کیا۔",
-   "summary": "سینیٹر کرس مرفی کا کہنا ہے کہ انہیں ٹرمپ کے ایران کے خلاف جنگ دوبارہ شروع کرنے کے منصوبے سے آگاہ کیا گیا ہے۔",
+   "summary": "سینیٹر کرس مرفی کا کہنا ہے کہ انہیں ٹرمپ کے ایران کے خلاف جنگ دوبارہ شروع کرنے کے منصوبے کے بارے میں بتایا گیا ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
@@ -55,7 +81,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "ہم اب تک کیا جانتے ہیں؟"
+     "text": "کیا یہ تصدیق شدہ ہے؟"
     },
     {
      "role": "ANALYST",
@@ -72,55 +98,80 @@
    ]
   },
   {
-   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
-   "country": "Iran",
-   "label": "آبنائے ہرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں کا سٹوک سپلائی کا خدشہ",
-   "summary": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں کا سٹوک سپلائی کا خدشہ",
+   "id": "saudi-led-coalition-says-it-destroyed-houthi-dro",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "سعودی زیرقیادت اتحاد کا کہنا ہے کہ اس نے مدینہ کے علاقے میں حوثی ڈرون کو تباہ کر دیا۔",
+   "summary": "سعودی زیرقیادت اتحاد کا کہنا ہے کہ اس نے مدینہ کے علاقے میں حوثی ڈرون کو تباہ کر دیا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں نے سپلائی کے خدشے کا دعویٰ کیا۔"
+     "text": "سعودی قیادت والے اتحاد کا کہنا ہے کہ اس نے مدینہ کے علاقے میں حوثی ڈرون کو تباہ کر دیا۔"
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5",
    "type": null,
-   "time": "2026-10-30T13:24:00Z",
+   "time": "2026-10-30T19:37:43Z",
    "countries": [
-    "Iran",
+    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "pakistan-dominate-india-in-a-high-voltage-hong-k",
+   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
    "country": "Pakistan",
    "label": "پاکستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "ہائی وولٹیج ہانگ کانگ کے چھکوں کے مقابلے میں پاکستان نے بھارت پر غلبہ حاصل کر لیا۔",
-   "summary": "ہائی وولٹیج ہانگ کانگ کے چھکوں کے مقابلے میں پاکستان بھارت پر غالب",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "پاکستان اور سنگاپور مضبوط اقتصادی اور تجارتی تعلقات کے خواہاں ہیں۔",
+   "summary": "پاکستان اور سنگاپور مضبوط اقتصادی اور تجارتی تعلقات کے خواہاں ہیں۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ہائی وولٹیج ہانگ کانگ کے چھکوں کے مقابلے میں پاکستان نے بھارت پر غلبہ حاصل کر لیا۔"
+     "text": "پاکستان اور سنگاپور مضبوط اقتصادی اور تجارتی تعلقات کے خواہاں ہیں۔"
     }
    ],
-   "source": "Taiwan News",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByOFFnSXJVUWhZXy1VcTJyT182cmhoelpWeWh2UTFibjZCb2dmZUVqWnRSd1c4SVJXMEdEOUQ4VWg5S3F5bDJ1UXJrcHRQS1ZBSDZEd2xVVFo?oc=5",
+   "source": "The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
    "type": null,
-   "time": "2026-10-30T14:49:00Z",
+   "time": "2026-10-30T16:22:00Z",
    "countries": [
-    "Pakistan",
-    "India"
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
+   "country": "India",
+   "label": "انڈیا",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "'مکمل مسخرہ': کرکٹ شائقین نے ہندوستان کے خلاف ہانگ کانگ کے چھکے کی جیت کا جشن مناتے ہوئے 'شرمناک' پوسٹ پر پاکستان کے وزیر اعظم کا مذاق اڑایا",
+   "summary": "'مکمل مسخرہ': کرکٹ شائقین نے ہندوستان کے خلاف ہانگ کانگ کے چھکے کی جیت کا جشن مناتے ہوئے 'شرمناک' پوسٹ پر پاکستان کے وزیر اعظم کا مذاق اڑایا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "'مکمل مسخرہ': کرکٹ شائقین نے ہندوستان کے خلاف ہانگ کانگ کے چھکوں کی جیت کا جشن مناتے ہوئے 'شرمناک' پوسٹ پر پاکستان کے وزیر اعظم کا مذاق اڑایا۔"
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:32:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
    ]
   },
   {
@@ -150,87 +201,36 @@
    ]
   },
   {
-   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "پاکستان میں انسانی حقوق کے وکیل جوڑے کو 10 سال قید کی سزا سنادی گئی۔",
-   "summary": "ایمان مزاری اور ہادی علی چٹھہ پر 2024 میں ہونے والے ایک واقعے پر فرد جرم عائد کی گئی تھی، جب انگلینڈ کی کرکٹ ٹیم پاکستان کے دورے پر تھی۔",
+   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
+   "country": "North Korea",
+   "label": "شمالی کوریا",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "کرپٹو دیو بائننس شمالی کوریا سے منسلک ہیک میں چوری شدہ 6.3 بلین ڈالر کی وصولی کی کوشش کر رہی ہے",
+   "summary": "سائبر حملہ، جسے کمپنی پیچیدہ قرار دیتی ہے، خیال کیا جاتا ہے کہ یہ اپنی نوعیت کا اب تک کا سب سے بڑا حملہ ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "پاکستان میں انسانی حقوق کے وکیل جوڑے کو 10 سال قید کی سزا سنادی گئی۔"
+     "text": "کرپٹو دیو بائننس شمالی کوریا سے منسلک ہیک میں چوری شدہ $6.3 بلین واپس کرنے کی کوشش کر رہی ہے۔"
     },
     {
      "role": "COMMANDER",
-     "text": "یہ کتنا سنجیدہ ہے؟"
+     "text": "کوئی جانی نقصان؟"
     },
     {
      "role": "ANALYST",
-     "text": "ایمان مزاری اور ہادی علی چٹھہ پر 2024 میں ہونے والے ایک واقعے پر فرد جرم عائد کی گئی تھی، جب انگلینڈ کی کرکٹ ٹیم پاکستان کے دورے پر تھی۔"
+     "text": "سائبر حملہ، جسے کمپنی پیچیدہ قرار دیتی ہے، خیال کیا جاتا ہے کہ یہ اپنی نوعیت کا اب تک کا سب سے بڑا حملہ ہے۔"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T07:53:38Z",
+   "time": "2026-10-30T17:39:43Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "uae-shares-decline-on-weak-earnings-and-regional",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "کمزور آمدنی اور علاقائی کشیدگی پر متحدہ عرب امارات کے حصص میں کمی",
-   "summary": "کمزور آمدنی اور علاقائی کشیدگی پر متحدہ عرب امارات کے حصص میں کمی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "کمزور آمدنی اور علاقائی کشیدگی پر متحدہ عرب امارات کے حصص میں کمی۔"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVAxeVFhNDJWMV80WVNnYXBENEpxeElXU0JvWFdVeExYc0pCXzJCTVUzc1V1NWhZT0szQ1FBODRkN18zdGRzYl9mMzRXR0EyWEoxMGJSUVgwaUFlcnowVUMxbmJxMllERzhYUmg0OHlibXM4OVRZeGN1RVRydFNWc0ZodnZnRVRMc3JkY3d0cG84emNPNUdsSlIwNEVwWFhDd0F5eGNPUQ?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:21:45Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-on-iran-war-it-s-going-to-get-wrapped-up-s",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ایران جنگ پر ٹرمپ: یہ جلد ہی ختم ہونے والی ہے۔",
-   "summary": "ایران جنگ پر ٹرمپ: یہ جلد ہی ختم ہونے والی ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایران جنگ پر ٹرمپ: یہ جلد ہی ختم ہونے والی ہے۔"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:10:11Z",
-   "countries": [
-    "United States of America",
-    "Iran"
+    "North Korea"
    ]
   },
   {
@@ -250,36 +250,182 @@
      "text": "سعودی عرب کا کہنا ہے کہ اسلام کے مقدس ترین شہر کے قریب ڈرون کو روکا گیا، اور مشرق وسطی کی دیگر خبریں۔"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "source": "myMotherLode.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWktVkcyMW1KWDNsYjgwTTdtSkpmYjRvUWtycndpN2tCcE40bUkwT0VBVDF6TVA1R1lvT2dzTzJXTk9ZSm0zY1NabWpkSkMwd3Y5TXFZd1RRZHZxU3dmYWlyUnZKOFBlR1dNNUg0aVFlMi14QTN3TE1ISVJZUGJNZy0tR0RDbGZBb3RvUzZ5QkwxSXRuSk4xM1NnQTNqUFJDZWh2Z3E3V2RjQzZkWm1NbnE2QTQzbTFlX1l4amZBNE5EckJSTXRUNDFQcFZzUdIB0wFBVV95cUxQSzhuZkZoTlllMDdERGlHVXhfUzJwZ2ZTU1NrZnRyUkRwNzNwekxSZm9GdmFXU1JYdjQ5MWlKTlJqRmRzTkFTNVJpTFd0MmZTMXQ5Zjk5RkdUU2IzWFY3d3lZNE5DNXVaanRHWWNuUnA1bUpheVp3d1E0a0JlcGhxNVV6OHMtV1U2T0VkUlVva0tIZXV5M25ZWmEzTVAybUFtRDRTQ2gtc1p3SC1tSUZ6QzhNRmRmOE5RSnV0ZjNXc3c1UThOaWJ3V3BSMFFmZmkyWDlr?oc=5",
    "type": null,
-   "time": "2026-10-30T12:10:00Z",
+   "time": "2026-10-30T11:14:32Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-s-irgc-navy-says-three-tankers-catch-fire-i",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ایران کی IRGC بحریہ کا کہنا ہے کہ آبنائے ہرمز میں تین ٹینکروں میں آگ لگ گئی۔",
-   "summary": "ایران کی IRGC بحریہ کا کہنا ہے کہ آبنائے ہرمز میں تین ٹینکروں میں آگ لگ گئی۔",
+   "id": "trump-says-iran-war-will-end-soon-while-qatar-ca",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "ٹرمپ کا کہنا ہے کہ ایران جنگ جلد ختم ہو جائے گی جب کہ قطر تہران کے لیے نئی شرائط لے کر جائے گا۔",
+   "summary": "ٹرمپ کا کہنا ہے کہ ایران جنگ جلد ختم ہو جائے گی جب کہ قطر تہران کے لیے نئی شرائط لے کر جائے گا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ایران کی IRGC بحریہ کا کہنا ہے کہ آبنائے ہرمز میں تین ٹینکروں میں آگ لگ گئی۔"
+     "text": "ٹرمپ کا کہنا ہے کہ ایران جنگ جلد ختم ہو جائے گی جب کہ قطر تہران کے لیے نئی شرائط لے کر جائے گا۔"
+    }
+   ],
+   "source": "Northeast Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:40:54Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "متحدہ عرب امارات کا کہنا ہے کہ ٹینکر سے تیل کا اخراج روک دیا گیا ہے، آلودگی میں کمی آئی ہے۔",
+   "summary": "متحدہ عرب امارات کا کہنا ہے کہ ٹینکر سے تیل کا اخراج روک دیا گیا ہے، آلودگی میں کمی آئی ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "متحدہ عرب امارات کا کہنا ہے کہ ٹینکر سے تیل کا اخراج روک دیا گیا ہے، آلودگی میں کمی آئی ہے۔"
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
+   "type": null,
+   "time": "2026-10-30T16:34:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
+   "country": "Iran",
+   "label": "آبنائے ہرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں کا سٹوک سپلائی کا خدشہ",
+   "summary": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں کا سٹوک سپلائی کا خدشہ",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ہرمز ٹینکر حملے کے بعد تیل کی قیمتوں میں اضافہ، حوثیوں نے سپلائی کے خدشے کا دعویٰ کیا۔"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:24:00Z",
+   "countries": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "پاکستان میں انسانی حقوق کے وکیل جوڑے کو 10 سال قید کی سزا سنادی گئی۔",
+   "summary": "ایمان مزاری اور ہادی علی چٹھہ پر 2024 میں ہونے والے ایک واقعے پر فرد جرم عائد کی گئی تھی، جب انگلینڈ کی کرکٹ ٹیم پاکستان کے دورے پر تھی۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "پاکستان میں انسانی حقوق کے وکیل جوڑے کو 10 سال قید کی سزا سنادی گئی۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مجھے تفصیلات دیں۔"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ایمان مزاری اور ہادی علی چٹھہ پر 2024 میں ہونے والے ایک واقعے پر فرد جرم عائد کی گئی تھی، جب انگلینڈ کی کرکٹ ٹیم پاکستان کے دورے پر تھی۔"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T07:53:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-orders-non-emergency-staff-to-leave-saudi-ara",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "امریکہ نے غیر ہنگامی عملے کو سکیورٹی خطرات کے پیش نظر سعودی عرب چھوڑنے کا حکم دے دیا۔",
+   "summary": "امریکہ نے غیر ہنگامی عملے کو سکیورٹی خطرات کے پیش نظر سعودی عرب چھوڑنے کا حکم دے دیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "امریکہ نے غیر ہنگامی عملے کو سکیورٹی خطرات کے پیش نظر سعودی عرب چھوڑنے کا حکم دے دیا۔"
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
    "type": null,
-   "time": "2026-10-30T13:08:58Z",
+   "time": "2026-10-30T18:32:55Z",
    "countries": [
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oman-rescues-25-from-burning-oil-tanker-in-strai",
+   "country": "Oman",
+   "label": "عمان",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "عمان نے آبنائے ہرمز میں آئل ٹینکر میں جلنے والے 25 افراد کو بچا لیا۔",
+   "summary": "یہ واقعہ اس وقت پیش آیا جب ایران کا کہنا ہے کہ تین آئل ٹینکرز کو ہرمز کو عبور کرنے کے لیے 'غیر مجاز راستے' استعمال کرنے کی کوشش کے دوران روک دیا گیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "عمان نے آبنائے ہرمز میں آئل ٹینکر میں جلنے والے 25 افراد کو بچا لیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "قیمتوں کا کیا مطلب ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "یہ واقعہ اس وقت پیش آیا جب ایران کا کہنا ہے کہ تین آئل ٹینکرز کو ہرمز کو عبور کرنے کے لیے 'غیر مجاز راستے' استعمال کرنے کی کوشش کے دوران روک دیا گیا۔"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-30T18:33:29Z",
+   "countries": [
+    "Oman",
     "Iran"
    ]
   },
@@ -309,70 +455,29 @@
    ]
   },
   {
-   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ٹرمپ ایران کو وینس کے خط کی خبروں سے متضاد ہیں۔",
-   "summary": "• صدر کا کہنا ہے کہ رسائی طبی سامان پر مرکوز تھی، امن مذاکرات پر نہیں • تہران نے نائب صدر کا خط موصول ہونے کی تصدیق کی، ابھی تک کوئی جواب نہیں آیا • امریکی میڈیا کا دعویٰ ہے کہ نئے حملوں کو روکنے کے لیے خط و کتابت کی کوشش کی گئی ہے تہران: ایرانی میڈیا نے جمعرات کو رپورٹ کیا کہ تہران",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ٹرمپ ایران کو وینس کے خط کی خبروں سے متضاد ہیں۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ہم اب تک کیا جانتے ہیں؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "• صدر کا کہنا ہے کہ رسائی طبی سامان پر مرکوز تھی، امن مذاکرات پر نہیں • تہران نے نائب صدر کا خط موصول ہونے کی تصدیق کی، ابھی تک کوئی جواب نہیں آیا • امریکی میڈیا کا دعویٰ ہے کہ نئے حملوں کو روکنے کے لیے خط و کتابت کی کوشش کی گئی ہے تہران: ایرانی میڈیا نے جمعرات کو رپورٹ کیا کہ تہران"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
-   "type": null,
-   "time": "2026-10-30T02:45:29Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-back-in-ice-hockey-world-championships-af",
-   "country": "Russia",
-   "label": "روس",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "saudi-arabia-suspends-travel-entry-from-kenya-ov",
+   "country": "Kenya",
+   "label": "کینیا",
+   "lat": 0.0,
+   "lon": 37.9,
+   "flag": "🇰🇪",
+   "severity": "watch",
    "category": "World",
-   "headline": "کھیلوں کی عدالت کے فیصلے کے بعد روس آئس ہاکی ورلڈ چیمپئن شپ میں واپس آگیا",
-   "summary": "کھیل کی ثالثی عدالت نے IIHF کے ان فیصلوں کو الٹ دیا جس نے روس کو 2026-27 کے سیزن میں ہونے والے ایونٹس سے باہر رکھا تھا۔",
+   "headline": "سعودی عرب نے ایبولا کے خدشات کے پیش نظر کینیا سے سفر اور داخلہ معطل کر دیا۔",
+   "summary": "سعودی عرب نے ایبولا کے خدشات کے پیش نظر کینیا سے سفر اور داخلہ معطل کر دیا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "کھیلوں کی عدالت کے فیصلے کے بعد روس آئس ہاکی ورلڈ چیمپئن شپ میں واپس آگیا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ٹھیک ہے، اور کیا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "کھیل کی ثالثی عدالت نے IIHF کے ان فیصلوں کو الٹ دیا جس نے روس کو 2026-27 کے سیزن میں ہونے والے ایونٹس سے باہر رکھا تھا۔"
+     "text": "سعودی عرب نے ایبولا کے خدشات کے پیش نظر کینیا سے سفر اور داخلہ معطل کر دیا۔"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEtVTFpOEhFNUVYQzlqQ0dfWlVoX1RhSTcySnlMM1FVNDAyWVpmd0tYUFY5UWhxQzlNLUN6Z2luLW9zdkdZUDhaZUozZFpGTGVWcm42VEhIQWNXZ2RGb1ptRXpxRUhPZkJkcy1IX3dSV0R6akhwZjBJRzBONElWTjBQSV8ySEdTdjY0VjdFUERpOXVNVlhkdXBfQTZ4bXUyaTRmT3NuSGg?oc=5",
    "type": null,
-   "time": "2026-10-30T12:43:28Z",
+   "time": "2026-10-30T15:38:10Z",
    "countries": [
-    "Russia"
+    "Kenya",
+    "Saudi Arabia"
    ]
   },
   {
@@ -398,116 +503,6 @@
    "time": "2026-10-30T08:37:51Z",
    "countries": [
     "Iran"
-   ]
-  },
-  {
-   "id": "uae-shares-slide-as-fresh-tanker-attack-heighten",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "متحدہ عرب امارات میں ٹینکر کے تازہ حملے نے تیل کی سپلائی کے خدشات کو بڑھاتے ہوئے سلائیڈ کر دی۔",
-   "summary": "متحدہ عرب امارات میں ٹینکر کے تازہ حملے نے تیل کی سپلائی کے خدشات کو بڑھاتے ہوئے سلائیڈ کر دی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "متحدہ عرب امارات میں ٹینکر کے تازہ حملے نے تیل کی سپلائی کے خدشات کو بڑھاتے ہوئے سلائیڈ کر دی۔"
-    }
-   ],
-   "source": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVwZTBvelZVUE82QkdVQnE3MldBM1NaRk15QlV1Qms1QTl2NjBoRE4zWGJDUlY5dERMaTNDb0Y3STdmZnVIaHVGUmlXYXlpZFdlVU52MWJ2RENVcnpweEFFS2IxdFFoOXh3eHlTU2Vwc3QwYUpNYzlUWWpXWFBqdE9meHU?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:43:50Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "six-dead-after-helicopter-crashes-in-northern-in",
-   "country": "India",
-   "label": "انڈیا",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "بھارت کی شمالی ریاست میں ہیلی کاپٹر گرنے سے چھ افراد ہلاک ہو گئے۔",
-   "summary": "اس طیارے نے مبینہ طور پر رابطہ منقطع ہونے سے قبل جمعہ کی دوپہر بدری ناتھ کے ہندو زیارت گاہ سے اڑان بھری تھی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "بھارت کی شمالی ریاست میں ہیلی کاپٹر گرنے سے چھ افراد ہلاک ہو گئے۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اس کے پیچھے کون ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "اس طیارے نے مبینہ طور پر رابطہ منقطع ہونے سے قبل جمعہ کی دوپہر بدری ناتھ کے ہندو زیارت گاہ سے اڑان بھری تھی۔"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T15:06:05Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "aid-operation-and-evacuations-in-oleshky-amid-br",
-   "country": "Russia",
-   "label": "روس",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "روس اور یوکرین کے درمیان مختصر جنگ بندی کے درمیان اولیشکی میں امدادی آپریشن اور انخلاء",
-   "summary": "روس اور یوکرین کے درمیان مختصر جنگ بندی کے درمیان اولیشکی میں امدادی آپریشن اور انخلاء",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "روس اور یوکرین کے درمیان مختصر جنگ بندی کے درمیان اولیشکی میں امدادی آپریشن اور انخلاء۔"
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
-   "type": null,
-   "time": "2026-10-30T13:31:02Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "sheikh-mohammed-bin-rashid-invites-saudi-crown-p",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "شیخ محمد بن راشد نے سعودی ولی عہد شہزادہ محمد بن سلمان کو یو اے ای آنے کی دعوت دی۔",
-   "summary": "شیخ محمد بن راشد نے سعودی ولی عہد شہزادہ محمد بن سلمان کو یو اے ای آنے کی دعوت دی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "شیخ محمد بن راشد نے سعودی ولی عہد شہزادہ محمد بن سلمان کو یو اے ای آنے کی دعوت دی۔"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTl2cTBndEE3TUJMa2JTeURocmhnampUbXVkNkJjYXJ3NzhnVk9IYWM3S2lYLUVjLXJzcDRkSVhYc3pYWHVDVEQ4ZVNjQUZ1ZlZ5ekZzSXNXdjJoNGlKamJsckExTzh3YVJYam9uUklaRldhazBveWRnZjI5YnZzTjR3QmtwVjRfRnI1ZmlYWDczdko5ZlhYSVo5R3BHTXJyc0F0Rm9yWHVERWh6N2g3RXVubm41ZDFpTzZXdWM2cjNUdGhKbnZERTAtV0pTTkxxNTc0?oc=5",
-   "type": null,
-   "time": "2026-10-30T09:23:55Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
    ]
   }
  ]

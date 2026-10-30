@@ -1,40 +1,66 @@
 {
- "updated": "2026-10-30T15:22:26.822435Z",
+ "updated": "2026-10-30T20:10:32.580615Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "id": "pakistan-army-cautiously-optimistic-about-us-ira",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "باكستان والمملكة العربية السعودية تتفقان على تعزيز التعاون في مجالات النفط والمصافي والمعادن",
-   "summary": "إسلام آباد: اتفقت باكستان والمملكة العربية السعودية يوم الجمعة على تعزيز التعاون الاستراتيجي في تخزين النفط وتحديث مصافي التكرير وشراء النفط الخام وغاز البترول المسال وقطاع المعادن لتعزيز العلاقات الاقتصادية الثنائية، وفقًا لما جاء في اتفاق.",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "الجيش الباكستاني \"متفائل بحذر\" بشأن جهود الوساطة الأمريكية الإيرانية",
+   "summary": "المتحدث العسكري الباكستاني يحذر من \"المفسدين والمنتقدين الأقوياء\" الذين ما زالوا يعتقدون أن الصراع يخدمهم.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "باكستان والمملكة العربية السعودية تتفقان على تعزيز التعاون في مجالات النفط والمصافي والمعادن."
+     "text": "الجيش الباكستاني \"متفائل بحذر\" بشأن جهود الوساطة الأمريكية الإيرانية"
     },
     {
      "role": "COMMANDER",
-     "text": "ماذا يعني بالنسبة للأسعار؟"
+     "text": "ما هو الوضع الآن؟"
     },
     {
      "role": "ANALYST",
-     "text": "إسلام آباد: اتفقت باكستان والمملكة العربية السعودية يوم الجمعة على تعزيز التعاون الاستراتيجي في تخزين النفط وتحديث مصافي التكرير وشراء النفط الخام وغاز البترول المسال وقطاع المعادن لتعزيز العلاقات الاقتصادية الثنائية، وفقًا لما جاء في اتفاق."
+     "text": "المتحدث العسكري الباكستاني يحذر من \"المفسدين والمنتقدين الأقوياء\" الذين ما زالوا يعتقدون أن الصراع يخدمهم."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T11:39:36Z",
+   "time": "2026-10-30T18:55:36Z",
    "countries": [
     "Pakistan",
-    "Saudi Arabia"
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-tankers-strike-mines-and-catch-fire-",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً واشتعلت فيها النيران في مضيق هرمز، وأخبار أخرى في الشرق الأوسط",
+   "summary": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً واشتعلت فيها النيران في مضيق هرمز، وأخبار أخرى في الشرق الأوسط",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إيران تقول إن 3 ناقلات نفط ضربت ألغاماً واشتعلت فيها النيران في مضيق هرمز، وأخبار أخرى في الشرق الأوسط."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:39:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -55,7 +81,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
+     "text": "هل تم تأكيد ذلك؟"
     },
     {
      "role": "ANALYST",
@@ -72,55 +98,80 @@
    ]
   },
   {
-   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
-   "country": "Iran",
-   "label": "مضيق هرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات",
-   "summary": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات",
+   "id": "saudi-led-coalition-says-it-destroyed-houthi-dro",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "التحالف بقيادة السعودية يقول إنه دمر طائرة مسيرة للحوثيين فوق منطقة المدينة المنورة",
+   "summary": "التحالف بقيادة السعودية يقول إنه دمر طائرة مسيرة للحوثيين فوق منطقة المدينة المنورة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات."
+     "text": "التحالف الذي تقوده السعودية يقول إنه دمر طائرة مسيرة تابعة للحوثيين فوق منطقة المدينة المنورة."
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5",
    "type": null,
-   "time": "2026-10-30T13:24:00Z",
+   "time": "2026-10-30T19:37:43Z",
    "countries": [
-    "Iran",
+    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "pakistan-dominate-india-in-a-high-voltage-hong-k",
+   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "باكستان تهيمن على الهند في المواجهة الستية عالية الجهد في هونغ كونغ",
-   "summary": "باكستان تهيمن على الهند في المواجهة الستية عالية الجهد في هونغ كونغ",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "تسعى باكستان وسنغافورة إلى تعزيز العلاقات الاقتصادية والتجارية",
+   "summary": "تسعى باكستان وسنغافورة إلى تعزيز العلاقات الاقتصادية والتجارية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "باكستان تهيمن على الهند في المواجهة الستية عالية الجهد في هونغ كونغ."
+     "text": "تسعى باكستان وسنغافورة إلى تعزيز العلاقات الاقتصادية والتجارية."
     }
    ],
-   "source": "Taiwan News",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByOFFnSXJVUWhZXy1VcTJyT182cmhoelpWeWh2UTFibjZCb2dmZUVqWnRSd1c4SVJXMEdEOUQ4VWg5S3F5bDJ1UXJrcHRQS1ZBSDZEd2xVVFo?oc=5",
+   "source": "The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
    "type": null,
-   "time": "2026-10-30T14:49:00Z",
+   "time": "2026-10-30T16:22:00Z",
    "countries": [
-    "Pakistan",
-    "India"
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
+   "country": "India",
+   "label": "الهند",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "\"مهرج مطلق\": مشجعو الكريكيت يسخرون من رئيس الوزراء الباكستاني بسبب منشور \"محرج\" يحتفل بفوز هونج كونج سيكس على الهند",
+   "summary": "\"مهرج مطلق\": مشجعو الكريكيت يسخرون من رئيس الوزراء الباكستاني بسبب منشور \"محرج\" يحتفل بفوز هونج كونج سيكس على الهند",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "\"المهرج المطلق\": مشجعو لعبة الكريكيت يسخرون من رئيس الوزراء الباكستاني بسبب منشور \"محرج\" يحتفل بفوز هونج كونج سيكس على الهند."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:32:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
    ]
   },
   {
@@ -150,87 +201,36 @@
    ]
   },
   {
-   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "الحكم على زوجين من محامي حقوق الإنسان بالسجن لمدة 10 سنوات في باكستان",
-   "summary": "تم اتهام إيمان مزاري وهادي علي تشاثا بسبب حادثة وقعت في عام 2024، عندما كان فريق الكريكيت الإنجليزي يقوم بجولة في باكستان.",
+   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
+   "country": "North Korea",
+   "label": "كوريا الشمالية",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "تحاول شركة Binance العملاقة للعملات المشفرة استرداد 6.3 مليار دولار مسروقة في عملية اختراق مرتبطة بكوريا الشمالية",
+   "summary": "ويُعتقد أن الهجوم الإلكتروني، الذي تصفه الشركة بالمعقد، هو الأكبر من نوعه على الإطلاق.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الحكم على زوجين من محامي حقوق الإنسان بالسجن لمدة 10 سنوات في باكستان."
+     "text": "تحاول شركة Binance العملاقة للعملات المشفرة استرداد 6.3 مليار دولار مسروقة في عملية اختراق مرتبطة بكوريا الشمالية."
     },
     {
      "role": "COMMANDER",
-     "text": "ما مدى جدية الأمر؟"
+     "text": "هل هناك ضحايا؟"
     },
     {
      "role": "ANALYST",
-     "text": "تم اتهام إيمان مزاري وهادي علي تشاثا بسبب حادثة وقعت في عام 2024، عندما كان فريق الكريكيت الإنجليزي يقوم بجولة في باكستان."
+     "text": "ويُعتقد أن الهجوم الإلكتروني، الذي تصفه الشركة بالمعقد، هو الأكبر من نوعه على الإطلاق."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T07:53:38Z",
+   "time": "2026-10-30T17:39:43Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "uae-shares-decline-on-weak-earnings-and-regional",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "الأسهم الإماراتية تتراجع بفعل ضعف الأرباح والتوترات الإقليمية",
-   "summary": "الأسهم الإماراتية تتراجع بفعل ضعف الأرباح والتوترات الإقليمية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الأسهم الإماراتية تتراجع بفعل ضعف الأرباح والتوترات الإقليمية."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVAxeVFhNDJWMV80WVNnYXBENEpxeElXU0JvWFdVeExYc0pCXzJCTVUzc1V1NWhZT0szQ1FBODRkN18zdGRzYl9mMzRXR0EyWEoxMGJSUVgwaUFlcnowVUMxbmJxMllERzhYUmg0OHlibXM4OVRZeGN1RVRydFNWc0ZodnZnRVRMc3JkY3d0cG84emNPNUdsSlIwNEVwWFhDd0F5eGNPUQ?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:21:45Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-on-iran-war-it-s-going-to-get-wrapped-up-s",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ترامب عن حرب إيران: ستنتهي قريبًا",
-   "summary": "ترامب عن حرب إيران: ستنتهي قريبًا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ترامب عن حرب إيران: ستنتهي قريبًا."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:10:11Z",
-   "countries": [
-    "United States of America",
-    "Iran"
+    "North Korea"
    ]
   },
   {
@@ -250,36 +250,182 @@
      "text": "تقول المملكة العربية السعودية إنه تم اعتراض طائرة بدون طيار بالقرب من أقدس مدينة في الإسلام، وأخبار أخرى في الشرق الأوسط."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "source": "myMotherLode.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWktVkcyMW1KWDNsYjgwTTdtSkpmYjRvUWtycndpN2tCcE40bUkwT0VBVDF6TVA1R1lvT2dzTzJXTk9ZSm0zY1NabWpkSkMwd3Y5TXFZd1RRZHZxU3dmYWlyUnZKOFBlR1dNNUg0aVFlMi14QTN3TE1ISVJZUGJNZy0tR0RDbGZBb3RvUzZ5QkwxSXRuSk4xM1NnQTNqUFJDZWh2Z3E3V2RjQzZkWm1NbnE2QTQzbTFlX1l4amZBNE5EckJSTXRUNDFQcFZzUdIB0wFBVV95cUxQSzhuZkZoTlllMDdERGlHVXhfUzJwZ2ZTU1NrZnRyUkRwNzNwekxSZm9GdmFXU1JYdjQ5MWlKTlJqRmRzTkFTNVJpTFd0MmZTMXQ5Zjk5RkdUU2IzWFY3d3lZNE5DNXVaanRHWWNuUnA1bUpheVp3d1E0a0JlcGhxNVV6OHMtV1U2T0VkUlVva0tIZXV5M25ZWmEzTVAybUFtRDRTQ2gtc1p3SC1tSUZ6QzhNRmRmOE5RSnV0ZjNXc3c1UThOaWJ3V3BSMFFmZmkyWDlr?oc=5",
    "type": null,
-   "time": "2026-10-30T12:10:00Z",
+   "time": "2026-10-30T11:14:32Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-s-irgc-navy-says-three-tankers-catch-fire-i",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "أعلنت البحرية التابعة للحرس الثوري الإيراني أن ثلاث ناقلات نفط اشتعلت فيها النيران في مضيق هرمز",
-   "summary": "أعلنت البحرية التابعة للحرس الثوري الإيراني أن ثلاث ناقلات نفط اشتعلت فيها النيران في مضيق هرمز",
+   "id": "trump-says-iran-war-will-end-soon-while-qatar-ca",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "ترامب يقول إن الحرب مع إيران ستنتهي قريبا بينما تحمل قطر شروطا جديدة لطهران",
+   "summary": "ترامب يقول إن الحرب مع إيران ستنتهي قريبا بينما تحمل قطر شروطا جديدة لطهران",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أعلنت البحرية التابعة للحرس الثوري الإيراني أن ثلاث ناقلات نفط اشتعلت فيها النيران في مضيق هرمز."
+     "text": "ترامب يقول إن الحرب مع إيران ستنتهي قريبا بينما تحمل قطر شروطا جديدة لطهران."
+    }
+   ],
+   "source": "Northeast Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:40:54Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "الإمارات تقول إنه تم وقف تسرب النفط من الناقلة وتراجع التلوث",
+   "summary": "الإمارات تقول إنه تم وقف تسرب النفط من الناقلة وتراجع التلوث",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الإمارات تقول إنه تم وقف تسرب النفط من الناقلة وتراجع التلوث."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
+   "type": null,
+   "time": "2026-10-30T16:34:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
+   "country": "Iran",
+   "label": "مضيق هرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات",
+   "summary": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "أسعار النفط ترتفع بعد الهجوم على ناقلة هرمز ومزاعم الحوثيين تثير المخاوف بشأن الإمدادات."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:24:00Z",
+   "countries": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "الحكم على زوجين من محامي حقوق الإنسان بالسجن لمدة 10 سنوات في باكستان",
+   "summary": "تم اتهام إيمان مزاري وهادي علي تشاثا بسبب حادثة وقعت في عام 2024، عندما كان فريق الكريكيت الإنجليزي يقوم بجولة في باكستان.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الحكم على زوجين من محامي حقوق الإنسان بالسجن لمدة 10 سنوات في باكستان."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "أعطني التفاصيل."
+    },
+    {
+     "role": "ANALYST",
+     "text": "تم اتهام إيمان مزاري وهادي علي تشاثا بسبب حادثة وقعت في عام 2024، عندما كان فريق الكريكيت الإنجليزي يقوم بجولة في باكستان."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T07:53:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-orders-non-emergency-staff-to-leave-saudi-ara",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "الولايات المتحدة تأمر موظفيها غير الأساسيين بمغادرة السعودية بسبب مخاطر أمنية",
+   "summary": "الولايات المتحدة تأمر موظفيها غير الأساسيين بمغادرة السعودية بسبب مخاطر أمنية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الولايات المتحدة تأمر موظفيها غير الأساسيين بمغادرة السعودية بسبب مخاطر أمنية"
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
    "type": null,
-   "time": "2026-10-30T13:08:58Z",
+   "time": "2026-10-30T18:32:55Z",
    "countries": [
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oman-rescues-25-from-burning-oil-tanker-in-strai",
+   "country": "Oman",
+   "label": "عمان",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "عمان تنقذ 25 شخصا من ناقلة نفط محترقة في مضيق هرمز",
+   "summary": "ويأتي الحادث في الوقت الذي تقول فيه إيران إن ثلاث ناقلات نفط توقفت أثناء محاولتها استخدام \"طرق غير مصرح بها\" لعبور هرمز.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "عمان تنقذ 25 شخصا من ناقلة نفط محترقة في مضيق هرمز."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا يعني بالنسبة للأسعار؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويأتي الحادث في الوقت الذي تقول فيه إيران إن ثلاث ناقلات نفط توقفت أثناء محاولتها استخدام \"طرق غير مصرح بها\" لعبور هرمز."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-30T18:33:29Z",
+   "countries": [
+    "Oman",
     "Iran"
    ]
   },
@@ -309,70 +455,29 @@
    ]
   },
   {
-   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ترامب على خلاف مع التقارير المتعلقة برسالة فانس إلى إيران",
-   "summary": "• يقول الرئيس إن التواصل يركز على الإمدادات الطبية، وليس محادثات السلام. • تؤكد طهران تلقي رسالة نائب الرئيس، ولم يتم الرد بعد. • تزعم وسائل الإعلام الأمريكية أن المراسلات سعت إلى تجنب ضربات جديدة طهران: ذكرت وسائل الإعلام الإيرانية يوم الخميس أن طهران قامت",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ترامب على خلاف مع التقارير المتعلقة برسالة فانس إلى إيران."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "• يقول الرئيس إن التواصل يركز على الإمدادات الطبية، وليس محادثات السلام. • تؤكد طهران تلقي رسالة نائب الرئيس، ولم يتم الرد بعد. • تزعم وسائل الإعلام الأمريكية أن المراسلات سعت إلى تجنب ضربات جديدة طهران: ذكرت وسائل الإعلام الإيرانية يوم الخميس أن طهران قامت"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
-   "type": null,
-   "time": "2026-10-30T02:45:29Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-back-in-ice-hockey-world-championships-af",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "saudi-arabia-suspends-travel-entry-from-kenya-ov",
+   "country": "Kenya",
+   "label": "كينيا",
+   "lat": 0.0,
+   "lon": 37.9,
+   "flag": "🇰🇪",
+   "severity": "watch",
    "category": "World",
-   "headline": "روسيا تعود إلى بطولة العالم لهوكي الجليد بعد حكم المحكمة الرياضية",
-   "summary": "ألغت محكمة التحكيم الرياضية قرارات الاتحاد الدولي لكرة القدم التي استبعدت روسيا من الأحداث في موسم 2026-27.",
+   "headline": "السعودية تعلق السفر والدخول من كينيا بسبب مخاوف من فيروس إيبولا",
+   "summary": "السعودية تعلق السفر والدخول من كينيا بسبب مخاوف من فيروس إيبولا",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "روسيا تعود إلى بطولة العالم لهوكي الجليد بعد حكم المحكمة الرياضية."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "حسنًا، ماذا أيضًا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ألغت محكمة التحكيم الرياضية قرارات الاتحاد الدولي لكرة القدم التي استبعدت روسيا من الأحداث في موسم 2026-27."
+     "text": "السعودية تعلق السفر والدخول من كينيا بسبب مخاوف من فيروس إيبولا."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEtVTFpOEhFNUVYQzlqQ0dfWlVoX1RhSTcySnlMM1FVNDAyWVpmd0tYUFY5UWhxQzlNLUN6Z2luLW9zdkdZUDhaZUozZFpGTGVWcm42VEhIQWNXZ2RGb1ptRXpxRUhPZkJkcy1IX3dSV0R6akhwZjBJRzBONElWTjBQSV8ySEdTdjY0VjdFUERpOXVNVlhkdXBfQTZ4bXUyaTRmT3NuSGg?oc=5",
    "type": null,
-   "time": "2026-10-30T12:43:28Z",
+   "time": "2026-10-30T15:38:10Z",
    "countries": [
-    "Russia"
+    "Kenya",
+    "Saudi Arabia"
    ]
   },
   {
@@ -398,116 +503,6 @@
    "time": "2026-10-30T08:37:51Z",
    "countries": [
     "Iran"
-   ]
-  },
-  {
-   "id": "uae-shares-slide-as-fresh-tanker-attack-heighten",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "تراجع أسهم الإمارات العربية المتحدة مع تزايد المخاوف بشأن إمدادات النفط بسبب هجوم جديد على ناقلة نفط",
-   "summary": "تراجع أسهم الإمارات العربية المتحدة مع تزايد المخاوف بشأن إمدادات النفط بسبب هجوم جديد على ناقلة نفط",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تراجع أسهم الإمارات العربية المتحدة مع تزايد المخاوف بشأن إمدادات النفط بسبب هجوم جديد على ناقلة نفط."
-    }
-   ],
-   "source": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVwZTBvelZVUE82QkdVQnE3MldBM1NaRk15QlV1Qms1QTl2NjBoRE4zWGJDUlY5dERMaTNDb0Y3STdmZnVIaHVGUmlXYXlpZFdlVU52MWJ2RENVcnpweEFFS2IxdFFoOXh3eHlTU2Vwc3QwYUpNYzlUWWpXWFBqdE9meHU?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:43:50Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "six-dead-after-helicopter-crashes-in-northern-in",
-   "country": "India",
-   "label": "الهند",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ستة قتلى بعد تحطم مروحية في ولاية شمال الهند",
-   "summary": "وبحسب ما ورد أقلعت الطائرة من موقع الحج الهندوسي في بادريناث بعد ظهر الجمعة قبل أن تفقد الاتصال.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ستة قتلى بعد تحطم مروحية في ولاية شمال الهند."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وبحسب ما ورد أقلعت الطائرة من موقع الحج الهندوسي في بادريناث بعد ظهر الجمعة قبل أن تفقد الاتصال."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T15:06:05Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "aid-operation-and-evacuations-in-oleshky-amid-br",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "عملية إغاثة وإجلاء في أولشكي وسط هدنة قصيرة اتفقت عليها روسيا وأوكرانيا",
-   "summary": "عملية إغاثة وإجلاء في أولشكي وسط هدنة قصيرة اتفقت عليها روسيا وأوكرانيا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "عملية إغاثة وإجلاء في أولشكي وسط هدنة قصيرة اتفقت عليها روسيا وأوكرانيا."
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
-   "type": null,
-   "time": "2026-10-30T13:31:02Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "sheikh-mohammed-bin-rashid-invites-saudi-crown-p",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "الشيخ محمد بن راشد يدعو ولي العهد السعودي الأمير محمد بن سلمان لزيارة الإمارات",
-   "summary": "الشيخ محمد بن راشد يدعو ولي العهد السعودي الأمير محمد بن سلمان لزيارة الإمارات",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الشيخ محمد بن راشد يدعو ولي العهد السعودي الأمير محمد بن سلمان لزيارة الإمارات."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTl2cTBndEE3TUJMa2JTeURocmhnampUbXVkNkJjYXJ3NzhnVk9IYWM3S2lYLUVjLXJzcDRkSVhYc3pYWHVDVEQ4ZVNjQUZ1ZlZ5ekZzSXNXdjJoNGlKamJsckExTzh3YVJYam9uUklaRldhazBveWRnZjI5YnZzTjR3QmtwVjRfRnI1ZmlYWDczdko5ZlhYSVo5R3BHTXJyc0F0Rm9yWHVERWh6N2g3RXVubm41ZDFpTzZXdWM2cjNUdGhKbnZERTAtV0pTTkxxNTc0?oc=5",
-   "type": null,
-   "time": "2026-10-30T09:23:55Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
    ]
   }
  ]

@@ -1,40 +1,66 @@
 {
- "updated": "2026-10-30T15:22:26.822435Z",
+ "updated": "2026-10-30T20:10:32.580615Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "id": "pakistan-army-cautiously-optimistic-about-us-ira",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Пакистан и Саудовская Аравия договорились активизировать сотрудничество в области нефти, нефтеперерабатывающих заводов и полезных ископаемых",
-   "summary": "ИСЛАМАБАД: Пакистан и Саудовская Аравия договорились в пятницу укреплять стратегическое сотрудничество в области хранения нефти, модернизации нефтеперерабатывающих заводов, закупок сырой нефти и сжиженного нефтяного газа (СНГ), а также в горнодобывающем секторе для развития двусторонних экономических связей, согласно сообщению ста",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "Пакистанская армия «осторожно оптимистична» в отношении посреднических усилий США и Ирана",
+   "summary": "Военный представитель Пакистана предупреждает о «мощных спойлерах и недоброжелателях», которые все еще верят, что конфликт служит им.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пакистан и Саудовская Аравия договорились активизировать сотрудничество в области нефти, нефтеперерабатывающих заводов и полезных ископаемых."
+     "text": "Пакистанская армия «осторожно оптимистична» в отношении посреднических усилий США и Ирана."
     },
     {
      "role": "COMMANDER",
-     "text": "Что это значит для цен?"
+     "text": "Какова ситуация сейчас?"
     },
     {
      "role": "ANALYST",
-     "text": "ИСЛАМАБАД: Пакистан и Саудовская Аравия договорились в пятницу укреплять стратегическое сотрудничество в области хранения нефти, модернизации нефтеперерабатывающих заводов, закупок сырой нефти и сжиженного нефтяного газа (СНГ), а также в горнодобывающем секторе для развития двусторонних экономических связей, согласно сообщению ста"
+     "text": "Военный представитель Пакистана предупреждает о «мощных спойлерах и недоброжелателях», которые все еще верят, что конфликт служит им."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T11:39:36Z",
+   "time": "2026-10-30T18:55:36Z",
    "countries": [
     "Pakistan",
-    "Saudi Arabia"
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-3-tankers-strike-mines-and-catch-fire-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Иран заявляет, что 3 танкера подорвались на минах и загорелись в Ормузском проливе и другие новости Ближнего Востока",
+   "summary": "Иран заявляет, что 3 танкера подорвались на минах и загорелись в Ормузском проливе и другие новости Ближнего Востока",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран сообщает, что 3 танкера подорвались на минах и загорелись в Ормузском проливе, а также другие новости Ближнего Востока."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:39:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -55,7 +81,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
+     "text": "Это подтверждено?"
     },
     {
      "role": "ANALYST",
@@ -72,55 +98,80 @@
    ]
   },
   {
-   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на нефть выросли после нападения на танкер в Ормузе, хуситы утверждают, что разжигают опасения по поводу поставок",
-   "summary": "Цены на нефть выросли после нападения на танкер в Ормузе, хуситы утверждают, что разжигают опасения по поводу поставок",
+   "id": "saudi-led-coalition-says-it-destroyed-houthi-dro",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Коалиция под руководством Саудовской Аравии заявила, что уничтожила беспилотник хуситов над районом Медины",
+   "summary": "Коалиция под руководством Саудовской Аравии заявила, что уничтожила беспилотник хуситов над районом Медины",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Цены на нефть выросли после нападения на танкер в Ормузе, утверждают хуситы, что подогревает опасения по поводу поставок."
+     "text": "Коалиция под руководством Саудовской Аравии заявила, что уничтожила беспилотник хуситов над районом Медины."
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTZlcVd4TG9tTWJjN0dRNEZ4enV5NHc1bGpzWnZjSjVwcGhuM3M3V2pERWNoNW9QLVFzTE9uVXhJb1lBOWFmMEhCRVZNeFdZX0ZFR21LcnlTLTRwemdlTzZ2OHlidndqVEJKaXJEMDRuVEo1V0xMVlpwWVF3LWVOTmJuOHAyTG9RTFhhUW9mcXVRR0N2dXJxQVRqdVVQQnZqdHFRdVdiZ1dvVzFrWWhHai1JSFhsdzhVcjlCU05IVXg?oc=5",
    "type": null,
-   "time": "2026-10-30T13:24:00Z",
+   "time": "2026-10-30T19:37:43Z",
    "countries": [
-    "Iran",
+    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "pakistan-dominate-india-in-a-high-voltage-hong-k",
+   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Пакистан доминирует над Индией в высоковольтном противостоянии шестерок в Гонконге",
-   "summary": "Пакистан доминирует над Индией в высоковольтном противостоянии шестерок в Гонконге",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Пакистан и Сингапур стремятся к укреплению экономических и торговых связей",
+   "summary": "Пакистан и Сингапур стремятся к укреплению экономических и торговых связей",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пакистан доминирует над Индией в высоковольтном противостоянии шестерок в Гонконге."
+     "text": "Пакистан и Сингапур стремятся к более тесным экономическим и торговым связям."
     }
    ],
-   "source": "Taiwan News",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByOFFnSXJVUWhZXy1VcTJyT182cmhoelpWeWh2UTFibjZCb2dmZUVqWnRSd1c4SVJXMEdEOUQ4VWg5S3F5bDJ1UXJrcHRQS1ZBSDZEd2xVVFo?oc=5",
+   "source": "The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
    "type": null,
-   "time": "2026-10-30T14:49:00Z",
+   "time": "2026-10-30T16:22:00Z",
    "countries": [
-    "Pakistan",
-    "India"
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "«Абсолютная клоунада»: фанаты крикета высмеивают премьер-министра Пакистана за «смущающий» пост, посвященный победе гонконгских шестерок над Индией",
+   "summary": "«Абсолютная клоунада»: фанаты крикета высмеивают премьер-министра Пакистана за «смущающий» пост, посвященный победе гонконгских шестерок над Индией",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "«Абсолютная клоунада»: фанаты крикета высмеивают премьер-министра Пакистана за «смущающий» пост, посвященный победе гонконгских шестерок над Индией."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:32:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
    ]
   },
   {
@@ -150,87 +201,36 @@
    ]
   },
   {
-   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "Супругу адвокатов-правозащитников приговорили к 10 годам тюрьмы в Пакистане",
-   "summary": "Имаану Мазари и Хади Али Чатте были предъявлены обвинения в инциденте, произошедшем в 2024 году, когда сборная Англии по крикету совершала поездку по Пакистану.",
+   "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
+   "country": "North Korea",
+   "label": "СЕВЕРНАЯ КОРЕЯ",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Криптовалютный гигант Binance пытается вернуть 6,3 миллиарда долларов, украденных в результате взлома, связанного с Северной Кореей",
+   "summary": "Кибератака, которую компания называет сложной, считается крупнейшей за всю историю.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пара адвокатов-правозащитников приговорена к 10 годам тюрьмы в Пакистане."
+     "text": "Криптовалютный гигант Binance пытается вернуть 6,3 миллиарда долларов, украденных в результате взлома, связанного с Северной Кореей."
     },
     {
      "role": "COMMANDER",
-     "text": "Насколько это серьезно?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
-     "text": "Имаану Мазари и Хади Али Чатте были предъявлены обвинения в инциденте, произошедшем в 2024 году, когда сборная Англии по крикету совершала поездку по Пакистану."
+     "text": "Кибератака, которую компания называет сложной, считается крупнейшей за всю историю."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T07:53:38Z",
+   "time": "2026-10-30T17:39:43Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "uae-shares-decline-on-weak-earnings-and-regional",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Акции ОАЭ падают из-за слабых прибылей и региональной напряженности",
-   "summary": "Акции ОАЭ падают из-за слабых прибылей и региональной напряженности",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Акции ОАЭ падают на фоне слабых прибылей и региональной напряженности."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVAxeVFhNDJWMV80WVNnYXBENEpxeElXU0JvWFdVeExYc0pCXzJCTVUzc1V1NWhZT0szQ1FBODRkN18zdGRzYl9mMzRXR0EyWEoxMGJSUVgwaUFlcnowVUMxbmJxMllERzhYUmg0OHlibXM4OVRZeGN1RVRydFNWc0ZodnZnRVRMc3JkY3d0cG84emNPNUdsSlIwNEVwWFhDd0F5eGNPUQ?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:21:45Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-on-iran-war-it-s-going-to-get-wrapped-up-s",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Трамп о войне с Ираном: она скоро завершится",
-   "summary": "Трамп о войне с Ираном: она скоро завершится",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп о войне с Ираном: она скоро завершится."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV29DcEtjV3gtcWtydlBDWXZPblY0Szg5NmZZNFZ2WGxmTHFsX096SlJoem40ZFpBRkFvcW41UGtrMVZBeEVPS2dxN205OG5rM2VNSE5CcGJfMGlLNUgxZWRTeXFENTU0ajlIaUZoWUhZblk0LTQtZzZHSlZaSG9JQy0wazJLQU1vakZXdDd5aw?oc=5",
-   "type": null,
-   "time": "2026-10-30T12:10:11Z",
-   "countries": [
-    "United States of America",
-    "Iran"
+    "North Korea"
    ]
   },
   {
@@ -250,36 +250,182 @@
      "text": "Саудовская Аравия сообщает, что дрон был перехвачен возле самого священного города ислама, и другие новости Ближнего Востока."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+   "source": "myMotherLode.com",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWktVkcyMW1KWDNsYjgwTTdtSkpmYjRvUWtycndpN2tCcE40bUkwT0VBVDF6TVA1R1lvT2dzTzJXTk9ZSm0zY1NabWpkSkMwd3Y5TXFZd1RRZHZxU3dmYWlyUnZKOFBlR1dNNUg0aVFlMi14QTN3TE1ISVJZUGJNZy0tR0RDbGZBb3RvUzZ5QkwxSXRuSk4xM1NnQTNqUFJDZWh2Z3E3V2RjQzZkWm1NbnE2QTQzbTFlX1l4amZBNE5EckJSTXRUNDFQcFZzUdIB0wFBVV95cUxQSzhuZkZoTlllMDdERGlHVXhfUzJwZ2ZTU1NrZnRyUkRwNzNwekxSZm9GdmFXU1JYdjQ5MWlKTlJqRmRzTkFTNVJpTFd0MmZTMXQ5Zjk5RkdUU2IzWFY3d3lZNE5DNXVaanRHWWNuUnA1bUpheVp3d1E0a0JlcGhxNVV6OHMtV1U2T0VkUlVva0tIZXV5M25ZWmEzTVAybUFtRDRTQ2gtc1p3SC1tSUZ6QzhNRmRmOE5RSnV0ZjNXc3c1UThOaWJ3V3BSMFFmZmkyWDlr?oc=5",
    "type": null,
-   "time": "2026-10-30T12:10:00Z",
+   "time": "2026-10-30T11:14:32Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-s-irgc-navy-says-three-tankers-catch-fire-i",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ВМС КСИР Ирана заявили, что в Ормузском проливе загорелись три танкера",
-   "summary": "ВМС КСИР Ирана заявили, что в Ормузском проливе загорелись три танкера",
+   "id": "trump-says-iran-war-will-end-soon-while-qatar-ca",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Трамп заявил, что война с Ираном скоро закончится, а Катар выдвигает Тегерану новые условия",
+   "summary": "Трамп заявил, что война с Ираном скоро закончится, а Катар выдвигает Тегерану новые условия",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ВМС Ирана сообщили, что в Ормузском проливе загорелись три танкера."
+     "text": "Трамп говорит, что война с Ираном скоро закончится, а Катар выдвигает Тегерану новые условия."
+    }
+   ],
+   "source": "Northeast Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWNQckxSWVN1b2xPZHBaRHFIMGczTGlvSGlZUUptUmNteVVfZzU1ZFdGS1FYQlQ0NzBJRDJwUzlFYjJ2SVBoZDFwaDN4ZEVmQzRHbFZGM0dKYzVsT29MbzFWSDNWc3dsbWl6ZzhieENjaC1HdnpmaTBMNHR2dmQ4bkxvT3NoTVU0VE1QRDJ1NUwtWHBjTVNMUHFmX3Q3RkRLSHoxRkE2T09GdTVLRUg0Z093?oc=5",
+   "type": null,
+   "time": "2026-10-30T17:40:54Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "uae-says-oil-leak-from-tanker-has-been-stopped-p",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "В ОАЭ заявили, что утечка нефти из танкера остановлена, загрязнение уменьшилось",
+   "summary": "В ОАЭ заявили, что утечка нефти из танкера остановлена, загрязнение уменьшилось",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В ОАЭ заявляют, что утечка нефти из танкера остановлена, загрязнение уменьшилось."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByOGVLbmNETXJrS0lxQWoyQWNrT3p6UWJ2YXFINTVMdW1ETGhtZTJLcXpEY2h2QlFybzN2TXVRdzRWaWVaMkNubDFpUjRBNUF2RTJlZVdfOWhBNnBNNV9DaVk0Tlg3cG4zS2VpQ21RVFkzTjZrWnc?oc=5",
+   "type": null,
+   "time": "2026-10-30T16:34:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-after-hormuz-tanker-attack-houth",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Цены на нефть выросли после нападения на танкер в Ормузе, хуситы утверждают, что разжигают опасения по поводу поставок",
+   "summary": "Цены на нефть выросли после нападения на танкер в Ормузе, хуситы утверждают, что разжигают опасения по поводу поставок",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Цены на нефть выросли после нападения на танкер в Ормузе, утверждают хуситы, что подогревает опасения по поводу поставок."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "type": null,
+   "time": "2026-10-30T13:24:00Z",
+   "countries": [
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "human-rights-lawyer-couple-sentenced-to-10-years",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "Супругу адвокатов-правозащитников приговорили к 10 годам тюрьмы в Пакистане",
+   "summary": "Имаану Мазари и Хади Али Чатте были предъявлены обвинения в инциденте, произошедшем в 2024 году, когда сборная Англии по крикету совершала поездку по Пакистану.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пара адвокатов-правозащитников приговорена к 10 годам тюрьмы в Пакистане."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Дайте мне подробности."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Имаану Мазари и Хади Али Чатте были предъявлены обвинения в инциденте, произошедшем в 2024 году, когда сборная Англии по крикету совершала поездку по Пакистану."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-10-30T07:53:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-orders-non-emergency-staff-to-leave-saudi-ara",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "США приказали персоналу, не связанному с чрезвычайными ситуациями, покинуть Саудовскую Аравию из-за угроз безопасности",
+   "summary": "США приказали персоналу, не связанному с чрезвычайными ситуациями, покинуть Саудовскую Аравию из-за угроз безопасности",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "США приказали персоналу, не связанному с чрезвычайными ситуациями, покинуть Саудовскую Аравию из-за угроз безопасности."
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORW01d2dWQjEzQi1rNHpxb1hPYlE4b1dBMFgtUkxRQTZDY2RrNGlkeXpXNHNhUVU1MVRjVW9xY1lvbnpuSEFzNnZBaDM4ZkdGbEQwSUJ2Z0d0cms5bHVYcGhwYm5mZ3dIcU8zOXRlWFhFajVoMmtGRnA2cHQxdG1xQjdHMHJheWxyZ3dIMC12c0JyYzhScUZOOUdEd25UV3JEZ2ZNMl90ODJ4cnF2c09XUVFISEN5X2x1X0twYklBZw?oc=5",
    "type": null,
-   "time": "2026-10-30T13:08:58Z",
+   "time": "2026-10-30T18:32:55Z",
    "countries": [
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oman-rescues-25-from-burning-oil-tanker-in-strai",
+   "country": "Oman",
+   "label": "ОМАН",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Оман спас 25 человек из горящего нефтяного танкера в Ормузском проливе",
+   "summary": "Инцидент произошел после того, как Иран заявил, что три нефтяных танкера были остановлены при попытке использовать «несанкционированные маршруты» для пересечения Ормуза.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Оман спасает 25 человек из горящего нефтяного танкера в Ормузском проливе."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Инцидент произошел после того, как Иран заявил, что три нефтяных танкера были остановлены при попытке использовать «несанкционированные маршруты» для пересечения Ормуза."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-30T18:33:29Z",
+   "countries": [
+    "Oman",
     "Iran"
    ]
   },
@@ -309,70 +455,29 @@
    ]
   },
   {
-   "id": "trump-at-odds-with-reports-of-vance-s-letter-to-",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Трамп не согласен с сообщениями о письме Вэнса Ирану",
-   "summary": "• Президент говорит, что разъяснительная работа сосредоточена на поставках медикаментов, а не на мирных переговорах • Тегеран подтверждает получение письма вице-президента, но ответа пока нет • Американские СМИ утверждают, что переписка направлена на предотвращение новых ударов ТЕГЕРАН: иранские СМИ сообщили в четверг, что Тегеран",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп не согласен с сообщениями о письме Вэнса Ирану."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "• Президент говорит, что разъяснительная работа сосредоточена на поставках медикаментов, а не на мирных переговорах • Тегеран подтверждает получение письма вице-президента, но ответа пока нет • Американские СМИ утверждают, что переписка направлена ​​на предотвращение новых ударов ТЕГЕРАН: иранские СМИ сообщили в четверг, что Тегеран"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040867/trump-at-odds-with-reports-of-vances-letter-to-iran",
-   "type": null,
-   "time": "2026-10-30T02:45:29Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-back-in-ice-hockey-world-championships-af",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "saudi-arabia-suspends-travel-entry-from-kenya-ov",
+   "country": "Kenya",
+   "label": "КЕНИЯ",
+   "lat": 0.0,
+   "lon": 37.9,
+   "flag": "🇰🇪",
+   "severity": "watch",
    "category": "World",
-   "headline": "Россия вернулась на чемпионат мира по хоккею после решения спортсуда",
-   "summary": "Спортивный арбитражный суд отменил решения ИИХФ, отстранившие Россию от соревнований в сезоне 2026/27.",
+   "headline": "Саудовская Аравия приостанавливает поездки и въезд из Кении из-за опасений Эболы",
+   "summary": "Саудовская Аравия приостанавливает поездки и въезд из Кении из-за опасений Эболы",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Россия вернулась на чемпионат мира по хоккею после решения спортивного суда."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Хорошо, что еще?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Спортивный арбитражный суд отменил решения ИИХФ, отстранившие Россию от соревнований в сезоне 2026/27."
+     "text": "Саудовская Аравия приостанавливает поездки и въезд из Кении из-за опасений, связанных с Эболой."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/10/30/russia-back-in-ice-hockey-world-championships-after-sport-court-ruling?traffic_source=rss",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmEtVTFpOEhFNUVYQzlqQ0dfWlVoX1RhSTcySnlMM1FVNDAyWVpmd0tYUFY5UWhxQzlNLUN6Z2luLW9zdkdZUDhaZUozZFpGTGVWcm42VEhIQWNXZ2RGb1ptRXpxRUhPZkJkcy1IX3dSV0R6akhwZjBJRzBONElWTjBQSV8ySEdTdjY0VjdFUERpOXVNVlhkdXBfQTZ4bXUyaTRmT3NuSGg?oc=5",
    "type": null,
-   "time": "2026-10-30T12:43:28Z",
+   "time": "2026-10-30T15:38:10Z",
    "countries": [
-    "Russia"
+    "Kenya",
+    "Saudi Arabia"
    ]
   },
   {
@@ -398,116 +503,6 @@
    "time": "2026-10-30T08:37:51Z",
    "countries": [
     "Iran"
-   ]
-  },
-  {
-   "id": "uae-shares-slide-as-fresh-tanker-attack-heighten",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Акции ОАЭ падают, поскольку новая атака на танкер усиливает опасения по поводу поставок нефти",
-   "summary": "Акции ОАЭ падают, поскольку новая атака на танкер усиливает опасения по поводу поставок нефти",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Акции ОАЭ падают, поскольку новая атака на танкер усиливает опасения по поводу поставок нефти."
-    }
-   ],
-   "source": "Yahoo Finance UK",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTVwZTBvelZVUE82QkdVQnE3MldBM1NaRk15QlV1Qms1QTl2NjBoRE4zWGJDUlY5dERMaTNDb0Y3STdmZnVIaHVGUmlXYXlpZFdlVU52MWJ2RENVcnpweEFFS2IxdFFoOXh3eHlTU2Vwc3QwYUpNYzlUWWpXWFBqdE9meHU?oc=5",
-   "type": null,
-   "time": "2026-10-30T11:43:50Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "six-dead-after-helicopter-crashes-in-northern-in",
-   "country": "India",
-   "label": "ИНДИЯ",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Шесть человек погибли в результате крушения вертолета в северном индийском штате",
-   "summary": "Сообщается, что самолет вылетел из места индуистского паломничества Бадринатх в пятницу днем, после чего потерял связь.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Шесть человек погибли в результате крушения вертолета в северном индийском штате."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Сообщается, что самолет вылетел из места индуистского паломничества Бадринатх в пятницу днем, после чего потерял связь."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-10-30T15:06:05Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "aid-operation-and-evacuations-in-oleshky-amid-br",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "Операция по оказанию помощи и эвакуация в Олешках на фоне кратковременного перемирия, достигнутого Россией и Украиной",
-   "summary": "Операция по оказанию помощи и эвакуация в Олешках на фоне кратковременного перемирия, достигнутого Россией и Украиной",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Операция по оказанию помощи и эвакуация в Олешках на фоне кратковременного перемирия, заключенного Россией и Украиной."
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejRjYi1vSXNocEdIcEJFR2dpakNOaU1kdkpzMVl3RWllVXRTNVpZODZhZWJlSW9SWXc2Z3pIekZZQU1zYUIxNzE0dThRTmpONmV3RTd6QVoyVDBBRDZsR0pNOWptVXhLT3lVa05KMUpoQ2t1VFpDQWx5QVVPckVJUXhUNl9aRkU2MlQ4Vi1QczhJd2JveGxpTnZjbEhTZkI4LXZXZnVETU1Za3ZlWS04VkNGOWNFZlE0RlhRZGRZLTI0UdIBxwFBVV95cUxQQ1JqUTU1Umt4eUdPZUtjdXNOdzRsUU1RMmc3cnhHS2pFZXBjS2NRbGVVQzlfLTNXVTM0dVBBaG9zbVdjTVF5V0F2V3RJa1VqNWlMSngyLWJPN3FOaFNCZmVGVnlKLTBycVpSWm5ucUh1YUlMZGF2alBzdEtFcjAxc1pIV05JS0liWDlOTnI5RjR4YTczZVo4SlNvRnotOTBidXQ3dXhwT0c5bERxVm9QX3VaczdhZW1Wc2NvMEQ2VWthcnByNGVJ?oc=5",
-   "type": null,
-   "time": "2026-10-30T13:31:02Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "sheikh-mohammed-bin-rashid-invites-saudi-crown-p",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Шейх Мохаммед бен Рашид пригласил наследного принца Саудовской Аравии Мухаммеда бен Салмана в ОАЭ",
-   "summary": "Шейх Мохаммед бен Рашид пригласил наследного принца Саудовской Аравии Мухаммеда бен Салмана в ОАЭ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Шейх Мохаммед бен Рашид приглашает наследного принца Саудовской Аравии Мухаммеда бен Салмана в ОАЭ."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTl2cTBndEE3TUJMa2JTeURocmhnampUbXVkNkJjYXJ3NzhnVk9IYWM3S2lYLUVjLXJzcDRkSVhYc3pYWHVDVEQ4ZVNjQUZ1ZlZ5ekZzSXNXdjJoNGlKamJsckExTzh3YVJYam9uUklaRldhazBveWRnZjI5YnZzTjR3QmtwVjRfRnI1ZmlYWDczdko5ZlhYSVo5R3BHTXJyc0F0Rm9yWHVERWh6N2g3RXVubm41ZDFpTzZXdWM2cjNUdGhKbnZERTAtV0pTTkxxNTc0?oc=5",
-   "type": null,
-   "time": "2026-10-30T09:23:55Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
    ]
   }
  ]
