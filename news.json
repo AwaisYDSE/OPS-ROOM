@@ -1,90 +1,39 @@
 {
- "updated": "2026-10-30T23:53:14.642142Z",
+ "updated": "2026-10-31T05:53:31.964703Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "pakistan-army-cautiously-optimistic-about-us-ira",
+   "id": "dg-ispr-says-pakistan-cautiously-optimistic-on-u",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "high",
+   "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-   "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
+   "headline": "DG ISPR says Pakistan 'cautiously optimistic' on US-Iran mediation",
+   "summary": "Pakistan is “cautiously optimistic” about its mediation between Iran and the United States, the military’s spokesman said on Friday in his first interview since a high-level delegation visited Tehran this week.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts."
+     "text": "DG ISPR says Pakistan 'cautiously optimistic' on US-Iran mediation."
     },
     {
      "role": "COMMANDER",
-     "text": "What's the situation now?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them."
+     "text": "Pakistan is “cautiously optimistic” about its mediation between Iran and the United States, the military’s spokesman said on Friday in his first interview since a high-level delegation visited Tehran this week."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
    "type": null,
-   "time": "2026-10-30T18:55:36Z",
+   "time": "2026-10-30T18:21:49Z",
    "countries": [
     "Pakistan",
     "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "how-the-us-conflict-in-iran-is-impacting-midterm",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "How the US conflict in Iran is impacting midterms",
-   "summary": "How the US conflict in Iran is impacting midterms",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "How the US conflict in Iran is impacting midterms."
-    }
-   ],
-   "source": "Gray TV",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenRONVpKaWpPeUM3ODFyOVpkRGN3ZnZDbW9aRWZMVXFTYklVbGlmMTltYjFxdHpVcjB6M3o2U200eHd4WjNzaUF5cGhzdWg5UWpVVTFuR1ZMVU11YWFIMWNLa0wtUEVmQU5sRFV3NTYzOVRBVUpGOGZvbjJFOWJZVzFRME42VmZVYXVrYTlQX1lGdzNt?oc=5",
-   "type": null,
-   "time": "2026-10-30T21:53:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-says-4-tankers-strike-mines-and-catch-fire-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
-   "summary": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
-   "type": null,
-   "time": "2026-10-30T21:10:00Z",
-   "countries": [
     "Iran"
    ]
   },
@@ -106,7 +55,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -116,7 +65,7 @@
    "source": "bbc.co.uk",
    "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T22:20:52Z",
+   "time": "2026-10-31T00:40:43Z",
    "countries": [
     "United States of America",
     "Ukraine",
@@ -124,54 +73,70 @@
    ]
   },
   {
-   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pakistan, Singapore seek stronger economic and trade ties",
-   "summary": "Pakistan, Singapore seek stronger economic and trade ties",
+   "id": "iran-says-four-tankers-on-fire-after-striking-mi",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says four tankers on fire after striking mines in Hormuz",
+   "summary": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, Singapore seek stronger economic and trade ties."
+     "text": "Iran says four tankers on fire after striking mines in Hormuz."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz."
     }
    ],
-   "source": "The News Pakistan",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T16:22:00Z",
+   "time": "2026-10-31T03:55:48Z",
    "countries": [
-    "Pakistan"
+    "Iran"
    ]
   },
   {
-   "id": "saudi-arabia-suspends-travel-to-and-from-kenya-a",
-   "country": "Kenya",
-   "label": "KENYA",
-   "lat": 0.0,
-   "lon": 37.9,
-   "flag": "🇰🇪",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English",
-   "summary": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English",
+   "id": "iran-war-live-4-tankers-hit-in-hormuz-trump-says",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’",
+   "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia Suspends Travel to and from Kenya as Precaution against Ebola - ASHARQ AL-AWSAT English."
+     "text": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end ‘soon’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'."
     }
    ],
-   "source": "ASHARQ AL-AWSAT English",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV2otbExuZ1VoZGp1aU9RUzg4Q0stb3lYTXdvU0xqMXBBS3dVdjdrLWRXeEk4dEhDcW5YZEVXdGhlcTR3dkNaeGVYZlJ5NU9mb1NyemZ0WlVJdHI1YWlDaTQtTFdYZzRPVEJqUkx3UjFuOWNkM2xtbERWMkFtZU1IcFlSdE9DUzk3U3N3QldsTFdYd0lvLTBhY0RUT1FORTBkbktJYUhn?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
    "type": null,
-   "time": "2026-10-30T19:40:51Z",
+   "time": "2026-10-31T00:00:00Z",
    "countries": [
-    "Kenya",
-    "Saudi Arabia"
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -234,6 +199,65 @@
    ]
   },
   {
+   "id": "how-the-us-conflict-in-iran-is-impacting-midterm",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "How the US conflict in Iran is impacting midterms",
+   "summary": "How the US conflict in Iran is impacting midterms",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "How the US conflict in Iran is impacting midterms."
+    }
+   ],
+   "source": "Gray TV",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNenRONVpKaWpPeUM3ODFyOVpkRGN3ZnZDbW9aRWZMVXFTYklVbGlmMTltYjFxdHpVcjB6M3o2U200eHd4WjNzaUF5cGhzdWg5UWpVVTFuR1ZMVU11YWFIMWNLa0wtUEVmQU5sRFV3NTYzOVRBVUpGOGZvbjJFOWJZVzFRME42VmZVYXVrYTlQX1lGdzNt?oc=5",
+   "type": null,
+   "time": "2026-10-30T21:53:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "the-cost-of-injustice",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "The cost of injustice",
+   "summary": "TO live in Karachi, or really any city in the tumultuous world that is our reality, is an exercise in dodging misfortune. When one leaves the house, one braces for survival.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "The cost of injustice."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "TO live in Karachi, or really any city in the tumultuous world that is our reality, is an exercise in dodging misfortune. When one leaves the house, one braces for survival."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041137/the-cost-of-injustice",
+   "type": null,
+   "time": "2026-10-31T03:47:35Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
    "id": "crypto-giant-binance-attempting-to-recover-6-3bn",
    "country": "North Korea",
    "label": "NORTH KOREA",
@@ -251,7 +275,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -276,28 +300,19 @@
    "severity": "markets",
    "category": "Markets",
    "headline": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-   "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
+   "summary": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "Oman rescues 25 from burning oil tanker in Strait of Hormuz."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmtrMGdTY1l0TXhmX2xJcFdJRllzTXpsT0lSSFhhbWQ2Y3NPbUhLSTByYVdFaU1MdmJuVTA0UWRoNjF2TlBYWjBNWk1fYmhhV0dMRzg2b2RJblNabTVXREhvVkFXaFRtYzJ3T0ZaNU4zNWNkQ3ZRRVU2THhmeEE1OEJ6bE4zU3o0MXQtekFiNXg2andqVnFEWTFRLVhYX2xHVGp30gGoAUFVX3lxTE9GV3BYaG9nbDM0LWQyOWduOXZIeV9nWVl6NGR6cVlqLTB4cHdFWkV3U2NQTjRhNGpkSnF5QWQ4RFhVV0JvRTNVRUo4SmVWZHI1Vll3emlOTWRkQUd4bHdpNmZubGg4WEhRYzloYXNQUVZ4ZVFtTHVhbW9JMlNLOV9ncFRZNGlSdmVvWEhMTkN6emJ0QlEzYU13bzFqSHYwOHBDSHRUZUxjcw?oc=5",
    "type": null,
-   "time": "2026-10-30T18:33:29Z",
+   "time": "2026-10-31T04:11:38Z",
    "countries": [
-    "Oman",
-    "Iran"
+    "Oman"
    ]
   },
   {
@@ -326,93 +341,59 @@
    ]
   },
   {
-   "id": "uae-dr-congo-trade-deal-enters-into-force-after-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone",
-   "summary": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone",
+   "id": "pakistan-vs-sri-lanka-free-live-stream-how-to-wa",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Pakistan vs. Sri Lanka free live stream: How to watch ODI tri-series final in India",
+   "summary": "Pakistan vs. Sri Lanka free live stream: How to watch ODI tri-series final in India",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE–DR Congo trade deal enters into force after $3.5bn trade milestone."
+     "text": "Pakistan vs. Sri Lanka free live stream: How to watch ODI tri-series final in India."
     }
    ],
-   "source": "Arabian Business",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1diMHQ4X2hiNElNa1I0aGR3Xy1qTDhUTzJyWDRpUnpHZzBMSUpzN0FTWFNCTjZVb2k4RGNWRmJOTWdvcXhWN18wY2VNX2pGWHF0d0Nfd3Myb1laWWkyU3psa2FyNExHMVZiWGRMQ3VtQmMzaXluQXRwVExFanRuRVZR?oc=5",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZndPbGx1NmNDSG1saXE2X3FWdHIyWVRwSC10b2VYRm1wTHIxT3BJREFBN0QzYUpZcFdFTGJfSy1qVUh1NmRSdi1TYnZWTFdVaVFUODVDaXR5aEJKd1NBbi1TNGtRNktBVGVTc3VpdW1iaWRJa1RXekR3ZWhaUGtLeQ?oc=5",
    "type": null,
-   "time": "2026-10-30T23:45:56Z",
+   "time": "2026-10-30T20:30:01Z",
    "countries": [
-    "United Arab Emirates"
+    "India",
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "dubai-holiday-home-operator-silkhaus-shuts-down-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War",
-   "summary": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dubai Holiday-Home Operator Silkhaus Shuts Down, Citing U.S.-Iran War."
-    }
-   ],
-   "source": "Skift",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGRjWmJCOFY2b2dHX0c4aWkxMWEtTmQxSlA5ODE4VDh1LUNVVTZ1N2ltZVNqNElpQzl0cXluMjRzcW1mY1JRdnc1b3VCdURIUU5EeEI5YXdtWXduWnZEbmRjYTU4dlhfTWJGNk5SLVA1X2tyQjFDOVA2TnFXWmtHekpIQUVrVDNKQXJHMUhyNnl3XzBZQ3NmVWhXTlZLdw?oc=5",
-   "type": null,
-   "time": "2026-10-30T15:46:26Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-saudi-arabia-agree-to-boost-cooperation",
+   "id": "pakistan-singapore-seek-stronger-economic-and-tr",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "markets",
-   "category": "Tech",
-   "headline": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals",
-   "summary": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a sta",
+   "category": "Markets",
+   "headline": "Pakistan, Singapore seek stronger economic and trade ties",
+   "summary": "Pakistan, Singapore seek stronger economic and trade ties",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: Pakistan and Saudi Arabia agreed on Friday to strengthen strategic cooperation in oil storage, refinery upgrades, crude oil and liquefied petroleum gas (LPG) procurement, and the minerals sector to promote bilateral economic ties, according to a sta"
+     "text": "Pakistan, Singapore seek stronger economic and trade ties."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2040953/pakistan-saudi-arabia-agree-to-boost-cooperation-in-oil-refineries-and-minerals",
+   "source": "The News Pakistan",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1Q4ck9MRXk0WmNLMTlhMFkzdV9fQ3l5WERubUprOUhxSmY5dWtpN3NCdUR6RFliRk56Z29sVkR3aTlPcE4xbXpPRkJtYTJDYUNZbUlFcXp1NHh3Qm1fNThySHBpNE5ZNXo4ZFJzeUh5aGl6aXJ5dmE1NDlsek5wMGNHTmI2YjFzcXk5cTlNRkNON1pwZXlRUA?oc=5",
    "type": null,
-   "time": "2026-10-30T11:39:36Z",
+   "time": "2026-10-30T16:22:00Z",
    "countries": [
-    "Pakistan",
-    "Saudi Arabia"
+    "Pakistan"
    ]
   },
   {
-   "id": "saudi-led-coalition-says-it-downs-houthi-drone-o",
+   "id": "south-korean-president-spanish-pm-condemn-houthi",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
@@ -420,21 +401,84 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack",
-   "summary": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack",
+   "headline": "South Korean president, Spanish PM condemn Houthi attacks on Saudi Arabia",
+   "summary": "South Korean president, Spanish PM condemn Houthi attacks on Saudi Arabia",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi-Led Coalition Says It Downs Houthi Drone Over Medina; Houthis Deny Attack."
+     "text": "South Korean president, Spanish PM condemn Houthi attacks on Saudi Arabia."
     }
    ],
-   "source": "U.S. News & World Report",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFNpMDVSeVVZM0l0dzFtVUIza3Nsa0pNYnVubDJGVTZkUUMzOURKVFloOXh2Z3U0aG1kc1hCVkJ6bWhOOFF2Y19Fa3JYa1lzaUdadEYxNmVlc3AwMlZMSUdvM1BxRHlZR0xiNmxVM0E1MUlHVlBrc1p3cGR6OGNsRGEtNUpaUWNtWUVPR0xId2pteWI3UlpKUkpIS1ozbkY0Z1dnbEJmbUpyZTZjOVpPVVVxbDZjMGdLb21vUzJSLTI?oc=5",
+   "source": "アラブニュース",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcENROXJKbjZiY01nZ25BemxrZG45UlNtOEMzeWQyTDlUb0xsRkZEZ0FzN1o2MGhqN203Y192TG1JNkdhR0RkWXR0QUh5dkZCU1B4eTFUMWthU19nUFRtaUU4RU1iWDZkeE1tRmR0X3VFV3E1VGFkdThtMmxIQ2pyQ0thWEZUS0puQlJ0WVlVc3NaaS1TS3VnRmRaRm0tYW5GanJycHlmMFpTTXAzbGpTczBUYmZpdmN6MTNNYQ?oc=5",
    "type": null,
-   "time": "2026-10-30T19:37:00Z",
+   "time": "2026-10-31T04:57:02Z",
    "countries": [
     "Saudi Arabia",
+    "South Korea",
+    "Spain",
     "Yemen"
+   ]
+  },
+  {
+   "id": "uae-leads-japan-s-september-oil-imports-u-s-rank",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE leads Japan’s September oil imports, U.S. ranks second, Saudi third",
+   "summary": "UAE leads Japan’s September oil imports, U.S. ranks second, Saudi third",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE leads Japan’s September oil imports, U.S. ranks second, Saudi third."
+    }
+   ],
+   "source": "アラブニュース",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORm9xbEs5SU81VC1MM3ZOM2QzWFBNdEdMaFlnYWpFNzF2a1dwUWd5VjNNeGdmS09fZVVKcUNFc1YzMEFvSi1hLUtNQkVXYW9rbFBIYTNCSE1VRHhYeE41VHdQTmlweFBiTnMzbjF2RjdLSDh5MHcyRDdhVnBVNnBCVnBIWmtZWml4UmRZeTFaY2JkRmV0WXg3TU94bzIwWmw4dFJzMW42OFNyblVSX3FN?oc=5",
+   "type": null,
+   "time": "2026-10-31T04:57:01Z",
+   "countries": [
+    "United Arab Emirates",
+    "Japan",
+    "United States of America",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "russia-s-novaya-gazeta-killed-off-after-murders-",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
+   "summary": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure?traffic_source=rss",
+   "type": null,
+   "time": "2026-10-31T03:27:21Z",
+   "countries": [
+    "Russia"
    ]
   },
   {
@@ -473,55 +517,37 @@
    ]
   },
   {
-   "id": "-absolute-clownery-cricket-fans-mock-pakistan-pm",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
-   "summary": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India",
+   "id": "hundreds-evacuated-from-russian-occupied-oleshky",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "‘Absolute clownery’: Cricket fans mock Pakistan PM for ‘embarrassing’ post celebrating Hong Kong Sixes win over India."
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdXVwRk1DNEJJbEV1Z1l0X3lqLS1jSzhIQ01PNERxc1FBNWJEaDB4bmpucTd2QXZzZjVPamtiWkFlMWtGTDExc1B6ZVlFSzFPY2FBQW9NWU91bGRKN2dQb2hjRkc4MjAwLTh0UHM3dVctMFlBaHpySy05NHV0S3RpSHU1T3FUZ3ZHay0zNA?oc=5",
-   "type": null,
-   "time": "2026-10-30T17:32:00Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-prices-rise-as-middle-east-ukraine-russia-co",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-   "summary": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
-   "lines": [
+     "text": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire."
+    },
     {
-     "role": "OPERATOR",
-     "text": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries."
+     "role": "COMMANDER",
+     "text": "How serious is it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers."
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-10-30T20:19:00Z",
+   "time": "2026-10-30T16:26:11Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Russia",
+    "Ukraine"
    ]
   }
  ]
