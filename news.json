@@ -1,55 +1,73 @@
 {
- "updated": "2026-11-01T18:58:52.738344Z",
+ "updated": "2026-11-01T22:53:35.284814Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "abu-dhabi-aldar-championship-rd-3",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Abu Dhabi Aldar Championship - Rd 3",
-   "summary": "Abu Dhabi Aldar Championship - Rd 3",
+   "id": "russian-strikes-cut-power-to-thousands-in-ukrain",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+   "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Abu Dhabi Aldar Championship - Rd 3."
+     "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky."
     }
    ],
-   "source": "USA Network",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajdsSDBqR19udlZyY0dwcHBLdWt4dUpWMHdBV0lQd1dlcE0wa1g1eHhReUxqT2NIMHg0M2VjQ3pQRzl2b2hEZF80MDlsRFNKSmlJOURZQWN2eTBSSUpZM0VYUEkybXdqSFpRMzhjRVY1OVVoZHZOWEZUdzZxSkFYRFJpNkRtTUk?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
    "type": null,
-   "time": "2026-11-01T16:00:36Z",
+   "time": "2026-11-01T21:01:58Z",
    "countries": [
-    "United Arab Emirates"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
-   "id": "aptopix-emirates-dubai-ride",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "APTOPIX Emirates Dubai Ride",
-   "summary": "APTOPIX Emirates Dubai Ride",
+   "id": "kherson-braces-for-return-of-war-as-localised-ru",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+   "summary": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "APTOPIX Emirates Dubai Ride."
+     "text": "Kherson braces for return of war as localised Russia-Ukraine truce ends."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire."
     }
    ],
-   "source": "Dayton Daily News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFB1Zm54a0c0TGV0OHJoVzBRem1Ga3RWWTJKLWdDWkVfV0RCYWVBNkdxckxsSmN0ZWZTdTdoV1RTVTVWQzRsLXR6NTZLenprMWRDOEYzR0hySFhfejdDWWp2MnpuRGJXVEVJbjVENTZnU3pBVDg5aFh3dWtIR1FxRXY2c3pfM29KQzJUR1c4UHZnWnIzTFN1OE5OLThxVTdmWDFYeVRkRklCOURJYTNqczhLcS1TeU8wQkZFZQ?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
    "type": null,
-   "time": "2026-11-01T12:30:04Z",
+   "time": "2026-11-01T22:15:14Z",
    "countries": [
-    "United Arab Emirates"
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -70,7 +88,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -84,6 +102,124 @@
    "countries": [
     "Afghanistan",
     "Pakistan"
+   ]
+  },
+  {
+   "id": "cyber-safety",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Cyber safety",
+   "summary": "WHILE the state’s proposal to create a Cybersecurity and Social Media Awareness Council envisages needed interventions to protect children from online harm, the same body’s focus on ‘fake news’ — as described by the government — is cause for concern.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Cyber safety."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "How serious is it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "WHILE the state’s proposal to create a Cybersecurity and Social Media Awareness Council envisages needed interventions to protect children from online harm, the same body’s focus on ‘fake news’ — as described by the government — is cause for concern."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041310/cyber-safety",
+   "type": null,
+   "time": "2026-11-01T11:54:03Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-launches-operation-to-neutra",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
+   "summary": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDZvamlBUzlkOGdsYmRJTThNejNQZDQyYm1KQ1ZfZmhOb2lqSHRUcVhDUWJjcm1iWHFzVzVSS2dRLVg0Q0RLZmRtX2JlSUtMWXRSOF9waVlNaDRvRWlMQjJUekVid0l1MUlhRk4xS3p3bGdENndxbnFTWERZM1RQdDZrb0p4QTVOV29fUkltbUhtdnJYZmF0VlJ2VmVwOHlaRmJlQy0xYjZKcVlid2tyNHROMzlZRWZ4S2xRaG50VW5qQjAtUEdWWU5UTUc?oc=5",
+   "type": null,
+   "time": "2026-11-01T15:32:43Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "ukmto-reports-vessel-hit-in-hormuz-as-irgc-claim",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines",
+   "summary": "UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UKMTO reports vessel hit in Hormuz as IRGC claims two tankers struck mines."
+    }
+   ],
+   "source": "Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xekJZZUdONFZIdzhFbVNUMUF1TXY3TTZfVVo1UEd6X0ktZGRwQURYcWFDNlcyaEg1Slo0bXdQVzZxVkItUVdOaWd5VF8tX1owdUcyNXZ2cWY0TUtSd3c?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-01T18:36:11Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "pia-s-first-boeing-787-9-dreamliner-arrives-in-i",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "PIA's first Boeing 787-9 Dreamliner arrives in Islamabad",
+   "summary": "Pakistan International Airlines’ (PIA) first Boeing 787-9 Dreamliner, acquired on lease last month, arrived in Islamabad from London as flight PK786 on Sunday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "PIA's first Boeing 787-9 Dreamliner arrives in Islamabad."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan International Airlines’ (PIA) first Boeing 787-9 Dreamliner, acquired on lease last month, arrived in Islamabad from London as flight PK786 on Sunday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041374/pias-first-boeing-787-9-dreamliner-arrives-in-islamabad",
+   "type": null,
+   "time": "2026-11-01T12:04:34Z",
+   "countries": [
+    "Pakistan",
+    "United Kingdom"
    ]
   },
   {
@@ -120,20 +256,20 @@
    ]
   },
   {
-   "id": "russia-detains-minor-over-alleged-moscow-attack-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "iran-warns-new-war-could-last-longer-after-trump",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "Russia detains minor over alleged Moscow attack plot after US warning",
-   "summary": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
+   "category": "Middle East",
+   "headline": "Iran warns new war could last longer after Trump threatens strikes",
+   "summary": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to “ take care ” of more targets.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia detains minor over alleged Moscow attack plot after US warning."
+     "text": "Iran warns new war could last longer after Trump threatens strikes."
     },
     {
      "role": "COMMANDER",
@@ -141,16 +277,68 @@
     },
     {
      "role": "ANALYST",
-     "text": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park."
+     "text": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to “ take care ” of more targets."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041393/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes",
    "type": null,
-   "time": "2026-11-01T16:24:16Z",
+   "time": "2026-11-01T15:13:14Z",
    "countries": [
-    "Russia",
+    "Iran",
     "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+   "summary": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval."
+    }
+   ],
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
+   "type": null,
+   "time": "2026-11-01T14:48:21Z",
+   "countries": [
+    "Iran",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "uae-condemns-targeting-of-qatari-lng-carrier-al-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "UAE Condemns Targeting of Qatari LNG Carrier \"Al Mayeda\" in Arabian Gulf - Fana News -",
+   "summary": "UAE Condemns Targeting of Qatari LNG Carrier \"Al Mayeda\" in Arabian Gulf - Fana News -",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE Condemns Targeting of Qatari LNG Carrier \"Al Mayeda\" in Arabian Gulf - Fana News -."
+    }
+   ],
+   "source": "Fana News -",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeDZVYjM1VWJaQ0FWMDMzMWZJMzJLbUxMMndCT0QybUJhanRSZ0I5c0FmaW1rTVhMWFhsMm5fY2JoTTNHV2NUNTVtMEI2M1B2QzBLdXVVSTdINDI4UHVBWG5Tb0o5Tkt0ZE9kclR4ZnZzNkI5UURvX0o2aE5hLUJ5bHNtQ3hPSEowQW1iS0RQck9Ob09fQmlIaHZHenN4cnhqazNTenZ5Ui01MG5K?oc=5",
+   "type": null,
+   "time": "2026-11-01T22:40:32Z",
+   "countries": [
+    "United Arab Emirates",
+    "Qatar"
    ]
   },
   {
@@ -181,148 +369,29 @@
    ]
   },
   {
-   "id": "saudi-led-coalition-launches-operation-to-neutra",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
-   "summary": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMDZvamlBUzlkOGdsYmRJTThNejNQZDQyYm1KQ1ZfZmhOb2lqSHRUcVhDUWJjcm1iWHFzVzVSS2dRLVg0Q0RLZmRtX2JlSUtMWXRSOF9waVlNaDRvRWlMQjJUekVid0l1MUlhRk4xS3p3bGdENndxbnFTWERZM1RQdDZrb0p4QTVOV29fUkltbUhtdnJYZmF0VlJ2VmVwOHlaRmJlQy0xYjZKcVlid2tyNHROMzlZRWZ4S2xRaG50VW5qQjAtUEdWWU5UTUc?oc=5",
-   "type": null,
-   "time": "2026-11-01T15:34:32Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "afc-champions-league-elite-saudi-arabia-s-al-itt",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "AFC Champions League Elite: Saudi Arabia's Al-Ittihad to Host UAE's Al-Ain - ASHARQ AL-AWSAT English",
-   "summary": "AFC Champions League Elite: Saudi Arabia's Al-Ittihad to Host UAE's Al-Ain - ASHARQ AL-AWSAT English",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "AFC Champions League Elite: Saudi Arabia's Al-Ittihad to Host UAE's Al-Ain - ASHARQ AL-AWSAT English."
-    }
-   ],
-   "source": "ASHARQ AL-AWSAT English",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTFRlc010amlXcmF2MktYM09WMHdMTmZzQlUxNUhwRXdXUFhTRVg2MVJ1d2FQTEUtNlI4UXFzRXg4WXZ0SEhZMHFhallRS1ZHT2lMT0RES29rVlBtUjNsWkY4R3JmRVZmakJRRnpZX2VtamZkT2pQQl9vbUdYb3JVaklYdWlnbXNCSkxqd2U2NkJnLU5OajRLaXIxTzcyNG5NRjNjZW5DWHpQZFB4ZThN?oc=5",
-   "type": null,
-   "time": "2026-11-01T16:14:38Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pia-s-first-boeing-787-9-dreamliner-arrives-in-i",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "oil-prices-rise-as-middle-east-ukraine-russia-co",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "markets",
-   "category": "Tech",
-   "headline": "PIA's first Boeing 787-9 Dreamliner arrives in Islamabad",
-   "summary": "Pakistan International Airlines’ (PIA) first Boeing 787-9 Dreamliner, acquired on lease last month, arrived in Islamabad from London as flight PK786 on Sunday.",
+   "category": "Markets",
+   "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "summary": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "PIA's first Boeing 787-9 Dreamliner arrives in Islamabad."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan International Airlines’ (PIA) first Boeing 787-9 Dreamliner, acquired on lease last month, arrived in Islamabad from London as flight PK786 on Sunday."
+     "text": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041374/pias-first-boeing-787-9-dreamliner-arrives-in-islamabad",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
    "type": null,
-   "time": "2026-11-01T12:04:34Z",
+   "time": "2026-11-01T20:29:41Z",
    "countries": [
-    "Pakistan",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "terrorist-attacks-drop-by-37pc-in-october-picss",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Terrorist attacks drop by 37pc in October: PICSS",
-   "summary": "ISLAMABAD: Pakistan witnessed a significant improvement in several key security indicators during October, with terrorist attacks declining by 37 per cent compared with September, it emerged on Sunday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Terrorist attacks drop by 37pc in October: PICSS."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: Pakistan witnessed a significant improvement in several key security indicators during October, with terrorist attacks declining by 37 per cent compared with September, it emerged on Sunday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041388/terrorist-attacks-drop-by-37pc-in-october-picss",
-   "type": null,
-   "time": "2026-11-01T15:06:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-   "summary": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan LNG Cargo Attacked Near Hormuz Had Iranian Approval."
-    }
-   ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:21Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -343,7 +412,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -361,20 +430,46 @@
    ]
   },
   {
-   "id": "pakistan-s-embassy-in-tehran-refutes-rumours-of-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran",
-   "summary": "Pakistan’s embassy in Iran on Sunday refuted rumours of an attack on Ambassador Imran Ahmed Siddiqui in Tehran, terming them “baseless”.",
+   "id": "uae-expresses-solidarity-with-syria-offers-condo",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "UAE expresses solidarity with Syria, offers condolences over flash flood victims",
+   "summary": "UAE expresses solidarity with Syria, offers condolences over flash flood victims",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan's embassy in Tehran refutes rumours of people 'attacking' its ambassador to Iran."
+     "text": "UAE expresses solidarity with Syria, offers condolences over flash flood victims."
+    }
+   ],
+   "source": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5makt5ZlF3b2FiYzdyYnptamNIVzJ6aWhkYXBLaFJUelhwTkVaOXBfa1ZVQWg1TWdYcHdleVRaMHpKOXdDOVY2NHMwZUw?oc=5",
+   "type": null,
+   "time": "2026-11-01T21:30:10Z",
+   "countries": [
+    "United Arab Emirates",
+    "Syria"
+   ]
+  },
+  {
+   "id": "russia-detains-minor-over-alleged-moscow-attack-",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russia detains minor over alleged Moscow attack plot after US warning",
+   "summary": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia detains minor over alleged Moscow attack plot after US warning."
     },
     {
      "role": "COMMANDER",
@@ -382,50 +477,41 @@
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan’s embassy in Iran on Sunday refuted rumours of an attack on Ambassador Imran Ahmed Siddiqui in Tehran, terming them “baseless”."
+     "text": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041397/pakistans-embassy-in-tehran-refutes-rumours-of-people-attacking-its-ambassador-to-iran",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
    "type": null,
-   "time": "2026-11-01T17:27:52Z",
+   "time": "2026-11-01T16:24:16Z",
    "countries": [
-    "Iran",
-    "Pakistan"
+    "Russia",
+    "United States of America"
    ]
   },
   {
-   "id": "iran-warns-new-war-could-last-longer-after-trump",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran warns new war could last longer after Trump threatens strikes",
-   "summary": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to “ take care ” of more targets.",
+   "id": "ukraine-s-air-raid-alert-system-hacked-air-force",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "high",
+   "category": "World",
+   "headline": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
+   "summary": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran warns new war could last longer after Trump threatens strikes."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran warned on Sunday that any renewed war with the United States could last longer than the previous round of fighting, after President Donald Trump said he still had to “ take care ” of more targets."
+     "text": "Ukraine's air raid alert system hacked, Air Force says as false nuclear, chemical warnings sound."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041393/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes",
+   "source": "The Kyiv Independent",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1QwY3NsY3diOW5FY2JCQXE0dGVHbG1lRDMxTzFXWS1yNi1FeDRoQ19OYml6RVYtbk9kb2J0Qm56S2xCLUc4bVdaWFJscDB6MHhqX2FtbS16SEtqeHYteDQxa2RCSW9tLUVRS295ZzVPM0NNNGVwR2FmZTJhbzRPc0wzbkgySXJiNW1sVWU4TVBsVFpvc3R5dDRPQ01iRDFINEc0VUtYTDgweWhpdjJ1M1I1MjV0S01wZnp3Q1Z2Zw?oc=5",
    "type": null,
-   "time": "2026-11-01T15:13:14Z",
+   "time": "2026-11-01T21:29:01Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Ukraine"
    ]
   },
   {
@@ -454,109 +540,6 @@
     "Israel",
     "Iran",
     "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "israeli-attacks-on-gaza-kill-at-least-nine-peopl",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israeli attacks on Gaza kill at least nine people",
-   "summary": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israeli attacks on Gaza kill at least nine people."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-01T14:10:59Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "binance-to-resume-withdrawals-after-recovering-b",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
-   "summary": "Binance, the worlds biggest cryptocurrency exchange, said it would resume withdrawals on Sunday after covering 95 per cent of the $6.3 billion in tokens stolen from its platform in the world’s largest digital heist, which the FBI has tied to North Korea.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Binance, the worlds biggest cryptocurrency exchange, said it would resume withdrawals on Sunday after covering 95 per cent of the $6.3 billion in tokens stolen from its platform in the world’s largest digital heist, which the FBI has tied to North Korea."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdSaWg1UnpYNmhtY1BWZzdiV2EyLUVQb3dKWC1vRGtHNzdFUTVsMjh1dUthY3lKWHd1d1JXTnNtRFNDUzVHY1BkS2J6emlQV0oyVmxFeHJEY21lVkIyeS03OEFjT2hWUEIwc0NOMm1QODBNS2ZFcGdaZmgyLTBwZmN4S0tPdnVpbmZpR2hraTkxVXFLQVY2eUdjdWxWTlRRa29vTEh4N3NpZDgwSEVxRUNUNURrNmd2MVNIbVBnNWNfdw?oc=5",
-   "type": null,
-   "time": "2026-11-01T04:57:00Z",
-   "countries": [
-    "China",
-    "North Korea"
-   ]
-  },
-  {
-   "id": "israel-s-first-ambassador-to-somaliland-presents",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
-   "summary": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-01T18:23:57Z",
-   "countries": [
-    "Israel",
-    "Somalia",
-    "Yemen"
    ]
   }
  ]
