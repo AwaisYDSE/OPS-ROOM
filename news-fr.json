@@ -1,8 +1,93 @@
 {
- "updated": "2026-11-02T02:35:01.411236Z",
+ "updated": "2026-11-02T10:03:01.721685Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
+  {
+   "id": "pakistan-assumes-chairmanship-of-sco-interbank-c",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Le Pakistan assume la présidence du Consortium interbancaire SCO pour 2026-2027",
+   "summary": "Le Pakistan a assumé la présidence du Consortium interbancaire de l'Organisation de coopération de Shanghai (SCO-IBC) pour 2026-2027, a annoncé lundi le ministère des Finances. Le président de HBL, Sultan Ali Allana, a pris la tête du consortium pour cette période.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan assume la présidence du Consortium interbancaire SCO pour 2026-2027."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qu'est-ce que cela signifie pour les prix ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le Pakistan a assumé la présidence du Consortium interbancaire de l'Organisation de coopération de Shanghai (SCO-IBC) pour 2026-2027, a annoncé lundi le ministère des Finances. Le président de HBL, Sultan Ali Allana, a pris la tête du consortium pour cette période."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
+   "type": null,
+   "time": "2026-11-02T07:25:43Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "oil-prices-slide-more-than-3-as-trump-signals-mo",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole chutent de plus de 3 % alors que Trump laisse plus de temps à la diplomatie iranienne",
+   "summary": "Les prix du pétrole chutent de plus de 3 % alors que Trump laisse plus de temps à la diplomatie iranienne",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les prix du pétrole chutent de plus de 3 %, alors que Trump laisse plus de temps à la diplomatie iranienne."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-02T07:47:54Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "abu-dhabi-s-adnoc-g42-sign-deal-with-openai-as-s",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "L'ADNOC d'Abu Dhabi et le G42 signent un accord avec OpenAI alors que Sam Altman se rend aux Émirats arabes unis",
+   "summary": "L'ADNOC d'Abu Dhabi et le G42 signent un accord avec OpenAI alors que Sam Altman se rend aux Émirats arabes unis",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'ADNOC d'Abu Dhabi et le G42 signent un accord avec OpenAI alors que Sam Altman se rend aux Émirats arabes unis."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+   "type": null,
+   "time": "2026-11-02T06:40:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
   {
    "id": "uae-condemns-attack-on-qatar-s-lng-carrier-in-gu",
    "country": "Qatar",
@@ -26,6 +111,257 @@
    "time": "2026-11-01T23:44:00Z",
    "countries": [
     "Qatar",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "nuclear-radiation-in-russia-ukraine-no-just-hack",
+   "country": "Russia",
+   "label": "RUSSIE",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "Des radiations nucléaires en Russie, en Ukraine ? Non, juste des alertes d'avertissement piratées",
+   "summary": "Les avertissements surprennent la population ukrainienne, mais les autorités affirment avoir dissipé la confusion en moins d'une heure.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Des radiations nucléaires en Russie, en Ukraine ? Non, juste des alertes d'avertissement piratées."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quelle est la situation maintenant ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les avertissements surprennent la population ukrainienne, mais les autorités affirment avoir dissipé la confusion en moins d'une heure."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-02T09:35:46Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ukraine-russia-report-hacking-attacks-on-emergen",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "L'Ukraine et la Russie signalent des attaques de piratage contre des applications d'alerte d'urgence après la fin de la trêve d'Olechky",
+   "summary": "L'Ukraine et la Russie signalent des attaques de piratage contre des applications d'alerte d'urgence après la fin de la trêve d'Olechky",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Ukraine et la Russie signalent des attaques de piratage contre des applications d'alerte d'urgence après la fin de la trêve d'Oleshky."
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
+   "type": null,
+   "time": "2026-11-02T09:33:08Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "houthi-attacks-and-saudi-arabia-s-security-dilem",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Les attaques des Houthis et le dilemme sécuritaire de l’Arabie Saoudite",
+   "summary": "Les attaques des Houthis et le dilemme sécuritaire de l’Arabie Saoudite",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les attaques des Houthis et le dilemme sécuritaire de l’Arabie saoudite."
+    }
+   ],
+   "source": "Politics Today",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm4wQ3BuSlpXSC0wWUduZU5PSl9sb2otQ0lHd2V5MlFFcEgtQmxRYkhDTnN5M192a0pqejZBbElDWWFtSHQxOGZXdFpIcjBCamhYTk5WWE5aTW1SVm9VLTFUWGxucFlGWnZORmdfWVZTbmFLVGxWMzBIeENZeGEybENR?oc=5",
+   "type": null,
+   "time": "2026-11-02T07:05:58Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oil-drops-almost-4-on-hopes-of-progress-in-talks",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Le pétrole chute de près de 4% dans l'espoir de progrès dans les négociations sur la fin de la guerre entre les États-Unis et l'Iran",
+   "summary": "Le pétrole chute de près de 4% dans l'espoir de progrès dans les négociations sur la fin de la guerre entre les États-Unis et l'Iran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le pétrole chute de près de 4% en raison des espoirs de progrès dans les négociations sur la fin de la guerre entre les États-Unis et l'Iran."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
+   "type": null,
+   "time": "2026-11-01T23:13:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-intercepts-a-missile-as-figh",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "La coalition dirigée par l'Arabie saoudite intercepte un missile alors que les combats font rage à al-Jawf au Yémen",
+   "summary": "Les médias affiliés aux Houthis rapportent que sept personnes ont été blessées lors de frappes contre la ville de Hodeidah.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La coalition dirigée par l’Arabie saoudite intercepte un missile alors que les combats font rage à al-Jawf au Yémen."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les médias affiliés aux Houthis rapportent que sept personnes ont été blessées lors de frappes contre la ville de Hodeidah."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-02T09:43:59Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oil-prices-fall-around-3-amid-iran-war-peace-tal",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole chutent d’environ 3 % au milieu des rapports sur les pourparlers de paix sur la guerre en Iran | Sabah quotidien",
+   "summary": "Les prix du pétrole chutent d’environ 3 % au milieu des rapports sur les pourparlers de paix sur la guerre en Iran | Sabah quotidien",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les prix du pétrole chutent d’environ 3 % au milieu des rapports sur les pourparlers de paix sur la guerre en Iran | Sabah quotidien."
+    }
+   ],
+   "source": "Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhJdU5yVksyRUJIeFMtRGJSQU9FNnFDZVMxM1VMdlhSVU1oLVZkSlpJc1p5b18wcGpuY1RkdkNDTHBOVnlGNjROTHp5bjh0QUFGMDcxU0s3TkZFb2FZYWVDQThnVWQxUzFUaVFOSmhieFpVNURLbG4yYlhKY0xfQ1VKMXVvWFozMU4tRmUtcFhOUDFNNnBkcGtUU0oxdzVhWF9zemwxbnnSAagBQVVfeXFMTmF4SXVOclZLMkVCSHhTLURiUkFPRTZxQ2VTMTNVTHZYUlVNaC1WZEpaSXNaeW9fMHBqbmNUZHZDQ0xwTlZ5RjY0Tkx6eW44dEFBRjA3MVNLN05GRW9hWWFlQ0E4Z1VkMVMxVGlRTkpoYnhaVTVES2xuMmJYSmNMX0NVSjF1b1haMzFOLUZlLXBYTlAxTTZwZHBrVFNKMXc1YVhfc3psMW55?oc=5",
+   "type": null,
+   "time": "2026-11-02T07:50:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-says-it-destroyed-houthi-mis",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "La coalition dirigée par l'Arabie saoudite affirme avoir détruit un missile Houthi visant la région sud du royaume",
+   "summary": "La coalition dirigée par l'Arabie saoudite affirme avoir détruit un missile Houthi visant la région sud du royaume",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La coalition dirigée par l'Arabie saoudite affirme avoir détruit un missile Houthi visant la région sud du royaume."
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0V5emQxTm5BcEdmeWVrSjRFNWRIdUpfT2ZjZ0YzYmN3MTQ2UGZhRnVrWmdaTDdlRmxTYkN1Ml9tRGl1a3p2dWNXeF9UZmdzbHpfSW90TFd6c3dSTHhVUVVuZ0xXeW9GSVdsM2JZckRHODVxZWNpZVpEcDRUOU9lLVhvZ284U2dyMnRiT2ZUWmJpeDZsRE5IbmhfcURLMEp6SnYxay1yNjRNYTE0M1VSM0RUeml1YkZ4Y0RTNy1GOFpwZVVBTmpN?oc=5",
+   "type": null,
+   "time": "2026-11-02T07:13:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
+   "country": "Iran",
+   "label": "DÉTROIT D'HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Une cargaison de GNL pakistanaise attaquée près d'Ormuz avait l'approbation iranienne",
+   "summary": "Une cargaison de GNL pakistanaise attaquée près d'Ormuz avait l'approbation iranienne",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Une cargaison de GNL pakistanaise attaquée près d'Ormuz avait l'approbation iranienne."
+    }
+   ],
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
+   "type": null,
+   "time": "2026-11-01T14:48:21Z",
+   "countries": [
+    "Iran",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Guerre entre les États-Unis, Israël et l’Iran : ce que les résidents des Émirats arabes unis doivent savoir aujourd’hui (2 novembre 2026)",
+   "summary": "Guerre entre les États-Unis, Israël et l’Iran : ce que les résidents des Émirats arabes unis doivent savoir aujourd’hui (2 novembre 2026)",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Guerre entre les États-Unis, Israël et l’Iran : ce que les résidents des Émirats arabes unis doivent savoir aujourd’hui (2 novembre 2026)."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXQyTENzVkpNZ1phbVFfM240cEt1eE40TG5QdzM5RVRaM0k1Z1A0ZFJ5dWJGS2ZlNWxNZlBtVTYzSTg0cHVsSHNJUjZ2RFdLaXBBekE1NHZqdzhpcWFUX0JjM1VkU21ybVhoSjdkcFpvOEVKVHNVOW5hRm9fV25IS3R3bkhweUJmeGFkZ0ZBNUZ1YlZBTDBiUHE5am5qVDdra3pUcVo2SdIBtwFBVV95cUxPcDR0aTBRejZ1SjlyUVNHWTFJaG1qazRobzBFbV9fOWVDWU5xdE1pQ05FREsyNkVyd2llZmRIMW4weFlTdXplSVFXaFo5ODl2MGF5WHVwQm5DRUk0VllqbG9jVDR4dHRGSmZsbEEwQ1RodFpoY1pxMG1TeGI3VThxTUh0ZndDSjNfYm12am5vLUdhajJXdWNyUXVNUUhYcmN6M1dzczlYNWkyZWRfQlo2LWY5cE5YQXc?oc=5",
+   "type": null,
+   "time": "2026-11-02T06:44:57Z",
+   "countries": [
+    "United States of America",
+    "Israel",
+    "Iran",
     "United Arab Emirates"
    ]
   },
@@ -57,194 +393,68 @@
    ]
   },
   {
-   "id": "oil-slips-more-than-1-as-talks-continue-on-endin",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "ukmto-says-two-projectiles-hit-tanker-off-saudi-",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Le pétrole recule de plus de 1% alors que les négociations se poursuivent pour mettre fin à la guerre en Iran",
-   "summary": "Le pétrole recule de plus de 1% alors que les négociations se poursuivent pour mettre fin à la guerre en Iran",
+   "headline": "L'UKMTO déclare que deux projectiles ont touché un pétrolier au large de l'Arabie Saoudite près de Ras Al Khafji : comment 5 médias l'ont structuré",
+   "summary": "L'UKMTO déclare que deux projectiles ont touché un pétrolier au large de l'Arabie Saoudite près de Ras Al Khafji : comment 5 médias l'ont structuré",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le pétrole recule de plus de 1% alors que les négociations se poursuivent pour mettre fin à la guerre en Iran."
+     "text": "L'UKMTO déclare que deux projectiles ont touché un pétrolier au large de l'Arabie saoudite, près de Ras Al Khafji : comment 5 médias l'ont structuré."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGhpbGRHY2lCclVFbVVzclJDRmNNdkgwTmY3Q3hPSF9xSm5yMDlycUJ6bDhvUTBpMEJwVHo3SkxvclhPSGI2blFtRVRSbmFTNlY0dmp6NEpfV180UEo0QTVYSXRCRE9KX09KU3NRaXpTeUk3N1FEQVV0enBOeWthZVhUNzZGUDJHUVpnc3VOOFFfcm10ZXlnLXBOaFc3bGhYRm1YblpBUnc1WGhHeTViUUNDLWItTGR1cV9vRkZBbnRoRWNScUd5Tk1EejRoRGE0akRxNnRaSzU0VGNsOVZ4Tg?oc=5",
    "type": null,
-   "time": "2026-11-01T23:13:00Z",
+   "time": "2026-11-02T05:21:17Z",
    "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "pakistan-outperforms-vietnam-in-rice-exports",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Le Pakistan surpasse le Vietnam en termes d'exportations de riz",
+   "summary": "LAHORE : Faisant preuve d'une résilience remarquable face à l'escalade du conflit géopolitique et aux troubles mondiaux du transport maritime, les exportations de riz Basmati de qualité supérieure du Pakistan ont absorbé les ondes de choc du conflit américano-iranien et des perturbations plus larges dans la région du Golfe, gardant",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan surpasse le Vietnam en termes d’exportations de riz."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Pourquoi ce déménagement ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "LAHORE : Faisant preuve d'une résilience remarquable face à l'escalade du conflit géopolitique et aux troubles mondiaux du transport maritime, les exportations de riz Basmati de qualité supérieure du Pakistan ont absorbé les ondes de choc du conflit américano-iranien et des perturbations plus larges dans la région du Golfe, gardant"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
+   "type": null,
+   "time": "2026-11-02T01:06:34Z",
+   "countries": [
+    "Pakistan",
+    "Vietnam",
+    "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "ukraine-air-raid-app-apparently-hacked-as-users-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "L'application de raid aérien en Ukraine semble avoir été piratée car les utilisateurs reçoivent une fausse alerte de radiation, selon l'armée de l'air",
-   "summary": "Quelques heures plus tard, les autorités russes ont déclaré que son application avait également été piratée, avec de fausses alertes envoyées à l'intérieur du pays.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'application de raid aérien en Ukraine a apparemment été piratée car les utilisateurs reçoivent de fausses alertes de radiation, selon l'armée de l'air."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Compris. Continue."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Quelques heures plus tard, les autorités russes ont déclaré que son application avait également été piratée, avec de fausses alertes envoyées à l'intérieur du pays."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:18:27Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "iran-war-live-tankers-hit-in-hormuz-trump-again-",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "La guerre en Iran est en direct : des pétroliers touchés à Ormuz ; Trump affirme encore une fois que le conflit prendra bientôt fin",
-   "summary": "Le président américain avertit l'Iran de conclure un accord, alors que le CGRI affirme que deux pétroliers ont heurté des mines et pris feu dans le détroit d'Ormuz.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La guerre en Iran est en direct : des pétroliers touchés à Ormuz ; Trump affirme à nouveau que le conflit prendra bientôt fin."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le président américain avertit l'Iran de conclure un accord, alors que le CGRI affirme que deux pétroliers ont heurté des mines et pris feu dans le détroit d'Ormuz."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-02T00:00:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "emirates-debuts-the-a350-900-on-dubai-orlando-it",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Emirates lance l'A350-900 sur Dubaï-Orlando, sa première liaison américaine avec ce type",
-   "summary": "Emirates lance l'A350-900 sur Dubaï-Orlando, sa première liaison américaine avec ce type",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Emirates lance l'A350-900 sur Dubaï-Orlando, sa première liaison américaine avec ce type."
-    }
-   ],
-   "source": "Aviacionline",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSFJ4czcwRUtfcEZWamVXaHFPTzdDVGtGYzZYcUhlVlA2M2FqdmRkd2RUQTd0Z2wwcll5ckZ6NUYwWVlQZ0ZvSVlQam1RcmpNekJ2SE03NXJ5N1o4U0xiaDd3cUZlSWdsekVVT0Q5T1BOQk5haHp1VHdVeWdxTG9Xc2lqRmJqQ1ctMTgwblg1QVgwaEVrZTFQTTFKR045ck01SXM3LTNKbTc0TWpReG0tRXBxZENkaHM4eWZBR0N2VkxBMXRscG91NVplRXd2cFQ1M0hMT0hxSEw5Y1pJLXNWdERiVXdSdURUekw4TlJrUXJmMU9YdXAwMTg1bkZreEt4OHRB?oc=5",
-   "type": null,
-   "time": "2026-11-01T22:50:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-responds-to-unprovoked-firing-from-afgh",
-   "country": "Afghanistan",
-   "label": "AFGHANISTAN",
-   "lat": 33.9,
-   "lon": 67.7,
-   "flag": "🇦🇫",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Le Pakistan répond aux tirs non provoqués depuis les postes afghans le long de la frontière dans le Bas-Waziristan du Sud : DC",
-   "summary": "Les forces de sécurité pakistanaises ont répondu aux tirs non provoqués depuis les postes frontières afghans, a déclaré dimanche le commissaire adjoint du district du Bas-Waziristan du Sud.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan répond aux tirs non provoqués depuis les postes afghans le long de la frontière dans le Bas-Waziristan du Sud : DC."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les forces de sécurité pakistanaises ont répondu aux tirs non provoqués depuis les postes frontières afghans, a déclaré dimanche le commissaire adjoint du district du Bas-Waziristan du Sud."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041405/pakistan-responds-to-unprovoked-firing-from-afghan-posts-along-border-in-lower-south-waziristan-dc",
-   "type": null,
-   "time": "2026-11-01T18:46:38Z",
-   "countries": [
-    "Afghanistan",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "russian-strikes-cut-power-to-thousands-in-ukrain",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Les frappes russes coupent l'électricité à des milliers de personnes en Ukraine alors que le cessez-le-feu de Kherson prend fin",
-   "summary": "Un cessez-le-feu humanitaire rare a permis aux civils d’évacuer la ville d’Oleshky occupée par les Russes.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les frappes russes ont coupé l'électricité à des milliers de personnes en Ukraine alors que le cessez-le-feu de Kherson prend fin."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Un cessez-le-feu humanitaire rare a permis aux civils d’évacuer la ville d’Oleshky occupée par les Russes."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-01T21:55:01Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "kherson-braces-for-return-of-war-as-localised-ru",
+   "id": "russian-oil-refineries-targeted-as-ukraine-renew",
    "country": "Russia",
    "label": "RUSSIE",
    "lat": 55.75,
@@ -252,289 +462,46 @@
    "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "Kherson se prépare au retour de la guerre alors que la trêve localisée entre la Russie et l'Ukraine prend fin",
-   "summary": "Moscou et Kiev poursuivent leurs frappes ailleurs, mais aucune violation n'a été signalée dans la région de Kherson pendant les six jours de cessez-le-feu.",
+   "headline": "Les raffineries de pétrole russes ciblées alors que l'Ukraine renouvelle ses frappes",
+   "summary": "Les raffineries de pétrole russes ciblées alors que l'Ukraine renouvelle ses frappes",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Kherson se prépare au retour de la guerre alors que la trêve localisée entre la Russie et l’Ukraine prend fin."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Moscou et Kiev poursuivent leurs frappes ailleurs, mais aucune violation n'a été signalée dans la région de Kherson pendant les six jours de cessez-le-feu."
+     "text": "Les raffineries de pétrole russes ciblées alors que l’Ukraine renouvelle ses frappes."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+   "source": "www.tmgm.com",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWxWYVNIZERrdkE4LWY4V2pmSWlaM1FJZm50c0ZYUFpaOWZkY1Q3RlFQaFdxSlMtMFF5Slo1Z1dPYXZvM0dZbFoyY1FjSHh4RVUxVVNPZGRETkF4YUtBWHI1cmxLdDhvREJ1dHkzM2gwZEtwckY4bFlnV0doek0ybjRuNGk0cWhuT01Sc0tXOHYydzBoUFc1WkVDNzhHRmg2NVJKSDBORjV5NWZBN2V0cmxONXR3dGNmYnc?oc=5",
    "type": null,
-   "time": "2026-11-01T22:15:14Z",
+   "time": "2026-11-02T01:36:46Z",
    "countries": [
     "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "-we-re-technology-savvy-dg-ispr-says-pakistan-ah",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "« Nous maîtrisons la technologie » : la DG ISPR affirme que le Pakistan est en avance sur l'Inde et que les talibans afghans sont prêts à fonctionner",
-   "summary": "Le directeur général des relations publiques interservices (ISPR), le lieutenant-général Ahmed Sharif Chaudhry, a affirmé que le Pakistan est « bien en avance » en termes de préparation opérationnelle par rapport aux talibans afghans et à l'Inde, ajoutant que l'armée du pays adopte les mesures d'urgence.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "« Nous maîtrisons la technologie » : la DG ISPR affirme que le Pakistan est en avance sur l'Inde et que les talibans afghans sont prêts à être opérationnels."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le directeur général des relations publiques interservices (ISPR), le lieutenant-général Ahmed Sharif Chaudhry, a affirmé que le Pakistan est « bien en avance » en termes de préparation opérationnelle par rapport aux talibans afghans et à l'Inde, ajoutant que l'armée du pays adopte les mesures d'urgence."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041391/were-technology-savvy-dg-ispr-says-pakistan-ahead-of-india-afghan-taliban-in-operational-readiness",
-   "type": null,
-   "time": "2026-11-01T17:31:26Z",
-   "countries": [
-    "Pakistan",
-    "India",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "terrorist-attacks-drop-by-37pc-in-october-picss",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Les attaques terroristes ont diminué de 37 % en octobre (PICSS)",
-   "summary": "ISLAMABAD : Le Pakistan a connu une amélioration significative de plusieurs indicateurs de sécurité clés en octobre, avec des attaques terroristes en baisse de 37 pour cent par rapport à septembre, a-t-on appris dimanche.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les attaques terroristes ont diminué de 37 % en octobre : PICSS."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD : Le Pakistan a connu une amélioration significative de plusieurs indicateurs de sécurité clés en octobre, avec des attaques terroristes en baisse de 37 pour cent par rapport à septembre, a-t-on appris dimanche."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041388/terrorist-attacks-drop-by-37pc-in-october-picss",
-   "type": null,
-   "time": "2026-11-01T15:06:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "two-killed-in-pakistan-stampede-at-tiktok-blogge",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Deux morts dans une bousculade au Pakistan lors d'un événement organisé par un blogueur TikTok — Dawn",
-   "summary": "Deux morts dans une bousculade au Pakistan lors d'un événement organisé par un blogueur TikTok — Dawn",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Deux morts dans une bousculade au Pakistan lors de l'événement du blogueur TikTok — Dawn."
-    }
-   ],
-   "source": "UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdS1kODNnVlItZHNKRWluXzNuRDdiT2lJOUVtQzZmMm40NDd0QnVFT2FRUmE5WEZ1YzllMGN2bUhOU3NqUmJFVkNRRTU4dmVsNkFUZTEyYTJsaHZtUlppZk9RMEI3TFY5MkUxOXN1NXZxdGxZZjNDXzR1YTJUUng2OGJLMjVRU1VDay1qWHFmYThDOU9nSHpsU05xZ2VscUVsc0NWeXdBalFzQQ?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:33Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "australia-s-bizarre-selection-choices-backfired-",
-   "country": "South Africa",
-   "label": "AFRIQUE DU SUD",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
-   "severity": "info",
-   "category": "World",
-   "headline": "Les choix bizarres de l’Australie se sont retournés contre lui – comme on pouvait s’y attendre – en Afrique du Sud. Il est temps de se confronter à la réalité | Geoff Citron",
-   "summary": "Les choix bizarres de l’Australie se sont retournés contre lui – comme on pouvait s’y attendre – en Afrique du Sud. Il est temps de se confronter à la réalité | Geoff Citron",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les choix bizarres de l’Australie se sont retournés contre lui – comme on pouvait s’y attendre – en Afrique du Sud. Il est temps de se confronter à la réalité | Geoff Citron."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEpZc3JBSlp5NWJlUlc0Qmd4NGtkWEMtWk9LVjMwenY2YnJzS3RXX09GNG9wVklNLWk4WVBPWWw0WmZsNlFQQ2kyQW5NQWtpakRKOTJOMWdOdVlhNEppS0dGMUNkOHkyUmljM3laNk43R0FyM3BQMk1YMXlPSTVySUZ1TnJVSXVaWW50OGtHYVFlSzZuTkJGdEFrRVRnM3Fib1oxR2lDNm5RTmZoMzNzcnMzMXVDYW1vbXZRVndZQ1pFaXdfR1k2dEY3SjRDd05EUWVFSG91UzhwTHFyLVlPSFBqZw?oc=5",
-   "type": null,
-   "time": "2026-11-02T00:42:14Z",
-   "countries": [
-    "South Africa",
-    "Australia"
-   ]
-  },
-  {
-   "id": "united-arab-emirates-says-military-solutions-off",
+   "id": "magrabi-to-buy-uae-s-dubai-optical-adding-15-sto",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "high",
+   "severity": "info",
    "category": "UAE",
-   "headline": "Les Émirats arabes unis affirment que les solutions militaires ne permettent pas de sortir rapidement de la crise avec l'Iran",
-   "summary": "Les Émirats arabes unis affirment que les solutions militaires ne permettent pas de sortir rapidement de la crise avec l'Iran",
+   "headline": "MAGRABi va racheter Dubai Optical des Émirats arabes unis, ajoutant ainsi 15 magasins",
+   "summary": "MAGRABi va racheter Dubai Optical des Émirats arabes unis, ajoutant ainsi 15 magasins",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les Émirats arabes unis affirment que les solutions militaires ne permettent pas de sortir rapidement de la crise avec l’Iran."
+     "text": "MAGRABi va racheter Dubai Optical des Émirats arabes unis, ajoutant ainsi 15 magasins."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlZFWEdtS0ctLVBsVkdlbDZnamZTRXQ5UlQ5V3d1Zi1HWFduS0d2RExUclM1S1ZneVhfbEhNNmZyd3pkQ3BQWkhmdU5UQ0NneWdfYXl3UG1HNWZLWG43Y1hkdGRMU3VjYzZ5Wk9USjAtdDcxdmMzc29MWVlDNzNoLXJFWWhBc3FlcXBxNWk4YjlxVlB4VTJ2eGNPU0hiNDJabVdr?oc=5",
+   "source": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWkwTlJKSUg1UVhnSkZKYmFMUXR4LUpEcTNBU3Nwd285eWVIUDByRUwtMGhuVEhKN193ZnllTkxCWmZJb1VDbjc0OFdmSGxvazJQaTBjSEUxbjJZQ04xZWR5OXM0eUlKN19Gdnk5Vm8zV0VmdkcxclgxcU5PUzFldkpJb0djRnpPNkt4TEpn?oc=5",
    "type": null,
-   "time": "2026-11-01T22:46:00Z",
+   "time": "2026-11-02T06:14:03Z",
    "countries": [
-    "United Arab Emirates",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-defies-trump-to-resume-attacks-on-russia",
-   "country": "Russia",
-   "label": "RUSSIE",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "L’Ukraine défie Trump de reprendre ses attaques contre les raffineries de pétrole russes",
-   "summary": "L’Ukraine défie Trump de reprendre ses attaques contre les raffineries de pétrole russes",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Ukraine défie Trump de reprendre ses attaques contre les raffineries de pétrole russes."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ19rWVE2TGotNE9jeVFKZnFoaEpZaDRlTHVjZVhPcks0am5ieVl2ck9MaTYxR25CQXVvcDNfZ1FibEo3QjRIRWRjcno1eXRGVTlkT0FmVmZLYkNYYm12akswdFBHNGRMOXdiTEQyb01rLW5NWFZJMGU5QjRMV3p4MjE0aC01Skx6UXAzWTktVVl3UC1VZXA0SGFn?oc=5",
-   "type": null,
-   "time": "2026-11-02T00:30:00Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-five-key-developments-uae-res",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Guerre entre les États-Unis, Israël et l’Iran : cinq développements clés que les résidents des Émirats arabes unis devraient connaître ce soir (dimanche 1er novembre)",
-   "summary": "Guerre entre les États-Unis, Israël et l’Iran : cinq développements clés que les résidents des Émirats arabes unis devraient connaître ce soir (dimanche 1er novembre)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Guerre États-Unis/Israël-Iran : cinq développements clés que les résidents des Émirats arabes unis devraient connaître ce soir (dimanche 1er novembre)."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVpURzZVb21yRW1GUUJTdDZYQkEweFoxT3luSUJ4SDk1aFBUMzJ5ZVVZNUVReEtqMWdtZTduVkNyUFZldlA4b3Vjc2ZjbWFtZU9BTy1oYW9HaXBNcEVvN1htYUlsNG5OSzFEU1lzNXFCX2l5MGM5emZnVzMtRFhLNzhDRWhNb0xxbVFCNERQRVRXVTdJZTRIT3Z4RzRwcXMwX3pTa0JsVjg1cXNlZDk0ZVN0d0JIcy11RlFPNGdSeFZGVE1XZHN3V3RFOE9CVW1Tak1oTElxRdIB6gFBVV95cUxPc2JhdzFxWXBHbmNhR2IwQnZKSUpPTTRHcloyZE0xdkNIbk1nX196WENRaGN4UTVGV09VOHI3NHBZYkxNdkZ0bkNJYUNZYkNFcFBVQkRJV2t5WEIydU8zZmYxanB5QVY0MXltTDNSM0o2d2Ewb1gxcmNudk15MWJYZjJpTWpURVotbHh4VWFuQm4zR1c3THR2UUtFZFhXdG9qb3BPTzBfMjJPeFoyMjAyLVV4U0NSMjlFSjRzeFRtUk5WbkdqWFg2WExaX1VHaGoybEstQTN1R0psT2dVR1pwTWpHZUtIRUt4Umc?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:46:36Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
     "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "us-backed-consortium-proposes-4-4bn-lng-project",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Un consortium soutenu par les États-Unis propose un projet de GNL de 4,4 milliards de dollars",
-   "summary": "• La proposition envisage quatre réservoirs contenant 560 000 mètres cubes à Port Qasim dans la première phase du plan de 4,4 milliards de dollars qui comprend également un gazoduc de 1 100 km à l'intérieur du pays. • Le projet facturerait 4,93 dollars par mmBtu pour le terminal et le stockage, 1,91 dollars pour le transport au cours de la première phase.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Un consortium soutenu par les États-Unis propose un projet de GNL de 4,4 milliards de dollars."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qu'est-ce que cela signifie pour les prix ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "• La proposition envisage quatre réservoirs contenant 560 000 mètres cubes à Port Qasim dans la première phase du plan de 4,4 milliards de dollars qui comprend également un gazoduc de 1 100 km à l'intérieur du pays. • Le projet facturerait 4,93 dollars par mmBtu pour le terminal et le stockage, 1,91 dollars pour le transport au cours de la première phase."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041543/us-backed-consortium-proposes-44bn-lng-project",
-   "type": null,
-   "time": "2026-11-02T02:27:57Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "netanyahu-pressing-trump-to-strike-iran-immediat",
-   "country": "Israel",
-   "label": "ISRAËL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Netanyahu presse Trump de frapper l'Iran immédiatement après la mi-mandat - Axios",
-   "summary": "Netanyahu presse Trump de frapper l'Iran immédiatement après la mi-mandat - Axios",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Netanyahu presse Trump de frapper l’Iran immédiatement après la mi-mandat – Axios."
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMWHhmYWlnWlRIbVQ0bFl5MzFlSkhjQ1lydTBuUHg5R1doRlZfZXJzTE9BNm1KMHNVTGZXaUU4MmgxQzlZR1hIcmpvRWFfOThSZGc?oc=5",
-   "type": null,
-   "time": "2026-11-01T18:25:28Z",
-   "countries": [
-    "Israel",
-    "United States of America",
-    "Iran"
    ]
   }
  ]
