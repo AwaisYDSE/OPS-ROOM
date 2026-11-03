@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:54:02.829156Z",
+ "updated": "2026-11-03T23:28:53.515562Z",
  "generator": "rss",
  "stories": [
   {
@@ -36,34 +36,6 @@
    ]
   },
   {
-   "id": "u-s-russia-and-ukraine-to-resume-peace-talks-in-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
-   "summary": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "U.S., Russia and Ukraine to resume peace talks in Abu Dhabi next week, Witkoff says."
-    }
-   ],
-   "source": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09zVHBJLUx0cFhYX1paZnhnT1RqYWx6bF9idUtVNFZ3TVpvd0R0OFE2WTdYWW1MeXFpWGhBR3FWS1c0ZjNlWW8xQW5ZYWlFV2pwR0NISTdiSFh2alU5V05kYUdNVjBFTXQxbFFPZ0RpMnZDVVczbzRESFNTWENLeWo3Mm81STZJVEluXzgtU2RrUQ?oc=5",
-   "type": null,
-   "time": "2026-11-03T03:12:58Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
    "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
    "country": "United States of America",
    "label": "UNITED STATES",
@@ -81,7 +53,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -95,6 +67,154 @@
    "countries": [
     "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "trump-bombs-iran-talks-peace-and-sends-oil-price",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+   "summary": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1F4SmR3Q2Z1OU05NG9icDloQk1oNFFNRTBTakxfa0QwYi0zbW1SSU1GaVJqR0w0QzBBLVdfNTVDMzZyTU5GcEEzU3lIMkFyVkE0azlydGw2Ym1JWlZZUlNRUmw3cmsxS2gweUJybkxueTJGNlprV2dPZFJPbXNlaW5DUHh5akl1YkUxRTQzQXNwTVJjR2tOeVhPcm9FRWQ4MFpF0gGoAUFVX3lxTE1BMktxYktCQzFYZVdXOGxqTElLanI4ZWJiOEpPaE1ibUtwbkVDWHlON29NVG9FcFgxbUNXOWYtYlBNQkp5RW56SGZib1BYZVBoeHZ3SVdtUElYR05yTERlbDRkREJ3VnIta3JocUdOblpleTdNbVNoN1hEWjhtTUpWb1RacjQ0Y0VlSkFNWUd2QmpnZjRPVENWUzh4SzVLc2JRcEhkNVZhdg?oc=5",
+   "type": null,
+   "time": "2026-11-03T16:43:43Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "ukraine-s-zelenskyy-hopes-abu-dhabi-talks-will-o",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
+   "summary": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay. Details?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T16:22:15Z",
+   "countries": [
+    "Ukraine",
+    "United Arab Emirates",
+    "Russia",
+    "Germany"
+   ]
+  },
+  {
+   "id": "russia-must-show-it-is-serious-about-ceasefire-a",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says",
+   "summary": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXJMLXBKYzVHZFN2cldicFNYeVNFbGFmZTQxbnRCd1lmRnoxVDI4alZIM2dMZjBjaHdYMUpkamZISkJSS1ZiR0NLSkM2amxDNjU4NmZNS2YwN0dlUFphd2l4SkRqSXBQUTd6YS1DR19TRl9QWVVaalZlSE02ZFNESW1hUHhTSHlZd21LOGgyTjJXNC1lUEtlQ2hPemlxM0FCNHhRenVvaGR2NFBXQ2kzU1JZMEkyT0dva21LZ2pjN2FaalE?oc=5",
+   "type": null,
+   "time": "2026-11-03T16:04:21Z",
+   "countries": [
+    "United Arab Emirates",
+    "Russia",
+    "Germany"
+   ]
+  },
+  {
+   "id": "u-s-military-strikes-iran-s-qeshm-island-in-what",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+   "summary": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
+   "type": null,
+   "time": "2026-11-03T19:22:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-successfully-tests-its-first-indigenous",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR",
+   "summary": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
+   "type": null,
+   "time": "2026-11-03T20:29:32Z",
+   "countries": [
+    "Pakistan"
    ]
   },
   {
@@ -123,151 +243,20 @@
    ]
   },
   {
-   "id": "us-strikes-iranian-targets-in-the-strait-of-horm",
+   "id": "us-midterm-election-results-live-polls-start-clo",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
-   "summary": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US strikes Iranian targets in the Strait of Hormuz, official says, leaving unclear what comes next."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjU1Vjk0S2NySC14ZnByNG9Ld0J4cnZZaUxaTDdBeHgwMm41Q1Y3OGpVeXpKVWQ3dFNlcGtNTERub3h1Z1g3Rl93NzhqamZhWm1HYkhXVFBWNFdqbko2eWlUVU1HSmcxZmJJSlIyQlFZUjdTY1pxcU5kWjJyV3d1UTlfTjhPQXVOZW42MlBCc1Ztc3c?oc=5",
-   "type": null,
-   "time": "2026-11-03T13:58:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "u-s-military-strikes-iran-s-qeshm-island-in-what",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-   "summary": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:23:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "oil-prices-rebound-as-u-s-strikes-on-iran-renew-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns",
-   "summary": "Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:51:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-lost-40-billion-since-trade-with-india-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
-   "summary": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEFwbDFhdEM3dERXWTZ5TUZBVWJlNUhLTnRsQzJ3NG9wM1lDSUE1d0Q3X3ZoQzRzd0lRTjlLdzdTVG1EaENDeHk0VTlZM2k0bTRaQ3d3c2Q1Z1ZqS2UwM3NnTHJ3N0pkV192SWc1OWhXN1ZvY2xUT0hqYm5fYkpkdFB2cDdmMUZkc3NzUXVKZ3FVTV9FdTZMR1Ixdm92SUVCbTZENjVrUi0tUdIBsgFBVV95cUxNNGFoNnMtY200YjJ1UTZoZWFtV0ZvQk45dHM5TlVINWNrU2RjOWR2VHlEeXctajU4cS1MTG0xcW9WLVZkeXFvNU1ia19iMmktQmRjSG5CMk45dG5KUGQ1Q0szN0xNLUx5Y0FHZG9zdEVvSEduVmtuS281cm5GWWI1QXZMbFZuQndRRUdDYk1UUy1vYS1udkF1eTVsM0xKdlhCMk1ELWNfOThTNjVNdUl0WV9B?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:41:56Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "russia-confirms-new-ukraine-peace-talks-as-melan",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-   "summary": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalFTQUJtQy1ORXE4SmxzX1hBNVVXWE1FNFhhZUFBMExLT1Z2emNib05OMXlHNlJ3aUk0aGtsU1ZYZ1pRb1oyMkNxZUFQY1AyRWZ5WGU1Y0JINVFZV1VqZUFLMjN0RXU2UXZWeUhseUdCODNyUGUtbHladVg0Q0dtNjUydFdXME1ocW9LLXRRekFad9IBlwFBVV95cUxNcnZ2QVdpVV8wZjNfT3N1M0t0cEt4Sy03dTJCbk1sMDVlTGktY1BOczdIN1E1WFhFdDVFY04wUHB1YnYtVjN4SExtRjZBU1VMRmxldml0VFRzdm4tUnZCQkhoSk9LWnlULWRnbUpxSS1iRVI3Q0NuTjNXeERZNnlZbU5wWktjR1V5SHk2aVdsMncteVNKOGFB?oc=5",
-   "type": null,
-   "time": "2026-11-03T13:22:25Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-hopes-abu-dhabi-talks-will-o",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
    "severity": "watch",
    "category": "World",
-   "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-   "summary": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
+   "headline": "US midterm election results live: Polls start closing in some states",
+   "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting."
+     "text": "US midterm election results live: Polls start closing in some states."
     },
     {
      "role": "COMMANDER",
@@ -275,194 +264,44 @@
     },
     {
      "role": "ANALYST",
-     "text": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts."
+     "text": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
    "type": null,
-   "time": "2026-11-03T16:22:15Z",
-   "countries": [
-    "Ukraine",
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "justin-sun-seeks-sanctions-against-trump-linked-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "summary": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties."
-    }
-   ],
-   "source": "CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTM1SHVybkV4MzdwUFBIQ3dWTndWNS1yQ1FqSEtUQ182T1hJQmhrR19uZTc2cUJkYWw2TW9kaXVQQUo5a2dnOVEyWG1HMVctNjBUbm9ZMGlKTnBZWkVCWkJ3NTZwdWFPbmlGUEd1SGV2LXZlRXZvelFxb25DOVRWVHNMRkdwME1JNTI4TS1VSHVGaVBkY0ZGLURGajRuZUNZNmM0OW9HNHdIbWxvR2tib21ZLXhvOW5ZNFlPdFVYTjRfVTIzZUlZ?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:55:10Z",
+   "time": "2026-11-03T22:30:00Z",
    "countries": [
     "United States of America",
-    "United Arab Emirates"
+    "India"
    ]
   },
   {
-   "id": "soaring-lpg-prices-force-rickshaw-drivers-in-pak",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Soaring LPG prices force rickshaw drivers in Pakistan to cut meals",
-   "summary": "For 13 years, Rashid Ali has driven a three-wheeled motorised rickshaw around Lahore. His day starts at 6am and sometimes does not end until midnight, but he was long able to make around Rs1,700 ($6.50) a day, enough for his family’s bare essentials.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Soaring LPG prices force rickshaw drivers in Pakistan to cut meals."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "For 13 years, Rashid Ali has driven a three-wheeled motorised rickshaw around Lahore. His day starts at 6am and sometimes does not end until midnight, but he was long able to make around Rs1,700 ($6.50) a day, enough for his family’s bare essentials."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041853/soaring-lpg-prices-force-rickshaw-drivers-in-pakistan-to-cut-meals",
-   "type": null,
-   "time": "2026-11-03T12:48:48Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "death-toll-rises-in-ukraine-after-russia-attacks",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T16:57:41Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "opposition-party-organiser-killed-before-south-a",
-   "country": "South Africa",
-   "label": "SOUTH AFRICA",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Opposition party organiser killed before South Africa elections",
-   "summary": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Opposition party organiser killed before South Africa elections."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Police are investigating the motive in murder of MKP coordinator as political killings rise during municipal elections."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/3/opposition-party-organiser-killed-ahead-of-south-africa-elections?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-03T16:39:00Z",
-   "countries": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "two-police-officers-protecting-polio-workers-in-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Two police officers protecting polio workers in Pakistan shot dead",
-   "summary": "Two police officers protecting polio workers in Pakistan shot dead",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Two police officers protecting polio workers in Pakistan shot dead."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2ZTVGMxOTNLdGdUZ2NydnhqRm1aeHM1OGc4cF9hdWNGR1lrMHlsaVk2QVBGTVIwQkhDMGllelFLTGpoWnJMRERQem83alkwUTlNQnRzSE9ZLWg3WUtHQ1FJbGtZaGxZbmlhdTI2N2hBb3BrSUxPMzhzYWpDbGh2Nlo1blhqVmNnV2hLZXV3QjFlR1hkM1p4aDhHeFdHSWczdTZzX1dEaFIwRU3SAbABQVVfeXFMT2MycmFXa3hlenNuYTQwQkcxcGxOX29IZ2szUjhfVDhVT254bFlnZDUtOE5WaGEyeGRyTEZsdzlYa09FVmZzQ3BOTTkzd2VHMi1najFSdTNuZmo3R05XMmd6RFhuUXQwRDZnYjBlaFIyWXVpWVlBcTZ4bXQtdzEzUm9RZTNzRF82MTRNcnVHLWVweUlneTZ3QTROQy1tTjlJYnJHV3NyU2dYWnRJZDc4SXE?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:36:04Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "sharjah-design-centre-unveils-plans-for-rammed-e",
+   "id": "us-brokered-russia-ukraine-talks-are-set-to-resu",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "watch",
    "category": "UAE",
-   "headline": "Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029",
-   "summary": "Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029",
+   "headline": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause",
+   "summary": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029."
+     "text": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause."
     }
    ],
-   "source": "ArchDaily",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXhIMGlPQjRnYl9DTVVrUWctbkI3bDNidU5QUGFNREJzbTZBVk8wbzdZNnFDSGZuSjJGRHpyazA5TjAxeldESFk3NzZYb0Vpa1pnallvbXlkaG1HNmkxbjRieUlvSG1wUm9RN05pemVTUFNfVVRlVWdGcndEeDFtUHBCYV9BZlpjSkZobzZ4MEV3Q3Y2OGxvQjlxYmFGS2ROSkU0bW53VHBYRXdEaGVweg?oc=5",
+   "source": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1FnU201bEh6YTYwYklTMGtiMk5HWUJKSm02bnBtOFNNRTZuNGVRalB1bThYTzJLamxWb3lXU1BsZjF6VmhvS0xGcTdhZjczckFBQ1pBcDl3M1J4WjdveGRSdHFLV2RzVmNMbjI2V0ZWM3BXN2dGbUU5SFNLM25KOA?oc=5",
    "type": null,
-   "time": "2026-11-03T11:30:00Z",
+   "time": "2026-11-03T21:03:14Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "United States of America",
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -500,36 +339,204 @@
    ]
   },
   {
-   "id": "russian-strikes-on-dnipro-kill-two-injure-20-oth",
+   "id": "russia-confirms-new-ukraine-peace-talks-as-melan",
    "country": "Russia",
    "label": "RUSSIA",
    "lat": 55.75,
    "lon": 37.6,
    "flag": "🇷🇺",
-   "severity": "critical",
+   "severity": "high",
    "category": "World",
-   "headline": "Russian strikes on Dnipro kill two, injure 20 others",
-   "summary": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+   "headline": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+   "summary": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russian strikes on Dnipro kill two, injure 20 others."
+     "text": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalFTQUJtQy1ORXE4SmxzX1hBNVVXWE1FNFhhZUFBMExLT1Z2emNib05OMXlHNlJ3aUk0aGtsU1ZYZ1pRb1oyMkNxZUFQY1AyRWZ5WGU1Y0JINVFZV1VqZUFLMjN0RXU2UXZWeUhseUdCODNyUGUtbHladVg0Q0dtNjUydFdXME1ocW9LLXRRekFad9IBlwFBVV95cUxNcnZ2QVdpVV8wZjNfT3N1M0t0cEt4Sy03dTJCbk1sMDVlTGktY1BOczdIN1E1WFhFdDVFY04wUHB1YnYtVjN4SExtRjZBU1VMRmxldml0VFRzdm4tUnZCQkhoSk9LWnlULWRnbUpxSS1iRVI3Q0NuTjNXeERZNnlZbU5wWktjR1V5SHk2aVdsMncteVNKOGFB?oc=5",
+   "type": null,
+   "time": "2026-11-03T13:22:25Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "two-police-officers-protecting-polio-workers-in-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Two police officers protecting polio workers in Pakistan shot dead",
+   "summary": "Two police officers protecting polio workers in Pakistan shot dead",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Two police officers protecting polio workers in Pakistan shot dead."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2ZTVGMxOTNLdGdUZ2NydnhqRm1aeHM1OGc4cF9hdWNGR1lrMHlsaVk2QVBGTVIwQkhDMGllelFLTGpoWnJMRERQem83alkwUTlNQnRzSE9ZLWg3WUtHQ1FJbGtZaGxZbmlhdTI2N2hBb3BrSUxPMzhzYWpDbGh2Nlo1blhqVmNnV2hLZXV3QjFlR1hkM1p4aDhHeFdHSWczdTZzX1dEaFIwRU3SAbABQVVfeXFMT2MycmFXa3hlenNuYTQwQkcxcGxOX29IZ2szUjhfVDhVT254bFlnZDUtOE5WaGEyeGRyTEZsdzlYa09FVmZzQ3BOTTkzd2VHMi1najFSdTNuZmo3R05XMmd6RFhuUXQwRDZnYjBlaFIyWXVpWVlBcTZ4bXQtdzEzUm9RZTNzRF82MTRNcnVHLWVweUlneTZ3QTROQy1tTjlJYnJHV3NyU2dYWnRJZDc4SXE?oc=5",
+   "type": null,
+   "time": "2026-11-03T12:36:04Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-embassy-warns-americans-of-houthi-attacks-air",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia",
+   "summary": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3VHN1NWY3dvQzZpeTF0bDNRRVdadWdQREZMUEpnMFpLZ3Z6LWtlcUdXTVNYNjdFUVBsWGhSUk5QX292ZHA1T09XakZqSFVGUWp0djJQSHA4QVo0R0tOenBrSkZNQWtRTkRSeHQ0eUN1RXlQLUZHUjVjc1drNmdfLTdRckZGRm9nc0NaZEctQXlfd2xLNUZnN2NlUE8wbzBSVDZzc0ZfN29GdkNhVFBPUjVQZlo2RnB0VmJ2cUVsQ19hc3M?oc=5",
+   "type": null,
+   "time": "2026-11-03T23:22:59Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "president-zelenskyy-says-us-elections-will-impac",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "President Zelenskyy says US elections will impact war in Ukraine",
+   "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "President Zelenskyy says US elections will impact war in Ukraine."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "Russian strikes on Dnipro damaged residential areas and several medical facilities."
+     "text": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
    "type": null,
-   "time": "2026-11-03T17:24:08Z",
+   "time": "2026-11-03T21:43:19Z",
    "countries": [
-    "Russia"
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-lost-40-billion-since-trade-with-india-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
+   "summary": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report."
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEFwbDFhdEM3dERXWTZ5TUZBVWJlNUhLTnRsQzJ3NG9wM1lDSUE1d0Q3X3ZoQzRzd0lRTjlLdzdTVG1EaENDeHk0VTlZM2k0bTRaQ3d3c2Q1Z1ZqS2UwM3NnTHJ3N0pkV192SWc1OWhXN1ZvY2xUT0hqYm5fYkpkdFB2cDdmMUZkc3NzUXVKZ3FVTV9FdTZMR1Ixdm92SUVCbTZENjVrUi0tUdIBsgFBVV95cUxNNGFoNnMtY200YjJ1UTZoZWFtV0ZvQk45dHM5TlVINWNrU2RjOWR2VHlEeXctajU4cS1MTG0xcW9WLVZkeXFvNU1ia19iMmktQmRjSG5CMk45dG5KUGQ1Q0szN0xNLUx5Y0FHZG9zdEVvSEduVmtuS281cm5GWWI1QXZMbFZuQndRRUdDYk1UUy1vYS1udkF1eTVsM0xKdlhCMk1ELWNfOThTNjVNdUl0WV9B?oc=5",
+   "type": null,
+   "time": "2026-11-03T12:41:56Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "flights-across-europe-face-disruption-after-fals",
+   "country": "Poland",
+   "label": "POLAND",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Flights across Europe face disruption after false bomb threats",
+   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Flights across Europe face disruption after false bomb threats."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+   "type": null,
+   "time": "2026-11-03T18:42:00Z",
+   "countries": [
+    "Poland",
+    "Spain",
+    "Italy"
+   ]
+  },
+  {
+   "id": "kremlin-confirms-trilateral-ukraine-peace-talks-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+   "summary": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
+   "type": null,
+   "time": "2026-11-03T09:40:50Z",
+   "countries": [
+    "United Arab Emirates",
+    "Russia",
+    "Ukraine"
    ]
   }
  ]
