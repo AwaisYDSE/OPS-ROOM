@@ -1,10 +1,131 @@
 {
- "updated": "2026-11-02T10:03:01.721685Z",
+ "updated": "2026-11-03T10:08:04.600439Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "pakistan-assumes-chairmanship-of-sco-interbank-c",
+   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "沙特阿拉伯遭遇袭击后亚洲杯推迟",
+   "summary": "由于主办国发生一系列致命袭击事件，2027年沙特阿拉伯亚洲杯被推迟。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "亚洲杯因沙特阿拉伯遭遇袭击而推迟。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "由于主办国发生一系列致命袭击事件，2027年沙特阿拉伯亚洲杯被推迟。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T07:15:17Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "u-s-military-carries-out-limited-strikes-on-iran",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "美国官员称，美军对伊朗格什姆岛进行了有限打击",
+   "summary": "美国官员称，美军对伊朗格什姆岛进行了有限打击",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国官员称，美国军方对伊朗格什姆岛进行了有限的打击。"
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:18:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-russia-and-ukraine-to-resume-peace-talks-in-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "维特科夫表示，美国、俄罗斯和乌克兰将于下周在阿布扎比恢复和平谈判",
+   "summary": "维特科夫表示，美国、俄罗斯和乌克兰将于下周在阿布扎比恢复和平谈判",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "维特科夫表示，美国、俄罗斯和乌克兰将于下周在阿布扎比恢复和谈。"
+    }
+   ],
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09zVHBJLUx0cFhYX1paZnhnT1RqYWx6bF9idUtVNFZ3TVpvd0R0OFE2WTdYWW1MeXFpWGhBR3FWS1c0ZjNlWW8xQW5ZYWlFV2pwR0NISTdiSFh2alU5V05kYUdNVjBFTXQxbFFPZ0RpMnZDVVczbzRESFNTWENLeWo3Mm81STZJVEluXzgtU2RrUQ?oc=5",
+   "type": null,
+   "time": "2026-11-03T03:12:58Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "美国在中期选举前袭击伊朗岛屿",
+   "summary": "据英国广播公司美国合作伙伴哥伦比亚广播公司称，美国官员称对格什姆岛的袭击是有限的和防御性的。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国在中期选举前袭击伊朗岛屿。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "据英国广播公司美国合作伙伴哥伦比亚广播公司称，美国官员称对格什姆岛的袭击是有限的和防御性的。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T03:39:08Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-reduces-fuel-rates-as-global-oil-prices",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -12,12 +133,133 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "巴基斯坦担任上合组织银行联合体2026-27年度轮值主席国",
-   "summary": "巴基斯坦财政部周一表示，巴基斯坦已担任上海合作组织银行联合体（SCO-IBC）2026-27年度主席国。 HBL 主席苏丹·阿里·阿拉纳 (Sultan Ali Allana) 已接任该财团在此期间的负责人。",
+   "headline": "由于美伊和平希望，全球油价下跌，巴基斯坦降低燃油价格",
+   "summary": "由于美伊和平希望，全球油价下跌，巴基斯坦降低燃油价格",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦担任上合组织银联体2026-27年度轮值主席国。"
+     "text": "由于美伊和平希望导致全球油价下跌，巴基斯坦降低了燃油价格。"
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlR1eVUwcVJBWXl0Q082b2xxZWF1TTJHQmhRM0JhV3JnaHFZb2tXU0NZZ2dIQkN0M0lKTktpdXpBOC1RU3pZNG9KUmdOVkdvbllHc2FjMldsS3RuRlhhdzg2M1l3X29nY0RlcW1uM2t0M3BrMmdPN1RRN2FCM1VabldpcWhzbEo3NllZa1AzMXlReG5yczlfTW0zRzFWOHdJcFVZb0VUcGpjR1VHODU2TVlZcUU1cHNIS3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:44:23Z",
+   "countries": [
+    "Pakistan",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "cricket-world-cup-india-vs-pakistan-gets-more-ti",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "板球世界杯：印度对阵巴基斯坦的门票申请量比决赛还要多",
+   "summary": "10 月 10 日在约翰内斯堡举行的小组赛中，ICC 收到了 840 万份门票申请，拥有 34,000 个座位。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "板球世界杯：印度对阵巴基斯坦的门票申请量比决赛还要多。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "10 月 10 日在约翰内斯堡举行的小组赛中，ICC 收到了 840 万份门票申请，拥有 34,000 个座位。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T09:12:40Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "here-s-how-pakistan-suffered-40-billion-in-econo",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "巴基斯坦因与印度贸易暂停而蒙受400亿美元经济损失",
+   "summary": "巴基斯坦因与印度贸易暂停而蒙受400亿美元经济损失",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以下是巴基斯坦因与印度贸易暂停而遭受 400 亿美元经济损失的情况。"
+    }
+   ],
+   "source": "The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1NSUVNRa3ZmSDhGTTY0QWxjNUotR3FyT1VNdWRKMG5XN0w2bUVWRVd1Z0ZzMF9qcHBZS29WeWxoMzY4WmZlVy05bDhYSk9kcWdka1NOUDJzaVRCTUFTM29CNmNaTFU5UWVkZXVuWThSZHp4OFktVHF2NHNialFjWTJUQ2lEWlRGM3ZkWTZ5ZlI2bWpQZjVUN3FFUS1YNDVvcDdRMjJxUEtNemNFZXdxNnJHWFFGOVI3MG5hazBmUXdheDQ2cXlWSXpvYkFwc3dlWWxJeTcwT0Y2OU5o0gHiAUFVX3lxTE02cUhkM21XRm1QOFVPSjdCMUwzZFNNRlFaVkxTQ1dxVEFHUzJ2LUQzTzYyRmg5OVpDVlhaVXM3RlM2dThaemZOOUhKLXYxR3p6enJiX1N6V0x5ZXl1cFZTUThsODBua3VvWlFFVko5cVMwYVExdEtqLVZSWGxVeXZzdW9DWTZ1SWtZNWtlUDVfVHZwUmhxdk4xcEE5QUtUYjdpY1RMWi16ME95OHh0SmdlblNfMGxDTkRwbWZvaDZqdFlLR2ZxSXc5Vl8zUENHb2pkd1RiZV9VcXBUa2RWX08zZEE?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:39:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "when-will-we-know-the-us-midterm-election-result",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "美国中期选举结果什么时候能知道？",
+   "summary": "第一批结果预计将于周二公布，投票将于格林尼治标准时间 23:00 开始结束。但最终结果可能需要几天时间。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国中期选举结果什么时候能知道？"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "好的。细节？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "第一批结果预计将于周二公布，投票将于格林尼治标准时间 23:00 开始结束。但最终结果可能需要几天时间。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:27:21Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-to-remove-rwanda-and-south-africa-from-us-",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "特朗普将卢旺达和南非从美国贸易协定中删除",
+   "summary": "此举是在卢旺达国防部受到美国财政部制裁后不到一周发生的。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "特朗普将卢旺达和南非从美国贸易协定中删除。"
     },
     {
      "role": "COMMANDER",
@@ -25,131 +267,46 @@
     },
     {
      "role": "ANALYST",
-     "text": "巴基斯坦财政部周一表示，巴基斯坦已担任上海合作组织银行联合体（SCO-IBC）2026-27年度主席国。 HBL 主席苏丹·阿里·阿拉纳 (Sultan Ali Allana) 已接任该财团在此期间的负责人。"
+     "text": "此举是在卢旺达国防部受到美国财政部制裁后不到一周发生的。"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T07:25:43Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "oil-prices-slide-more-than-3-as-trump-signals-mo",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "特朗普暗示伊朗外交需要更多时间，油价下跌逾3%",
-   "summary": "特朗普暗示伊朗外交需要更多时间，油价下跌逾3%",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着特朗普暗示伊朗外交需要更多时间，油价下跌逾 3%。"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-02T07:47:54Z",
+   "time": "2026-11-03T03:00:36Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "South Africa"
    ]
   },
   {
-   "id": "abu-dhabi-s-adnoc-g42-sign-deal-with-openai-as-s",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Sam Altman 前往阿联酋期间，阿布扎比 ADNOC、G42 与 OpenAI 签署协议",
-   "summary": "Sam Altman 前往阿联酋期间，阿布扎比 ADNOC、G42 与 OpenAI 签署协议",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着 Sam Altman 前往阿联酋，阿布扎比的 ADNOC、G42 与 OpenAI 签署协议。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:40:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-condemns-attack-on-qatar-s-lng-carrier-in-gu",
-   "country": "Qatar",
-   "label": "卡塔尔",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
+   "id": "us-has-conducted-defensive-strikes-on-iranian-ta",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "阿联酋谴责海湾地区卡塔尔液化天然气运输船遇袭事件",
-   "summary": "阿联酋谴责海湾地区卡塔尔液化天然气运输船遇袭事件",
+   "headline": "美国官员称，美国对霍尔木兹海峡的伊朗目标进行了防御性打击",
+   "summary": "美国官员称，美国对霍尔木兹海峡的伊朗目标进行了防御性打击",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "阿联酋谴责卡塔尔在海湾的液化天然气运输船遇袭事件。"
+     "text": "美国官员称，美国对霍尔木兹海峡的伊朗目标进行了防御性打击。"
     }
    ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjIwSVFUelVmeUZGUnJQU1NxcUEydjE1Y05qb2dqd0Y4Vlc5NTR5b0haRlYxRnl1cERnZmdWTXQ5cl9UekRuTnljanotYkdya3BHVEhhWXdZd1J1LWh6TndBamFVVVgzaV90VGNBSzJaYzgzUDNtcHAwZnlyNUkwS3JYQkJCWUt3Umd0YThUdlJkS3NtN1BocGZ6RnBBRXVCbGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
    "type": null,
-   "time": "2026-11-01T23:44:00Z",
+   "time": "2026-11-03T02:38:00Z",
    "countries": [
-    "Qatar",
-    "United Arab Emirates"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "nuclear-radiation-in-russia-ukraine-no-just-hack",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "俄罗斯、乌克兰的核辐射？不，只是被黑的警告警报",
-   "summary": "警告令乌克兰民众感到震惊，但当局表示，他们在一小时内消除了混乱。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯、乌克兰的核辐射？不，只是被黑客入侵的警告警报。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "现在情况如何？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "警告令乌克兰民众感到震惊，但当局表示，他们在一小时内消除了混乱。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-02T09:35:46Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ukraine-russia-report-hacking-attacks-on-emergen",
+   "id": "russian-attack-on-ukraine-aid-hub-kills-29-as-us",
    "country": "Ukraine",
    "label": "乌克兰",
    "lat": 49.0,
@@ -157,351 +314,240 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "奥列什基休战结束后，乌克兰和俄罗斯报告紧急警报应用程序遭到黑客攻击",
-   "summary": "奥列什基休战结束后，乌克兰和俄罗斯报告紧急警报应用程序遭到黑客攻击",
+   "headline": "美国宣布新的和平谈判，俄罗斯对乌克兰援助中心的袭击造成29人死亡",
+   "summary": "官员们表示，至少有九枚 3000 公斤重的空投炸弹袭击了乌克兰南部的一个村庄，总统称这是一次“极其可怕”的袭击。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "奥列什基休战结束后，乌克兰和俄罗斯报告紧急警报应用程序遭到黑客攻击。"
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
-   "type": null,
-   "time": "2026-11-02T09:33:08Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "houthi-attacks-and-saudi-arabia-s-security-dilem",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞武装袭击与沙特阿拉伯的安全困境",
-   "summary": "胡塞武装袭击与沙特阿拉伯的安全困境",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装袭击与沙特阿拉伯的安全困境。"
-    }
-   ],
-   "source": "Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm4wQ3BuSlpXSC0wWUduZU5PSl9sb2otQ0lHd2V5MlFFcEgtQmxRYkhDTnN5M192a0pqejZBbElDWWFtSHQxOGZXdFpIcjBCamhYTk5WWE5aTW1SVm9VLTFUWGxucFlGWnZORmdfWVZTbmFLVGxWMzBIeENZeGEybENR?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:05:58Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-drops-almost-4-on-hopes-of-progress-in-talks",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "由于希望结束美伊战争的谈判取得进展，油价下跌近 4%",
-   "summary": "由于希望结束美伊战争的谈判取得进展，油价下跌近 4%",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "由于希望结束美伊战争的谈判取得进展，油价下跌近 4%。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-   "type": null,
-   "time": "2026-11-01T23:13:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-a-missile-as-figh",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "也门焦夫地区战斗激烈，沙特领导的联军拦截一枚导弹",
-   "summary": "胡塞武装附属媒体报道称，荷台达市的袭击造成七人受伤。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "也门焦夫的战斗愈演愈烈，沙特领导的联军拦截了一枚导弹。"
+     "text": "在美国宣布新的和平谈判之际，俄罗斯对乌克兰援助中心的袭击造成 29 人死亡。"
     },
     {
      "role": "COMMANDER",
-     "text": "确认了吗？"
+     "text": "背后是谁？"
     },
     {
      "role": "ANALYST",
-     "text": "胡塞武装附属媒体报道称，荷台达市的袭击造成七人受伤。"
+     "text": "官员们表示，至少有九枚 3000 公斤重的空投炸弹袭击了乌克兰南部的一个村庄，总统称这是一次“极其可怕”的袭击。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
    "type": null,
-   "time": "2026-11-02T09:43:59Z",
+   "time": "2026-11-03T09:45:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-around-3-amid-iran-war-peace-tal",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "伊朗战争和平谈判报道导致油价下跌约 3% |沙巴日报",
-   "summary": "伊朗战争和平谈判报道导致油价下跌约 3% |沙巴日报",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗战争和平谈判报道导致油价下跌约 3% |沙巴日报。"
-    }
-   ],
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhJdU5yVksyRUJIeFMtRGJSQU9FNnFDZVMxM1VMdlhSVU1oLVZkSlpJc1p5b18wcGpuY1RkdkNDTHBOVnlGNjROTHp5bjh0QUFGMDcxU0s3TkZFb2FZYWVDQThnVWQxUzFUaVFOSmhieFpVNURLbG4yYlhKY0xfQ1VKMXVvWFozMU4tRmUtcFhOUDFNNnBkcGtUU0oxdzVhWF9zemwxbnnSAagBQVVfeXFMTmF4SXVOclZLMkVCSHhTLURiUkFPRTZxQ2VTMTNVTHZYUlVNaC1WZEpaSXNaeW9fMHBqbmNUZHZDQ0xwTlZ5RjY0Tkx6eW44dEFBRjA3MVNLN05GRW9hWWFlQ0E4Z1VkMVMxVGlRTkpoYnhaVTVES2xuMmJYSmNMX0NVSjF1b1haMzFOLUZlLXBYTlAxTTZwZHBrVFNKMXc1YVhfc3psMW55?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:50:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-destroyed-houthi-mis",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "沙特领导的联军称摧毁了针对沙特南部地区的胡塞武装导弹",
-   "summary": "沙特领导的联军称摧毁了针对沙特南部地区的胡塞武装导弹",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特领导的联军称其摧毁了针对沙特南部地区的胡塞武装导弹。"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0V5emQxTm5BcEdmeWVrSjRFNWRIdUpfT2ZjZ0YzYmN3MTQ2UGZhRnVrWmdaTDdlRmxTYkN1Ml9tRGl1a3p2dWNXeF9UZmdzbHpfSW90TFd6c3dSTHhVUVVuZ0xXeW9GSVdsM2JZckRHODVxZWNpZVpEcDRUOU9lLVhvZ284U2dyMnRiT2ZUWmJpeDZsRE5IbmhfcURLMEp6SnYxay1yNjRNYTE0M1VSM0RUeml1YkZ4Y0RTNy1GOFpwZVVBTmpN?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:13:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "巴基斯坦液化天然气货物在霍尔木兹附近遭到袭击得到了伊朗的批准",
-   "summary": "巴基斯坦液化天然气货物在霍尔木兹附近遭到袭击得到了伊朗的批准",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦液化天然气货物在霍尔木兹附近遭到袭击得到了伊朗的批准。"
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:21Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "美国-以色列-伊朗战争：阿联酋居民今天需要了解什么（2026 年 11 月 2 日）",
-   "summary": "美国-以色列-伊朗战争：阿联酋居民今天需要了解什么（2026 年 11 月 2 日）",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国-以色列-伊朗战争：阿联酋居民今天需要了解的信息（2026 年 11 月 2 日）。"
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXQyTENzVkpNZ1phbVFfM240cEt1eE40TG5QdzM5RVRaM0k1Z1A0ZFJ5dWJGS2ZlNWxNZlBtVTYzSTg0cHVsSHNJUjZ2RFdLaXBBekE1NHZqdzhpcWFUX0JjM1VkU21ybVhoSjdkcFpvOEVKVHNVOW5hRm9fV25IS3R3bkhweUJmeGFkZ0ZBNUZ1YlZBTDBiUHE5am5qVDdra3pUcVo2SdIBtwFBVV95cUxPcDR0aTBRejZ1SjlyUVNHWTFJaG1qazRobzBFbV9fOWVDWU5xdE1pQ05FREsyNkVyd2llZmRIMW4weFlTdXplSVFXaFo5ODl2MGF5WHVwQm5DRUk0VllqbG9jVDR4dHRGSmZsbEEwQ1RodFpoY1pxMG1TeGI3VThxTUh0ZndDSjNfYm12am5vLUdhajJXdWNyUXVNUUhYcmN6M1dzczlYNWkyZWRfQlo2LWY5cE5YQXc?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:44:57Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-says-hoping-for-breakthrough-yet-braced-for-",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "阿联酋表示希望在伊朗与美国的战争中取得突破，但“为最坏的情况做好准备”",
-   "summary": "阿联酋表示希望在伊朗与美国的战争中取得突破，但“为最坏的情况做好准备”",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋表示，希望在伊朗与美国的战争中取得突破，但“为最坏的情况做好准备”。"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUdBYlNXM2QwMHYxeldZaDdaa0lWWXhHeEVOdWUtRl9XTDZEVWx0QnJQbHotUGR3Wk0yMlBiTm1oM01ZaWRqcnRfMVdFWThkYnFFR2RlYWtWcVB6UzVzanF2Z1BCUzFERDNzV2xJdnRabElaUVA1V2h6X1IxRDF1WnBWVUVFMXo4RTYwZ0dMdlV6clJQaTFMVTNnQ3ltSUJlM3Q0dVJYbFB0TnN1X0xCS0V3bWY?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:28:00Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
     "United States of America"
    ]
   },
   {
-   "id": "ukmto-says-two-projectiles-hit-tanker-off-saudi-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "UKMTO 称两枚射弹击中沙特阿拉伯海夫吉角附近的油轮：5 家媒体如何报道此事",
-   "summary": "UKMTO 称两枚射弹击中沙特阿拉伯海夫吉角附近的油轮：5 家媒体如何报道此事",
+   "id": "fighting-returns-to-kherson-region-after-longest",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "乌克兰战争停火时间最长后，赫尔松地区再次陷入战斗",
+   "summary": "尽管史无前例，但为期六天的休战并没有改变持续不断的战争的更广泛轨迹。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UKMTO 称两枚射弹击中了沙特阿拉伯海夫吉角附近的油轮：5 个媒体如何报道此事。"
-    }
-   ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGhpbGRHY2lCclVFbVVzclJDRmNNdkgwTmY3Q3hPSF9xSm5yMDlycUJ6bDhvUTBpMEJwVHo3SkxvclhPSGI2blFtRVRSbmFTNlY0dmp6NEpfV180UEo0QTVYSXRCRE9KX09KU3NRaXpTeUk3N1FEQVV0enBOeWthZVhUNzZGUDJHUVpnc3VOOFFfcm10ZXlnLXBOaFc3bGhYRm1YblpBUnc1WGhHeTViUUNDLWItTGR1cV9vRkZBbnRoRWNScUd5Tk1EejRoRGE0akRxNnRaSzU0VGNsOVZ4Tg?oc=5",
-   "type": null,
-   "time": "2026-11-02T05:21:17Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "pakistan-outperforms-vietnam-in-rice-exports",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "巴基斯坦大米出口优于越南",
-   "summary": "拉合尔：面对不断升级的地缘政治冲突和全球航运动荡，巴基斯坦的优质巴斯马蒂大米出口表现出非凡的韧性，吸收了美伊冲突和更广泛的海湾地区动荡的冲击波，保持了",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦在大米出口方面优于越南。"
+     "text": "乌克兰战争停火时间最长后，赫尔松地区再次陷入战斗。"
     },
     {
      "role": "COMMANDER",
-     "text": "为什么要搬家？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "拉合尔：面对不断升级的地缘政治冲突和全球航运动荡，巴基斯坦的优质巴斯马蒂大米出口表现出非凡的韧性，吸收了美伊冲突和更广泛的海湾地区动荡的冲击波，保持了"
+     "text": "尽管史无前例，但为期六天的休战并没有改变持续不断的战争的更广泛轨迹。"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T01:06:34Z",
+   "time": "2026-11-02T17:33:19Z",
    "countries": [
-    "Pakistan",
-    "Vietnam",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-oil-refineries-targeted-as-ukraine-renew",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "乌克兰再次发动袭击，俄罗斯炼油厂成为目标",
-   "summary": "乌克兰再次发动袭击，俄罗斯炼油厂成为目标",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "乌克兰再次发动袭击，俄罗斯炼油厂成为目标。"
-    }
-   ],
-   "source": "www.tmgm.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWxWYVNIZERrdkE4LWY4V2pmSWlaM1FJZm50c0ZYUFpaOWZkY1Q3RlFQaFdxSlMtMFF5Slo1Z1dPYXZvM0dZbFoyY1FjSHh4RVUxVVNPZGRETkF4YUtBWHI1cmxLdDhvREJ1dHkzM2gwZEtwckY4bFlnV0doek0ybjRuNGk0cWhuT01Sc0tXOHYydzBoUFc1WkVDNzhHRmg2NVJKSDBORjV5NWZBN2V0cmxONXR3dGNmYnc?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:36:46Z",
-   "countries": [
-    "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "magrabi-to-buy-uae-s-dubai-optical-adding-15-sto",
+   "id": "north-korea-denies-being-behind-record-6-3bn-bin",
+   "country": "North Korea",
+   "label": "朝鲜",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手",
+   "summary": "美国政府机构和网络分析人士指责平壤制造了这起破纪录的抢劫案。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "朝鲜否认是创纪录的 63 亿美元币安黑客攻击的幕后黑手。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "美国政府机构和网络分析人士指责平壤制造了这起破纪录的抢劫案。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T08:33:20Z",
+   "countries": [
+    "North Korea",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-plans-more-energy-channels-as-war-disrupts-e",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "MAGRABi 收购阿联酋迪拜眼镜公司，新增 15 家门店",
-   "summary": "MAGRABi 收购阿联酋迪拜眼镜公司，新增 15 家门店",
+   "headline": "由于战争中断了出口路线，阿联酋计划增加能源渠道",
+   "summary": "由于战争中断了出口路线，阿联酋计划增加能源渠道",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "MAGRABi 收购阿联酋迪拜眼镜公司 (Dubai Optical)，新增 15 家门店。"
+     "text": "由于战争扰乱了出口路线，阿联酋计划增加更多能源渠道。"
     }
    ],
-   "source": "Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWkwTlJKSUg1UVhnSkZKYmFMUXR4LUpEcTNBU3Nwd285eWVIUDByRUwtMGhuVEhKN193ZnllTkxCWmZJb1VDbjc0OFdmSGxvazJQaTBjSEUxbjJZQ04xZWR5OXM0eUlKN19Gdnk5Vm8zV0VmdkcxclgxcU5PUzFldkpJb0djRnpPNkt4TEpn?oc=5",
+   "source": "The Circuit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pKT1dlRzc1UG1hY1BITVZpMW54YVhpV290U0xaMlgwUWlSLWU1M2hMYmxhZkhWM3VLeUxRUFUxNHZOQzVvUU9Zd2o5Q1FXeVRCR2ktY2VoUnpsQVpESWpENVBqdWtNMTF6MWRDSTU0TVBoSUUwejAzc0EzMHd4SVh1dWhULUFreFlacWxsQXY2WmhiSlo4ag?oc=5",
    "type": null,
-   "time": "2026-11-02T06:14:03Z",
+   "time": "2026-11-03T10:05:04Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "aramco-profit-beats-estimates-after-refining-boo",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "炼油繁荣、石油价格飙升后，沙特阿美利润超出预期",
+   "summary": "炼油繁荣、石油价格飙升后，沙特阿美利润超出预期",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "炼油繁荣、石油价格飙升后，阿美公司利润超出预期。"
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZidUVNR21lLTV0emU0cjY4MmRHRDRNNHl4ODdlN25Ea1hkQ1ExQVhxNE1uWmo1TzRlUm5DR1c2a0dKU25uN3V3d2JxTU9pQkJHaGx3bUZRaUNfWVRaZDBTOFd4QjZGaEx3WkhleG9QWERyTEZ0Vi1RenV2TVBtUWtUUGhBNkEtaXpsc0sxZ3ZSNzZRWnBqU19kWE1OWVZiN2VFOVpNNENVS19LdklN?oc=5",
+   "type": null,
+   "time": "2026-11-03T09:35:50Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "tenerife-striker-de-miguel-dies-after-on-field-c",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "特内里费前锋德米格尔在场内相撞后身亡",
+   "summary": "特内里费岛前锋赫苏斯·德米格尔在西班牙乙级联赛中遭遇场内碰撞后身亡。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "特内里费前锋德米格尔在场内相撞后身亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "特内里费岛前锋赫苏斯·德米格尔在西班牙乙级联赛中遭遇场内碰撞后身亡。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T09:09:18Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "oil-prices-rebound-as-u-s-strikes-on-iran-renew-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "美国对伊朗的打击再次引发供应担忧，油价反弹",
+   "summary": "美国对伊朗的打击再次引发供应担忧，油价反弹",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于美国对伊朗的打击再次引发供应担忧，油价反弹。"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:45:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "one-dead-after-two-helicopters-collide-near-moun",
+   "country": "Nepal",
+   "label": "尼泊尔",
+   "lat": 28.4,
+   "lon": 84.1,
+   "flag": "🇳🇵",
+   "severity": "critical",
+   "category": "World",
+   "headline": "尼泊尔珠穆朗玛峰附近两架直升机相撞 造成一人死亡",
+   "summary": "当局证实，一名 47 岁印度国民死亡，两人受伤。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "尼泊尔珠穆朗玛峰附近两架直升机相撞，造成一人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "当局证实，一名 47 岁印度国民死亡，两人受伤。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:06:07Z",
+   "countries": [
+    "Nepal",
+    "India"
    ]
   }
  ]

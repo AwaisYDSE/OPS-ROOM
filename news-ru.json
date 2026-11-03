@@ -1,10 +1,131 @@
 {
- "updated": "2026-11-02T10:03:01.721685Z",
+ "updated": "2026-11-03T10:08:04.600439Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "pakistan-assumes-chairmanship-of-sco-interbank-c",
+   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Кубок Азии перенесен из-за нападений на Саудовскую Аравию",
+   "summary": "Чемпионат Азии 2027 года в Саудовской Аравии перенесен из-за серии смертельных нападений на принимающую страну.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Чемпионат Азии перенесен из-за нападений на Саудовскую Аравию."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Чемпионат Азии 2027 года в Саудовской Аравии перенесен из-за серии смертельных нападений на принимающую страну."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T07:15:17Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "u-s-military-carries-out-limited-strikes-on-iran",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Американские военные нанесли ограниченные удары по иранскому острову Кешм, заявляют официальные лица США",
+   "summary": "Американские военные нанесли ограниченные удары по иранскому острову Кешм, заявляют официальные лица США",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Американские военные наносят ограниченные удары по иранскому острову Кешм, заявляют официальные лица США."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:18:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-russia-and-ukraine-to-resume-peace-talks-in-",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "США, Россия и Украина возобновят мирные переговоры в Абу-Даби на следующей неделе, говорит Виткофф",
+   "summary": "США, Россия и Украина возобновят мирные переговоры в Абу-Даби на следующей неделе, говорит Виткофф",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "США, Россия и Украина возобновят мирные переговоры в Абу-Даби на следующей неделе, говорит Виткофф."
+    }
+   ],
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09zVHBJLUx0cFhYX1paZnhnT1RqYWx6bF9idUtVNFZ3TVpvd0R0OFE2WTdYWW1MeXFpWGhBR3FWS1c0ZjNlWW8xQW5ZYWlFV2pwR0NISTdiSFh2alU5V05kYUdNVjBFTXQxbFFPZ0RpMnZDVVczbzRESFNTWENLeWo3Mm81STZJVEluXzgtU2RrUQ?oc=5",
+   "type": null,
+   "time": "2026-11-03T03:12:58Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "США нанесли удар по иранскому острову накануне промежуточных выборов",
+   "summary": "По данным CBS, американского партнера BBC, официальные лица США охарактеризовали нападения на остров Кешм как ограниченные и оборонительные.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "США нанесли удар по иранскому острову накануне промежуточных выборов."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "По данным CBS, американского партнера BBC, официальные лица США охарактеризовали нападения на остров Кешм как ограниченные и оборонительные."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T03:39:08Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-reduces-fuel-rates-as-global-oil-prices",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
@@ -12,12 +133,133 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Пакистан принимает на себя председательство в Межбанковском консорциуме ШОС на 2026-2027 годы",
-   "summary": "Пакистан принял на себя председательство в Межбанковском консорциуме Шанхайской организации сотрудничества (ШОС-МДС) на 2026-2027 годы, сообщило министерство финансов в понедельник. Председатель HBL Султан Али Аллана занял пост главы консорциума на этот период.",
+   "headline": "Пакистан снижает тарифы на топливо, поскольку мировые цены на нефть падают на фоне надежд на мир между США и Ираном",
+   "summary": "Пакистан снижает тарифы на топливо, поскольку мировые цены на нефть падают на фоне надежд на мир между США и Ираном",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пакистан примет на себя председательство в Межбанковском консорциуме ШОС на 2026-2027 годы."
+     "text": "Пакистан снижает тарифы на топливо, поскольку мировые цены на нефть падают на фоне надежд на мир между США и Ираном."
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlR1eVUwcVJBWXl0Q082b2xxZWF1TTJHQmhRM0JhV3JnaHFZb2tXU0NZZ2dIQkN0M0lKTktpdXpBOC1RU3pZNG9KUmdOVkdvbllHc2FjMldsS3RuRlhhdzg2M1l3X29nY0RlcW1uM2t0M3BrMmdPN1RRN2FCM1VabldpcWhzbEo3NllZa1AzMXlReG5yczlfTW0zRzFWOHdJcFVZb0VUcGpjR1VHODU2TVlZcUU1cHNIS3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:44:23Z",
+   "countries": [
+    "Pakistan",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "cricket-world-cup-india-vs-pakistan-gets-more-ti",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Чемпионат мира по крикету: Индия против Пакистана получает больше запросов на билеты, чем финал",
+   "summary": "ICC получила 8,4 миллиона запросов на билеты на 34 000 мест на матч группового этапа 10 октября в Йоханнесбурге.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Чемпионат мира по крикету: Индия против Пакистана получает больше запросов на билеты, чем финал."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ICC получила 8,4 миллиона запросов на билеты на 34 000 мест на матч группового этапа 10 октября в Йоханнесбурге."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T09:12:40Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "here-s-how-pakistan-suffered-40-billion-in-econo",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Вот как Пакистан понес экономические потери в размере 40 миллиардов долларов из-за приостановки торговли с Индией",
+   "summary": "Вот как Пакистан понес экономические потери в размере 40 миллиардов долларов из-за приостановки торговли с Индией",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Вот как Пакистан понес экономические потери в размере 40 миллиардов долларов из-за приостановки торговли с Индией."
+    }
+   ],
+   "source": "The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1NSUVNRa3ZmSDhGTTY0QWxjNUotR3FyT1VNdWRKMG5XN0w2bUVWRVd1Z0ZzMF9qcHBZS29WeWxoMzY4WmZlVy05bDhYSk9kcWdka1NOUDJzaVRCTUFTM29CNmNaTFU5UWVkZXVuWThSZHp4OFktVHF2NHNialFjWTJUQ2lEWlRGM3ZkWTZ5ZlI2bWpQZjVUN3FFUS1YNDVvcDdRMjJxUEtNemNFZXdxNnJHWFFGOVI3MG5hazBmUXdheDQ2cXlWSXpvYkFwc3dlWWxJeTcwT0Y2OU5o0gHiAUFVX3lxTE02cUhkM21XRm1QOFVPSjdCMUwzZFNNRlFaVkxTQ1dxVEFHUzJ2LUQzTzYyRmg5OVpDVlhaVXM3RlM2dThaemZOOUhKLXYxR3p6enJiX1N6V0x5ZXl1cFZTUThsODBua3VvWlFFVko5cVMwYVExdEtqLVZSWGxVeXZzdW9DWTZ1SWtZNWtlUDVfVHZwUmhxdk4xcEE5QUtUYjdpY1RMWi16ME95OHh0SmdlblNfMGxDTkRwbWZvaDZqdFlLR2ZxSXc5Vl8zUENHb2pkd1RiZV9VcXBUa2RWX08zZEE?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:39:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "when-will-we-know-the-us-midterm-election-result",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Когда мы узнаем результаты промежуточных выборов в США?",
+   "summary": "Первые результаты ожидаются во вторник, поскольку избирательные участки начнут закрываться в 23:00 по Гринвичу. Но окончательные результаты могут занять несколько дней.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Когда мы узнаем результаты промежуточных выборов в США?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Хорошо. Подробности?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Первые результаты ожидаются во вторник, поскольку избирательные участки начнут закрываться в 23:00 по Гринвичу. Но окончательные результаты могут занять несколько дней."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:27:21Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-to-remove-rwanda-and-south-africa-from-us-",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Трамп исключит Руанду и ЮАР из торгового соглашения с США",
+   "summary": "Этот шаг был предпринят всего через неделю после того, как министерство обороны Руанды подверглось санкциям со стороны Министерства финансов США.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Трамп исключит Руанду и Южную Африку из торгового соглашения с США."
     },
     {
      "role": "COMMANDER",
@@ -25,131 +267,46 @@
     },
     {
      "role": "ANALYST",
-     "text": "Пакистан принял на себя председательство в Межбанковском консорциуме Шанхайской организации сотрудничества (ШОС-МДС) на 2026-2027 годы, сообщило министерство финансов в понедельник. Председатель HBL Султан Али Аллана занял пост главы консорциума на этот период."
+     "text": "Этот шаг был предпринят всего через неделю после того, как министерство обороны Руанды подверглось санкциям со стороны Министерства финансов США."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T07:25:43Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "oil-prices-slide-more-than-3-as-trump-signals-mo",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на нефть упали более чем на 3%, поскольку Трамп дает больше времени для иранской дипломатии",
-   "summary": "Цены на нефть упали более чем на 3%, поскольку Трамп дает больше времени для иранской дипломатии",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Цены на нефть упали более чем на 3%, поскольку Трамп сигнализирует о большем времени для иранской дипломатии."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-02T07:47:54Z",
+   "time": "2026-11-03T03:00:36Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "South Africa"
    ]
   },
   {
-   "id": "abu-dhabi-s-adnoc-g42-sign-deal-with-openai-as-s",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "ADNOC и G42 в Абу-Даби подписывают соглашение с OpenAI, пока Сэм Альтман едет в ОАЭ",
-   "summary": "ADNOC и G42 в Абу-Даби подписывают соглашение с OpenAI, пока Сэм Альтман едет в ОАЭ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ADNOC и G42 в Абу-Даби подписывают соглашение с OpenAI, пока Сэм Альтман едет в ОАЭ."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:40:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-condemns-attack-on-qatar-s-lng-carrier-in-gu",
-   "country": "Qatar",
-   "label": "КАТАР",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
+   "id": "us-has-conducted-defensive-strikes-on-iranian-ta",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "ОАЭ осуждают нападение на катарский танкер СПГ в Персидском заливе",
-   "summary": "ОАЭ осуждают нападение на катарский танкер СПГ в Персидском заливе",
+   "headline": "США нанесли оборонительные удары по иранским объектам в Ормузском проливе, заявил представитель США",
+   "summary": "США нанесли оборонительные удары по иранским объектам в Ормузском проливе, заявил представитель США",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ОАЭ осуждают нападение на катарский танкер СПГ в Персидском заливе."
+     "text": "США нанесли оборонительные удары по иранским объектам в Ормузском проливе, сообщил представитель США."
     }
    ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjIwSVFUelVmeUZGUnJQU1NxcUEydjE1Y05qb2dqd0Y4Vlc5NTR5b0haRlYxRnl1cERnZmdWTXQ5cl9UekRuTnljanotYkdya3BHVEhhWXdZd1J1LWh6TndBamFVVVgzaV90VGNBSzJaYzgzUDNtcHAwZnlyNUkwS3JYQkJCWUt3Umd0YThUdlJkS3NtN1BocGZ6RnBBRXVCbGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
    "type": null,
-   "time": "2026-11-01T23:44:00Z",
+   "time": "2026-11-03T02:38:00Z",
    "countries": [
-    "Qatar",
-    "United Arab Emirates"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "nuclear-radiation-in-russia-ukraine-no-just-hack",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "Ядерная радиация в России, Украине? Нет, просто взломали предупреждающие оповещения",
-   "summary": "Предупреждения пугают людей в Украине, но власти утверждают, что им удалось устранить путаницу менее чем за час.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ядерная радиация в России, Украине? Нет, просто взломали предупреждающие оповещения."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Какова ситуация сейчас?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Предупреждения пугают людей в Украине, но власти утверждают, что им удалось устранить путаницу менее чем за час."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-02T09:35:46Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ukraine-russia-report-hacking-attacks-on-emergen",
+   "id": "russian-attack-on-ukraine-aid-hub-kills-29-as-us",
    "country": "Ukraine",
    "label": "УКРАИНА",
    "lat": 49.0,
@@ -157,351 +314,240 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Украина и Россия сообщают о хакерских атаках на приложения экстренного оповещения после окончания Олешковского перемирия",
-   "summary": "Украина и Россия сообщают о хакерских атаках на приложения экстренного оповещения после окончания Олешковского перемирия",
+   "headline": "Нападение России на центр помощи Украине привело к гибели 29 человек, поскольку США объявляют о новых мирных переговорах",
+   "summary": "Официальные лица заявляют, что по меньшей мере девять 3000-килограммовых авиабомб попали в южноукраинское село, что, по словам президента, было \"совершенно ужасающим\" нападением.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Украина и Россия сообщают о хакерских атаках на приложения экстренного оповещения после окончания Олешковского перемирия."
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
-   "type": null,
-   "time": "2026-11-02T09:33:08Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "houthi-attacks-and-saudi-arabia-s-security-dilem",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Атаки хуситов и дилемма безопасности Саудовской Аравии",
-   "summary": "Атаки хуситов и дилемма безопасности Саудовской Аравии",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Атаки хуситов и дилемма безопасности Саудовской Аравии."
-    }
-   ],
-   "source": "Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm4wQ3BuSlpXSC0wWUduZU5PSl9sb2otQ0lHd2V5MlFFcEgtQmxRYkhDTnN5M192a0pqejZBbElDWWFtSHQxOGZXdFpIcjBCamhYTk5WWE5aTW1SVm9VLTFUWGxucFlGWnZORmdfWVZTbmFLVGxWMzBIeENZeGEybENR?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:05:58Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-drops-almost-4-on-hopes-of-progress-in-talks",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Нефть упала почти на 4% на надеждах на прогресс в переговорах по прекращению войны между США и Ираном",
-   "summary": "Нефть упала почти на 4% на надеждах на прогресс в переговорах по прекращению войны между США и Ираном",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Нефть падает почти на 4% на надеждах на прогресс в переговорах по прекращению американо-иранской войны."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-   "type": null,
-   "time": "2026-11-01T23:13:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-a-missile-as-figh",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Коалиция под руководством Саудовской Аравии перехватила ракету во время боевых действий в йеменском Аль-Джауфе",
-   "summary": "СМИ, связанные с хуситами, сообщают, что семь человек были ранены в результате ударов по городу Ходейда.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Коалиция под руководством Саудовской Аравии перехватывает ракету во время боевых действий в йеменском районе Аль-Джауф."
+     "text": "В результате нападения России на украинский центр помощи погибло 29 человек, а США объявляют о новых мирных переговорах."
     },
     {
      "role": "COMMANDER",
-     "text": "Это подтверждено?"
+     "text": "Кто стоит за этим?"
     },
     {
      "role": "ANALYST",
-     "text": "СМИ, связанные с хуситами, сообщают, что семь человек были ранены в результате ударов по городу Ходейда."
+     "text": "Официальные лица заявляют, что по меньшей мере девять 3000-килограммовых авиабомб попали в южноукраинское село, что, по словам президента, было \"совершенно ужасающим\" нападением."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
    "type": null,
-   "time": "2026-11-02T09:43:59Z",
+   "time": "2026-11-03T09:45:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-around-3-amid-iran-war-peace-tal",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на нефть упали примерно на 3% на фоне сообщений о мирных переговорах по войне в Иране | Дейли Сабах",
-   "summary": "Цены на нефть упали примерно на 3% на фоне сообщений о мирных переговорах по войне в Иране | Дейли Сабах",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Цены на нефть упали примерно на 3% на фоне сообщений о мирных переговорах по войне в Иране | Ежедневный Сабах."
-    }
-   ],
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhJdU5yVksyRUJIeFMtRGJSQU9FNnFDZVMxM1VMdlhSVU1oLVZkSlpJc1p5b18wcGpuY1RkdkNDTHBOVnlGNjROTHp5bjh0QUFGMDcxU0s3TkZFb2FZYWVDQThnVWQxUzFUaVFOSmhieFpVNURLbG4yYlhKY0xfQ1VKMXVvWFozMU4tRmUtcFhOUDFNNnBkcGtUU0oxdzVhWF9zemwxbnnSAagBQVVfeXFMTmF4SXVOclZLMkVCSHhTLURiUkFPRTZxQ2VTMTNVTHZYUlVNaC1WZEpaSXNaeW9fMHBqbmNUZHZDQ0xwTlZ5RjY0Tkx6eW44dEFBRjA3MVNLN05GRW9hWWFlQ0E4Z1VkMVMxVGlRTkpoYnhaVTVES2xuMmJYSmNMX0NVSjF1b1haMzFOLUZlLXBYTlAxTTZwZHBrVFNKMXc1YVhfc3psMW55?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:50:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-destroyed-houthi-mis",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Коалиция под руководством Саудовской Аравии заявила, что уничтожила ракету хуситов, нацеленную на южный регион королевства",
-   "summary": "Коалиция под руководством Саудовской Аравии заявила, что уничтожила ракету хуситов, нацеленную на южный регион королевства",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Коалиция, возглавляемая Саудовской Аравией, заявляет, что уничтожила ракету хуситов, нацеленную на южный регион королевства."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0V5emQxTm5BcEdmeWVrSjRFNWRIdUpfT2ZjZ0YzYmN3MTQ2UGZhRnVrWmdaTDdlRmxTYkN1Ml9tRGl1a3p2dWNXeF9UZmdzbHpfSW90TFd6c3dSTHhVUVVuZ0xXeW9GSVdsM2JZckRHODVxZWNpZVpEcDRUOU9lLVhvZ284U2dyMnRiT2ZUWmJpeDZsRE5IbmhfcURLMEp6SnYxay1yNjRNYTE0M1VSM0RUeml1YkZ4Y0RTNy1GOFpwZVVBTmpN?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:13:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Атака на пакистанский груз СПГ возле Ормуза получила одобрение Ирана",
-   "summary": "Атака на пакистанский груз СПГ возле Ормуза получила одобрение Ирана",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Нападение на пакистанский груз СПГ возле Ормуза было одобрено Ираном."
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:21Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Война США, Израиля и Ирана: что сегодня нужно знать жителям ОАЭ (2 ноября 2026 г.)",
-   "summary": "Война США, Израиля и Ирана: что сегодня нужно знать жителям ОАЭ (2 ноября 2026 г.)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Война США, Израиля и Ирана: что сегодня нужно знать жителям ОАЭ (2 ноября 2026 г.)."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXQyTENzVkpNZ1phbVFfM240cEt1eE40TG5QdzM5RVRaM0k1Z1A0ZFJ5dWJGS2ZlNWxNZlBtVTYzSTg0cHVsSHNJUjZ2RFdLaXBBekE1NHZqdzhpcWFUX0JjM1VkU21ybVhoSjdkcFpvOEVKVHNVOW5hRm9fV25IS3R3bkhweUJmeGFkZ0ZBNUZ1YlZBTDBiUHE5am5qVDdra3pUcVo2SdIBtwFBVV95cUxPcDR0aTBRejZ1SjlyUVNHWTFJaG1qazRobzBFbV9fOWVDWU5xdE1pQ05FREsyNkVyd2llZmRIMW4weFlTdXplSVFXaFo5ODl2MGF5WHVwQm5DRUk0VllqbG9jVDR4dHRGSmZsbEEwQ1RodFpoY1pxMG1TeGI3VThxTUh0ZndDSjNfYm12am5vLUdhajJXdWNyUXVNUUhYcmN6M1dzczlYNWkyZWRfQlo2LWY5cE5YQXc?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:44:57Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-says-hoping-for-breakthrough-yet-braced-for-",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ОАЭ заявляют, что надеются на прорыв, но «готовятся к худшему» в ирано-американской войне",
-   "summary": "ОАЭ заявляют, что надеются на прорыв, но «готовятся к худшему» в ирано-американской войне",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ОАЭ заявляют, что надеются на прорыв, но «готовятся к худшему» в ирано-американской войне."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUdBYlNXM2QwMHYxeldZaDdaa0lWWXhHeEVOdWUtRl9XTDZEVWx0QnJQbHotUGR3Wk0yMlBiTm1oM01ZaWRqcnRfMVdFWThkYnFFR2RlYWtWcVB6UzVzanF2Z1BCUzFERDNzV2xJdnRabElaUVA1V2h6X1IxRDF1WnBWVUVFMXo4RTYwZ0dMdlV6clJQaTFMVTNnQ3ltSUJlM3Q0dVJYbFB0TnN1X0xCS0V3bWY?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:28:00Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
     "United States of America"
    ]
   },
   {
-   "id": "ukmto-says-two-projectiles-hit-tanker-off-saudi-",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "UKMTO сообщает, что два снаряда попали в танкер у берегов Саудовской Аравии возле Рас-эль-Хафджи: как 5 СМИ подставили это",
-   "summary": "UKMTO сообщает, что два снаряда попали в танкер у берегов Саудовской Аравии возле Рас-эль-Хафджи: как 5 СМИ подставили это",
+   "id": "fighting-returns-to-kherson-region-after-longest",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Бои возвращаются в Херсонскую область после самого длительного перемирия в войне на Украине",
+   "summary": "Хотя шестидневное перемирие беспрецедентно, оно мало что сделало для изменения более широкой траектории войны, которая продолжает развиваться.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UKMTO сообщает, что два снаряда попали в танкер у берегов Саудовской Аравии возле Рас-эль-Хафджи: как 5 СМИ подставили это."
-    }
-   ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGhpbGRHY2lCclVFbVVzclJDRmNNdkgwTmY3Q3hPSF9xSm5yMDlycUJ6bDhvUTBpMEJwVHo3SkxvclhPSGI2blFtRVRSbmFTNlY0dmp6NEpfV180UEo0QTVYSXRCRE9KX09KU3NRaXpTeUk3N1FEQVV0enBOeWthZVhUNzZGUDJHUVpnc3VOOFFfcm10ZXlnLXBOaFc3bGhYRm1YblpBUnc1WGhHeTViUUNDLWItTGR1cV9vRkZBbnRoRWNScUd5Tk1EejRoRGE0akRxNnRaSzU0VGNsOVZ4Tg?oc=5",
-   "type": null,
-   "time": "2026-11-02T05:21:17Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "pakistan-outperforms-vietnam-in-rice-exports",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Пакистан обогнал Вьетнам по экспорту риса",
-   "summary": "ЛАХОР: Демонстрируя замечательную устойчивость перед лицом эскалации геополитического конфликта и глобальных потрясений в судоходстве, пакистанский экспорт премиального риса басмати поглотил ударные волны американо-иранского конфликта и более масштабные потрясения в регионе Персидского залива, сохранив",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан превосходит Вьетнам по экспорту риса."
+     "text": "Бои возвращаются в Херсонскую область после самого продолжительного прекращения огня на Украине."
     },
     {
      "role": "COMMANDER",
-     "text": "Почему этот шаг?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
-     "text": "ЛАХОР: Демонстрируя замечательную устойчивость перед лицом эскалации геополитического конфликта и глобальных потрясений в судоходстве, пакистанский экспорт премиального риса басмати поглотил ударные волны американо-иранского конфликта и более масштабные потрясения в регионе Персидского залива, сохранив"
+     "text": "Хотя шестидневное перемирие беспрецедентно, оно мало что сделало для изменения более широкой траектории войны, которая продолжает развиваться."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T01:06:34Z",
+   "time": "2026-11-02T17:33:19Z",
    "countries": [
-    "Pakistan",
-    "Vietnam",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-oil-refineries-targeted-as-ukraine-renew",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Российские нефтеперерабатывающие заводы подвергаются атакам, поскольку Украина возобновляет удары",
-   "summary": "Российские нефтеперерабатывающие заводы подвергаются атакам, поскольку Украина возобновляет удары",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Российские нефтеперерабатывающие заводы подвергаются нападениям, поскольку Украина возобновляет удары."
-    }
-   ],
-   "source": "www.tmgm.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWxWYVNIZERrdkE4LWY4V2pmSWlaM1FJZm50c0ZYUFpaOWZkY1Q3RlFQaFdxSlMtMFF5Slo1Z1dPYXZvM0dZbFoyY1FjSHh4RVUxVVNPZGRETkF4YUtBWHI1cmxLdDhvREJ1dHkzM2gwZEtwckY4bFlnV0doek0ybjRuNGk0cWhuT01Sc0tXOHYydzBoUFc1WkVDNzhHRmg2NVJKSDBORjV5NWZBN2V0cmxONXR3dGNmYnc?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:36:46Z",
-   "countries": [
-    "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "magrabi-to-buy-uae-s-dubai-optical-adding-15-sto",
+   "id": "north-korea-denies-being-behind-record-6-3bn-bin",
+   "country": "North Korea",
+   "label": "СЕВЕРНАЯ КОРЕЯ",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Северная Корея отрицает свою причастность к взлому Binance на сумму $6,3 млрд.",
+   "summary": "Правительственные агентства США и кибераналитики обвинили Пхеньян в рекордном ограблении.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Северная Корея отрицает свою причастность к взлому Binance на сумму $6,3 млрд."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Правительственные агентства США и кибераналитики обвинили Пхеньян в рекордном ограблении."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T08:33:20Z",
+   "countries": [
+    "North Korea",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-plans-more-energy-channels-as-war-disrupts-e",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "MAGRABi купит Dubai Optical в ОАЭ, добавив 15 магазинов",
-   "summary": "MAGRABi купит Dubai Optical в ОАЭ, добавив 15 магазинов",
+   "headline": "ОАЭ планируют расширить энергетические каналы, поскольку война нарушает экспортные маршруты",
+   "summary": "ОАЭ планируют расширить энергетические каналы, поскольку война нарушает экспортные маршруты",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "MAGRABi купит компанию Dubai Optical в ОАЭ, открыв 15 магазинов."
+     "text": "ОАЭ планируют увеличить количество энергетических каналов, поскольку война нарушает экспортные маршруты."
     }
    ],
-   "source": "Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWkwTlJKSUg1UVhnSkZKYmFMUXR4LUpEcTNBU3Nwd285eWVIUDByRUwtMGhuVEhKN193ZnllTkxCWmZJb1VDbjc0OFdmSGxvazJQaTBjSEUxbjJZQ04xZWR5OXM0eUlKN19Gdnk5Vm8zV0VmdkcxclgxcU5PUzFldkpJb0djRnpPNkt4TEpn?oc=5",
+   "source": "The Circuit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pKT1dlRzc1UG1hY1BITVZpMW54YVhpV290U0xaMlgwUWlSLWU1M2hMYmxhZkhWM3VLeUxRUFUxNHZOQzVvUU9Zd2o5Q1FXeVRCR2ktY2VoUnpsQVpESWpENVBqdWtNMTF6MWRDSTU0TVBoSUUwejAzc0EzMHd4SVh1dWhULUFreFlacWxsQXY2WmhiSlo4ag?oc=5",
    "type": null,
-   "time": "2026-11-02T06:14:03Z",
+   "time": "2026-11-03T10:05:04Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "aramco-profit-beats-estimates-after-refining-boo",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Прибыль Aramco превысила прогнозы после бума в нефтепереработке и скачка нефти",
+   "summary": "Прибыль Aramco превысила прогнозы после бума в нефтепереработке и скачка нефти",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Прибыль Aramco превысила прогнозы после бума в нефтепереработке и резкого роста цен на нефть."
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZidUVNR21lLTV0emU0cjY4MmRHRDRNNHl4ODdlN25Ea1hkQ1ExQVhxNE1uWmo1TzRlUm5DR1c2a0dKU25uN3V3d2JxTU9pQkJHaGx3bUZRaUNfWVRaZDBTOFd4QjZGaEx3WkhleG9QWERyTEZ0Vi1RenV2TVBtUWtUUGhBNkEtaXpsc0sxZ3ZSNzZRWnBqU19kWE1OWVZiN2VFOVpNNENVS19LdklN?oc=5",
+   "type": null,
+   "time": "2026-11-03T09:35:50Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "tenerife-striker-de-miguel-dies-after-on-field-c",
+   "country": "Spain",
+   "label": "ИСПАНИЯ",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Нападающий Тенерифе Де Мигель погиб после столкновения на поле",
+   "summary": "Нападающий \"Тенерифе\" Хесус де Мигель погиб после столкновения на поле во время матча второго дивизиона Испании.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Нападающий Тенерифе Де Мигель погиб в результате столкновения на поле."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Нападающий \"Тенерифе\" Хесус де Мигель погиб после столкновения на поле во время матча второго дивизиона Испании."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T09:09:18Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "oil-prices-rebound-as-u-s-strikes-on-iran-renew-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Цены на нефть восстанавливаются, поскольку удары США по Ирану возобновили опасения по поводу поставок",
+   "summary": "Цены на нефть восстанавливаются, поскольку удары США по Ирану возобновили опасения по поводу поставок",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Цены на нефть восстанавливаются, поскольку удары США по Ирану возобновили опасения по поводу поставок."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:45:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "one-dead-after-two-helicopters-collide-near-moun",
+   "country": "Nepal",
+   "label": "НЕПАЛ",
+   "lat": 28.4,
+   "lon": 84.1,
+   "flag": "🇳🇵",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Один человек погиб в результате столкновения двух вертолетов возле горы Эверест в Непале",
+   "summary": "Власти подтвердили, что 47-летний гражданин Индии был убит и два человека получили ранения.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Один человек погиб в результате столкновения двух вертолетов возле горы Эверест в Непале."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Власти подтвердили, что 47-летний гражданин Индии был убит и два человека получили ранения."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:06:07Z",
+   "countries": [
+    "Nepal",
+    "India"
    ]
   }
  ]

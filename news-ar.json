@@ -1,10 +1,131 @@
 {
- "updated": "2026-11-02T10:03:01.721685Z",
+ "updated": "2026-11-03T10:08:04.600439Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "pakistan-assumes-chairmanship-of-sco-interbank-c",
+   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "تأجيل كأس آسيا بعد الهجمات على السعودية",
+   "summary": "تم تأجيل بطولة كأس آسيا 2027 المقررة في المملكة العربية السعودية بسبب سلسلة من الهجمات القاتلة على الدولة المضيفة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تأجيل كأس آسيا بعد الهجمات على السعودية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تم تأجيل بطولة كأس آسيا 2027 المقررة في المملكة العربية السعودية بسبب سلسلة من الهجمات القاتلة على الدولة المضيفة."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T07:15:17Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "u-s-military-carries-out-limited-strikes-on-iran",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "قال مسؤولون أمريكيون إن الجيش الأمريكي نفذ ضربات محدودة على جزيرة قشم الإيرانية",
+   "summary": "قال مسؤولون أمريكيون إن الجيش الأمريكي نفذ ضربات محدودة على جزيرة قشم الإيرانية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "قال مسؤولون أمريكيون إن الجيش الأمريكي نفذ ضربات محدودة على جزيرة قشم الإيرانية."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:18:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-russia-and-ukraine-to-resume-peace-talks-in-",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "يقول ويتكوف إن الولايات المتحدة وروسيا وأوكرانيا ستستأنف محادثات السلام في أبو ظبي الأسبوع المقبل",
+   "summary": "يقول ويتكوف إن الولايات المتحدة وروسيا وأوكرانيا ستستأنف محادثات السلام في أبو ظبي الأسبوع المقبل",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "يقول ويتكوف إن الولايات المتحدة وروسيا وأوكرانيا ستستأنف محادثات السلام في أبو ظبي الأسبوع المقبل."
+    }
+   ],
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09zVHBJLUx0cFhYX1paZnhnT1RqYWx6bF9idUtVNFZ3TVpvd0R0OFE2WTdYWW1MeXFpWGhBR3FWS1c0ZjNlWW8xQW5ZYWlFV2pwR0NISTdiSFh2alU5V05kYUdNVjBFTXQxbFFPZ0RpMnZDVVczbzRESFNTWENLeWo3Mm81STZJVEluXzgtU2RrUQ?oc=5",
+   "type": null,
+   "time": "2026-11-03T03:12:58Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "الولايات المتحدة تضرب جزيرة إيرانية قبل الانتخابات النصفية",
+   "summary": "ووصف مسؤولون أمريكيون الهجمات على جزيرة قشم بأنها محدودة ودفاعية، بحسب شبكة سي بي إس، شريكة بي بي سي في الولايات المتحدة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الولايات المتحدة تضرب جزيرة إيرانية قبل الانتخابات النصفية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ووصف مسؤولون أمريكيون الهجمات على جزيرة قشم بأنها محدودة ودفاعية، بحسب شبكة سي بي إس، شريكة بي بي سي في الولايات المتحدة."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T03:39:08Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-reduces-fuel-rates-as-global-oil-prices",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
@@ -12,12 +133,133 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "باكستان تتولى رئاسة اتحاد البنوك بين البنوك التابع لمنظمة شنغهاي للتعاون للفترة 2026-2027",
-   "summary": "قالت وزارة المالية الباكستانية، اليوم الاثنين، إنها تولت رئاسة اتحاد البنوك بين البنوك التابع لمنظمة شنغهاي للتعاون (SCO-IBC) للفترة 2026-2027. وقد تولى رئيس مجلس إدارة بنك حبيب المحدود سلطان علي علانا منصب رئيس الكونسورتيوم لهذه الفترة.",
+   "headline": "باكستان تخفض أسعار الوقود مع انخفاض أسعار النفط العالمية وسط آمال السلام بين الولايات المتحدة وإيران",
+   "summary": "باكستان تخفض أسعار الوقود مع انخفاض أسعار النفط العالمية وسط آمال السلام بين الولايات المتحدة وإيران",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "باكستان تتولى رئاسة اتحاد البنوك بين البنوك التابع لمنظمة شنغهاي للتعاون للفترة 2026-2027"
+     "text": "باكستان تخفض أسعار الوقود مع انخفاض أسعار النفط العالمية وسط آمال السلام بين الولايات المتحدة وإيران."
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlR1eVUwcVJBWXl0Q082b2xxZWF1TTJHQmhRM0JhV3JnaHFZb2tXU0NZZ2dIQkN0M0lKTktpdXpBOC1RU3pZNG9KUmdOVkdvbllHc2FjMldsS3RuRlhhdzg2M1l3X29nY0RlcW1uM2t0M3BrMmdPN1RRN2FCM1VabldpcWhzbEo3NllZa1AzMXlReG5yczlfTW0zRzFWOHdJcFVZb0VUcGpjR1VHODU2TVlZcUU1cHNIS3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:44:23Z",
+   "countries": [
+    "Pakistan",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "cricket-world-cup-india-vs-pakistan-gets-more-ti",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "كأس العالم للكريكيت: الهند ضد باكستان تحصل على طلبات تذاكر أكثر من المباراة النهائية",
+   "summary": "يتلقى مجلس الكريكيت الدولي 8.4 مليون طلب للحصول على 34 ألف مقعد في مباراة دور المجموعات المقررة في 10 أكتوبر في جوهانسبرج.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "كأس العالم للكريكيت: الهند ضد باكستان تحصل على طلبات تذاكر أكثر من المباراة النهائية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مفهوم. استمر."
+    },
+    {
+     "role": "ANALYST",
+     "text": "يتلقى مجلس الكريكيت الدولي 8.4 مليون طلب للحصول على 34 ألف مقعد في مباراة دور المجموعات المقررة في 10 أكتوبر في جوهانسبرج."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T09:12:40Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "here-s-how-pakistan-suffered-40-billion-in-econo",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "إليكم كيف عانت باكستان من خسائر اقتصادية بقيمة 40 مليار دولار وسط تعليق التجارة مع الهند",
+   "summary": "إليكم كيف عانت باكستان من خسائر اقتصادية بقيمة 40 مليار دولار وسط تعليق التجارة مع الهند",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إليكم كيف عانت باكستان من خسائر اقتصادية بقيمة 40 مليار دولار وسط تعليق التجارة مع الهند."
+    }
+   ],
+   "source": "The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1NSUVNRa3ZmSDhGTTY0QWxjNUotR3FyT1VNdWRKMG5XN0w2bUVWRVd1Z0ZzMF9qcHBZS29WeWxoMzY4WmZlVy05bDhYSk9kcWdka1NOUDJzaVRCTUFTM29CNmNaTFU5UWVkZXVuWThSZHp4OFktVHF2NHNialFjWTJUQ2lEWlRGM3ZkWTZ5ZlI2bWpQZjVUN3FFUS1YNDVvcDdRMjJxUEtNemNFZXdxNnJHWFFGOVI3MG5hazBmUXdheDQ2cXlWSXpvYkFwc3dlWWxJeTcwT0Y2OU5o0gHiAUFVX3lxTE02cUhkM21XRm1QOFVPSjdCMUwzZFNNRlFaVkxTQ1dxVEFHUzJ2LUQzTzYyRmg5OVpDVlhaVXM3RlM2dThaemZOOUhKLXYxR3p6enJiX1N6V0x5ZXl1cFZTUThsODBua3VvWlFFVko5cVMwYVExdEtqLVZSWGxVeXZzdW9DWTZ1SWtZNWtlUDVfVHZwUmhxdk4xcEE5QUtUYjdpY1RMWi16ME95OHh0SmdlblNfMGxDTkRwbWZvaDZqdFlLR2ZxSXc5Vl8zUENHb2pkd1RiZV9VcXBUa2RWX08zZEE?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:39:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "when-will-we-know-the-us-midterm-election-result",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "متى سنعرف نتائج الانتخابات النصفية الأمريكية؟",
+   "summary": "ومن المتوقع ظهور النتائج الأولى يوم الثلاثاء حيث تبدأ صناديق الاقتراع في الإغلاق عند الساعة 23:00 بتوقيت جرينتش. لكن النتائج النهائية قد تستغرق أياما.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "متى سنعرف نتائج الانتخابات النصفية الأمريكية؟."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "تمام. تفاصيل؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ومن المتوقع ظهور النتائج الأولى يوم الثلاثاء حيث تبدأ صناديق الاقتراع في الإغلاق عند الساعة 23:00 بتوقيت جرينتش. لكن النتائج النهائية قد تستغرق أياما."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:27:21Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-to-remove-rwanda-and-south-africa-from-us-",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ترامب يستبعد رواندا وجنوب أفريقيا من الاتفاق التجاري الأمريكي",
+   "summary": "وتأتي هذه الخطوة بعد أسبوع تقريبًا من فرض وزارة الدفاع الرواندية عقوبات من قبل وزارة الخزانة الأمريكية.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ترامب يستبعد رواندا وجنوب أفريقيا من الاتفاق التجاري الأمريكي."
     },
     {
      "role": "COMMANDER",
@@ -25,131 +267,46 @@
     },
     {
      "role": "ANALYST",
-     "text": "قالت وزارة المالية الباكستانية، اليوم الاثنين، إنها تولت رئاسة اتحاد البنوك بين البنوك التابع لمنظمة شنغهاي للتعاون (SCO-IBC) للفترة 2026-2027. وقد تولى رئيس مجلس إدارة بنك حبيب المحدود سلطان علي علانا منصب رئيس الكونسورتيوم لهذه الفترة."
+     "text": "وتأتي هذه الخطوة بعد أسبوع تقريبًا من فرض وزارة الدفاع الرواندية عقوبات من قبل وزارة الخزانة الأمريكية."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T07:25:43Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "oil-prices-slide-more-than-3-as-trump-signals-mo",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "تراجعت أسعار النفط بأكثر من 3% مع إشارة ترامب لمزيد من الوقت للدبلوماسية الإيرانية",
-   "summary": "تراجعت أسعار النفط بأكثر من 3% مع إشارة ترامب لمزيد من الوقت للدبلوماسية الإيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تراجعت أسعار النفط بأكثر من 3% مع إشارة ترامب لمزيد من الوقت للدبلوماسية الإيرانية."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-02T07:47:54Z",
+   "time": "2026-11-03T03:00:36Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "South Africa"
    ]
   },
   {
-   "id": "abu-dhabi-s-adnoc-g42-sign-deal-with-openai-as-s",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "أدنوك في أبو ظبي وG42 توقعان صفقة مع OpenAI بينما يسافر سام التمان إلى الإمارات العربية المتحدة",
-   "summary": "أدنوك في أبو ظبي وG42 توقعان صفقة مع OpenAI بينما يسافر سام التمان إلى الإمارات العربية المتحدة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أدنوك في أبو ظبي وG42 توقعان صفقة مع OpenAI بينما يسافر سام التمان إلى الإمارات العربية المتحدة."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:40:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-condemns-attack-on-qatar-s-lng-carrier-in-gu",
-   "country": "Qatar",
-   "label": "قطر",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
+   "id": "us-has-conducted-defensive-strikes-on-iranian-ta",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "الإمارات تدين الهجوم على ناقلة الغاز الطبيعي المسال القطرية في الخليج",
-   "summary": "الإمارات تدين الهجوم على ناقلة الغاز الطبيعي المسال القطرية في الخليج",
+   "headline": "قال مسؤول أمريكي إن الولايات المتحدة شنت ضربات دفاعية على أهداف إيرانية في مضيق هرمز",
+   "summary": "قال مسؤول أمريكي إن الولايات المتحدة شنت ضربات دفاعية على أهداف إيرانية في مضيق هرمز",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الإمارات تدين الهجوم على ناقلة الغاز الطبيعي المسال القطرية في الخليج."
+     "text": "قال مسؤول أمريكي إن الولايات المتحدة شنت ضربات دفاعية على أهداف إيرانية في مضيق هرمز."
     }
    ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjIwSVFUelVmeUZGUnJQU1NxcUEydjE1Y05qb2dqd0Y4Vlc5NTR5b0haRlYxRnl1cERnZmdWTXQ5cl9UekRuTnljanotYkdya3BHVEhhWXdZd1J1LWh6TndBamFVVVgzaV90VGNBSzJaYzgzUDNtcHAwZnlyNUkwS3JYQkJCWUt3Umd0YThUdlJkS3NtN1BocGZ6RnBBRXVCbGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
    "type": null,
-   "time": "2026-11-01T23:44:00Z",
+   "time": "2026-11-03T02:38:00Z",
    "countries": [
-    "Qatar",
-    "United Arab Emirates"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "nuclear-radiation-in-russia-ukraine-no-just-hack",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "الإشعاع النووي في روسيا وأوكرانيا؟ لا، مجرد تنبيهات تحذيرية بشأن الاختراق",
-   "summary": "أذهلت التحذيرات الناس في أوكرانيا، لكن السلطات تقول إنها أزالت الارتباك في أقل من ساعة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الإشعاع النووي في روسيا وأوكرانيا؟ لا، مجرد تنبيهات تحذيرية بشأن الاختراق."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ما هو الوضع الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "أذهلت التحذيرات الناس في أوكرانيا، لكن السلطات تقول إنها أزالت الارتباك في أقل من ساعة."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-02T09:35:46Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ukraine-russia-report-hacking-attacks-on-emergen",
+   "id": "russian-attack-on-ukraine-aid-hub-kills-29-as-us",
    "country": "Ukraine",
    "label": "أوكرانيا",
    "lat": 49.0,
@@ -157,351 +314,240 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "أوكرانيا وروسيا تبلغان عن هجمات قرصنة على تطبيقات إنذار الطوارئ بعد انتهاء هدنة أوليشكي",
-   "summary": "أوكرانيا وروسيا تبلغان عن هجمات قرصنة على تطبيقات إنذار الطوارئ بعد انتهاء هدنة أوليشكي",
+   "headline": "الهجوم الروسي على مركز المساعدات الأوكرانية يقتل 29 شخصًا بينما تعلن الولايات المتحدة عن محادثات سلام جديدة",
+   "summary": "قال مسؤولون إن ما لا يقل عن تسع قنابل جوية تزن 3000 كجم ضربت قرية بجنوب أوكرانيا فيما وصفه الرئيس بهجوم \"مروع للغاية\".",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أوكرانيا وروسيا تبلغان عن هجمات قرصنة على تطبيقات إنذار الطوارئ بعد انتهاء هدنة أوليشكي."
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
-   "type": null,
-   "time": "2026-11-02T09:33:08Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "houthi-attacks-and-saudi-arabia-s-security-dilem",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "هجمات الحوثيين والمعضلة الأمنية في المملكة العربية السعودية",
-   "summary": "هجمات الحوثيين والمعضلة الأمنية في المملكة العربية السعودية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "هجمات الحوثيين والمعضلة الأمنية في المملكة العربية السعودية"
-    }
-   ],
-   "source": "Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm4wQ3BuSlpXSC0wWUduZU5PSl9sb2otQ0lHd2V5MlFFcEgtQmxRYkhDTnN5M192a0pqejZBbElDWWFtSHQxOGZXdFpIcjBCamhYTk5WWE5aTW1SVm9VLTFUWGxucFlGWnZORmdfWVZTbmFLVGxWMzBIeENZeGEybENR?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:05:58Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-drops-almost-4-on-hopes-of-progress-in-talks",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "النفط ينخفض بنحو 4% وسط آمال بإحراز تقدم في المحادثات بشأن إنهاء الحرب الأمريكية الإيرانية",
-   "summary": "النفط ينخفض بنحو 4% وسط آمال بإحراز تقدم في المحادثات بشأن إنهاء الحرب الأمريكية الإيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "النفط ينخفض بنحو 4% وسط آمال بإحراز تقدم في المحادثات بشأن إنهاء الحرب الأمريكية الإيرانية."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-   "type": null,
-   "time": "2026-11-01T23:13:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-a-missile-as-figh",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "التحالف الذي تقوده السعودية يعترض صاروخا مع احتدام القتال في الجوف باليمن",
-   "summary": "أفادت وسائل إعلام تابعة للحوثيين، بإصابة سبعة أشخاص في غارات جوية على مدينة الحديدة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "التحالف الذي تقوده السعودية يعترض صاروخا مع احتدام القتال في الجوف باليمن."
+     "text": "الهجوم الروسي على مركز المساعدات الأوكرانية يقتل 29 شخصًا بينما تعلن الولايات المتحدة عن محادثات سلام جديدة."
     },
     {
      "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
+     "text": "من يقف وراء ذلك؟"
     },
     {
      "role": "ANALYST",
-     "text": "أفادت وسائل إعلام تابعة للحوثيين، بإصابة سبعة أشخاص في غارات جوية على مدينة الحديدة."
+     "text": "قال مسؤولون إن ما لا يقل عن تسع قنابل جوية تزن 3000 كجم ضربت قرية بجنوب أوكرانيا فيما وصفه الرئيس بهجوم \"مروع للغاية\"."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
    "type": null,
-   "time": "2026-11-02T09:43:59Z",
+   "time": "2026-11-03T09:45:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-around-3-amid-iran-war-peace-tal",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط تتراجع نحو 3% وسط تقارير عن محادثات السلام بشأن حرب إيران | ديلي صباح",
-   "summary": "أسعار النفط تتراجع نحو 3% وسط تقارير عن محادثات السلام بشأن حرب إيران | ديلي صباح",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسعار النفط تتراجع نحو 3% وسط تقارير عن محادثات السلام بشأن حرب إيران | ديلي صباح."
-    }
-   ],
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhJdU5yVksyRUJIeFMtRGJSQU9FNnFDZVMxM1VMdlhSVU1oLVZkSlpJc1p5b18wcGpuY1RkdkNDTHBOVnlGNjROTHp5bjh0QUFGMDcxU0s3TkZFb2FZYWVDQThnVWQxUzFUaVFOSmhieFpVNURLbG4yYlhKY0xfQ1VKMXVvWFozMU4tRmUtcFhOUDFNNnBkcGtUU0oxdzVhWF9zemwxbnnSAagBQVVfeXFMTmF4SXVOclZLMkVCSHhTLURiUkFPRTZxQ2VTMTNVTHZYUlVNaC1WZEpaSXNaeW9fMHBqbmNUZHZDQ0xwTlZ5RjY0Tkx6eW44dEFBRjA3MVNLN05GRW9hWWFlQ0E4Z1VkMVMxVGlRTkpoYnhaVTVES2xuMmJYSmNMX0NVSjF1b1haMzFOLUZlLXBYTlAxTTZwZHBrVFNKMXc1YVhfc3psMW55?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:50:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-destroyed-houthi-mis",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "التحالف بقيادة السعودية يعلن تدمير صاروخ حوثي استهدف المنطقة الجنوبية للمملكة",
-   "summary": "التحالف بقيادة السعودية يعلن تدمير صاروخ حوثي استهدف المنطقة الجنوبية للمملكة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "التحالف بقيادة السعودية يعلن تدمير صاروخ حوثي استهدف المنطقة الجنوبية للمملكة."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0V5emQxTm5BcEdmeWVrSjRFNWRIdUpfT2ZjZ0YzYmN3MTQ2UGZhRnVrWmdaTDdlRmxTYkN1Ml9tRGl1a3p2dWNXeF9UZmdzbHpfSW90TFd6c3dSTHhVUVVuZ0xXeW9GSVdsM2JZckRHODVxZWNpZVpEcDRUOU9lLVhvZ284U2dyMnRiT2ZUWmJpeDZsRE5IbmhfcURLMEp6SnYxay1yNjRNYTE0M1VSM0RUeml1YkZ4Y0RTNy1GOFpwZVVBTmpN?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:13:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
-   "country": "Iran",
-   "label": "مضيق هرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "تعرضت شحنة الغاز الطبيعي المسال الباكستانية التي تعرضت للهجوم بالقرب من هرمز بموافقة إيرانية",
-   "summary": "تعرضت شحنة الغاز الطبيعي المسال الباكستانية التي تعرضت للهجوم بالقرب من هرمز بموافقة إيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تعرضت شحنة الغاز الطبيعي المسال الباكستانية التي تعرضت للهجوم بالقرب من هرمز بموافقة إيرانية."
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:21Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "الحرب الأمريكية الإسرائيلية الإيرانية: ما يحتاج سكان الإمارات إلى معرفته اليوم (2 نوفمبر 2026)",
-   "summary": "الحرب الأمريكية الإسرائيلية الإيرانية: ما يحتاج سكان الإمارات إلى معرفته اليوم (2 نوفمبر 2026)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الحرب الأمريكية الإسرائيلية الإيرانية: ما يحتاج سكان الإمارات إلى معرفته اليوم (2 نوفمبر 2026)."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXQyTENzVkpNZ1phbVFfM240cEt1eE40TG5QdzM5RVRaM0k1Z1A0ZFJ5dWJGS2ZlNWxNZlBtVTYzSTg0cHVsSHNJUjZ2RFdLaXBBekE1NHZqdzhpcWFUX0JjM1VkU21ybVhoSjdkcFpvOEVKVHNVOW5hRm9fV25IS3R3bkhweUJmeGFkZ0ZBNUZ1YlZBTDBiUHE5am5qVDdra3pUcVo2SdIBtwFBVV95cUxPcDR0aTBRejZ1SjlyUVNHWTFJaG1qazRobzBFbV9fOWVDWU5xdE1pQ05FREsyNkVyd2llZmRIMW4weFlTdXplSVFXaFo5ODl2MGF5WHVwQm5DRUk0VllqbG9jVDR4dHRGSmZsbEEwQ1RodFpoY1pxMG1TeGI3VThxTUh0ZndDSjNfYm12am5vLUdhajJXdWNyUXVNUUhYcmN6M1dzczlYNWkyZWRfQlo2LWY5cE5YQXc?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:44:57Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-says-hoping-for-breakthrough-yet-braced-for-",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "الإمارات تقول إنها تأمل في تحقيق انفراجة لكنها \"تستعد للأسوأ\" في الحرب الإيرانية الأمريكية",
-   "summary": "الإمارات تقول إنها تأمل في تحقيق انفراجة لكنها \"تستعد للأسوأ\" في الحرب الإيرانية الأمريكية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الإمارات تقول إنها تأمل في تحقيق انفراجة لكنها \"تستعد للأسوأ\" في الحرب الإيرانية الأمريكية."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUdBYlNXM2QwMHYxeldZaDdaa0lWWXhHeEVOdWUtRl9XTDZEVWx0QnJQbHotUGR3Wk0yMlBiTm1oM01ZaWRqcnRfMVdFWThkYnFFR2RlYWtWcVB6UzVzanF2Z1BCUzFERDNzV2xJdnRabElaUVA1V2h6X1IxRDF1WnBWVUVFMXo4RTYwZ0dMdlV6clJQaTFMVTNnQ3ltSUJlM3Q0dVJYbFB0TnN1X0xCS0V3bWY?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:28:00Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
     "United States of America"
    ]
   },
   {
-   "id": "ukmto-says-two-projectiles-hit-tanker-off-saudi-",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "UKMTO تقول إن مقذوفين أصابا ناقلة قبالة المملكة العربية السعودية بالقرب من رأس الخفجي: كيف قامت 5 منافذ بتأطيرها",
-   "summary": "UKMTO تقول إن مقذوفين أصابا ناقلة قبالة المملكة العربية السعودية بالقرب من رأس الخفجي: كيف قامت 5 منافذ بتأطيرها",
+   "id": "fighting-returns-to-kherson-region-after-longest",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "يعود القتال إلى منطقة خيرسون بعد أطول وقف لإطلاق النار في الحرب الأوكرانية",
+   "summary": "وعلى الرغم من أنها غير مسبوقة، إلا أن الهدنة التي استمرت ستة أيام لم تفعل الكثير لتغيير المسار الأوسع للحرب التي لا تزال مستمرة.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UKMTO تقول إن مقذوفين أصابا ناقلة قبالة المملكة العربية السعودية بالقرب من رأس الخفجي: كيف قامت 5 منافذ بتأطيرها."
-    }
-   ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGhpbGRHY2lCclVFbVVzclJDRmNNdkgwTmY3Q3hPSF9xSm5yMDlycUJ6bDhvUTBpMEJwVHo3SkxvclhPSGI2blFtRVRSbmFTNlY0dmp6NEpfV180UEo0QTVYSXRCRE9KX09KU3NRaXpTeUk3N1FEQVV0enBOeWthZVhUNzZGUDJHUVpnc3VOOFFfcm10ZXlnLXBOaFc3bGhYRm1YblpBUnc1WGhHeTViUUNDLWItTGR1cV9vRkZBbnRoRWNScUd5Tk1EejRoRGE0akRxNnRaSzU0VGNsOVZ4Tg?oc=5",
-   "type": null,
-   "time": "2026-11-02T05:21:17Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "pakistan-outperforms-vietnam-in-rice-exports",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "وتتفوق باكستان على فيتنام في صادرات الأرز",
-   "summary": "لاهور: أظهرت مرونة ملحوظة في مواجهة الصراع الجيوسياسي المتصاعد واضطرابات الشحن العالمية، حيث استوعبت صادرات الأرز البسمتي الباكستاني الممتاز موجات الصدمة الناجمة عن الصراع الأمريكي الإيراني والاضطرابات في منطقة الخليج الأوسع، مما حافظ على استقرارها.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وتتفوق باكستان على فيتنام في صادرات الأرز."
+     "text": "يعود القتال إلى منطقة خيرسون بعد أطول وقف لإطلاق النار في الحرب الأوكرانية."
     },
     {
      "role": "COMMANDER",
-     "text": "لماذا هذه الخطوة؟"
+     "text": "هل هناك ضحايا؟"
     },
     {
      "role": "ANALYST",
-     "text": "لاهور: أظهرت مرونة ملحوظة في مواجهة الصراع الجيوسياسي المتصاعد واضطرابات الشحن العالمية، حيث استوعبت صادرات الأرز البسمتي الباكستاني الممتاز موجات الصدمة الناجمة عن الصراع الأمريكي الإيراني والاضطرابات في منطقة الخليج الأوسع، مما حافظ على استقرارها."
+     "text": "وعلى الرغم من أنها غير مسبوقة، إلا أن الهدنة التي استمرت ستة أيام لم تفعل الكثير لتغيير المسار الأوسع للحرب التي لا تزال مستمرة."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T01:06:34Z",
+   "time": "2026-11-02T17:33:19Z",
    "countries": [
-    "Pakistan",
-    "Vietnam",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-oil-refineries-targeted-as-ukraine-renew",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "استهداف مصافي النفط الروسية مع تجديد أوكرانيا لضرباتها",
-   "summary": "استهداف مصافي النفط الروسية مع تجديد أوكرانيا لضرباتها",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "استهداف مصافي النفط الروسية مع تجديد أوكرانيا لضرباتها."
-    }
-   ],
-   "source": "www.tmgm.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWxWYVNIZERrdkE4LWY4V2pmSWlaM1FJZm50c0ZYUFpaOWZkY1Q3RlFQaFdxSlMtMFF5Slo1Z1dPYXZvM0dZbFoyY1FjSHh4RVUxVVNPZGRETkF4YUtBWHI1cmxLdDhvREJ1dHkzM2gwZEtwckY4bFlnV0doek0ybjRuNGk0cWhuT01Sc0tXOHYydzBoUFc1WkVDNzhHRmg2NVJKSDBORjV5NWZBN2V0cmxONXR3dGNmYnc?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:36:46Z",
-   "countries": [
-    "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "magrabi-to-buy-uae-s-dubai-optical-adding-15-sto",
+   "id": "north-korea-denies-being-behind-record-6-3bn-bin",
+   "country": "North Korea",
+   "label": "كوريا الشمالية",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "تنفي كوريا الشمالية وقوفها وراء اختراق منصة Binance الذي تبلغ قيمته 6.3 مليار دولار",
+   "summary": "وألقت وكالات حكومية أميركية ومحللون إلكترونيون اللوم على بيونغ يانغ في عملية السرقة غير المسبوقة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تنفي كوريا الشمالية وقوفها وراء اختراق منصة Binance الذي تبلغ قيمته 6.3 مليار دولار."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مفهوم. استمر."
+    },
+    {
+     "role": "ANALYST",
+     "text": "وألقت وكالات حكومية أميركية ومحللون إلكترونيون اللوم على بيونغ يانغ في عملية السرقة غير المسبوقة."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T08:33:20Z",
+   "countries": [
+    "North Korea",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-plans-more-energy-channels-as-war-disrupts-e",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "شركة مغربي تستحوذ على شركة دبي للنظارات الإماراتية وتضيف إليها 15 متجراً",
-   "summary": "شركة مغربي تستحوذ على شركة دبي للنظارات الإماراتية وتضيف إليها 15 متجراً",
+   "headline": "الإمارات تخطط للمزيد من قنوات الطاقة مع تعطل الحرب طرق التصدير",
+   "summary": "الإمارات تخطط للمزيد من قنوات الطاقة مع تعطل الحرب طرق التصدير",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "شركة مغربي تستحوذ على شركة دبي للنظارات الإماراتية وتضيف إليها 15 متجراً."
+     "text": "الإمارات تخطط للمزيد من قنوات الطاقة مع تعطل الحرب طرق التصدير"
     }
    ],
-   "source": "Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWkwTlJKSUg1UVhnSkZKYmFMUXR4LUpEcTNBU3Nwd285eWVIUDByRUwtMGhuVEhKN193ZnllTkxCWmZJb1VDbjc0OFdmSGxvazJQaTBjSEUxbjJZQ04xZWR5OXM0eUlKN19Gdnk5Vm8zV0VmdkcxclgxcU5PUzFldkpJb0djRnpPNkt4TEpn?oc=5",
+   "source": "The Circuit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pKT1dlRzc1UG1hY1BITVZpMW54YVhpV290U0xaMlgwUWlSLWU1M2hMYmxhZkhWM3VLeUxRUFUxNHZOQzVvUU9Zd2o5Q1FXeVRCR2ktY2VoUnpsQVpESWpENVBqdWtNMTF6MWRDSTU0TVBoSUUwejAzc0EzMHd4SVh1dWhULUFreFlacWxsQXY2WmhiSlo4ag?oc=5",
    "type": null,
-   "time": "2026-11-02T06:14:03Z",
+   "time": "2026-11-03T10:05:04Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "aramco-profit-beats-estimates-after-refining-boo",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "أرباح أرامكو تتجاوز التقديرات بعد طفرة التكرير وارتفاع النفط",
+   "summary": "أرباح أرامكو تتجاوز التقديرات بعد طفرة التكرير وارتفاع النفط",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "أرباح أرامكو تتجاوز التقديرات بعد طفرة التكرير وارتفاع النفط."
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZidUVNR21lLTV0emU0cjY4MmRHRDRNNHl4ODdlN25Ea1hkQ1ExQVhxNE1uWmo1TzRlUm5DR1c2a0dKU25uN3V3d2JxTU9pQkJHaGx3bUZRaUNfWVRaZDBTOFd4QjZGaEx3WkhleG9QWERyTEZ0Vi1RenV2TVBtUWtUUGhBNkEtaXpsc0sxZ3ZSNzZRWnBqU19kWE1OWVZiN2VFOVpNNENVS19LdklN?oc=5",
+   "type": null,
+   "time": "2026-11-03T09:35:50Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "tenerife-striker-de-miguel-dies-after-on-field-c",
+   "country": "Spain",
+   "label": "اسبانيا",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "وفاة مهاجم تينيريفي دي ميغيل بعد اصطدامه على أرض الملعب",
+   "summary": "توفي مهاجم تينيريفي، جيسوس دي ميغيل، بعد تعرضه لحادث اصطدام على أرض الملعب خلال مباراة في دوري الدرجة الثانية الإسباني.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "وفاة مهاجم تينيريفي دي ميغيل بعد اصطدامه على أرض الملعب."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "توفي مهاجم تينيريفي، جيسوس دي ميغيل، بعد تعرضه لحادث اصطدام على أرض الملعب خلال مباراة في دوري الدرجة الثانية الإسباني."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T09:09:18Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "oil-prices-rebound-as-u-s-strikes-on-iran-renew-",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "أسعار النفط تنتعش مع تجدد المخاوف بشأن الإمدادات من الضربات الأمريكية على إيران",
+   "summary": "أسعار النفط تنتعش مع تجدد المخاوف بشأن الإمدادات من الضربات الأمريكية على إيران",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "أسعار النفط تنتعش مع تجدد المخاوف بشأن الإمدادات من الضربات الأمريكية على إيران."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:45:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "one-dead-after-two-helicopters-collide-near-moun",
+   "country": "Nepal",
+   "label": "نيبال",
+   "lat": 28.4,
+   "lon": 84.1,
+   "flag": "🇳🇵",
+   "severity": "critical",
+   "category": "World",
+   "headline": "قتيل بعد اصطدام طائرتين هليكوبتر بالقرب من جبل إيفرست في نيبال",
+   "summary": "وأكدت السلطات مقتل مواطن هندي يبلغ من العمر 47 عامًا وإصابة شخصين.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "قتيل بعد اصطدام طائرتين هليكوبتر بالقرب من جبل إيفرست في نيبال."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وأكدت السلطات مقتل مواطن هندي يبلغ من العمر 47 عامًا وإصابة شخصين."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:06:07Z",
+   "countries": [
+    "Nepal",
+    "India"
    ]
   }
  ]

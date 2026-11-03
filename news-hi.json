@@ -1,10 +1,131 @@
 {
- "updated": "2026-11-02T10:03:01.721685Z",
+ "updated": "2026-11-03T10:08:04.600439Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
   {
-   "id": "pakistan-assumes-chairmanship-of-sco-interbank-c",
+   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "सऊदी अरब पर हमले के बाद एशियाई कप स्थगित",
+   "summary": "मेज़बान देश पर सिलसिलेवार घातक हमलों के कारण सऊदी अरब में 2027 एशियाई कप स्थगित कर दिया गया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "सऊदी अरब पर हमले के बाद एशियाई कप स्थगित।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "मेज़बान देश पर सिलसिलेवार घातक हमलों के कारण सऊदी अरब में 2027 एशियाई कप स्थगित कर दिया गया है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T07:15:17Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "u-s-military-carries-out-limited-strikes-on-iran",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "अमेरिकी अधिकारियों का कहना है कि अमेरिकी सेना ने ईरान के क़ेशम द्वीप पर सीमित हमले किए हैं",
+   "summary": "अमेरिकी अधिकारियों का कहना है कि अमेरिकी सेना ने ईरान के क़ेशम द्वीप पर सीमित हमले किए हैं",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अमेरिकी अधिकारियों का कहना है कि अमेरिकी सेना ने ईरान के क़ेशम द्वीप पर सीमित हमले किए हैं।"
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUlWcUZ0NmY5aG5Ed0pLb0JGbzdIMDhsd3U5aUVNREtrY0tCZU9JVTFsUU8weWU0OW84Z193bkNfTkVzNG5YSnFuYXJxLWlPWVVjNmZ6UlVpMU0xc0tSYWprbDNIa1pqRlQyb1ZGRC12OVZla0dSWkdkWGM2YmhwMzJxbEtQM2pyWnk5S2tpRzlOa2w5ZXZNTUI5LWhOWUlESWdKYWdXcWNWWjZKQnh6b1Z5S1k1NFk?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:18:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-russia-and-ukraine-to-resume-peace-talks-in-",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "विटकॉफ़ का कहना है कि अमेरिका, रूस और यूक्रेन अगले सप्ताह अबू धाबी में शांति वार्ता फिर से शुरू करेंगे",
+   "summary": "विटकॉफ़ का कहना है कि अमेरिका, रूस और यूक्रेन अगले सप्ताह अबू धाबी में शांति वार्ता फिर से शुरू करेंगे",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "विटकॉफ़ का कहना है कि अमेरिका, रूस और यूक्रेन अगले सप्ताह अबू धाबी में शांति वार्ता फिर से शुरू करेंगे।"
+    }
+   ],
+   "source": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa09zVHBJLUx0cFhYX1paZnhnT1RqYWx6bF9idUtVNFZ3TVpvd0R0OFE2WTdYWW1MeXFpWGhBR3FWS1c0ZjNlWW8xQW5ZYWlFV2pwR0NISTdiSFh2alU5V05kYUdNVjBFTXQxbFFPZ0RpMnZDVVczbzRESFNTWENLeWo3Mm81STZJVEluXzgtU2RrUQ?oc=5",
+   "type": null,
+   "time": "2026-11-03T03:12:58Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "मध्यावधि चुनाव से पहले अमेरिका ने ईरानी द्वीप पर हमला किया",
+   "summary": "बीबीसी के अमेरिकी साझेदार सीबीएस के अनुसार, अमेरिकी अधिकारियों ने केशम द्वीप पर हमलों को सीमित और रक्षात्मक बताया।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "मध्यावधि चुनाव से पहले अमेरिका ने ईरानी द्वीप पर हमला किया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "बीबीसी के अमेरिकी साझेदार सीबीएस के अनुसार, अमेरिकी अधिकारियों ने केशम द्वीप पर हमलों को सीमित और रक्षात्मक बताया।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T03:39:08Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-reduces-fuel-rates-as-global-oil-prices",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
@@ -12,12 +133,133 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "पाकिस्तान ने 2026-27 के लिए एससीओ इंटरबैंक कंसोर्टियम की अध्यक्षता संभाली",
-   "summary": "वित्त मंत्रालय ने सोमवार को कहा कि पाकिस्तान ने 2026-27 के लिए शंघाई सहयोग संगठन इंटरबैंक कंसोर्टियम (एससीओ-आईबीसी) की अध्यक्षता संभाली है। एचबीएल के अध्यक्ष सुल्तान अली अल्लाना ने इस अवधि के लिए कंसोर्टियम के प्रमुख के रूप में पदभार संभाला है।",
+   "headline": "अमेरिका-ईरान शांति की उम्मीदों के बीच वैश्विक तेल की कीमतों में गिरावट के कारण पाकिस्तान ने ईंधन दरें कम कर दीं",
+   "summary": "अमेरिका-ईरान शांति की उम्मीदों के बीच वैश्विक तेल की कीमतों में गिरावट के कारण पाकिस्तान ने ईंधन दरें कम कर दीं",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान ने 2026-27 के लिए एससीओ इंटरबैंक कंसोर्टियम की अध्यक्षता संभाली।"
+     "text": "अमेरिका-ईरान शांति की उम्मीदों के बीच वैश्विक तेल की कीमतों में गिरावट के कारण पाकिस्तान ने ईंधन दरें कम कर दीं।"
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlR1eVUwcVJBWXl0Q082b2xxZWF1TTJHQmhRM0JhV3JnaHFZb2tXU0NZZ2dIQkN0M0lKTktpdXpBOC1RU3pZNG9KUmdOVkdvbllHc2FjMldsS3RuRlhhdzg2M1l3X29nY0RlcW1uM2t0M3BrMmdPN1RRN2FCM1VabldpcWhzbEo3NllZa1AzMXlReG5yczlfTW0zRzFWOHdJcFVZb0VUcGpjR1VHODU2TVlZcUU1cHNIS3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:44:23Z",
+   "countries": [
+    "Pakistan",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "cricket-world-cup-india-vs-pakistan-gets-more-ti",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "क्रिकेट विश्व कप: भारत बनाम पाकिस्तान को फाइनल से ज्यादा टिकट के अनुरोध मिले",
+   "summary": "आईसीसी को जोहान्सबर्ग में 10 अक्टूबर को होने वाले ग्रुप स्टेज मैच के लिए 34,000 सीटों के लिए 8.4 मिलियन टिकट अनुरोध प्राप्त हुए।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "क्रिकेट विश्व कप: भारत बनाम पाकिस्तान को फाइनल से ज्यादा टिकट के अनुरोध मिले।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "समझा। जारी रखें।"
+    },
+    {
+     "role": "ANALYST",
+     "text": "आईसीसी को जोहान्सबर्ग में 10 अक्टूबर को होने वाले ग्रुप स्टेज मैच के लिए 34,000 सीटों के लिए 8.4 मिलियन टिकट अनुरोध प्राप्त हुए।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T09:12:40Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "South Africa"
+   ]
+  },
+  {
+   "id": "here-s-how-pakistan-suffered-40-billion-in-econo",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "यहां बताया गया है कि भारत के साथ व्यापार निलंबित होने के कारण पाकिस्तान को 40 अरब डॉलर का आर्थिक नुकसान हुआ",
+   "summary": "यहां बताया गया है कि भारत के साथ व्यापार निलंबित होने के कारण पाकिस्तान को 40 अरब डॉलर का आर्थिक नुकसान हुआ",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यहां बताया गया है कि भारत के साथ व्यापार निलंबित होने के कारण पाकिस्तान को 40 अरब डॉलर का आर्थिक नुकसान हुआ।"
+    }
+   ],
+   "source": "The Statesman",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR1NSUVNRa3ZmSDhGTTY0QWxjNUotR3FyT1VNdWRKMG5XN0w2bUVWRVd1Z0ZzMF9qcHBZS29WeWxoMzY4WmZlVy05bDhYSk9kcWdka1NOUDJzaVRCTUFTM29CNmNaTFU5UWVkZXVuWThSZHp4OFktVHF2NHNialFjWTJUQ2lEWlRGM3ZkWTZ5ZlI2bWpQZjVUN3FFUS1YNDVvcDdRMjJxUEtNemNFZXdxNnJHWFFGOVI3MG5hazBmUXdheDQ2cXlWSXpvYkFwc3dlWWxJeTcwT0Y2OU5o0gHiAUFVX3lxTE02cUhkM21XRm1QOFVPSjdCMUwzZFNNRlFaVkxTQ1dxVEFHUzJ2LUQzTzYyRmg5OVpDVlhaVXM3RlM2dThaemZOOUhKLXYxR3p6enJiX1N6V0x5ZXl1cFZTUThsODBua3VvWlFFVko5cVMwYVExdEtqLVZSWGxVeXZzdW9DWTZ1SWtZNWtlUDVfVHZwUmhxdk4xcEE5QUtUYjdpY1RMWi16ME95OHh0SmdlblNfMGxDTkRwbWZvaDZqdFlLR2ZxSXc5Vl8zUENHb2pkd1RiZV9VcXBUa2RWX08zZEE?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:39:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "when-will-we-know-the-us-midterm-election-result",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "हमें अमेरिकी मध्यावधि चुनाव परिणाम कब पता चलेंगे?",
+   "summary": "पहला परिणाम मंगलवार को आने की उम्मीद है क्योंकि मतदान 23:00 जीएमटी पर बंद होने लगेंगे। लेकिन अंतिम नतीजे आने में कई दिन लग सकते हैं.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "हमें अमेरिकी मध्यावधि चुनाव परिणाम कब पता चलेंगे?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ठीक है। विवरण?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "पहला परिणाम मंगलवार को आने की उम्मीद है क्योंकि मतदान 23:00 जीएमटी पर बंद होने लगेंगे। लेकिन अंतिम नतीजे आने में कई दिन लग सकते हैं."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:27:21Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-to-remove-rwanda-and-south-africa-from-us-",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ट्रम्प अमेरिकी व्यापार समझौते से रवांडा और दक्षिण अफ्रीका को हटाएंगे",
+   "summary": "यह कदम रवांडा के रक्षा मंत्रालय पर अमेरिकी ट्रेजरी द्वारा प्रतिबंध लगाए जाने के बमुश्किल एक हफ्ते बाद उठाया गया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ट्रम्प अमेरिकी व्यापार समझौते से रवांडा और दक्षिण अफ्रीका को हटाएंगे।"
     },
     {
      "role": "COMMANDER",
@@ -25,131 +267,46 @@
     },
     {
      "role": "ANALYST",
-     "text": "वित्त मंत्रालय ने सोमवार को कहा कि पाकिस्तान ने 2026-27 के लिए शंघाई सहयोग संगठन इंटरबैंक कंसोर्टियम (एससीओ-आईबीसी) की अध्यक्षता संभाली है। एचबीएल के अध्यक्ष सुल्तान अली अल्लाना ने इस अवधि के लिए कंसोर्टियम के प्रमुख के रूप में पदभार संभाला है।"
+     "text": "यह कदम रवांडा के रक्षा मंत्रालय पर अमेरिकी ट्रेजरी द्वारा प्रतिबंध लगाए जाने के बमुश्किल एक हफ्ते बाद उठाया गया है।"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041585/pakistan-assumes-chairmanship-of-sco-interbank-consortium-for-2026-27",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T07:25:43Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "oil-prices-slide-more-than-3-as-trump-signals-mo",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "तेल की कीमतों में 3% से अधिक की गिरावट आई क्योंकि ट्रम्प ने ईरान कूटनीति के लिए अधिक समय का संकेत दिया",
-   "summary": "तेल की कीमतों में 3% से अधिक की गिरावट आई क्योंकि ट्रम्प ने ईरान कूटनीति के लिए अधिक समय का संकेत दिया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "तेल की कीमतों में 3% से अधिक की गिरावट आई क्योंकि ट्रम्प ने ईरान कूटनीति के लिए अधिक समय का संकेत दिया।"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT2RZbUR3bEtVUzBna1hJbGUwNHBnLXRJQkhtZDRDLXkyNkFlYzFHTU1ndUh0T1J5RHQ4aEpjWVhfT3F1cUVkS2dqc2NIdXFIaTdDSk1BbXJtNmR2eDNMa3M2TEpEbXR4VEtyYmYyS3pDeW50SGhicmNha2NDc0xvTXFGUnJ0UTd3RWZQNA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-02T07:47:54Z",
+   "time": "2026-11-03T03:00:36Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "South Africa"
    ]
   },
   {
-   "id": "abu-dhabi-s-adnoc-g42-sign-deal-with-openai-as-s",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "सैम अल्टमैन के संयुक्त अरब अमीरात की यात्रा के दौरान अबू धाबी के एडीएनओसी, जी42 ने ओपनएआई के साथ समझौते पर हस्ताक्षर किए",
-   "summary": "सैम अल्टमैन के संयुक्त अरब अमीरात की यात्रा के दौरान अबू धाबी के एडीएनओसी, जी42 ने ओपनएआई के साथ समझौते पर हस्ताक्षर किए",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सैम अल्टमैन के संयुक्त अरब अमीरात की यात्रा के दौरान अबू धाबी के एडीएनओसी, जी42 ने ओपनएआई के साथ समझौते पर हस्ताक्षर किए।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:40:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-condemns-attack-on-qatar-s-lng-carrier-in-gu",
-   "country": "Qatar",
-   "label": "कतर",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
+   "id": "us-has-conducted-defensive-strikes-on-iranian-ta",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "यूएई ने खाड़ी में कतर के एलएनजी वाहक पर हमले की निंदा की",
-   "summary": "यूएई ने खाड़ी में कतर के एलएनजी वाहक पर हमले की निंदा की",
+   "headline": "अमेरिकी अधिकारी का कहना है कि अमेरिका ने होर्मुज जलडमरूमध्य में ईरानी ठिकानों पर रक्षात्मक हमले किए हैं",
+   "summary": "अमेरिकी अधिकारी का कहना है कि अमेरिका ने होर्मुज जलडमरूमध्य में ईरानी ठिकानों पर रक्षात्मक हमले किए हैं",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "यूएई ने खाड़ी में कतर के एलएनजी वाहक पर हमले की निंदा की।"
+     "text": "अमेरिकी अधिकारी का कहना है कि अमेरिका ने होर्मुज जलडमरूमध्य में ईरानी ठिकानों पर रक्षात्मक हमले किए हैं।"
     }
    ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRjIwSVFUelVmeUZGUnJQU1NxcUEydjE1Y05qb2dqd0Y4Vlc5NTR5b0haRlYxRnl1cERnZmdWTXQ5cl9UekRuTnljanotYkdya3BHVEhhWXdZd1J1LWh6TndBamFVVVgzaV90VGNBSzJaYzgzUDNtcHAwZnlyNUkwS3JYQkJCWUt3Umd0YThUdlJkS3NtN1BocGZ6RnBBRXVCbGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlZQOGFnNWxyTG91ZkxGMkdDdlNhd1RuRUZzblYtZGxfOGpReXI2cE5oazAzZkFQRW96Y3VrUkdfenVFWWtPS1BfaFBYYWQ1WVBMVmpuaTZuU3llOGZNMF85QnVGRHAwZlphVWVoaDFiZWhoMWVjalhyTE5na3BVWjVHcmIyWDFoU0FnU2ZBaFZyOE5GRGJqQzdR?oc=5",
    "type": null,
-   "time": "2026-11-01T23:44:00Z",
+   "time": "2026-11-03T02:38:00Z",
    "countries": [
-    "Qatar",
-    "United Arab Emirates"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "nuclear-radiation-in-russia-ukraine-no-just-hack",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "रूस, यूक्रेन में परमाणु विकिरण? नहीं, बस चेतावनी अलर्ट हैक कर लिया गया है",
-   "summary": "चेतावनियों ने यूक्रेन में लोगों को चौंका दिया, लेकिन अधिकारियों का कहना है कि उन्होंने एक घंटे के भीतर भ्रम को दूर कर दिया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रूस, यूक्रेन में परमाणु विकिरण? नहीं, बस चेतावनी अलर्ट हैक कर लिया गया है।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "अब क्या स्थिति है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "चेतावनियों ने यूक्रेन में लोगों को चौंका दिया, लेकिन अधिकारियों का कहना है कि उन्होंने एक घंटे के भीतर भ्रम को दूर कर दिया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-02T09:35:46Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ukraine-russia-report-hacking-attacks-on-emergen",
+   "id": "russian-attack-on-ukraine-aid-hub-kills-29-as-us",
    "country": "Ukraine",
    "label": "यूक्रेन",
    "lat": 49.0,
@@ -157,351 +314,240 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "ओलेस्की युद्धविराम समाप्त होने के बाद यूक्रेन, रूस ने आपातकालीन अलर्ट ऐप्स पर हैकिंग हमलों की रिपोर्ट दी",
-   "summary": "ओलेस्की युद्धविराम समाप्त होने के बाद यूक्रेन, रूस ने आपातकालीन अलर्ट ऐप्स पर हैकिंग हमलों की रिपोर्ट दी",
+   "headline": "अमेरिका द्वारा नई शांति वार्ता की घोषणा के बीच यूक्रेन सहायता केंद्र पर रूसी हमले में 29 लोग मारे गये",
+   "summary": "अधिकारियों का कहना है कि दक्षिणी यूक्रेन के एक गांव में 3,000 किलोग्राम के कम से कम नौ हवाई बम हमले किए गए, जिसे राष्ट्रपति ने \"बेहद भयावह\" हमला बताया।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ओलेस्की युद्धविराम समाप्त होने के बाद यूक्रेन, रूस ने आपातकालीन अलर्ट ऐप्स पर हैकिंग हमलों की रिपोर्ट दी।"
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
-   "type": null,
-   "time": "2026-11-02T09:33:08Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "houthi-attacks-and-saudi-arabia-s-security-dilem",
-   "country": "Yemen",
-   "label": "यमन",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "हौथी हमले और सऊदी अरब की सुरक्षा दुविधा",
-   "summary": "हौथी हमले और सऊदी अरब की सुरक्षा दुविधा",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "हौथी हमले और सऊदी अरब की सुरक्षा दुविधा।"
-    }
-   ],
-   "source": "Politics Today",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbm4wQ3BuSlpXSC0wWUduZU5PSl9sb2otQ0lHd2V5MlFFcEgtQmxRYkhDTnN5M192a0pqejZBbElDWWFtSHQxOGZXdFpIcjBCamhYTk5WWE5aTW1SVm9VLTFUWGxucFlGWnZORmdfWVZTbmFLVGxWMzBIeENZeGEybENR?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:05:58Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-drops-almost-4-on-hopes-of-progress-in-talks",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "अमेरिका-ईरान युद्ध समाप्त करने पर बातचीत में प्रगति की उम्मीद से तेल लगभग 4% गिर गया",
-   "summary": "अमेरिका-ईरान युद्ध समाप्त करने पर बातचीत में प्रगति की उम्मीद से तेल लगभग 4% गिर गया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिका-ईरान युद्ध समाप्त करने पर बातचीत में प्रगति की उम्मीद से तेल लगभग 4% गिर गया।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeHdxcnVlWmx5T1pjbDZQS19XeXlYTW1xZmNONnJQWHk4YU1EQTRzZFZQVEJxYjd6WEJTN2pfZC10ZGlzXzVURVdHZkg1RjZGY2tjN0ZVRjNRc0p4UmQ1c2F6MUt4eEpHSml6Z3Q4WHpqV094aEo0dTlVbk00OGFBazlmdGhsWGdtckFHQjlBTVU5Q0FRR3hxUnVmcVpPeGZsTHBlWmhTdw?oc=5",
-   "type": null,
-   "time": "2026-11-01T23:13:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-a-missile-as-figh",
-   "country": "Yemen",
-   "label": "यमन",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "यमन के अल-जौफ़ में लड़ाई तेज़ होने के बीच सऊदी नेतृत्व वाले गठबंधन ने एक मिसाइल को रोका",
-   "summary": "हौथी-संबद्ध मीडिया की रिपोर्ट है कि होदेइदाह शहर पर हुए हमलों में सात लोग घायल हो गए।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यमन के अल-जौफ़ में लड़ाई तेज़ होने के बीच सऊदी नेतृत्व वाले गठबंधन ने एक मिसाइल को रोका।"
+     "text": "अमेरिका द्वारा नई शांति वार्ता की घोषणा के बीच यूक्रेन सहायता केंद्र पर रूसी हमले में 29 लोग मारे गये।"
     },
     {
      "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
+     "text": "इसके पीछे कौन है?"
     },
     {
      "role": "ANALYST",
-     "text": "हौथी-संबद्ध मीडिया की रिपोर्ट है कि होदेइदाह शहर पर हुए हमलों में सात लोग घायल हो गए।"
+     "text": "अधिकारियों का कहना है कि दक्षिणी यूक्रेन के एक गांव में 3,000 किलोग्राम के कम से कम नौ हवाई बम हमले किए गए, जिसे राष्ट्रपति ने \"बेहद भयावह\" हमला बताया।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOXNCcFZ3enhVSFJfdHQyZ1N3bjdWWVVQMk5seXRsWW42X2Z5Yi1sbFN4ZmJRRlhqa0FCbkZOemN5b0Q0eVdvWmpaN1h0TjZXdmkzd0VkdVQ1VnY2TEVibHNTbmJDSnlDSzZLbDRBRnNvdUFmUklDUFlrblJYMkZheE5PNkE4WmxwX0N0ZVNNTHZCMENneHZiTVhYeWktcE5jODNzN3ZzS2tpZ9IBrwFBVV95cUxNcXhuNzZpVXhhdE5PMDRIbkFKSlFENEZNcVJSZWNyTVU5RFc2a1BiODJfMmNldWNGanNERVdNdEJRdi1ncWZnRWxQWUJ3VGZkWVpuWnJabDlDS1RYY0JZUWZ0X3U1N1F2Z0JHbkJ6X0RpQWFFQXQtR1dxU1lTSWEzYS1qcnBpMXdSWnprckVGQjdsMnREck1jWmtqS1ZTLW9GUktBUGNPOXhJN1J3SDVz?oc=5",
    "type": null,
-   "time": "2026-11-02T09:43:59Z",
+   "time": "2026-11-03T09:45:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-around-3-amid-iran-war-peace-tal",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ईरान युद्ध शांति वार्ता रिपोर्ट के बीच तेल की कीमतों में लगभग 3% की गिरावट | दैनिक सबा",
-   "summary": "ईरान युद्ध शांति वार्ता रिपोर्ट के बीच तेल की कीमतों में लगभग 3% की गिरावट | दैनिक सबा",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान युद्ध शांति वार्ता रिपोर्ट के बीच तेल की कीमतों में लगभग 3% की गिरावट | दैनिक सबा."
-    }
-   ],
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYXhJdU5yVksyRUJIeFMtRGJSQU9FNnFDZVMxM1VMdlhSVU1oLVZkSlpJc1p5b18wcGpuY1RkdkNDTHBOVnlGNjROTHp5bjh0QUFGMDcxU0s3TkZFb2FZYWVDQThnVWQxUzFUaVFOSmhieFpVNURLbG4yYlhKY0xfQ1VKMXVvWFozMU4tRmUtcFhOUDFNNnBkcGtUU0oxdzVhWF9zemwxbnnSAagBQVVfeXFMTmF4SXVOclZLMkVCSHhTLURiUkFPRTZxQ2VTMTNVTHZYUlVNaC1WZEpaSXNaeW9fMHBqbmNUZHZDQ0xwTlZ5RjY0Tkx6eW44dEFBRjA3MVNLN05GRW9hWWFlQ0E4Z1VkMVMxVGlRTkpoYnhaVTVES2xuMmJYSmNMX0NVSjF1b1haMzFOLUZlLXBYTlAxTTZwZHBrVFNKMXc1YVhfc3psMW55?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:50:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-destroyed-houthi-mis",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने राज्य के दक्षिणी क्षेत्र को निशाना बनाने वाली हौथी मिसाइल को नष्ट कर दिया",
-   "summary": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने राज्य के दक्षिणी क्षेत्र को निशाना बनाने वाली हौथी मिसाइल को नष्ट कर दिया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने राज्य के दक्षिणी क्षेत्र को निशाना बनाने वाली हौथी मिसाइल को नष्ट कर दिया।"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd0V5emQxTm5BcEdmeWVrSjRFNWRIdUpfT2ZjZ0YzYmN3MTQ2UGZhRnVrWmdaTDdlRmxTYkN1Ml9tRGl1a3p2dWNXeF9UZmdzbHpfSW90TFd6c3dSTHhVUVVuZ0xXeW9GSVdsM2JZckRHODVxZWNpZVpEcDRUOU9lLVhvZ284U2dyMnRiT2ZUWmJpeDZsRE5IbmhfcURLMEp6SnYxay1yNjRNYTE0M1VSM0RUeml1YkZ4Y0RTNy1GOFpwZVVBTmpN?oc=5",
-   "type": null,
-   "time": "2026-11-02T07:13:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-lng-cargo-attacked-near-hormuz-had-iran",
-   "country": "Iran",
-   "label": "होर्मुज़ जलडमरूमध्य",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "होर्मुज के पास पाकिस्तान एलएनजी कार्गो पर हमला, ईरान की मंजूरी थी",
-   "summary": "होर्मुज के पास पाकिस्तान एलएनजी कार्गो पर हमला, ईरान की मंजूरी थी",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "होर्मुज के पास पाकिस्तान एलएनजी कार्गो पर हमला, ईरान की मंजूरी थी।"
-    }
-   ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0hUQWdzWTA5cjZaOFAwYkdWYmM1ak1KNXhJTDk2RVhnY0lfSWFsekFTcUhDY25faVlzVElMNUp1YXlHeWVPaVdMc3VYRTFMejlVTV9PMWR3a3A3RHFsQTJnZDJqRC1KX1o1YVlkczhjNlBOOHJBVlZod2tCemxkVnVLTWRqaERaNEJoNWdVTnE1cjlyMktVVmVSQVBfaGpELW9SNlVhVmxqV1haOGNNSA?oc=5",
-   "type": null,
-   "time": "2026-11-01T14:48:21Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "यूएस-इजरायल-ईरान युद्ध: यूएई के निवासियों को आज क्या जानने की जरूरत है (2 नवंबर, 2026)",
-   "summary": "यूएस-इजरायल-ईरान युद्ध: यूएई के निवासियों को आज क्या जानने की जरूरत है (2 नवंबर, 2026)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूएस-इजरायल-ईरान युद्ध: यूएई के निवासियों को आज क्या जानने की जरूरत है (2 नवंबर, 2026)।"
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXQyTENzVkpNZ1phbVFfM240cEt1eE40TG5QdzM5RVRaM0k1Z1A0ZFJ5dWJGS2ZlNWxNZlBtVTYzSTg0cHVsSHNJUjZ2RFdLaXBBekE1NHZqdzhpcWFUX0JjM1VkU21ybVhoSjdkcFpvOEVKVHNVOW5hRm9fV25IS3R3bkhweUJmeGFkZ0ZBNUZ1YlZBTDBiUHE5am5qVDdra3pUcVo2SdIBtwFBVV95cUxPcDR0aTBRejZ1SjlyUVNHWTFJaG1qazRobzBFbV9fOWVDWU5xdE1pQ05FREsyNkVyd2llZmRIMW4weFlTdXplSVFXaFo5ODl2MGF5WHVwQm5DRUk0VllqbG9jVDR4dHRGSmZsbEEwQ1RodFpoY1pxMG1TeGI3VThxTUh0ZndDSjNfYm12am5vLUdhajJXdWNyUXVNUUhYcmN6M1dzczlYNWkyZWRfQlo2LWY5cE5YQXc?oc=5",
-   "type": null,
-   "time": "2026-11-02T06:44:57Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-says-hoping-for-breakthrough-yet-braced-for-",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "यूएई का कहना है कि ईरान-अमेरिका युद्ध में सफलता की उम्मीद है, फिर भी 'सबसे खराब स्थिति के लिए तैयार' हूं",
-   "summary": "यूएई का कहना है कि ईरान-अमेरिका युद्ध में सफलता की उम्मीद है, फिर भी 'सबसे खराब स्थिति के लिए तैयार' हूं",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूएई का कहना है कि ईरान-अमेरिका युद्ध में सफलता की उम्मीद है, फिर भी 'सबसे खराब स्थिति के लिए तैयार' हूं।"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUdBYlNXM2QwMHYxeldZaDdaa0lWWXhHeEVOdWUtRl9XTDZEVWx0QnJQbHotUGR3Wk0yMlBiTm1oM01ZaWRqcnRfMVdFWThkYnFFR2RlYWtWcVB6UzVzanF2Z1BCUzFERDNzV2xJdnRabElaUVA1V2h6X1IxRDF1WnBWVUVFMXo4RTYwZ0dMdlV6clJQaTFMVTNnQ3ltSUJlM3Q0dVJYbFB0TnN1X0xCS0V3bWY?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:28:00Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates",
+    "Ukraine",
+    "Russia",
     "United States of America"
    ]
   },
   {
-   "id": "ukmto-says-two-projectiles-hit-tanker-off-saudi-",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "यूकेएमटीओ का कहना है कि रास अल खाफजी के पास सउदी अरब के पास दो प्रोजेक्टाइल ने टैंकर को टक्कर मार दी: कैसे 5 आउटलेट्स ने इसे तैयार किया",
-   "summary": "यूकेएमटीओ का कहना है कि रास अल खाफजी के पास सउदी अरब के पास दो प्रोजेक्टाइल ने टैंकर को टक्कर मार दी: कैसे 5 आउटलेट्स ने इसे तैयार किया",
+   "id": "fighting-returns-to-kherson-region-after-longest",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "यूक्रेन में सबसे लंबे युद्ध के बाद युद्ध विराम के बाद खेरसॉन क्षेत्र में फिर से लड़ाई शुरू हो गई है",
+   "summary": "हालांकि अभूतपूर्व, छह दिवसीय संघर्ष विराम ने युद्ध के व्यापक प्रक्षेप पथ को बदलने में बहुत कम योगदान दिया है जो लगातार जारी है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "यूकेएमटीओ का कहना है कि रास अल खाफजी के पास सउदी अरब के पास दो प्रोजेक्टाइल ने टैंकर को टक्कर मार दी: कैसे 5 आउटलेट्स ने इसे तैयार किया।"
-    }
-   ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGhpbGRHY2lCclVFbVVzclJDRmNNdkgwTmY3Q3hPSF9xSm5yMDlycUJ6bDhvUTBpMEJwVHo3SkxvclhPSGI2blFtRVRSbmFTNlY0dmp6NEpfV180UEo0QTVYSXRCRE9KX09KU3NRaXpTeUk3N1FEQVV0enBOeWthZVhUNzZGUDJHUVpnc3VOOFFfcm10ZXlnLXBOaFc3bGhYRm1YblpBUnc1WGhHeTViUUNDLWItTGR1cV9vRkZBbnRoRWNScUd5Tk1EejRoRGE0akRxNnRaSzU0VGNsOVZ4Tg?oc=5",
-   "type": null,
-   "time": "2026-11-02T05:21:17Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "pakistan-outperforms-vietnam-in-rice-exports",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "चावल निर्यात में पाकिस्तान ने वियतनाम को पीछे छोड़ दिया है",
-   "summary": "लाहौर: बढ़ते भू-राजनीतिक संघर्ष और वैश्विक शिपिंग उथल-पुथल के सामने उल्लेखनीय लचीलेपन का प्रदर्शन करते हुए, पाकिस्तान के प्रीमियम बासमती चावल निर्यात ने अमेरिका-ईरान संघर्ष और व्यापक खाड़ी क्षेत्र के व्यवधानों की सदमे की लहरों को अवशोषित कर लिया है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "चावल निर्यात में पाकिस्तान ने वियतनाम को पीछे छोड़ दिया है।"
+     "text": "यूक्रेन में सबसे लंबे युद्ध के बाद युद्ध विराम के बाद खेरसॉन क्षेत्र में फिर से लड़ाई शुरू हो गई है।"
     },
     {
      "role": "COMMANDER",
-     "text": "यह कदम क्यों?"
+     "text": "कोई हताहत?"
     },
     {
      "role": "ANALYST",
-     "text": "लाहौर: बढ़ते भू-राजनीतिक संघर्ष और वैश्विक शिपिंग उथल-पुथल के सामने उल्लेखनीय लचीलेपन का प्रदर्शन करते हुए, पाकिस्तान के प्रीमियम बासमती चावल निर्यात ने अमेरिका-ईरान संघर्ष और व्यापक खाड़ी क्षेत्र के व्यवधानों की सदमे की लहरों को अवशोषित कर लिया है।"
+     "text": "हालांकि अभूतपूर्व, छह दिवसीय संघर्ष विराम ने युद्ध के व्यापक प्रक्षेप पथ को बदलने में बहुत कम योगदान दिया है जो लगातार जारी है।"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041438/pakistan-outperforms-vietnam-in-rice-exports",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-02T01:06:34Z",
+   "time": "2026-11-02T17:33:19Z",
    "countries": [
-    "Pakistan",
-    "Vietnam",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-oil-refineries-targeted-as-ukraine-renew",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "यूक्रेन के दोबारा हमले के कारण रूसी तेल रिफाइनरियों को निशाना बनाया गया",
-   "summary": "यूक्रेन के दोबारा हमले के कारण रूसी तेल रिफाइनरियों को निशाना बनाया गया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूक्रेन के दोबारा हमले के कारण रूसी तेल रिफाइनरियों को निशाना बनाया गया।"
-    }
-   ],
-   "source": "www.tmgm.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRWxWYVNIZERrdkE4LWY4V2pmSWlaM1FJZm50c0ZYUFpaOWZkY1Q3RlFQaFdxSlMtMFF5Slo1Z1dPYXZvM0dZbFoyY1FjSHh4RVUxVVNPZGRETkF4YUtBWHI1cmxLdDhvREJ1dHkzM2gwZEtwckY4bFlnV0doek0ybjRuNGk0cWhuT01Sc0tXOHYydzBoUFc1WkVDNzhHRmg2NVJKSDBORjV5NWZBN2V0cmxONXR3dGNmYnc?oc=5",
-   "type": null,
-   "time": "2026-11-02T01:36:46Z",
-   "countries": [
-    "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "magrabi-to-buy-uae-s-dubai-optical-adding-15-sto",
+   "id": "north-korea-denies-being-behind-record-6-3bn-bin",
+   "country": "North Korea",
+   "label": "उत्तर कोरिया",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "उत्तर कोरिया ने रिकॉर्ड $6.3 बिलियन बिनेंस हैक के पीछे होने से इनकार किया है",
+   "summary": "अमेरिकी सरकारी एजेंसियों और साइबर विश्लेषकों ने इस रिकॉर्ड तोड़ डकैती के लिए प्योंगयांग को जिम्मेदार ठहराया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "उत्तर कोरिया ने रिकॉर्ड $6.3 बिलियन बिनेंस हैक के पीछे होने से इनकार किया है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "समझा। जारी रखें।"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अमेरिकी सरकारी एजेंसियों और साइबर विश्लेषकों ने इस रिकॉर्ड तोड़ डकैती के लिए प्योंगयांग को जिम्मेदार ठहराया है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T08:33:20Z",
+   "countries": [
+    "North Korea",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-plans-more-energy-channels-as-war-disrupts-e",
    "country": "United Arab Emirates",
    "label": "संयुक्त अरब अमीरात",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "MAGRABi संयुक्त अरब अमीरात के दुबई ऑप्टिकल को खरीदेगी और 15 स्टोर जोड़ेगी",
-   "summary": "MAGRABi संयुक्त अरब अमीरात के दुबई ऑप्टिकल को खरीदेगी और 15 स्टोर जोड़ेगी",
+   "headline": "संयुक्त अरब अमीरात अधिक ऊर्जा चैनलों की योजना बना रहा है क्योंकि युद्ध निर्यात मार्गों को बाधित करता है",
+   "summary": "संयुक्त अरब अमीरात अधिक ऊर्जा चैनलों की योजना बना रहा है क्योंकि युद्ध निर्यात मार्गों को बाधित करता है",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "MAGRABi संयुक्त अरब अमीरात के दुबई ऑप्टिकल को खरीदेगी और 15 स्टोर जोड़ेगी।"
+     "text": "संयुक्त अरब अमीरात अधिक ऊर्जा चैनलों की योजना बना रहा है क्योंकि युद्ध निर्यात मार्गों को बाधित करता है।"
     }
    ],
-   "source": "Dealroom",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWkwTlJKSUg1UVhnSkZKYmFMUXR4LUpEcTNBU3Nwd285eWVIUDByRUwtMGhuVEhKN193ZnllTkxCWmZJb1VDbjc0OFdmSGxvazJQaTBjSEUxbjJZQ04xZWR5OXM0eUlKN19Gdnk5Vm8zV0VmdkcxclgxcU5PUzFldkpJb0djRnpPNkt4TEpn?oc=5",
+   "source": "The Circuit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1pKT1dlRzc1UG1hY1BITVZpMW54YVhpV290U0xaMlgwUWlSLWU1M2hMYmxhZkhWM3VLeUxRUFUxNHZOQzVvUU9Zd2o5Q1FXeVRCR2ktY2VoUnpsQVpESWpENVBqdWtNMTF6MWRDSTU0TVBoSUUwejAzc0EzMHd4SVh1dWhULUFreFlacWxsQXY2WmhiSlo4ag?oc=5",
    "type": null,
-   "time": "2026-11-02T06:14:03Z",
+   "time": "2026-11-03T10:05:04Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "aramco-profit-beats-estimates-after-refining-boo",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "रिफाइनिंग बूम, तेल उछाल के बाद अरामको के मुनाफे ने अनुमान को पीछे छोड़ दिया",
+   "summary": "रिफाइनिंग बूम, तेल उछाल के बाद अरामको के मुनाफे ने अनुमान को पीछे छोड़ दिया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "रिफाइनिंग बूम, तेल उछाल के बाद अरामको के मुनाफे ने अनुमान को पीछे छोड़ दिया।"
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFZidUVNR21lLTV0emU0cjY4MmRHRDRNNHl4ODdlN25Ea1hkQ1ExQVhxNE1uWmo1TzRlUm5DR1c2a0dKU25uN3V3d2JxTU9pQkJHaGx3bUZRaUNfWVRaZDBTOFd4QjZGaEx3WkhleG9QWERyTEZ0Vi1RenV2TVBtUWtUUGhBNkEtaXpsc0sxZ3ZSNzZRWnBqU19kWE1OWVZiN2VFOVpNNENVS19LdklN?oc=5",
+   "type": null,
+   "time": "2026-11-03T09:35:50Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "tenerife-striker-de-miguel-dies-after-on-field-c",
+   "country": "Spain",
+   "label": "स्पेन",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "टेनेरिफ़ के स्ट्राइकर डी मिगुएल की मैदान पर टक्कर के बाद मृत्यु हो गई",
+   "summary": "टेनेरिफ़ के फ़ॉरवर्ड जीसस डी मिगुएल की स्पैनिश सेकंड-डिवीज़न मैच के दौरान मैदान पर टक्कर के बाद मृत्यु हो गई।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "टेनेरिफ़ के स्ट्राइकर डी मिगुएल की मैदान पर टक्कर के बाद मृत्यु हो गई।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "टेनेरिफ़ के फ़ॉरवर्ड जीसस डी मिगुएल की स्पैनिश सेकंड-डिवीज़न मैच के दौरान मैदान पर टक्कर के बाद मृत्यु हो गई।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T09:09:18Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "oil-prices-rebound-as-u-s-strikes-on-iran-renew-",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ईरान पर अमेरिकी हमलों से तेल की कीमतों में उछाल, आपूर्ति संबंधी चिंताएँ फिर से बढ़ीं",
+   "summary": "ईरान पर अमेरिकी हमलों से तेल की कीमतों में उछाल, आपूर्ति संबंधी चिंताएँ फिर से बढ़ीं",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान पर अमेरिकी हमलों से तेल की कीमतों में उछाल, आपूर्ति संबंधी चिंताएँ फिर से बढ़ीं।"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanI0VE5sUnZXNzJ1Tm9vWmVYYTZWbWRuMGRoOUtSZnJTVVJrT3dub0FKa1VFdlpvLUg3SHJvd3RBN25LNWdZLTlCS2FScUg2UUdLdEhPZXlyeFg5a2Z0TURCVWw5Wkp1VWhVNTQ2UktXX2RJMzdRc0c4emVzbkMyYkRhd2xfZFNSZ05aSWI0amNlUUc0NThHQVdSMHlCdDRfNmh6LS1SeTdmQWNGZlpn?oc=5",
+   "type": null,
+   "time": "2026-11-03T08:45:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "one-dead-after-two-helicopters-collide-near-moun",
+   "country": "Nepal",
+   "label": "नेपाल",
+   "lat": 28.4,
+   "lon": 84.1,
+   "flag": "🇳🇵",
+   "severity": "critical",
+   "category": "World",
+   "headline": "नेपाल में माउंट एवरेस्ट के पास दो हेलीकॉप्टरों की टक्कर में एक की मौत हो गई",
+   "summary": "अधिकारियों ने पुष्टि की है कि 47 वर्षीय एक भारतीय नागरिक की मौत हो गई और दो लोग घायल हो गए।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "नेपाल में माउंट एवरेस्ट के पास दो हेलीकॉप्टरों की टक्कर में एक की मौत हो गई।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अधिकारियों ने पुष्टि की है कि 47 वर्षीय एक भारतीय नागरिक की मौत हो गई और दो लोग घायल हो गए।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/3/one-dead-after-two-helicopters-collide-near-mount-everest-in-nepal?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-03T07:06:07Z",
+   "countries": [
+    "Nepal",
+    "India"
    ]
   }
  ]
