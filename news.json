@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:28:53.515562Z",
+ "updated": "2026-11-04T03:21:02.947199Z",
  "generator": "rss",
  "stories": [
   {
@@ -20,7 +20,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -33,6 +33,33 @@
    "time": "2026-11-03T07:15:17Z",
    "countries": [
     "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "russia-bombards-ukraine-power-grid-before-abu-dh",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "summary": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVM1a0dLRmw1LWNRb012WDk0dW80Sy1LMTEtanZwZkhpdF9OUVBhbkJSREx1a2dRdk1EMGFWZHZoblRaZW1WRnFKOXlHM3RhQUdFck5pUUNpUklyd2o2WHBrbXZWaWo2ZmpIRW9IVmZSODNpQlB1NWg5Z3FRcnVRb2lLcVlZRGtTcEExeDNWM3ROT0lPY2hPZ3ljR19FNHJMMXJ6TXJhVE9LQlBmbVF5TFJhajQtY3VQXzdEb0J0bkdYdw?oc=5",
+   "type": null,
+   "time": "2026-11-03T22:09:26Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United Arab Emirates"
    ]
   },
   {
@@ -53,7 +80,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -70,92 +97,36 @@
    ]
   },
   {
-   "id": "trump-bombs-iran-talks-peace-and-sends-oil-price",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
-   "summary": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling",
+   "id": "pakistan-successfully-tests-its-first-indigenous",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR",
+   "summary": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump Bombs Iran, Talks Peace, and Sends Oil Prices Tumbling."
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1F4SmR3Q2Z1OU05NG9icDloQk1oNFFNRTBTakxfa0QwYi0zbW1SSU1GaVJqR0w0QzBBLVdfNTVDMzZyTU5GcEEzU3lIMkFyVkE0azlydGw2Ym1JWlZZUlNRUmw3cmsxS2gweUJybkxueTJGNlprV2dPZFJPbXNlaW5DUHh5akl1YkUxRTQzQXNwTVJjR2tOeVhPcm9FRWQ4MFpF0gGoAUFVX3lxTE1BMktxYktCQzFYZVdXOGxqTElLanI4ZWJiOEpPaE1ibUtwbkVDWHlON29NVG9FcFgxbUNXOWYtYlBNQkp5RW56SGZib1BYZVBoeHZ3SVdtUElYR05yTERlbDRkREJ3VnIta3JocUdOblpleTdNbVNoN1hEWjhtTUpWb1RacjQ0Y0VlSkFNWUd2QmpnZjRPVENWUzh4SzVLc2JRcEhkNVZhdg?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:43:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-hopes-abu-dhabi-talks-will-o",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting",
-   "summary": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine’s Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting."
+     "text": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "Ukrainian president meets German chancellor in Berlin, who says Russia is yet to engage seriously in peace efforts."
+     "text": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
    "type": null,
-   "time": "2026-11-03T16:22:15Z",
+   "time": "2026-11-03T20:29:32Z",
    "countries": [
-    "Ukraine",
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "russia-must-show-it-is-serious-about-ceasefire-a",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says",
-   "summary": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia must show it is serious about ceasefire at Abu Dhabi talks, Germany's Merz says."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXJMLXBKYzVHZFN2cldicFNYeVNFbGFmZTQxbnRCd1lmRnoxVDI4alZIM2dMZjBjaHdYMUpkamZISkJSS1ZiR0NLSkM2amxDNjU4NmZNS2YwN0dlUFphd2l4SkRqSXBQUTd6YS1DR19TRl9QWVVaalZlSE02ZFNESW1hUHhTSHlZd21LOGgyTjJXNC1lUEtlQ2hPemlxM0FCNHhRenVvaGR2NFBXQ2kzU1JZMEkyT0dva21LZ2pjN2FaalE?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:04:21Z",
-   "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
+    "Pakistan"
    ]
   },
   {
@@ -185,184 +156,115 @@
    ]
   },
   {
-   "id": "pakistan-successfully-tests-its-first-indigenous",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR",
-   "summary": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan successfully tests its first indigenously developed air-to-air missile Fa’az: ISPR."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan on Tuesday performed a successful flight test of the country’s first indigenously developed air-to-air missile, Fa’az, “marking another significant milestone in the advancement of national aerospace and defence capabilities”, the military’s media wing"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
-   "type": null,
-   "time": "2026-11-03T20:29:32Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "crude-oil-prices-fall-for-second-day-as-market-h",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-   "summary": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
-   "type": null,
-   "time": "2026-11-03T06:41:07Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "us-midterm-election-results-live-polls-start-clo",
+   "id": "us-has-no-immediate-plan-to-strike-iran-trump-te",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
+   "severity": "critical",
    "category": "World",
-   "headline": "US midterm election results live: Polls start closing in some states",
-   "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
+   "headline": "US has no immediate plan to strike Iran, Trump tells FT",
+   "summary": "US has no immediate plan to strike Iran, Trump tells FT",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US midterm election results live: Polls start closing in some states."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky."
+     "text": "US has no immediate plan to strike Iran, Trump tells FT."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
    "type": null,
-   "time": "2026-11-03T22:30:00Z",
+   "time": "2026-11-03T23:48:00Z",
    "countries": [
     "United States of America",
-    "India"
+    "Iran"
    ]
   },
   {
-   "id": "us-brokered-russia-ukraine-talks-are-set-to-resu",
+   "id": "justin-sun-seeks-sanctions-against-trump-linked-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+   "summary": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties."
+    }
+   ],
+   "source": "CoinDesk",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTM1SHVybkV4MzdwUFBIQ3dWTndWNS1yQ1FqSEtUQ182T1hJQmhrR19uZTc2cUJkYWw2TW9kaXVQQUo5a2dnOVEyWG1HMVctNjBUbm9ZMGlKTnBZWkVCWkJ3NTZwdWFPbmlGUEd1SGV2LXZlRXZvelFxb25DOVRWVHNMRkdwME1JNTI4TS1VSHVGaVBkY0ZGLURGajRuZUNZNmM0OW9HNHdIbWxvR2tib21ZLXhvOW5ZNFlPdFVYTjRfVTIzZUlZ?oc=5",
+   "type": null,
+   "time": "2026-11-03T16:55:10Z",
+   "countries": [
+    "United States of America",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "flights-across-europe-searched-and-diverted-afte",
+   "country": "Poland",
+   "label": "POLAND",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Flights across Europe searched and diverted after hoax bomb threats",
+   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Flights across Europe searched and diverted after hoax bomb threats."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+   "type": null,
+   "time": "2026-11-04T02:12:00Z",
+   "countries": [
+    "Poland",
+    "Spain",
+    "Italy"
+   ]
+  },
+  {
+   "id": "gallery-of-sharjah-design-centre-unveils-plans-f",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "info",
    "category": "UAE",
-   "headline": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause",
-   "summary": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause",
+   "headline": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11",
+   "summary": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US-brokered Russia-Ukraine talks are set to resume in Abu Dhabi after a nine-month pause."
+     "text": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11."
     }
    ],
-   "source": "Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1FnU201bEh6YTYwYklTMGtiMk5HWUJKSm02bnBtOFNNRTZuNGVRalB1bThYTzJLamxWb3lXU1BsZjF6VmhvS0xGcTdhZjczckFBQ1pBcDl3M1J4WjdveGRSdHFLV2RzVmNMbjI2V0ZWM3BXN2dGbUU5SFNLM25KOA?oc=5",
+   "source": "ArchDaily",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcUVkZHBBLUVZeWp2emJEMjN4eHZla3Z6bnhmSTZYOGJCeHFYYmFuMkM1UHgtTFJwX0hDVGV5SnFvWnFBZXB0NHpiaG9yMEhlZTY5NDk5VXVSQ3F4TVJLSno2Zy01bXBQVlhqZHoyZFRiUVNLT2RpUjNralhmV3JmVjhBNFdnaUxoMDBLMHZhTDZGNUhmOGdQeEQyLVFDd3RMZEtxbUdIT0VBQzJLdXVaWFhQTGxyaE54Q0M4WFZlam9DMnhjWWhQMTlyNkRuOWlOWHpWR1pEWDlOdGpBMFItRHFZMXZvam5Ic2dNc1pHMHR1N1Bvemp3aXRIWldiNWwwa3NQdzZMdGpBYS1KVjhMaVl5c09ZMkhWQkhxRHlkNFBJWFBYZUM2WmIydUI5NGpFVFdjS0QzMGpqajh2T2JEWlRB?oc=5",
    "type": null,
-   "time": "2026-11-03T21:03:14Z",
+   "time": "2026-11-03T21:25:07Z",
    "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "russian-bombing-kills-31-people-at-ukraine-aid-c",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-   "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T13:26:19Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "russia-confirms-new-ukraine-peace-talks-as-melan",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-   "summary": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalFTQUJtQy1ORXE4SmxzX1hBNVVXWE1FNFhhZUFBMExLT1Z2emNib05OMXlHNlJ3aUk0aGtsU1ZYZ1pRb1oyMkNxZUFQY1AyRWZ5WGU1Y0JINVFZV1VqZUFLMjN0RXU2UXZWeUhseUdCODNyUGUtbHladVg0Q0dtNjUydFdXME1ocW9LLXRRekFad9IBlwFBVV95cUxNcnZ2QVdpVV8wZjNfT3N1M0t0cEt4Sy03dTJCbk1sMDVlTGktY1BOczdIN1E1WFhFdDVFY04wUHB1YnYtVjN4SExtRjZBU1VMRmxldml0VFRzdm4tUnZCQkhoSk9LWnlULWRnbUpxSS1iRVI3Q0NuTjNXeERZNnlZbU5wWktjR1V5SHk2aVdsMncteVNKOGFB?oc=5",
-   "type": null,
-   "time": "2026-11-03T13:22:25Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
@@ -391,30 +293,123 @@
    ]
   },
   {
-   "id": "us-embassy-warns-americans-of-houthi-attacks-air",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "trump-confirms-strikes-on-iran-as-tehran-warns-a",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia",
-   "summary": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia",
+   "headline": "Trump confirms strikes on Iran as Tehran warns against return to war",
+   "summary": "Trump confirms strikes on Iran as Tehran warns against return to war",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US Embassy warns Americans of Houthi attacks, airport security risks in Saudi Arabia."
+     "text": "Trump confirms strikes on Iran as Tehran warns against return to war."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3VHN1NWY3dvQzZpeTF0bDNRRVdadWdQREZMUEpnMFpLZ3Z6LWtlcUdXTVNYNjdFUVBsWGhSUk5QX292ZHA1T09XakZqSFVGUWp0djJQSHA4QVo0R0tOenBrSkZNQWtRTkRSeHQ0eUN1RXlQLUZHUjVjc1drNmdfLTdRckZGRm9nc0NaZEctQXlfd2xLNUZnN2NlUE8wbzBSVDZzc0ZfN29GdkNhVFBPUjVQZlo2RnB0VmJ2cUVsQ19hc3M?oc=5",
+   "source": "AFP.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5",
    "type": null,
-   "time": "2026-11-03T23:22:59Z",
+   "time": "2026-11-04T02:55:30Z",
    "countries": [
-    "Saudi Arabia",
-    "United States of America",
-    "Yemen"
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "russian-bombing-kills-31-people-at-ukraine-aid-c",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+   "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-03T13:26:19Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "north-korea-fires-unidentified-projectile-east-t",
+   "country": "North Korea",
+   "label": "NORTH KOREA",
+   "lat": 40.0,
+   "lon": 127.0,
+   "flag": "🇰🇵",
+   "severity": "high",
+   "category": "World",
+   "headline": "North Korea fires unidentified projectile east toward sea: South Korean military",
+   "summary": "North Korea fires unidentified projectile east toward sea: South Korean military",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "North Korea fires unidentified projectile east toward sea: South Korean military."
+    }
+   ],
+   "source": "NK News",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yYVBFbDVFazY0Y2N2YXdKbUJsbjh3U3NsVkZIX0hxaXQzUF9QbFo2THdBMDJER2I0UHF0VzZMei03Qzk2d3ow?oc=5",
+   "type": null,
+   "time": "2026-11-04T01:14:17Z",
+   "countries": [
+    "North Korea",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "iran-war-live-tehran-prepares-maximum-deterrence",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "summary": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-04T00:00:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -435,7 +430,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -452,91 +447,80 @@
    ]
   },
   {
-   "id": "pakistan-lost-40-billion-since-trade-with-india-",
+   "id": "pakistan-saudi-arabia-seek-stronger-cultural-tie",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
-   "summary": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership",
+   "summary": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan Lost $40 Billion Since Trade With India Was Halted: Report."
+     "text": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership."
     }
    ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEFwbDFhdEM3dERXWTZ5TUZBVWJlNUhLTnRsQzJ3NG9wM1lDSUE1d0Q3X3ZoQzRzd0lRTjlLdzdTVG1EaENDeHk0VTlZM2k0bTRaQ3d3c2Q1Z1ZqS2UwM3NnTHJ3N0pkV192SWc1OWhXN1ZvY2xUT0hqYm5fYkpkdFB2cDdmMUZkc3NzUXVKZ3FVTV9FdTZMR1Ixdm92SUVCbTZENjVrUi0tUdIBsgFBVV95cUxNNGFoNnMtY200YjJ1UTZoZWFtV0ZvQk45dHM5TlVINWNrU2RjOWR2VHlEeXctajU4cS1MTG0xcW9WLVZkeXFvNU1ia19iMmktQmRjSG5CMk45dG5KUGQ1Q0szN0xNLUx5Y0FHZG9zdEVvSEduVmtuS281cm5GWWI1QXZMbFZuQndRRUdDYk1UUy1vYS1udkF1eTVsM0xKdlhCMk1ELWNfOThTNjVNdUl0WV9B?oc=5",
+   "source": "Eurasia Review",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFpQllzVldpZkdkRkFrOFdLSHdTbTJKVUVoSE5yMUlwd1dkSFRWN3Zsc1l6eTlGbkZEZEt6dXlIbTNYN01mNzE5NjFHM1I1RU1nU1NBZmFpOG5EVkZXbTNsQnhMaHdwdTlsNUk4VjV3MXdVSkFzU0JmWjVfWEVOYkJ0Z1AwR2k1SnlRRmt3Q0ZLa0VlQW14MU55SnJuR1Y3YjYxb2Y1NVh0Qm9KWDJxSFYza3R3VWl5YUtMekpPbmV5NDNx?oc=5",
    "type": null,
-   "time": "2026-11-03T12:41:56Z",
+   "time": "2026-11-04T00:30:33Z",
    "countries": [
     "Pakistan",
-    "India"
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "flights-across-europe-face-disruption-after-fals",
-   "country": "Poland",
-   "label": "POLAND",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Flights across Europe face disruption after false bomb threats",
-   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+   "id": "why-higher-oil-prices-aren-t-solving-saudi-aramc",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
+   "summary": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Flights across Europe face disruption after false bomb threats."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+     "text": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnRnMThuejMwbmlDMzhFTy11Mk4wSXh1ZFBna0xONnpUTllhZ0FObFBFeFVsTVR0dVhyTUVaS3MwM05JaU56RDM1ejFDQmthYVgzMnJoR292cHVvdFlHMXZiMVB3My1CUmtpT2hxcWdQWm9OWHlYRlRMT3RQTzBRM0NtMGlYeGRmakxwUEdIX3FEcXpFSXhwMXlQUk8zRGowN0RDbDkzZXA1NGI4RFHSAbMBQVVfeXFMUFJ1N2ZTUlU4SzEwT3VhTTR0QUZrYzFPQ2NKSExQY0c1cWRjX2JCWXRjVUMtempvT3dXYXZlVUFQRFZrZDl0QVVzUVJJTm5tVlM3QU5xTjJxc0FzTUJ4Y3QtVDJsTWpvbUJyOFFsVDBMMmRxeDItM0xQekE5N2tqQ0M0UEl5ZkhWLW1MQTdEM1gwcnVWd2ZWaWotR2UzZlBSWmR3Q0pobVJ6NC1VQ0lnSDlUU2s?oc=5",
    "type": null,
-   "time": "2026-11-03T18:42:00Z",
+   "time": "2026-11-03T19:00:00Z",
    "countries": [
-    "Poland",
-    "Spain",
-    "Italy"
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "kremlin-confirms-trilateral-ukraine-peace-talks-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
-   "summary": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+   "id": "oil-prices-rise-as-middle-east-ukraine-russia-co",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
+   "summary": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week."
+     "text": "Oil Prices Rise as Middle East, Ukraine-Russia Conflict Fuel Supply Worries."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUnhpZVZHQUliUnJIQUJWb3JmbVl6VV9GZ3NJN0M3X0EzZU9pa2N4SEcybGNlakZkcmxyeVNqV0E5LWRxTU1VZUM4Uk9TdGZTS0RJLU1CZ1JVVFBlM0pTcWFPd2U0b1RFTkVyV2oxSzNwZzYzMjBwVmRtbUFvWUowS1RPSEQ3eE1Qa2ZQQVJ5SExsbzVXQTQtNlZYRC1Bbnh2YmpnZ2VGaHZLQlJDRWJRZEZOU2VCZ1hPcENQcTUtYw?oc=5",
    "type": null,
-   "time": "2026-11-03T09:40:50Z",
+   "time": "2026-11-04T01:46:52Z",
    "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Ukraine"
+    "Ukraine",
+    "Russia"
    ]
   }
  ]
