@@ -1,82 +1,22 @@
 {
- "updated": "2026-11-04T03:21:02.947199Z",
+ "updated": "2026-11-04T11:37:14.141551Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "iran-s-chief-negotiator-says-americans-voted-no-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "Sports",
-   "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
-   "summary": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.",
+   "category": "Middle East",
+   "headline": "Iran's chief negotiator says Americans voted 'no to war'",
+   "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Asian Cup postponed in wake of attacks on Saudi Arabia."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T07:15:17Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "russia-bombards-ukraine-power-grid-before-abu-dh",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
-   "summary": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVM1a0dLRmw1LWNRb012WDk0dW80Sy1LMTEtanZwZkhpdF9OUVBhbkJSREx1a2dRdk1EMGFWZHZoblRaZW1WRnFKOXlHM3RhQUdFck5pUUNpUklyd2o2WHBrbXZWaWo2ZmpIRW9IVmZSODNpQlB1NWg5Z3FRcnVRb2lLcVlZRGtTcEExeDNWM3ROT0lPY2hPZ3ljR19FNHJMMXJ6TXJhVE9LQlBmbVF5TFJhajQtY3VQXzdEb0J0bkdYdw?oc=5",
-   "type": null,
-   "time": "2026-11-03T22:09:26Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US strikes Iranian island ahead of midterm elections",
-   "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US strikes Iranian island ahead of midterm elections."
+     "text": "Iran's chief negotiator says Americans voted 'no to war'."
     },
     {
      "role": "COMMANDER",
@@ -84,16 +24,95 @@
     },
     {
      "role": "ANALYST",
-     "text": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+     "text": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-03T11:33:33Z",
+   "time": "2026-11-04T10:11:39Z",
    "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-as-investors-weigh-u-s-midterm-r",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks",
+   "summary": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Rise as Investors Weigh U.S. Midterm Results, Iran Risks."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVGZJRGVaVkdJaDR5b1REaE5CdWQtY2ZlczBhUXFWT253Vi0tMkNoUVhSNUI0Rzlqbnc5UnVVS0lqN1kwVzZ3eTJ6ODByNlc5ck5HYmlkMEVyRzlrVDNFdk8zQ2JuRWdQLUdYc3ozNUVCc3hRSGhDc0tKNW9QY1A2ZVpMZC1PNGxqUU81QkQyZms0R1VxWUUzbTRLSmYyUTRvM0ZHVmVjdTRpZ2NxLUJkcFlQZzY?oc=5",
+   "type": null,
+   "time": "2026-11-04T07:40:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-ukraine-russia-will-resume-talks-to-end-war-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "U.S.-Ukraine-Russia Will Resume Talks to End War in UAE",
+   "summary": "U.S.-Ukraine-Russia Will Resume Talks to End War in UAE",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "U.S.-Ukraine-Russia Will Resume Talks to End War in UAE."
+    }
+   ],
+   "source": "The Presidential Prayer Team",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUWs4WktTY3FrMnNoQ3BMRi16Q05xeXVZT24yTzdUVnJiZi04UkNLOWI1enhGRUxWcXVydVB6bGN2OHl2VWYwZUY1UFBYR3JOcVZDUHhIRUJ5bGZ2T2lzSUQ0Z1dGdGlXVFI5RDQxUVFrblhXSWRMbkRMTGJoNllhX3RyMGMxckdsN2g2UkZtRjdIV193MEFudVoyWmVZNEE?oc=5",
+   "type": null,
+   "time": "2026-11-04T09:00:00Z",
+   "countries": [
+    "United Arab Emirates",
     "United States of America",
-    "Iran"
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "uae-non-oil-firms-raise-prices-at-record-pace-in",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE non-oil firms raise prices at record pace in October, PMI shows",
+   "summary": "UAE non-oil firms raise prices at record pace in October, PMI shows",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE non-oil firms raise prices at record pace in October, PMI shows."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV3FQelBUS0c0eHZpbnpubW9JSjU2VXQzT0lmZ1o5Ulk4eDlscEwxMjQtRkFmVXNOM21fbFpZNURlV3lZQ1V0T0kwMzRHaFFLeG9ZWHp6T3ZtSnJDUk1xNTBCdXBpMlZtaWlURkt6bi0xMGpWMjh6Z0R3RktYZ2gwM0JwZlV0SjdJOW5Cd1gxNF9ranEyd0s5Vmx0RmdPNzE3VWFlU3dGM1MxY1N0anotV1lwc3E?oc=5",
+   "type": null,
+   "time": "2026-11-04T04:19:00Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   },
   {
@@ -114,7 +133,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "Okay, what else?"
     },
     {
      "role": "ANALYST",
@@ -130,7 +149,32 @@
    ]
   },
   {
-   "id": "u-s-military-strikes-iran-s-qeshm-island-in-what",
+   "id": "asian-cup-in-saudi-arabia-to-be-postponed",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Asian Cup in Saudi Arabia to be postponed",
+   "summary": "Asian Cup in Saudi Arabia to be postponed",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Asian Cup in Saudi Arabia to be postponed."
+    }
+   ],
+   "source": "Taipei Times",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hd2NzVjRlZUl0eXhJZDBiZjVVZF94c3FMNXlucXpfenJkVzlabzlfT0pjUDQ3cFNmWTI1bXlkd2lkbklEVVRYUzB5UnUzTkowMmVzclpMcjJMZ2NMRG5sRVNwX3BsRkhOazZORnF1SVRjRGdGM1ZIcA?oc=5",
+   "type": null,
+   "time": "2026-11-03T16:00:00Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "iran-s-irgc-says-four-tankers-ablaze-after-hitti",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -138,25 +182,24 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
-   "summary": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure",
+   "headline": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
+   "summary": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "U.S. Military Strikes Iran’s Qeshm Island in What U.S. Officials Call a Defensive Measure."
+     "text": "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbjcyLUxfeTMxaHFnbENrc2tqdlowSDFqWU5DUWtqOWhVUUdSYWdSbFpBRGQ4VHI3Rm5DbDVsLTV6bkM4d3FjcmVPRnpsQlJ6RkNSLWNZX0ZtWURvUExKaGZ2M2diWUFvZWZfSE5FN01PR2FXc1pSN1kyeXhHX0ZFS0k4S1FjSDJLc2ZfbGx2cm9TYW9JSThiZVZIeFQxTnVBXzAwYnhlaGxsN3lwQkxOZTdFRVVpc3RPa2J2M0JZNVduZXA3Z2pz?oc=5",
    "type": null,
-   "time": "2026-11-03T19:22:00Z",
+   "time": "2026-11-04T03:50:00Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Iran"
    ]
   },
   {
-   "id": "us-has-no-immediate-plan-to-strike-iran-trump-te",
+   "id": "exclusive-trump-acknowledges-iran-war-is-partly-",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -164,337 +207,48 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "US has no immediate plan to strike Iran, Trump tells FT",
-   "summary": "US has no immediate plan to strike Iran, Trump tells FT",
+   "headline": "Exclusive | Trump Acknowledges Iran War Is Partly to Blame for Republican Losses",
+   "summary": "Exclusive | Trump Acknowledges Iran War Is Partly to Blame for Republican Losses",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US has no immediate plan to strike Iran, Trump tells FT."
+     "text": "Exclusive | Trump Acknowledges Iran War Is Partly to Blame for Republican Losses."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmVDbWFnYVgyV3EyWXY0RVI0ZWE0UTdMRWJvSmFVa0lJVE9WajlzWEMzZ0lJM0l2VWVaVWE0TjZOc2pTWU1YcHd4dHh2dU00WVBzMXpfcEdQVzRGaVoyNEw0cUQ0c0l1blgzQTJyOFBTQmhVd2JScDlpTGQ1R2JnRk5PODBVU1o3QmNqajZnME1BTnRqd2N4Yk1LM3NjTVRJU29LWjhRTUVUOTVZcFNwNUFrUm1UUEE?oc=5",
    "type": null,
-   "time": "2026-11-03T23:48:00Z",
+   "time": "2026-11-04T05:07:00Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "justin-sun-seeks-sanctions-against-trump-linked-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
+   "id": "what-turkey-is-committing-to-in-its-defense-pact",
+   "country": "Turkey",
+   "label": "TURKEY",
    "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "summary": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties."
-    }
-   ],
-   "source": "CoinDesk",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdTM1SHVybkV4MzdwUFBIQ3dWTndWNS1yQ1FqSEtUQ182T1hJQmhrR19uZTc2cUJkYWw2TW9kaXVQQUo5a2dnOVEyWG1HMVctNjBUbm9ZMGlKTnBZWkVCWkJ3NTZwdWFPbmlGUEd1SGV2LXZlRXZvelFxb25DOVRWVHNMRkdwME1JNTI4TS1VSHVGaVBkY0ZGLURGajRuZUNZNmM0OW9HNHdIbWxvR2tib21ZLXhvOW5ZNFlPdFVYTjRfVTIzZUlZ?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:55:10Z",
-   "countries": [
-    "United States of America",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "flights-across-europe-searched-and-diverted-afte",
-   "country": "Poland",
-   "label": "POLAND",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Flights across Europe searched and diverted after hoax bomb threats",
-   "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Flights across Europe searched and diverted after hoax bomb threats."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
-   "type": null,
-   "time": "2026-11-04T02:12:00Z",
-   "countries": [
-    "Poland",
-    "Spain",
-    "Italy"
-   ]
-  },
-  {
-   "id": "gallery-of-sharjah-design-centre-unveils-plans-f",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
+   "lon": 35.2,
+   "flag": "🇹🇷",
    "severity": "info",
-   "category": "UAE",
-   "headline": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11",
-   "summary": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11",
+   "category": "Middle East",
+   "headline": "What Turkey Is Committing To In Its Defense Pact With Saudi Arabia And Pakistan",
+   "summary": "What Turkey Is Committing To In Its Defense Pact With Saudi Arabia And Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gallery of Sharjah Design Centre Unveils Plans for Rammed Earth Building Opening in 2029 - 11."
+     "text": "What Turkey Is Committing To In Its Defense Pact With Saudi Arabia And Pakistan."
     }
    ],
-   "source": "ArchDaily",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOcUVkZHBBLUVZeWp2emJEMjN4eHZla3Z6bnhmSTZYOGJCeHFYYmFuMkM1UHgtTFJwX0hDVGV5SnFvWnFBZXB0NHpiaG9yMEhlZTY5NDk5VXVSQ3F4TVJLSno2Zy01bXBQVlhqZHoyZFRiUVNLT2RpUjNralhmV3JmVjhBNFdnaUxoMDBLMHZhTDZGNUhmOGdQeEQyLVFDd3RMZEtxbUdIT0VBQzJLdXVaWFhQTGxyaE54Q0M4WFZlam9DMnhjWWhQMTlyNkRuOWlOWHpWR1pEWDlOdGpBMFItRHFZMXZvam5Ic2dNc1pHMHR1N1Bvemp3aXRIWldiNWwwa3NQdzZMdGpBYS1KVjhMaVl5c09ZMkhWQkhxRHlkNFBJWFBYZUM2WmIydUI5NGpFVFdjS0QzMGpqajh2T2JEWlRB?oc=5",
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmlYcVFLUEsxcHJGRUNqX01jdzNTVWp5N3dxVVdfdlo5QTBZSW0wY3RtSnpOZFJOMDZiTlJnbTQwam9YT1VJV0k0cUsyNkdFRXRxWjJCeGV6OGpzbVNJNEViS1FrLV8zdGMtTHZhWGFFVzIwUHE5dDYxTUlNVWZiTVg2ZzN0NGhOT0NCaWFoV0NLY0o5ZkdCOWJzbUVYTW5pSkF3LTFud3dqZUt1dEEzVnpLLVgwSExpZ0gyOWdWZ012cXJzMTk5Z3NVeHg?oc=5",
    "type": null,
-   "time": "2026-11-03T21:25:07Z",
+   "time": "2026-11-04T07:00:00Z",
    "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "two-police-officers-protecting-polio-workers-in-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Two police officers protecting polio workers in Pakistan shot dead",
-   "summary": "Two police officers protecting polio workers in Pakistan shot dead",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Two police officers protecting polio workers in Pakistan shot dead."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2ZTVGMxOTNLdGdUZ2NydnhqRm1aeHM1OGc4cF9hdWNGR1lrMHlsaVk2QVBGTVIwQkhDMGllelFLTGpoWnJMRERQem83alkwUTlNQnRzSE9ZLWg3WUtHQ1FJbGtZaGxZbmlhdTI2N2hBb3BrSUxPMzhzYWpDbGh2Nlo1blhqVmNnV2hLZXV3QjFlR1hkM1p4aDhHeFdHSWczdTZzX1dEaFIwRU3SAbABQVVfeXFMT2MycmFXa3hlenNuYTQwQkcxcGxOX29IZ2szUjhfVDhVT254bFlnZDUtOE5WaGEyeGRyTEZsdzlYa09FVmZzQ3BOTTkzd2VHMi1najFSdTNuZmo3R05XMmd6RFhuUXQwRDZnYjBlaFIyWXVpWVlBcTZ4bXQtdzEzUm9RZTNzRF82MTRNcnVHLWVweUlneTZ3QTROQy1tTjlJYnJHV3NyU2dYWnRJZDc4SXE?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:36:04Z",
-   "countries": [
+    "Turkey",
+    "Saudi Arabia",
     "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-confirms-strikes-on-iran-as-tehran-warns-a",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Trump confirms strikes on Iran as Tehran warns against return to war",
-   "summary": "Trump confirms strikes on Iran as Tehran warns against return to war",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump confirms strikes on Iran as Tehran warns against return to war."
-    }
-   ],
-   "source": "AFP.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzRNMk9XMXBCU3hrZFo3Z1NKcFVKYlF3Q251cXZnZ0U3eFI5TmFUaU1SUWV6VFFNWUh2YjRZOGhIanBPb1lzLUp6NHhFY1JqWUprdDNEczhjSEI1MG4yMnRNbWVCSkdrTnE4MEVMMlNEMFVYTHhZYnZ2TWl5dTJybllGZXB0OUQxelE?oc=5",
-   "type": null,
-   "time": "2026-11-04T02:55:30Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "russian-bombing-kills-31-people-at-ukraine-aid-c",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-   "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T13:26:19Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "north-korea-fires-unidentified-projectile-east-t",
-   "country": "North Korea",
-   "label": "NORTH KOREA",
-   "lat": 40.0,
-   "lon": 127.0,
-   "flag": "🇰🇵",
-   "severity": "high",
-   "category": "World",
-   "headline": "North Korea fires unidentified projectile east toward sea: South Korean military",
-   "summary": "North Korea fires unidentified projectile east toward sea: South Korean military",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "North Korea fires unidentified projectile east toward sea: South Korean military."
-    }
-   ],
-   "source": "NK News",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yYVBFbDVFazY0Y2N2YXdKbUJsbjh3U3NsVkZIX0hxaXQzUF9QbFo2THdBMDJER2I0UHF0VzZMei03Qzk2d3ow?oc=5",
-   "type": null,
-   "time": "2026-11-04T01:14:17Z",
-   "countries": [
-    "North Korea",
-    "South Korea"
-   ]
-  },
-  {
-   "id": "iran-war-live-tehran-prepares-maximum-deterrence",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-   "summary": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-04T00:00:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "president-zelenskyy-says-us-elections-will-impac",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "President Zelenskyy says US elections will impact war in Ukraine",
-   "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "President Zelenskyy says US elections will impact war in Ukraine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-03T21:43:19Z",
-   "countries": [
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-saudi-arabia-seek-stronger-cultural-tie",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership",
-   "summary": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, Saudi Arabia Seek Stronger Cultural Ties Amid Deepening Strategic Partnership."
-    }
-   ],
-   "source": "Eurasia Review",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObEFpQllzVldpZkdkRkFrOFdLSHdTbTJKVUVoSE5yMUlwd1dkSFRWN3Zsc1l6eTlGbkZEZEt6dXlIbTNYN01mNzE5NjFHM1I1RU1nU1NBZmFpOG5EVkZXbTNsQnhMaHdwdTlsNUk4VjV3MXdVSkFzU0JmWjVfWEVOYkJ0Z1AwR2k1SnlRRmt3Q0ZLa0VlQW14MU55SnJuR1Y3YjYxb2Y1NVh0Qm9KWDJxSFYza3R3VWl5YUtMekpPbmV5NDNx?oc=5",
-   "type": null,
-   "time": "2026-11-04T00:30:33Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "why-higher-oil-prices-aren-t-solving-saudi-aramc",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
-   "summary": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Why Higher Oil Prices Aren't Solving Saudi Aramco's Biggest Problems."
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnRnMThuejMwbmlDMzhFTy11Mk4wSXh1ZFBna0xONnpUTllhZ0FObFBFeFVsTVR0dVhyTUVaS3MwM05JaU56RDM1ejFDQmthYVgzMnJoR292cHVvdFlHMXZiMVB3My1CUmtpT2hxcWdQWm9OWHlYRlRMT3RQTzBRM0NtMGlYeGRmakxwUEdIX3FEcXpFSXhwMXlQUk8zRGowN0RDbDkzZXA1NGI4RFHSAbMBQVVfeXFMUFJ1N2ZTUlU4SzEwT3VhTTR0QUZrYzFPQ2NKSExQY0c1cWRjX2JCWXRjVUMtempvT3dXYXZlVUFQRFZrZDl0QVVzUVJJTm5tVlM3QU5xTjJxc0FzTUJ4Y3QtVDJsTWpvbUJyOFFsVDBMMmRxeDItM0xQekE5N2tqQ0M0UEl5ZkhWLW1MQTdEM1gwcnVWd2ZWaWotR2UzZlBSWmR3Q0pobVJ6NC1VQ0lnSDlUU2s?oc=5",
-   "type": null,
-   "time": "2026-11-03T19:00:00Z",
-   "countries": [
-    "Saudi Arabia"
    ]
   },
   {
@@ -521,6 +275,212 @@
    "countries": [
     "Ukraine",
     "Russia"
+   ]
+  },
+  {
+   "id": "russia-bombards-ukraine-power-grid-before-abu-dh",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "summary": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVM1a0dLRmw1LWNRb012WDk0dW80Sy1LMTEtanZwZkhpdF9OUVBhbkJSREx1a2dRdk1EMGFWZHZoblRaZW1WRnFKOXlHM3RhQUdFck5pUUNpUklyd2o2WHBrbXZWaWo2ZmpIRW9IVmZSODNpQlB1NWg5Z3FRcnVRb2lLcVlZRGtTcEExeDNWM3ROT0lPY2hPZ3ljR19FNHJMMXJ6TXJhVE9LQlBmbVF5TFJhajQtY3VQXzdEb0J0bkdYdw?oc=5",
+   "type": null,
+   "time": "2026-11-03T17:21:00Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "gold-price-gains-rs13-900-per-tola-in-pakistan",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Gold price gains Rs13,900 per tola in Pakistan",
+   "summary": "Gold price gains Rs13,900 per tola in Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Gold price gains Rs13,900 per tola in Pakistan."
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0NKdEdLUktGLWxJamVreUtqSXhMU2ZTYnA3N0NOMEhaN0JCa0RPeE1BXzlSOEtaNGhtbTZVZGZ0ZjlTN2lfY0J6VFEtb0paa1RhQlc4d1lMUDF4Ym13alYzQUVRU1o2QmI1a1FLNlR5Ukp6UG93RWJJWlZVNkFwaDJIMUxlUnY0WWNiMFhCT2VfOGc?oc=5",
+   "type": null,
+   "time": "2026-11-04T09:07:06Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "2-terrorists-including-suicide-bomber-killed-in-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "2 ‘terrorists,’ including suicide bomber, killed in northwestern Pakistan",
+   "summary": "2 ‘terrorists,’ including suicide bomber, killed in northwestern Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "2 ‘terrorists,’ including suicide bomber, killed in northwestern Pakistan."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdU5EWjk0MVB2N1F4NG9nalFWTGZQdkdXNk4xYUducGgtUEFUb1lRQk5lb1V3UHpqUDVIaFcyN2FIQW1TeXVFMDZtQmZ5NF9fNUdvbkVvcGdneURDd1poZENSTnJLV1Niei1uZE9QRUhXR1NpR2lCOXJNQ1NkU0xhT2lCbDIxOUloX0V1Y2x6OVh6bHZHbU80ZWNGVjB1UkRhdzNFRlk4ME1jTE9LbmozSTlWUWZiQQ?oc=5",
+   "type": null,
+   "time": "2026-11-04T10:59:38Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "trump-acknowledges-role-of-iran-war-in-democrati",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump acknowledges role of Iran war in Democratic sweep in midterm elections",
+   "summary": "Trump acknowledges role of Iran war in Democratic sweep in midterm elections",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump acknowledges role of Iran war in Democratic sweep in midterm elections."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNekxLRjk1cjhWRGpWMThYYTlLVXFRZDRBLWZqTVFtZHVIejNuRnZ0TE9CVzUwcFN0VmdaMjRIYlQ0Vmt0RjV1aUp3YUx5RzBCbDVKcUprZGE0S3JxOWhNbEVTTGhWOVFkc0NQN0RqZE56UXBqai1Bc3NaOWJmaHhSQzhVSzJYaXZSQ21ZUHZqaTlXczlETEhoelhpRno4Vmp0eGdJLWNBSEZFUQ?oc=5",
+   "type": null,
+   "time": "2026-11-04T05:17:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "dubai-strikes-gold-this-dhanteras-with-1kg-up-fo",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dubai strikes gold this Dhanteras with 1kg up for grabs",
+   "summary": "Dubai strikes gold this Dhanteras with 1kg up for grabs",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Dubai strikes gold this Dhanteras with 1kg up for grabs."
+    }
+   ],
+   "source": "Emirates 24|7",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVpXMkxSdTNjdXZoX3hjdzZWWUp3dllpYWt5anVJLW1yWExrSG81MTkzX0pRZXdEN1F1dDZlNVhUVGpvd2dtLXJLQlVqUW15dl8zR29VQUdJTmVIUnA5R1BGTlI0U0lqTk81ZW05MmJENmdqR1pBSW43ZmdJaWZKeU1vVDJsa05XcXRVTVVLWVVMX2xDeVRWREI3ZWNtQdIBuAFBVV95cUxNSUJvRHhHbGFHYWVJVTU2bzk4czZBaUdJLUlxaUhteDBuV0Q5aWdTZENvbVZNNzlPYlAwUGFOMWZNdkdzUmlRUXhqMXd3dHRuYTBUa0p4bTF3a2lqUEVHU2VwUUdtMVhEazd1UVE2R0dybVpXcHVfNlVIU09MY0kwUmk2VVA5YzZ4NDh0U0RLMnRhT0NEamlEY3FJQ004NXFOZ0tUUWFJM3MxanZ6ajNOanlwMGtjcDNG?oc=5",
+   "type": null,
+   "time": "2026-11-04T08:47:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "zawya-omani-fintech-mamun-raises-3mln-to-expand-",
+   "country": "Oman",
+   "label": "OMAN",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
+   "summary": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance."
+    }
+   ],
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjQ5ZFk0WDdsUWt5WFptRGdDWDlnMUg1cWVUcGRvV1kxaXdiUFNQVHRKQ0laVTd3QXFmWk1VRERjdkZQRkt5MkZTbXFlTzFicm9XUFBkaS1TUlBqSTdNci1LUXJzYWwwMjNKcG92bkp5RFF3SGU0Y1RfWkZYOXF6SmFfb2YxeXBZR1B3UVhUUGR1MUJrLVlGcHVyaVRsMHE0dS1hYjFwaFZuTmlxMmxMYzEtMTBhU1F1NEZhbnpvUGFhRVhEbmhMQ3FsaERQQTV6WENBUmdWdWxtZ1Q1ZWJKcA?oc=5",
+   "type": null,
+   "time": "2026-11-04T08:38:56Z",
+   "countries": [
+    "Oman"
+   ]
+  },
+  {
+   "id": "as-us-iran-war-shows-china-s-influence-can-t-sec",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "As US-Iran war shows, China’s influence can’t secure its line to Gulf oil",
+   "summary": "As US-Iran war shows, China’s influence can’t secure its line to Gulf oil",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "As US-Iran war shows, China’s influence can’t secure its line to Gulf oil."
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNci1MMUZ2Z2JoM2xuSnA0RENrVF91Z185R0t6TTFTRVFGQ0hjSE1hRlFERkF5TjJoWXV6dzNzTElVZHZod2hiZjhqcWpURTBYbzNpczJHMXphLUQ1SEl5WURUOFZSMXVfM00wMzVxVmdPYUhqNHlmeFZxMWNsOE1SclRqOHlYXzN6WjZGRDkyN2Vwd245VHNTRm56eVdydUVpT1UwWHhPYkctYkdtd1FLME5iR1RqdUJlVnk5b19panXSAcABQVVfeXFMTXVXenQtN3RSX2J2bXFwcEpKWnZJdU9JZTk3bzhxcVZQN0dOWnFFa3E4cGRaR203UDZ3cktwQ2hrbVd2dHVBUEdJUVJ1Q2FvY3hfTk5vNG44Z3pOZ0VZNVZpMG1SU2dPZFoxZ1BLcXlzZXlYalRoLTJaSTJUb2lkSUpBU1hlMm1UN0xGdm9rUFlvRUYzZWY5QWF1eVMtWUVSd01HNm1kOEhMNmdYUmhNeG5rWjNDazJ3TUtMY3ZCYkdC?oc=5",
+   "type": "OPINION",
+   "time": "2026-11-04T08:30:07Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "China"
+   ]
+  },
+  {
+   "id": "china-wants-to-work-with-pakistan-on-",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "China Wants To Work With Pakistan On...",
+   "summary": "China Wants To Work With Pakistan On...",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "China Wants To Work With Pakistan On...."
+    }
+   ],
+   "source": "Rediff",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXhvLV9BU2J3V3JvU1Jwc2Z4LXhudGFlbXMyWG93dUp1dVpid3dDYnBfZTlKRTR4aHl2bU1Ga1EzQWdlQ0JaQkUxWGJBRk5OX3pQXzZBX3NZQTFsekMzZTl0NXRDbXhIS0ZZTmk3dDFIRG5NODZ6eER5eDRwZVRnRXlsRVpDQUZlbC1nZkNKeWZ4bVhkNGUyZm03V1NxT25NaFNwTlJuT01VUTItMVdCWUVEbUx3ZHo1X3hWUnRzVDU?oc=5",
+   "type": null,
+   "time": "2026-11-04T07:40:35Z",
+   "countries": [
+    "China",
+    "Pakistan"
    ]
   }
  ]
