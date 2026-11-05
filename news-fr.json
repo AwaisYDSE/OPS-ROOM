@@ -1,56 +1,109 @@
 {
- "updated": "2026-11-03T23:28:53.515562Z",
+ "updated": "2026-11-05T07:27:56.223274Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "La Coupe d'Asie reportée suite aux attentats contre l'Arabie Saoudite",
-   "summary": "La Coupe d'Asie 2027 en Arabie Saoudite est reportée en raison d'une série d'attentats meurtriers contre le pays hôte.",
+   "id": "-here-s-way-to-watch-india-vs-pakistan-live-upda",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "‍‍‍!+[Voici une façon de regarder]\" Mises à jour en direct de l'Inde contre le Pakistan, 5 novembre 2026",
+   "summary": "‍‍‍!+[Voici une façon de regarder]\" Mises à jour en direct de l'Inde contre le Pakistan, 5 novembre 2026",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La Coupe d'Asie reportée à la suite des attentats contre l'Arabie saoudite."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "La Coupe d'Asie 2027 en Arabie Saoudite est reportée en raison d'une série d'attentats meurtriers contre le pays hôte."
+     "text": "‍‍‍!+[Voici une façon de regarder]\" Mises à jour en direct de l'Inde contre le Pakistan le 5 novembre 2026."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "source": "tagesanzeiger.ch",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcmNsS1g4MjV6Y3ZPOWxua0ZiYk9TemM4di1HUTNwX0MyWFRLSlVqX1J3MVd6WEFqc3dKVjJUTUxxSkVoQ0lRV19QZlZiU1BLd29Ucy1LQWIxM2V3YmcyMFlwbkFXX09KdlJCNzdLcUtoLVhuOGpUNktuNGtTYzkydEdlczNFUmdXSnpOWGdUU1lmTHRwcWI5WUhBTVFYYW5zS3hPWWxXYVU3ZjkwTUl1U2d3WUxKWFNLOG5tckFOUng1emlDNUx3Q2ZBRUFVQ0pJaVlXOGVoUEdLaEZ3UEw5UnJfS2lmYlQzZnpPY3pYa2VaQURnZ3ZWcHEyUFplWENWOHBoSUpLOFh2Q2lkRUdmaWQtVXVMZGVjUkpnSE5BNHh5UTZBbWl2bVJwWTNKN0RubEwtZkRhOGdTWUkwbVN2a3JPNmhBSDVPTVE?oc=5",
    "type": null,
-   "time": "2026-11-03T07:15:17Z",
+   "time": "2026-11-05T07:08:17Z",
    "countries": [
-    "Saudi Arabia"
+    "Pakistan",
+    "India"
    ]
   },
   {
-   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Les États-Unis frappent une île iranienne avant les élections de mi-mandat",
-   "summary": "Les responsables américains ont qualifié les attaques sur l'île de Qeshm de limitées et défensives, selon CBS, le partenaire américain de la BBC.",
+   "id": "oil-prices-fall-on-vance-s-post-midterms-iran-wa",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole chutent suite au rejet par Vance de la guerre contre l'Iran après les élections de mi-mandat",
+   "summary": "Le président Donald Trump a déclaré que la guerre en Iran avait probablement contribué aux revers des Républicains lors des élections de mi-mandat.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les États-Unis frappent une île iranienne avant les élections de mi-mandat."
+     "text": "Les prix du pétrole chutent suite au rejet par Vance de la guerre contre l’Iran après les élections de mi-mandat."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Pourquoi ce déménagement ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le président Donald Trump a déclaré que la guerre en Iran avait probablement contribué aux revers des Républicains lors des élections de mi-mandat."
+    }
+   ],
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
+   "type": null,
+   "time": "2026-11-04T20:46:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-vs-india-lineups-and-confirmed-team-new",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Composition du Pakistan contre l'Inde et nouvelles confirmées de l'équipe pour le championnat SAFF",
+   "summary": "Composition du Pakistan contre l'Inde et nouvelles confirmées de l'équipe pour le championnat SAFF",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Composition du Pakistan contre l'Inde et nouvelles confirmées de l'équipe pour le championnat SAFF."
+    }
+   ],
+   "source": "Athlon Sports",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnBlcGNpVjFBM1dEcHhQemZyUUZYdVNnWEdEM0luUHNZMEVqQmtIMHhsd29INGJJX1k2MXpIWk4yc3N4RE1ud2xYZG9sV0F6RGh2WkJDRUNWc3djeXl2WFNQSk5FQXF4eW5IQzRHdllQbElFRTlEcEFNWVpFYndtWUpqSm1tT0hDcFhlVmxNU2dRTHlnWHVCLVFHSEdWMU9mODV6Q19B?oc=5",
+   "type": null,
+   "time": "2026-11-05T06:25:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "iran-war-live-irgc-says-two-oil-tankers-and-tugb",
+   "country": "Iran",
+   "label": "DÉTROIT D'HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "La guerre en Iran est en direct : le CGRI affirme que deux pétroliers et un remorqueur ont pris feu à Ormuz",
+   "summary": "Le CGRI iranien affirme que deux pétroliers et un remorqueur ont pris feu dans le détroit d'Ormuz après avoir emprunté une « route non autorisée ».",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La guerre en Iran est en direct : le CGRI affirme que deux pétroliers et un remorqueur ont pris feu à Ormuz."
     },
     {
      "role": "COMMANDER",
@@ -58,109 +111,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "Les responsables américains ont qualifié les attaques sur l'île de Qeshm de limitées et défensives, selon CBS, le partenaire américain de la BBC."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T11:33:33Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-bombs-iran-talks-peace-and-sends-oil-price",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Trump bombarde l’Iran, parle de paix et fait chuter les prix du pétrole",
-   "summary": "Trump bombarde l’Iran, parle de paix et fait chuter les prix du pétrole",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump bombarde l’Iran, parle de paix et fait chuter les prix du pétrole."
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1F4SmR3Q2Z1OU05NG9icDloQk1oNFFNRTBTakxfa0QwYi0zbW1SSU1GaVJqR0w0QzBBLVdfNTVDMzZyTU5GcEEzU3lIMkFyVkE0azlydGw2Ym1JWlZZUlNRUmw3cmsxS2gweUJybkxueTJGNlprV2dPZFJPbXNlaW5DUHh5akl1YkUxRTQzQXNwTVJjR2tOeVhPcm9FRWQ4MFpF0gGoAUFVX3lxTE1BMktxYktCQzFYZVdXOGxqTElLanI4ZWJiOEpPaE1ibUtwbkVDWHlON29NVG9FcFgxbUNXOWYtYlBNQkp5RW56SGZib1BYZVBoeHZ3SVdtUElYR05yTERlbDRkREJ3VnIta3JocUdOblpleTdNbVNoN1hEWjhtTUpWb1RacjQ0Y0VlSkFNWUd2QmpnZjRPVENWUzh4SzVLc2JRcEhkNVZhdg?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:43:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-hopes-abu-dhabi-talks-will-o",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Zelensky d’Ukraine espère que les négociations d’Abou Dhabi ouvriront la voie à une réunion avec Poutine",
-   "summary": "Le président ukrainien rencontre le chancelier allemand à Berlin, qui affirme que la Russie ne s'est pas encore sérieusement engagée dans les efforts de paix.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Ukraine Zelenskyy espère que les pourparlers d’Abou Dhabi ouvriront la voie à une réunion avec Poutine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "D'accord. Détails?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le président ukrainien rencontre le chancelier allemand à Berlin, qui affirme que la Russie ne s'est pas encore sérieusement engagée dans les efforts de paix."
+     "text": "Le CGRI iranien affirme que deux pétroliers et un remorqueur ont pris feu dans le détroit d'Ormuz après avoir emprunté une « route non autorisée »."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
    "type": null,
-   "time": "2026-11-03T16:22:15Z",
+   "time": "2026-11-05T00:00:00Z",
    "countries": [
-    "Ukraine",
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
+    "Iran"
    ]
   },
   {
-   "id": "russia-must-show-it-is-serious-about-ceasefire-a",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "La Russie doit montrer qu'elle est sérieuse en ce qui concerne le cessez-le-feu lors des négociations d'Abou Dhabi, selon l'Allemand Merz",
-   "summary": "La Russie doit montrer qu'elle est sérieuse en ce qui concerne le cessez-le-feu lors des négociations d'Abou Dhabi, selon l'Allemand Merz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Russie doit montrer qu'elle est sérieuse en ce qui concerne le cessez-le-feu lors des négociations d'Abou Dhabi, estime le quotidien allemand Merz."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXJMLXBKYzVHZFN2cldicFNYeVNFbGFmZTQxbnRCd1lmRnoxVDI4alZIM2dMZjBjaHdYMUpkamZISkJSS1ZiR0NLSkM2amxDNjU4NmZNS2YwN0dlUFphd2l4SkRqSXBQUTd6YS1DR19TRl9QWVVaalZlSE02ZFNESW1hUHhTSHlZd21LOGgyTjJXNC1lUEtlQ2hPemlxM0FCNHhRenVvaGR2NFBXQ2kzU1JZMEkyT0dva21LZ2pjN2FaalE?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:04:21Z",
-   "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "u-s-military-strikes-iran-s-qeshm-island-in-what",
+   "id": "vance-blames-iran-war-for-gop-midterm-losses",
    "country": "Iran",
    "label": "L'IRAN",
    "lat": 32.4,
@@ -168,145 +131,120 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "L’armée américaine frappe l’île iranienne de Qeshm dans le cadre de ce que les responsables américains appellent une mesure défensive",
-   "summary": "L’armée américaine frappe l’île iranienne de Qeshm dans le cadre de ce que les responsables américains appellent une mesure défensive",
+   "headline": "Vance accuse la guerre en Iran d'être responsable des pertes du Parti républicain à mi-mandat",
+   "summary": "Vance accuse la guerre en Iran d'être responsable des pertes du Parti républicain à mi-mandat",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L’armée américaine frappe l’île iranienne de Qeshm dans le cadre de ce que les responsables américains appellent une mesure défensive."
+     "text": "Vance attribue la guerre en Iran aux pertes à mi-mandat du Parti républicain."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3hPeE5hNmhGaGtEbTNfZXdZUTJiaDctVDhSd2g0T1FIUVdyOGFnWHFfaXp6Y1Z4VmNqOXJ6VC1Ob3BfbHF0Y2RZQlQ0cDdTWDVDRGVjMmxyOGtoeU5JOUdMbGg3MXJZYTBwSGVPaWlyS2VHRnkyclVnQ3JhZm00bGpObWR5SUZ1bWc?oc=5",
    "type": null,
-   "time": "2026-11-03T19:22:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-successfully-tests-its-first-indigenous",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Le Pakistan teste avec succès son premier missile air-air Fa’az développé localement : ISPR",
-   "summary": "Le Pakistan a effectué mardi avec succès un test en vol du premier missile air-air développé localement, Fa'az, \"marquant une autre étape importante dans l'avancement des capacités aérospatiales et de défense nationales\", a déclaré la branche médiatique de l'armée.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan teste avec succès son premier missile air-air Fa’az développé localement : ISPR."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "D'accord, quoi d'autre ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le Pakistan a effectué mardi avec succès un test en vol du premier missile air-air développé localement, Fa'az, \"marquant une autre étape importante dans l'avancement des capacités aérospatiales et de défense nationales\", a déclaré la branche médiatique de l'armée."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
-   "type": null,
-   "time": "2026-11-03T20:29:32Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "crude-oil-prices-fall-for-second-day-as-market-h",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole brut chutent pour la deuxième journée alors que le marché espère une résolution diplomatique de la guerre en Iran",
-   "summary": "Les prix du pétrole brut chutent pour la deuxième journée alors que le marché espère une résolution diplomatique de la guerre en Iran",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole brut chutent pour la deuxième journée alors que le marché espère une résolution diplomatique de la guerre en Iran."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
-   "type": null,
-   "time": "2026-11-03T06:41:07Z",
+   "time": "2026-11-04T16:56:43Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "us-midterm-election-results-live-polls-start-clo",
+   "id": "syria-saudi-arabia-sign-defence-cooperation-deal",
+   "country": "Syria",
+   "label": "SYRIE",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "info",
+   "category": "Business",
+   "headline": "La Syrie et l'Arabie Saoudite signent un accord de coopération en matière de défense et s'accordent sur des prêts de 403 millions de dollars",
+   "summary": "Signature d'un accord de coopération en matière de défense alors que le président syrien al-Sharaa se rend à Riyad pour la deuxième fois en moins d'un mois.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La Syrie et l'Arabie Saoudite signent un accord de coopération en matière de défense et acceptent des prêts de 403 millions de dollars."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Compris. Continue."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Signature d'un accord de coopération en matière de défense alors que le président syrien al-Sharaa se rend à Riyad pour la deuxième fois en moins d'un mois."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T03:46:13Z",
+   "countries": [
+    "Syria",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "turkey-s-parliament-set-to-ratify-defence-pact-w",
+   "country": "Turkey",
+   "label": "TURQUIE",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Le parlement turc s'apprête à ratifier l'accord de défense avec l'Arabie saoudite et le Pakistan alors que les attaques des Houthis s'intensifient",
+   "summary": "Le parlement turc s'apprête à ratifier l'accord de défense avec l'Arabie saoudite et le Pakistan alors que les attaques des Houthis s'intensifient",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le parlement turc s'apprête à ratifier l'accord de défense avec l'Arabie saoudite et le Pakistan alors que les attaques des Houthis s'intensifient."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORDg5Y29OampmTGVlcU05M3BFOUVIOGhxY0pwcHBtb2owY29CQTVvZ3FkQUVwblFaRHkwTWpfSjRhTk1FOHB5czhNYkx4THRja1I0ZlRsMFVTWFI1WWFWY3ZLTk5fTGJOZEN5bVlCaTFXN2ZIZnEtZUFmaHNzOU05dUpLaHBKSUJMRGJ2ZC1kMHRWYUlZNE4zRXp5THp3TU41V3plWFh3Q2ZrSGMwb3N2dFl6cWo3VXdBTHFYWHp1WUhRZlBTR2dqSWY0OA?oc=5",
+   "type": null,
+   "time": "2026-11-04T14:09:44Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "what-the-us-midterms-mean-for-ties-with-china",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Résultats des élections de mi-mandat aux États-Unis en direct : les bureaux de vote commencent à fermer dans certains États",
-   "summary": "Les bureaux de vote devraient commencer à se fermer par vagues à travers le pays, les premières fermetures ayant lieu à 23h00 GMT dans l'Indiana et le Kentucky.",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Ce que les États-Unis signifient à mi-mandat pour les relations avec la Chine",
+   "summary": "Selon les analystes, une victoire écrasante des démocrates aux élections de mi-mandat aux États-Unis cette semaine, leur donnant le contrôle du Congrès, constitue à la fois une opportunité et un défi pour leur principal rival, la Chine.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Résultats des élections de mi-mandat aux États-Unis en direct : les bureaux de vote commencent à fermer dans certains États."
+     "text": "Ce que signifient les élections de mi-mandat des États-Unis pour les relations avec la Chine."
     },
     {
      "role": "COMMANDER",
-     "text": "Quel est l'impact ?"
+     "text": "Des victimes ?"
     },
     {
      "role": "ANALYST",
-     "text": "Les bureaux de vote devraient commencer à se fermer par vagues à travers le pays, les premières fermetures ayant lieu à 23h00 GMT dans l'Indiana et le Kentucky."
+     "text": "Selon les analystes, une victoire écrasante des démocrates aux élections de mi-mandat aux États-Unis cette semaine, leur donnant le contrôle du Congrès, constitue à la fois une opportunité et un défi pour leur principal rival, la Chine."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042295/what-the-us-midterms-mean-for-ties-with-china",
    "type": null,
-   "time": "2026-11-03T22:30:00Z",
+   "time": "2026-11-05T05:44:06Z",
    "countries": [
     "United States of America",
-    "India"
+    "China"
    ]
   },
   {
-   "id": "us-brokered-russia-ukraine-talks-are-set-to-resu",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "Les négociations entre la Russie et l'Ukraine, sous l'égide des États-Unis, devraient reprendre à Abou Dhabi après une pause de neuf mois.",
-   "summary": "Les négociations entre la Russie et l'Ukraine, sous l'égide des États-Unis, devraient reprendre à Abou Dhabi après une pause de neuf mois.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les négociations entre la Russie et l'Ukraine, sous l'égide des États-Unis, devraient reprendre à Abou Dhabi après une pause de neuf mois."
-    }
-   ],
-   "source": "Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1FnU201bEh6YTYwYklTMGtiMk5HWUJKSm02bnBtOFNNRTZuNGVRalB1bThYTzJLamxWb3lXU1BsZjF6VmhvS0xGcTdhZjczckFBQ1pBcDl3M1J4WjdveGRSdHFLV2RzVmNMbjI2V0ZWM3BXN2dGbUU5SFNLM25KOA?oc=5",
-   "type": null,
-   "time": "2026-11-03T21:03:14Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "russian-bombing-kills-31-people-at-ukraine-aid-c",
+   "id": "zelenskyy-hopes-democratic-congress-will-bring-m",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -314,146 +252,204 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Un bombardement russe tue 31 personnes dans un centre d'aide en Ukraine, selon Kiev",
-   "summary": "Les autorités affirment qu'au moins neuf bombes aériennes de 3 000 kg ont touché un village du sud de l'Ukraine, ce que le président qualifie d'attaque « tout à fait horrible ».",
+   "headline": "Zelensky espère que le Congrès démocrate apportera davantage d'aide américaine à l'Ukraine",
+   "summary": "Les responsables de l’UE exhortent également le nouveau Congrès américain à intensifier la pression sur la Russie pour qu’elle mette fin à la guerre qui dure depuis quatre ans et demi.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les bombardements russes tuent 31 personnes au centre d'aide ukrainien, selon Kiev."
+     "text": "Zelensky espère que le Congrès démocrate apportera davantage d’aide américaine à l’Ukraine."
     },
     {
      "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
+     "text": "Qui est derrière tout ça ?"
     },
     {
      "role": "ANALYST",
-     "text": "Les autorités affirment qu'au moins neuf bombes aériennes de 3 000 kg ont touché un village du sud de l'Ukraine, ce que le président qualifie d'attaque « tout à fait horrible »."
+     "text": "Les responsables de l’UE exhortent également le nouveau Congrès américain à intensifier la pression sur la Russie pour qu’elle mette fin à la guerre qui dure depuis quatre ans et demi."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T04:49:56Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "to-bomb-or-not-to-bomb-trump-s-limited-iran-war-",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Bombarder ou ne pas bombarder ? Les options limitées de Trump pour la guerre en Iran après les élections de mi-mandat",
+   "summary": "Bombarder ou ne pas bombarder ? Les options limitées de Trump pour la guerre en Iran après les élections de mi-mandat",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Bombarder ou ne pas bombarder ? Les options limitées de Trump pour la guerre en Iran après la mi-mandat."
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVJKUWc1MUc1dVk5VVdmVjMzY0Ywb1pSNjl3S1NzSjJFc25YbTAyallqbjl6eHpZSVo4ekxOV0I2Si00NFhOVXpNRzVSWTROc1kyQzdkQmxkOFJhZjR2QnBVaGlvVzMtQlNVczJKS0N6U3VtYjVwQjFZY3p0VW9YS1YybWdXOE55Qk1aQWFJMlZnZnZ4Zld4WXFCVmtXLU1fdnc5RXVKNkpOY3Z4TFNV0gG3AUFVX3lxTE9vV1E1RlhVSG5tbFlrM2g5eUhCdEw1TVFocHpycFBBRmJBRmdTbUxONmY4ZXpZVGFQcXJlSHZZNU1WOXl6cDFjSjhyeldjRkFFQ3IwUzVzMlZsNFRLTEw5cjZjWVdaeGp3SDhwZUEwcEZNLTd3ZnhxX0tFb3FKamZDc01vWVFrTXZFdS1pTFBrUF9uVDB5ekxmN01JNm43NWlpSlhpNDBfMlJpcU91bGRwMzFoaC1sSQ?oc=5",
+   "type": null,
+   "time": "2026-11-05T03:57:09Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "vance-walks-trump-tightrope-with-scathing-electi",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Vance marche sur la corde raide de Trump avec une critique cinglante des élections accusant la guerre en Iran",
+   "summary": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Vance marche sur la corde raide de Trump avec une critique électorale cinglante accusant la guerre en Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "L'évaluation sans détour du vice-président de la défaite électorale républicaine a marqué l'une des ruptures les plus brutales avec un président en exercice de mémoire récente."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-03T13:26:19Z",
+   "time": "2026-11-05T03:47:56Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-weekend-weather-rain-possible-in-these-areas",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Météo du week-end aux Émirats arabes unis : pluie possible dans ces régions ; voici les prévisions de Diwali",
+   "summary": "Météo du week-end aux Émirats arabes unis : pluie possible dans ces régions ; voici les prévisions de Diwali",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Météo du week-end aux Émirats arabes unis : pluie possible dans ces régions ; voici les prévisions de Diwali."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUG84cm1YMHFFa1UxUHdDMm9rWm1uYXFmaVVfaktKandHZDhjQXVCVFBJOW1hSVNDXzVrbHB3T3hhbWhiZndwZVRIMFdTS1dXYWZ2QnNTaVh4NWFoNTlpLWRDcVVmbTVhZnJya3RwVUtjMU5lZjd6azBrQ0JseDZERlBPUXFEakRVUUlZOXktSWdKaFhfWUVkZ0dLejNzbWsybXRVbnR5Y3Z3cFlYdjN4LS1Qb2lscFVpNG9z0gHOAUFVX3lxTE12eXU5V29MT3c3czllU2gwdVcxeDE0enhuaVdGWjhrU2VNV09NRV9YTE5USTVGTGJJQjczaVFaZ1FmbUpsczRLQXE2S3lpMUFxX2JDbVhYWWZyNFhxZTh0NGQxRTZBeUR6RWxGR0YtTFJPN3dvbUFDTWl2Y0FubUhDVWNtckw3WjVadDMzR2hkanFPMWlMVVdXX1BRVFlyTE9HU2Z4ZHJxb1ZBcFhyeTFySFRrU0hVdjFpR1lwTldrTmlvWVJqbGVkSzRoSFFn?oc=5",
+   "type": null,
+   "time": "2026-11-05T07:20:33Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ukraine-says-bodycam-video-shows-deadly-russian-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "L'Ukraine affirme qu'une vidéo de caméra corporelle montre un bombardement russe meurtrier à double pression",
+   "summary": "Au moins 40 personnes ont été tuées et 30 autres pourraient encore se trouver sous les décombres après l'attaque de lundi contre un village ukrainien, selon Kiev.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Ukraine affirme qu’une vidéo de caméra corporelle montre un bombardement russe meurtrier à double pression."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Au moins 40 personnes ont été tuées et 30 autres pourraient encore se trouver sous les décombres après l'attaque de lundi contre un village ukrainien, selon Kiev."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0MlQ3RGZXaWNFM2h6RUpwSnRnRWw2VXgyYlRORFVTQ0xzcEMxVkdGUXdoR1FHSF93Y3pTMU1Bd0NUekpRMXU1OW5kOXB6WUNjenRMZ3Ryc25FZEU?oc=5",
+   "type": null,
+   "time": "2026-11-04T22:48:43Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "russia-confirms-new-ukraine-peace-talks-as-melan",
-   "country": "Russia",
-   "label": "RUSSIE",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "La Russie confirme de nouveaux pourparlers de paix en Ukraine alors que Melania Trump se prépare à accueillir une réunion de cessez-le-feu",
-   "summary": "La Russie confirme de nouveaux pourparlers de paix en Ukraine alors que Melania Trump se prépare à accueillir une réunion de cessez-le-feu",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Russie confirme de nouveaux pourparlers de paix en Ukraine alors que Melania Trump se prépare à accueillir une réunion de cessez-le-feu."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalFTQUJtQy1ORXE4SmxzX1hBNVVXWE1FNFhhZUFBMExLT1Z2emNib05OMXlHNlJ3aUk0aGtsU1ZYZ1pRb1oyMkNxZUFQY1AyRWZ5WGU1Y0JINVFZV1VqZUFLMjN0RXU2UXZWeUhseUdCODNyUGUtbHladVg0Q0dtNjUydFdXME1ocW9LLXRRekFad9IBlwFBVV95cUxNcnZ2QVdpVV8wZjNfT3N1M0t0cEt4Sy03dTJCbk1sMDVlTGktY1BOczdIN1E1WFhFdDVFY04wUHB1YnYtVjN4SExtRjZBU1VMRmxldml0VFRzdm4tUnZCQkhoSk9LWnlULWRnbUpxSS1iRVI3Q0NuTjNXeERZNnlZbU5wWktjR1V5SHk2aVdsMncteVNKOGFB?oc=5",
-   "type": null,
-   "time": "2026-11-03T13:22:25Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "two-police-officers-protecting-polio-workers-in-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Pakistan : deux policiers qui protégeaient des agents de lutte contre la poliomyélite sont abattus",
-   "summary": "Pakistan : deux policiers qui protégeaient des agents de lutte contre la poliomyélite sont abattus",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Two police officers protecting polio workers in Pakistan shot dead."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2ZTVGMxOTNLdGdUZ2NydnhqRm1aeHM1OGc4cF9hdWNGR1lrMHlsaVk2QVBGTVIwQkhDMGllelFLTGpoWnJMRERQem83alkwUTlNQnRzSE9ZLWg3WUtHQ1FJbGtZaGxZbmlhdTI2N2hBb3BrSUxPMzhzYWpDbGh2Nlo1blhqVmNnV2hLZXV3QjFlR1hkM1p4aDhHeFdHSWczdTZzX1dEaFIwRU3SAbABQVVfeXFMT2MycmFXa3hlenNuYTQwQkcxcGxOX29IZ2szUjhfVDhVT254bFlnZDUtOE5WaGEyeGRyTEZsdzlYa09FVmZzQ3BOTTkzd2VHMi1najFSdTNuZmo3R05XMmd6RFhuUXQwRDZnYjBlaFIyWXVpWVlBcTZ4bXQtdzEzUm9RZTNzRF82MTRNcnVHLWVweUlneTZ3QTROQy1tTjlJYnJHV3NyU2dYWnRJZDc4SXE?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:36:04Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-embassy-warns-americans-of-houthi-attacks-air",
+   "id": "saudi-arabia-rolls-over-3-billion-in-financing-f",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "L'ambassade américaine met en garde les Américains contre les attaques des Houthis et les risques pour la sécurité des aéroports en Arabie Saoudite",
-   "summary": "L'ambassade américaine met en garde les Américains contre les attaques des Houthis et les risques pour la sécurité des aéroports en Arabie Saoudite",
+   "headline": "L'Arabie Saoudite accorde plus de 3 milliards de dollars de financement au Pakistan — Dawn",
+   "summary": "L'Arabie Saoudite accorde plus de 3 milliards de dollars de financement au Pakistan — Dawn",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'ambassade américaine met en garde les Américains contre les attaques des Houthis et les risques pour la sécurité des aéroports en Arabie saoudite."
+     "text": "L'Arabie Saoudite accorde plus de 3 milliards de dollars de financement au Pakistan — Dawn."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3VHN1NWY3dvQzZpeTF0bDNRRVdadWdQREZMUEpnMFpLZ3Z6LWtlcUdXTVNYNjdFUVBsWGhSUk5QX292ZHA1T09XakZqSFVGUWp0djJQSHA4QVo0R0tOenBrSkZNQWtRTkRSeHQ0eUN1RXlQLUZHUjVjc1drNmdfLTdRckZGRm9nc0NaZEctQXlfd2xLNUZnN2NlUE8wbzBSVDZzc0ZfN29GdkNhVFBPUjVQZlo2RnB0VmJ2cUVsQ19hc3M?oc=5",
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWJzTGw1ZzJNVnJUVlp1X0N6cHl2Nkh3cUF2RmpyNVdlXzFHNXl6X0JQSVdPWXVxM2tMZFMxOW5OQTZqTm5FZGFQclNaUW1UOXBpOXR1RXNxUGVWMTFNdzNkTEZfLWNUTDFVZ0daRGRNbjUxVDIxMlA2MUhYVzl4MFI1SGcyNDdaTjNremJna096Zk9rcjdXZzByZw?oc=5",
    "type": null,
-   "time": "2026-11-03T23:22:59Z",
+   "time": "2026-11-05T02:42:30Z",
    "countries": [
     "Saudi Arabia",
-    "United States of America",
-    "Yemen"
+    "Pakistan"
    ]
   },
   {
-   "id": "president-zelenskyy-says-us-elections-will-impac",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Le président Zelensky déclare que les élections américaines auront un impact sur la guerre en Ukraine",
-   "summary": "Le président ukrainien Volodmyr Zelenskyy a déclaré que les élections américaines de mi-mandat auraient un impact sur la guerre en cours dans son pays.",
+   "id": "emirates-abu-dhabi-golf-championship",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Championnat de golf des Émirats d'Abu Dhabi",
+   "summary": "Championnat de golf des Émirats d'Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le président Zelensky affirme que les élections américaines auront un impact sur la guerre en Ukraine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le président ukrainien Volodmyr Zelenskyy a déclaré que les élections américaines de mi-mandat auraient un impact sur la guerre en cours dans son pays."
+     "text": "Championnat de golf des Émirats d'Abu Dhabi."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+   "source": "Idaho State Journal",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHdxTzI1WlJnXzdOQTVfZ2tRYUoyQ3o0Q19HUjhHMHRrVjYyMXYwc0xMeEJZUC1JOUlaaUgyRGFwWF9YZmxEREwzM09MVnBDMWZBc1plbXZhODBVVlFQTGl5dF9SU1JnM2VaS0xUbGhrOXhVVUFoLUgtYUROby1iUnZKVFhNZTByVzA3WHpXODRodUZGa2dOWVQtQ3dWdXhFUy1xc0gtcFhxNGxlRU9aNDB0amIyeEw0TEhRMTBNUjZ4WGhUNnpSclFlSUhEZTA?oc=5",
    "type": null,
-   "time": "2026-11-03T21:43:19Z",
+   "time": "2026-11-05T05:34:29Z",
    "countries": [
-    "Ukraine",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "pakistan-lost-40-billion-since-trade-with-india-",
+   "id": "exports-to-europe-dip-despite-gsp-",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -461,83 +457,88 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Le Pakistan a perdu 40 milliards de dollars depuis l'arrêt du commerce avec l'Inde : rapport",
-   "summary": "Le Pakistan a perdu 40 milliards de dollars depuis l'arrêt du commerce avec l'Inde : rapport",
+   "headline": "Les exportations vers l’Europe baissent malgré le SPG+",
+   "summary": "ISLAMABAD : Malgré le statut du Système de préférences généralisées (SPG+), les exportations du Pakistan vers les principaux marchés d'Europe occidentale et orientale ont chuté au premier trimestre 2026-2027 par rapport à l'année précédente.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Pakistan a perdu 40 milliards de dollars depuis l'arrêt du commerce avec l'Inde : rapport."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEFwbDFhdEM3dERXWTZ5TUZBVWJlNUhLTnRsQzJ3NG9wM1lDSUE1d0Q3X3ZoQzRzd0lRTjlLdzdTVG1EaENDeHk0VTlZM2k0bTRaQ3d3c2Q1Z1ZqS2UwM3NnTHJ3N0pkV192SWc1OWhXN1ZvY2xUT0hqYm5fYkpkdFB2cDdmMUZkc3NzUXVKZ3FVTV9FdTZMR1Ixdm92SUVCbTZENjVrUi0tUdIBsgFBVV95cUxNNGFoNnMtY200YjJ1UTZoZWFtV0ZvQk45dHM5TlVINWNrU2RjOWR2VHlEeXctajU4cS1MTG0xcW9WLVZkeXFvNU1ia19iMmktQmRjSG5CMk45dG5KUGQ1Q0szN0xNLUx5Y0FHZG9zdEVvSEduVmtuS281cm5GWWI1QXZMbFZuQndRRUdDYk1UUy1vYS1udkF1eTVsM0xKdlhCMk1ELWNfOThTNjVNdUl0WV9B?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:41:56Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "flights-across-europe-face-disruption-after-fals",
-   "country": "Poland",
-   "label": "POLOGNE",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Les vols à travers l’Europe sont perturbés après de fausses alertes à la bombe",
-   "summary": "Des avions en Pologne, en Espagne, en Bulgarie et en Italie ont été contrôlés pour détecter la présence d'explosifs à la suite de menaces distinctes.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les vols à travers l’Europe sont perturbés suite à de fausses alertes à la bombe."
+     "text": "Les exportations vers l’Europe baissent malgré le SPG+."
     },
     {
      "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
+     "text": "Pourquoi ce déménagement ?"
     },
     {
      "role": "ANALYST",
-     "text": "Des avions en Pologne, en Espagne, en Bulgarie et en Italie ont été contrôlés pour détecter la présence d'explosifs à la suite de menaces distinctes."
+     "text": "ISLAMABAD : Malgré le statut du Système de préférences généralisées (SPG+), les exportations du Pakistan vers les principaux marchés d'Europe occidentale et orientale ont chuté au premier trimestre 2026-2027 par rapport à l'année précédente."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042198/exports-to-europe-dip-despite-gsp",
    "type": null,
-   "time": "2026-11-03T18:42:00Z",
+   "time": "2026-11-05T02:01:16Z",
    "countries": [
-    "Poland",
-    "Spain",
-    "Italy"
+    "Pakistan"
    ]
   },
   {
-   "id": "kremlin-confirms-trilateral-ukraine-peace-talks-",
+   "id": "uae-tax-return-deadline-under-two-weeks-away",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "Le Kremlin confirme les pourparlers de paix trilatéraux avec l'Ukraine à Abou Dhabi la semaine prochaine",
-   "summary": "Le Kremlin confirme les pourparlers de paix trilatéraux avec l'Ukraine à Abou Dhabi la semaine prochaine",
+   "headline": "Date limite de déclaration de revenus aux Émirats arabes unis dans moins de deux semaines",
+   "summary": "Date limite de déclaration de revenus aux Émirats arabes unis dans moins de deux semaines",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Kremlin confirme la tenue de pourparlers de paix trilatéraux sur l'Ukraine à Abou Dhabi la semaine prochaine."
+     "text": "Date limite de déclaration de revenus aux Émirats arabes unis dans moins de deux semaines."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tZUpuUkZCcDVFWDMwYlZiSExkUncxS0NOSjhDaTRhZ2ZKZy1jTjRBQTM1RW9WVlZJdnNEUEVBenROZXpnc3FUZ3N1UDhvdWwzVHhxVU1ZWWtkSlEtb25VUkpabXozeFRDUF9paC1tU2Y?oc=5",
    "type": null,
-   "time": "2026-11-03T09:40:50Z",
+   "time": "2026-11-05T05:00:00Z",
    "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Ukraine"
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "riyadh-rolls-over-3bn-as-prospects-of-10bn-us-fa",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Riyad déploie plus de 3 milliards de dollars alors que les perspectives d'une facilité américaine de 10 milliards de dollars s'amenuisent",
+   "summary": "• Aurangzeb affirme que le mécanisme américain proposé n'est pas essentiel et apporterait un soutien supplémentaire s'il est obtenu. • D'autres émissions d'euro-obligations, d'obligations Panda et de roupies réglées en dollars sont prévues. • Le gouvernement vise une réduction de 4 milliards de dollars de la dette extérieure. ISLAMABAD : le Pakistan a obtenu une garantie.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Riyad débourse plus de 3 milliards de dollars alors que les perspectives d'une facilité américaine de 10 milliards de dollars s'amenuisent."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Pourquoi ce déménagement ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "• Aurangzeb affirme que le mécanisme américain proposé n'est pas essentiel et apporterait un soutien supplémentaire s'il est obtenu. • D'autres émissions d'euro-obligations, d'obligations Panda et de roupies réglées en dollars sont prévues. • Le gouvernement vise une réduction de 4 milliards de dollars de la dette extérieure. ISLAMABAD : le Pakistan a obtenu une garantie."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042213/riyadh-rolls-over-3bn-as-prospects-of-10bn-us-facility-wane",
+   "type": null,
+   "time": "2026-11-05T02:05:14Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Pakistan"
    ]
   }
  ]

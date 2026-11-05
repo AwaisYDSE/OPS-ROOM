@@ -1,56 +1,109 @@
 {
- "updated": "2026-11-03T23:28:53.515562Z",
+ "updated": "2026-11-05T07:27:56.223274Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "asian-cup-postponed-in-wake-of-attacks-on-saudi-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "沙特阿拉伯遭遇袭击后亚洲杯推迟",
-   "summary": "由于主办国发生一系列致命袭击事件，2027年沙特阿拉伯亚洲杯被推迟。",
+   "id": "-here-s-way-to-watch-india-vs-pakistan-live-upda",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "‍‍‍!+[观看方式]\" 印度 vs 巴基斯坦实时更新 2026 年 11 月 5 日",
+   "summary": "‍‍‍!+[观看方式]\" 印度 vs 巴基斯坦实时更新 2026 年 11 月 5 日",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "亚洲杯因沙特阿拉伯遭遇袭击而推迟。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "由于主办国发生一系列致命袭击事件，2027年沙特阿拉伯亚洲杯被推迟。"
+     "text": "‍‍‍!+[观看方式]\" 印度 vs 巴基斯坦 2026 年 11 月 5 日实时更新。"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+   "source": "tagesanzeiger.ch",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcmNsS1g4MjV6Y3ZPOWxua0ZiYk9TemM4di1HUTNwX0MyWFRLSlVqX1J3MVd6WEFqc3dKVjJUTUxxSkVoQ0lRV19QZlZiU1BLd29Ucy1LQWIxM2V3YmcyMFlwbkFXX09KdlJCNzdLcUtoLVhuOGpUNktuNGtTYzkydEdlczNFUmdXSnpOWGdUU1lmTHRwcWI5WUhBTVFYYW5zS3hPWWxXYVU3ZjkwTUl1U2d3WUxKWFNLOG5tckFOUng1emlDNUx3Q2ZBRUFVQ0pJaVlXOGVoUEdLaEZ3UEw5UnJfS2lmYlQzZnpPY3pYa2VaQURnZ3ZWcHEyUFplWENWOHBoSUpLOFh2Q2lkRUdmaWQtVXVMZGVjUkpnSE5BNHh5UTZBbWl2bVJwWTNKN0RubEwtZkRhOGdTWUkwbVN2a3JPNmhBSDVPTVE?oc=5",
    "type": null,
-   "time": "2026-11-03T07:15:17Z",
+   "time": "2026-11-05T07:08:17Z",
    "countries": [
-    "Saudi Arabia"
+    "Pakistan",
+    "India"
    ]
   },
   {
-   "id": "us-strikes-iranian-island-ahead-of-midterm-elect",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "美国在中期选举前袭击伊朗岛屿",
-   "summary": "据英国广播公司美国合作伙伴哥伦比亚广播公司称，美国官员称对格什姆岛的袭击是有限的和防御性的。",
+   "id": "oil-prices-fall-on-vance-s-post-midterms-iran-wa",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "万斯中期选举后否认伊朗战争，油价下跌",
+   "summary": "唐纳德·特朗普总统表示，伊朗战争可能导致共和党在中期选举中遭遇挫折",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国在中期选举前袭击伊朗岛屿。"
+     "text": "万斯在中期选举后否认伊朗战争，导致油价下跌。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "为什么要搬家？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "唐纳德·特朗普总统表示，伊朗战争可能导致共和党在中期选举中遭遇挫折"
+    }
+   ],
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa0Q5aFRYMzZ5OEhGUU54cXg2VzMwSVozdjNrNjRQWGx4cGxvZHM5Ry11RHh5RlZDUzNicUtpMFVVQ0I4SGkyVzU3WEdOQlRDcTZlbEVvazEtdGtfUGlvWjJGcER6RDJqejBQclVKWFZyWlBUUVAyS0ttTUJTYkdWdmN5elVjN2lBWW00?oc=5",
+   "type": null,
+   "time": "2026-11-04T20:46:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-vs-india-lineups-and-confirmed-team-new",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "巴基斯坦对阵印度 SAFF 锦标赛阵容和确认的球队新闻",
+   "summary": "巴基斯坦对阵印度 SAFF 锦标赛阵容和确认的球队新闻",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦对阵印度的 SAFF 锦标赛阵容和确认的球队新闻。"
+    }
+   ],
+   "source": "Athlon Sports",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnBlcGNpVjFBM1dEcHhQemZyUUZYdVNnWEdEM0luUHNZMEVqQmtIMHhsd29INGJJX1k2MXpIWk4yc3N4RE1ud2xYZG9sV0F6RGh2WkJDRUNWc3djeXl2WFNQSk5FQXF4eW5IQzRHdllQbElFRTlEcEFNWVpFYndtWUpqSm1tT0hDcFhlVmxNU2dRTHlnWHVCLVFHSEdWMU9mODV6Q19B?oc=5",
+   "type": null,
+   "time": "2026-11-05T06:25:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "iran-war-live-irgc-says-two-oil-tankers-and-tugb",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗战争直播：伊朗革命卫队称两艘油轮和拖船在霍尔木兹起火",
+   "summary": "伊朗伊斯兰革命卫队表示，两艘油轮和一艘拖船在使用“未经授权的路线”后在霍尔木兹海峡起火。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗战争直播：伊朗革命卫队称两艘油轮和拖船在霍尔木兹起火。"
     },
     {
      "role": "COMMANDER",
@@ -58,109 +111,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "据英国广播公司美国合作伙伴哥伦比亚广播公司称，美国官员称对格什姆岛的袭击是有限的和防御性的。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-03T11:33:33Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-bombs-iran-talks-peace-and-sends-oil-price",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "特朗普轰炸伊朗，谈和平，导致油价暴跌",
-   "summary": "特朗普轰炸伊朗，谈和平，导致油价暴跌",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "特朗普轰炸伊朗，谈和平，导致油价暴跌。"
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1F4SmR3Q2Z1OU05NG9icDloQk1oNFFNRTBTakxfa0QwYi0zbW1SSU1GaVJqR0w0QzBBLVdfNTVDMzZyTU5GcEEzU3lIMkFyVkE0azlydGw2Ym1JWlZZUlNRUmw3cmsxS2gweUJybkxueTJGNlprV2dPZFJPbXNlaW5DUHh5akl1YkUxRTQzQXNwTVJjR2tOeVhPcm9FRWQ4MFpF0gGoAUFVX3lxTE1BMktxYktCQzFYZVdXOGxqTElLanI4ZWJiOEpPaE1ibUtwbkVDWHlON29NVG9FcFgxbUNXOWYtYlBNQkp5RW56SGZib1BYZVBoeHZ3SVdtUElYR05yTERlbDRkREJ3VnIta3JocUdOblpleTdNbVNoN1hEWjhtTUpWb1RacjQ0Y0VlSkFNWUd2QmpnZjRPVENWUzh4SzVLc2JRcEhkNVZhdg?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:43:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-hopes-abu-dhabi-talks-will-o",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "乌克兰泽伦斯基希望阿布扎比会谈将为普京会晤开辟道路",
-   "summary": "乌克兰总统在柏林会见德国总理，后者表示俄罗斯尚未认真参与和平努力。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "乌克兰泽伦斯基希望阿布扎比会谈将为普京会晤开辟道路。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好的。细节？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "乌克兰总统在柏林会见德国总理，后者表示俄罗斯尚未认真参与和平努力。"
+     "text": "伊朗伊斯兰革命卫队表示，两艘油轮和一艘拖船在使用“未经授权的路线”后在霍尔木兹海峡起火。"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/3/zelenskyy-hopes-abu-dhabi-talks-will-open-way-to-meeting-with-putin?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
    "type": null,
-   "time": "2026-11-03T16:22:15Z",
+   "time": "2026-11-05T00:00:00Z",
    "countries": [
-    "Ukraine",
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
+    "Iran"
    ]
   },
   {
-   "id": "russia-must-show-it-is-serious-about-ceasefire-a",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "德国总理默茨表示，俄罗斯必须在阿布扎比会谈中表明其对停火的认真态度",
-   "summary": "德国总理默茨表示，俄罗斯必须在阿布扎比会谈中表明其对停火的认真态度",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "德国总理默茨表示，俄罗斯必须在阿布扎比会谈中表明其对停火的认真态度。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXJMLXBKYzVHZFN2cldicFNYeVNFbGFmZTQxbnRCd1lmRnoxVDI4alZIM2dMZjBjaHdYMUpkamZISkJSS1ZiR0NLSkM2amxDNjU4NmZNS2YwN0dlUFphd2l4SkRqSXBQUTd6YS1DR19TRl9QWVVaalZlSE02ZFNESW1hUHhTSHlZd21LOGgyTjJXNC1lUEtlQ2hPemlxM0FCNHhRenVvaGR2NFBXQ2kzU1JZMEkyT0dva21LZ2pjN2FaalE?oc=5",
-   "type": null,
-   "time": "2026-11-03T16:04:21Z",
-   "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "u-s-military-strikes-iran-s-qeshm-island-in-what",
+   "id": "vance-blames-iran-war-for-gop-midterm-losses",
    "country": "Iran",
    "label": "伊朗",
    "lat": 32.4,
@@ -168,145 +131,120 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "美国军事打击伊朗格什姆岛，美国官员称这是防御措施",
-   "summary": "美国军事打击伊朗格什姆岛，美国官员称这是防御措施",
+   "headline": "万斯将共和党中期选举失败归咎于伊朗战争",
+   "summary": "万斯将共和党中期选举失败归咎于伊朗战争",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国军事打击伊朗格什姆岛，美国官员称这是一种防御措施。"
+     "text": "万斯将共和党中期选举的失败归咎于伊朗战争。"
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUxWRV9INUFTNjJQdi1qT2t2TzdtTWFqSjlQZkpiUDM0VWk0UzFiY1g1cXJDNmJfV2lYVGloc211UnNJNlZGdjFkVEQ4amlxN3NmQXlhRjBjR05Dd3BOdm8zQlBvV1V1YS1OUWdlcXpNSjMzTHBNR3MxT3BtTWJVVjBxN1ZfSnNBS0N3bXhUcGlmMUk?oc=5",
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3hPeE5hNmhGaGtEbTNfZXdZUTJiaDctVDhSd2g0T1FIUVdyOGFnWHFfaXp6Y1Z4VmNqOXJ6VC1Ob3BfbHF0Y2RZQlQ0cDdTWDVDRGVjMmxyOGtoeU5JOUdMbGg3MXJZYTBwSGVPaWlyS2VHRnkyclVnQ3JhZm00bGpObWR5SUZ1bWc?oc=5",
    "type": null,
-   "time": "2026-11-03T19:22:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "pakistan-successfully-tests-its-first-indigenous",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "巴基斯坦成功测试首枚自主研发的空对空导弹Fa’az：ISPR",
-   "summary": "巴基斯坦军方媒体机构周二成功进行了该国首个自主研发的空对空导弹“法兹”的飞行测试，“标志着国家航空航天和国防能力进步的又一个重要里程碑”",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦成功测试了第一枚自主研发的空对空导弹“Fa’az：ISPR”。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好吧，还有什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "巴基斯坦军方媒体机构周二成功进行了该国首个自主研发的空对空导弹“法兹”的飞行测试，“标志着国家航空航天和国防能力进步的又一个重要里程碑”"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2041885/pakistan-successfully-tests-its-first-indigenously-developed-air-to-air-missile-faaz-ispr",
-   "type": null,
-   "time": "2026-11-03T20:29:32Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "crude-oil-prices-fall-for-second-day-as-market-h",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "由于市场希望通过外交手段解决伊朗战争，原油价格连续第二天下跌",
-   "summary": "由于市场希望通过外交手段解决伊朗战争，原油价格连续第二天下跌",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "由于市场希望通过外交手段解决伊朗战争，原油价格连续第二天下跌。"
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
-   "type": null,
-   "time": "2026-11-03T06:41:07Z",
+   "time": "2026-11-04T16:56:43Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "us-midterm-election-results-live-polls-start-clo",
+   "id": "syria-saudi-arabia-sign-defence-cooperation-deal",
+   "country": "Syria",
+   "label": "叙利亚",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "info",
+   "category": "Business",
+   "headline": "叙利亚与沙特阿拉伯签署防务合作协议并同意提供4.03亿美元贷款",
+   "summary": "叙利亚总统萨拉在不到一个月内第二次访问利雅得，签署了防务合作协议。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "叙利亚与沙特阿拉伯签署防务合作协议，同意提供 4.03 亿美元贷款。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "叙利亚总统萨拉在不到一个月内第二次访问利雅得，签署了防务合作协议。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T03:46:13Z",
+   "countries": [
+    "Syria",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "turkey-s-parliament-set-to-ratify-defence-pact-w",
+   "country": "Turkey",
+   "label": "土耳其",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "随着胡塞武装袭击加剧，土耳其议会将批准与沙特阿拉伯和巴基斯坦的防务协议",
+   "summary": "随着胡塞武装袭击加剧，土耳其议会将批准与沙特阿拉伯和巴基斯坦的防务协议",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着胡塞武装的袭击愈演愈烈，土耳其议会将批准与沙特阿拉伯和巴基斯坦的防务协议。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORDg5Y29OampmTGVlcU05M3BFOUVIOGhxY0pwcHBtb2owY29CQTVvZ3FkQUVwblFaRHkwTWpfSjRhTk1FOHB5czhNYkx4THRja1I0ZlRsMFVTWFI1WWFWY3ZLTk5fTGJOZEN5bVlCaTFXN2ZIZnEtZUFmaHNzOU05dUpLaHBKSUJMRGJ2ZC1kMHRWYUlZNE4zRXp5THp3TU41V3plWFh3Q2ZrSGMwb3N2dFl6cWo3VXdBTHFYWHp1WUhRZlBTR2dqSWY0OA?oc=5",
+   "type": null,
+   "time": "2026-11-04T14:09:44Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "what-the-us-midterms-mean-for-ties-with-china",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "美国中期选举结果公布：部分州投票开始结束",
-   "summary": "全国各地的投票站将开始陆续关闭，印第安纳州和肯塔基州最早将于格林尼治标准时间 23:00 关闭。",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "美国中期选举对中美关系意味着什么",
+   "summary": "分析人士表示，民主党在本周的美国中期选举中取得压倒性胜利，控制了国会，这对最大竞争对手中国来说既是机遇也是挑战。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国中期选举结果已公布：部分州的投票开始结束。"
+     "text": "美国中期选举对中美关系意味着什么。"
     },
     {
      "role": "COMMANDER",
-     "text": "有什么影响？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "全国各地的投票站将开始陆续关闭，印第安纳州和肯塔基州最早将于格林尼治标准时间 23:00 关闭。"
+     "text": "分析人士表示，民主党在本周的美国中期选举中取得压倒性胜利，控制了国会，这对最大竞争对手中国来说既是机遇也是挑战。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042295/what-the-us-midterms-mean-for-ties-with-china",
    "type": null,
-   "time": "2026-11-03T22:30:00Z",
+   "time": "2026-11-05T05:44:06Z",
    "countries": [
     "United States of America",
-    "India"
+    "China"
    ]
   },
   {
-   "id": "us-brokered-russia-ukraine-talks-are-set-to-resu",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "暂停九个月后，由美国斡旋的俄罗斯和乌克兰会谈将在阿布扎比恢复",
-   "summary": "暂停九个月后，由美国斡旋的俄罗斯和乌克兰会谈将在阿布扎比恢复",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "在美国斡旋下的俄罗斯和乌克兰谈判在暂停九个月后将于阿布扎比恢复。"
-    }
-   ],
-   "source": "Latin Times",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1FnU201bEh6YTYwYklTMGtiMk5HWUJKSm02bnBtOFNNRTZuNGVRalB1bThYTzJLamxWb3lXU1BsZjF6VmhvS0xGcTdhZjczckFBQ1pBcDl3M1J4WjdveGRSdHFLV2RzVmNMbjI2V0ZWM3BXN2dGbUU5SFNLM25KOA?oc=5",
-   "type": null,
-   "time": "2026-11-03T21:03:14Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "russian-bombing-kills-31-people-at-ukraine-aid-c",
+   "id": "zelenskyy-hopes-democratic-congress-will-bring-m",
    "country": "Ukraine",
    "label": "乌克兰",
    "lat": 49.0,
@@ -314,146 +252,204 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "基辅称，俄罗斯轰炸导致乌克兰援助中心31人死亡",
-   "summary": "官员们表示，至少有九枚 3000 公斤重的空投炸弹袭击了乌克兰南部的一个村庄，总统称这是一次“极其可怕”的袭击。",
+   "headline": "泽连斯基希望民主党国会为乌克兰提供更多美国帮助",
+   "summary": "欧盟官员还敦促新一届美国国会加大对俄罗斯的压力，以结束长达四年半的战争。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "基辅称，俄罗斯轰炸导致乌克兰援助中心 31 人死亡。"
+     "text": "泽伦斯基希望民主党国会为乌克兰提供更多美国帮助。"
     },
     {
      "role": "COMMANDER",
-     "text": "确认了吗？"
+     "text": "背后是谁？"
     },
     {
      "role": "ANALYST",
-     "text": "官员们表示，至少有九枚 3000 公斤重的空投炸弹袭击了乌克兰南部的一个村庄，总统称这是一次“极其可怕”的袭击。"
+     "text": "欧盟官员还敦促新一届美国国会加大对俄罗斯的压力，以结束长达四年半的战争。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T04:49:56Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "to-bomb-or-not-to-bomb-trump-s-limited-iran-war-",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "轰炸还是不轰炸？中期选举后特朗普对伊朗战争的选择有限",
+   "summary": "轰炸还是不轰炸？中期选举后特朗普对伊朗战争的选择有限",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "轰炸还是不轰炸？特朗普在中期选举后有限的伊朗战争选择。"
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVJKUWc1MUc1dVk5VVdmVjMzY0Ywb1pSNjl3S1NzSjJFc25YbTAyallqbjl6eHpZSVo4ekxOV0I2Si00NFhOVXpNRzVSWTROc1kyQzdkQmxkOFJhZjR2QnBVaGlvVzMtQlNVczJKS0N6U3VtYjVwQjFZY3p0VW9YS1YybWdXOE55Qk1aQWFJMlZnZnZ4Zld4WXFCVmtXLU1fdnc5RXVKNkpOY3Z4TFNV0gG3AUFVX3lxTE9vV1E1RlhVSG5tbFlrM2g5eUhCdEw1TVFocHpycFBBRmJBRmdTbUxONmY4ZXpZVGFQcXJlSHZZNU1WOXl6cDFjSjhyeldjRkFFQ3IwUzVzMlZsNFRLTEw5cjZjWVdaeGp3SDhwZUEwcEZNLTd3ZnhxX0tFb3FKamZDc01vWVFrTXZFdS1pTFBrUF9uVDB5ekxmN01JNm43NWlpSlhpNDBfMlJpcU91bGRwMzFoaC1sSQ?oc=5",
+   "type": null,
+   "time": "2026-11-05T03:57:09Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "vance-walks-trump-tightrope-with-scathing-electi",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "万斯严厉批评伊朗战争，为特朗普走钢丝",
+   "summary": "这位副总统对共和党选举失败的直率评价是近年来与现任总统最尖锐的决裂之一。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "万斯以严厉的选举批评指责伊朗战争，为特朗普走钢丝。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "这位副总统对共和党选举失败的直率评价是近年来与现任总统最尖锐的决裂之一。"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-03T13:26:19Z",
+   "time": "2026-11-05T03:47:56Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-weekend-weather-rain-possible-in-these-areas",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "阿联酋周末天气：这些地区可能会下雨；这是排灯节天气预报",
+   "summary": "阿联酋周末天气：这些地区可能会下雨；这是排灯节天气预报",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋周末天气：这些地区可能会下雨；这是排灯节的预测。"
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUG84cm1YMHFFa1UxUHdDMm9rWm1uYXFmaVVfaktKandHZDhjQXVCVFBJOW1hSVNDXzVrbHB3T3hhbWhiZndwZVRIMFdTS1dXYWZ2QnNTaVh4NWFoNTlpLWRDcVVmbTVhZnJya3RwVUtjMU5lZjd6azBrQ0JseDZERlBPUXFEakRVUUlZOXktSWdKaFhfWUVkZ0dLejNzbWsybXRVbnR5Y3Z3cFlYdjN4LS1Qb2lscFVpNG9z0gHOAUFVX3lxTE12eXU5V29MT3c3czllU2gwdVcxeDE0enhuaVdGWjhrU2VNV09NRV9YTE5USTVGTGJJQjczaVFaZ1FmbUpsczRLQXE2S3lpMUFxX2JDbVhYWWZyNFhxZTh0NGQxRTZBeUR6RWxGR0YtTFJPN3dvbUFDTWl2Y0FubUhDVWNtckw3WjVadDMzR2hkanFPMWlMVVdXX1BRVFlyTE9HU2Z4ZHJxb1ZBcFhyeTFySFRrU0hVdjFpR1lwTldrTmlvWVJqbGVkSzRoSFFn?oc=5",
+   "type": null,
+   "time": "2026-11-05T07:20:33Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ukraine-says-bodycam-video-shows-deadly-russian-",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "乌克兰称随身摄像机视频显示俄罗斯致命的双击爆炸事件",
+   "summary": "基辅称，乌克兰一个村庄周一发生袭击事件，造成至少 40 人死亡，另有 30 人可能仍在废墟下。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "乌克兰称随身摄像机视频显示俄罗斯致命的双击爆炸事件。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "基辅称，乌克兰一个村庄周一发生袭击事件，造成至少 40 人死亡，另有 30 人可能仍在废墟下。"
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0MlQ3RGZXaWNFM2h6RUpwSnRnRWw2VXgyYlRORFVTQ0xzcEMxVkdGUXdoR1FHSF93Y3pTMU1Bd0NUekpRMXU1OW5kOXB6WUNjenRMZ3Ryc25FZEU?oc=5",
+   "type": null,
+   "time": "2026-11-04T22:48:43Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "russia-confirms-new-ukraine-peace-talks-as-melan",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "梅拉尼娅·特朗普准备主持停火会议，俄罗斯确认新的乌克兰和平谈判",
-   "summary": "梅拉尼娅·特朗普准备主持停火会议，俄罗斯确认新的乌克兰和平谈判",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着梅拉尼娅·特朗普准备主持停火会议，俄罗斯确认了新的乌克兰和平谈判。"
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPalFTQUJtQy1ORXE4SmxzX1hBNVVXWE1FNFhhZUFBMExLT1Z2emNib05OMXlHNlJ3aUk0aGtsU1ZYZ1pRb1oyMkNxZUFQY1AyRWZ5WGU1Y0JINVFZV1VqZUFLMjN0RXU2UXZWeUhseUdCODNyUGUtbHladVg0Q0dtNjUydFdXME1ocW9LLXRRekFad9IBlwFBVV95cUxNcnZ2QVdpVV8wZjNfT3N1M0t0cEt4Sy03dTJCbk1sMDVlTGktY1BOczdIN1E1WFhFdDVFY04wUHB1YnYtVjN4SExtRjZBU1VMRmxldml0VFRzdm4tUnZCQkhoSk9LWnlULWRnbUpxSS1iRVI3Q0NuTjNXeERZNnlZbU5wWktjR1V5SHk2aVdsMncteVNKOGFB?oc=5",
-   "type": null,
-   "time": "2026-11-03T13:22:25Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "two-police-officers-protecting-polio-workers-in-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "巴基斯坦两名保护脊髓灰质炎工作人员的警察被枪杀",
-   "summary": "巴基斯坦两名保护脊髓灰质炎工作人员的警察被枪杀",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦两名保护脊髓灰质炎工作人员的警察被枪杀。"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc2ZTVGMxOTNLdGdUZ2NydnhqRm1aeHM1OGc4cF9hdWNGR1lrMHlsaVk2QVBGTVIwQkhDMGllelFLTGpoWnJMRERQem83alkwUTlNQnRzSE9ZLWg3WUtHQ1FJbGtZaGxZbmlhdTI2N2hBb3BrSUxPMzhzYWpDbGh2Nlo1blhqVmNnV2hLZXV3QjFlR1hkM1p4aDhHeFdHSWczdTZzX1dEaFIwRU3SAbABQVVfeXFMT2MycmFXa3hlenNuYTQwQkcxcGxOX29IZ2szUjhfVDhVT254bFlnZDUtOE5WaGEyeGRyTEZsdzlYa09FVmZzQ3BOTTkzd2VHMi1najFSdTNuZmo3R05XMmd6RFhuUXQwRDZnYjBlaFIyWXVpWVlBcTZ4bXQtdzEzUm9RZTNzRF82MTRNcnVHLWVweUlneTZ3QTROQy1tTjlJYnJHV3NyU2dYWnRJZDc4SXE?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:36:04Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-embassy-warns-americans-of-houthi-attacks-air",
+   "id": "saudi-arabia-rolls-over-3-billion-in-financing-f",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "美国大使馆警告美国人注意胡塞武装袭击以及沙特阿拉伯机场的安全风险",
-   "summary": "美国大使馆警告美国人注意胡塞武装袭击以及沙特阿拉伯机场的安全风险",
+   "headline": "沙特阿拉伯向巴基斯坦提供超过 30 亿美元的融资 —《黎明报》",
+   "summary": "沙特阿拉伯向巴基斯坦提供超过 30 亿美元的融资 —《黎明报》",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国大使馆警告美国人注意胡塞武装袭击以及沙特阿拉伯机场的安全风险。"
+     "text": "沙特阿拉伯向巴基斯坦提供超过 30 亿美元的融资——黎明号。"
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS3VHN1NWY3dvQzZpeTF0bDNRRVdadWdQREZMUEpnMFpLZ3Z6LWtlcUdXTVNYNjdFUVBsWGhSUk5QX292ZHA1T09XakZqSFVGUWp0djJQSHA4QVo0R0tOenBrSkZNQWtRTkRSeHQ0eUN1RXlQLUZHUjVjc1drNmdfLTdRckZGRm9nc0NaZEctQXlfd2xLNUZnN2NlUE8wbzBSVDZzc0ZfN29GdkNhVFBPUjVQZlo2RnB0VmJ2cUVsQ19hc3M?oc=5",
+   "source": "UA.NEWS",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNWJzTGw1ZzJNVnJUVlp1X0N6cHl2Nkh3cUF2RmpyNVdlXzFHNXl6X0JQSVdPWXVxM2tMZFMxOW5OQTZqTm5FZGFQclNaUW1UOXBpOXR1RXNxUGVWMTFNdzNkTEZfLWNUTDFVZ0daRGRNbjUxVDIxMlA2MUhYVzl4MFI1SGcyNDdaTjNremJna096Zk9rcjdXZzByZw?oc=5",
    "type": null,
-   "time": "2026-11-03T23:22:59Z",
+   "time": "2026-11-05T02:42:30Z",
    "countries": [
     "Saudi Arabia",
-    "United States of America",
-    "Yemen"
+    "Pakistan"
    ]
   },
   {
-   "id": "president-zelenskyy-says-us-elections-will-impac",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "泽伦斯基总统表示美国大选将影响乌克兰战争",
-   "summary": "乌克兰总统泽伦斯基表示，美国中期选举将影响乌克兰正在进行的战争",
+   "id": "emirates-abu-dhabi-golf-championship",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "阿联酋航空阿布扎比高尔夫锦标赛",
+   "summary": "阿联酋航空阿布扎比高尔夫锦标赛",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "泽连斯基总统表示，美国大选将影响乌克兰战争。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "乌克兰总统泽伦斯基表示，美国中期选举将影响乌克兰正在进行的战争"
+     "text": "阿联酋阿布扎比高尔夫锦标赛。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+   "source": "Idaho State Journal",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHdxTzI1WlJnXzdOQTVfZ2tRYUoyQ3o0Q19HUjhHMHRrVjYyMXYwc0xMeEJZUC1JOUlaaUgyRGFwWF9YZmxEREwzM09MVnBDMWZBc1plbXZhODBVVlFQTGl5dF9SU1JnM2VaS0xUbGhrOXhVVUFoLUgtYUROby1iUnZKVFhNZTByVzA3WHpXODRodUZGa2dOWVQtQ3dWdXhFUy1xc0gtcFhxNGxlRU9aNDB0amIyeEw0TEhRMTBNUjZ4WGhUNnpSclFlSUhEZTA?oc=5",
    "type": null,
-   "time": "2026-11-03T21:43:19Z",
+   "time": "2026-11-05T05:34:29Z",
    "countries": [
-    "Ukraine",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "pakistan-lost-40-billion-since-trade-with-india-",
+   "id": "exports-to-europe-dip-despite-gsp-",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -461,83 +457,88 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "报告称巴基斯坦自与印度贸易中断以来损失了 400 亿美元",
-   "summary": "报告称巴基斯坦自与印度贸易中断以来损失了 400 亿美元",
+   "headline": "尽管普惠制+，对欧洲的出口仍下降",
+   "summary": "伊斯兰堡：尽管拥有普惠制 (GSP+) 地位，但巴基斯坦对西欧和东欧主要市场的出口在 2026-27 年第一季度与上年相比有所下降。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "报告称，自与印度贸易中断以来，巴基斯坦损失了 400 亿美元。"
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEFwbDFhdEM3dERXWTZ5TUZBVWJlNUhLTnRsQzJ3NG9wM1lDSUE1d0Q3X3ZoQzRzd0lRTjlLdzdTVG1EaENDeHk0VTlZM2k0bTRaQ3d3c2Q1Z1ZqS2UwM3NnTHJ3N0pkV192SWc1OWhXN1ZvY2xUT0hqYm5fYkpkdFB2cDdmMUZkc3NzUXVKZ3FVTV9FdTZMR1Ixdm92SUVCbTZENjVrUi0tUdIBsgFBVV95cUxNNGFoNnMtY200YjJ1UTZoZWFtV0ZvQk45dHM5TlVINWNrU2RjOWR2VHlEeXctajU4cS1MTG0xcW9WLVZkeXFvNU1ia19iMmktQmRjSG5CMk45dG5KUGQ1Q0szN0xNLUx5Y0FHZG9zdEVvSEduVmtuS281cm5GWWI1QXZMbFZuQndRRUdDYk1UUy1vYS1udkF1eTVsM0xKdlhCMk1ELWNfOThTNjVNdUl0WV9B?oc=5",
-   "type": null,
-   "time": "2026-11-03T12:41:56Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "flights-across-europe-face-disruption-after-fals",
-   "country": "Poland",
-   "label": "波兰",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "World",
-   "headline": "假炸弹威胁导致欧洲各地航班面临中断",
-   "summary": "波兰、西班牙、保加利亚和意大利的飞机在收到分别的威胁后已接受爆炸物检查。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "欧洲各地的航班因虚假炸弹威胁而面临中断。"
+     "text": "尽管普惠制+，但对欧洲的出口仍下降。"
     },
     {
      "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
+     "text": "为什么要搬家？"
     },
     {
      "role": "ANALYST",
-     "text": "波兰、西班牙、保加利亚和意大利的飞机在收到分别的威胁后已接受爆炸物检查。"
+     "text": "伊斯兰堡：尽管拥有普惠制 (GSP+) 地位，但巴基斯坦对西欧和东欧主要市场的出口在 2026-27 年第一季度与上年相比有所下降。"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdXcG1iZGRwUVNncG1XV0ctTzAxa3lVQXhJYzdUcVVTdHFxSkFQV2J4UzVLeWpQRkk0RmgxS3lxQW1nYUdSVlhlVnNKc09NaEdRNkd5UXFjMkNibjh4VnJLZjFRNk5TeV8tcUpOWHF5WUVMUktMRDBCbk5wWlRNM0twei1vZ0RiZE1sSE9WN1k5R05tcl9QdUpR?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042198/exports-to-europe-dip-despite-gsp",
    "type": null,
-   "time": "2026-11-03T18:42:00Z",
+   "time": "2026-11-05T02:01:16Z",
    "countries": [
-    "Poland",
-    "Spain",
-    "Italy"
+    "Pakistan"
    ]
   },
   {
-   "id": "kremlin-confirms-trilateral-ukraine-peace-talks-",
+   "id": "uae-tax-return-deadline-under-two-weeks-away",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "克里姆林宫确认下周在阿布扎比举行乌克兰三边和谈",
-   "summary": "克里姆林宫确认下周在阿布扎比举行乌克兰三边和谈",
+   "headline": "距离阿联酋纳税申报截止日期还有不到两周的时间",
+   "summary": "距离阿联酋纳税申报截止日期还有不到两周的时间",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "克里姆林宫确认下周在阿布扎比举行乌克兰三边和谈。"
+     "text": "距离阿联酋纳税申报截止日期还有不到两周的时间。"
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQloyWTF2V2MxV0hvV1IzWmF0YVhrdE9zR1pWZGtodWcxZ19zOVhRcjFfRFlMQjBGQjFxZkx3VFdGVm8yS2d1d25WTFIyRkxXcWtKRXZIUWRrVnpmUzVnbFhYa1IxVGdwYTVaVDNURnl3MVdyNHhhMVhYVURMMmtreTdhd3ZNdkNORUlCRmJTNDEwWGNZdFc4OTRiQl9XMXREVDVnT0l0bVotOUhFVGNnTDlhcm5HS1U?oc=5",
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tZUpuUkZCcDVFWDMwYlZiSExkUncxS0NOSjhDaTRhZ2ZKZy1jTjRBQTM1RW9WVlZJdnNEUEVBenROZXpnc3FUZ3N1UDhvdWwzVHhxVU1ZWWtkSlEtb25VUkpabXozeFRDUF9paC1tU2Y?oc=5",
    "type": null,
-   "time": "2026-11-03T09:40:50Z",
+   "time": "2026-11-05T05:00:00Z",
    "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "Ukraine"
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "riyadh-rolls-over-3bn-as-prospects-of-10bn-us-fa",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "随着美国 100 亿美元设施前景黯淡，利雅得展期超过 30 亿美元",
+   "summary": "• 奥朗则布表示，拟议的美国贷款并不是必需的，如果获得批准，将提供额外支持 • 计划进一步发行欧洲债券、熊猫债券和与卢比挂钩的美元结算债券 • 政府目标减少 40 亿美元外债 伊斯兰堡：巴基斯坦已获得担保",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着美国 100 亿美元设施的前景黯淡，利雅得展期资金超过 30 亿美元。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "为什么要搬家？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "• 奥朗则布表示，拟议的美国贷款并不是必需的，如果获得批准，将提供额外支持 • 计划进一步发行欧洲债券、熊猫债券和与卢比挂钩的美元结算债券 • 政府目标减少 40 亿美元外债 伊斯兰堡：巴基斯坦已获得担保"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042213/riyadh-rolls-over-3bn-as-prospects-of-10bn-us-facility-wane",
+   "type": null,
+   "time": "2026-11-05T02:05:14Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Pakistan"
    ]
   }
  ]
