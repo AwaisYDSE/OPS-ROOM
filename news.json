@@ -1,30 +1,73 @@
 {
- "updated": "2026-11-04T18:53:12.596822Z",
+ "updated": "2026-11-05T00:24:55.492103Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "crude-oil-prices-fall-below-90-a-barrel-as-vance",
+   "id": "us-midterm-election-results-live-trump-blames-ir",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US midterm election results live: Trump blames Iran war after losses",
+   "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US midterm election results live: Trump blames Iran war after losses."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-04T21:00:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "inside-vance-s-midterms-post-blaming-iran-war",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
-   "summary": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Inside Vance's midterms post blaming Iran war",
+   "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war."
+     "text": "Inside Vance's midterms post blaming Iran war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections"
     }
    ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5",
+   "source": "Politico",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQLVB2dmRvVmNJelNpb3lvMTNieEZMN0tRZTlNdldJdTZrc3pTUmN3WlFrUmJXdC1SemZsVGE1SnlIS00yVEw5Y3VHcElMbERXWV9ibGxrQlpxS2Y0cWFFSjAzY1VDSGZVN1Vmc091dnUzZjhoendiU2E2NWFXTm5hQVlIWExqNVRSRmZNUVpGQXczODk2NjBsM093?oc=5",
    "type": null,
-   "time": "2026-11-04T16:43:16Z",
+   "time": "2026-11-04T22:26:00Z",
    "countries": [
-    "Iran"
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -56,7 +99,7 @@
    ]
   },
   {
-   "id": "trump-insists-iran-war-was-necessary-after-histo",
+   "id": "can-democrats-in-congress-end-the-war-in-iran-",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -64,55 +107,106 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Trump insists Iran war was necessary after historic midterm losses for GOP",
-   "summary": "Trump insists Iran war was necessary after historic midterm losses for GOP",
+   "headline": "Can Democrats in Congress end the war in Iran?",
+   "summary": "Can Democrats in Congress end the war in Iran?",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump insists Iran war was necessary after historic midterm losses for GOP."
+     "text": "Can Democrats in Congress end the war in Iran?."
     }
    ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVGRXNEZiUzFRVGJDTkJVVzJaMXpkNF9SMnVkM2d1c0JKOW1vYjh4OER6ckJzTV9Dd1FwWVRDRmZRSk1aa2FGUkE4dnltdzVJRm9FQldNZnNaOVU3U0xqaUMwTHEzZlpDb1QxV0N3MjQ1MmhkZ1hhcmNMaDV5MjVpVWFMclVOWXhqajJVZFpR?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYk05dUpUT2ZHS3ZVeHhlRkRLOFU3dG9xeHpVUlI5RE1qMV80eUVXTDNmMndhc0xiQ09JX3ZpYVAxR0M0SEptdHQySVk0RXM2aW8tSFhjdlM?oc=5",
    "type": null,
-   "time": "2026-11-04T17:05:26Z",
+   "time": "2026-11-04T22:14:41Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "us-vice-president-jd-vance-says-iran-war-is-the-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "US Vice President JD Vance says Iran war is 'the reason we lost' midterms",
-   "summary": "US Vice President JD Vance said on Wednesday that the Iran war had doomed Republicans in the midterm elections , moving to distance himself from the unpopular conflict ahead of a possible 2028 White House run. “The reason we lost is the war.",
+   "id": "will-the-us-resume-its-attacks-on-iran-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Will the US resume its attacks on Iran?",
+   "summary": "Tehran says it's ready with a maximum deterrence plan.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US Vice President JD Vance says Iran war is 'the reason we lost' midterms."
+     "text": "Will the US resume its attacks on Iran?."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "US Vice President JD Vance said on Wednesday that the Iran war had doomed Republicans in the midterm elections , moving to distance himself from the unpopular conflict ahead of a possible 2028 White House run. “The reason we lost is the war."
+     "text": "Tehran says it's ready with a maximum deterrence plan."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042118/us-vice-president-jd-vance-says-iran-war-is-the-reason-we-lost-midterms",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
    "type": null,
-   "time": "2026-11-04T18:12:30Z",
+   "time": "2026-11-04T20:25:50Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-mulls-third-crude-oil-pipeline-to-avoid-stra",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz",
+   "summary": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE Mulls Third Crude Oil Pipeline to Avoid Strait of Hormuz."
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXNLX3ZlS196c3ZXQ18wZ1pCVnRqMkNuT1JwcmxaMmdxd2x5UFZxX2xpaDhDMm9iTHR3ZE9URVljcWlDVllMelBQVDR6cXRGbjktclN5TnpVQWJacGZmRVNqM1FNeWFnNTFtT0lVQkhkZGNQcVBrXzJCVmhSZjlqb1hlV3RxaTNPNHF2YWk0YzJQTVFJd0doa0VieEFhSEJfUDAxRXVac1MtRllWZWhmaw?oc=5",
+   "type": null,
+   "time": "2026-11-04T14:26:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "tinubu-departs-saudi-arabia-for-nigeria-after-um",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Tinubu Departs Saudi Arabia For Nigeria After Umrah",
+   "summary": "Tinubu Departs Saudi Arabia For Nigeria After Umrah",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Tinubu Departs Saudi Arabia For Nigeria After Umrah."
+    }
+   ],
+   "source": "Channels Television",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObHpYUjM0V3pvT0dHRDZ4c0lPN1dhSjZuMndDREdwNUNVZHBnLVpwdWRucU9WWHFWSDhRMEM4YUs5T0hIYUNEbUp1cGNYWDRQRDZzaG5pZWN5YnJnN2diNlV4d0RQdXhxNVlza0o3S1M2R1JnS1pOaU5KWjFNZ1dNa1hCV01tVnNhS0JRLTNnUGJoNEVJ?oc=5",
+   "type": null,
+   "time": "2026-11-04T18:37:21Z",
+   "countries": [
+    "Saudi Arabia",
+    "Nigeria"
    ]
   },
   {
@@ -133,7 +227,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -150,33 +244,7 @@
    ]
   },
   {
-   "id": "mahadev-betting-app-co-promoter-ravi-uppal-arres",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Mahadev betting app co-promoter Ravi Uppal arrested in UAE, India to extradite him",
-   "summary": "Mahadev betting app co-promoter Ravi Uppal arrested in UAE, India to extradite him",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Mahadev betting app co-promoter Ravi Uppal arrested in UAE, India to extradite him."
-    }
-   ],
-   "source": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYjd5aWJUOVduc2gtTHJiMHVZLWZPQTNvLWRNazdNVk5TRWU5bC1QaXBkSnhnMUFyTVgyZllDTjlHYXNuOWh1OWdfRDNBelR2amozUWFuZGVHeGhLcG44S2ZSbmdLWUJSc2IzUkhXT0UzNFlyVHU1ZUlpRFk4MUNMaGJOUjFLRlFTT19FVGdiQmZVSGhIWGxiYlhqa2hhXzJZbVZYUkV1aTBIWFhWNURndEg3azFwcHAxbEM0eWlfQlIyYmtLOEYzNlUxREVQZ3gtSU9EYjFSZWRiYW55MjdsRGdVTdIB6AFBVV95cUxNZnE2Vk9IQUlmRTc0MnlkRTFaRDNvSEZxYWZHa0NVRU1yMWNVTDZwb0RlSGdtSVJWNGxWWU5nNE0yN0NPb2dOWXZfT1B6UUlkQnE4dEpKU3FkMzJfOEZ5dmxSWnBZTnZyWmtsVVpzYUM3MVlMOWRvVDBjMHhNMGx0eXN6eU1QWGZMcThBanEtOHJ3YndXVFVMZWJDZjNDb0c1MlJGOEVXb2pla2syTjVPc3NaY2g1OGtjY0g0YllNTlcyTV9EWjZUZXhPQTZtQ2lGOEYtMFRtejVPUV9KdHVibGh0OWhhUmct?oc=5",
-   "type": null,
-   "time": "2026-11-04T15:21:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "India"
-   ]
-  },
-  {
-   "id": "pakistan-tests-indigenously-developed-air-to-air",
+   "id": "pakistan-joins-air-to-air-missile-club-with-succ",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -184,18 +252,18 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan tests indigenously developed air-to-air missile",
-   "summary": "Pakistan tests indigenously developed air-to-air missile",
+   "headline": "Pakistan Joins Air-to-Air Missile Club With Successful Test Of Fa’az",
+   "summary": "Pakistan Joins Air-to-Air Missile Club With Successful Test Of Fa’az",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan tests indigenously developed air-to-air missile."
+     "text": "Pakistan Joins Air-to-Air Missile Club With Successful Test Of Fa’az."
     }
    ],
-   "source": "chinadailyhk",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84Mzl6Y05qQzlHelJFdmxEcEdvaVIyaVl6LVhzUm9HYWoyOERWUS1ocml3SnR5RTgyMWZUUHFxTkExdldQQTFRQ280X3diQV9WOFVGb0s5S3I?oc=5",
+   "source": "TWZ",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcVFBWVZ0WUduX0prLTZzU1p3aEhtamlLUFlSNzZicDRYOHljT2IwdkpSVXlzWGdWVjdRM1ozckFTWjIwN29QeTVYOFY4a09vYzRzNDVodUZkT3B2S3NqS2N6eWtsQ0w1OUFNSEdJTWJuV3I0NklKV2ZpdkVreWQ3cUdMdWI1Zmk5dUZWeTFqSmlIQTlUenc?oc=5",
    "type": null,
-   "time": "2026-11-04T05:34:27Z",
+   "time": "2026-11-04T20:29:40Z",
    "countries": [
     "Pakistan"
    ]
@@ -236,86 +304,146 @@
    ]
   },
   {
-   "id": "democrats-win-us-congress-in-midterm-rout-of-tru",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Democrats win US Congress in midterm rout of Trump",
-   "summary": "Democrats seized control of the US Congress on Wednesday, capturing the Senate and House of Representatives in a stunning, nationwide rejection of Donald Trump set to put the brakes on the final two years of his presidency.",
+   "id": "zawya-omani-fintech-mamun-raises-3mln-to-expand-",
+   "country": "Oman",
+   "label": "OMAN",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
+   "summary": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Democrats win US Congress in midterm rout of Trump."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Democrats seized control of the US Congress on Wednesday, capturing the Senate and House of Representatives in a stunning, nationwide rejection of Donald Trump set to put the brakes on the final two years of his presidency."
+     "text": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042019/democrats-win-us-congress-in-midterm-rout-of-trump",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjQ5ZFk0WDdsUWt5WFptRGdDWDlnMUg1cWVUcGRvV1kxaXdiUFNQVHRKQ0laVTd3QXFmWk1VRERjdkZQRkt5MkZTbXFlTzFicm9XUFBkaS1TUlBqSTdNci1LUXJzYWwwMjNKcG92bkp5RFF3SGU0Y1RfWkZYOXF6SmFfb2YxeXBZR1B3UVhUUGR1MUJrLVlGcHVyaVRsMHE0dS1hYjFwaFZuTmlxMmxMYzEtMTBhU1F1NEZhbnpvUGFhRVhEbmhMQ3FsaERQQTV6WENBUmdWdWxtZ1Q1ZWJKcA?oc=5",
    "type": null,
-   "time": "2026-11-04T15:37:52Z",
+   "time": "2026-11-04T08:38:56Z",
    "countries": [
-    "United States of America"
+    "Oman"
    ]
   },
   {
-   "id": "uae-mulls-3rd-oil-pipeline-to-bypass-strait-of-h",
+   "id": "death-toll-hits-40-after-russian-strike-on-ukrai",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Death toll hits 40 after Russian strike on Ukrainian aid site, dozens remain missing",
+   "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Death toll hits 40 after Russian strike on Ukrainian aid site, dozens remain missing."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1VCeFk1SXVDWm5XTG1IUEVySGxSLV80RTZMOVQxV2FVa2dLcEZqQmpZdmszZUpTV2phNy1ma1ZZZF9lNmFvTXpVSjMwelNoWXJfcE4zemFpOGdkS0VERHc1SGdYd0lEWnp5MjJIWmNxQ0hPaDZsQ0QzWVN5dHZWV3hCMG96ZlhKejJQSk5fa1ViY2hYU1VHbzdmOVVSbkkwR2pCZWY3ajZ4VUxiSXc?oc=5",
+   "type": null,
+   "time": "2026-11-04T20:15:47Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "merab-dvalishvili-marlon-moraes-set-for-wrestlin",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE mulls 3rd oil pipeline to bypass Strait of Hormuz: Report",
-   "summary": "UAE mulls 3rd oil pipeline to bypass Strait of Hormuz: Report",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Merab Dvalishvili, Marlon Moraes set for wrestling rematch at RAF Abu Dhabi",
+   "summary": "Merab Dvalishvili, Marlon Moraes set for wrestling rematch at RAF Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE mulls 3rd oil pipeline to bypass Strait of Hormuz: Report."
+     "text": "Merab Dvalishvili, Marlon Moraes set for wrestling rematch at RAF Abu Dhabi."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzBaMWxMQTQwZ2FnTHBELXZJd1dyZ3R1VXcwam9hZXFoQkVKMm9fVUZCMWw3VzJ4YXpkS1dhMFBINEVSOU1BTnFUbksyNjF3anI3ZF9jVkFrelAtSGNvZWFLbU5OVVJubk9NU1I4Q0gzWnpuTjlNR3lEeC0zd2dOZXJTU2gzQk1oOHZ0SVY1X3piQWxQdHB3djRPUUNDQQ?oc=5",
+   "source": "Sherdog",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkgtQlU3S3I1SEswQXhLUTczY3JLeWl2UlhudGNOQ3dLZmNHREVQb2hCVmc4RmFuTkRYdHNKaEpEVkJQODVIRmxZek1CZkNGaW1ORGZKT3B6OHQzNVhqS0ZpeURwTzQ3ZFUyNHdJYmU3Z2hRT3ZkUWJrX1NNNnNyeEFZdlRHVjRpMTFydWxOUUpQV3loSDVVb05fT0ZHajZySWR4YnZ2d1pqNF9tMUF0QTRvMXJnd9IBuwFBVV95cUxPRG01Q3pyMEtyYkRZX1pDV0wwZi1hZ3BHdEZ5eEp1QnVCSWJyNDZINy1hdnd2X1dKYmFrZkVydzZNQ05LM2lhMW91MnNWdDFfOUI1M0xoOHpVdnEyMDhiS3lpbDVyeEd0QnJOUGk5VEtkOVRsQTRFZHNveWl3Q2dkWUNraVg2TC1HQmg1c182WHRvX05FZFVSQUF4MTlabVRweGxzRUdmY1JkTG5xbnRpdjhKWmlUR3k2RUdB?oc=5",
    "type": null,
-   "time": "2026-11-04T15:37:13Z",
+   "time": "2026-11-04T20:01:03Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "gold-price-per-tola-gains-rs13-900-in-pakistan",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Gold price per tola gains Rs13,900 in Pakistan",
-   "summary": "Gold price per tola gains Rs13,900 in Pakistan",
+   "id": "israel-s-president-begins-consultations-with-par",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Israel's president begins consultations with parties after election deadlock",
+   "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gold price per tola gains Rs13,900 in Pakistan."
+     "text": "Israel's president begins consultations with parties after election deadlock."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
     }
    ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWpIN09rYWlwNjNVSk9QTnE2Q1ZCWWRmel9ZbDNWb0RNQUM3YklWdmRXeWg5RjlVeUw1dVNMc0hiX1oySjNNelBCeXJ1U1ZtZFFVY2l5TDhrY3FYNjRtdExYaEZmRTFwSXRGT1pXZlYyc0p0MDlUWkt5bVVaNl96UERTbTlhNzBrU082OFdYY05YMms?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
    "type": null,
-   "time": "2026-11-04T14:03:28Z",
+   "time": "2026-11-04T16:18:21Z",
    "countries": [
-    "Pakistan"
+    "Israel"
+   ]
+  },
+  {
+   "id": "what-trump-s-midterm-defeat-means-for-iran-and-o",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+   "summary": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What Trump’s Midterm Defeat Means for Iran and Oil Prices."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTg3TkZ0TWJkWUt2Sl9OTG1LRU9JZGhqazhzSWxEVTl4SDFwYU9HcktqMGRQS2VOd2libmF3a1pDb2NESTN1bmthUWhlc2NFV1k4WDRrdEE1SVBJOW54X3ZTN04wUjJOeldDSUNhdU8wanFqZXlTV3U0RGw1TFVhOWNta3RXb21IQXFHQl8wWQ?oc=5",
+   "type": null,
+   "time": "2026-11-04T23:36:59Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -353,180 +481,62 @@
    ]
   },
   {
-   "id": "mcilroy-says-he-wouldn-t-feel-unsafe-in-abu-dhab",
+   "id": "mahadev-app-co-founder-ravi-uppal-arrested-in-du",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "McIlroy Says He Wouldn't Feel Unsafe in Abu Dhabi",
-   "summary": "McIlroy Says He Wouldn't Feel Unsafe in Abu Dhabi",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Mahadev App Co-Founder Ravi Uppal Arrested In Dubai Days After Sourabh Chandrakar Extradited: Sources",
+   "summary": "Mahadev App Co-Founder Ravi Uppal Arrested In Dubai Days After Sourabh Chandrakar Extradited: Sources",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "McIlroy Says He Wouldn't Feel Unsafe in Abu Dhabi."
+     "text": "Mahadev App Co-Founder Ravi Uppal Arrested In Dubai Days After Sourabh Chandrakar Extradited: Sources."
     }
    ],
-   "source": "RG.org",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1VLZmNheVlVbmtvUDdUQmtuWGR6Q083enF5VHNBeXZoV1VoME16ZldMQjlaM1h4ajJ4TThKdG0taEJtYzZ6RnRUZUdPbTFhLXNWUzJDVjNVSUQyUnEtOHNURkdSN2laQnVkR19LSTRhS1h4dGhtZzg1YU9mQlRHVmJKOWFybEVBeWNoTUZSSFA2YWVLU3J6c3c1eGxKd09UZHc?oc=5",
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV0J3cVM1eWlQVkU4bmFZS3JfQ0FyeWRvVlBMdEJKUUtxaXJxY2J6SUQwd3Y1STA4MHVhaHMxdzkyd3ZKWDhVUXN5UkhfLVRlaFhPbTVZQ3N5UnFkT2ZIVGpDbXk5REdjYXZsVEw5dVkxZmwzOGN6ZjJGTXBBemlrNEJreDlqNVZMeHVwLV96ZFRBVVRWaTBxMEFHcDRpTklESW9jYjhyellxcDhpQk01bkxTM1VuYk00SXlWd1lkQTZMNXZIU2VIREN4Q3FJd9IB1gFBVV95cUxNUmdURVhjWXpXMU45V295aExBa2ZQNzgzSThCRFY2SktXemR4NWdocWt6dmlvN3VFVlZyeXdycnlIMl9xSDhyb1JScFRJdEtlcU5sa2hnamd4Vk1pdl9LNVpaODBtbi12U2FjMGdWcURWZ3pLcVRvb1IyRGRPS2RxMFE1SVg1YWMwVmx1SjJTZEVtRlY5T2ZsVU82TXc0YjFTd3pfemw4a245Rmh2dmNYb1ZKS0hNbVlXQ2kyXzdZdHJqV1ZLdkRvaHhqLXgzSS1MVjhvRnR3?oc=5",
    "type": null,
-   "time": "2026-11-04T16:43:47Z",
+   "time": "2026-11-04T14:07:53Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "israel-s-president-to-begin-consultations-with-p",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israel's president to begin consultations with parties after election deadlock",
-   "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israel's president to begin consultations with parties after election deadlock."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16VlJEM1d3V3hZVURESU85dmlFTTlValUxVG8xLUlaNi1hVy1sYmlPMG4zdWg2cW5EMUdLWEZHczFMWG9Qcy1DcnlNNmd4SlVXUGhYS2NZX1FBcjQ?oc=5",
-   "type": null,
-   "time": "2026-11-04T15:45:45Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "iranian-leaders-welcome-us-midterm-results-but-t",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iranian leaders welcome US midterm results, but Trump may still attack",
-   "summary": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iranian leaders welcome US midterm results, but Trump may still attack."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-04T15:13:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "ukrainian-strikes-kill-three-in-russia-s-belgoro",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "sudan-ethiopia-order-tit-for-tat-diplomatic-expu",
+   "country": "Sudan",
+   "label": "SUDAN",
+   "lat": 15.5,
+   "lon": 30.2,
+   "flag": "🇸🇩",
    "severity": "critical",
    "category": "World",
-   "headline": "Ukrainian strikes kill three in Russia’s Belgorod region",
-   "summary": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
+   "headline": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions",
+   "summary": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukrainian strikes kill three in Russia’s Belgorod region."
+     "text": "Sudan, Ethiopia order tit-for-tat diplomatic expulsions."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions."
+     "text": "Sudan accuses Ethiopia of aiding RSF attacks, while Ethiopia claims Sudan backs Tigray rebels."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-04T16:20:23Z",
+   "time": "2026-11-04T23:43:26Z",
    "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "tinubu-departs-saudi-arabia-for-abuja-after-comp",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Tinubu Departs Saudi Arabia for Abuja After Completing Umrah in Makkah",
-   "summary": "Tinubu Departs Saudi Arabia for Abuja After Completing Umrah in Makkah",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Tinubu Departs Saudi Arabia for Abuja After Completing Umrah in Makkah."
-    }
-   ],
-   "source": "Real Broadcasting Network",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0VUQmZ1YjdXWnQwOHFKaFZLZ3BzTGJGRnI5Ykp4OFFTRVRVVEZvNzhueEwwUlZYZFhUT1BwY0wzLXUxODRMWk5Tazd5bzJVZWJmZTBOZW5fNWQwMXpjWjEyRnJPVXN2Q2tfVzE0cGRfVUtqOEN6dEVLMkRNemR1U3RGQWZHWm9YY3M5cEZVcGVnajJqMHM5SzVIai1LOG9LOWFoSQ?oc=5",
-   "type": null,
-   "time": "2026-11-04T16:17:04Z",
-   "countries": [
-    "Saudi Arabia",
-    "Nigeria"
-   ]
-  },
-  {
-   "id": "zawya-omani-fintech-mamun-raises-3mln-to-expand-",
-   "country": "Oman",
-   "label": "OMAN",
-   "lat": 21.5,
-   "lon": 57.0,
-   "flag": "🇴🇲",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
-   "summary": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ZAWYA: Omani fintech mamun raises $3mln to expand Gulf-Asia trade finance."
-    }
-   ],
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjQ5ZFk0WDdsUWt5WFptRGdDWDlnMUg1cWVUcGRvV1kxaXdiUFNQVHRKQ0laVTd3QXFmWk1VRERjdkZQRkt5MkZTbXFlTzFicm9XUFBkaS1TUlBqSTdNci1LUXJzYWwwMjNKcG92bkp5RFF3SGU0Y1RfWkZYOXF6SmFfb2YxeXBZR1B3UVhUUGR1MUJrLVlGcHVyaVRsMHE0dS1hYjFwaFZuTmlxMmxMYzEtMTBhU1F1NEZhbnpvUGFhRVhEbmhMQ3FsaERQQTV6WENBUmdWdWxtZ1Q1ZWJKcA?oc=5",
-   "type": null,
-   "time": "2026-11-04T08:38:56Z",
-   "countries": [
-    "Oman"
+    "Sudan",
+    "Ethiopia"
    ]
   }
  ]
