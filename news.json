@@ -1,7 +1,342 @@
 {
- "updated": "2026-11-05T15:51:01.721084Z",
+ "updated": "2026-11-05T22:06:04.928207Z",
  "generator": "rss",
  "stories": [
+  {
+   "id": "iran-says-tankers-struck-in-hormuz-amid-fears-of",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says tankers struck in Hormuz amid fears of new US attack",
+   "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says tankers struck in Hormuz amid fears of new US attack."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T18:47:10Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "melania-trump-calls-for-lasting-ukraine-truce-as",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+   "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "How serious is it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-05T19:08:08Z",
+   "countries": [
+    "United States of America",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "spanish-footballer-jesus-de-miguel-mourned-by-fa",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Spanish footballer Jesus de Miguel mourned by family and friends",
+   "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Spanish footballer Jesus de Miguel mourned by family and friends."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T21:42:30Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "saudi-coalition-intercepts-missile-fired-towards",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Saudi coalition intercepts missile fired towards Medina",
+   "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi coalition intercepts missile fired towards Medina."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T20:48:47Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "mass-protests-in-france-driven-by-nationwide-str",
+   "country": "France",
+   "label": "FRANCE",
+   "lat": 46.6,
+   "lon": 2.2,
+   "flag": "🇫🇷",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Mass protests in France driven by nationwide strike action",
+   "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Mass protests in France driven by nationwide strike action."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T20:11:37Z",
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "who-could-be-behind-hoax-bomb-threats-to-europea",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Who could be behind hoax bomb threats to European air travel?",
+   "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Who could be behind hoax bomb threats to European air travel?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-05T19:58:40Z",
+   "countries": [
+    "Russia",
+    "Iran"
+   ]
+  },
+  {
+   "id": "eight-killed-in-series-of-shootings-in-western-t",
+   "country": "Turkey",
+   "label": "TURKEY",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Eight killed in series of shootings in western Turkey",
+   "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Eight killed in series of shootings in western Turkey."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Victims are found in several locations in three separate vehicles, according to local reports."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-05T19:32:54Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "french-protests-see-numbers-surge-as-unions-join",
+   "country": "France",
+   "label": "FRANCE",
+   "lat": 46.6,
+   "lon": 2.2,
+   "flag": "🇫🇷",
+   "severity": "critical",
+   "category": "World",
+   "headline": "French protests see numbers surge as unions join strikes over high cost of living",
+   "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "French protests see numbers surge as unions join strikes over high cost of living."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-05T17:59:53Z",
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "hoax-bomb-threats-target-european-airlines-and-a",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Hoax bomb threats target European airlines and airports for second time in a week."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-05T17:39:48Z",
+   "countries": [
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "jordanian-officer-killed-in-stabbing-attack-in-a",
+   "country": "Jordan",
+   "label": "JORDAN",
+   "lat": 31.0,
+   "lon": 36.5,
+   "flag": "🇯🇴",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Jordanian officer killed in stabbing attack in Amman",
+   "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Jordanian officer killed in stabbing attack in Amman."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T17:08:45Z",
+   "countries": [
+    "Jordan",
+    "Sri Lanka"
+   ]
+  },
   {
    "id": "pakistan-go-down-to-india-despite-late-onslaught",
    "country": "Pakistan",
@@ -20,7 +355,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -37,291 +372,86 @@
    ]
   },
   {
-   "id": "rory-mcilroy-gets-2-shot-penalty-after-first-rou",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Rory McIlroy gets 2-shot penalty after first round in Abu Dhabi as Laporta leads with a 62",
-   "summary": "Rory McIlroy gets 2-shot penalty after first round in Abu Dhabi as Laporta leads with a 62",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rory McIlroy gets 2-shot penalty after first round in Abu Dhabi as Laporta leads with a 62."
-    }
-   ],
-   "source": "Times Argus",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWnpfQWM2MEFoa0l0R2luS05qVFROR3FMWGkwVWxhOVJhZjljR2F1RGhaUWpucmZoUlBRd0cwYTR1YW1qeTZNS25WdmF1a2RDaFZWc2gwcWczNkhjYkF6MnRIR0JMUTgtMk0xQTdhRmI1TXY1SklVaVNEWHdsQkIwQkdZWXdrLTdZVGUtSDZYZ1VSc3VGZTN5Z1NObGxibk1oVHZCS3VNRFZLN3dZTE4xNUlseXRGblltMTJVX0V2OFFuVU5tSmVFVVYzckJNR1JJVVZUNy1fcmxZWmw1YTdEcWE2MGRWUUdrYmVONlRwcDctWlRfM2h1VmdTaURjMkRwSFZVbGpCOF9SQ0ZORXZHbHpB?oc=5",
-   "type": null,
-   "time": "2026-11-05T15:13:10Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-uk-agree-to-deepen-cooperation-in-secur",
+   "id": "official-says-273-arrested-in-nccia-raid-on-ille",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pakistan, UK agree to deepen cooperation in security, trade and migration",
-   "summary": "Pakistan and the United Kingdom on Thursday agreed to deepen cooperation in multiple areas, according to the Foreign Office (FO).",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Official says 273 arrested in NCCIA raid on 'illegal' call centre on Karachi's Sharea Faisal",
+   "summary": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, UK agree to deepen cooperation in security, trade and migration."
+     "text": "Official says 273 arrested in NCCIA raid on 'illegal' call centre on Karachi's Sharea Faisal."
     },
     {
      "role": "COMMANDER",
-     "text": "What does it mean for prices?"
+     "text": "What's the situation now?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan and the United Kingdom on Thursday agreed to deepen cooperation in multiple areas, according to the Foreign Office (FO)."
+     "text": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042342/pakistan-uk-agree-to-deepen-cooperation-in-security-trade-and-migration",
+   "url": "https://www.dawn.com/news/2042369/official-says-273-arrested-in-nccia-raid-on-illegal-call-centre-on-karachis-sharea-faisal",
    "type": null,
-   "time": "2026-11-05T11:59:05Z",
+   "time": "2026-11-05T18:17:38Z",
    "countries": [
-    "Pakistan",
-    "United Kingdom"
+    "Pakistan"
    ]
   },
   {
-   "id": "saudi-coalition-says-houthi-ballistic-missile-ta",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Coalition Says Houthi Ballistic Missile Targeting Medina Intercepted",
-   "summary": "Saudi Coalition Says Houthi Ballistic Missile Targeting Medina Intercepted",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Coalition Says Houthi Ballistic Missile Targeting Medina Intercepted."
-    }
-   ],
-   "source": "Kurdistan24",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0VRSnFuQ29ZbWFHTWNZdlZnMTZFQmZUZmpnYXRRbUtUcHBoZmJURHE4T3JmS3BRazcycnJHQ0dGaEtiZVB1NnQydnBJSTF6TEtVYTRNZi1aejFObUdCQmh4RnJSc3VtUkdyWVdnRC1pdEV5NGREaVVrRjVEQnQ4UHBVT1ZCVG1jcEVkQTlYbzREcWFvZ1gzdFdQTjdMa3Z0c2JvQmNJd1pwN2k4d1phRUs4TlFFU0lHMlE?oc=5",
-   "type": null,
-   "time": "2026-11-05T13:44:21Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "asia-fuel-oil-benchmarks-slump-as-market-prices-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
-   "summary": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Asia fuel oil benchmarks slump as market prices in potential Iran war de-escalation."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOURmMHZvcURoTHdPckpVdEYtMVA3WTktOGNLOGpHeTRZcGZ4OWZjQ2tHQTlTYy15N05pZ0VPemlkZEozUGdHTU9ieDdvZlEyU2dBbzZtbzVPNDVaaGVGNktHTGg0Nk5GbU9kYnVTN291Zkp4NV9Idk05OTNKR1FFckUtVnFfX25tWkRYd1A3VEdrME1YQjFzVzF2VDk1T1Fnc2RRdEZMZzZPNWN1YVVtX2MyTzV0SlA4eWMzOFVlQ0NBY3p2VXpsZQ?oc=5",
-   "type": null,
-   "time": "2026-11-05T10:13:02Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "oil-rises-as-investors-weigh-uncertainties-aroun",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Oil rises as investors weigh uncertainties around Iran war",
-   "summary": "Oil rises as investors weigh uncertainties around Iran war",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil rises as investors weigh uncertainties around Iran war."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWI5VVd5QjQ2czk5cjBSOHBvSjhKRmtSMnFUSlZPNmRpWFQzTmhBZl94ZnpibGtUdGRDWFNuZTU0MTdIZktfNlVJMUhpM1M1S05xN21wcUtvelhxN3RVbW01T0JyQnFucVVkTEp1bU5NZmp4azFkT0l2b0FVb2FtUkFTTHRrd2FoZUx6YlY0ejVJbVV2TkNWZ3B0dnpqdjVKME1OWmtZZWRXSlQ3ZWZ3OVMxTEx1OHBF0gG-AUFVX3lxTE9jRFNha0MwNFU1d3lTeVRhWGZONFRuV29Gb3FJQ3ZkeV9RUnZnWlRmc05hV0dTSWhnUDBoTzlWNHZJbWp0Rm1QY1d3Nmo2ckJIOXRVd0phYkczYlRsdndvdmhRbWJOMDhFZGUtQk8xZGlEa0JmT0phYkxYbVdsWC1rbFRrWUl0eldCWDNIakFRSHZyUnEtYlh2R1RLLU9ubkVIM0FEbUJpR3FlWWswVGx3TXBKRDZkMzhXcUptMUE?oc=5",
-   "type": null,
-   "time": "2026-11-05T05:02:54Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "gold-price-per-tola-jumps-rs9-600-in-pakistan",
+   "id": "fresh-polio-case-from-kp-s-khyber-district-takes",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Gold price per tola jumps Rs9,600 in Pakistan",
-   "summary": "Gold price per tola jumps Rs9,600 in Pakistan",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "Fresh polio case from KP’s Khyber district takes nationwide tally for 2026 to 9",
+   "summary": "ISLAMABAD: Pakistan has reported its ninth polio case of the current year, with the latest infection confirmed in Khyber Pakhtunkhwa’s Khyber district, the National Emergency Operations Centre (NEOC) said on Thursday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gold price per tola jumps Rs9,600 in Pakistan."
+     "text": "Fresh polio case from KP’s Khyber district takes nationwide tally for 2026 to 9."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: Pakistan has reported its ninth polio case of the current year, with the latest infection confirmed in Khyber Pakhtunkhwa’s Khyber district, the National Emergency Operations Centre (NEOC) said on Thursday."
     }
    ],
-   "source": "Business Recorder",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16bzdvT3FXbkR4eER0ZXNzMVZSSTZrUU5saXlIbnFORzdRS0pGUUcxTW92cFFOMl9sQnNzUlY5aEdvZUswUlhCc3puX0JSanBm0gFWQVVfeXFMTk0waHp2NmRKWlUtY2U2a3pWZll2bFo4THUtdEw5LVhBSDdYUWNhNlpmNW1MbDZOQk5rWTlydUhMeXc0MlFZNkNXV1dXSEtLOW53bldJTEE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042344/fresh-polio-case-from-kps-khyber-district-takes-nationwide-tally-for-2026-to-9",
    "type": null,
-   "time": "2026-11-05T14:30:33Z",
+   "time": "2026-11-05T15:50:49Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "saudi-arabia-extends-3b-financing-rollover-to-pa",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi Arabia extends $3B financing rollover to Pakistan",
-   "summary": "Saudi Arabia extends $3B financing rollover to Pakistan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia extends $3B financing rollover to Pakistan."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMjFBamI5bXVJTEZOYUh5X2l2bHprQ2hRNjhSeXc5dGNkd1lDWkR6TmVnOGxnVEFUelVuUHZ1Mk5YeE8wR2tuUl9RQkQ2ZFg5SDBWbVhSMGZrdWRCYzZuRXdrOW83UGxRaE1NcGlhb0psa1BXcjZic0ttdjJzQ0lKc1RCVlhqdVdqdEsxblpoVTVyZm5fRUpVeTdWVQ?oc=5",
-   "type": null,
-   "time": "2026-11-05T07:30:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "russia-agreed-to-supply-iran-with-90-helicopter-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
-   "category": "World",
-   "headline": "Russia agreed to supply Iran with 90 helicopter missile launchers",
-   "summary": "Russia agreed to supply Iran with 90 helicopter missile launchers",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia agreed to supply Iran with 90 helicopter missile launchers."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2ZlQ3hWVDdwTXMtUlc4VlNWZEN4bnVDbndJVHVNbjVva1QtMnVSdGlKckJRV1RlVXdyRnFRenlENFZnTmoyZzE3ZGhBQ2xYcVhZSGgyUmNnZFY2eFFBSkhDWk1JSUIzRmF6eGpxbkRKTkFZOXc0RUloZEhabkxySl9iLWNUWlpaUGR3ZldtcC1zQjk4WFhzTlhwanRvSzBFRWpZMGFVOFU4QQ?oc=5",
-   "type": null,
-   "time": "2026-11-05T15:09:00Z",
-   "countries": [
-    "Russia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "emirates-abu-dhabi-golf-championship",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Emirates Abu Dhabi Golf Championship",
-   "summary": "Emirates Abu Dhabi Golf Championship",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Emirates Abu Dhabi Golf Championship."
-    }
-   ],
-   "source": "Idaho State Journal",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdS1yVk9felNNd2tmZW1ZeUdLaGlIUDlYWDNYRnM3bjBvbk9hUHItNzBKYnJXaFYtMFRuazhtbnRSMWZqQ1pYajRra2JCdGNJVDFuZDVfS1hjY0NadGZiUmk3TnZKLUx2ekxvWnZhT0ZGVGYydmNhWUdXTy1UVFEtd3haNXEtWXRrSXY0eFJQcmhTM1Q2RVdYWUNKOHp1WW5zZHM5TWpOVVNNUGp3OFlvTklnbXRhQkFQR1lyYy15ZGtwdzF0Z2RMV21EcGxrdTQ?oc=5",
-   "type": null,
-   "time": "2026-11-05T13:41:49Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "vance-walks-trump-tightrope-with-scathing-electi",
+   "id": "major-tech-stocks-plunge-as-us-midterms-add-to-f",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-   "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Vance walks Trump tightrope with scathing election critique blaming Iran war."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-05T03:47:56Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "new-lpg-policy",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "New LPG policy",
-   "summary": "EACH winter, millions of working-class households across the country face the same ordeal. LPG, long considered the poor man’s fuel, is now what many middle-class families use for cooking and heating.",
+   "category": "Tech",
+   "headline": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "New LPG policy."
+     "text": "Major tech stocks plunge as US midterms add to fears of AI slowdown."
     },
     {
      "role": "COMMANDER",
@@ -329,185 +459,32 @@
     },
     {
      "role": "ANALYST",
-     "text": "EACH winter, millions of working-class households across the country face the same ordeal. LPG, long considered the poor man’s fuel, is now what many middle-class families use for cooking and heating."
+     "text": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042256/new-lpg-policy",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-05T11:26:00Z",
+   "time": "2026-11-05T21:56:00Z",
    "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "turkish-parliament-advances-saudi-pakistan-defen",
-   "country": "Turkey",
-   "label": "TURKEY",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Turkish parliament advances Saudi-Pakistan defense pact amid deployment concerns",
-   "summary": "Turkish parliament advances Saudi-Pakistan defense pact amid deployment concerns",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Turkish parliament advances Saudi-Pakistan defense pact amid deployment concerns."
-    }
-   ],
-   "source": "Turkish Minute",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3BvTWRnb19wWjR0OXkydXFKUnNZVV9ydVVUaWhfZ2s0RDVsMThZM3JWbUowWXJsbTZzNFc1UG90U3NYc1JLWDZIZDdBWFhDcXVsdzJXNXppdndoc0lzQ2QwM1lwWHF0MFlFQXg5Y2dCVFhzNFNwbU8yODMxbE9hWEFmd0szc2Z5WDFCVENocmZUeU5vTDR4NVRhUHZOcjZnTnNRVGpCdGl0QWRqNEVaQzV6T2lvQ280QzZwTEgtONIBxAFBVV95cUxNMHdMN3JJN3hnSUtuYUlra1hVOE8wVUNhZlNkcUtONGNZbzhPb196REZEbkFvQ3hhdzkxdEE5ejQ0NG00RHNuUHNTbjUtUXo0aHZvWmpuMTA0My1CZmpsRjgyQW42Q2RlX0U4TTM4T2t2VWQ2dVBqbkdLYmxaYjc4ZTE0c1pBN2d0VDJSdDl0bVl0dTQzU1ZzRjAzdVNxSTh3c3JoT0c0c3ZXT3hYMGlnYnlYdWFWcWJhTklMSV8wMWNxbGVK?oc=5",
-   "type": null,
-   "time": "2026-11-05T13:25:30Z",
-   "countries": [
-    "Turkey",
-    "Saudi Arabia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "new-wave-of-bomb-hoaxes-hits-27-passenger-flight",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "New wave of bomb hoaxes hits 27 passenger flights across Europe",
-   "summary": "Airlines across Europe received a series of bomb threats on Thursday morning for the second time this week, forcing many to make unplanned or escorted landings, although none of the threats immediately proved to be genuine.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "New wave of bomb hoaxes hits 27 passenger flights across Europe."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Airlines across Europe received a series of bomb threats on Thursday morning for the second time this week, forcing many to make unplanned or escorted landings, although none of the threats immediately proved to be genuine."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSUllcFZWajRSZE9PZE82Zl9aMHl5SlF6b09IejNjUjdqLTRJb2hKemVORDZGVDdkZkFaUksyV3hxMXNCNXlHZnR2QjY5anN0RkFpeC1UMzBQcjkxRC05S0tBcVhSOTA1dWw5d2s3ZDNkX1FadkI3SGh0Ti1zaWloUFVteWRfNlJNQl9uUkRVY0FyXzNDTEo2dkI5R3NveEd2eVVSeHFTOXhGQ0V3ZjRGOFpfcWJ6dm9VUXR3bGNxXzhrLXYtV29sRkR1NTc?oc=5",
-   "type": null,
-   "time": "2026-11-05T15:15:14Z",
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "gulf-states-brace-for-war-with-iran-again",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Gulf states brace for war with Iran—again",
-   "summary": "Gulf states brace for war with Iran—again",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Gulf states brace for war with Iran—again."
-    }
-   ],
-   "source": "The Economist",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2I0Y0VRNU82dHV3WVZxZnN2Zmt3dHZFWXFJRjVJbHBickRIcFFqdEROQTdnMDk3SnRBMFo2TEFESWx0YVBLaHVHUVlPcmRGS3dSTkJDRU4tc0ZuV3diVUpsVE8xdVFCVmVTbFFqWldVWEU1bFVXLWowZ1lfS09ySFBESlE0VTBsWTlib2xlVjJCc2x1Z2FtYWhJeDM4cGFtZXlB?oc=5",
-   "type": null,
-   "time": "2026-11-05T13:58:17Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "police-bodycam-captures-moments-before-deadly-ru",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Police bodycam captures moments before deadly Russian strike in Ukraine",
-   "summary": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Police bodycam captures moments before deadly Russian strike in Ukraine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-05T13:28:12Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "palantir-harvests-battlefield-data-that-ukraine-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
-   "summary": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The US company is using Kyiv’s unique war data to train its controversial technologies."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-05T11:34:29Z",
-   "countries": [
-    "Ukraine",
     "United States of America"
    ]
   },
   {
-   "id": "bank-of-england-lifts-rate-for-first-time-since-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "ai-stocks-plunge-after-us-election-driving-down-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "Bank of England lifts rate for first time since 2023 to fight inflation",
-   "summary": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation.",
+   "category": "Tech",
+   "headline": "AI stocks plunge after US election, driving down markets",
+   "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Bank of England lifts rate for first time since 2023 to fight inflation."
+     "text": "AI stocks plunge after US election, driving down markets."
     },
     {
      "role": "COMMANDER",
@@ -515,15 +492,115 @@
     },
     {
      "role": "ANALYST",
-     "text": "The Bank of England (BoE) raised its benchmark interest rate to four per cent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation."
+     "text": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T17:56:17Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "south-africa-s-anc-on-track-for-new-lows-in-loca",
+   "country": "South Africa",
+   "label": "SOUTH AFRICA",
+   "lat": -30.6,
+   "lon": 22.9,
+   "flag": "🇿🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "South Africa’s ANC on track for new lows in local polls",
+   "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "South Africa’s ANC on track for new lows in local polls."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay. Details?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T21:48:16Z",
+   "countries": [
+    "South Africa"
+   ]
+  },
+  {
+   "id": "thousands-rally-in-france-over-rising-costs-and-",
+   "country": "France",
+   "label": "FRANCE",
+   "lat": 46.6,
+   "lon": 2.2,
+   "flag": "🇫🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Thousands rally in France over rising costs and economic struggles",
+   "summary": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Thousands rally in France over rising costs and economic struggles."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+   "type": "PHOTOS",
+   "time": "2026-11-05T16:07:56Z",
+   "countries": [
+    "France"
+   ]
+  },
+  {
+   "id": "pti-workers-detained-in-uae-lhc-terms-foreign-mi",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory",
+   "summary": "LAHORE: The Lahore High Court (LHC) on Thursday termed a report submitted by the Ministry of Foreign Affairs regarding the detention of two PTI-affiliated Pakistani citizens in the United Arab Emirates (UAE) unsatisfactory and summoned the relevant official at",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay. Details?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "LAHORE: The Lahore High Court (LHC) on Thursday termed a report submitted by the Ministry of Foreign Affairs regarding the detention of two PTI-affiliated Pakistani citizens in the United Arab Emirates (UAE) unsatisfactory and summoned the relevant official at"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042350/bank-of-england-lifts-rate-for-first-time-since-2023-to-fight-inflation",
+   "url": "https://www.dawn.com/news/2042346/pti-workers-detained-in-uae-lhc-terms-foreign-ministrys-report-unsatisfactory",
    "type": null,
-   "time": "2026-11-05T13:06:10Z",
+   "time": "2026-11-05T12:40:35Z",
    "countries": [
-    "Russia"
+    "United Arab Emirates",
+    "Pakistan"
    ]
   }
  ]
