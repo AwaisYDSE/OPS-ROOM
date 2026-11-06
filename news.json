@@ -1,39 +1,125 @@
 {
- "updated": "2026-11-05T22:06:04.928207Z",
+ "updated": "2026-11-06T02:32:19.662833Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "iran-says-tankers-struck-in-hormuz-amid-fears-of",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "turkish-lawmakers-approve-a-3-nation-defense-pac",
+   "country": "Turkey",
+   "label": "TURKEY",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Iran says tankers struck in Hormuz amid fears of new US attack",
-   "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+   "headline": "Turkish lawmakers approve a 3-nation defense pact with Saudi Arabia and Pakistan",
+   "summary": "Turkish lawmakers approve a 3-nation defense pact with Saudi Arabia and Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran says tankers struck in Hormuz amid fears of new US attack."
+     "text": "Turkish lawmakers approve a 3-nation defense pact with Saudi Arabia and Pakistan."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOExtYW52UlVoTkp2VHk1S1VUcTVlVG5IZ0Z5N2Eyek5yLVZ2MWZWbnhicEJJZTNsbGZ4T3B2OXRiUmpMcmhiZFNpU1R4ZUM5WFUzenh0UzRoUHVKeUl1anpiT0dJbXVCOVpXdEJITUxvLWE4aXFFNU1MWDZZTTREVE4wa05GcUdCUjhndV9FbHFJZkhKdGFkV3huN2NkbTM5dGRhMElPMmpCM21razNpTkhiVQ?oc=5",
+   "type": null,
+   "time": "2026-11-05T21:30:00Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "pakistan-go-down-to-india-despite-late-onslaught",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Pakistan go down to India despite late onslaught in SAFF Championship opener",
+   "summary": "Pakistan scored twice in stoppage time, including a spectacular overhead kick by Alamgir Ghazi, but their late rally proved insufficient as Nolberto Solano’s side suffered a 3-2 defeat against India in their SAFF Championship opener at the National Stadium in",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan go down to India despite late onslaught in SAFF Championship opener."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz."
+     "text": "Pakistan scored twice in stoppage time, including a spectacular overhead kick by Alamgir Ghazi, but their late rally proved insufficient as Nolberto Solano’s side suffered a 3-2 defeat against India in their SAFF Championship opener at the National Stadium in"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042348/pakistan-go-down-to-india-despite-late-onslaught-in-saff-championship-opener",
    "type": null,
-   "time": "2026-11-05T18:47:10Z",
+   "time": "2026-11-05T12:42:07Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "laporta-fires-62-as-mcilroy-accepts-costly-abu-d",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty",
+   "summary": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty."
+    }
+   ],
+   "source": "Athlon Sports",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVThsYXlrOEdHNnp5RGtIQ1luYVVmYThjQm1DSHlIeVVoOGhGTnVsMzZyMEUxUjFvV2FueHhNYWlzcGRSdXV4YXcxRldhZmdoWnJrQkw0a0Qtakh5UWp5NnF2QW5fSXktVDJOS0xmbTJEM3ZUOWU5Rjd1SFgxdFI4RDVkN1oxUnNheGFLRjFiMzBBS1I1?oc=5",
+   "type": null,
+   "time": "2026-11-06T00:38:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-uk-agree-to-deepen-cooperation-in-secur",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan, UK agree to deepen cooperation in security, trade and migration",
+   "summary": "Pakistan and the United Kingdom on Thursday agreed to deepen cooperation in multiple areas, according to the Foreign Office (FO).",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, UK agree to deepen cooperation in security, trade and migration."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan and the United Kingdom on Thursday agreed to deepen cooperation in multiple areas, according to the Foreign Office (FO)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042342/pakistan-uk-agree-to-deepen-cooperation-in-security-trade-and-migration",
+   "type": null,
+   "time": "2026-11-05T11:59:05Z",
+   "countries": [
+    "Pakistan",
+    "United Kingdom"
    ]
   },
   {
@@ -72,36 +158,98 @@
    ]
   },
   {
-   "id": "spanish-footballer-jesus-de-miguel-mourned-by-fa",
-   "country": "Spain",
-   "label": "SPAIN",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
+   "id": "vance-blames-iran-war-for-republicans-midterms-d",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "Spanish footballer Jesus de Miguel mourned by family and friends",
-   "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+   "category": "Middle East",
+   "headline": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News",
+   "summary": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Spanish footballer Jesus de Miguel mourned by family and friends."
+     "text": "Vance blames Iran war for Republicans' midterms defeat. Trump says he would 'do it again' - ABC News."
+    }
+   ],
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUF1ZW4zbmtvMzFJYkIyWnBjM3dZbWJ0Yk5uUURJQ3E5UEg2NUUwT3B6dy1vSXBrLTFKbE5BOWt3RldIb0dwNzVqb3hfNEtnOXBiYzc1X2FTTkk0eU5rOXZPWVRxdEROUjRfbVY5WlFVM2FuenJ1QWxJc2lRLXdFc2hQSUxjdjltUDc3X01HS3FTcGhMMnZnWDgtX0J2d21JOVFfRTBR0gGrAUFVX3lxTFB6NGhGWlhYeTlUWGFUd19PR1UxUEpDSGd6VmNFWnk4dUtHWmVEeVF2VGYtYjRhbzdwVVN6MXBwVGIyekhWc1RLVkFjQ2tJTmZMLWZQY3hvalRIYmNVbUFyT3hzR2ZvQWZJalE3eTBVV3phVTY5VEo4RldqVzRhRF9SRnV2UFVBUG9fZVFKMzlpd0RhaGlqa3NBcWlycnRJQUZkU1E3NTU0VVRFOA?oc=5",
+   "type": null,
+   "time": "2026-11-05T23:19:15Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "turkiye-s-parliament-ratifies-mecca-defence-agre",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Turkiye’s parliament ratifies Mecca defence agreement",
+   "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Turkiye’s parliament ratifies Mecca defence agreement."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
+     "text": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
    "type": null,
-   "time": "2026-11-05T21:42:30Z",
+   "time": "2026-11-06T00:15:22Z",
    "countries": [
-    "Spain"
+    "Saudi Arabia",
+    "Turkey",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-says-tankers-struck-in-hormuz-amid-fears-of",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says tankers struck in Hormuz amid fears of new US attack",
+   "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says tankers struck in Hormuz amid fears of new US attack."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-05T18:47:10Z",
+   "countries": [
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -122,7 +270,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -138,303 +286,70 @@
    ]
   },
   {
-   "id": "mass-protests-in-france-driven-by-nationwide-str",
-   "country": "France",
-   "label": "FRANCE",
-   "lat": 46.6,
-   "lon": 2.2,
-   "flag": "🇫🇷",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Mass protests in France driven by nationwide strike action",
-   "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Mass protests in France driven by nationwide strike action."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-05T20:11:37Z",
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "who-could-be-behind-hoax-bomb-threats-to-europea",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Who could be behind hoax bomb threats to European air travel?",
-   "summary": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Who could be behind hoax bomb threats to European air travel?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-05T19:58:40Z",
-   "countries": [
-    "Russia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "eight-killed-in-series-of-shootings-in-western-t",
-   "country": "Turkey",
-   "label": "TURKEY",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Eight killed in series of shootings in western Turkey",
-   "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Eight killed in series of shootings in western Turkey."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Victims are found in several locations in three separate vehicles, according to local reports."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-05T19:32:54Z",
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "french-protests-see-numbers-surge-as-unions-join",
-   "country": "France",
-   "label": "FRANCE",
-   "lat": 46.6,
-   "lon": 2.2,
-   "flag": "🇫🇷",
-   "severity": "critical",
-   "category": "World",
-   "headline": "French protests see numbers surge as unions join strikes over high cost of living",
-   "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "French protests see numbers surge as unions join strikes over high cost of living."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-05T17:59:53Z",
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "hoax-bomb-threats-target-european-airlines-and-a",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Hoax bomb threats target European airlines and airports for second time in a week",
-   "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Hoax bomb threats target European airlines and airports for second time in a week."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\"."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-05T17:39:48Z",
-   "countries": [
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "jordanian-officer-killed-in-stabbing-attack-in-a",
-   "country": "Jordan",
-   "label": "JORDAN",
-   "lat": 31.0,
-   "lon": 36.5,
-   "flag": "🇯🇴",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Jordanian officer killed in stabbing attack in Amman",
-   "summary": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Jordanian officer killed in stabbing attack in Amman."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A Jordanian security officer has been killed and another one wounded near the Sri Lankan embassy in Amman."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-05T17:08:45Z",
-   "countries": [
-    "Jordan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-go-down-to-india-despite-late-onslaught",
+   "id": "country-s-external-debt-nearly-doubles-in-a-deca",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Pakistan go down to India despite late onslaught in SAFF Championship opener",
-   "summary": "Pakistan scored twice in stoppage time, including a spectacular overhead kick by Alamgir Ghazi, but their late rally proved insufficient as Nolberto Solano’s side suffered a 3-2 defeat against India in their SAFF Championship opener at the National Stadium in",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Country’s external debt nearly doubles in a decade",
+   "summary": "• World Bank’s global debt report shows figure climbed from $68.7bn in 2015 to $135.1bn in 2025 • China remains Pakistan’s largest single creditor • Developing economies’ external debt rises to record high of $9.4tr ISLAMABAD: Pakistan’s total external debt al",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan go down to India despite late onslaught in SAFF Championship opener."
+     "text": "Country’s external debt nearly doubles in a decade."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Why the move?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan scored twice in stoppage time, including a spectacular overhead kick by Alamgir Ghazi, but their late rally proved insufficient as Nolberto Solano’s side suffered a 3-2 defeat against India in their SAFF Championship opener at the National Stadium in"
+     "text": "• World Bank’s global debt report shows figure climbed from $68.7bn in 2015 to $135.1bn in 2025 • China remains Pakistan’s largest single creditor • Developing economies’ external debt rises to record high of $9.4tr ISLAMABAD: Pakistan’s total external debt al"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042348/pakistan-go-down-to-india-despite-late-onslaught-in-saff-championship-opener",
+   "url": "https://www.dawn.com/news/2042485/countrys-external-debt-nearly-doubles-in-a-decade",
    "type": null,
-   "time": "2026-11-05T12:42:07Z",
+   "time": "2026-11-06T02:17:18Z",
    "countries": [
     "Pakistan",
-    "India"
+    "China"
    ]
   },
   {
-   "id": "official-says-273-arrested-in-nccia-raid-on-ille",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
+   "id": "stocks-plunge-as-election-outcome-and-ai-worries",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
    "category": "Tech",
-   "headline": "Official says 273 arrested in NCCIA raid on 'illegal' call centre on Karachi's Sharea Faisal",
-   "summary": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal.",
+   "headline": "Stocks plunge as election outcome and AI worries crush tech shares",
+   "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Official says 273 arrested in NCCIA raid on 'illegal' call centre on Karachi's Sharea Faisal."
+     "text": "Stocks plunge as election outcome and AI worries crush tech shares."
     },
     {
      "role": "COMMANDER",
-     "text": "What's the situation now?"
+     "text": "Why the move?"
     },
     {
      "role": "ANALYST",
-     "text": "KARACHI: The National Cyber Crime Investigation Agency (NCCIA) on Thursday claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal."
+     "text": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042369/official-says-273-arrested-in-nccia-raid-on-illegal-call-centre-on-karachis-sharea-faisal",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
    "type": null,
-   "time": "2026-11-05T18:17:38Z",
+   "time": "2026-11-06T01:53:11Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "fresh-polio-case-from-kp-s-khyber-district-takes",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "Fresh polio case from KP’s Khyber district takes nationwide tally for 2026 to 9",
-   "summary": "ISLAMABAD: Pakistan has reported its ninth polio case of the current year, with the latest infection confirmed in Khyber Pakhtunkhwa’s Khyber district, the National Emergency Operations Centre (NEOC) said on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Fresh polio case from KP’s Khyber district takes nationwide tally for 2026 to 9."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: Pakistan has reported its ninth polio case of the current year, with the latest infection confirmed in Khyber Pakhtunkhwa’s Khyber district, the National Emergency Operations Centre (NEOC) said on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042344/fresh-polio-case-from-kps-khyber-district-takes-nationwide-tally-for-2026-to-9",
-   "type": null,
-   "time": "2026-11-05T15:50:49Z",
-   "countries": [
-    "Pakistan"
+    "United States of America"
    ]
   },
   {
@@ -447,7 +362,7 @@
    "severity": "markets",
    "category": "Tech",
    "headline": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+   "summary": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
    "lines": [
     {
      "role": "OPERATOR",
@@ -455,152 +370,180 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Why the move?"
+     "text": "What does it mean for prices?"
     },
     {
      "role": "ANALYST",
-     "text": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms"
+     "text": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms."
     }
    ],
    "source": "bbc.co.uk",
    "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-05T21:56:00Z",
+   "time": "2026-11-06T01:44:03Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "ai-stocks-plunge-after-us-election-driving-down-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "AI stocks plunge after US election, driving down markets",
-   "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+   "id": "2026-iran-war-oil-explained-united-states-israel",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+   "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "AI stocks plunge after US election, driving down markets."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry."
+     "text": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+   "source": "Britannica",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
    "type": null,
-   "time": "2026-11-05T17:56:17Z",
+   "time": "2026-11-05T23:32:01Z",
    "countries": [
-    "United States of America"
+    "Iran",
+    "Israel"
    ]
   },
   {
-   "id": "south-africa-s-anc-on-track-for-new-lows-in-loca",
-   "country": "South Africa",
-   "label": "SOUTH AFRICA",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "South Africa’s ANC on track for new lows in local polls",
-   "summary": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "South Africa’s ANC on track for new lows in local polls."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The ANC was on about 32 percent of the vote with more than 60 percent of votes counted in municipal elections."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-05T21:48:16Z",
-   "countries": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "thousands-rally-in-france-over-rising-costs-and-",
-   "country": "France",
-   "label": "FRANCE",
-   "lat": 46.6,
-   "lon": 2.2,
-   "flag": "🇫🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Thousands rally in France over rising costs and economic struggles",
-   "summary": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Thousands rally in France over rising costs and economic struggles."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
-   "type": "PHOTOS",
-   "time": "2026-11-05T16:07:56Z",
-   "countries": [
-    "France"
-   ]
-  },
-  {
-   "id": "pti-workers-detained-in-uae-lhc-terms-foreign-mi",
+   "id": "uae-businesses-raise-prices-at-record-pace",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory",
-   "summary": "LAHORE: The Lahore High Court (LHC) on Thursday termed a report submitted by the Ministry of Foreign Affairs regarding the detention of two PTI-affiliated Pakistani citizens in the United Arab Emirates (UAE) unsatisfactory and summoned the relevant official at",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE businesses raise prices at record pace",
+   "summary": "UAE businesses raise prices at record pace",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "PTI workers detained in UAE: LHC terms foreign ministry's report unsatisfactory."
+     "text": "UAE businesses raise prices at record pace."
+    }
+   ],
+   "source": "Arabian Gulf Business Insight | AGBI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUpoaVFHNmh1RGNPWFdhQmIxZzVkSEpacEdBUUJ5dmcxOHVNeUxRYldOTkNzZVNrS1RlbkhuV2IxQ1plVW5QUWNfU1MxX2paYUd2WXp6TnREbEs2d0dDTDlNS0M2V1JKV3kteW1GSy0ycVdqUHdkT1czNlp5d1NkRGpENzR6bW8?oc=5",
+   "type": null,
+   "time": "2026-11-06T00:00:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "dp-world-tour-highlights-2026-abu-dhabi-aldar-ch",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "DP World Tour highlights: 2026 Abu Dhabi Aldar Championship, Round 1",
+   "summary": "DP World Tour highlights: 2026 Abu Dhabi Aldar Championship, Round 1",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "DP World Tour highlights: 2026 Abu Dhabi Aldar Championship, Round 1."
+    }
+   ],
+   "source": "Golf Channel",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenNJdEJyNFdES1MzdWZaNHF6STYzcy1lV2RQOW9EdGwxM0VERVE2RXpvRFNBV2toTFlXcEx4THYyVUR3ZHFXU2IzYk83YzVmanNUX3hKa1pOakthSmRnQW1nVUdOcWxUMjdsZ192NUJMYWRfMWpzalFIem9JNWhPSVJES0pqeVpXc1g3b1lTQUtvQjVFUDIyOUhaTWVnczFjREpHRm5EYzQ?oc=5",
+   "type": null,
+   "time": "2026-11-05T23:51:18Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "spanish-footballer-jesus-de-miguel-mourned-by-fa",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Spanish footballer Jesus de Miguel mourned by family and friends",
+   "summary": "The 30-year-old striker suffered cardiac arrest following an on-field collision.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Spanish footballer Jesus de Miguel mourned by family and friends."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "LAHORE: The Lahore High Court (LHC) on Thursday termed a report submitted by the Ministry of Foreign Affairs regarding the detention of two PTI-affiliated Pakistani citizens in the United Arab Emirates (UAE) unsatisfactory and summoned the relevant official at"
+     "text": "The 30-year-old striker suffered cardiac arrest following an on-field collision."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042346/pti-workers-detained-in-uae-lhc-terms-foreign-ministrys-report-unsatisfactory",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
    "type": null,
-   "time": "2026-11-05T12:40:35Z",
+   "time": "2026-11-05T21:42:30Z",
    "countries": [
-    "United Arab Emirates",
-    "Pakistan"
+    "Spain"
+   ]
+  },
+  {
+   "id": "saudi-arabia-warns-of-potential-danger-in-yanbu-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "summary": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia warns of potential danger in Yanbu oil hub as Houthi attacks continue."
+    }
+   ],
+   "source": "The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNTQ0aVFxcnFkbHB3WVRFR3k0QklTME0tWHUtdnFrS0ROdkY2MC1NYlI5UW5nbktERG8tRUN1YjlobHRWdE1FZmJWanRrSEVqLW8yRzBSSWZ6Zkl0ak9yNmVjajU1T3FtRmdZbm1oR3haek9lUlRtNUdoeHRabzJ4dkQwYlZ1YXFZN1pqRGgzUzBsQXBfeGJURlduandvOEJFeWp4ZmtkXzN3ajJpeUpkM1lXN3Q1UWFOc3pyZW9FdEpMVkNQVW9sRmUxa1JpajZpcm5hZUV4eFJtc0NaeUFv0gHmAUFVX3lxTE5tX2M5T3RfdkNEVGkxYTNwT3R1QXN2ZDhtdHNTeVFuU1BKMXhMVXFwa3BGZkMySnFBR2tTSHNkMUxJdV8yRlhld3hnTUdvcDFyUkw2WEE5bGs0VHhwa2JORVZSWktaemswaE5CZi11M3UwMlM2RFFzWklBSVdwTkQ2cHdrU05ybkVTNzlvT1FscTBkczk0aU9OVUlNSF9FU2JySVhxNmZpZnhYSDNXbGd4V2hEajZyU1RFUjR1WmpEV2tKQ3hQTU5zSmJ2dnhuUVBSc3JLV2gzU3BSTkVCeGk4bjRhc1Vn?oc=5",
+   "type": null,
+   "time": "2026-11-05T17:37:53Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "uae-condemns-terrorist-attack-resulting-in-marty",
+   "country": "Jordan",
+   "label": "JORDAN",
+   "lat": 31.0,
+   "lon": 36.5,
+   "flag": "🇯🇴",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "UAE condemns terrorist attack resulting in martyrdom of security officer in Jordan",
+   "summary": "UAE condemns terrorist attack resulting in martyrdom of security officer in Jordan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE condemns terrorist attack resulting in martyrdom of security officer in Jordan."
+    }
+   ],
+   "source": "Emirates 24|7",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUEhvdUJpMHpKdVhmTlVTcERKTlVoRTg1NEt0RTkydTJ6UHZZTVpmUW5VWUQ3d1ktTllrTXlKSVhSYmlPRUN6dENHTEFoSnUwV3JCUlhLaE9sSW5jSGt5cWZsb3NlN21nemc3b3E1YnlwNW13eVd3QXBNZzRpamVscEU2NVJNX3dWSTZ0NXNzZzYtZ1c1NVJjdnpBWjhzR0tleC1aeGp2UVd3LUptWHVXNDljNC1jN2ZHOXk40gHWAUFVX3lxTE9ldXZOYzF4Sk9lcGh6T3BSdWk4UmFtRFhoVnlvUVdvSE13M1M1MTdmY1A0ZDRjd1NycUNEUVBXQnRjTTFYbUxPcHRTZTNYY3Y0UUhWME9rbzVQQndlb1lDYk0zZ3R4LXVaQUp1U2o3VEg4VWFRUWE0bnh5UkwzWmxIaVViTGlnUjVwNzBSOC1LQy11Q0NhaHZwVmVYekNCb2Y5UjNXdEppWDN4SkxBaENlN2JDUHNFa1ZIbGJmRTF1VmI1NEpaNDFLT0lua3BKSWRpbktTaVE?oc=5",
+   "type": null,
+   "time": "2026-11-05T17:01:00Z",
+   "countries": [
+    "Jordan",
+    "United Arab Emirates"
    ]
   }
  ]
