@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T02:32:19.662833Z",
+ "updated": "2026-11-06T09:55:45.287152Z",
  "cities": {
   "sharjah": {
    "name": "Sharjah",
@@ -9,6 +9,32 @@
    "stories": [
     {
      "id": "sharjah-0",
+     "country": null,
+     "label": "SHARJAH",
+     "lat": 25.35,
+     "lon": 55.42,
+     "flag": "🇦🇪",
+     "severity": "markets",
+     "category": "Local",
+     "headline": "Adnoc Gas, Sharjah National Oil Corp. Partner to Enhance UAE's Gas Network",
+     "summary": "Adnoc Gas, Sharjah National Oil Corp. Partner to Enhance UAE's Gas Network",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Adnoc Gas, Sharjah National Oil Corp. Partner to Enhance UAE's Gas Network."
+      }
+     ],
+     "source": "marketscreener.com",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFY2N2xxeFdGQ0pSUjJ6SXlVQTJJbEtRb244N0RzTFQwRmdKRVRuZ2NER181aU01VklNRE9nSE5ybFFKbUN0SUFZNmhsLThXTmRrYldDRm16VVRoR0ppSjFJVEhGQzYwMVlWdHVkcWVjYkNpWmFPeTBuZ3EyRm9ZNEk2MmV1U1RJdFpuTWhPUG9vSlM2aWRqZUlrMnJ5VVZ1VDI1c3FGcnhZVnh4QUJacjMtNS1RQm5XQVpMMXVSVTJaX0k?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:43:26Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "sharjah-1",
      "country": null,
      "label": "SHARJAH",
      "lat": 25.35,
@@ -34,7 +60,85 @@
      ]
     },
     {
-     "id": "sharjah-1",
+     "id": "sharjah-2",
+     "country": null,
+     "label": "SHARJAH",
+     "lat": 25.35,
+     "lon": 55.42,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "ADNOC Gas and SNOC sign agreement to explore Sharjah gas storage, supply and LPG tie-ups",
+     "summary": "ADNOC Gas and SNOC sign agreement to explore Sharjah gas storage, supply and LPG tie-ups",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "ADNOC Gas and SNOC sign agreement to explore Sharjah gas storage, supply and LPG tie-ups."
+      }
+     ],
+     "source": "Oil & Gas Middle East",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tdTI2WUoxaUJsNzFoYmxiZUp2eFVvdE40SHpnc1NGQTlQT1hSX1ZWXzFoYjNHRFF6U2UwODlVOGdlOEtBRjAza1lMRmFBdE5xRVFQYkVzNjBlbjE2ZTBzR2NVdG5RdHQtTlJEYkNJZmdoNlE?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:46:15Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "sharjah-3",
+     "country": null,
+     "label": "SHARJAH",
+     "lat": 25.35,
+     "lon": 55.42,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Sharjah Police participates in 3rd Legal Professions Forum at UOS",
+     "summary": "Sharjah Police participates in 3rd Legal Professions Forum at UOS",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Sharjah Police participates in 3rd Legal Professions Forum at UOS."
+      }
+     ],
+     "source": "Sharjah24",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WQjR1c1JPRVQzNElZbnBZWVlFQ1NTeW9xd0lFRUlzR0FBNGllU2oxbE9kaFh4dW5meHd6OTc0R2p4eGZKcFIySzlNbFZtQ3FyV0RSZkNGekstdw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T06:41:17Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "sharjah-4",
+     "country": null,
+     "label": "SHARJAH",
+     "lat": 25.35,
+     "lon": 55.42,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "A rare 290-year-old Quranic manuscript takes center stage at the Sharjah International Book Fair",
+     "summary": "A rare 290-year-old Quranic manuscript takes center stage at the Sharjah International Book Fair",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "A rare 290-year-old Quranic manuscript takes center stage at the Sharjah International Book Fair."
+      }
+     ],
+     "source": "صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOFF2anN4SlpuY3NFVHdLZjRoV3JJTi04X2VLdW9RcU5CZnp5NkNBdFdiel9obDB4VTBnWC1iUGZnenJ3QnBmNThCaFFEZzFGVUV5VGY2VEdPNTZ4R3p3MFFTNjhzRHJJb3BDNGxEUmY2aHBteWVpcnlQNklBZTRsdW00RTVxZEcwOUllcGNIelRXb01wYXBOOUM2N3BLdkNOVnR1TlVybTlvandfZzJNMzljNGFZbmhkbVlSYzEzQ2lBNDdLUW5IXzJCdDhOekVzak8xaWRsZ1VLWG0taV96NGVGYjRRUldj?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T02:17:29Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "sharjah-5",
      "country": null,
      "label": "SHARJAH",
      "lat": 25.35,
@@ -55,108 +159,6 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-05T12:33:58Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "sharjah-2",
-     "country": null,
-     "label": "SHARJAH",
-     "lat": 25.35,
-     "lon": 55.42,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Sharjah and sardinia strengthen tourism ties through the power of sport",
-     "summary": "Sharjah and sardinia strengthen tourism ties through the power of sport",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Sharjah and sardinia strengthen tourism ties through the power of sport."
-      }
-     ],
-     "source": "Boating New Zealand",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnY0R0N4OWVXUTRiQWdZcFlIMHAybS1fdGlKVm5fbEkyNlBjcEl2MXFMUVJtaHdSQzVFMFN3Sk1YdTEtNFppS1B1Zm5DSG92LWVwUnIxNzVtZXdOcGx1Zk8xdWFVcEZWYmNtZGtmNkdCN0RDYnlyZUZOVlRndXpQc2lFUDRjNjZSbmRXSjB1djI3U1JvcExlNEhvbUo2ZTJ5Tkd6SUtGeThZSjNU?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T12:05:10Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "sharjah-3",
-     "country": null,
-     "label": "SHARJAH",
-     "lat": 25.35,
-     "lon": 55.42,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Sharjah Film Platform 9 Spotlights Emerging UAE Filmmakers",
-     "summary": "Sharjah Film Platform 9 Spotlights Emerging UAE Filmmakers",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Sharjah Film Platform 9 Spotlights Emerging UAE Filmmakers."
-      }
-     ],
-     "source": "Savoir Flair",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekIzZFZYcGRPR0Z6MjJoQnhGbU1vN1p6bWh5b3FKZ3R3OG80VEduZkhrZjNaSEZDWGdmTVF6U1FjN1Jxc3VXQ3d5QU8wUGF5RjEyaWZVbXhNaF9oUFQzeDRkR29CdzBjRS1KeUxqRFNmdDlVdjJ6ZmpVc2F5TkJ4NUl5TEhic2tfN01QYnhQM1FIUmNDRkZyZWFNejhkMG1Jc1pBT3JSUQ?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T22:28:05Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "sharjah-4",
-     "country": null,
-     "label": "SHARJAH",
-     "lat": 25.35,
-     "lon": 55.42,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Why economic identity is becoming a competitive advantage",
-     "summary": "Why economic identity is becoming a competitive advantage",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Why economic identity is becoming a competitive advantage."
-      }
-     ],
-     "source": "Gulf News",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaDlXN3hGaVIwLTNIVG5iZ1pWcVZOeEdUdnVqQzlnNGRYSHVvWDdCVFNseVRxMzRldUJBb3RIZWdGMXYwbDV4MWNfRGM5NTZ2NXlNQnlSSUtndXBEdHMzNi0xU0VQcnhkbmxBMlBrQndUWUxHQjdHcXlnTk9fRENmUGVZYjItaGhCX29NTjZaN0RXVTYxTGZnbmh4MDNkN2tOVUF1WW5qMFTSAbsBQVVfeXFMTXpmYm5sWlJvbTZ0QzR5c2xCdEVzYXVCTTJ2allJZG5oM2hZNWdNOGIxelpNTjl2NlJKV0NSTkhtcHBfMXp6NVBWQXo4ZmZNZGVBVWsxVGdIS0dLTF9LbEtWMVI3b05IY0U5N2N2TUt0VDBFeW00ZzAwaUY4R3d3U1pXNkRWVFdERzBnRGlsdXRDT3NHR01vQ1BkWkpTczExb3NSNkJtNC15bWhTVnVvLTItMWVpWVdzcDVOVQ?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T01:24:00Z",
-     "countries": []
-    },
-    {
-     "id": "sharjah-5",
-     "country": null,
-     "label": "SHARJAH",
-     "lat": 25.35,
-     "lon": 55.42,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Tunisian Consul General visits 'Sharjah Calligraphy'",
-     "summary": "Tunisian Consul General visits 'Sharjah Calligraphy'",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Tunisian Consul General visits 'Sharjah Calligraphy'."
-      }
-     ],
-     "source": "Sharjah24",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxVnNGVDhOR3dGUXItRndzemJaUzZqYXhjcEtuNFlkZW1tZ2ZoRnNKNkNpcWY4Q0xpUEdBVUtYaTZTMHdOcGgxY0dlcjlFeXlEWEYxcTRkTVhvT2otRHc?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T21:39:17Z",
      "countries": [
       "United Arab Emirates"
      ]
@@ -200,55 +202,28 @@
      "lat": 25.2,
      "lon": 55.27,
      "flag": "🇦🇪",
-     "severity": "info",
+     "severity": "critical",
      "category": "Local",
-     "headline": "Emirates Dubai Design Week",
-     "summary": "Emirates Dubai Design Week",
+     "headline": "Iran war turns Dubai into a ghost city",
+     "summary": "Iran war turns Dubai into a ghost city",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Emirates Dubai Design Week."
+       "text": "Iran war turns Dubai into a ghost city."
       }
      ],
-     "source": "Post Register",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1dFQWdjZXNvMjB0enF4Q2czUlJEUjJseWc0c1VxZFhoNGlqa2RwTndZdlBjSzRyYk15RVFiZ2JueU16aFBPc1U3QjFPLWNkdi1aTXVUblJzUENHR1Q1cFNrNG5POWhFZ29FSDNGSjQzajRqd1NRRzl3cktrR1k2Zjk2UVBPSW81cDAxcUFrREltYWdoX0tRd3lnS0xzM09fQlV3OFhGLWpHYjBUdmVHY0tPcDM?oc=5",
+     "source": "DW.com",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1laTdZT0xaRTNBR2tSSklTaHdpa0xxMWtxNkNlNzVCN2I0SVYwWlczcV9jcXRFSElpTnBIN1VKQUt5dF9mVmRQWTlmaDdKM0w4Y1RtbGp6VG16MkczMm1HaGJNUW9QNGVINUhISVNQNHFXYU9JZnhMa1k5dw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T16:10:54Z",
+     "time": "2026-11-06T01:50:26Z",
      "countries": [
+      "Iran",
       "United Arab Emirates"
      ]
     },
     {
      "id": "dubai-2",
-     "country": null,
-     "label": "DUBAI",
-     "lat": 25.2,
-     "lon": 55.27,
-     "flag": "🇦🇪",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Dubai Expert: U.S.-Iran War Prolongation Inevitable",
-     "summary": "Dubai Expert: U.S.-Iran War Prolongation Inevitable",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Dubai Expert: U.S.-Iran War Prolongation Inevitable."
-      }
-     ],
-     "source": "조선일보",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVZydWlvbWJBS2Q5RW1sekgyUHFiLVljWURJSmViSHBnOGdxNkg2RGdNRnpmWGZrTFV0WFVON2VpX2xEMkV5bm53LU5hdWZRZlhKT3B0X09va0hLc1JBdnV1RlBFMHdzb1hUM0xjYnEzY2tZNzlDYkpreFZkZUJSaWRLMVlWZFkwNWtTR1Bn?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T23:29:13Z",
-     "countries": [
-      "United Arab Emirates",
-      "United States of America",
-      "Iran"
-     ]
-    },
-    {
-     "id": "dubai-3",
      "country": null,
      "label": "DUBAI",
      "lat": 25.2,
@@ -276,6 +251,32 @@
      ]
     },
     {
+     "id": "dubai-3",
+     "country": null,
+     "label": "DUBAI",
+     "lat": 25.2,
+     "lon": 55.27,
+     "flag": "🇦🇪",
+     "severity": "watch",
+     "category": "Local",
+     "headline": "FlyArystan to Resume Direct Flights From Aktau to Dubai",
+     "summary": "FlyArystan to Resume Direct Flights From Aktau to Dubai",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "FlyArystan to Resume Direct Flights From Aktau to Dubai."
+      }
+     ],
+     "source": "The Astana Times",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmJsRlg3LXk1bzdrWUVYVF9iVkpMQjhmQVRwcTJYR0VzektiV3Fjb1FRbUZqT0FLcDZ4bWk5cXZNM0NmdDVBLUJ5MUVVUW4ySkZyaXA5bElUdHA4X0lJM0tWUVhFbkFiTjZGdFRuMHd3TlNXZTBMSjUteHd5ZEhsTWhGTm02Q3V2MTlqZm9yYmQxdw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:40:41Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
      "id": "dubai-4",
      "country": null,
      "label": "DUBAI",
@@ -284,19 +285,19 @@
      "flag": "🇦🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "How Dubai became a gateway for African businesses",
-     "summary": "How Dubai became a gateway for African businesses",
+     "headline": "APTOPIX Emirates Dubai Design Week",
+     "summary": "APTOPIX Emirates Dubai Design Week",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "How Dubai became a gateway for African businesses."
+       "text": "APTOPIX Emirates Dubai Design Week."
       }
      ],
-     "source": "Business Insider Africa",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczFrUnVCd2trNU5sRy03cy1DN29pX0dSVUdpLU1aUW9lRllwYUZuYWtCbzdGMGpyQ1pNQWZRRU5YQXdBNDJjT1FzQy12VXVrVW9ZcHVvSktHLW1yVnFoQVBVWkpqbmtISUtPdUxzeVRwMzdBeENOcndBc2RfdHlGMlR6U0Noc0pOaWhfZDV0Z1ZQQmJrUmNLYzNFYXJvemc?oc=5",
+     "source": "Post Register",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGxnQlFldFZyTFU3LWZFWEV4Q29ZLXFFaE9tMEtSVndsTk5KOG9JcXBnUHZHRkZ6eGRBakNzUFNSbEhNY1J0RTlqMWV3bFRaME9pNjFEeUp0MTdEOGxuMWsySUpidUF6MTVBVEROZzBXTTRoeXZVN29KTDdmNHpJUTFDcmtITjZGbHpIbThURzdiSnVhWXdVYjlGN21TaWFaYnJuU3RNLXZsR0ZQdUNzX1M0WXRLN2xkMFE4S3NHcw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T14:17:29Z",
+     "time": "2026-11-05T16:30:53Z",
      "countries": [
       "United Arab Emirates"
      ]
@@ -310,21 +311,20 @@
      "flag": "🇦🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "Blackstone, Saudi Wealth Fund Back Dubai Firm’s $529 Million IPO",
-     "summary": "Blackstone, Saudi Wealth Fund Back Dubai Firm’s $529 Million IPO",
+     "headline": "Madagascar, Mauritius Port-Louis sets its sights on financial flows to Dubai in Ravatomanga case",
+     "summary": "Madagascar, Mauritius Port-Louis sets its sights on financial flows to Dubai in Ravatomanga case",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Blackstone, Saudi Wealth Fund Back Dubai Firm’s $529 Million IPO."
+       "text": "Madagascar, Mauritius Port-Louis sets its sights on financial flows to Dubai in Ravatomanga case."
       }
      ],
-     "source": "Bloomberg.com",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWms1eV9ROUdHWTVPbHFxTC1nNVVGSmx1MzNWRzhGckxpYXpDWEg4OEo0RlhERjRKRnRhWmM0LUpjaEY0UkItR2RTUDllbnlKX3hGR3FsYXVxcXRQWHMxc2xVRzc1WDN4Y204UVNLSjNZS2IwQXB1SUVOTldIUkVsV3pLSnNmWHdWaEpUY3RpMVlpamIzb0JyS2NrRHpBZG41VlJVSTJsRFRXTWM1WkJSWl9Wcw?oc=5",
+     "source": "Africa Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdmFhMDV0ODBBc3J5MGx1ak8ycEsxZUpnY0VjeTNjdnl5MklOZ3hnOUw2TUhpM3dyNHE1RmY5QTNadmNZbnRMdlY2cmNwY2RwdWZHVGwzRk9Ja3JMNFVlbm4yZ0ROOTducWRuMTBzelB1QU9wbXNadjF4azdzQU9YLVVhTGJaX1VMUm9jdmxEZnFuWngwTTJrUGpjbS0yMGkyaUV3NDFBeUxTTDZIZjBRT0MzUTF6N3k1UFI5aVdaNUpCa0ZOcTVRQUVXSWl1cGhVcXlVRlV1VGpleEFBblk5YWg1VC1rNWJOUW50NTFMaUFaLUVI?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T06:27:00Z",
+     "time": "2026-11-06T05:42:28Z",
      "countries": [
-      "Saudi Arabia",
       "United Arab Emirates"
      ]
     }
@@ -357,13 +357,91 @@
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1B4dGduZnhkVU51aDVTM1I2RjQzcmhiOEZQakdjNTQyd2lXcFVzZFhrNEhCRlhhU3ZPUFI0eE1sQ1dIenFMZThwOThRVzZxWVNhdTdWNFJmTENEYWdoMVdTeHRZZzlMNVF4cDBWaEVWZEdfUGd5TWFya2xvekhqZ0xGdDZlYXV1VzhiRjlSWk9CS2M0WlNBYVdjRE1rQ2tJUjdMOGc2bVBja1pMOWtQQzY2Q2FUdHNOZW9nV3RxTFRmVEU?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T20:59:20Z",
+     "time": "2026-11-06T02:59:20Z",
      "countries": [
       "United Arab Emirates"
      ]
     },
     {
      "id": "abudhabi-1",
+     "country": null,
+     "label": "ABU DHABI",
+     "lat": 24.45,
+     "lon": 54.38,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "‘No Evidence’ It Will Make You Live Longer: Inside Abu Dhabi’s Rush to Sell the Science of Ageing",
+     "summary": "‘No Evidence’ It Will Make You Live Longer: Inside Abu Dhabi’s Rush to Sell the Science of Ageing",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "‘No Evidence’ It Will Make You Live Longer: Inside Abu Dhabi’s Rush to Sell the Science of Ageing."
+      }
+     ],
+     "source": "Health Policy Watch",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFlXb1MxMmRKMmdGdDN2LVZHZDJDVVdkZURvVUJ4anczT21BRXVaeGZmYzVtODd1bV93UzFOTXUtS3gyV1JBUm5UVFBUT1F0Rks3YVEySnJfOWxtNmxRdWowWE1kcEhZUEJhSHY0X0JvZXJoclBJQnNkVUh1eGM2eEpoUkxOVWZmQzh1TjVpR3lheTcw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:38:40Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "abudhabi-2",
+     "country": null,
+     "label": "ABU DHABI",
+     "lat": 24.45,
+     "lon": 54.38,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Abu Dhabi T10 League: Complete schedule, teams, live stream and TV channel for cricket league",
+     "summary": "Abu Dhabi T10 League: Complete schedule, teams, live stream and TV channel for cricket league",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Abu Dhabi T10 League: Complete schedule, teams, live stream and TV channel for cricket league."
+      }
+     ],
+     "source": "Yahoo Sports",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmdZMlVQMXA3MTA0LUJkNk9MZk84UHJWM3M0YUpiZXRmMkdENW0tTkJfQW9hNzZDeF9yWVhneUJUUFZMOVh4TThOQW40TFMzbXVmcU9NVERiQkZ6aEN3WGJCWHNJTjVhSW9KVnNuVmJXLU0taHFvb1RCT0lPNVVTa1hyaEo?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:38:00Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
+    },
+    {
+     "id": "abudhabi-3",
+     "country": null,
+     "label": "ABU DHABI",
+     "lat": 24.45,
+     "lon": 54.38,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "ADNOC signs 10-year LNG supply agreement with India's Gujarat Energy",
+     "summary": "ADNOC signs 10-year LNG supply agreement with India's Gujarat Energy",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "ADNOC signs 10-year LNG supply agreement with India's Gujarat Energy."
+      }
+     ],
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmVHTnM2czN3MDBGVkg1X01kRC01WUVLOXZYU2lGWW1vWENPOElfRW5mUnBVUTZfQm81WnY2SEdRNGxqWm1SdjRwS0xMV3lEZkJhUkRJaVlsRDBLc1Vzbm1zWmExRUJKYlNqVkRZNkVqZVlXY3F2MDVnbjd2azFJdWFraEN1RkRJMzBOYjE5bF8zTVprOUZaTmhJZ2h0SWdLMVFhZ0ptWlptZnU1YXVkNHVwOTh0WGh6b3JV?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T06:01:00Z",
+     "countries": [
+      "India"
+     ]
+    },
+    {
+     "id": "abudhabi-4",
      "country": null,
      "label": "ABU DHABI",
      "lat": 24.45,
@@ -387,106 +465,31 @@
      "countries": []
     },
     {
-     "id": "abudhabi-2",
-     "country": null,
-     "label": "ABU DHABI",
-     "lat": 24.45,
-     "lon": 54.38,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty",
-     "summary": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Laporta Fires 62 as McIlroy Accepts Costly Abu Dhabi Penalty."
-      }
-     ],
-     "source": "Athlon Sports",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVThsYXlrOEdHNnp5RGtIQ1luYVVmYThjQm1DSHlIeVVoOGhGTnVsMzZyMEUxUjFvV2FueHhNYWlzcGRSdXV4YXcxRldhZmdoWnJrQkw0a0Qtakh5UWp5NnF2QW5fSXktVDJOS0xmbTJEM3ZUOWU5Rjd1SFgxdFI4RDVkN1oxUnNheGFLRjFiMzBBS1I1?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T00:38:00Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "abudhabi-3",
-     "country": null,
-     "label": "ABU DHABI",
-     "lat": 24.45,
-     "lon": 54.38,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "DP World Tour: playoffs begin in Abu Dhabi",
-     "summary": "DP World Tour: playoffs begin in Abu Dhabi",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "DP World Tour: playoffs begin in Abu Dhabi."
-      }
-     ],
-     "source": "Tennis World USA",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3E1MmNIa2xydzRvVnA1ekxQeVJWazNVaW9sWWdjSDJMU3lLWEIzNTlvYUlJRXItN0Y2WFhZSFVqRmowWkdLRTdWTU8tRkpXcDNxZEJkRmdnVFZaZHpuZGJ6S09icW5qMzk1ZGxqVnpZaW54MEF4MGlNREVrZUk4TlVIMVN2TzhEbVZ4VDU4dGp2THBOdFZGajJOQnM?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T23:49:25Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "abudhabi-4",
-     "country": null,
-     "label": "ABU DHABI",
-     "lat": 24.45,
-     "lon": 54.38,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Rory McIlroy penalized 2 shots for improving his lie in Abu Dhabi: 'Obviously there's no intent'",
-     "summary": "Rory McIlroy penalized 2 shots for improving his lie in Abu Dhabi: 'Obviously there's no intent'",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Rory McIlroy penalized 2 shots for improving his lie in Abu Dhabi: 'Obviously there's no intent'."
-      }
-     ],
-     "source": "Golfweek",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYkxaTVQxTkRUMWo3Rzk0Ty1FWTc1OWJjZWVOeWZpOUlidjBtX2g4dGwtQTAxS1JGQ0RrT20zb3VXeWZmLTVYNTc3bXBpWjdSTTdpZ1c2a1cyZlZXSkk3Z0VvNERJWUFlNEUza0ViX0d3Z211cFhQYnd5aEYyTDZ5Q0YydHZXNFFDUnVsZ3RuYXV2eUkwRnZCRnV0dlR6Ym1QT1hpOUU5NnRIMVEwN1lwRnBYVUhKQndrc0tpYUxIMUh5a2NMTHRrQVJPaVVPTC1xTHg3OFBBTjJFMTlMS2VDaA?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T14:27:00Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
      "id": "abudhabi-5",
      "country": null,
      "label": "ABU DHABI",
      "lat": 24.45,
      "lon": 54.38,
      "flag": "🇦🇪",
-     "severity": "info",
+     "severity": "critical",
      "category": "Local",
-     "headline": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
-     "summary": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
+     "headline": "Live. Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi",
+     "summary": "Live. Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Kings of Leon complete star-studded line-up for Abu Dhabi GP."
+       "text": "Live. Trump weighs Iran strikes as Ukraine talks head to Abu Dhabi."
       }
      ],
-     "source": "Formula 1",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLWNOVkxlSkppd0d3SEJ3VER0SGlVWW9OZkxVUnlZcTQ4LVp4UmMwN3huQ0xHTmp1VU1rTVhpUkg3RDFyS01qR0xBTHJqa21GVzA0OElsVnd3ZXI5VFZjdkRNbEJYZFBlVHBiVk95UHhHUkEzMF9rem9GZkc3dzFydXlsZTRHM1pvME9uZXI4UlBNaGYwWXNOeU4xMzhGT2tDYVd0d21LX2NZSnBpMFRpeWhIWEk4MkRBQ1RRR0RTS2lnd3Q1WXF5ZkFTRExlMkFobFNDY1p3?oc=5",
+     "source": "Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRFY1UmNFMXF4cFIwREktcDc4a0kydzItRGs5SVlsUGpMLWNvNGNmb2tVSzRqVEh0TkNZNjVFSlBrQjVXU196VFRzQ1hVYl9WQ3M1RGlYaVZlejJibVQzMkd6OFNRemFmamhmR21KWDBaalJHWHc2UFNTQzRZNlRCbUZrTkhwamVhWTN2NFlkOG0zQjRiakRSYllDVU8yejVDWjNvMWpuMTZ3WHB4czJVTElpQnYzQQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T02:21:03Z",
+     "time": "2026-11-06T07:01:47Z",
      "countries": [
+      "United States of America",
+      "Iran",
+      "Ukraine",
       "United Arab Emirates"
      ]
     }
@@ -533,25 +536,52 @@
      "flag": "🇦🇪",
      "severity": "markets",
      "category": "Local",
-     "headline": "November 4, 2026: Abu Dhabi vs Ajman Cricket Prediction Market",
-     "summary": "November 4, 2026: Abu Dhabi vs Ajman Cricket Prediction Market",
+     "headline": "2020 Ajman Market Fire Video Shared As Iran Attacking Dubai’s Energy Infrastructure",
+     "summary": "2020 Ajman Market Fire Video Shared As Iran Attacking Dubai’s Energy Infrastructure",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "November 4, 2026: Abu Dhabi vs Ajman Cricket Prediction Market."
+       "text": "2020 Ajman Market Fire Video Shared As Iran Attacking Dubai’s Energy Infrastructure."
       }
      ],
-     "source": "Robinhood",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHYzRGJjT0VJUk8wc2ZYbmZndjRSSnFyQmZpNW9uczJnYlphNThjcFJuVGdieHAydk5TTkZDZmJCTE04R19NRGtQdWNRNVB3YkdmTEtFcWtvVkRmLWdSWTExbUcwMzR0RkVIbHkwQVNqSkpKamVWNmRmdUh5bVFfUVRoRWg3WmtzdXl2ZGVuVkE1WlE3aW40Vg?oc=5",
+     "source": "Telugu Post",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUpWOHNRTERpRmtGRE56WkctSEhEcEJRQ2JjTDlnRENWVWZPOUh5UnRLUm9EbFppUGo2ZEN4MXBQQ2hFZGFFTEc3U1YyRHB3Zm8tQ1VpWFpBNXItdDdNamliWGlGX1JfbTI1RExIRHc1OGItREVqUUR5SmRFYUFwSmVpX0xGRkwtLUVKMC13eUhqWGE5RTlKcHcwVzVRQTcwWDB5MEpNQ3ZYUFA0ZzlmYmpLRE9SUdIBuwFBVV95cUxQMnpYMkl0VVczbGN3V2dScjAtbjVvMDEzUTJYQjNtMEU4N1ZhcDQzbC1XWHExMU15Zzc4VlZfZUFUdUJiOVBFM185bjBIZzBjcExsZDgyc2s1b2c3NmFhTzZoeWozbTk4NG5ndkYtbDJsQmozSl8yNVNyYm1fWG5paFRQN0I5bHl1MlNacld2VTh5aURPemotT2xmZm1GZ2NxYWlqallBVGNVQ2VPdzdNLTBWcl81Q01uZy13?oc=5",
+     "forceLang": "en",
+     "type": "EXPLAINER",
+     "time": "2026-11-06T06:49:39Z",
+     "countries": [
+      "United Arab Emirates",
+      "Iran"
+     ]
+    },
+    {
+     "id": "ajman-2",
+     "country": null,
+     "label": "AJMAN",
+     "lat": 25.41,
+     "lon": 55.51,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Ajman v United FC 04/12/2026, Lineups",
+     "summary": "Ajman v United FC 04/12/2026, Lineups",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Ajman v United FC 04/12/2026, Lineups."
+      }
+     ],
+     "source": "Flashscore.com",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ19zQ3VaWnlITXk3aDhlQ2M0QmRLNVU5Yi04c3JES2dfZDYwVEZjQ013a29SbHNhOFlnNzhmeG5Ta1NWSWVFNktJM2F1LVpBcnY1c1BQLWs4dVJ1eEZzY0R1eUVIa0JsTkFZU19JaW5KUHJlUlU3TENHeXdiUUxkb2tvYmJBNzcwanR1bm9XOGRzQmI2aHVN?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T09:39:49Z",
+     "time": "2026-11-05T07:59:24Z",
      "countries": [
       "United Arab Emirates"
      ]
     },
     {
-     "id": "ajman-2",
+     "id": "ajman-3",
      "country": null,
      "label": "AJMAN",
      "lat": 25.41,
@@ -577,33 +607,6 @@
      ]
     },
     {
-     "id": "ajman-3",
-     "country": null,
-     "label": "AJMAN",
-     "lat": 25.41,
-     "lon": 55.51,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Al Nasr beat Qatar SC 4-1 as Ettifaq defeat Ajman in Gulf matches",
-     "summary": "Al Nasr beat Qatar SC 4-1 as Ettifaq defeat Ajman in Gulf matches",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Al Nasr beat Qatar SC 4-1 as Ettifaq defeat Ajman in Gulf matches."
-      }
-     ],
-     "source": "Sharjah24",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FRUI0cmFFakx6eW5jQVIyZm1tMTByc2xCS3ZPRFpFaFFIQ1RVSlk2c25YSXNsY0NpZFVWc1ZtS2l5ZS1xZjE4WXhoZFk1MDdlcFp6ODd0RGV2NmJJaGc?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T08:08:22Z",
-     "countries": [
-      "Qatar",
-      "United Arab Emirates"
-     ]
-    },
-    {
      "id": "ajman-4",
      "country": null,
      "label": "AJMAN",
@@ -612,19 +615,19 @@
      "flag": "🇦🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "Al Nasr and Ajman are looking for their third consecutive win in the Gulf Champions League",
-     "summary": "Al Nasr and Ajman are looking for their third consecutive win in the Gulf Champions League",
+     "headline": "UAE Consul General Participates in the Establishing Ceremony of Ajman Free Zone Representative Office in the City of Shenzhen",
+     "summary": "UAE Consul General Participates in the Establishing Ceremony of Ajman Free Zone Representative Office in the City of Shenzhen",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Al Nasr and Ajman are looking for their third consecutive win in the Gulf Champions League."
+       "text": "UAE Consul General Participates in the Establishing Ceremony of Ajman Free Zone Representative Office in the City of Shenzhen."
       }
      ],
-     "source": "صوت الإمارات",
-     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdlI1NGtaOGFOQVk4T09RdjdCTHJyMVZtOUQ5elZkSk96RFBxbW1fdnhXTjk5RXU2eUZSOTkzTTRaRmpoUzlEb0c3ay1zRHpSVl9JTmxwaEg0cENWMXNyek9SVTkwbUVScG1rNWVqaTcyOEtMbHlhLXpyTDBXM29zSkwyNjJUc3l3aTN1dC05LVQtTFZiTkU0Smp4SWZPUDdldkdiY1pZYlAyMkp0VjdFZUY1X3Ezd2pUc0FOcUhFVXpQUXBvZjFuUG4tRlBmZG51UzVYdF9NMTBjMTBjdnNn?oc=5",
+     "source": "وزارة الخارجية الإماراتية",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb3loRDRLaElkZmJ6MXNJLWptRDFleDhUeXlvcW5HWHg1ZU1lRFRlTnN6LXZWc2x1VWV1MTY5aDdSUlBoTTZyY1EtdXROcGtISWxObU05VGxheEExUWN5a0RhQTNYbkFkaHBnWV9qV240Qkw1cUg3OGJiSy10ZU9MUHZtVVZVNkJYREkxWA?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T09:21:47Z",
+     "time": "2026-11-04T12:58:24Z",
      "countries": [
       "United Arab Emirates"
      ]
@@ -638,19 +641,19 @@
      "flag": "🇦🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "Ajman Transport official transport partner of Ajman Media Forum \"THE SIGNAL 2026\"",
-     "summary": "Ajman Transport official transport partner of Ajman Media Forum \"THE SIGNAL 2026\"",
+     "headline": "Al-Ittifaq defeats Ajman 2-0 and ends their winning streak in the Gulf Champions League",
+     "summary": "Al-Ittifaq defeats Ajman 2-0 and ends their winning streak in the Gulf Champions League",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Ajman Transport official transport partner of Ajman Media Forum \"THE SIGNAL 2026\"."
+       "text": "Al-Ittifaq defeats Ajman 2-0 and ends their winning streak in the Gulf Champions League."
       }
      ],
-     "source": "www.wam.ae",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNklqdV8xMkJIUFpsNk9rVnQ2dWdYZGZrYzFYbFVnazFEQmxxRndiSlp2a3Y4cHNldXBIZi1WVHpJNERrNXBiWkRzRVlzR1R3MTlNMHFkNWtQSGN4WHNfdXo4Y0FXcjNPQWo5SkI1RGVHaDVWRXJqWjdLU3dydkxyZ3pzTVlVdkFZQXhqUW5BQQ?oc=5",
+     "source": "صوت الإمارات",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMHVZbFRxYXJyX0RKVkVSWDVMT0p4WmpjZDg1SHkzNHFXZHBsT1B4NVpsb0Z1WkV4LXVWQXI2MGdKeUVCNkJYNlBhWUlUTGJLbFI2NUo5RGtOaEotaG9CamNDYk5iZW5UUTdBZkUxNGcxc2RkTE9rMTNjZlJXRDVkUVd0MFFlWG91aUlUN2l4R2tDVGo5LXNYaUpqOXM2ajJhRldKM1JtdnhlemsxVW5nVXp4SDQxQjdDN2VKTTB0bFBxQ2YyOXV6LVZXdDIyd1dWdEpfN3FYMFpadjE2OGJvN2RYdw?oc=5",
      "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T16:00:14Z",
+     "type": "VIDEO",
+     "time": "2026-11-04T19:26:24Z",
      "countries": [
       "United Arab Emirates"
      ]
@@ -684,13 +687,40 @@
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVkp0Q2hNMmJIWS1RLTBFWUNVZnlydF9NemhEVEVhcWJzV29TX1huZGlNUUpFRFMxSkljQkY0RUxlVmxKUThDWlJHRFJXcXdVdVF5a2hINlV5NlEtSG1rR05zMGtUb2VUbEJoTUFZUERJRE1Oc1hIUmlzU3l5UEpSeG5Xc1BVNUI1TFFUekVfVGdqcDhvQ2VfOXZhbXR0OTExNGJJRF9oOHdqbUpKZGc?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T16:30:27Z",
+     "time": "2026-11-05T22:29:19Z",
      "countries": [
       "United Arab Emirates"
      ]
     },
     {
      "id": "rak-1",
+     "country": null,
+     "label": "RAS AL KHAIMAH",
+     "lat": 25.79,
+     "lon": 55.94,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Ruler of Ras Al Khaimah Inaugurates the First Ras Al Khaimah’s Business Consultancy in China, Strengthening Ties With Guangdong",
+     "summary": "Ruler of Ras Al Khaimah Inaugurates the First Ras Al Khaimah’s Business Consultancy in China, Strengthening Ties With Guangdong",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Ruler of Ras Al Khaimah Inaugurates the First Ras Al Khaimah’s Business Consultancy in China, Strengthening Ties With Guangdong."
+      }
+     ],
+     "source": "AFP.com",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tbkZnZ1F1YmFMMVNSd0s0R0tpRWlFRGNSMTlQQnVCZXAyWmp2a3JNUnVHUkVjVXVaRmlBaXpuakUyLUJwQWp6RlJSRQ?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T16:14:53Z",
+     "countries": [
+      "United Arab Emirates",
+      "China"
+     ]
+    },
+    {
+     "id": "rak-2",
      "country": null,
      "label": "RAS AL KHAIMAH",
      "lat": 25.79,
@@ -716,7 +746,7 @@
      ]
     },
     {
-     "id": "rak-2",
+     "id": "rak-3",
      "country": null,
      "label": "RAS AL KHAIMAH",
      "lat": 25.79,
@@ -743,59 +773,7 @@
      ]
     },
     {
-     "id": "rak-3",
-     "country": null,
-     "label": "RAS AL KHAIMAH",
-     "lat": 25.79,
-     "lon": 55.94,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Fujairah’s smart factory prints a vehicle number plate in under three minutes, and more are coming",
-     "summary": "Fujairah’s smart factory prints a vehicle number plate in under three minutes, and more are coming",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Fujairah’s smart factory prints a vehicle number plate in under three minutes, and more are coming."
-      }
-     ],
-     "source": "Emirates 24|7",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXdWQW9XSkhlSm0zSzktMm1VY1NaN1c5cUlrNWhsTkJId2lXX3dDTzRlWnV3N3NDUTVVS2xlb09aWmt5V1BkVklqWlNpeEVGcWhScFh5Y1BoWnVvS0c3WTVkQVF6RzcwOU1JeU9oMW8xb0VBLVVjb19DUk8xdmY0bzFtQ0J0ejlyUVp2VGhvdFhid0ZKV3FrTkVVd05GS3NCM3hBNVBJMjlvVkRGOHVqQ0pHZUZpeF9VN2hxbWk5UVQxZFNnYWxleVBGMGVXUdIB6AFBVV95cUxNV3VwOWc0dk94NlhhWGVhUEVEQkVGYl9VcXdKSVhtVVctbFN4ckUteENNVnFfaVJlQ0ZOeVF5OUh1am9TNFBtZFpwTzVrOTNWNWhZcVNDTFlpT3JzZlRDUHk1S3FyNWFRaGI4V3dYWXNuYUVad0lmbzFhWV93RDV6eVdqdngxcENMOElKTGhBQ0pqYzYtOGFONEVZTDhwY1Etcjl0U3RVV2pTWi13QV83NFdWNGJZTm9NSFlTUzFjdzVKYkhLQzZOM0NGcW1Ic1R6YUl5ck9aMWlvSGlUS0JEdFJ3REdFMndR?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T02:01:00Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
      "id": "rak-4",
-     "country": null,
-     "label": "RAS AL KHAIMAH",
-     "lat": 25.79,
-     "lon": 55.94,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative",
-     "summary": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative."
-      }
-     ],
-     "source": "www.tokenpost.com",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZURwWks2N1p4YXJ5WU5WZGpsamxROWhWTEIxM0hYamk0c1dQS2FFbW92VVE0Yy1nNHd4RlpBblBVZ3F5RHQ4ekJ0SW40cWtjeDZxTUtySjQ?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T18:14:22Z",
-     "countries": [
-      "United Arab Emirates"
-     ]
-    },
-    {
-     "id": "rak-5",
      "country": null,
      "label": "RAS AL KHAIMAH",
      "lat": 25.79,
@@ -819,6 +797,32 @@
      "countries": [
       "United Arab Emirates"
      ]
+    },
+    {
+     "id": "rak-5",
+     "country": null,
+     "label": "RAS AL KHAIMAH",
+     "lat": 25.79,
+     "lon": 55.94,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative",
+     "summary": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "ADNOC Calls Report of Third UAE Pipeline Inaccurate, Speculative."
+      }
+     ],
+     "source": "www.tokenpost.com",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZURwWks2N1p4YXJ5WU5WZGpsamxROWhWTEIxM0hYamk0c1dQS2FFbW92VVE0Yy1nNHd4RlpBblBVZ3F5RHQ4ekJ0SW40cWtjeDZxTUtySjQ?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T18:14:22Z",
+     "countries": [
+      "United Arab Emirates"
+     ]
     }
    ]
   },
@@ -830,30 +834,6 @@
    "stories": [
     {
      "id": "alain-0",
-     "country": null,
-     "label": "AL AIN",
-     "lat": 24.21,
-     "lon": 55.74,
-     "flag": "🇦🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Al Ain 2-1 Tractor (Oct 26, 2026) Final Score",
-     "summary": "Al Ain 2-1 Tractor (Oct 26, 2026) Final Score",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Al Ain 2-1 Tractor (Oct 26, 2026) Final Score."
-      }
-     ],
-     "source": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNWZKbmJLaWJ6RWgyaDQxb2lHZDl6N1RBRE5mUWRVeFFsYWtpYkU4ZGw2MHdIVzlaQjFXY05ncUcyRzFSd2JoVTQtNWdkaEtJXzNSWnhvUk9wLVlhdkhUUEtTazdJTWRiMFYwdVZobU1SV1d6eGc?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-04T07:47:07Z",
-     "countries": []
-    },
-    {
-     "id": "alain-1",
      "country": null,
      "label": "AL AIN",
      "lat": 24.21,
@@ -879,7 +859,7 @@
      ]
     },
     {
-     "id": "alain-2",
+     "id": "alain-1",
      "country": null,
      "label": "AL AIN",
      "lat": 24.21,
@@ -887,23 +867,23 @@
      "flag": "🇦🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside",
-     "summary": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside",
+     "headline": "Watch Al Ain vs Tractor",
+     "summary": "Watch Al Ain vs Tractor",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside."
+       "text": "Watch Al Ain vs Tractor."
       }
      ],
-     "source": "شفق نيوز",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFFYYkRNT1Y4RF9HMkgxVTBtYTA0d2J1c2pjSW9zaUFSM3dJamZqeHZiODlSQm85VExTRmJSLTBVeXJ0WEZIR2E3OFlCcGw3YldPQ2JCSXJRVnJVaTRBQXNBSEVEYW5YM2FNQ1k5LTlQclFtRkktSy1KNlZYMjBDNV9aVXNJV2FYeXpJQWFPcENDNTljcTY5XzhOMzJFOG40RFE?oc=5",
+     "source": "TOD",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOHpIMXdETTdEbVhsWHJOeE9OVlpISndaRXFBX1VKdXNBVGFEdFU1eE5QQ0w4TVVfU296RzAwTnNoSVhPMkZZdGpheVVWUmNwUDl6MlROOXBydDh3TGRQOS1aby1YQy1yd3RYNThmLXFNUTJoMHFGUE5Id2JUeldhSXJlR0JxOUdKUnJBQWtJekZhQ0dRNzVPYU43SklYY2JoQk1abm9B?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T09:04:27Z",
+     "time": "2026-11-06T04:38:02Z",
      "countries": []
     },
     {
-     "id": "alain-3",
+     "id": "alain-2",
      "country": null,
      "label": "AL AIN",
      "lat": 24.21,
@@ -924,6 +904,30 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-05T14:03:20Z",
+     "countries": []
+    },
+    {
+     "id": "alain-3",
+     "country": null,
+     "label": "AL AIN",
+     "lat": 24.21,
+     "lon": 55.74,
+     "flag": "🇦🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside",
+     "summary": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Shafaq News..Second batch completes 847-family return to Ras Al-Ain countryside."
+      }
+     ],
+     "source": "شفق نيوز",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVFFYYkRNT1Y4RF9HMkgxVTBtYTA0d2J1c2pjSW9zaUFSM3dJamZqeHZiODlSQm85VExTRmJSLTBVeXJ0WEZIR2E3OFlCcGw3YldPQ2JCSXJRVnJVaTRBQXNBSEVEYW5YM2FNQ1k5LTlQclFtRkktSy1KNlZYMjBDNV9aVXNJV2FYeXpJQWFPcENDNTljcTY5XzhOMzJFOG40RFE?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T09:04:27Z",
      "countries": []
     },
     {
@@ -991,21 +995,21 @@
      "lat": 34.01,
      "lon": 71.58,
      "flag": "🇵🇰",
-     "severity": "critical",
+     "severity": "high",
      "category": "Local",
-     "headline": "Three children die in Peshawar cylinder explosion",
-     "summary": "Three children die in Peshawar cylinder explosion",
+     "headline": "A Constitution in Aid of Authoritarian Power: The Legality of the Governor’s Rule and Enforcement of an Emergency Proclamation in Pakistan’s Khyber Pakhtunkhwa",
+     "summary": "A Constitution in Aid of Authoritarian Power: The Legality of the Governor’s Rule and Enforcement of an Emergency Proclamation in Pakistan’s Khyber Pakhtunkhwa",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Three children die in Peshawar cylinder explosion."
+       "text": "A Constitution in Aid of Authoritarian Power: The Legality of the Governor’s Rule and Enforcement of an Emergency Proclamation in Pakistan’s Khyber Pakhtunkhwa."
       }
      ],
-     "source": "The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTVEUS1rVHE3bVlGaGVZMDN4WG5jd2t6Qm9XZ1ZuMEJabTBBMExEajVSa3Y1TTdYWjVJOUFXbW1vTEg2aHJPZU55UTRMQUxZQ014TU9YWTE2N0R0NkVxdHdBSmh3MTBKeDEwWUVod2tqcEN5ZnkxQTB4VmhyR1dWREItRVVYVi1seE9tNF9VQdIBlwFBVV95cUxOaDV0X0x3RnExX1hXcmZIOTR0MUVVSXNfMEc2VnNRd0RYYUM1MHRlbHJmQ284bTZCdDQxblRzUDZoZE5RWElBQzk5U2lBZEQ4Y3JBaGoyLVA0bUQ3X1RQS25JYXlFellDTXQ0VTdxaUlqZEpOZjdobE1MYWFZemVUM3R3OXF4NEdGQzNXMnFGeWp4X0ZEMFBJ?oc=5",
+     "source": "www.iconnectblog.com",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMzlwdDc2SzdCYldhdXVqLUtobVoxMVVXbl9JaHh4QVZid2otVmhCbFUtbmwxd1doQXZnWjJjWHZFT0RsUVJtVnNIdFBWcGdfWWFrWE5NNzZkZDBlRll0SnU1Y1FPaC1pNTFuV2dsNi04RXdDT1o5dW8tV0tSTEo2alRsZmtYR1dMa3A4WDJxWXVNVmp4eEd1NV8xelB3RHJiOXpGMVF3V1ZWbmpIMXJZTTBDSzRfdHBsRXZpbTZnZ0hBWFlyR2FoZlBWR1FvQjJ6c3k0ck5uT2ZpeUxqQ2xSU2FPZ2tOUVpMcWpxdGxIMlV3XzkwVXhTb1lZRG9lWE1PaUZZaUw0aTZEa2lsOFUxVzN6V1Q?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T19:30:00Z",
+     "time": "2026-11-06T06:06:55Z",
      "countries": [
       "Pakistan"
      ]
@@ -1019,19 +1023,19 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Khyber Pakhtunkhwa",
-     "summary": "Khyber Pakhtunkhwa",
+     "headline": "Peshawar High Court declares excise duty on hand-stemmed tobacco illegal — Dawn",
+     "summary": "Peshawar High Court declares excise duty on hand-stemmed tobacco illegal — Dawn",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Khyber Pakhtunkhwa."
+       "text": "Peshawar High Court declares excise duty on hand-stemmed tobacco illegal — Dawn."
       }
      ],
-     "source": "The Business Standard",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oLVNMb2ZKZmhMSTF2TGtaNFdyakxMeE51d3ZCaG1zaElHQ3RMVllpVUVoUndjVF8tSGQxWTJYNUNIWWJyWGplZ3MzM25wV0FDZXUzcFVGa2V1ZUU?oc=5",
+     "source": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdPVjV2WXJFWFdTMWRaa3VmbTk5THlXSGo0LVV4WnVwMnM2aXFQZy1KQmZnRHo2RzhZdWJBOE10X3g1SW5EZVRHQm54YURKbUtIY0NkMTdRaHY4N1ltZlRKWl9nNEsyZU5pMWRhLWFnUVhneERFLTZoS25qX2pmNlJnV21sV3MyejI0UFJwMzJhY2dRdndKa1NlNUNiOWFMWU8xOE44VW15UGZkSzJIQXV2WnNLblU?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T22:56:58Z",
+     "time": "2026-11-06T05:50:10Z",
      "countries": [
       "Pakistan"
      ]
@@ -1045,20 +1049,22 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "IGP inaugurates facilities at Police Lines",
-     "summary": "IGP inaugurates facilities at Police Lines",
+     "headline": "Pakistan reports ninth polio case from Khyber Pakhtunkhwa",
+     "summary": "Pakistan reports ninth polio case from Khyber Pakhtunkhwa",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "IGP inaugurates facilities at Police Lines."
+       "text": "Pakistan reports ninth polio case from Khyber Pakhtunkhwa."
       }
      ],
-     "source": "The News Pakistan",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnZfcVRyYnhISnp2MGotUTI2aHVWcVp5T05CVmJDZ1R4SVViaGZrd0Zqb3pTbUczb1FzWnpLRy0wb3FrUmZjMUcwYTFOLWpSN1h6dGllandqMVc4OGZ6emtqZU9SdzBlcEgwODBXN21oQWhNLVhUMjZvbENpbjF0VTV4QkE1dw?oc=5",
+     "source": "The Tribune",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0tfbEl3ekVqblF3WHVJa0h4NkwyMTNyUzJNYm1WRlZ1SkZvTVNNQXdiNFNrV1hCaUpuSjRZMktqdHd2R1BIVVNiNS1hdlMyM3hHNkR6VlQ1VGstSFN0RVRLeFI0TVN0OXNPdHg1NExYaVdQT3lVQW95VkZLNy1EZEprd1BMcUJPS19RRjJlTmpmY0V4M0drQ1d4TVVDWjjSAaMBQVVfeXFMTmdTVjRodzlTZ3E1R0tYQ2UyMnpLcHhTUTl1ZHdHOXhfemsza1JqNlBTNWZiYktoR0x1c3N5ZkxsZ2g4WEViclN1QjMzWU00SE1pYTFqLXNpLTQwTEdFc2NZU2k3R0ktRjhMQkZSV0FReUU4N0p1TDZ4X2lNSjU4ZElfQUNCZGF5YmJobzZ4OUJ5QWQ0eDVBOXlFeVF3amVhZ0R5SQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T19:00:00Z",
-     "countries": []
+     "time": "2026-11-06T09:02:14Z",
+     "countries": [
+      "Pakistan"
+     ]
     },
     {
      "id": "peshawar-3",
@@ -1067,22 +1073,24 @@
      "lat": 34.01,
      "lon": 71.58,
      "flag": "🇵🇰",
-     "severity": "info",
+     "severity": "critical",
      "category": "Local",
-     "headline": "FCC stays all proceedings under Article 199 filed in PHC fromn Oct 12",
-     "summary": "FCC stays all proceedings under Article 199 filed in PHC fromn Oct 12",
+     "headline": "NADRA assistant director shot dead near office in Peshawar",
+     "summary": "NADRA assistant director shot dead near office in Peshawar",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "FCC stays all proceedings under Article 199 filed in PHC fromn Oct 12."
+       "text": "NADRA assistant director shot dead near office in Peshawar."
       }
      ],
-     "source": "Voicepk.net",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTQ2bU9iR0M5Nlk4cnFYSF9OVkV1VTFDc0NINEp1NmRLbEdFRi1zZkpyMU9CUHNUUTBVMWt2NDhaZk02VUJ4Q3pYRjZkODRTOXVISEI4d3FocXFNVVdxdFI4bHlkc21JcXdXM0NrSVdjQU5LUHR5U05WbXQzSkpwbXdYSy1UU3VqWk5GMjh2RlZ0MWJwV05oeVlXZHYtMzg?oc=5",
+     "source": "The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGFJZ1lLZE5lcVRxcWxOUGpCQ0h1Y2U1cnhGcDZkM19ZOFZOYTR5OWd6T0Q5alFnZ0FGLWlHQjBSSWpzZ3F1OTNJUWVqRlBoa0x2S3JscjBzRm9RbUxkUG1YWGlxc3lpa0E2T1RKbUh2QU1OR1pGN0k2bWNaajhBNTN4UEZIZ2FJZ1YyY0JGMDQtVVFuLWxmWFhTNNIBowFBVV95cUxPRjF3bEJrNjZGbkFfQ05OVWpNQ0xZV0lJcDBlWjVyc21UNVdpbUQ5bTlxUmViNXhxUXlZcWlDcjAtZURLYmFzUXF6a3pEZ3NTOTVJcW04VWdmRmVyNEpxOVFMeUtXRGFtbEV2bi1YREFtclhyc1VSLTgtaUhPTTlZMlVFRnN6ejZEUEZ1eFQ2R2U5Qm1TX05sN3E1b2ZlcVZsNTdR?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T21:52:23Z",
-     "countries": []
+     "time": "2026-11-06T08:28:01Z",
+     "countries": [
+      "Pakistan"
+     ]
     },
     {
      "id": "peshawar-4",
@@ -1091,21 +1099,21 @@
      "lat": 34.01,
      "lon": 71.58,
      "flag": "🇵🇰",
-     "severity": "info",
+     "severity": "high",
      "category": "Local",
-     "headline": "Death toll from school roof collapse in Pakistan's Peshawar rises to 33",
-     "summary": "Death toll from school roof collapse in Pakistan's Peshawar rises to 33",
+     "headline": "Kundi says emergency measures in Khyber Pakhtunkhwa were imposed under extraordinary circumstances — Dawn",
+     "summary": "Kundi says emergency measures in Khyber Pakhtunkhwa were imposed under extraordinary circumstances — Dawn",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Death toll from school roof collapse in Pakistan's Peshawar rises to 33."
+       "text": "Kundi says emergency measures in Khyber Pakhtunkhwa were imposed under extraordinary circumstances — Dawn."
       }
      ],
-     "source": "MorungExpress",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdVREbnZ2eWRGeDB1MXJxZ1VINzRzMlZjd3NTd2Y2MmxLV0ROYmVUcG10WUk0TW5sT3laYlNuOFNDMFItZ25GNUZFZFpJdVdxdUthb0ltUnhuWXEtcmluQ3c0aWFhLU5mc3RUOXpwekV0MTB6eEcwa3ZJZVNkZzJuNHFuR2lzUEpVMURZYjZJX2JlS1cwajJmNHMyUlFJODFtNlE?oc=5",
+     "source": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXhUQVBLblRVeTA1YllXcWlDb3RHRDhNZHQ2ZDkwVEtXQ0RKSnpMWEI3X1ZxRkpIT2FfeU9OVUprZHRiWTR5Rm4zTkVvQ195M0FCODNFcmNFbzVMdjlZU2wyZjNTd3NsZzVRSEZraDByQ09hbjUyMldFa3N1anpndGV6Y1MzeVNQM0lURF9jNk54aFRicjVXWmFlSUo3R1JUV29GbWt1aER4LXAxOGVrUVVIRnRVNDRQSmVUb1ZxWUlYZw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T16:30:08Z",
+     "time": "2026-11-06T03:03:19Z",
      "countries": [
       "Pakistan"
      ]
@@ -1119,22 +1127,20 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Peshawar Whites, Abbottabad and AJK register wins in first round of Quaid-e-Azam Trophy Silver",
-     "summary": "Peshawar Whites, Abbottabad and AJK register wins in first round of Quaid-e-Azam Trophy Silver",
+     "headline": "Meeting held under the chairmanship of Osman Saifullah Khan",
+     "summary": "Meeting held under the chairmanship of Osman Saifullah Khan",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Peshawar Whites, Abbottabad and AJK register wins in first round of Quaid-e-Azam Trophy Silver."
+       "text": "Meeting held under the chairmanship of Osman Saifullah Khan."
       }
      ],
-     "source": "Pakistan Cricket Board (PCB)",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcnA5ck0wTTlfMng0QVJYTHhmT19nOXhRanVBNVFRN2lOYmZwOWZveVNiNjE0UDl2ZjJXNWpiOW5LWE9sdmk1X1huRXZMRjlTczgwSEVELVVDblV5NHdXSFdtcEltVGRQNzh6VDZLUDg3LUNkYUt4VkNjemt5Z0k1NVBHRThGM3RYR0tpU0dYbTZEOVBwMjlPdG1FUF9ITlhWWmNueWFTakxVNjR3d0xWaV9HUnhEMDFpX3FnMC00R1VKVTVxYUhJTmYzV1padw?oc=5",
+     "source": "Directorate General Information & PRs, Khyber Pakhtunkhwa",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjZrcDRISDQzWUVxNHdkRERHMWZTdG1Jazh1MnkzYVA1eXg3NFdXb3p1dEhDOXMtYXI1VXA4eHJ6WkpxYkhUcENvVGRxeUx5YkJHU2JCOThhLU0yaVNEVDNLVVM5RmpzcnRvOUxZVXoza0tmN1JENXRvLWthZjdoX2ZqalJ0aE5GM1IyeQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T15:00:29Z",
-     "countries": [
-      "Pakistan"
-     ]
+     "time": "2026-11-06T04:57:30Z",
+     "countries": []
     }
    ]
   },
@@ -1146,6 +1152,60 @@
    "stories": [
     {
      "id": "islamabad-0",
+     "country": null,
+     "label": "ISLAMABAD",
+     "lat": 33.68,
+     "lon": 73.05,
+     "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Rawalpindi to introduce electronic passenger registration at bus stations — Dawn",
+     "summary": "Rawalpindi to introduce electronic passenger registration at bus stations — Dawn",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Rawalpindi to introduce electronic passenger registration at bus stations — Dawn."
+      }
+     ],
+     "source": "UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTQwc1Fqb0NQTkJpTHEzTjVSSjVWc0REYy1kRDhORDdhQl85dTNhTGNaOFNVU2ktYmYyVUpycjlZbEJWR2hzQUFEMDlfV1FvOHZSR2tJd25rcXRESkJWU2ZialBrcW44MUtNeVJ2cEVJSHN3NWZJT2RBSHJkR3dFaklUUjMwTUVteGYtNHJhMXNBRWh2N0lZdkZidDdIWmswNEJqTDZfVjFXRDRsd0pv?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:19:16Z",
+     "countries": [
+      "Pakistan"
+     ]
+    },
+    {
+     "id": "islamabad-1",
+     "country": null,
+     "label": "ISLAMABAD",
+     "lat": 33.68,
+     "lon": 73.05,
+     "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Afghanistan, China, Pakistan Islamabad urging Beijing to establish ties with Afghan armed opposition",
+     "summary": "Afghanistan, China, Pakistan Islamabad urging Beijing to establish ties with Afghan armed opposition",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Afghanistan, China, Pakistan Islamabad urging Beijing to establish ties with Afghan armed opposition."
+      }
+     ],
+     "source": "Intelligence Online",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHFEeGlQR19jemp5U1kwc1JhMDZORUFSSVZOdy16cWgwUmhaOTNzdnV2NFZQYjRQZDY1eUl1U0plVEplMFBMRG81cUZuWlRDSGJGeTltaHFheGJLN0RHMmRxYzRPSUk2RXhiVVd5MUV4SDNDWTlvZkUxVC12aEtHYWJJUk5pYnp2Szlhd3FMelZiaTlaSmczS2JiU3pubWxSRTZ5RDJnRzB0RmpiY2psOVBTb2VWX2RmX0ZsYzFLRk5VSEVTRjJEQk45RnlOVzh5YjRZMXBUbjhyQWlM?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:02:43Z",
+     "countries": [
+      "Afghanistan",
+      "China",
+      "Pakistan"
+     ]
+    },
+    {
+     "id": "islamabad-2",
      "country": null,
      "label": "ISLAMABAD",
      "lat": 33.68,
@@ -1171,7 +1231,7 @@
      ]
     },
     {
-     "id": "islamabad-1",
+     "id": "islamabad-3",
      "country": null,
      "label": "ISLAMABAD",
      "lat": 33.68,
@@ -1179,49 +1239,25 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Final arguments sought in land dispute case",
-     "summary": "Final arguments sought in land dispute case",
+     "headline": "PM opens Kashmir Chowk Underpass in Islamabad, calls its completion in 27 days a ‘mini miracle’",
+     "summary": "PM opens Kashmir Chowk Underpass in Islamabad, calls its completion in 27 days a ‘mini miracle’",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Final arguments sought in land dispute case."
+       "text": "PM opens Kashmir Chowk Underpass in Islamabad, calls its completion in 27 days a ‘mini miracle’."
       }
      ],
-     "source": "The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0plSk9fVXFja2U5OTNMWEo5ZE9ZWTZrV1F4SEhIdXQ1dkpKNjhPYjNTVlhNTkNHMXF3d3dzbkYtLTBwRzJfakNONjZ5N29JNzlXVzJBaW9LX1A2QTA4OUIyaFM3V2g0bjR3N3ZSTmtURUxrRjBBdWNNUnlXRE1hZm1HVWtJclnSAY8BQVVfeXFMUG5kZDdrcFpQS3dBXy1HT1AwZG1YMkJFYk9aaXVZck04N1ptdW5nOWMzc2syN2dlVDBpQWRlVjlsRXQ5RXZucERmM2FJS2hlb19XVWxuNURmREdaTFRQbXRPc0VKZC1VN3FSVmlLTzVDNXN3YXBQd2dtajVrdHlBRFJZZktHb3hHU19nemNtR2M?oc=5",
+     "source": "Dawn",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VNnJsR1p4SUtVN3dwa05uRktIeUYxd0h6TW0zUlVqcmtDdlhfblozcFZONGpoMnBWckpWTlpvVlUxWVRVVmliNA?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-06T01:52:01Z",
-     "countries": []
-    },
-    {
-     "id": "islamabad-2",
-     "country": null,
-     "label": "ISLAMABAD",
-     "lat": 33.68,
-     "lon": 73.05,
-     "flag": "🇵🇰",
-     "severity": "watch",
-     "category": "Local",
-     "headline": "Islamabad Airport Guide: Pakistan’s New Capital Gateway",
-     "summary": "Islamabad Airport Guide: Pakistan’s New Capital Gateway",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Islamabad Airport Guide: Pakistan’s New Capital Gateway."
-      }
-     ],
-     "source": "The Aviation Hub",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jUEZfb0RvTUMwY2pCVEN0czZ4d3RTSnViaFY0czVZQmFfZ3dHWHhhTFBhb0dOR3ctdmFyc252cmVrUFgtY0FtdllqTFVOTGhyRWNlS0YyUl9rWVp0V2wwZlNlOA?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T18:34:13Z",
+     "time": "2026-11-06T01:59:46Z",
      "countries": [
       "Pakistan"
      ]
     },
     {
-     "id": "islamabad-3",
+     "id": "islamabad-4",
      "country": null,
      "label": "ISLAMABAD",
      "lat": 33.68,
@@ -1248,32 +1284,6 @@
      ]
     },
     {
-     "id": "islamabad-4",
-     "country": null,
-     "label": "ISLAMABAD",
-     "lat": 33.68,
-     "lon": 73.05,
-     "flag": "🇵🇰",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Citizens in Islamabad left hanging amid unavailability of influenza vaccines",
-     "summary": "Citizens in Islamabad left hanging amid unavailability of influenza vaccines",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Citizens in Islamabad left hanging amid unavailability of influenza vaccines."
-      }
-     ],
-     "source": "Dawn",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWek1PejBxaFJndFhWR3pUQkRZN1NremNwblNQRHJHbG4wYmpfSmVVdXllQmFPY09Xcy14bEhTOU1QdkxwcHlCVg?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T15:46:12Z",
-     "countries": [
-      "Pakistan"
-     ]
-    },
-    {
      "id": "islamabad-5",
      "country": null,
      "label": "ISLAMABAD",
@@ -1282,19 +1292,19 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Tickets for Rawalpindi Test to go on sale from Friday",
-     "summary": "Tickets for Rawalpindi Test to go on sale from Friday",
+     "headline": "Plea seeks delay in Islamabad LG polls",
+     "summary": "Plea seeks delay in Islamabad LG polls",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Tickets for Rawalpindi Test to go on sale from Friday."
+       "text": "Plea seeks delay in Islamabad LG polls."
       }
      ],
-     "source": "Pakistan Cricket Board (PCB)",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanMzTVBibGdHaE9lbXhGMzR1Vk43RnRYam1sdGtaSm1RV256Y25RNlZNRE9IdGNHb2JGa21uTS1uM21SSGUtOG50SEV6YzdYbnFmZWVrbXhmdk1NRTlaZE9wQy1aRGd6R3Z5aFRLTHViVWZrbjV6azJkcVpINWlweEx3UDdIa1BOQWpUSHlUVlUyYlFIclk1TnJhLVZtZ3RWTkhLRw?oc=5",
+     "source": "The Express Tribune",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0JHdHh4Znpka0VRMmtFRFRtZTRhM0RUb3MzMXRYTExCNzlOVjVWdERHUkZ5VlpNMW9pRkNpSlR0V0NmRDlxVC0tZWZBNHJaNHMyRmZQZGVQQ0o0TEc2Sm5aSUpVOEpINEU4RGtqVWptM0ZLcDQteG1mc2RIU0RkN9IBiAFBVV95cUxObmV3VVZvbHVlY3gySWhrOFlyQ1dVaTlmUFp0N1lXYXQ5VWtpYTJUT0lEdzVGUHMyWjR3VS1SczBBbWpCME9jVGhUbDdNRHpVbFhFdThwanF5YnRfd19MWWRZMF93WUJla0oxYWdDUXZIY1hSbnFTMkFnbDhtWVZOR2M2ZktRd0lQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T09:15:13Z",
+     "time": "2026-11-06T01:58:25Z",
      "countries": [
       "Pakistan"
      ]
@@ -1342,25 +1352,49 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Alan Walker sparks collaboration buzz with 'Alfaaz' singers during Lahore visit",
-     "summary": "Alan Walker sparks collaboration buzz with 'Alfaaz' singers during Lahore visit",
+     "headline": "Kids missing vaccine pose challenge",
+     "summary": "Kids missing vaccine pose challenge",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Alan Walker sparks collaboration buzz with 'Alfaaz' singers during Lahore visit."
+       "text": "Kids missing vaccine pose challenge."
       }
      ],
      "source": "The Express Tribune",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzBjVTk4VDlCazBzU0h4WnJGZ0tMRFFfRWx3SFQzQk44cVRmd2NQTjF5QnE1MWRqazZrdXB0OF9EZXJLVXVIUnRNZkFUQmdWbGljNU9SeGZCbW11aURwdWROSXZmRnF5NkF5LUZEMTRIU0RuSHQ5SWVqTmQwaE1DM0NKeGMzN3FtMGNQTUlkS2xfQmFwM1gyVEQzYmhfVC13R1JoTTQ3X3ZobDFxLWtmZ3BONmbSAbwBQVVfeXFMUHcwYlNsT0tyZ1NUYzBPZDJSanA3RzI2eF9SdGVMSWFnaUN2OTNNUVJlWHVOZUVVTFdQM204Tk00WEt6ZkVkdTRvaHJjdmRNRmc4WkJnVGtGREQ3THktSnhoMGNiZUVleVlpLTVvWHlLWndjRUM0WndQMlh6MTZ1WGxxeWIycXFxRW9RR3RjXzR3RWxqTVFnRi1yZGJvUnFxZlU4cUc1b3Rsb04xMEpsUGlHem9acHA2ZzR1d2s?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xelZHdVcyRm95V0VmWlREamMwbkZNYmxYLW9wNFhIUnVMZ1A1ZVg4OWJMdy1BY3R2Tlo3ZEZEcXV2ZHpJNkk0WE95X0hVdTltQ2tIVm9ucTQwczI0NDN6Q0ljQzR1VXlRMEpaUGtIQ290RFIyb0pwV3Q1VHHSAYQBQVVfeXFMT3V2VDVVQXl2X21nNG5nb2k1Vkd1eGVsd25rYV95OWVYUU13a29hdDA3cGo5RHU1Umx5Vnl5OFlLcTF4b1B2SXdRNFZUNlJINFpYZHlGYWtSdklMQUE0RVJIcm9mRHNsUHdiR2tPdUI4Z1RjWHFINnp3eXVRSldmYWctNE1I?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T15:35:09Z",
+     "time": "2026-11-06T03:45:00Z",
+     "countries": []
+    },
+    {
+     "id": "lahore-2",
+     "country": null,
+     "label": "LAHORE",
+     "lat": 31.55,
+     "lon": 74.34,
+     "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Lahore World's Most Polluted City, AQI Reaches 352",
+     "summary": "Lahore World's Most Polluted City, AQI Reaches 352",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Lahore World's Most Polluted City, AQI Reaches 352."
+      }
+     ],
+     "source": "The Nation (Pakistan )",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSW5ra3gwUU80WHliQ3hCQzVtTFBIS0g2eFB4Vm5zWnNydGtfd2dZQ3VZYWZ6YV82bkdvb0xGVTFJd1huYnNyTjBkTlZRQnpuZEVueEx1RC1iemdGSTE1MEN4amk5OFF2XzJWTEdERHB6eG9mRmV4d3Z1Ynh5YkQ3RktIcUR0WlhlOFBMNGlFMHg?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:22:00Z",
      "countries": [
       "Pakistan"
      ]
     },
     {
-     "id": "lahore-2",
+     "id": "lahore-3",
      "country": null,
      "label": "LAHORE",
      "lat": 31.55,
@@ -1386,7 +1420,7 @@
      ]
     },
     {
-     "id": "lahore-3",
+     "id": "lahore-4",
      "country": null,
      "label": "LAHORE",
      "lat": 31.55,
@@ -1407,32 +1441,6 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-05T05:34:12Z",
-     "countries": [
-      "Pakistan"
-     ]
-    },
-    {
-     "id": "lahore-4",
-     "country": null,
-     "label": "LAHORE",
-     "lat": 31.55,
-     "lon": 74.34,
-     "flag": "🇵🇰",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Gaddafi Stadium, Lahore Cricket Team Records & Stats",
-     "summary": "Gaddafi Stadium, Lahore Cricket Team Records & Stats",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Gaddafi Stadium, Lahore Cricket Team Records & Stats."
-      }
-     ],
-     "source": "Cricinfo",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUZhbElVRlZWTkJ0clFySmtXOFVxR0l5OFB3ZjZMbDdUZXIwVmhlMlpaZlJvZnJ3aEd5T1hoZWp6TWFaYTdjTkhlcUxadDVRRWxtQjZ5V25TMHZaUFplOTdiN2oxakstcjZfWDZxazFQU09PdHhYMUtzdE81X1RUNDF4N20yRE9LWUU2UVZIa05DMngzdnVySWg5TWhReTI2d0JIRE5NM2t0TVVzSHhuLUxIMDVLOHNwbDBj?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T12:30:12Z",
      "countries": [
       "Pakistan"
      ]
@@ -1504,6 +1512,33 @@
      "lat": 24.86,
      "lon": 67.01,
      "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Karachi University tour of Sri Lanka",
+     "summary": "Karachi University tour of Sri Lanka",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Karachi University tour of Sri Lanka."
+      }
+     ],
+     "source": "Cricinfo",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TY0hLcnFWMHUzU0lOanlEU1lsNUJJX19HY1RlWXplZWxPU1pqNWZXbDE2UWR5TE5YaGRHQ2lfeEVySkVTNDJ3cEFHbWhKaFVzYklDcGdoZlNqai1NVTI2MU9ycXVWM2cxZklaUEY3S09jcW9p?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T01:22:39Z",
+     "countries": [
+      "Pakistan",
+      "Sri Lanka"
+     ]
+    },
+    {
+     "id": "karachi-2",
+     "country": null,
+     "label": "KARACHI",
+     "lat": 24.86,
+     "lon": 67.01,
+     "flag": "🇵🇰",
      "severity": "high",
      "category": "Local",
      "headline": "NCCIA arrests 273 people, including 42 minors, in Karachi call centre raid",
@@ -1524,7 +1559,7 @@
      ]
     },
     {
-     "id": "karachi-2",
+     "id": "karachi-3",
      "country": null,
      "label": "KARACHI",
      "lat": 24.86,
@@ -1551,59 +1586,7 @@
      ]
     },
     {
-     "id": "karachi-3",
-     "country": null,
-     "label": "KARACHI",
-     "lat": 24.86,
-     "lon": 67.01,
-     "flag": "🇵🇰",
-     "severity": "info",
-     "category": "Local",
-     "headline": "FDA suspends licences of Pune’s popular Karachi Sweet Mart, other businesses",
-     "summary": "FDA suspends licences of Pune’s popular Karachi Sweet Mart, other businesses",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "FDA suspends licences of Pune’s popular Karachi Sweet Mart, other businesses."
-      }
-     ],
-     "source": "The Indian Express",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWhLMjRGME5BTEcwWmhTZlgzS0d4Q180M3JkNUQ0Wlcybk42bFQyMlNEdHVzZk9EOXFka2FhcmdZZjhaSS1VNnZGcEVHdzJVUDhiRDJHMl9qRnNSYWthZ3ktSkowa0RTSVprcW1XV0NxbTU4RUZwd000QVZsU1lsWkRZUF9HX0JtNDFOc3Awd0xPaEtuelFJS2VEd3Bldmd1T1FkM05kcGRoQdIBsAFBVV95cUxQZnJEbXc5ZWQ0TEZzVzNiVERjX0ZlR2VKS3hwNmRNU3ozMzNabVRWNXI1SC0zQ09BeEw5eklZRlFXMFdQZjVVLXpaVVA5NGF0OXpyZFhjQ1NhRHh4SjZYaUhZcjlnRmtBQlNlNUVLU2dIUElIdXNqYm5jN1hhb2J2VVBla1pWVEN3N2JqR0hzOHdIWHZ3Ry1YUDNRMVhwaGFZcFYtUVdMMDlHaFVnQ05YNg?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-04T07:05:45Z",
-     "countries": [
-      "Pakistan"
-     ]
-    },
-    {
      "id": "karachi-4",
-     "country": null,
-     "label": "KARACHI",
-     "lat": 24.86,
-     "lon": 67.01,
-     "flag": "🇵🇰",
-     "severity": "info",
-     "category": "Local",
-     "headline": "IRL conference brings global advertising leaders to Karachi",
-     "summary": "IRL conference brings global advertising leaders to Karachi",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "IRL conference brings global advertising leaders to Karachi."
-      }
-     ],
-     "source": "Business Recorder",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEQ5YVNMcVhrcC1ZTTBhS1REenhQbk1DRFZoblNURGVXM080ZFg5dTBNYnlYYlgxdkhNM2RLTWZSc3pNVHAzYTJmS1FScEhrdTZiQnpaRkVqTFZFalJ6Z0tVREtKTHJSM0ZvNVQ1YmRzcmpnbjk0a0xUQlkzSmliS3p3ZnhfNHR2ZFhHMWlyS2N0cGdqQldjSVRzM1loQlg00gFWQVVfeXFMT1N1TDczcGczajFDdUJlREJWLXFybEVxMEVCLUUyVWxHRXVLMnRJX3JZZ0NBUDJ6Q2FIRkktVXNxRVZrSVhaYUI5TC05WDhLcDE2X3lyQ3c?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T00:47:12Z",
-     "countries": [
-      "Pakistan"
-     ]
-    },
-    {
-     "id": "karachi-5",
      "country": null,
      "label": "KARACHI",
      "lat": 24.86,
@@ -1627,6 +1610,32 @@
      "countries": [
       "Kenya"
      ]
+    },
+    {
+     "id": "karachi-5",
+     "country": null,
+     "label": "KARACHI",
+     "lat": 24.86,
+     "lon": 67.01,
+     "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "IRL conference brings global advertising leaders to Karachi",
+     "summary": "IRL conference brings global advertising leaders to Karachi",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "IRL conference brings global advertising leaders to Karachi."
+      }
+     ],
+     "source": "Business Recorder",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TdUw3M3BnM2oxQ3VCZURCVi1xcmxFcTBFQi1FMlVsR0V1SzJ0SV9yWWdDQVAyekNhSEZJLVVzcUVWa0lYWmFCOUwtOVg4S3AxNl95ckN30gFWQVVfeXFMT1N1TDczcGczajFDdUJlREJWLXFybEVxMEVCLUUyVWxHRXVLMnRJX3JZZ0NBUDJ6Q2FIRkktVXNxRVZrSVhaYUI5TC05WDhLcDE2X3lyQ3c?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T00:47:12Z",
+     "countries": [
+      "Pakistan"
+     ]
     }
    ]
   },
@@ -1643,24 +1652,22 @@
      "lat": 30.18,
      "lon": 66.98,
      "flag": "🇵🇰",
-     "severity": "info",
+     "severity": "watch",
      "category": "Local",
-     "headline": "Quetta’s 8-Year-Old Chess Prodigy Wins Recognition and Support",
-     "summary": "Quetta’s 8-Year-Old Chess Prodigy Wins Recognition and Support",
+     "headline": "us-midterm-elections-2026-democrats-georgia-jon-ossoff.jpg",
+     "summary": "us-midterm-elections-2026-democrats-georgia-jon-ossoff.jpg",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Quetta’s 8-Year-Old Chess Prodigy Wins Recognition and Support."
+       "text": "us-midterm-elections-2026-democrats-georgia-jon-ossoff.jpg."
       }
      ],
      "source": "Balochistan Pulse",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa21UU3VjQlJ5eW1aWE4wR3UzVmpaUTZGdGw0dWNrZ2hjOWNWRmJuYkFmOWtfd2JYU1laNF9aZkZkZmdDNVpQR3NJcmUzWHFwNjlPb3lpSnplUHhvWC1UcGZfQ1dGRk0zZFlQa2Z3b3ZCSEhYblhhc2tmZVh6RjNfLTNvOTBGdG13RVBCRzRGdFhwMVFSOFHSAZYBQVVfeXFMTWttVFN1Y0JSeXltWlhOMEd1M1ZqWlE2RnRsNHVja2doYzljVkZibmJBZjlrX3diWFNZWjRfWmZGZGZnQzVaUEdzSXJlM1hxcDY5T295aUp6ZVB4b1gtVHBmX0NXRkZNM2RZUGtmd292QkhIWG5YYXNrZmVYekYzXy0zbzkwRnRtd0VQQkc0RnRYcDFRUjhR?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUERwTGhjak5lOFpScWxnMjhUYzF2QmN2bWxrcUJDbTgtWjlERmVUWjNuM0o1dU9WTW9fTXduTUxPckViNU9tV2FCMlIyQzRnMmo3U0RyLXBjMmhhNDdTTXd3MEotWXVzMC0zd09VendkREhPRDZtaXZuQ2luNGF2eUdXRFhzWXU2MjkyQm9CNWZXZkZQa3hvRm1pakF0UTFhcW5KOXNXT0NXMjRTUGt0WFhzZUF0QzZfTmZRelpDemtWRFhvUWlrcnUtcEVpd1NvcVVr?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T07:57:27Z",
-     "countries": [
-      "Pakistan"
-     ]
+     "time": "2026-11-06T02:39:11Z",
+     "countries": []
     },
     {
      "id": "quetta-1",
@@ -1671,19 +1678,19 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Quaid-e-Azam Trophy Division Two, 2011/12 - Quetta Cricket Team Records & Stats",
-     "summary": "Quaid-e-Azam Trophy Division Two, 2011/12 - Quetta Cricket Team Records & Stats",
+     "headline": "Balochistan human rights record exposed at UN as Baloch National Movement demands accountability",
+     "summary": "Balochistan human rights record exposed at UN as Baloch National Movement demands accountability",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Quaid-e-Azam Trophy Division Two, 2011/12 - Quetta Cricket Team Records & Stats."
+       "text": "Balochistan human rights record exposed at UN as Baloch National Movement demands accountability."
       }
      ],
-     "source": "Cricinfo",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFlmdDRwek1yUDgwbnl4YmxaRTdIb053Z2tkVW50dFROMlIxOFl3S0VSdFRkTDEyQ1pRTlVjZkFYVlIxeEgtUzVnUF84akVxSDBWb1ZseVU3cVl3V01jNWpSbmNMc290WUJabVpKc2cyR09TLVBiZmZEWUFDRUhFT2ZCT3Y5NnRrMnJ2MV92UDEtOTZPRnVKenlFRWtNMk9vMm5GV2Nrc2J5VnhvbWtfdFA4UQ?oc=5",
+     "source": "ANI News",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR2ZGQ2NIckJwUlpCRkpGT3FVcW5WbFYtdXI5MlJsNllUOTA3aS10cFFtaVBZazhELVJ5ajNsTkNFeTNRX0dmYkNPRDZ1ZzJUNE5NZVFDSE5VaktLZWg0MTZtUjN5M3lZSDFzbTMtR00ya24wQlcwY24tSnNBaDV2VWN1bHNtZWk3eU82VnN4Y20xVzZHV0pTTEJ2Sl92c3A3Q1RXZEZteG9rS3dMM1N6cGs4UlY2Z3lTS1dWdlI3WlU5UlVESHlvamEyemRBNzczSFIzRUdLcDlpcXVlT185YnktUkFwQQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T19:13:05Z",
+     "time": "2026-11-06T06:57:00Z",
      "countries": [
       "Pakistan"
      ]
@@ -1697,25 +1704,51 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered",
-     "summary": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered",
+     "headline": "Conference calls for stronger law enforcement in Balochistan",
+     "summary": "Conference calls for stronger law enforcement in Balochistan",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered."
+       "text": "Conference calls for stronger law enforcement in Balochistan."
       }
      ],
-     "source": "Devdiscourse",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPanJmaWpKVlVLV0tiNmdWbFJRQlU0VmJHTXVWWWYwMVI1Y05Mb2hSUVNod3dkSVlWeHR4Tk5xQWE1ekFtSlhYc3JjWUdUXzdpQWF6eHlKNThGUGx6aGtrYl8yR0hSdzd1UndER1U2cVczZWIzLW54Q0tobThsLXlwcnptTE9oWk95WUhtamxHVjNkQ2U4cmJSQUF0cm5raGMxelpLMkNXNlBXdVk3a1lWUWVrYV9CZnZFcVhubE10dFRNZ2lycTVhU1ZWWEM2bXFQZkFpSDJLc2ota0hDYVFQaEdlVzVkd1VReDQxSUViQlNrMFXSAfgBQVVfeXFMUEFhZ0ExYUg1ZFA3R3k0QUxNN3N3WGJocTdoUmp2QVl5MjRmY2dkaTZGQ25iZUFscG1OY183NGoyMk1pcXNoUzdaa3Z2RkdGSjJoOER0b0JoTVdNVzRiakdySVpUSldtR0ZVY19zT2pOTW5faWdISzh3QmRJMFhiTF9ZT2hDZDJXek5uQkZCaWkyVTB6b0VzU2dnaE1UeUVzQl9QUmZUN0hGM0xmMmc3NlV5Q2VoQVZDNUJnaWU2a3NzaTdOR1I5UkxiTk9ENUY0Nm4ycVV6NzljR1AydnQwWUxlTTFhc1N2dUZZMC0wRFplNG9RRUxBd3U?oc=5",
+     "source": "Dawn",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hRDh4R2ZsbjY0aEs0YWpZWFBmSWE0RkhteFdlOGxCcG45R0ZwcjFjR2NVSWJwb3dSZjAyRG5uRzdldVJMQWZYTw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T09:19:03Z",
+     "time": "2026-11-06T01:58:53Z",
      "countries": [
       "Pakistan"
      ]
     },
     {
      "id": "quetta-3",
+     "country": null,
+     "label": "QUETTA",
+     "lat": 30.18,
+     "lon": 66.98,
+     "flag": "🇵🇰",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Quetta journalists face PECA cases as home raids reported",
+     "summary": "Quetta journalists face PECA cases as home raids reported",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Quetta journalists face PECA cases as home raids reported."
+      }
+     ],
+     "source": "Journalism Pakistan",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXl6ekt0UG9sanJJWWFGTVRhdk1BSVFNN2FpcndaUzVVaUFSVjI0YzFaWG10bmZZOGZHeFNOSWhkc1ZJWjA3Zm85SllCQTRraDQxVFJpbzBYVjBURm1QU1daQjA5aE1CZ3ZHXzdmT3FoSk9wbUtYczVEeTI3Z0xKb2tQZWNRLXpfSlJVeDFoazdzVUpHOXd3?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:49:21Z",
+     "countries": [
+      "Pakistan"
+     ]
+    },
+    {
+     "id": "quetta-4",
      "country": null,
      "label": "QUETTA",
      "lat": 30.18,
@@ -1741,32 +1774,6 @@
      ]
     },
     {
-     "id": "quetta-4",
-     "country": null,
-     "label": "QUETTA",
-     "lat": 30.18,
-     "lon": 66.98,
-     "flag": "🇵🇰",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Several Pakistani soldiers killed after convoys come under attacks in Balochistan",
-     "summary": "Several Pakistani soldiers killed after convoys come under attacks in Balochistan",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Several Pakistani soldiers killed after convoys come under attacks in Balochistan."
-      }
-     ],
-     "source": "Tripura Chronicle",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHpwQnZIZWV3clVBRGZ6RURRdGJlZlBjN25ZOFM0ZlhYeUdySVdHNWducWlYeS1GUjZGMm5FWk9RVDl4bHNyQjJEZFBnYUVMM0p2TG5EcUozdkYzNEliWjRMWjdFaHdMWC03QjBKLS11TFFhOXVYN3d1NG85S1R2eTl5aG5qUFVaZ0haYzNJRGdxWTdlMjlCMDhfdkNjUFJWZTRqZ0JkWnl0V1k4aTVmVGdIaU42aGk3NXJ2TE1B?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T01:43:42Z",
-     "countries": [
-      "Pakistan"
-     ]
-    },
-    {
      "id": "quetta-5",
      "country": null,
      "label": "QUETTA",
@@ -1775,19 +1782,19 @@
      "flag": "🇵🇰",
      "severity": "info",
      "category": "Local",
-     "headline": "Three Quetta journalists’ homes raided, booked under PECA",
-     "summary": "Three Quetta journalists’ homes raided, booked under PECA",
+     "headline": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered",
+     "summary": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Three Quetta journalists’ homes raided, booked under PECA."
+       "text": "Ten people, including 15-year-old student, allegedly disappear in Balochistan; four missing men recovered."
       }
      ],
-     "source": "Voicepk.net",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlFXSDI5RzEzTTJvS1l4M3d1S2E1N3BmZ19LMTZXMUQxZHBPamRnajFwUlNaT25Rb3RKdHlBNjJJYWhEMkVIUHFLQnlob1IycnJjV2xYZ084dHdQVTNXaXJPVjBPVDdNeEx3Zi1yem1nMHBlV3hfdEthRkZTdDM5YnNSQ04tT2ZxNUtDeg?oc=5",
+     "source": "Devdiscourse",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPanJmaWpKVlVLV0tiNmdWbFJRQlU0VmJHTXVWWWYwMVI1Y05Mb2hSUVNod3dkSVlWeHR4Tk5xQWE1ekFtSlhYc3JjWUdUXzdpQWF6eHlKNThGUGx6aGtrYl8yR0hSdzd1UndER1U2cVczZWIzLW54Q0tobThsLXlwcnptTE9oWk95WUhtamxHVjNkQ2U4cmJSQUF0cm5raGMxelpLMkNXNlBXdVk3a1lWUWVrYV9CZnZFcVhubE10dFRNZ2lycTVhU1ZWWEM2bXFQZkFpSDJLc2ota0hDYVFQaEdlVzVkd1VReDQxSUViQlNrMFXSAfgBQVVfeXFMUEFhZ0ExYUg1ZFA3R3k0QUxNN3N3WGJocTdoUmp2QVl5MjRmY2dkaTZGQ25iZUFscG1OY183NGoyMk1pcXNoUzdaa3Z2RkdGSjJoOER0b0JoTVdNVzRiakdySVpUSldtR0ZVY19zT2pOTW5faWdISzh3QmRJMFhiTF9ZT2hDZDJXek5uQkZCaWkyVTB6b0VzU2dnaE1UeUVzQl9QUmZUN0hGM0xmMmc3NlV5Q2VoQVZDNUJnaWU2a3NzaTdOR1I5UkxiTk9ENUY0Nm4ycVV6NzljR1AydnQwWUxlTTFhc1N2dUZZMC0wRFplNG9RRUxBd3U?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T10:48:06Z",
+     "time": "2026-11-05T09:19:03Z",
      "countries": [
       "Pakistan"
      ]
@@ -1802,6 +1809,59 @@
    "stories": [
     {
      "id": "riyadh-0",
+     "country": null,
+     "label": "RIYADH",
+     "lat": 24.71,
+     "lon": 46.68,
+     "flag": "🇸🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Can Zaidi keep Iraq from becoming Riyadh's battlefield?",
+     "summary": "Can Zaidi keep Iraq from becoming Riyadh's battlefield?",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Can Zaidi keep Iraq from becoming Riyadh's battlefield?."
+      }
+     ],
+     "source": "Amwaj.media",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzVCSVRYTmczeFRjbWVEaGJJQXZ2ZDhnSlNoZS1qQy10SXAyb2g3QUx6d05XOFVGLWpaVDFBQW94M1ZDWHdreVVLeFJDb2VkNDFsdUhwc0RybF9FR0RMUEo4V2cxdE1CcVJnMDRkVGdsRGQ1bWtfUHZQVVRhMDRBYnc1eHZ3QUkyZXdLMw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T03:36:43Z",
+     "countries": [
+      "Iraq",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "riyadh-1",
+     "country": null,
+     "label": "RIYADH",
+     "lat": 24.71,
+     "lon": 46.68,
+     "flag": "🇸🇦",
+     "severity": "critical",
+     "category": "Local",
+     "headline": "Iran claims series of Hormuz explosions as talks intensify",
+     "summary": "Iran claims series of Hormuz explosions as talks intensify",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Iran claims series of Hormuz explosions as talks intensify."
+      }
+     ],
+     "source": "thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3prTFlUbjIxSUVNV3VDVHNEb1Nkb0ZqSDVTZkJwMng0YmQ2dFhmVDNYdlB4WGlQU1NMU3J5VWg3a1NTcjBoTm9oZ2piVXlKc29ZSTNzcHRHUHFNVmxzRDhRS2ZXUXI2RW1nU1hGZnI5U0RKeXR6NDJ5T2k2a1gtbXRCSFY1VUdJY1NUaXU5V2YzWE0?oc=5",
+     "forceLang": "en",
+     "type": "LIVE",
+     "time": "2026-11-06T02:10:06Z",
+     "countries": [
+      "Iran"
+     ]
+    },
+    {
+     "id": "riyadh-2",
      "country": null,
      "label": "RIYADH",
      "lat": 24.71,
@@ -1827,7 +1887,34 @@
      ]
     },
     {
-     "id": "riyadh-1",
+     "id": "riyadh-3",
+     "country": null,
+     "label": "RIYADH",
+     "lat": 24.71,
+     "lon": 46.68,
+     "flag": "🇸🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Syria signs contract to participate in Expo 2030 Riyadh",
+     "summary": "Syria signs contract to participate in Expo 2030 Riyadh",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Syria signs contract to participate in Expo 2030 Riyadh."
+      }
+     ],
+     "source": "Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFNlaUtpUFF6elB0LTVMTXpOUzdWNWtiRWx0Y1Y3bEF3NXltZ1RCaDVqZUNKZjl1aGdxZ0cyWU1GTk9EeHFCMmVsOE9CeElUYjNHTE91dG9GdDVURmR5Z3BBSldWc1JFY3U4U3VicnRpaW1xVXBIcTBqSTAxaFhyMjVQTV8wSTUzOTZXbHRpZnhITy1VN3NrS3dmNFpzeE1laVE?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T08:03:02Z",
+     "countries": [
+      "Syria",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "riyadh-4",
      "country": null,
      "label": "RIYADH",
      "lat": 24.71,
@@ -1854,7 +1941,7 @@
      ]
     },
     {
-     "id": "riyadh-2",
+     "id": "riyadh-5",
      "country": null,
      "label": "RIYADH",
      "lat": 24.71,
@@ -1878,85 +1965,6 @@
      "countries": [
       "Saudi Arabia"
      ]
-    },
-    {
-     "id": "riyadh-3",
-     "country": null,
-     "label": "RIYADH",
-     "lat": 24.71,
-     "lon": 46.68,
-     "flag": "🇸🇦",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Iran claims series of Hormuz explosions as talks intensify",
-     "summary": "Iran claims series of Hormuz explosions as talks intensify",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Iran claims series of Hormuz explosions as talks intensify."
-      }
-     ],
-     "source": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3prTFlUbjIxSUVNV3VDVHNEb1Nkb0ZqSDVTZkJwMng0YmQ2dFhmVDNYdlB4WGlQU1NMU3J5VWg3a1NTcjBoTm9oZ2piVXlKc29ZSTNzcHRHUHFNVmxzRDhRS2ZXUXI2RW1nU1hGZnI5U0RKeXR6NDJ5T2k2a1gtbXRCSFY1VUdJY1NUaXU5V2YzWE0?oc=5",
-     "forceLang": "en",
-     "type": "LIVE",
-     "time": "2026-11-05T16:52:51Z",
-     "countries": [
-      "Iran"
-     ]
-    },
-    {
-     "id": "riyadh-4",
-     "country": null,
-     "label": "RIYADH",
-     "lat": 24.71,
-     "lon": 46.68,
-     "flag": "🇸🇦",
-     "severity": "info",
-     "category": "Local",
-     "headline": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
-     "summary": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official."
-      }
-     ],
-     "source": "WTA Tennis",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMkJNTjRRcm1QVElrVU1QQ2hFcXZYc0NEWmlJekVIRTBYYWxrVDJZMm9WT0xwa1JYbGt1RzdYcFMtLVAzSWlJT1J4d0pLdGhLYW5Da3BiZlplazE2?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T11:51:28Z",
-     "countries": [
-      "India"
-     ]
-    },
-    {
-     "id": "riyadh-5",
-     "country": null,
-     "label": "RIYADH",
-     "lat": 24.71,
-     "lon": 46.68,
-     "flag": "🇸🇦",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Saudis, Syrians ink defense coop deal as al-Shaara visits Riyadh | Daily Sabah",
-     "summary": "Saudis, Syrians ink defense coop deal as al-Shaara visits Riyadh | Daily Sabah",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Saudis, Syrians ink defense coop deal as al-Shaara visits Riyadh | Daily Sabah."
-      }
-     ],
-     "source": "Daily Sabah",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUtlQzNKWnpTMGhmTVhzaUhtaVdvUlVCNWpDY2VReEEydXJDRU9uX1VpS1dJV0xVekwxeHZOZ0FiWVZWWjBtQmdsdG9VWEN5MkdZSlVRMDljeFpJSFQ3eFBCZUVmWEg5bl94QUp4aFV3RFRqVkxsU21FTGR6dDkwN2RyM1NIS3UtSmVnOVk1YmNfSmNvZ1RfNW81b0IxZWZKcFNvZEM0bFXSAa4BQVVfeXFMUFFnaWRuZFJKdjRQLVMxb1RIdHh5cF95cVRWY182NmxHRmhfNmJfZVZWenh2aHlxUFRmQVFGMEVXMmh2RE12QnAtYTVuTzhteWpJUUtRSGxESzZnTjhFcWxYVDdZVWk4OGtGUTJaSklTaWNPSDQ2THVJajRmT05HRmFUdzhyekpVN3NtYW1SbnJiTzZUWWxRY0VpNlg5Z25abzFNNmFKWjV5U1N4RDhn?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T09:45:00Z",
-     "countries": [
-      "Saudi Arabia",
-      "Syria"
-     ]
     }
    ]
   },
@@ -1975,6 +1983,33 @@
      "flag": "🇸🇦",
      "severity": "info",
      "category": "Local",
+     "headline": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "summary": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region."
+      }
+     ],
+     "source": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpzSzZVQWdGOXJhV2NGZml0d0xRX0tSTXdQZXV4SVRxOXlHQ25FdWVhS3BVekhXWGRWcTdSa0E5NjNjSUNfMkZraXkyMURPYUZXZWZCZ01HM294a096UGRYU2NDUlBVUGNHZXN2ZnpMY2xzekdxWVlhck9kdnduamlHZ1M5TWNEQW5IR0VqNHd6MnRVQ0FtS3ZPZ2hzY05KVE9ZbUZxOFdROVBDTDcyel9PMUFPc0ZPNU1fVmsxMA?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T04:07:35Z",
+     "countries": [
+      "Yemen",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "jeddah-1",
+     "country": null,
+     "label": "JEDDAH",
+     "lat": 21.49,
+     "lon": 39.19,
+     "flag": "🇸🇦",
+     "severity": "info",
+     "category": "Local",
      "headline": "​HE GCCSG Condemns the Houthi Militia",
      "summary": "​HE GCCSG Condemns the Houthi Militia",
      "lines": [
@@ -1984,16 +2019,66 @@
       }
      ],
      "source": "الأمانة العامة لمجلس التعاون لدول الخليج العربية",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPd1ZBZVRyN3FPcnA5d2VTVlB1eHJFQ2Q0MEFQWEF4cjVKbzh5SzQzcTZudGZYSHFUMGI0T0FEMDBjUE80dlYwSTMxZUp6eUtkSE5wNWJUNHJuTVU5ZjgtR0Fvd2M0NXQ0ZElUY0pIRjNESzRabmdGVFVRUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CS2dqeTBJaHE5RUtQcTVQWXNtdTBKNGRCTUFMdXYzY1RGSWtyMjFmZUI5U0VuWlN5cTlCQWFXTnBBTTZBbTFXeUJKQWFkZDluX0Q1ODBKNmxFMzdGbWduWHlUclgzcVdNRzdrZWpjLWFTZHpEYlhMejN3?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T22:38:47Z",
+     "time": "2026-11-06T00:11:18Z",
      "countries": [
       "Yemen"
      ]
     },
     {
-     "id": "jeddah-1",
+     "id": "jeddah-2",
+     "country": null,
+     "label": "JEDDAH",
+     "lat": 21.49,
+     "lon": 39.19,
+     "flag": "🇸🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "iQIBLA to Showcase Purpose-Built Hajj Technology Ecosystem at Hajjconfex 2026 in Jeddah",
+     "summary": "iQIBLA to Showcase Purpose-Built Hajj Technology Ecosystem at Hajjconfex 2026 in Jeddah",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "iQIBLA to Showcase Purpose-Built Hajj Technology Ecosystem at Hajjconfex 2026 in Jeddah."
+      }
+     ],
+     "source": "EIN News",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa0dvQkllcTNBbEVOcmliUDc4a3N4SWRuQ2ZkVU9PeEJVMkh0T1N6SnpXeDAyWkFYRWZkOWZaV2lhRS1zekVoUjBjWGduR3JoZHFaWmNoZGtZZ0FyX1Q4M1haQW5UYm9SYXFNWDNrWXM2cHVhN2YwajExbmhMR1RrWEdDS2ZxS3YweGtKVHBYWnRhUWM4NmxITWxxZlVpQlZtZTV4Y2tnNkdIOWMyZHVnVzY0Y3RYbDhtbFVmR05yZ2pUZ1ZYdkV3dg?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T08:30:00Z",
+     "countries": [
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "jeddah-3",
+     "country": null,
+     "label": "JEDDAH",
+     "lat": 21.49,
+     "lon": 39.19,
+     "flag": "🇸🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Moving the Makkah Defence Agreement from Strategic Promise to Deterrence",
+     "summary": "Moving the Makkah Defence Agreement from Strategic Promise to Deterrence",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Moving the Makkah Defence Agreement from Strategic Promise to Deterrence."
+      }
+     ],
+     "source": "Centre for Strategic and Contemporary Research",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3dYSXEwZDBSUkJxb29mTWo4QUtJREx2c1lVZEd4SmZ1TGpEQkNzd0dUU00tZGpCc1VFS0o1bDJYRnlTSE5pSm5fcXBIYWkzR193ZUx0Y3B0RkN5X3hjZjdOLS03YVUtei00SXNPd0JFR2RXZkRpNjAzYlZ0X29LR25kQi1Ta1hSMHVHRURsT0FXZmk2aEgxeXk0dGZYbFp2U1FlRUVHRGdWa29NYWU4OWRjcndBWGRtQ0xJbEl3?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:59:12Z",
+     "countries": []
+    },
+    {
+     "id": "jeddah-4",
      "country": null,
      "label": "JEDDAH",
      "lat": 21.49,
@@ -2017,84 +2102,6 @@
      "countries": []
     },
     {
-     "id": "jeddah-2",
-     "country": null,
-     "label": "JEDDAH",
-     "lat": 21.49,
-     "lon": 39.19,
-     "flag": "🇸🇦",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Coalition Intercepts, Destroys Houthi Ballistic Missile Fired at Madinah - ASHARQ AL-AWSAT English",
-     "summary": "Coalition Intercepts, Destroys Houthi Ballistic Missile Fired at Madinah - ASHARQ AL-AWSAT English",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Coalition Intercepts, Destroys Houthi Ballistic Missile Fired at Madinah - ASHARQ AL-AWSAT English."
-      }
-     ],
-     "source": "ASHARQ AL-AWSAT English",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOW5VeHBZemRUenRTQmFEVEszTFBPVHNlMjlIek5uRXBqaHhjN3lIZFJKLTdfTklsTEZMRzlqRlBXQW1ybnZvN1BHVzQwZnI3QWdVdXRlRzFuQ2ZoNU5wV0tHZG1wZlY0RXAzeVdHd2QwVGZfNEZCUUczVXlJcU9uc0NfMTNfeE5NaUFyM09PUkNLWk11TG1SdkZ5b1pFMS1PZUxpelhYYXNvYkRH?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T16:38:57Z",
-     "countries": [
-      "Yemen"
-     ]
-    },
-    {
-     "id": "jeddah-3",
-     "country": null,
-     "label": "JEDDAH",
-     "lat": 21.49,
-     "lon": 39.19,
-     "flag": "🇸🇦",
-     "severity": "high",
-     "category": "Local",
-     "headline": "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
-     "summary": "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Turkiye’s parliament ratifies Makkah defense pact, clearing way for military support to Saudi Arabia."
-      }
-     ],
-     "source": "Arab News",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdjN2U1VVeFB3T1JTU2JPV0Z1a0lfWGR4QXkxOHM4S3FtOVBkX1lLeXJqTENHcUVETC1vdTVTVnl1SEhlRTNpM3hheWI5SmpRN1l1bXRseGdYeE9hNUlwQVFkNFRiejNuS2c5X3dLel9LVDFtSmN3YWlOcGxOT3NEdWpwYXAwTFpIekx1X1lFUHU4MzVDUko3R0NBeHBXUzRWbFFYRnUzTExBNFMwbU1lQ3hTZUxZdU8wb0psV3lRVWRRWEVReFE5Q1NwQTlEa1lHb09COUVzZlF0UEk?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T21:32:42Z",
-     "countries": [
-      "Saudi Arabia"
-     ]
-    },
-    {
-     "id": "jeddah-4",
-     "country": null,
-     "label": "JEDDAH",
-     "lat": 21.49,
-     "lon": 39.19,
-     "flag": "🇸🇦",
-     "severity": "watch",
-     "category": "Local",
-     "headline": "Jeddah King Abdulaziz International Airport Arrivals",
-     "summary": "Jeddah King Abdulaziz International Airport Arrivals",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Jeddah King Abdulaziz International Airport Arrivals."
-      }
-     ],
-     "source": "Flightradar24",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYXJmWGN6eUlGNnRaQ2dCOWs2NlphdDkzZ1NSRXlIMnVOOEJRcVloZTUwUFZXdURmRnBuQ2hPQVV0eHR3NDcyTkVDT2VtZ1JmMi00WDlJaThQT040bVFfXzREbWpWN1dJVWNsakJXaXVyWUE3SS1NeXZKc1VYOFFKSk01RFBCUQ?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T01:53:40Z",
-     "countries": [
-      "Saudi Arabia"
-     ]
-    },
-    {
      "id": "jeddah-5",
      "country": null,
      "label": "JEDDAH",
@@ -2103,20 +2110,22 @@
      "flag": "🇸🇦",
      "severity": "info",
      "category": "Local",
-     "headline": "Masar Destination in Makkah to get 3 residential towers",
-     "summary": "Masar Destination in Makkah to get 3 residential towers",
+     "headline": "Maysan Governorate Tops Saudi Arabia Clean Air Rankings",
+     "summary": "Maysan Governorate Tops Saudi Arabia Clean Air Rankings",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Masar Destination in Makkah to get 3 residential towers."
+       "text": "Maysan Governorate Tops Saudi Arabia Clean Air Rankings."
       }
      ],
-     "source": "TradingView",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaFJFZDJnRUltLU1mSXhfdllocEs3UFpsU3NncXVKYm5HbnYwdDR5Mm5oRlNra0s3WDNTT3UzR3JWVXp1QmNTaEtvaDFZZi1QMEpiRWR2RUdmR3dYQlMxUDk0X1FHWGFsY3l5NWxSX3VlWFgxS29NTzJXdFlHcXZSNXlXZlhTeHpkdzNyS0g3eTB2Y3ZQbjZ0b0UtSi1pUnpIN3h5RHBIUDgwemxVa0tYTUZtMkRzME9lMk5PeTZ2Tm10QV9Wc0dqdHBOcw?oc=5",
+     "source": "CairoScene",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU3NiMUxBQldSS3V6bzg0ZW9BMlY4endQZWJtbng5SzkwVXFhdFNLZGRmQmZjektpNy1Oa2ZCS2pabWFxSmNSaVR3SzlXSjdpQXFEQnptdE9jVjlKeUJVcjNEcUN0U2VNeHI0Q1ZJZUgybmxZdzhscUgxWjJiNnRlbGxmS0FtREFqUXpz?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T07:36:00Z",
-     "countries": []
+     "time": "2026-11-06T04:47:01Z",
+     "countries": [
+      "Saudi Arabia"
+     ]
     }
    ]
   },
@@ -2159,28 +2168,56 @@
      "lat": 26.43,
      "lon": 50.1,
      "flag": "🇸🇦",
-     "severity": "critical",
+     "severity": "high",
      "category": "Local",
-     "headline": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen",
-     "summary": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen",
+     "headline": "Tehran reportedly sent nuclear proposal to the US via Qatar",
+     "summary": "Tehran reportedly sent nuclear proposal to the US via Qatar",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen."
+       "text": "Tehran reportedly sent nuclear proposal to the US via Qatar."
       }
      ],
-     "source": "Palestine Chronicle",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREY0cUl0dnR6Ui1adWJ5TnFmbEZnaUlvei1WTU05ajZVVDRsYmlYWU5RTkFIcktDelVvWDYtNDFNbDlmRHU4VGtsaW9CMjNTbmpsaV82SXJuVDQxQTNDdHp0UDQ2UXk5ZHpiZ25pb0tQX05SSHFXeXBDai0xdmxsVWZtQ0lCVzV2SkJ1X25sN0dCT0cxZTkydXZxd19VMExNRWtob1NVQ0c0dFdxdlhSalFmQlc0bTg?oc=5",
+     "source": "thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaFNGVjU3UzU0cjFEQUhzeDVsZGJsRUsxeTVNUHNRbldqRWtZVFhiejFqNEZFMEs3T2luRkhkVXNmRkx4RVMyR2hjOUEzMXIyZU9Pak9KOU9WcVJCWEFnQUd2MVZhUWxIaWtwOHczMHRkaWwtZC1ua3VWU0R0ZEhIXzdBUENXN3NlT2pkYlJzdWg?oc=5",
      "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T21:10:12Z",
+     "type": "LIVE",
+     "time": "2026-11-06T08:09:37Z",
      "countries": [
-      "Saudi Arabia",
-      "Yemen"
+      "Iran",
+      "United States of America",
+      "Qatar"
      ]
     },
     {
      "id": "dammam-2",
+     "country": null,
+     "label": "DAMMAM",
+     "lat": 26.43,
+     "lon": 50.1,
+     "flag": "🇸🇦",
+     "severity": "critical",
+     "category": "Local",
+     "headline": "Houthis claim Saudi airport attack as Saudi-led coalition says intercepted missile, drone",
+     "summary": "Houthis claim Saudi airport attack as Saudi-led coalition says intercepted missile, drone",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Houthis claim Saudi airport attack as Saudi-led coalition says intercepted missile, drone."
+      }
+     ],
+     "source": "巴士的報",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZkltcno3bG5qckI1Ylh2N0w2amRlLU5LdXVpV0k0aUN5RjNway02M2Y4TU9mQ2RVRmt4cU04aXZpV0FxMXlCVW5YMHlIWFhMWFVFdF85ZG5FdTgyeDVYRXlrbnE5WGZTd3VFcG96d2c4dGM2dHJNMTV1VlZXVlY2QVZzYTN2TUlBN09lVWJHeDB6MjZSWVpVQzdwUnZiVDRXTVdfdTJ6VmpYNnkzWkl3SE5CZ1Vqd21Ba01sTnVrb29hRXVTSGx6MHBadkR3Tno0TE15cW1ZRQ?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:22:00Z",
+     "countries": [
+      "Yemen",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "dammam-3",
      "country": null,
      "label": "DAMMAM",
      "lat": 26.43,
@@ -2206,7 +2243,7 @@
      ]
     },
     {
-     "id": "dammam-3",
+     "id": "dammam-4",
      "country": null,
      "label": "DAMMAM",
      "lat": 26.43,
@@ -2214,25 +2251,26 @@
      "flag": "🇸🇦",
      "severity": "critical",
      "category": "Local",
-     "headline": "Iran claims series of Hormuz explosions as talks intensify",
-     "summary": "Iran claims series of Hormuz explosions as talks intensify",
+     "headline": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen",
+     "summary": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Iran claims series of Hormuz explosions as talks intensify."
+       "text": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen."
       }
      ],
-     "source": "The National",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3prTFlUbjIxSUVNV3VDVHNEb1Nkb0ZqSDVTZkJwMng0YmQ2dFhmVDNYdlB4WGlQU1NMU3J5VWg3a1NTcjBoTm9oZ2piVXlKc29ZSTNzcHRHUHFNVmxzRDhRS2ZXUXI2RW1nU1hGZnI5U0RKeXR6NDJ5T2k2a1gtbXRCSFY1VUdJY1NUaXU5V2YzWE0?oc=5",
+     "source": "Palestine Chronicle",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREY0cUl0dnR6Ui1adWJ5TnFmbEZnaUlvei1WTU05ajZVVDRsYmlYWU5RTkFIcktDelVvWDYtNDFNbDlmRHU4VGtsaW9CMjNTbmpsaV82SXJuVDQxQTNDdHp0UDQ2UXk5ZHpiZ25pb0tQX05SSHFXeXBDai0xdmxsVWZtQ0lCVzV2SkJ1X25sN0dCT0cxZTkydXZxd19VMExNRWtob1NVQ0c0dFdxdlhSalFmQlc0bTg?oc=5",
      "forceLang": "en",
-     "type": "LIVE",
-     "time": "2026-11-05T16:52:51Z",
+     "type": null,
+     "time": "2026-11-05T21:10:12Z",
      "countries": [
-      "Iran"
+      "Saudi Arabia",
+      "Yemen"
      ]
     },
     {
-     "id": "dammam-4",
+     "id": "dammam-5",
      "country": null,
      "label": "DAMMAM",
      "lat": 26.43,
@@ -2254,34 +2292,6 @@
      "type": null,
      "time": "2026-11-05T20:25:06Z",
      "countries": [
-      "Yemen",
-      "Saudi Arabia"
-     ]
-    },
-    {
-     "id": "dammam-5",
-     "country": null,
-     "label": "DAMMAM",
-     "lat": 26.43,
-     "lon": 50.1,
-     "flag": "🇸🇦",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Footage of Iranian attack misrepresented as Houthi strikes on Saudi airport",
-     "summary": "Footage of Iranian attack misrepresented as Houthi strikes on Saudi airport",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Footage of Iranian attack misrepresented as Houthi strikes on Saudi airport."
-      }
-     ],
-     "source": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEU2N2NqeXRWdlBJLW80NVh3UjlDWVdWamZhMk9Icnl2em9iX2Z0QjhKcmFjeHJGVFU1THZaemhYUmZWbV9ycFgydVZLcFFaXzhRRWpEZ2VFLXN0YjR2YmlIbEp6OGdCQlNGa0pkeGNTNGpRWlBhNFE4VG5QZW9rYWwxREdpeExxZDFkSm5sdXJjTlZaUnc?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T07:46:57Z",
-     "countries": [
-      "Iran",
       "Yemen",
       "Saudi Arabia"
      ]
@@ -2328,6 +2338,32 @@
      "lat": 25.29,
      "lon": 51.53,
      "flag": "🇶🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "ZAWYA: Qatar: Real estate trading volume exceeds $157mlnn in one week",
+     "summary": "ZAWYA: Qatar: Real estate trading volume exceeds $157mlnn in one week",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "ZAWYA: Qatar: Real estate trading volume exceeds $157mlnn in one week."
+      }
+     ],
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZGJ1XzhpZTZTNjJNeTZwcEJwZXJGRXJvWVNaZXJ3ZHZDaDhyQW8tWFNJenFhQzRYY3pUX2RDX0dEVVV3RmRYZU5IYmFjT1EtY1dvakFfVTBoalVSWEVKeGFNOUFULTBQX0t2a1BJUVZvMXYyWnZ3X1dhSloyazJMbFJ3al9BNF9oUU9PN0Y4WEVCYzVrcHh3Y3ZXcGpodFZSR2loa0d0NXhFT2FLM3JtWEEyRXhodUl3cmpEdkhCaTIyS3pWUnhWX0gtbWxLV0ViQ01wSUQyb1pIUQ?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T08:50:41Z",
+     "countries": [
+      "Qatar"
+     ]
+    },
+    {
+     "id": "doha-2",
+     "country": null,
+     "label": "DOHA",
+     "lat": 25.29,
+     "lon": 51.53,
+     "flag": "🇶🇦",
      "severity": "markets",
      "category": "Local",
      "headline": "Arab Airlines Forecast Quick Recovery If Peace In Region Is Restored",
@@ -2346,7 +2382,7 @@
      "countries": []
     },
     {
-     "id": "doha-2",
+     "id": "doha-3",
      "country": null,
      "label": "DOHA",
      "lat": 25.29,
@@ -2354,52 +2390,53 @@
      "flag": "🇶🇦",
      "severity": "info",
      "category": "Local",
-     "headline": "The Doha Trap: How Iran Is Using Hormuz to Extort the West",
-     "summary": "The Doha Trap: How Iran Is Using Hormuz to Extort the West",
+     "headline": "Trump, Qatar’s emir discuss efforts to reach deal ending regional crisis",
+     "summary": "Trump, Qatar’s emir discuss efforts to reach deal ending regional crisis",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "The Doha Trap: How Iran Is Using Hormuz to Extort the West."
+       "text": "Trump, Qatar’s emir discuss efforts to reach deal ending regional crisis."
       }
      ],
-     "source": "Middle East Forum",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXRuc09fXzhZdmRDS2JVcEpRaTJLOWRTMVZ6MFkwUHV5MjlvbG1yejJFX0FZR1BDbkk2Q2R4dU9ZVkVxRHUwdkp2WlpqZ2R5V0VQU0xYV0ltYlNINFJQOUdYZGRKdHUzREVMTUZvZjMxaXpnell2STIxZ0RzY0hPQ01CV0lveUsybTRoMU9vX1ZlZVZJM05z?oc=5",
+     "source": "The Times of Israel",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0R1dWMxakJRT3NwYlBiTkJkRGxBalpqQnVhd3pJS210bUZJM3dOY2ZzTWo3a0ctbG03NEtnQWVSUVI4TVhfamdURFhEbFRhNERvd0Z4dEplNGhJbW9ybzd6RkF1aTJZcG5DSnRwdVU5Vk40c29yd3pJRVZiWXE4a25WbTU1Y0VhU09ScklXUWRNNS05RkJ6dW8ybmJYaERsR0h2bzVaNEE2M21aTWZmcF9BRHo4dWM?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T21:04:30Z",
+     "time": "2026-11-06T08:06:18Z",
      "countries": [
-      "Qatar",
-      "Iran"
-     ]
-    },
-    {
-     "id": "doha-3",
-     "country": null,
-     "label": "DOHA",
-     "lat": 25.29,
-     "lon": 51.53,
-     "flag": "🇶🇦",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "One Seafarer Reported Killed in Strike on a Tanker off Qatar",
-     "summary": "One Seafarer Reported Killed in Strike on a Tanker off Qatar",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "One Seafarer Reported Killed in Strike on a Tanker off Qatar."
-      }
-     ],
-     "source": "The Maritime Executive",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWnVsSEV1R2g1QjVKYnhWWWY3eEdDM1lSbTY4TFc0SFZmVjhCWnk4NmVVb2ZRMTYxcUIyNl92UFJ2RGtYMjNuMGVjeXB6WnBORWhqS0kxQThoYlBRTjZsSEROOWVNZnR1ZmtEYXIxVHUyeFU4c0w3Uks3aTFpOHlwWVUtRDgxNDBPNXJxSk02b0Vpck80dmJEamFEMGZkYWpf?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T00:31:08Z",
-     "countries": [
+      "United States of America",
       "Qatar"
      ]
     },
     {
      "id": "doha-4",
+     "country": null,
+     "label": "DOHA",
+     "lat": 25.29,
+     "lon": 51.53,
+     "flag": "🇶🇦",
+     "severity": "info",
+     "category": "Local",
+     "headline": "How Qatar Pays to Get Its Message Into the American Media",
+     "summary": "How Qatar Pays to Get Its Message Into the American Media",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "How Qatar Pays to Get Its Message Into the American Media."
+      }
+     ],
+     "source": "Algemeiner.com",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEdDSXNMTDFSWmk3RExoRjBfTnZ5bDF2V1AwaXhWY05XeWJ4WV9uek1haWZKSzVkUkJvZ21vY3pxYjBjS3RmRGJwdlhBam5zT1JmQ3AxNDdwWGtEclAyd0tKa3BXRlFBT09jUUM2OEVmOGc0S2xNdG9Ga0Q2X3J6VnJySVBTaEE?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T17:10:00Z",
+     "countries": [
+      "Qatar",
+      "United States of America"
+     ]
+    },
+    {
+     "id": "doha-5",
      "country": null,
      "label": "DOHA",
      "lat": 25.29,
@@ -2419,35 +2456,8 @@
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHFzVkRFaHZ4MHdHeWVQRFNsdld5OWJWaHJGbDhlNHBMZDMyTnBXcTcydkRLSGFfTHF1Tmh4Q1UxcmMxZDdUQ0FDLXg2V2xCU1c1U1RrTGY0bUI0cEZhckFDSW5PbHAwa2g2eVB2azVfVGRGZm5aaC1qOUlvUjBJVkhXeGhfamVWQU5UM0JWTHkwd0tDWGhqMWVmUVJDXzBfTzFpUmZ2Tlh1ZDREM01DM2p3?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-06T01:06:34Z",
+     "time": "2026-11-06T05:42:39Z",
      "countries": [
-      "Qatar"
-     ]
-    },
-    {
-     "id": "doha-5",
-     "country": null,
-     "label": "DOHA",
-     "lat": 25.29,
-     "lon": 51.53,
-     "flag": "🇶🇦",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Talent and ambition: Spain's 20-man squad for the U17 World Cup in Qatar",
-     "summary": "Talent and ambition: Spain's 20-man squad for the U17 World Cup in Qatar",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Talent and ambition: Spain's 20-man squad for the U17 World Cup in Qatar."
-      }
-     ],
-     "source": "Yahoo Sports",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdTlkRG9mM28xa25HWUZJZ2dtRTdIeVFTS2JlUV81MDBNRmdEMVg1ZFlheVh2SDNuV2NsdlpTOG5yaDlNakxqaGNWM0hxUkJoYVNHR1poZjdJbVZTaTVNZlVhUGJnLXBlUk41Zkh6T1RURGR2MlhuR0ttOUlJYm5FbDJ5YS0?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T15:17:00Z",
-     "countries": [
-      "Spain",
       "Qatar"
      ]
     }
@@ -2492,27 +2502,53 @@
      "lat": 23.59,
      "lon": 58.41,
      "flag": "🇴🇲",
-     "severity": "markets",
+     "severity": "info",
      "category": "Local",
-     "headline": "Muscat Stock Exchange and IDX Launch Digital Investor Communications Benchmarking Initiative for Listed Companies",
-     "summary": "Muscat Stock Exchange and IDX Launch Digital Investor Communications Benchmarking Initiative for Listed Companies",
+     "headline": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
+     "summary": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Muscat Stock Exchange and IDX Launch Digital Investor Communications Benchmarking Initiative for Listed Companies."
+       "text": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels."
       }
      ],
-     "source": "Yahoo Finance",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVWFGaFhCa0d3aU9LcWJnSTZaRTd1SmhNa1pxNjFZM2pnODJUaHZRcWszTEktRFZhTGZJTXhBSEw3bzVZTVEtQUF0VEZfTlZFMlVEYngyR1NjUUhBbXpCMHJULWZrbFMwMVVWbUtnUUkteUdwNEx3Ukl5OEU1NC1fSjhyWlZPVjc0T21zaTM4UEtNWlFlR1RhZnlYaVFkQQ?oc=5",
+     "source": "Skift",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkRoV2w0MjltSTJla2VYbDRTNjEzUW5Mbko0ajNtM3hJbUlNbU9WZmxDSXNjWFNyRTNEWHFOaUhzNms0OW8tbjJ2eGUzRHVKOG94VERuempwbWF1bjgyT2VoZVowUnJDUW9jeWwxc3dtZXloSFRKcGdCd09QNmpiY0RaMl9RdDdYa3cxV1d4QVRLbVF1V0JETUxuMzBFVHdI?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T06:00:00Z",
+     "time": "2026-11-04T10:52:51Z",
      "countries": [
       "Oman"
      ]
     },
     {
      "id": "muscat-2",
+     "country": null,
+     "label": "MUSCAT",
+     "lat": 23.59,
+     "lon": 58.41,
+     "flag": "🇴🇲",
+     "severity": "watch",
+     "category": "Local",
+     "headline": "Oman Air boosts Amsterdam flights to daily",
+     "summary": "Oman Air boosts Amsterdam flights to daily",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Oman Air boosts Amsterdam flights to daily."
+      }
+     ],
+     "source": "Travel Daily Media",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0p2OHVFVkM4SngtNF8zNHdZWDVQdTNPWnN1Sm9aNU5WVDN5U09JaU5YOGZHM29DendWM1Z1T2Nncm1FZG1qSFc3Vi14NzkyVlhtdGxHOGtiUkg4UFpFdm0xTWRMRGJiLVdraXllSVJlTThVX3Z5OXg2UndkN1JhUkhB?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T23:03:18Z",
+     "countries": [
+      "Oman"
+     ]
+    },
+    {
+     "id": "muscat-3",
      "country": null,
      "label": "MUSCAT",
      "lat": 23.59,
@@ -2538,7 +2574,7 @@
      ]
     },
     {
-     "id": "muscat-3",
+     "id": "muscat-4",
      "country": null,
      "label": "MUSCAT",
      "lat": 23.59,
@@ -2546,47 +2582,22 @@
      "flag": "🇴🇲",
      "severity": "info",
      "category": "Local",
-     "headline": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
-     "summary": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels",
+     "headline": "Oman, Iran seek \"resuming navigation\" through Hormuz \"without obstacles\" amid regional tensions",
+     "summary": "Oman, Iran seek \"resuming navigation\" through Hormuz \"without obstacles\" amid regional tensions",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Regional Visitors Keep Oman’s Arrivals Steady but Can’t Fill Its Hotels."
+       "text": "Oman, Iran seek \"resuming navigation\" through Hormuz \"without obstacles\" amid regional tensions."
       }
      ],
-     "source": "Skift",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkRoV2w0MjltSTJla2VYbDRTNjEzUW5Mbko0ajNtM3hJbUlNbU9WZmxDSXNjWFNyRTNEWHFOaUhzNms0OW8tbjJ2eGUzRHVKOG94VERuempwbWF1bjgyT2VoZVowUnJDUW9jeWwxc3dtZXloSFRKcGdCd09QNmpiY0RaMl9RdDdYa3cxV1d4QVRLbVF1V0JETUxuMzBFVHdI?oc=5",
+     "source": "Rising Kashmir",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWkpCNlVScmw5NWZxM0tuVTZtMWZuUVo1MVR1c1Rwa25tdkV5Q2hyeVNGN1BDTS1ydTM3alpzbFlTR2xkZm1ZRU9scDFVZlE4enYwZVc4WW9vWFJfYjdtaXpIZC03RmVQbmg4b0c3TkZwaC04bjEyM05jMUloNG5FUmNfVzg3eTFCRHp2THRfTnVaZTU4MTV6eFNDOS1Hb2tmTS1jbHExRmxTclpZcHVBZm5KYkVmaDhNZzZ3MDlWMEZvb3BQZnZKdS1kbw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T10:52:51Z",
+     "time": "2026-11-05T17:04:51Z",
      "countries": [
-      "Oman"
-     ]
-    },
-    {
-     "id": "muscat-4",
-     "country": null,
-     "label": "MUSCAT",
-     "lat": 23.59,
-     "lon": 58.41,
-     "flag": "🇴🇲",
-     "severity": "watch",
-     "category": "Local",
-     "headline": "Oman Air boosts Amsterdam flights to daily",
-     "summary": "Oman Air boosts Amsterdam flights to daily",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Oman Air boosts Amsterdam flights to daily."
-      }
-     ],
-     "source": "Travel Daily Media",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0p2OHVFVkM4SngtNF8zNHdZWDVQdTNPWnN1Sm9aNU5WVDN5U09JaU5YOGZHM29DendWM1Z1T2Nncm1FZG1qSFc3Vi14NzkyVlhtdGxHOGtiUkg4UFpFdm0xTWRMRGJiLVdraXllSVJlTThVX3Z5OXg2UndkN1JhUkhB?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T23:03:18Z",
-     "countries": [
-      "Oman"
+      "Oman",
+      "Iran"
      ]
     },
     {
@@ -2633,6 +2644,59 @@
      "flag": "🇰🇼",
      "severity": "info",
      "category": "Local",
+     "headline": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "summary": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region."
+      }
+     ],
+     "source": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpzSzZVQWdGOXJhV2NGZml0d0xRX0tSTXdQZXV4SVRxOXlHQ25FdWVhS3BVekhXWGRWcTdSa0E5NjNjSUNfMkZraXkyMURPYUZXZWZCZ01HM294a096UGRYU2NDUlBVUGNHZXN2ZnpMY2xzekdxWVlhck9kdnduamlHZ1M5TWNEQW5IR0VqNHd6MnRVQ0FtS3ZPZ2hzY05KVE9ZbUZxOFdROVBDTDcyel9PMUFPc0ZPNU1fVmsxMA?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T04:07:35Z",
+     "countries": [
+      "Yemen",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "kuwait-1",
+     "country": null,
+     "label": "KUWAIT CITY",
+     "lat": 29.37,
+     "lon": 47.98,
+     "flag": "🇰🇼",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
+     "summary": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Man Group Found Liable by Judge for ‘Breathtaking’ Kuwaiti Bribery."
+      }
+     ],
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2tUcFJMdjNORHlFTFFUZWdWcG1FdnVObWdOWmdPM3dkbXFDZVoyZ3VnenRPaG9tWk5kS2tmZThfbEEtNXpCRE9odnNoNXZWdlJmZVoyQlBTWmVPejdidFBwS0xWTE1LVFUwU0lNbGJJdjhaTC1DbGFNTmMwaVA3SFJXVXdhMEl5Z2xmU0h1RzJqbWxqTzBpajFmenhtb2diTC1MWko2RTRjODBpUC1RdlZ6TmRKZw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T09:30:14Z",
+     "countries": [
+      "Kuwait"
+     ]
+    },
+    {
+     "id": "kuwait-2",
+     "country": null,
+     "label": "KUWAIT CITY",
+     "lat": 29.37,
+     "lon": 47.98,
+     "flag": "🇰🇼",
+     "severity": "info",
+     "category": "Local",
      "headline": "Kuwait Fund's Whistleblowing Ex-CEO Loses Immunity Appeal",
      "summary": "Kuwait Fund's Whistleblowing Ex-CEO Loses Immunity Appeal",
      "lines": [
@@ -2651,7 +2715,7 @@
      ]
     },
     {
-     "id": "kuwait-1",
+     "id": "kuwait-3",
      "country": null,
      "label": "KUWAIT CITY",
      "lat": 29.37,
@@ -2677,61 +2741,6 @@
      ]
     },
     {
-     "id": "kuwait-2",
-     "country": null,
-     "label": "KUWAIT CITY",
-     "lat": 29.37,
-     "lon": 47.98,
-     "flag": "🇰🇼",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Kuwait Condemns Houthi Missile Attempt Targeting Madinah, Reaffirms Support for Saudi Arabia - Fana News -",
-     "summary": "Kuwait Condemns Houthi Missile Attempt Targeting Madinah, Reaffirms Support for Saudi Arabia - Fana News -",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Kuwait Condemns Houthi Missile Attempt Targeting Madinah, Reaffirms Support for Saudi Arabia - Fana News -."
-      }
-     ],
-     "source": "Fana News -",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVVIZEMySnhvVENGRUVsSWE2MXVaMW9WeWNvbC15UVI2N0FyMGZKVkJuaHMxcHVEVDE1amh6eXFSOHlSbzhFTGRWZzcybXJya2JnQ0ZIbWNKZ0JmOUxNd2Zncm5JRVVlTkZWOXIwQ0JQNl80TzJOVDR5c0lxUTJYRUdrQXZ1bmtILXItZ291YmFfbktkeHRSU2hnVFo1SDExOUkyZ3dDZVpXdkxpWElxUzF6NEhmVER3VU5UQUpiU1BQd1NVYndoTw?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T21:53:11Z",
-     "countries": [
-      "Kuwait",
-      "Yemen",
-      "Saudi Arabia"
-     ]
-    },
-    {
-     "id": "kuwait-3",
-     "country": null,
-     "label": "KUWAIT CITY",
-     "lat": 29.37,
-     "lon": 47.98,
-     "flag": "🇰🇼",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Kuwait pension fund wins UK lawsuit to recoup money 'stolen' by late director",
-     "summary": "Kuwait pension fund wins UK lawsuit to recoup money 'stolen' by late director",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Kuwait pension fund wins UK lawsuit to recoup money 'stolen' by late director."
-      }
-     ],
-     "source": "TradingView",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRVB0UFQ2M28zbWNnWVE0b205STlFOVFQOS1pamxGRFZWQlFETFROOF9Za3F3U3F0Z2ZJMnBoMkR3Ykw1VkJ0Q21BNEZ4WGROeTVWQURhN00tMnhvMUFoN1l3MEp5ME9BZG1BN2lmeXo2QjJTVGRRc3p4UXZpYnhpQkZxRUtDUzg5WjBuNXpEaVRPNDZOSmdnRlJ5QXBSM1lCd0ZPUzJBMkZSV2pLb2VSbUsxWnZVeGE2TF9kamdOWXhWWVhoeDJRNjZYdXMtM3BBQVd4bHNoYUQxUjhMX0E?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T16:59:39Z",
-     "countries": [
-      "Kuwait",
-      "United Kingdom"
-     ]
-    },
-    {
      "id": "kuwait-4",
      "country": null,
      "label": "KUWAIT CITY",
@@ -2740,20 +2749,22 @@
      "flag": "🇰🇼",
      "severity": "info",
      "category": "Local",
-     "headline": "15th Match, ICC Cricket World Cup Qualifier Play-off at Kirtipur, Dec 13 2026",
-     "summary": "15th Match, ICC Cricket World Cup Qualifier Play-off at Kirtipur, Dec 13 2026",
+     "headline": "federal-cabinet-approves-kp-governor-powers-transfer-kuwait-defense-deal-2026 Archives",
+     "summary": "federal-cabinet-approves-kp-governor-powers-transfer-kuwait-defense-deal-2026 Archives",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "15th Match, ICC Cricket World Cup Qualifier Play-off at Kirtipur, Dec 13 2026."
+       "text": "federal-cabinet-approves-kp-governor-powers-transfer-kuwait-defense-deal-2026 Archives."
       }
      ],
-     "source": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMlY3eHZCbDl0ckYwaTJ2bjM1MU9LWWRZNlo5b1FKcE0xNnhXZHRJemYxaHpkajNHanY5NGl6dzB1aHdhSms2UWx5aDlkdEMwdDZwV2l4OFQ5NExIYTNvT3pDZDBiQXo0TVFoakplUG9FWGloTUQ5a2JRdFZVNWstNl9UWVUtM3ZRZ1ROWFhNZXJpa3U3eHE2TlFMRFVHcl9fejBaeHBYSUJ4QXVBRk52UWZSWU1UTnIyOE5qMXpWU3ZXQzdNZUhrNUVsSFJidw?oc=5",
+     "source": "TV ONE USA",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNlRVRUcxR1RIUUZOUnBZb1h1RTh6ZmRJZFZaQmJjZW5SaEVMSnlHMUtZT1VST2ZtczNYMHBkNDc0SXlKR1A3TlZnRXFVN1lsQktmV09hOG5EQlhtbGFEMHRNb2VaMThKcnVnYnYzWEppSm5TN0g0NS1KX2Z2MUM4eFhIUlYxazJtRnlnWkpnNXU5UTB2TkY5QXNJM0FPX2dGTGtoandn?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T20:09:21Z",
-     "countries": []
+     "time": "2026-11-06T07:16:35Z",
+     "countries": [
+      "Kuwait"
+     ]
     },
     {
      "id": "kuwait-5",
@@ -2762,21 +2773,21 @@
      "lat": 29.37,
      "lon": 47.98,
      "flag": "🇰🇼",
-     "severity": "watch",
+     "severity": "info",
      "category": "Local",
-     "headline": "Kuwait’s AWAKEN Hearth Summit puts people at the heart of sustainability",
-     "summary": "Kuwait’s AWAKEN Hearth Summit puts people at the heart of sustainability",
+     "headline": "5th Digital Transformation Kuwait",
+     "summary": "5th Digital Transformation Kuwait",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Kuwait’s AWAKEN Hearth Summit puts people at the heart of sustainability."
+       "text": "5th Digital Transformation Kuwait."
       }
      ],
-     "source": "Green Prophet",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnBjTk1ObTJMTExLemtEQTdGVy16X01VVTR5RWRnOTZENDFVTVZXOHRveHNWaDdHdWhpUXNJUHNhT0RMR05mb0pfUm1ZQ2xuclVQZTlLLXc5bG9uNFR5aUNUanV0am9zeWtJelB0QlgyR1QzcE5neVhfOUNycXpDbHNQVTczQWpucjVZNkFqdWZRei10ODVudmtqYXNvVkstV3VkMjM5MmdmRlV5b2VN?oc=5",
+     "source": "Biometric Update",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsS2JOa1V1WlAtNjBBQ3FEOWdCT2ZSeGxXVDRWX3ZBMjhiVFlfLUJHWWFIYzVmMnV4djFuRkdjeURkSU9MbDVGVUNIMUpJRTZodXMtTHBUVUNHbkhnWG1zNGF0eXJEdjA0dzhuLUxSNElWY19YRThFZlBVOHA?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T10:54:02Z",
+     "time": "2026-11-05T21:58:00Z",
      "countries": [
       "Kuwait"
      ]
@@ -2791,6 +2802,33 @@
    "stories": [
     {
      "id": "manama-0",
+     "country": null,
+     "label": "MANAMA",
+     "lat": 26.23,
+     "lon": 50.59,
+     "flag": "🇧🇭",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "summary": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Arab countries condemn Houthi attempt to target Saudi Arabia’s Madinah region."
+      }
+     ],
+     "source": "Anadolu Ajansı",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWpzSzZVQWdGOXJhV2NGZml0d0xRX0tSTXdQZXV4SVRxOXlHQ25FdWVhS3BVekhXWGRWcTdSa0E5NjNjSUNfMkZraXkyMURPYUZXZWZCZ01HM294a096UGRYU2NDUlBVUGNHZXN2ZnpMY2xzekdxWVlhck9kdnduamlHZ1M5TWNEQW5IR0VqNHd6MnRVQ0FtS3ZPZ2hzY05KVE9ZbUZxOFdROVBDTDcyel9PMUFPc0ZPNU1fVmsxMA?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T04:07:35Z",
+     "countries": [
+      "Yemen",
+      "Saudi Arabia"
+     ]
+    },
+    {
+     "id": "manama-1",
      "country": null,
      "label": "MANAMA",
      "lat": 26.23,
@@ -2816,7 +2854,7 @@
      ]
     },
     {
-     "id": "manama-1",
+     "id": "manama-2",
      "country": null,
      "label": "MANAMA",
      "lat": 26.23,
@@ -2824,25 +2862,25 @@
      "flag": "🇧🇭",
      "severity": "info",
      "category": "Local",
-     "headline": "Exhibition World Bahrain, Comexposium Middle East Sign Letter of Intent - News and Statistics",
-     "summary": "Exhibition World Bahrain, Comexposium Middle East Sign Letter of Intent - News and Statistics",
+     "headline": "Second quarter lifts Boomers past Bahrain",
+     "summary": "Second quarter lifts Boomers past Bahrain",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Exhibition World Bahrain, Comexposium Middle East Sign Letter of Intent - News and Statistics."
+       "text": "Second quarter lifts Boomers past Bahrain."
       }
      ],
-     "source": "IndexBox",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHZlOXoyTUY5LUwxMnM0ZFNSalFkYnkyV015NzdQNk40bzlidTdOeTZsaU85ZVdZeGF2LWE1X2NDd3ZCNGtJczdnQncyODRtbEZyaWJRQ0F4dEpFZWl5Z3FJeW1MMGVZWDVLalJVV1RVZWVQSHJDV2s3ZkpVZ1dPTmdxVVhTZE5qN0R1T05tZFJYWTVwMXRaMnZNWk5WTEQ4MWFPUEdtLTBCQQ?oc=5",
+     "source": "Adelaide 36ers",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcXB6TGZmWm1xVmRlTDdlamI4RDhrVUg3YTBRXzNKSUVlTTk0MVIxNjFNRXR1dXBnMHAxSXFLWE8zWnRHQjJhcVAySHBfZ01hUXhhcFhzUURkYlpSRUNLM3dpaUVKdmZYYVBmaUFhTERDcFNmNjU2a3VxMGNKM2Vnc1dXTVBJYzZDckQxYW05NXJhWkpGMEln?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T13:01:24Z",
+     "time": "2026-11-05T21:45:14Z",
      "countries": [
       "Bahrain"
      ]
     },
     {
-     "id": "manama-2",
+     "id": "manama-3",
      "country": null,
      "label": "MANAMA",
      "lat": 26.23,
@@ -2865,33 +2903,6 @@
      "time": "2026-11-05T16:25:57Z",
      "countries": [
       "Bahrain"
-     ]
-    },
-    {
-     "id": "manama-3",
-     "country": null,
-     "label": "MANAMA",
-     "lat": 26.23,
-     "lon": 50.59,
-     "flag": "🇧🇭",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Most Gulf equities gain on easing Iran fears after US midterms, earnings",
-     "summary": "Most Gulf equities gain on easing Iran fears after US midterms, earnings",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Most Gulf equities gain on easing Iran fears after US midterms, earnings."
-      }
-     ],
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONU9LeEtUTmhGRlBsWWJYUFRDOU83akxfQ2lBMHl6MWpYUVRKSlp0WHF4bGZwQzdCNGNmYjF3bnoxRy1lb1ItZnI5LWh6YnRQS3pPamtjOE1UdW9TSUwxb0RoaGlkLXVLVHFMQnE1Y1hEdjRqcW5yd0t3T3ZqVmJKQXhzemlFQUd5aW90TmRodDlkNlpsa0xuc0U3N2hCYTVwWlFpNEtobVZfeHpj?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T13:35:58Z",
-     "countries": [
-      "Iran",
-      "United States of America"
      ]
     },
     {
@@ -2929,22 +2940,20 @@
      "flag": "🇧🇭",
      "severity": "info",
      "category": "Local",
-     "headline": "Bahrain Health Insurance Program for Residents Now in Effect",
-     "summary": "Bahrain Health Insurance Program for Residents Now in Effect",
+     "headline": "Air quality in Aurad",
+     "summary": "Air quality in Aurad",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Bahrain Health Insurance Program for Residents Now in Effect."
+       "text": "Air quality in Aurad."
       }
      ],
-     "source": "Erickson Immigration Group",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE1hZm5EWE5Bb2hrSjFqdFBQQ0NwVGVaWDlyaWdKQk8tZ0hhbmpVVjFmcFk2c3hLZ2F0N0lseW9TcEE5RVpkd2tHUzdGTk1LVG9iZ2pyNjF3QVFGR0tlb0ExU200Qm85WmdjRHFNb3RLbktTZURRb3U2MGRqVThZdEhmSUNveGc?oc=5",
+     "source": "IQAir",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2dlNxbjZLWVB4WFJKNnJIMHNHRjRUc0Q5bmxVNllhckY1b1RfUmdVeFdjR3hPQ0g5NUtKOXAxUFlfdnY4cVM5TjZDWHhkVW9saWRKYTdyOFlIRnY2SE5TSGlOeWlURVU1aWc?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T20:56:19Z",
-     "countries": [
-      "Bahrain"
-     ]
+     "time": "2026-11-05T19:41:32Z",
+     "countries": []
     }
    ]
   },
@@ -2956,6 +2965,34 @@
    "stories": [
     {
      "id": "baghdad-0",
+     "country": null,
+     "label": "BAGHDAD",
+     "lat": 33.31,
+     "lon": 44.36,
+     "flag": "🇮🇶",
+     "severity": "critical",
+     "category": "Local",
+     "headline": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+     "summary": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran."
+      }
+     ],
+     "source": "Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnVfME83OVozQ0xVaFhEaUU4bG9yRWZBTmNVbHNVRXJLOS1hWFZBdnM4WWpiZTc5bG9aZ3pQcVJuLW85bGx0QWJvSU45bUpZaTdQWWp4cXc0OG8wb242SGdSSEk0VlMzSHlxdjFUbldDZnAzcHpISi1RdUZyNHpPNjZCQmNIdnZJdFFwM1hzTDNLcGNxVk81a3E5SUdlREtoQnhpNU5KNDFEdVdqenVfVWNMVkHSAboBQVVfeXFMTUZFb1JmYk45YmttZGZYSG9CTmpYd19CN2tSTlhaR3ROV3h2dk53bU1Ud3lzbzFtb2FZRkJVX256VkNlam1CanZjVFk0TmVEaGk5NFYtblo1UnBNUDN0TkR6cnFxV2hmUUlJRVJkOFVqRlhiekpkTmxxdkIxVFE5b0VyOWxvZ05sM1N6c05iUEQ4VndkSm1qWXVYZk9GVDZzYzNzVVF3VmliUFgzTF9kb053c2UySHZnU2Jn?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T05:17:40Z",
+     "countries": [
+      "Iraq",
+      "United States of America",
+      "Iran"
+     ]
+    },
+    {
+     "id": "baghdad-1",
      "country": null,
      "label": "BAGHDAD",
      "lat": 33.31,
@@ -2982,7 +3019,7 @@
      ]
     },
     {
-     "id": "baghdad-1",
+     "id": "baghdad-2",
      "country": null,
      "label": "BAGHDAD",
      "lat": 33.31,
@@ -3009,7 +3046,7 @@
      ]
     },
     {
-     "id": "baghdad-2",
+     "id": "baghdad-3",
      "country": null,
      "label": "BAGHDAD",
      "lat": 33.31,
@@ -3036,7 +3073,7 @@
      ]
     },
     {
-     "id": "baghdad-3",
+     "id": "baghdad-4",
      "country": null,
      "label": "BAGHDAD",
      "lat": 33.31,
@@ -3044,26 +3081,25 @@
      "flag": "🇮🇶",
      "severity": "info",
      "category": "Local",
-     "headline": "Exhibition as Living Archive: the 1950s Baghdad Modern Art Group in the UAE Today",
-     "summary": "Exhibition as Living Archive: the 1950s Baghdad Modern Art Group in the UAE Today",
+     "headline": "Shafaq News..Heavy rains cut Baghdad-Kirkuk road in Saladin",
+     "summary": "Shafaq News..Heavy rains cut Baghdad-Kirkuk road in Saladin",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Exhibition as Living Archive: the 1950s Baghdad Modern Art Group in the UAE Today."
+       "text": "Shafaq News..Heavy rains cut Baghdad-Kirkuk road in Saladin."
       }
      ],
-     "source": "ArtAsiaPacific",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcy0xdDZvSkVSLUdEN0Nlb2RwN2d2MzJ1bldrX05CWldfNWw0OGRiVjlYN0dtbEoyMWZnZ2pzTU1xZ3pCRWJadUJqb2JJaTdCNUZBVW92LUNOMkMyZkZzUFhoZU9ZTnlzUzJKVjBiOVEzUDMzSFNMVlBCTEZUanVfNDU2UU9EUDZjS29PM0pybHFoOXB1Q3paWEFCT2hXeHQ2NWVJRGswU1dxWWtZWUlDTlQ1NEdvdGxtQWlmcnh6SjVrYXM?oc=5",
+     "source": "شفق نيوز",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdzhtSURYaEtMOGdPTjdmOTRQYVJrN19zVy16NTY3Z3lwc0h5WmwyNk1RM0p4QWFHd2ptb3FJMVRjTEphT1l4dmpTUzlMdkxiRExGZDd4U3YtU2dsWkp6ekZOUjBaSWRIclJtOVRES2VzTngwRzZvSWlhV3VOSDliOGRB?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T07:47:35Z",
+     "time": "2026-11-06T07:17:29Z",
      "countries": [
-      "Iraq",
-      "United Arab Emirates"
+      "Iraq"
      ]
     },
     {
-     "id": "baghdad-4",
+     "id": "baghdad-5",
      "country": null,
      "label": "BAGHDAD",
      "lat": 33.31,
@@ -3087,33 +3123,6 @@
      "countries": [
       "Iraq"
      ]
-    },
-    {
-     "id": "baghdad-5",
-     "country": null,
-     "label": "BAGHDAD",
-     "lat": 33.31,
-     "lon": 44.36,
-     "flag": "🇮🇶",
-     "severity": "markets",
-     "category": "Local",
-     "headline": "Shafaq News..US dollar edges up in Baghdad, Erbil",
-     "summary": "Shafaq News..US dollar edges up in Baghdad, Erbil",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Shafaq News..US dollar edges up in Baghdad, Erbil."
-      }
-     ],
-     "source": "شفق نيوز",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGQlc0aGduS3VMbF8xOUhMdlJrb2tRM1U4cjJVS3JIVGdHUVJwVVdkYy1VSmJkamdBb0hpUDFxT01aNUgwa3FoM3N6SGRLVHB2T3c3MlJ0cUlLTWJGektub003QTRQYzBYSDh2Z2lxdXZpeXVHT1E?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T13:34:17Z",
-     "countries": [
-      "United States of America",
-      "Iraq"
-     ]
     }
    ]
   },
@@ -3125,33 +3134,6 @@
    "stories": [
     {
      "id": "basra-0",
-     "country": null,
-     "label": "BASRA",
-     "lat": 30.51,
-     "lon": 47.81,
-     "flag": "🇮🇶",
-     "severity": "critical",
-     "category": "Local",
-     "headline": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say",
-     "summary": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say."
-      }
-     ],
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDVKUWNwVE9IVVdLZ2xLVW9qWGxrUW5GZ3FtRjZ6LTgzQWNfT0dXM3FzT3dsY05aNE4wWFRXLVVUckV6SUd5RUR3djlaeDlBVWlIVXhLTTRYY2ZmOUgwdFAxd0MzcXIwLXJvazlfc2kwSXpyQ1NMM1dOSkwxRnNUVlZBeW5CSFBWVlQwM3NSZENiWXFXXzJfTkVxSzVIUnl2VVFaME5hNkpfLXFiSnZsMVZHd0ZrVEJzN2oxRXVDX192WHFua2lna3lrUEg?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-04T07:56:00Z",
-     "countries": [
-      "Iran",
-      "Iraq"
-     ]
-    },
-    {
-     "id": "basra-1",
      "country": null,
      "label": "BASRA",
      "lat": 30.51,
@@ -3178,7 +3160,7 @@
      ]
     },
     {
-     "id": "basra-2",
+     "id": "basra-1",
      "country": null,
      "label": "BASRA",
      "lat": 30.51,
@@ -3198,14 +3180,14 @@
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakhSRzNMaDNfdElfak1sY3lJZkw3Z0dUUUdtRU1KZXpacHFhX3p3VkNPWmxQOXNpUTRaRUFkRlJ4bFlKVGtyVlY0SGxUaHpLeEJzUldFTTJBVUZSQzNtalNBR3dRSl9hbDI2NGhjYmZiNjQ2TU5WbEJ0cHlLNk5KaU1WcTZIMzlGcWxn?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T22:13:15Z",
+     "time": "2026-11-05T22:13:57Z",
      "countries": [
       "United States of America",
       "Iraq"
      ]
     },
     {
-     "id": "basra-3",
+     "id": "basra-2",
      "country": null,
      "label": "BASRA",
      "lat": 30.51,
@@ -3222,7 +3204,7 @@
       }
      ],
      "source": "Kurdistan24",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY3I2ZE9OYXJEVk5zUFRkeWNBYnRtXzJhZnlTaVkxSE1jc3g1ajJLa2VEQy00eU1uZFJkVkhMMnIxaE9rZi1kNFJpU1F1R0JyS3JabG5SeEZyUmZib00tUW1WZW9hZG45Z1A0Q3VSeWZSX3U3NXlHcTZJTWdGREVLTWh4Z2JDcm1KeDhQWHR6LUE4Qmh5OU44c0hkc1kyeFVsQUlKemNKT3JLX0NPYXo1V0lCZw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GVU45VWI4WEF5SDdRNGJPWTVUY0Z3MHFPbm9NRnhBMjZtSWU4ZXRfcmxxejVHdlI3Q3BPMzV3LThTdkRwMWdrQXliTU5TQ0V1WUtlTWZB?oc=5",
      "forceLang": "en",
      "type": null,
      "time": "2026-11-05T13:10:20Z",
@@ -3231,7 +3213,61 @@
      ]
     },
     {
+     "id": "basra-3",
+     "country": null,
+     "label": "BASRA",
+     "lat": 30.51,
+     "lon": 47.81,
+     "flag": "🇮🇶",
+     "severity": "critical",
+     "category": "Local",
+     "headline": "Erbil denounces recent Turkey attacks in Kurdistan Region",
+     "summary": "Erbil denounces recent Turkey attacks in Kurdistan Region",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Erbil denounces recent Turkey attacks in Kurdistan Region."
+      }
+     ],
+     "source": "کردپرس",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGthNElXOUFMbTNNaDRfa3J1NkxWQzZDSG82cC1CeVA2TGo2TlM1Vkdid1RiWVYwZW9GX3FpelJfWThTX2NwU21laDV4RkJkSE5CUXVNT08yTU5IcE9Ld3lpNUFPT1AxaXJRREhsV0VpUDlzYmlXWVBnRGhxcTNnU0NNdGRMRHJfeGFDSkhJRW91N1hTM3hTeWFzdHoyclE?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T15:39:45Z",
+     "countries": [
+      "Iraq",
+      "Turkey"
+     ]
+    },
+    {
      "id": "basra-4",
+     "country": null,
+     "label": "BASRA",
+     "lat": 30.51,
+     "lon": 47.81,
+     "flag": "🇮🇶",
+     "severity": "critical",
+     "category": "Local",
+     "headline": "Iran steps up attacks on Kurdish opposition groups in northern Iraq",
+     "summary": "Iran steps up attacks on Kurdish opposition groups in northern Iraq",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Iran steps up attacks on Kurdish opposition groups in northern Iraq."
+      }
+     ],
+     "source": "The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50V3JQZ21vRGJyQ2dOX21qTTczdVFuQ0pWU2pfcE1QMktDUEllY3Y4Y1p6c3I4M2NMWjVOWUk5cHFXTDNJTlVPT3RKcUs4Sm9ORHFucmlNNnlzVXNV?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-04T19:29:56Z",
+     "countries": [
+      "Iran",
+      "Iraq"
+     ]
+    },
+    {
+     "id": "basra-5",
      "country": null,
      "label": "BASRA",
      "lat": 30.51,
@@ -3254,32 +3290,6 @@
      "time": "2026-11-05T13:34:17Z",
      "countries": [
       "United States of America",
-      "Iraq"
-     ]
-    },
-    {
-     "id": "basra-5",
-     "country": null,
-     "label": "BASRA",
-     "lat": 30.51,
-     "lon": 47.81,
-     "flag": "🇮🇶",
-     "severity": "info",
-     "category": "Local",
-     "headline": "The Patriotic Union lost 50 percent of its seats in the Erbil constituency",
-     "summary": "The Patriotic Union lost 50 percent of its seats in the Erbil constituency",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "The Patriotic Union lost 50 percent of its seats in the Erbil constituency."
-      }
-     ],
-     "source": "کردپرس",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR3NianZSQlZNenpUZVR2VzQ5bTJhSDl0SmRsdGVITnJZclg2UzA5cVNCMm9OU2lkVGdoOVEwd1R1cEV1WkRVMzdNSFV1bFNKLVI3Qk9CdTZnYm5FTkpHbVNDZEJNZHdLYy1DbUphWHVtMlM1MDhWZ05la1NybGktRHpDbVQ4ekVqXzZoS3daeV81eFBGbnVPU2tnUDlmWU9kcTJKSW43NWVqQlkwenRZQlVIVmFYNDBqdjI1SHZxTDI4TWM?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T15:24:50Z",
-     "countries": [
       "Iraq"
      ]
     }
@@ -3353,19 +3363,19 @@
      "flag": "🇬🇪",
      "severity": "info",
      "category": "Local",
-     "headline": "Georgia accuses European Commission of interfering in its internal affairs",
-     "summary": "Georgia accuses European Commission of interfering in its internal affairs",
+     "headline": "2026 Record Awards Winner: Telegraph Hotel by Neri&Hu",
+     "summary": "2026 Record Awards Winner: Telegraph Hotel by Neri&Hu",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Georgia accuses European Commission of interfering in its internal affairs."
+       "text": "2026 Record Awards Winner: Telegraph Hotel by Neri&Hu."
       }
      ],
-     "source": "Latest news from Azerbaijan",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSENmR3B4LUd4c3RxREVlU25aMS1WWHdaQXhyeUZMYWVkd0tCQUpTTlF2VFhmOEpXUFhXT053RUpiVTRqS0lobTBqS1BxSVFyZHdVaC05N1EtZlY1b0VNMkNkakJTSjRVSHBpTWZabENjNWF4MEFkUHdRMk1zQzA5d0pmWmlhVkhLWmpXbzN4eGRkS0NQbUJybVJoaw?oc=5",
+     "source": "Architectural Record",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHBxSXJ3WjFWVWQ0bUQyeTVBWGJzX1JYak9jZXpvTE4yLVM3UE1sUUVmVkdMUlVrQWVxVmhvek1pYkpLWU55T0VxQnppQUY5aXgwN00zYnFZNXFrQVlyZVExdFBkbDcxRnZvcWhYWVMtX3NEN2tvZXNDTmM4RXJFTDJMd004aE1IT3RTU0tJUHZwbmdYaHN5N3NXTDB3cEo2ZGxaRlN6OFQxVm8?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T07:22:10Z",
+     "time": "2026-11-06T05:37:54Z",
      "countries": []
     },
     {
@@ -3377,51 +3387,25 @@
      "flag": "🇬🇪",
      "severity": "high",
      "category": "Local",
-     "headline": "Tbilisi Dog Burial Scandal Sparks Protests and Calls for Independent Investigation",
-     "summary": "Tbilisi Dog Burial Scandal Sparks Protests and Calls for Independent Investigation",
+     "headline": "Iranian ambassador’s ‘threats’ spark backlash in Georgia",
+     "summary": "Iranian ambassador’s ‘threats’ spark backlash in Georgia",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Tbilisi Dog Burial Scandal Sparks Protests and Calls for Independent Investigation."
+       "text": "Iranian ambassador’s ‘threats’ spark backlash in Georgia."
       }
      ],
-     "source": "Georgia Today",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0ZXbEV6UWI1TndTWWZTREpGRDVtV1VyVG5OVmkzVWJGTk1lYW5nNTRMT3ZreWZmNHFKS0kzSVNhUktONk1ObFdzbWFYNzEyTkExblFmSER0YVljS0lsQnJScHJ6cE0tTzR0NEhmOXdRcUg1ekt0RGhNU0RZS0drUHhmNlZYRHRYUzZVS1lQZHhVZ1c5bmJCUDZDT0J1Q3BXR1VoVHptem93Vnc?oc=5",
+     "source": "OC Media",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZVVYM1U3MnNRTE44T1ZtOXU1NTlwQlllU0k4SWYzVkdkVjY5eU5YRFFrSlVzcDVKNFdVM0l4QzMzTWFQMVdRZUNyNnZHemJzNmJnWER5dWg4TVNTQ3R4N05jcWcyYnlqSVlUTDdQS2JiSXBncGxWRUFQVTA2ZGg4NA?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T13:29:40Z",
+     "time": "2026-11-05T03:53:01Z",
      "countries": [
-      "Georgia"
+      "Iran"
      ]
     },
     {
      "id": "tbilisi-4",
-     "country": null,
-     "label": "TBILISI",
-     "lat": 41.72,
-     "lon": 44.79,
-     "flag": "🇬🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "The words of the mayor of Tbilisi about animal rights activists resulted in a complaint to the prosecutor's office.",
-     "summary": "The words of the mayor of Tbilisi about animal rights activists resulted in a complaint to the prosecutor's office.",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "The words of the mayor of Tbilisi about animal rights activists resulted in a complaint to the prosecutor's office.."
-      }
-     ],
-     "source": "Caucasian Knot",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMWhvc3Rfb2tzbVRjRlA0NktubjkwbDltSXVsZzB4UER3ZlZLNUN5bk1wODVWUzVxMnFKWUhJenNZdWhOd21xZGFhNHZjU29SVkhrOGdVM20?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T05:58:00Z",
-     "countries": [
-      "Georgia"
-     ]
-    },
-    {
-     "id": "tbilisi-5",
      "country": null,
      "label": "TBILISI",
      "lat": 41.72,
@@ -3442,6 +3426,32 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-04T13:00:46Z",
+     "countries": [
+      "Georgia"
+     ]
+    },
+    {
+     "id": "tbilisi-5",
+     "country": null,
+     "label": "TBILISI",
+     "lat": 41.72,
+     "lon": 44.79,
+     "flag": "🇬🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Fire Breaks Out at Opposition TV Channel’s Office in Georgia’s Tbilisi",
+     "summary": "Fire Breaks Out at Opposition TV Channel’s Office in Georgia’s Tbilisi",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Fire Breaks Out at Opposition TV Channel’s Office in Georgia’s Tbilisi."
+      }
+     ],
+     "source": "Caspian Post",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbk9CSWZjeWM0R1E5NkkwYnozWHZtUF9VY05WVjdDTkZwZWFQcC1WWU1VUDIwOWdTVlBQejBaVDloTTdjOFZaTjQ3dHZ4TFpPUVVzdWFndFRTSzI3NzlxZnBoQzZ5WEVIanRmVGE2MmY4Si1SS3F5aWwzYkJUSDQ3SnBKd1NOcFRZLU1BNEx0ODJoYkdhSHo3elJpT1dPaC1STTBqQg?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-04T14:02:54Z",
      "countries": [
       "Georgia"
      ]
@@ -3487,53 +3497,28 @@
      "lat": 41.3,
      "lon": 69.24,
      "flag": "🇺🇿",
-     "severity": "info",
+     "severity": "markets",
      "category": "Local",
-     "headline": "New Tashkent takes shape as a city for two million",
-     "summary": "New Tashkent takes shape as a city for two million",
+     "headline": "DUFT&DOFT Joins Ulta Beauty's US Marketplace and Heads to Beautyworld Tashkent",
+     "summary": "DUFT&DOFT Joins Ulta Beauty's US Marketplace and Heads to Beautyworld Tashkent",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "New Tashkent takes shape as a city for two million."
+       "text": "DUFT&DOFT Joins Ulta Beauty's US Marketplace and Heads to Beautyworld Tashkent."
       }
      ],
-     "source": "Euronews.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmRMYTZxNVlvX05mbXBPSDN3bk9SakpzODkxeURvUjcxdDgzSGVDdUhRWFlVZFZhWDMtaHB4TkJkNk85dGpaS21qZE5haVVMZHhTczJ4SWpPOFVDajRpLWNvT3ZRUllSZnV5aU1JVC01YmFxSDBFdnoxdkQ5Q2l2Z3pCU2ZRSWRZamdvRzZvU3dJai12czgwS2lRak9obHdzNkxIbDhR?oc=5",
+     "source": "EIN Presswire",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUZMMGdNMWtvempPS21Ib3pYQkdLdEYyUHF1aEw5Ukd1dkR2SU5pa0pBS0VsRVd4Y09sLU5NZTVfdVpKS0I3Y29kSlNfUlRDZ1hRRGRDdkQwdEVsazUxbzFfVzZxdFV0cE1UUWtCSk9wMjQ5UDFjUEF5NW5nLXIxZGhGV2xqOVR6MDRoWS1YR3oyQmlJenNIaG9CbXJPZ0luVXhmajVUMW82aUoxSTlEUk5uUnUyRWNheUFCU19DYTNtbGs?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T14:00:42Z",
+     "time": "2026-11-06T05:51:00Z",
      "countries": [
+      "United States of America",
       "Uzbekistan"
      ]
     },
     {
      "id": "tashkent-2",
-     "country": null,
-     "label": "TASHKENT",
-     "lat": 41.3,
-     "lon": 69.24,
-     "flag": "🇺🇿",
-     "severity": "watch",
-     "category": "Local",
-     "headline": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.",
-     "summary": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.."
-      }
-     ],
-     "source": "Yahoo",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3kzWEpxUmFiZ244OG92VFdtMDhwMC1PbE1LeUtEenJ5SGlFbUpnWXlFeEowSTZmMHVxcnZlUVcyWnBoTFFHOXkwZjZCeE1TNm1xd21nSmJGdkM0eVNHWlJDMWtMNFQ5cVJ0V1VQWWFJLUhpUkhZdW5RY1JvVURVREFqbWJ1ZFNJclVacGMyWjRoR2Uwa3c?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T18:01:33Z",
-     "countries": [
-      "Uzbekistan"
-     ]
-    },
-    {
-     "id": "tashkent-3",
      "country": null,
      "label": "TASHKENT",
      "lat": 41.3,
@@ -3559,7 +3544,7 @@
      ]
     },
     {
-     "id": "tashkent-4",
+     "id": "tashkent-3",
      "country": null,
      "label": "TASHKENT",
      "lat": 41.3,
@@ -3586,27 +3571,53 @@
      ]
     },
     {
+     "id": "tashkent-4",
+     "country": null,
+     "label": "TASHKENT",
+     "lat": 41.3,
+     "lon": 69.24,
+     "flag": "🇺🇿",
+     "severity": "watch",
+     "category": "Local",
+     "headline": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.",
+     "summary": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.."
+      }
+     ],
+     "source": "Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3kzWEpxUmFiZ244OG92VFdtMDhwMC1PbE1LeUtEenJ5SGlFbUpnWXlFeEowSTZmMHVxcnZlUVcyWnBoTFFHOXkwZjZCeE1TNm1xd21nSmJGdkM0eVNHWlJDMWtMNFQ5cVJ0V1VQWWFJLUhpUkhZdW5RY1JvVURVREFqbWJ1ZFNJclVacGMyWjRoR2Uwa3c?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T18:01:33Z",
+     "countries": [
+      "Uzbekistan"
+     ]
+    },
+    {
      "id": "tashkent-5",
      "country": null,
      "label": "TASHKENT",
      "lat": 41.3,
      "lon": 69.24,
      "flag": "🇺🇿",
-     "severity": "critical",
+     "severity": "info",
      "category": "Local",
-     "headline": "18 Dead in Suspected Carbon Monoxide Poisonings in Uzbekistan",
-     "summary": "18 Dead in Suspected Carbon Monoxide Poisonings in Uzbekistan",
+     "headline": "New Tashkent takes shape as a city for two million",
+     "summary": "New Tashkent takes shape as a city for two million",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "18 Dead in Suspected Carbon Monoxide Poisonings in Uzbekistan."
+       "text": "New Tashkent takes shape as a city for two million."
       }
      ],
-     "source": "The Times Of Central Asia",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBzRlZ0Y3BuWWdhY05xZGR5LTRSOGdSWjhpTFRLamFqLXk3cnhHU2RBa1U4YS1XMk11aHdNNjVXQWFkMFZIMFFJN0hEdWMtLXdGYVczMmYxRktFWnZsT0thYjdXWXVGUjVFeVdiQS0yWlVyYmFCZlQw?oc=5",
+     "source": "Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmRMYTZxNVlvX05mbXBPSDN3bk9SakpzODkxeURvUjcxdDgzSGVDdUhRWFlVZFZhWDMtaHB4TkJkNk85dGpaS21qZE5haVVMZHhTczJ4SWpPOFVDajRpLWNvT3ZRUllSZnV5aU1JVC01YmFxSDBFdnoxdkQ5Q2l2Z3pCU2ZRSWRZamdvRzZvU3dJai12czgwS2lRak9obHdzNkxIbDhR?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T13:48:59Z",
+     "time": "2026-11-05T14:00:42Z",
      "countries": [
       "Uzbekistan"
      ]
@@ -3621,6 +3632,32 @@
    "stories": [
     {
      "id": "dushanbe-0",
+     "country": null,
+     "label": "DUSHANBE",
+     "lat": 38.56,
+     "lon": 68.79,
+     "flag": "🇹🇯",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine",
+     "summary": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine."
+      }
+     ],
+     "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXJFaVE2LWE5N2RHV3BfRnNZeEREa1ZkNFVYMHRjelJoMUtrdXplTHFNa2ZBTEJpTjJyQjBEVUM0bVhsdHMwUTRUMmlNbGZxSzBzNjM3Z241U0hIZkxFcUc3VFdXUVBNUE9XbzBwZkdmSzQyNzhESHZ6aTdQd25HTEMyRHplUlpmM3ZxbDdVTV9Jb0h5MmY0YVV2enVaOGpveGNv?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T20:48:19Z",
+     "countries": [
+      "Uzbekistan"
+     ]
+    },
+    {
+     "id": "dushanbe-1",
      "country": null,
      "label": "DUSHANBE",
      "lat": 38.56,
@@ -3648,7 +3685,7 @@
      ]
     },
     {
-     "id": "dushanbe-1",
+     "id": "dushanbe-2",
      "country": null,
      "label": "DUSHANBE",
      "lat": 38.56,
@@ -3675,86 +3712,7 @@
      ]
     },
     {
-     "id": "dushanbe-2",
-     "country": null,
-     "label": "DUSHANBE",
-     "lat": 38.56,
-     "lon": 68.79,
-     "flag": "🇹🇯",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine",
-     "summary": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Rustam Emomali Awarded Order for ‘Selfless Service’ by Uzbek President - The Diplomat – Asia-Pacific Current Affairs Magazine."
-      }
-     ],
-     "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWXJFaVE2LWE5N2RHV3BfRnNZeEREa1ZkNFVYMHRjelJoMUtrdXplTHFNa2ZBTEJpTjJyQjBEVUM0bVhsdHMwUTRUMmlNbGZxSzBzNjM3Z241U0hIZkxFcUc3VFdXUVBNUE9XbzBwZkdmSzQyNzhESHZ6aTdQd25HTEMyRHplUlpmM3ZxbDdVTV9Jb0h5MmY0YVV2enVaOGpveGNv?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T20:48:19Z",
-     "countries": [
-      "Uzbekistan"
-     ]
-    },
-    {
      "id": "dushanbe-3",
-     "country": null,
-     "label": "DUSHANBE",
-     "lat": 38.56,
-     "lon": 68.79,
-     "flag": "🇹🇯",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Tajikistan bans wearing hijabs and Arab clothing - News - news of Orthodoxy - the Union of Orthodox Journalists",
-     "summary": "Tajikistan bans wearing hijabs and Arab clothing - News - news of Orthodoxy - the Union of Orthodox Journalists",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Tajikistan bans wearing hijabs and Arab clothing - News - news of Orthodoxy - the Union of Orthodox Journalists."
-      }
-     ],
-     "source": "СПЖ",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORzZLdnNfdFExcEtmN3p1U24yNWNOSVRqVXFIUjFYSUdSYWhsamZOZmtEOF9XVFJSN25ja1pWZ3ZvdVZ1TDRGNUptVnZsbnV5d1dheVFSUVJKeUFvbFNwYno1ajd5UnY0VFltZmlYYXdJZGltM1VfVEJ5SHpvQVBPZEVnRXg?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T09:09:22Z",
-     "countries": [
-      "Tajikistan"
-     ]
-    },
-    {
-     "id": "dushanbe-4",
-     "country": null,
-     "label": "DUSHANBE",
-     "lat": 38.56,
-     "lon": 68.79,
-     "flag": "🇹🇯",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan",
-     "summary": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan."
-      }
-     ],
-     "source": "United Nations Development Programme",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmlFZ2ZYMGxSZXJaVXJXaGwzY3BMZldwa1IzREZ4Q3RGZE1YUkFkX19wakNsZTJRSmFOTkpXMVBCUVdHS3RJMUdlR2tMX1M2RGFtdzh3LWhQcWZVYXhBc2dHVnpocTV1R2VVOWVmNDBsV2pxY1lNNVFKd1NadGJSRUsydnJxWDE1Szg5NEFqREQ1bGw4SGhPSThUVld4UXFxckxzUUd4bF80ZWw2SzZCZjNwQ0ZWU0gzblR2UEMzR3lEQjgwMWc?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T11:54:09Z",
-     "countries": [
-      "Japan",
-      "Tajikistan"
-     ]
-    },
-    {
-     "id": "dushanbe-5",
      "country": null,
      "label": "DUSHANBE",
      "lat": 38.56,
@@ -3777,6 +3735,60 @@
      "time": "2026-11-05T20:48:03Z",
      "countries": [
       "Kazakhstan",
+      "Tajikistan"
+     ]
+    },
+    {
+     "id": "dushanbe-4",
+     "country": null,
+     "label": "DUSHANBE",
+     "lat": 38.56,
+     "lon": 68.79,
+     "flag": "🇹🇯",
+     "severity": "info",
+     "category": "Local",
+     "headline": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
+     "summary": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "53rd Universal Periodic Review of human rights: UK Statement Tajikistan."
+      }
+     ],
+     "source": "GOV.UK",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRC1sN2xleDdyUms2Y2JjV0ttNWxOMHY1ZXlNUXRCck5JcnF1OEphS19OdVNkSUNJSm8xWV9YUG9JUWVYbGFfbmNDUExrSUwwUjZRRzJ0NjNJanBXaXhjZkQyU282cXdtZV93bjJEaHo5dFB0YUVsWDZHcVVwVWw3cFpyWTU2WnVjbmZpRmw3bkE5Vk56NlJ1TWtSQUNCWVVLeUxzVUQ3ZjY?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T09:21:54Z",
+     "countries": [
+      "United Kingdom",
+      "Tajikistan"
+     ]
+    },
+    {
+     "id": "dushanbe-5",
+     "country": null,
+     "label": "DUSHANBE",
+     "lat": 38.56,
+     "lon": 68.79,
+     "flag": "🇹🇯",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan",
+     "summary": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Japan and UNDP Support Strengthening Rescuer Training and Disaster Preparedness in Tajikistan."
+      }
+     ],
+     "source": "United Nations Development Programme",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmlFZ2ZYMGxSZXJaVXJXaGwzY3BMZldwa1IzREZ4Q3RGZE1YUkFkX19wakNsZTJRSmFOTkpXMVBCUVdHS3RJMUdlR2tMX1M2RGFtdzh3LWhQcWZVYXhBc2dHVnpocTV1R2VVOWVmNDBsV2pxY1lNNVFKd1NadGJSRUsydnJxWDE1Szg5NEFqREQ1bGw4SGhPSThUVld4UXFxckxzUUd4bF80ZWw2SzZCZjNwQ0ZWU0gzblR2UEMzR3lEQjgwMWc?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-05T11:54:09Z",
+     "countries": [
+      "Japan",
       "Tajikistan"
      ]
     }
@@ -3805,43 +3817,17 @@
        "text": "Death toll rises to 8 in Nairobi collapsed building tragedy after more bodies found."
       }
      ],
-     "source": "AP News",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV2U4QnRYT29UdmVGVERTdjR5NnY1elowemlsQm1tMTFOUDU5V0NIeVBGR24wS1llVmVBN3VwZDdSbXVPV3RpT1pzdXJFVzZhNjEwbVFTWUcxQk9DNDQzSi1qdEFJM3J2SUpPYWdhYUFRdHNyQjNfTmVRNXBHZVVKOXJnRWVvQ1dRQzlFdUlHdXdrVDV6TTFKY1NfMFJwYkExb21Heg?oc=5",
+     "source": "Oskaloosa Herald",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMlJBc3BvMV9sQS1DQXhFWHpOcXFuVUNLd0Jxa3JWbDdyMTMxTlpFQzNzYVdQdXl1Rzl6Y3VGeFktUzBnR3o1MWRZWDZubVlxZFJIYVIyZ2dHX05JdmVqUTBjZkNtYno4RjRzY2hBbUp2SWRic3RCeVdORmJfWW8xRmdGSlFkcUhZYk9pTkhQVm5pUjUtRVRScHZ6d2lDdVlJRlgyUmdkTGhjZ3VfWVFNTmpPd0plZ09pVzYxLUJCMVUyVm5LMUN1NDdIcXotcHY5TlBsR2o5VUo0ckZIVDhRY3NJZGxPNjNzZmZrb3NzSXV6eEtQSEJEajlvbExTT3dzWjVjZE8xb3VZZw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T17:07:00Z",
+     "time": "2026-11-05T18:33:03Z",
      "countries": [
       "Kenya"
      ]
     },
     {
      "id": "nairobi-1",
-     "country": null,
-     "label": "NAIROBI",
-     "lat": -1.29,
-     "lon": 36.82,
-     "flag": "🇰🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Wushu Olympics debut inspires Kenyans",
-     "summary": "Wushu Olympics debut inspires Kenyans",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Wushu Olympics debut inspires Kenyans."
-      }
-     ],
-     "source": "China Daily Global Edition",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVURqSGtwaHFhWERSZE5MYmpieVRxSi1mXzExbk1DbDlBWGRJbzNRb2tmYkJhU2M2ZmxENU11OHA1WDZaUzgtYzVJUW5DN255S0hmaElSX1N4amlIUGFHOFRCdG5XWUdLeFpNNnZsejNHYUxkRjUySFF4YmwtTjdCalBB?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T01:17:23Z",
-     "countries": [
-      "Kenya"
-     ]
-    },
-    {
-     "id": "nairobi-2",
      "country": null,
      "label": "NAIROBI",
      "lat": -1.29,
@@ -3862,6 +3848,32 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-04T19:58:57Z",
+     "countries": [
+      "Kenya"
+     ]
+    },
+    {
+     "id": "nairobi-2",
+     "country": null,
+     "label": "NAIROBI",
+     "lat": -1.29,
+     "lon": 36.82,
+     "flag": "🇰🇪",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Wushu Olympics debut inspires Kenyans",
+     "summary": "Wushu Olympics debut inspires Kenyans",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Wushu Olympics debut inspires Kenyans."
+      }
+     ],
+     "source": "China Daily Global Edition",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVURqSGtwaHFhWERSZE5MYmpieVRxSi1mXzExbk1DbDlBWGRJbzNRb2tmYkJhU2M2ZmxENU11OHA1WDZaUzgtYzVJUW5DN255S0hmaElSX1N4amlIUGFHOFRCdG5XWUdLeFpNNnZsejNHYUxkRjUySFF4YmwtTjdCalBB?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T01:17:23Z",
      "countries": [
       "Kenya"
      ]
@@ -3901,6 +3913,33 @@
      "flag": "🇰🇪",
      "severity": "info",
      "category": "Local",
+     "headline": "Hundreds of Kenyans rescued from Southeast Asian scam centres in 2026 – US Embassy",
+     "summary": "Hundreds of Kenyans rescued from Southeast Asian scam centres in 2026 – US Embassy",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Hundreds of Kenyans rescued from Southeast Asian scam centres in 2026 – US Embassy."
+      }
+     ],
+     "source": "People Daily",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkxUbjVoaHFjZXZGOEoyZGN4LUctSWdacGthY2hnV0hvdEdPYzB5UVdiekgyVWlCZlFtLWVZS0E5NFg0RXBWRGhHYmczQ05qX3JRMnFtTGZ2SEc2d21OaERQbzA5QWxEQ3RYbEl0MGUtQ1dkM1c3YVJscG5lTDJ4RHRsYm5KclpZekRNRUJXcjlLX19vR185MlI0S21KbmQ5ZU55eXZNVWM4cVF1Z0x3bXNVcw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T09:05:09Z",
+     "countries": [
+      "Kenya",
+      "United States of America"
+     ]
+    },
+    {
+     "id": "nairobi-5",
+     "country": null,
+     "label": "NAIROBI",
+     "lat": -1.29,
+     "lon": 36.82,
+     "flag": "🇰🇪",
+     "severity": "info",
+     "category": "Local",
      "headline": "Kenya's Safaricom posts higher first-half profit as Ethiopia losses halve",
      "summary": "Kenya's Safaricom posts higher first-half profit as Ethiopia losses halve",
      "lines": [
@@ -3917,32 +3956,6 @@
      "countries": [
       "Kenya",
       "Ethiopia"
-     ]
-    },
-    {
-     "id": "nairobi-5",
-     "country": null,
-     "label": "NAIROBI",
-     "lat": -1.29,
-     "lon": 36.82,
-     "flag": "🇰🇪",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Kenyan tribunal dismisses challenge to Dangote’s planned refinery",
-     "summary": "Kenyan tribunal dismisses challenge to Dangote’s planned refinery",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Kenyan tribunal dismisses challenge to Dangote’s planned refinery."
-      }
-     ],
-     "source": "CNBC Africa",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnBnY0NMQlRDMVpaQmd3WUszMEY0MFZyRVY1QkdEZUY0Wm5HekRsM3MyUE9OQWhsRnU0clNFZ2dfejZpVXFMVlFCWlRXUVJBWW5uOHhXTHFEMksyVE90QnZTamFrT3M2c3J5RE53X3h1Zm16eDM1SWxvT2QyZVlleFpHTThrVmFiTWNERFFwa0VRYmxtRExhZ0JJeGQ?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T23:21:00Z",
-     "countries": [
-      "Kenya"
      ]
     }
    ]
@@ -3974,7 +3987,7 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUHMtTl9yNnV0dHdYMGdxSTMtQlBwWTFWWThKR1BmQUdHMmJZVkhiQUtOS1N1U1B6OFNzNWtfdEd0SEVLcHdqNTlGMnhMVG1KaW1pUEE0NnJ5VDlEQlVzUjlhRTA2c3FramhVVkpoNEstUlNYazQtbkUtb3BBMk00Z1ZGN0xHVy1EYVh0Y3ZxX0xzTWtCenY5ZFdvV2QxQnprcjFPSEpn?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T21:33:45Z",
+     "time": "2026-11-05T21:43:26Z",
      "countries": [
       "Nigeria"
      ]
@@ -4000,13 +4013,39 @@
      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSUpmemFubTNSN2dsaDAwaHMyWmwwUmllV1VCX0RScmhqZklYWUpiU1JvY0hNaVNzSDlXVmFlNEFoeVQ1ejBLSV9zZlZVdHRPYmpSZEYxQno1OVlGY1dkVGhNWWJqcVc1MU5LanFfam9sUzl0NXVlM0xzQXZJOFQzSDNWM2xJLTl2d3UtdG5od1ozRFRJVXJydXRYcTM4OEVWZGZ0UkppTW1kUG50UWpjSmYtT3p0R0N0eG1hdVNiZGJjRlhNNzdXb3BCa01pZUpmX3MyR01kdkNHaG8?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T22:07:30Z",
+     "time": "2026-11-05T22:09:21Z",
      "countries": [
       "Nigeria"
      ]
     },
     {
      "id": "lagos-2",
+     "country": null,
+     "label": "LAGOS",
+     "lat": 6.52,
+     "lon": 3.38,
+     "flag": "🇳🇬",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Lagos orders ISPs to secure cables",
+     "summary": "Lagos orders ISPs to secure cables",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Lagos orders ISPs to secure cables."
+      }
+     ],
+     "source": "ITWeb Africa",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaV9RdGMyWHdkSUg5TzV1Vmgwa01KSE5NUWc2VTJVWnFvcWpObTEtbG1kM013dGotWFpJM0RUSWIyNXBRMGQ1UFpzMnFYUTlYaVdGRi05SF9DLXM4ZkRBc0pIaVBRYm1aZ3N4Y0J0VGc3S2UzNVNiZW1RLVY5YjRVd3FIU3hpVW8?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:41:18Z",
+     "countries": [
+      "Nigeria"
+     ]
+    },
+    {
+     "id": "lagos-3",
      "country": null,
      "label": "LAGOS",
      "lat": 6.52,
@@ -4032,55 +4071,29 @@
      ]
     },
     {
-     "id": "lagos-3",
-     "country": null,
-     "label": "LAGOS",
-     "lat": 6.52,
-     "lon": 3.38,
-     "flag": "🇳🇬",
-     "severity": "info",
-     "category": "Local",
-     "headline": "The vibrant street style at Lagos Fashion Week 2026 Womenswear",
-     "summary": "The vibrant street style at Lagos Fashion Week 2026 Womenswear",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "The vibrant street style at Lagos Fashion Week 2026 Womenswear."
-      }
-     ],
-     "source": "Dazed",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzktX2J6QjBWQ2QyclB1SGNVeTkxMnI0bHVBbng5bUJWZm53Z0NnZ29HSnFHMERGdkpZVVV5T1pKTjFvVXJ5Wi1EX2lvLUlRQTRBNmtTOXc4OEZSRmFyb0dvRTJ6aWYzX1JSZ1VIYk56cXI5Y3JRWHB4Qy1mY3ZILTRSbEVabUhPbm50bjFMVUMwMkR3RTJXczl6cjkwTlhjU1l0U2RRODBuUWw5S1E?oc=5",
-     "forceLang": "en",
-     "type": "PHOTOS",
-     "time": "2026-11-04T12:49:00Z",
-     "countries": [
-      "Nigeria"
-     ]
-    },
-    {
      "id": "lagos-4",
      "country": null,
      "label": "LAGOS",
      "lat": 6.52,
      "lon": 3.38,
      "flag": "🇳🇬",
-     "severity": "info",
+     "severity": "watch",
      "category": "Local",
-     "headline": "Lagos Economic Roundtable Seeks Investment, Jobs Amid Economic Gains",
-     "summary": "Lagos Economic Roundtable Seeks Investment, Jobs Amid Economic Gains",
+     "headline": "Enugu Air Expands International Network with Approved London Gatwick Flights",
+     "summary": "Enugu Air Expands International Network with Approved London Gatwick Flights",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Lagos Economic Roundtable Seeks Investment, Jobs Amid Economic Gains."
+       "text": "Enugu Air Expands International Network with Approved London Gatwick Flights."
       }
      ],
-     "source": "Voice of Nigeria",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcldqa1FteWdhVTMtWjFQUlhIamZndk1LMzE3RG5ZYzNLaEp6SzFqZ0lrblJyenlLVlpPWnZUc2xKdGVpbk5ZNVl2cWNkYXBkZG5NZ19HeTlnLUZpcjU4R1pTWHk1c1JKRjA4LWxVcmthSGZNcEQ5UndjQjRGTExGNzR4MVFNT1dYZzJSSDBrQlc?oc=5",
+     "source": "https://www.nigeriahousingmarket.com/",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVl9YX2xiclBLQjJHMVFyMHcwNmNMZ0ctY2Y0Sm1SbTlxMno4WmhPWVdZYUI0TmFCUFhFWVIySF8wQ0JuV0c3enQtWVBNZU1zMXlEYnlLMjcySjVJZzhXbUgwVGp2azhMdDBCcERXVGJmbGxka05GdU40dzVUeVJoTzg2c2VUdmlhYmU3c2ZCY1ZzQWdBTFB6MFhB?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T19:40:16Z",
+     "time": "2026-11-06T09:22:39Z",
      "countries": [
-      "Nigeria"
+      "United Kingdom"
      ]
     },
     {
@@ -4092,20 +4105,22 @@
      "flag": "🇳🇬",
      "severity": "info",
      "category": "Local",
-     "headline": "COP31 must deliver finance for Africa or there will be no implementation",
-     "summary": "COP31 must deliver finance for Africa or there will be no implementation",
+     "headline": "MTWW Launches in Nigeria to Advance Safer, More Inclusive Trade for Women",
+     "summary": "MTWW Launches in Nigeria to Advance Safer, More Inclusive Trade for Women",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "COP31 must deliver finance for Africa or there will be no implementation."
+       "text": "MTWW Launches in Nigeria to Advance Safer, More Inclusive Trade for Women."
       }
      ],
-     "source": "Climate Home News",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWJhQ2Nlb0EzSzVpUUpHdTFuT2pLZEZJR2Q3amIxXzFETnJydWpxR2dCNEhnU2R1aVd0Q0g5N01KR1U1Y3lKN2htRHh6VkVxNDJ3TlVXYU93QXA2RzR1WGFYNGFJcnRuZjduTUhscnpnQ3dCamdvS0l0SWhCX1NiV2hxbFJTWmdpRVU1SmdYMUZ6T2ZQZ0QxZjlyRGhwb0QtN2VEQkFmYVktN19OdC1kQ3ZWeExaY0Jmdmc?oc=5",
+     "source": "Global News Network Liberia",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ25xRkpBUE9LWXo2ZFJZVHNSQzZQWTI3bGhOU3VrVlpmQVRYelRnNmZ2NkNFZ0dvWG9HN0NVd0Rvb056ek9fVWJJQlFpTEp0bkc5NzZuYV9wdWVoYlBfX2dYcHJGbW82OUNuUUdLaW0wQkQzMFNOMG9XNXR4S3ZoQ3dRMTl3b25PcjUyMGpzVzN5MzVESVR5VENETkE?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-04T17:07:36Z",
-     "countries": []
+     "time": "2026-11-06T03:01:34Z",
+     "countries": [
+      "Nigeria"
+     ]
     }
    ]
   },
@@ -4148,6 +4163,82 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
+     "headline": "Guangzhou Automobile Group October Vehicle Sales Down 15.8% Y/Y",
+     "summary": "Guangzhou Automobile Group October Vehicle Sales Down 15.8% Y/Y",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Guangzhou Automobile Group October Vehicle Sales Down 15.8% Y/Y."
+      }
+     ],
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbVVqVk0zbE1OX1cxcFk1STB2eDFFcjU3LWdYdHloZ0dIYjdVOU5aN1pqM21jOHZhT0FhekJtYTZCWDVaMnN1UEcwRkd6YnVFM3MwMG5RTHZOU21FTm1QMlVSVkR3WEZDS2NVSjRlYllXb2x3WGZzckxvQ0x0Z3lVYmkzMXFUQXRLTXpRR2hWV0U4am5jMXR4YUVRbjV5TGxpeGRnYlNCLUh0TU5SYUdaRXVKa2MyRG16c2lZZ0FOS1ItT2pvcldEQW9VdG4?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T09:12:56Z",
+     "countries": [
+      "China"
+     ]
+    },
+    {
+     "id": "guangzhou-2",
+     "country": null,
+     "label": "GUANGZHOU",
+     "lat": 23.13,
+     "lon": 113.26,
+     "flag": "🇨🇳",
+     "severity": "info",
+     "category": "Local",
+     "headline": "138th Canton Fair: CHAC Low-Voltage Electrical Products and Custom Electrical Solutions",
+     "summary": "138th Canton Fair: CHAC Low-Voltage Electrical Products and Custom Electrical Solutions",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "138th Canton Fair: CHAC Low-Voltage Electrical Products and Custom Electrical Solutions."
+      }
+     ],
+     "source": "EIN News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUGk0LVlTSHM1SGpvNTN5UjZzeFBta2gwQUwxck00YVIweFJyQlZaZnJtX21FSkkwdTZQQ1RHRXUzNlZBc0wyQVpfY0p0LTVpbFVOdHh5S1JvMU9IZ3liVjUxQTBwZEY4WlY0NUg4dnNwZTN6UGREQkt6X3Z1UHZobDZCQnR3eVVEdWxOUzFIdWlGN3BVZEdmVl9STzVWQjhFNTdBVTRHSzhFS2xtdGFYdjBHQ1BadzJhZEJzSFFGM1pNVVN0ZzBF?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T08:48:00Z",
+     "countries": []
+    },
+    {
+     "id": "guangzhou-3",
+     "country": null,
+     "label": "GUANGZHOU",
+     "lat": 23.13,
+     "lon": 113.26,
+     "flag": "🇨🇳",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Guangzhou Boosts Embodied AI With Open Use Cases, 40 Billion Yuan Industry Fund",
+     "summary": "Guangzhou Boosts Embodied AI With Open Use Cases, 40 Billion Yuan Industry Fund",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Guangzhou Boosts Embodied AI With Open Use Cases, 40 Billion Yuan Industry Fund."
+      }
+     ],
+     "source": "Gasgoo",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjlVdnRZbFRxT0dUbUpBdm9GY3hKRE5PRnFWdUVoVWM3V1hLRDNMT1c1eVlEaHVxWUFTbkRqRldNMUJmUG8zY1g5STh2ZEdxaWFBcHZGOWFVZGZLSFJEakc2ckpSUnZrOHhvS3VjdGhFRC1yWDJxakFCT1ZxZVgwSkZPcEtkc1JZcW9pekNyTUtxOEIxeXBYWGZvTmlTRGZLakZ4bUNQM3RyMFBRQmxRZzNQN1Z4dzlTYUd3eEFBQ2xoTlVabHZDT3FTY0M1ZmxOZTF2VDltMA?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T03:38:11Z",
+     "countries": [
+      "China"
+     ]
+    },
+    {
+     "id": "guangzhou-4",
+     "country": null,
+     "label": "GUANGZHOU",
+     "lat": 23.13,
+     "lon": 113.26,
+     "flag": "🇨🇳",
+     "severity": "info",
+     "category": "Local",
      "headline": "Canton Fair aids Indian firms seeking new tech",
      "summary": "Canton Fair aids Indian firms seeking new tech",
      "lines": [
@@ -4166,82 +4257,6 @@
      ]
     },
     {
-     "id": "guangzhou-2",
-     "country": null,
-     "label": "GUANGZHOU",
-     "lat": 23.13,
-     "lon": 113.26,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "MKS expands Atotech plating equipment plant in Guangzhou",
-     "summary": "MKS expands Atotech plating equipment plant in Guangzhou",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "MKS expands Atotech plating equipment plant in Guangzhou."
-      }
-     ],
-     "source": "Evertiq",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU51QU80ckRhQUttdEJnbXMtellDdHdON2ZqbUVqbXF1VDM1N013RXItOTFTS0JWamdXZElxUUFmWWJGektsRUpGQkp5MGFnenNuSEtyd3kwNEFTUmZPSXFPSTltWVJzeTZfbUtvSGVFSU8yaHFLWUV3aXFJRkxaU3l5aHdFRURiUlBhLU9PNmxLdGxfa3Zj?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T10:00:00Z",
-     "countries": [
-      "China"
-     ]
-    },
-    {
-     "id": "guangzhou-3",
-     "country": null,
-     "label": "GUANGZHOU",
-     "lat": 23.13,
-     "lon": 113.26,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Canton Fair Marks 70 Years Of Connecting China With The World",
-     "summary": "Canton Fair Marks 70 Years Of Connecting China With The World",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Canton Fair Marks 70 Years Of Connecting China With The World."
-      }
-     ],
-     "source": "ESM Magazine",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazQ5VDhCdWJDbURDVzIzM3Y4MDkwVy16aGV0cGYxQ185MFp4Ym1xbGtrTnpVeXVHYmVQUjBsamFhUWhTVUd5QnVzTkRjQnVSVWMxZVB2YlJFdk1ybmdLTUFveEZGR2dCMDRXRGdvR0U4U2VaazFQcEh2THdYWkJOR2Y3cUo0aTlrTGk4dExndnVsR3ZpaGRUeUs1cy1JUC15UTBsNVFXRzI?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T13:38:53Z",
-     "countries": [
-      "China"
-     ]
-    },
-    {
-     "id": "guangzhou-4",
-     "country": null,
-     "label": "GUANGZHOU",
-     "lat": 23.13,
-     "lon": 113.26,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Zeynep Sonmez vs Claire Liu - Match WTA - Prudential Hong Kong Tennis Open 2026 - Quarter-final",
-     "summary": "Zeynep Sonmez vs Claire Liu - Match WTA - Prudential Hong Kong Tennis Open 2026 - Quarter-final",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Zeynep Sonmez vs Claire Liu - Match WTA - Prudential Hong Kong Tennis Open 2026 - Quarter-final."
-      }
-     ],
-     "source": "tennismajors.com",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZF8weENzUENDME1sYUJ5U1UySWhLa1lkckZsRGFHdTJfY0JlSG1VdVVWSlJzRWZCS3NKc0FZaFhoVWk2SEZFRksyc002aF9Id3oyNXdSdjdXSXNsbVRGVEtDNzdaZXFJSzRUNmhDT0thaElYYWhxaEpnTDV5UFlBR2x3Nlg2ZlVKUi12SC1wNzZYRDJUV1d2WE9kbExBZkxJX0tINlpR?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T22:58:04Z",
-     "countries": []
-    },
-    {
      "id": "guangzhou-5",
      "country": null,
      "label": "GUANGZHOU",
@@ -4250,19 +4265,19 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "Nio Schedules Guangzhou Tech Day Following 15.23% Delivery Drop",
-     "summary": "Nio Schedules Guangzhou Tech Day Following 15.23% Delivery Drop",
+     "headline": "Enjoying \"Invisible Tech\" in Guangzhou",
+     "summary": "Enjoying \"Invisible Tech\" in Guangzhou",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Nio Schedules Guangzhou Tech Day Following 15.23% Delivery Drop."
+       "text": "Enjoying \"Invisible Tech\" in Guangzhou."
       }
      ],
-     "source": "Retail News Asia",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcmFqc1lwTGNoYnNzTThoMzVyc2dNMVZVWG5XSVZ2NFRWaUFYV2xqY1RUUGUzUzdxb250ekJVSjZLdlZOOWxpb1BwdUlnZDA1OXcwMkRtNjNLQlVkM2tnLUhJejg3VmpTWExDM2h6WWpEbXhhMllwS3BDUVh4NWdVMTV3ZVVQU2RvNWxTRFUwMA?oc=5",
+     "source": "广州日报新花城",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNak04T1V4QlJvUXRxdWVBeXdKcENTLWF1NEFKUHFJTkk3QkFHZWhvb2lHNnVZMkpwSEpidGhFbS1KZ0g4ekdsSEtmc04yWXZsb2diNGI0Zm1VMlQ0Q1JfaURWRVlTSExiVjlPRUFJa3ZvdlExSDhYMDA2UDQwMXZVWTBYbjk3d3BMOVE?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T11:43:10Z",
+     "time": "2026-11-06T06:37:43Z",
      "countries": [
       "China"
      ]
@@ -4284,19 +4299,19 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "Shanghai Port 2-3 Cong An Ha Noi (Oct 27, 2026) Final Score",
-     "summary": "Shanghai Port 2-3 Cong An Ha Noi (Oct 27, 2026) Final Score",
+     "headline": "Tesla pushes Shanghai plant localization to 98%, bringing joint developments with Chinese suppliers global",
+     "summary": "Tesla pushes Shanghai plant localization to 98%, bringing joint developments with Chinese suppliers global",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Shanghai Port 2-3 Cong An Ha Noi (Oct 27, 2026) Final Score."
+       "text": "Tesla pushes Shanghai plant localization to 98%, bringing joint developments with Chinese suppliers global."
       }
      ],
-     "source": "ESPN",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU9IdU9PQndJNWF3dUJBU3BCT0hYd2pSUm1FUmVXci16c2VLUmhhTEJtSGRmVFVHUFZZeFhqdFhUWWNENnVqbXpBcDEtaDFjeDJkWVdYRndiQS1MOU1CZ3lmckFYQVByT3hOMXB3TU4wNUFDRWpVeEpjVEY3TXRDQ0ZEcUVTS21RSTZlMA?oc=5",
+     "source": "CnEVPost",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Sl81SUlzdFVsdzQ3VXBKS20yWkJLdWRwR1ZUdkEtV1lIR3plYlFWUm9rOHVWWU1RbVJrUl9KbDdzVllRVVZrNjA1WkgyUl8tMkJtek5GTlNRSmlXbWlwZDF3Mk51TnpVZmVFMVRSUmg1anAtODNDaA?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T20:34:26Z",
+     "time": "2026-11-06T07:26:00Z",
      "countries": [
       "China"
      ]
@@ -4310,19 +4325,19 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "AllBright Advises on Delayed $4.9 Billion Shanghai IPO for YMTC Parent",
-     "summary": "AllBright Advises on Delayed $4.9 Billion Shanghai IPO for YMTC Parent",
+     "headline": "Tesla's Shanghai Factory Raises Parts Localization Rate to 98%",
+     "summary": "Tesla's Shanghai Factory Raises Parts Localization Rate to 98%",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "AllBright Advises on Delayed $4.9 Billion Shanghai IPO for YMTC Parent."
+       "text": "Tesla's Shanghai Factory Raises Parts Localization Rate to 98%."
       }
      ],
-     "source": "Law.com",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVpjSjJIQjhIS0ZBQmswU2ZvT01JRkVPdWFNT2VIdEViZ0pHSlU4VjJfUDdEY29JX2lxSkZXZk5hM0F6SkFnY3UzMF9TVzVqaU9qaWs1SEJVTkxqUzBDTTRqRU5Kd0VkNGNYelJOeFRxaFFIVVFpZk9rSDE4c2FGbjhVSTlQYnVieC11a1FxT0ozN2x3SzRXNHB4T2ZZWU4tZFA4cExpQURjMERjRkJnWHd6bnBxOTRWX2k2c21ZVQ?oc=5",
+     "source": "Gasgoo",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR01TNEE0Sy05RmZ0bXdhQmJYaGR5MXhHMVZ4TTRzSmQ2UmpldnZaaDgtdGVQcWZtVGktRmkwUHZMY05tYUN3VHBzRm8yVlpyY3RIbktsbWZnWkdzSmhBdk9MLWd4endmREloTGdrSVNocVhHZk9pTDhFZjdRcFl1bkNyeFo5OU1Wbk9JUHV3eFU2TEdHNlN5ekZubm1uQ0dLZzlMTWFyZnl6OG9LeXVaYmFiY0xSS2FlRnJhag?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T09:19:15Z",
+     "time": "2026-11-06T03:39:43Z",
      "countries": [
       "China"
      ]
@@ -4336,20 +4351,22 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "FDA grants J&J accelerated approval for head and neck cancer treatment",
-     "summary": "FDA grants J&J accelerated approval for head and neck cancer treatment",
+     "headline": "Where to Stay in Shanghai: Best Neighborhoods & Areas",
+     "summary": "Where to Stay in Shanghai: Best Neighborhoods & Areas",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "FDA grants J&J accelerated approval for head and neck cancer treatment."
+       "text": "Where to Stay in Shanghai: Best Neighborhoods & Areas."
       }
      ],
-     "source": "Reuters",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhzSmpWaGhPZG5TY05UTDc4RU9zeGY3SmpHa3gxNV9WTzA4QUFSYkFrWWdKMFg0ckloZkxQa09FMzYzSkUzNHV6SGg2VUtxeGk4LVdaNDg5dU42d0ktTERIejliMndzREZfbFlUMEtaMjZPaEFKRi1GdEltYndTT3B3ZVpYMGF3WU5ISTU4MXN4Yl9fSUVfclU2b0dzdklQWF9iNFhFUDdrckRQOG5tWkptc3U?oc=5",
+     "source": "Lonely Planet",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tdWNNWmxFdkZQY3BlRG1UbTVYTU9KZjlvZDJPajktVTMybEROeGVCcnZ5VThtTWhocHlvbVhmSnJCalNtajdNMmdCelZBVWdVTnVQQko0SlVZNkRhcElNaWdfVzRwZUgwSkxUN0M0X0ZYZUxZazJr?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T23:50:42Z",
-     "countries": []
+     "time": "2026-11-06T00:11:26Z",
+     "countries": [
+      "China"
+     ]
     },
     {
      "id": "shanghai-3",
@@ -4360,19 +4377,19 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "Shanghai,china-jan.16,,2025-the,Eh216-s,Unmanned,Evtol,(electric,Vertical,Takeoff,And,Landing)",
-     "summary": "Shanghai,china-jan.16,,2025-the,Eh216-s,Unmanned,Evtol,(electric,Vertical,Takeoff,And,Landing)",
+     "headline": "Why China Uses a ‘National Team’ to Influence Trading",
+     "summary": "Why China Uses a ‘National Team’ to Influence Trading",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Shanghai,china-jan.16,,2025-the,Eh216-s,Unmanned,Evtol,(electric,Vertical,Takeoff,And,Landing)."
+       "text": "Why China Uses a ‘National Team’ to Influence Trading."
       }
      ],
-     "source": "Transportation Today",
-     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWmZETVhkMndCZTBZZWh5eGh3NkMyZmZleW5Yc1RSc1dySHVYd0lnVlQ1Y2hyT0xLNmc4V1pWNDZKcTU4WWVmWl84X0hPV0dUZTYxaDl5cUxXb041eXNnek9OblF0NHJTZHdjanVCN2dEXzFLZC0tVERyUGRyQm9HZjdXSWdFLVg1THJUOUVHV2dIZUs4cXV2cUstb3g4MENDVHI3eEJPeC1OeTF5UUw4c192VF9SWUtHeUdCQkYyUnJ6UXhsZ1hlN3E3ZG4yMkxUbkFMQUhpSEtlcWJOblZvWWZsYTNWb3B3d25XRDVWOE54bHNVSWVrUUlYcGwzcWNNRVpRTG9Zc243bTUzelJ0V1lJOFNNQQ?oc=5",
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWGZ4NFVYSllGdXQxUWhaT2g5VEpYSkUydFF4ZnVHelAtUkFRdXV6dF9zcVFxaEJMSUVJSFp4VDlOVlFYUFRFa1ZpR01SdVpfTG5INFRldXdPNHpzbXU5SndLbk5SMFBfb2ZIMGk4SGkwUzZmMWZKbExqZW81TW5Ob2xfNWk0RWNMSGEyMUc2bWVUa1I4UjFka1pfa3Y4bURpUWtWTC1ZbWhkRFF5SHRoc0lXZw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T15:12:54Z",
+     "time": "2026-11-06T05:12:00Z",
      "countries": [
       "China"
      ]
@@ -4386,19 +4403,19 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "Innovation on show in Shanghai",
-     "summary": "Innovation on show in Shanghai",
+     "headline": "Shanghai Loho Develops Toughened Epoxy Systems for Pultrusion, Filament Winding",
+     "summary": "Shanghai Loho Develops Toughened Epoxy Systems for Pultrusion, Filament Winding",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Innovation on show in Shanghai."
+       "text": "Shanghai Loho Develops Toughened Epoxy Systems for Pultrusion, Filament Winding."
       }
      ],
-     "source": "China Daily",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TYnZNX0hhYkY1WFp4NlRuT0FlSEYzUURhRUZXSkZhR0dxbDNTa1o0M3loclluMUtQSEFQTEpHYk50azE1bzRKRjZLc0FERzI5NWIxYmMxb05HYlp5MFYyTW1jdG5RWDFaOGxqM0JPU0tWak9uTHFSZTdoeEFwQQ?oc=5",
+     "source": "CompositesWorld",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHQ0ZlcwSVEyYkJLU09wTmtuYVFobFZQVTdzRWNITHZtTHRBXzQ5SmhaOGFZM0ZDRmZmcEs2Mlc5cEl3Njk3blpmQTVmeDJHb3BVbnY2TmVFdjFHUHBrZE9waEdST3lybzFWenFZbWp2QWdaUEZQRWZjVnB1b2Nfal9vcnhaWmpWWVRROEFrWjdtempaaVo5X0hkQ0NSZ3lHRW8zQWQ5RzlLVkFuLUcxZUk2aEVsZnZHZk5F?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-06T01:09:07Z",
+     "time": "2026-11-06T07:13:59Z",
      "countries": [
       "China"
      ]
@@ -4410,21 +4427,21 @@
      "lat": 31.23,
      "lon": 121.47,
      "flag": "🇨🇳",
-     "severity": "markets",
+     "severity": "info",
      "category": "Local",
-     "headline": "Mabwell (Shanghai) Bioscience Co., Ltd. (2493.HK) stock price, news, quote and history",
-     "summary": "Mabwell (Shanghai) Bioscience Co., Ltd. (2493.HK) stock price, news, quote and history",
+     "headline": "Shanghai Waigaoqiao Shipbuilding delivers Adora Flora City",
+     "summary": "Shanghai Waigaoqiao Shipbuilding delivers Adora Flora City",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Mabwell (Shanghai) Bioscience Co., Ltd. (2493.HK) stock price, news, quote and history."
+       "text": "Shanghai Waigaoqiao Shipbuilding delivers Adora Flora City."
       }
      ],
-     "source": "Yahoo Finance Australia",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RdEkzb2I1YTA0NnJDVHlTYVJ6MEJ0UWMyVFNjaG50WmFTSGQwdDNqdE5iR3ZRcW5oX05QNUU2a2I4ZDdJUjFYTlFOR1JSdk4zVWFSc2hB?oc=5",
+     "source": "Cruise & Ferry Review",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVC1hS1ctbGZ5UkR5anRPUTlkLUxsMGRZZ2NSLXA3ZW9JSWNSa25NeE91SDlUTDRtVDFxMnJPclVHX3l5d3ZIcV9QRjVhbFpPQW5UMjdIQTRTMVhRQzR2OTJjWlRDblQ4UEtoYUc3UWRzbHhLemdVMzBQWnZlSk1QSnVybGhJV1plZmgwOFlTRnRoOUJkYjRxTUxlYUlES0E?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T23:35:16Z",
+     "time": "2026-11-06T05:04:49Z",
      "countries": [
       "China"
      ]
@@ -4439,6 +4456,85 @@
    "stories": [
     {
      "id": "beijing-0",
+     "country": null,
+     "label": "BEIJING",
+     "lat": 39.9,
+     "lon": 116.4,
+     "flag": "🇨🇳",
+     "severity": "markets",
+     "category": "Local",
+     "headline": "Beijing seeks to bolster AI shares",
+     "summary": "Beijing seeks to bolster AI shares",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Beijing seeks to bolster AI shares."
+      }
+     ],
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcWt2TjEtWWdzNTBtN3ROLXZmY2NFdTBockx4QlVkQ2lhS1AtN3ctMUl1a25vSElnRkZ0YU1VdjdtbFpONHQ2NUF3VDZMTngwWE1LOVpEMWxPalprZTZlTVVjRWlkNXhUSkgtdjk0QkFLWmdreEhPeVhyb1JkR19HbkpaZkhSOGtaTFFHUk5fM1A5VmJvQmdCcXhWcw?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T07:17:00Z",
+     "countries": [
+      "China"
+     ]
+    },
+    {
+     "id": "beijing-1",
+     "country": null,
+     "label": "BEIJING",
+     "lat": 39.9,
+     "lon": 116.4,
+     "flag": "🇨🇳",
+     "severity": "info",
+     "category": "Local",
+     "headline": "New anti-corruption law arms Beijing with expansive global enforcement powers",
+     "summary": "New anti-corruption law arms Beijing with expansive global enforcement powers",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "New anti-corruption law arms Beijing with expansive global enforcement powers."
+      }
+     ],
+     "source": "South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX01rRmdIZW5QQkZOR0lfVUlvNW9vXzN4VEhPOGF0UkdMbFdYc0FKbGh3SUVGMFBrZjh5azhFbmJqLWxpTXJlbkFzdlNDWllSazRjZHUzZjA0WU01NzA4b2RWeFZ0cEFqUkljbVI1Mkk5X0VJVi1uNkZJdE5sY3M0TjJCZDFLVXFFc0JLOUxmU1pnZURjVEtfN0dkQUdsczRDNHFkdHdEMDdxckVjYnZxSWVnMkVGOFNkdVNSd0lRZkNQRVBzd3gwa9IByAFBVV95cUxOQm0zSWxGSzg2ajB2UVVZUC1MZlNVSUd1VFFqcldtODduNW1GWHppOG9EYVpuMGVGd3MweUtqTG5CY2VMNF93YkZHbExwYTJWbURmMHVfLUNWS0NaZnBoRVIwcHlqd1l3OFJlQlMyeHJuZTRhZk1RaWcwVm92TU1CeDh1Wk84NDUxSDJ2NnZBTUI0VTVOdGhRcTZaOHdIMEprSm0zQjRDVmFHbDF2SkVTN3RLamR2Wk0waVoxWUtCYU9ScTRUZVA1NA?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T06:57:21Z",
+     "countries": [
+      "China"
+     ]
+    },
+    {
+     "id": "beijing-2",
+     "country": null,
+     "label": "BEIJING",
+     "lat": 39.9,
+     "lon": 116.4,
+     "flag": "🇨🇳",
+     "severity": "info",
+     "category": "Local",
+     "headline": "Beijing says opposes US ‘sabotage’ of Cuba-China relations",
+     "summary": "Beijing says opposes US ‘sabotage’ of Cuba-China relations",
+     "lines": [
+      {
+       "role": "OPERATOR",
+       "text": "Beijing says opposes US ‘sabotage’ of Cuba-China relations."
+      }
+     ],
+     "source": "Al Arabiya English",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVJPWF9nZ1RfaTc3eWpkb2k4NVJiUzlGWVE0eERsSlBINEo0czBGeXc1WDlubEJFc2NRQ3EwQkEzbmppOVlqOTdaaE15MVgybnlJVGVuNEN6YlREYk5yRkIteHZFTFM4WnA3WXlOYl9ncWw3VzhnY0laaGRLWWMzTDhBdUFnSFE3dk91RE1zRC1iR2pQWkxOM1IxTS1tVGx3dHdsdjUyb2FDZDTSAbABQVVfeXFMTUlEck1jZDhkMVo4eDlUbWxiRFUxZGRFSkJoX2JBOElzQUxXTVRPV2liV2hHcUFDTkp4QllxRWg1ZVNEZHFxVkZOUzlWWF9COENzZTBsWFliWTRNNmc2LWwtTHpmcHk0TWxQSXdIckVkNnJGV2RHTGNBcXZ2ZklQeF81LUhBU2RZVWZ1SU9KcEdHQzJvOW12NG5PNE12UVlsYWtTQzNCbWdVQXAzcFBob0g?oc=5",
+     "forceLang": "en",
+     "type": null,
+     "time": "2026-11-06T08:36:00Z",
+     "countries": [
+      "China",
+      "United States of America"
+     ]
+    },
+    {
+     "id": "beijing-3",
      "country": null,
      "label": "BEIJING",
      "lat": 39.9,
@@ -4464,7 +4560,7 @@
      ]
     },
     {
-     "id": "beijing-1",
+     "id": "beijing-4",
      "country": null,
      "label": "BEIJING",
      "lat": 39.9,
@@ -4472,26 +4568,25 @@
      "flag": "🇨🇳",
      "severity": "info",
      "category": "Local",
-     "headline": "A Democratic Congress won’t reset Beijing’s US strategy",
-     "summary": "A Democratic Congress won’t reset Beijing’s US strategy",
+     "headline": "China passes cross-border corruption law, expanding anti-graft drive",
+     "summary": "China passes cross-border corruption law, expanding anti-graft drive",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "A Democratic Congress won’t reset Beijing’s US strategy."
+       "text": "China passes cross-border corruption law, expanding anti-graft drive."
       }
      ],
-     "source": "SCMP",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQazZCUTkyN3JpdGlzNkRadHRQclFuZkI2MElra0ozeGRmZWZKaWNMWW9nLThkRXpzdGhKQkRfYVJ6bzktNnY5OU5qcU9rLXJlTlZFekVaRlpSX3NRQkF1WDR4RGtwa3hfOWVwWUswekVwTzJKZkp5ZnloYWI5UGZzMHhoeDloTm85S2cyVUhuYlk1V2JkTzRxQm9mNE5ZTld6REpsanR6ONIBpwFBVV95cUxQNktEYlJBNXdtRVZvQUhhUUpZdGlVeUNyUWhId3R1QUFiVk9FNW03Uk5wejVkeU8wQmNjZWZDLXBmU0RYenM3ZGtMVnNKN3Uyd3IyX3JPWGRNYzA4bGF6LWR5X2lNbGJncEN6aEd1T0FSa3FYMXAxblcydHZCbUM5MkhUNkpaR1lHcDdSbFUtclUwV0dtQlE5U2pSU1FGT20zY2xoRThyNA?oc=5",
+     "source": "Reuters",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeU1ROGdLUTVzWlo0Q0YtMk9Pa3VSNjZtdEViV3FEalY2Nm9VQ2hvajdSeDFXOHlnRGJVTkZhYTh6V2U4cllEdjAxNVIxZTBNWUs5SU56bldDWVBMUHJEUWJseFB5M09sYm9FZU1za0N4VWNKVkcwYzdjOUgwa0ROQVg3bXNldU10RXBIWDBLRFJfZzRvbURURWtFM1NLZ2plSWdNVnpUdVBubTZSN0dtekNTZmZZelA0LUd1dUo2bTAtWW9i?oc=5",
      "forceLang": "en",
-     "type": "OPINION",
-     "time": "2026-11-05T23:15:14Z",
+     "type": null,
+     "time": "2026-11-06T02:51:00Z",
      "countries": [
-      "United States of America",
       "China"
      ]
     },
     {
-     "id": "beijing-2",
+     "id": "beijing-5",
      "country": null,
      "label": "BEIJING",
      "lat": 39.9,
@@ -4512,85 +4607,6 @@
      "forceLang": "en",
      "type": null,
      "time": "2026-11-05T18:42:00Z",
-     "countries": [
-      "China"
-     ]
-    },
-    {
-     "id": "beijing-3",
-     "country": null,
-     "label": "BEIJING",
-     "lat": 39.9,
-     "lon": 116.4,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Moscow and Beijing’s Asymmetric Bargain in the Black Sea and Central Asia",
-     "summary": "Moscow and Beijing’s Asymmetric Bargain in the Black Sea and Central Asia",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Moscow and Beijing’s Asymmetric Bargain in the Black Sea and Central Asia."
-      }
-     ],
-     "source": "Geopolitical Monitor",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0F4YlNtRS1IY2E3ZnBvUWNBcjVqanlvbjhJTHJvTWZfUGZxbFhmbFNKdUFHbkwxbHBpX0JhaUVVX19pQW5JLVQ5dDh2YzF4d3lVblllMUtVNzRTUHhOWnFabHgwWFFvSFhhRWZNdnFtMGo0Z0pKVzJSX0pGdUNaNnp4ekVCV3VwbW5wdS1RTFo3dm85NEc5Ui1xMm90ckFvcnFtUERFZTZrcndGY1E?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T14:22:40Z",
-     "countries": [
-      "Russia",
-      "China"
-     ]
-    },
-    {
-     "id": "beijing-4",
-     "country": null,
-     "label": "BEIJING",
-     "lat": 39.9,
-     "lon": 116.4,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Tai Chi in a Beijing Community Offers Belonging, but Only on Its Own Terms",
-     "summary": "Tai Chi in a Beijing Community Offers Belonging, but Only on Its Own Terms",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Tai Chi in a Beijing Community Offers Belonging, but Only on Its Own Terms."
-      }
-     ],
-     "source": "Bioengineer.org",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWtWUjRiaXRwV1FtVGNZRWVQUFFsTWJucFl1bzZoYVNGSjlRcC1TTHgzN3Frb0swWTlqSXpBRTh5eFJfODc4MHFTVDZvcjNGenpldUIwN1VIbVVOVFpMSHMtNUtBYmNlc19KZmpNdVQyVExlY083Z1VhZ0VmcVd1TlZkVm1tb25jUldNNGVRbGxIcTVCQUJJa3FwUEUzX2s?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-06T00:45:00Z",
-     "countries": [
-      "China"
-     ]
-    },
-    {
-     "id": "beijing-5",
-     "country": null,
-     "label": "BEIJING",
-     "lat": 39.9,
-     "lon": 116.4,
-     "flag": "🇨🇳",
-     "severity": "info",
-     "category": "Local",
-     "headline": "Roughly 600,000 NVIDIA H200s Idle in Hong Kong Amid Beijing’s Import Hold",
-     "summary": "Roughly 600,000 NVIDIA H200s Idle in Hong Kong Amid Beijing’s Import Hold",
-     "lines": [
-      {
-       "role": "OPERATOR",
-       "text": "Roughly 600,000 NVIDIA H200s Idle in Hong Kong Amid Beijing’s Import Hold."
-      }
-     ],
-     "source": "Unite.AI",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaTBmZ003SmZta196VTE3MFdDbFhxOVBwSDFuRFZwbk9KbFI3Y0xFXzlBYWNsSVhzMGVldnQ5emZRTDl1NnFxZjhqQ3BtXzQzb3ZsLVRtT3RZYUJqT2lhUXh4YXZNV3lmNnZ4MGw0dDNDYzYxV0FaMmJlRU9HZjZPSEgzQmFTT2xSaXN1ajhtWTNyMngwc0tqNFBn?oc=5",
-     "forceLang": "en",
-     "type": null,
-     "time": "2026-11-05T19:52:01Z",
      "countries": [
       "China"
      ]
@@ -4638,22 +4654,20 @@
      "flag": "🇬🇧",
      "severity": "info",
      "category": "Local",
-     "headline": "Live review: Stevie Wonder at O2 Arena, London, 3 November 2026",
-     "summary": "Live review: Stevie Wonder at O2 Arena, London, 3 November 2026",
+     "headline": "‘Party of Five’ actor makes heartbreaking plea to fans as he faces losing job, home: ‘I’m not OK’",
+     "summary": "‘Party of Five’ actor makes heartbreaking plea to fans as he faces losing job, home: ‘I’m not OK’",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Live review: Stevie Wonder at O2 Arena, London, 3 November 2026."
+       "text": "‘Party of Five’ actor makes heartbreaking plea to fans as he faces losing job, home: ‘I’m not OK’."
       }
      ],
-     "source": "John Earls | Substack",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YLWVXSE94cFR0WVFNS3ozc04zLVY1alRVVmNaTFdPV1g2MmRqLWoxNzdtTWtla05HYnRSU2RsTnE1VkhSamE4MEpjTTJmc3g5eTdZV3FobzIyQXEwenFRa1BjVzhBLW1YN0szMzZ2UnNHTEoyWkZjVGh3?oc=5",
+     "source": "Cleveland.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVEV1US1TbFZZNm00QW5DR2xsMFlkWmx2QVFsZG9GdDc5UWw0YmtKOU5RMnZ2anhhVTdmMUtxR1Nhczdib2dZQl9hd1o0bVpVdmN5RVlzUFVHc0k5SWJGcHIxbURJMnFkS0tPLVRDd05WemExbU15Q2tDWExEdUR0dXJnV211UUxzVE5yX1Z0Z1NVdGVKWlp0ODFoYWZ4X1N0aUFCcWJXSHBvaWZSd1RGMDdOYWlUOE1FTDE3blI0WGY5RC0yeHB6d1F4LTZRZHowazZKdlowSlhFSDg?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T15:51:19Z",
-     "countries": [
-      "United Kingdom"
-     ]
+     "time": "2026-11-05T22:25:00Z",
+     "countries": []
     },
     {
      "id": "london-2",
@@ -4664,19 +4678,19 @@
      "flag": "🇬🇧",
      "severity": "info",
      "category": "Local",
-     "headline": "Prince Harry Makes Surprise Outing in London Ahead of Major Trip with Meghan Markle",
-     "summary": "Prince Harry Makes Surprise Outing in London Ahead of Major Trip with Meghan Markle",
+     "headline": "London mayor responds to criticism after removal of two plaques",
+     "summary": "London mayor responds to criticism after removal of two plaques",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Prince Harry Makes Surprise Outing in London Ahead of Major Trip with Meghan Markle."
+       "text": "London mayor responds to criticism after removal of two plaques."
       }
      ],
-     "source": "People.com",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDdvNkJlYkx4NGJTSFZIQV9kQlpFekFvY2xvdGh1aDBYbUI2Rm9oODVYZDQ2MXlOMndfcjJZX1paWmJCOUk5WDE5MkRRV0lCQXBOUlB5QkJVQ3A2VlU5bUNOWFRabm4tSmI2WVhmcFFXZ0daLVloeUhlZTVBVDNRWkhVeTdkemJ1VjNZam1tSV9XdWhlQ2VWcmM3NXkteTlf?oc=5",
+     "source": "WKYT",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc05uMjgydXVhUTlrbTNNUmVPWDR4ZWFwRDBkb2JQai1Jb2Z6OERIWVlwczlEVXRjcjhHU0JqOEY5ejJzQVI2RXRZNm02cmtVbDZrQWgtVExsM1h4N1RHbDdiYXB4d2xYRXZhenhVcWcyRjNNNEZBUVo2c01KMms0N2hReTU3UTkxM3pVblFoN0FXeFRJ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T20:42:15Z",
+     "time": "2026-11-06T02:48:00Z",
      "countries": [
       "United Kingdom"
      ]
@@ -4690,19 +4704,19 @@
      "flag": "🇬🇧",
      "severity": "info",
      "category": "Local",
-     "headline": "London mayor terminates fire chief, assistant fire chief",
-     "summary": "London mayor terminates fire chief, assistant fire chief",
+     "headline": "Independent Podcast Awards: the winners from London",
+     "summary": "Independent Podcast Awards: the winners from London",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "London mayor terminates fire chief, assistant fire chief."
+       "text": "Independent Podcast Awards: the winners from London."
       }
      ],
-     "source": "WKYT",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa0xpU3hXcmRBdVc1YkYxNVNBeVZFUUU2QnRjR2NLT21qWFEyR1B0a3RGRTNLdzB4N3NSaV9YcWRhQmQySDJpZGYxTm9Fa1dGV0RlcHdkckt6aG42NkxCajdvTHZhcDJ1MzkzeHdRN3lCZFl5OXFmU0s2SV9hN0NzQ2Zkdl8wWENDbFVPYmZ6cW9HakdPa0hEb0MtQUhDQTh1WFHSAbYBQVVfeXFMTk9xNktMY0w0cmxFaHpLcm9xRUdrWnVjWXBFd2R1ZFB5dHdqdkZPdVVDVDZLOUdqYUtsYTlUaFNFbTEycVRuOWVYVzFyM0taNTc1M2lDVmgzQlFxeWJRMDNiVUYwbjNhaXpUeXE2TV9tM01ndVdYMWlZamtlQXZNZ0toRmMxZzBkTXJpdVBucmwzOWFTQktJN3k1VWJJNU5IYVVBR2Z5ckY3eWprR2hPLVhCelRYNnc?oc=5",
+     "source": "Podnews",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zSWtkNERjbU5xZF9KRFl4M3VYdmlCOXItMTRpdTY4RGNJZ0JwUTR4ZVYxR3BpMmgyc25ucVZDX2drd0ZKeTRWbUlLYXoxSmVCRTVUb1VPckhzTGN4WF93?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T11:59:00Z",
+     "time": "2026-11-06T08:26:46Z",
      "countries": [
       "United Kingdom"
      ]
@@ -4716,19 +4730,19 @@
      "flag": "🇬🇧",
      "severity": "info",
      "category": "Local",
-     "headline": "London Jemison, No. 20 Alabama seek ‘fun’ vs. Arkansas State",
-     "summary": "London Jemison, No. 20 Alabama seek ‘fun’ vs. Arkansas State",
+     "headline": "This Storied London Club Once Hosted Dickens and Rodin—Now Its Suites Are an Art Lover’s Dream",
+     "summary": "This Storied London Club Once Hosted Dickens and Rodin—Now Its Suites Are an Art Lover’s Dream",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "London Jemison, No. 20 Alabama seek ‘fun’ vs. Arkansas State."
+       "text": "This Storied London Club Once Hosted Dickens and Rodin—Now Its Suites Are an Art Lover’s Dream."
       }
      ],
-     "source": "Field Level Media",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU2dicHVlNktfMmFIQTVOWE1GSm0yaXdMQjFaOVpxMEI0Z3BDTHZwWVU0SktwLUJDa1B6N0NyMFhESDdidkNpMXpfWHRyX0FMR09iV084emZnYXVWYnZFRVNyY1djazV2X25zTmhxXzZvWnAzR3pfa0U5bVNJZjVyYWtaNjZNd1VwVUxfMUJyUlJkYjVU?oc=5",
+     "source": "veranda.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05M1FYbVRWZVhDZWFXNzU0Mk5PWmlvbFFMRHBJWV9PcWY3a2lqc2JfTTdPZkctUjFsa3VyTzM3X1F5dnZCYzd0Y19QSDNiUm5EVTFncmhGWTFiMnJYdzYtYUtDRVhhbkJfbkNHMVNJeWRiNmpSeEJBNw?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T21:58:23Z",
+     "time": "2026-11-06T07:15:32Z",
      "countries": [
       "United Kingdom"
      ]
@@ -4740,21 +4754,21 @@
      "lat": 51.51,
      "lon": -0.13,
      "flag": "🇬🇧",
-     "severity": "info",
+     "severity": "watch",
      "category": "Local",
-     "headline": "Russell Brand found guilty of rape and sexual assault in London trial",
-     "summary": "Russell Brand found guilty of rape and sexual assault in London trial",
+     "headline": "Harvey Nichols London flagship 'at risk' as rent talks go on",
+     "summary": "Harvey Nichols London flagship 'at risk' as rent talks go on",
      "lines": [
       {
        "role": "OPERATOR",
-       "text": "Russell Brand found guilty of rape and sexual assault in London trial."
+       "text": "Harvey Nichols London flagship 'at risk' as rent talks go on."
       }
      ],
-     "source": "The Washington Post",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnBqck1jUlk3dmV0bFZRWGNaVlBveExtcXczZ2IxT0RqOHF6dmpDZkZjLWhIRWdTY2ZTZjI2em9LbXpJV3NhUG8tZk9meVJpNGRlWGlCWnVWNEVzSWFVLVZMTFJUS0ZHbXRCc0owcGJkU196bEFEVWRNSmNaMzFEOVJPQ2sxb0hZdC1Qdk42RjJZb0JlRC1OTzM1VWJGeWY0akpOeERDZFNWdm55N1F1SkxlMWY4LTA?oc=5",
+     "source": "FashionNetwork USA",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdm8xVVhMX1p4RTRLdkc3SVg0WVpWSnJWMVB1dlpXZ1lIQjNTOXcxelpkOFVrelc2MFRUWEFGQ1NPZkhxM2w2X2JNZDdzZU96V2h0VWJ5SG94X2djRzBfTUlUYm05STFobVAyVmZ0VVJ4ZzBab1J2dF9YSmMxb1ZvTW1hLWFtWmFYTFQ3S2F5M29oTFpPR0tnbXNEQVJocGhuVmRiZjRQZVJKUQ?oc=5",
      "forceLang": "en",
      "type": null,
-     "time": "2026-11-05T23:53:41Z",
+     "time": "2026-11-06T07:34:34Z",
      "countries": [
       "United Kingdom"
      ]
