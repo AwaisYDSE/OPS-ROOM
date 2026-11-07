@@ -1,35 +1,10 @@
 {
- "updated": "2026-11-06T22:26:05.092194Z",
+ "updated": "2026-11-07T09:17:21.233248Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "pakistan-s-trade-deficit-widens-16-to-14-63bn-in",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le déficit commercial du Pakistan se creuse de 16% à 14,63 milliards de dollars en juillet-octobre",
-   "summary": "Le déficit commercial du Pakistan se creuse de 16% à 14,63 milliards de dollars en juillet-octobre",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le déficit commercial du Pakistan s'est creusé de 16 % pour atteindre 14,63 milliards de dollars en juillet-octobre."
-    }
-   ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFl2OTZmYkNWZElTaGxfM28xbUd5Vk5KMDNyVzgtRUhqNDhMek42dl9SV0N5VnlIc1hwNFY0MVpJdW44c0FMWWtiWElVdDdoajBZelF6bnNJSFJ0UnRmSkxVTFQ3SXlvVklEWS1FbGV4NTFHR1hWMHN0UmtTQkJOeFJiTU1mWTlaRHRJX1FaX3ZVd2hrTzdIYlMwSkhMSWlaaGlRQ3ExMA?oc=5",
-   "type": null,
-   "time": "2026-11-06T16:52:06Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "syria-aids-saudi-arabia-with-military-advice-and",
+   "id": "syria-said-to-be-lending-military-support-to-sau",
    "country": "Syria",
    "label": "SYRIE",
    "lat": 35.0,
@@ -37,22 +12,381 @@
    "flag": "🇸🇾",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "La Syrie aide l'Arabie Saoudite en lui fournissant des conseils et une formation militaires face aux attaques des Houthis, selon des sources",
-   "summary": "La Syrie aide l'Arabie Saoudite en lui fournissant des conseils et une formation militaires face aux attaques des Houthis, selon des sources",
+   "headline": "La Syrie apporterait un soutien militaire à l'Arabie saoudite face aux attaques des Houthis",
+   "summary": "La Syrie apporterait un soutien militaire à l'Arabie saoudite face aux attaques des Houthis",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La Syrie aide l'Arabie saoudite en lui fournissant des conseils et une formation militaires face aux attaques des Houthis, selon des sources."
+     "text": "La Syrie a déclaré apporter un soutien militaire à l'Arabie saoudite face aux attaques des Houthis."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFFuV2xuOUtpNDJEVlB0Q0NMYV9BQkNZTzkzRkNVWHBrVGI2TC0xeUk0LTVzdWJrclByYzR3OS1PV2VJaExTT0hud2hzSENNUnlZb0J5cE5yclAtcmljYnlRcFFTOXRuOFVYbUlnbmh3cU5qQTNQSWJ3SEJ1UENMTWFUOXVBZ2xVckpNWjcwOG5meGVBWFBZRlRyZ1Q4ZkNweDlsREhMRWFwX0NrSDctbVoyZDhfdUdzOFAyVmFReUFDNkVBcmc?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEp0NE1RMkFEemJQVzlLQW5ta2NaMzlzS0IwYUdpN2RNM0FrNDRVR0gxdnJfVXBSSDRZSUUwRHA2ZVdCa0VaazhiZ0M1R0ZLTlJtYzRob1didXpWREJXMmFJNUJWazlXN1VoVTN3TE5hNC1UUlNIUlJrYUVzTEhrVi1WUGxFblNfeldCbzdqTDZkTndScl9DdDZzbDBfQQ?oc=5",
    "type": null,
-   "time": "2026-11-06T16:19:44Z",
+   "time": "2026-11-07T08:53:10Z",
    "countries": [
     "Syria",
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "how-pakistan-s-first-astronaut-got-a-seat-on-chi",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Comment le premier astronaute pakistanais a obtenu un siège sur la Station spatiale chinoise",
+   "summary": "Comment le premier astronaute pakistanais a obtenu un siège sur la Station spatiale chinoise",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Comment le premier astronaute pakistanais a obtenu un siège sur la station spatiale chinoise."
+    }
+   ],
+   "source": "Open Magazine",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEVyam9VamtuSGFkLUtxNE5vRGpWQUt0RXJCTVlFbkUzdHZRSUV5YjY5RkpqSnQ1N2htNDd0ZmdrSE9NWjRPeG5EUGZiT1JfWEZ0elVsSTYtdkJ1VG9XYkFsbjdHX3dnWm55MnZBcDdxeEdPS0x4c0R5cmkxejlTOFVPUFVuWHdMRnFZOTBEdkNneFQwZjZDNlBJNEZGZTdDRTl1OUlWejhJQ3Vp?oc=5",
+   "type": "EXPLAINER",
+   "time": "2026-11-07T07:18:20Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-says-it-intercepted-houthi-c",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "La coalition dirigée par l'Arabie saoudite affirme avoir intercepté un missile de croisière Houthi au-dessus de Riyad",
+   "summary": "La coalition dirigée par l'Arabie saoudite affirme avoir intercepté un missile de croisière Houthi au-dessus de Riyad",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La coalition dirigée par l'Arabie saoudite affirme avoir intercepté un missile de croisière Houthi au-dessus de Riyad."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUNidEdxZ0ZldC1CM2hrZ2QwREdiVEROZlhXTHBPc1NOME1IcDVkb1NOVHoxRHRTMGZFUHBoVllNVGFLTWMxLWNMMU80aXhuOFhMMTlXUENzU1VsVHVfTDFMcXpJa0ZFeGp2czAyVTZJZTJQTl81MFpKemQ5Q3JXeVRxZl82SjFCcHg4ZVBtOGV4Y2ZteFZBOXpraE1zTkVIeDFkZ3l4RmlnU3ZQOVBmdkpFb2xReERoTGc?oc=5",
+   "type": null,
+   "time": "2026-11-07T06:03:13Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "us-offers-reward-of-up-to-20-million-possible-re",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Les États-Unis offrent une récompense pouvant atteindre 20 millions de dollars et une éventuelle relocalisation pour obtenir des informations sur le programme nucléaire iranien",
+   "summary": "Les États-Unis offrent une récompense pouvant atteindre 20 millions de dollars et une éventuelle relocalisation pour obtenir des informations sur le programme nucléaire iranien",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les États-Unis offrent une récompense pouvant aller jusqu'à 20 millions de dollars et une éventuelle relocalisation pour obtenir des informations sur le programme nucléaire iranien."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
+   "type": null,
+   "time": "2026-11-07T07:26:49Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-forces-stronger-than-at-beginning-of-w",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "L’Iran affirme que ses forces sont « plus fortes » qu’au début de la guerre",
+   "summary": "L’Iran a déclaré samedi que son armée était devenue « plus forte » depuis le début de sa guerre avec les États-Unis, qui ont offert une récompense de 20 millions de dollars pour toute information sur le programme nucléaire de Téhéran.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Iran affirme que ses forces sont « plus fortes » qu’au début de la guerre."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "L’Iran a déclaré samedi que son armée était devenue « plus forte » depuis le début de sa guerre avec les États-Unis, qui ont offert une récompense de 20 millions de dollars pour toute information sur le programme nucléaire de Téhéran."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042798/iran-says-forces-stronger-than-at-beginning-of-war",
+   "type": null,
+   "time": "2026-11-07T05:29:51Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-sudan-to-sign-mou-on-cybercrime-coopera",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Le Pakistan et le Soudan signent un protocole d'accord sur la coopération en matière de cybercriminalité",
+   "summary": "ISLAMABAD : Le Pakistan et le Soudan ont décidé samedi de signer un protocole d'accord (MoU) pour renforcer la coopération dans la lutte contre la cybercriminalité, selon un communiqué publié par le ministère de l'Intérieur.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan et le Soudan signent un protocole d'accord sur la coopération en matière de cybercriminalité."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Donnez-moi les détails."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD : Le Pakistan et le Soudan ont décidé samedi de signer un protocole d'accord (MoU) pour renforcer la coopération dans la lutte contre la cybercriminalité, selon un communiqué publié par le ministère de l'Intérieur."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-to-sign-mou-on-cybercrime-cooperation",
+   "type": null,
+   "time": "2026-11-07T06:58:29Z",
+   "countries": [
+    "Pakistan",
+    "Sudan"
+   ]
+  },
+  {
+   "id": "pakistan-warns-un-against-weakening-peacekeeping",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Le Pakistan met en garde l'ONU contre un affaiblissement des opérations de maintien de la paix dans un contexte de coupes budgétaires",
+   "summary": "NATIONS UNIES : Le Pakistan a exhorté les Nations Unies à ne pas permettre aux contraintes financières et aux mesures de réduction des coûts d'affaiblir ses opérations de maintien de la paix, avertissant que des réductions de ressources pourraient nuire à la capacité de l'organisation à maintenir la paix internationale.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan met en garde l'ONU contre un affaiblissement du maintien de la paix dans un contexte de coupes budgétaires."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Des victimes ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "NATIONS UNIES : Le Pakistan a exhorté les Nations Unies à ne pas permettre aux contraintes financières et aux mesures de réduction des coûts d'affaiblir ses opérations de maintien de la paix, avertissant que des réductions de ressources pourraient nuire à la capacité de l'organisation à maintenir la paix internationale."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042796/pakistan-warns-un-against-weakening-peacekeeping-amid-budget-cuts",
+   "type": null,
+   "time": "2026-11-07T04:59:04Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "moscow-strikes-kyiv-as-ukraine-prepares-for-talk",
+   "country": "Russia",
+   "label": "RUSSIE",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Moscou frappe Kyiv alors que l’Ukraine se prépare à des négociations avec la Russie et les États-Unis",
+   "summary": "Moscou frappe Kyiv alors que l’Ukraine se prépare à des négociations avec la Russie et les États-Unis",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Moscou frappe Kyiv alors que l’Ukraine se prépare à des négociations avec la Russie et les États-Unis."
+    }
+   ],
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUi1zYk5UaVZlcUMwNklJUjVqQ3c4ZlNvMmw1cWZBaHNpMG1xeGlrX21NQUdRZGhmMk4zdnl6QXVWLTBDQlRPdER1UWRZT2FqNlBCcFpacHJkeEdpbnFaTGxiNDEtM1o0WnN0VmsycVdKZ0tnb0dKS0puMGxzenFhMmZzSzJwR2N2cVhMcG5zaFMydlZvanRFT21Od3ZuRzVON2RFYzFWdFYwajk0S2VuOGNScnJtaE0?oc=5",
+   "type": null,
+   "time": "2026-11-07T08:08:44Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-says-u-s-carried-out-minor-strikes-on-iran",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump affirme que les États-Unis ont mené des « frappes mineures » contre l’Iran alors que des missiles frappaient l’île de Qeshm",
+   "summary": "Trump affirme que les États-Unis ont mené des « frappes mineures » contre l’Iran alors que des missiles frappaient l’île de Qeshm",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump a déclaré que les États-Unis avaient mené des « frappes mineures » contre l’Iran alors que des missiles frappaient l’île de Qeshm."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "type": null,
+   "time": "2026-11-07T07:37:36Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "trump-confirms-us-strikes-in-iran-insists-it-s-n",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Trump confirme les frappes américaines en Iran et insiste sur le fait que « ce n’est pas une guerre »",
+   "summary": "Le président américain Donald Trump a déclaré que l’Amérique avait mené des « frappes mineures » sur l’île iranienne de Qeshm.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump confirme les frappes américaines en Iran et insiste sur le fait que « ce n’est pas une guerre »."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Des victimes ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le président américain Donald Trump a déclaré que l’Amérique avait mené des « frappes mineures » sur l’île iranienne de Qeshm."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-07T07:05:01Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "will-trump-strike-nuclear-sites-again-as-iran-en",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump frappera-t-il à nouveau les sites nucléaires alors que l’Iran engage une « guerre cognitive » ?",
+   "summary": "Le président américain envoie des messages contradictoires après la défaite de son parti aux élections de mi-mandat.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump frappera-t-il à nouveau les sites nucléaires alors que l’Iran engage une « guerre cognitive » ?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le président américain envoie des messages contradictoires après la défaite de son parti aux élections de mi-mandat."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-07T08:45:36Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "emirates-abu-dhabi-championship-golf",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Championnat de golf des Émirats d'Abu Dhabi",
+   "summary": "Championnat de golf des Émirats d'Abu Dhabi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Championnat de golf des Émirats d'Abu Dhabi."
+    }
+   ],
+   "source": "dailyrecordnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXotVHIwYnVlTWdKTk9YNmpzOFBNeXNkbFNocUlYS0RyalVpaldRNnl3el9oTnpRT3hxNlZKVkc2X2ViT2FCcndPekNQMTdKemluREJxQVdSTngwcV9yRlh0MmFEbkRrWmc0TjE1ME5fVXhlVUFVSTV2Sld0WEcxeUlBQ3RjRlpOSk9jSkN4TkpPd0NoWGJLYUFuMVBXRFh1TnV2SkU4SVhqVnFPbTM1TjZ2VmJvcGpCaEVPazVURko5emlqTm9iUERJYw?oc=5",
+   "type": null,
+   "time": "2026-11-07T08:04:56Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "us-treasury-sanctions-eight-canadian-money-excha",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Le Trésor américain sanctionne huit sociétés de change canadiennes en raison de leurs liens avec l'Iran",
+   "summary": "Les sociétés du Trésor américain affirment avoir contribué à sanctionner des entités iraniennes et à gérer des fonds liés au présumé patron du trafic de drogue.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Trésor américain sanctionne huit sociétés de change canadiennes en raison de leurs liens avec l'Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Donnez-moi les détails."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les sociétés du Trésor américain affirment avoir contribué à sanctionner des entités iraniennes et à gérer des fonds liés au présumé patron du trafic de drogue."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-07T04:50:46Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Canada"
    ]
   },
   {
@@ -75,191 +409,40 @@
    "source": "Game Developer",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0VsaENSV1dWdGNnLWpvYWtuNUZwaHdRaHN1OTh6TnRIQy1vbk9RN1ZIenBuOTVBVWdiajduYWxtOWt6dVVORjE2NVRFUHBYMWpxcHpvaGlCZEx3UFN2aGV6N2RQdHktVGRfbXhJZG9pcDQtU3UzcS1SOHo4NS1FWUswNGVFZTI5VExIQTZRd2R5eGYwWmVxQi0tbVhDOFlKNzNndUdLNHNaQ3hEVjZzUTJCcTY2dFdCdDBhcg?oc=5",
    "type": null,
-   "time": "2026-11-06T18:00:54Z",
+   "time": "2026-11-07T01:33:47Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "pakistan-uk-agree-to-expand-cooperation-on-count",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Le Pakistan et le Royaume-Uni conviennent d'élargir leur coopération en matière de lutte contre le terrorisme et les stupéfiants",
-   "summary": "ISLAMABAD : Le Pakistan et le Royaume-Uni ont convenu vendredi de renforcer leur coopération dans les domaines de la lutte contre le terrorisme, de la lutte contre les stupéfiants, de la cybercriminalité et de l'immigration, selon le ministère de l'Intérieur.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan et le Royaume-Uni conviennent d'élargir leur coopération en matière de lutte contre le terrorisme et les stupéfiants."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD : Le Pakistan et le Royaume-Uni ont convenu vendredi de renforcer leur coopération dans les domaines de la lutte contre le terrorisme, de la lutte contre les stupéfiants, de la cybercriminalité et de l'immigration, selon le ministère de l'Intérieur."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042608/pakistan-uk-agree-to-expand-cooperation-on-counterterrorism-narcotics",
-   "type": null,
-   "time": "2026-11-06T12:30:44Z",
-   "countries": [
-    "Pakistan",
-    "United Kingdom"
-   ]
-  },
-  {
-   "id": "uae-condemns-armed-attack-in-southern-egypt",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Les Émirats arabes unis condamnent l'attaque armée dans le sud de l'Égypte",
-   "summary": "Les Émirats arabes unis condamnent l'attaque armée dans le sud de l'Égypte",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les Émirats arabes unis condamnent l'attaque armée dans le sud de l'Égypte."
-    }
-   ],
-   "source": "وزارة الخارجية الإماراتية",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4WmxwTGlfNXdkRDNWN2Q4UllxcnFFM1hobENXRzlDcF9MOGVsMlVmZjN2Z2hleGMtM01Pcnp2ZU1wUTlIT01yOTlSanozQ1VyelZpZGtyTWUybFlKOXhXUWQybjdGakhjZG9OOA?oc=5",
-   "type": null,
-   "time": "2026-11-06T21:26:01Z",
-   "countries": [
-    "United Arab Emirates",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "turkish-parliament-approves-makkah-defence-pact-",
-   "country": "Turkey",
-   "label": "TURQUIE",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Le Parlement turc approuve l'accord de défense de La Mecque avec le Pakistan et l'Arabie Saoudite",
-   "summary": "Le parlement turc a approuvé jeudi un projet de loi ratifiant l'accord de La Mecque sur la défense commune avec le Pakistan et l'Arabie saoudite, ouvrant ainsi la voie à l'entrée en vigueur de l'accord de sécurité trilatéral.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le parlement turc approuve l'accord de défense de La Mecque avec le Pakistan et l'Arabie saoudite."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le parlement turc a approuvé jeudi un projet de loi ratifiant l'accord de La Mecque sur la défense commune avec le Pakistan et l'Arabie saoudite, ouvrant ainsi la voie à l'entrée en vigueur de l'accord de sécurité trilatéral."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042575/turkish-parliament-approves-makkah-defence-pact-with-pakistan-saudi-arabia",
-   "type": null,
-   "time": "2026-11-06T07:01:09Z",
-   "countries": [
-    "Turkey",
-    "Pakistan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "wrestlemania-43-in-saudi-arabia-faces-a-problem-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "WrestleMania 43 en Arabie Saoudite est confronté à un problème que la WWE ne peut pas souhaiter",
-   "summary": "WrestleMania 43 en Arabie Saoudite est confronté à un problème que la WWE ne peut pas souhaiter",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "WrestleMania 43 en Arabie Saoudite est confronté à un problème que la WWE ne peut pas souhaiter."
-    }
-   ],
-   "source": "Lee News Central",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVExUYTM2bWZpLWx4d1ZIT2RUVDFzWTlEVEVJWFczZDlYbVVjR2dja3QtLXQwdGlLUkd5N2NvRlRaTnhqcTRxWTFKaFhHeWwwcGx1S09LNjhjVHlzVVVMaGFZSlFDUmRadnV6OXdTMGd4RkhXb0lNd1E1SEVMbG1ZRVFvenlnOUpJdHhYUUNsVHBVVmpXam9VNlVDNm5PQV9pU2Y3WjNSSmhaQzM5dFA5a1FvZ2Z0YS0xbENaSUtaUEY2NGdNbFhUQ1puRm1YWFdyTlNLeDhONWtXbHh4eUVuZVE4WGZSMTZmXzQ3UGY2RTBXNmFxcUlRbndKOUlDYkE?oc=5",
-   "type": null,
-   "time": "2026-11-06T16:30:00Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "major-construction-ongoing-near-iran-missile-bas",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "qatari-pm-says-us-willing-to-seek-solution-to-wa",
+   "country": "Qatar",
+   "label": "QATAR",
+   "lat": 25.3,
+   "lon": 51.2,
+   "flag": "🇶🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Des travaux majeurs en cours près des bases de missiles iraniennes, suggèrent des images satellite",
-   "summary": "Des preuves de creusement et de nouveaux bâtiments sont visibles sur les images satellite prises en novembre, suggèrent les images satellite.",
+   "headline": "Le Premier ministre qatari affirme que les États-Unis sont prêts à rechercher une solution à la guerre avec l'Iran",
+   "summary": "Le Premier ministre qatari affirme que les États-Unis sont prêts à rechercher une solution à la guerre avec l'Iran",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Des travaux majeurs sont en cours près des bases de missiles iraniennes, suggèrent des images satellite."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Des preuves de creusement et de nouveaux bâtiments sont visibles sur les images satellite prises en novembre, suggèrent les images satellite."
+     "text": "Le Premier ministre qatari a déclaré que les États-Unis étaient prêts à rechercher une solution à la guerre avec l'Iran."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
    "type": null,
-   "time": "2026-11-06T07:33:41Z",
+   "time": "2026-11-07T07:10:37Z",
    "countries": [
+    "Qatar",
+    "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "rory-mcilroy-gets-two-shot-penalty-after-first-r",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Rory McIlroy écope de deux tirs de pénalité après le premier tour à Abu Dhabi ; Francesco Laporta mène avec 62",
-   "summary": "Rory McIlroy écope de deux tirs de pénalité après le premier tour à Abu Dhabi ; Francesco Laporta mène avec 62",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rory McIlroy écope de deux tirs de pénalité après le premier tour à Abu Dhabi ; Francesco Laporta mène avec 62."
-    }
-   ],
-   "source": "PGA Tour",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdWRsaEVDR3NGb2I0V2NrN1E2RTY1czhSSVN3SlhJcHdWRU5VSGlTRUE4T1Ftc3ZJYjRidDhITnNaeHFVc3lfU0ZsUTlNbm0xcXhXMnpHWHVJV1hTR2xfUWFUOEFIaGZuNTJQNUhuZXhzWk9XR29LVkJEeENKb3VJM09vREc4ZHJzZ2Q0NFlrSDBSbE9MUGZ2SHd4TmV2cGpSOVpPVkRtNXRuZFFSM0ItVFZkcGxqOVo2azQ1RWkxRDEtZXkxbEo1Snp6cDh1OEdfMUN5SEN3U2tteVJsNHR5cVBacnYxUFc3NU82UnFXWlJmNFk?oc=5",
-   "type": null,
-   "time": "2026-11-06T11:27:25Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "russia-us-ukraine-to-resume-peace-talks-in-abu-d",
+   "id": "russia-ukraine-peace-talks-putin-confirms-fresh-",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
@@ -267,258 +450,72 @@
    "flag": "🇦🇪",
    "severity": "watch",
    "category": "UAE",
-   "headline": "La Russie, les États-Unis et l'Ukraine vont reprendre les pourparlers de paix à Abu Dhabi | Sabah quotidien",
-   "summary": "La Russie, les États-Unis et l'Ukraine vont reprendre les pourparlers de paix à Abu Dhabi | Sabah quotidien",
+   "headline": "Russie Ukraine Pourparlers de paix | Poutine confirme de nouveaux pourparlers de paix avec l'Ukraine à Abou Dhabi mardi prochain",
+   "summary": "Russie Ukraine Pourparlers de paix | Poutine confirme de nouveaux pourparlers de paix avec l'Ukraine à Abou Dhabi mardi prochain",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La Russie, les États-Unis et l'Ukraine vont reprendre les pourparlers de paix à Abu Dhabi | Sabah quotidien."
+     "text": "Russie Ukraine Pourparlers de paix | Poutine confirme de nouveaux pourparlers de paix avec l'Ukraine à Abou Dhabi mardi prochain."
     }
    ],
-   "source": "Daily Sabah",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUNqNF9PMmtjQi00QjdDTGx3M1FSTlJLcFk0Um55ZlFkQVQwMnFlUkFiMVNYWVhWdE52UlZiNjZybVJROV9HZ0F6UnJTamRGdWJVOWJRcDloaVNuRldLU2V2YVlwZk9MR2RLMzJ3WTdRMmk1V3RwdzJLNGhSTV9aVjIzQ0J6Zm1uc3h5al9FVUlwSEw5TW9z0gGcAUFVX3lxTFBaTkxfaDNtejV6Rnktdmdaa09OYWpPbkIxV2tBd0h5OUtHM01PaHM1OEVWT3hrZmpJcHFsSkFVaEpDVVM2Yk9lUWstN2ZIR0l4a3RHN2xJU1pnVVhvWFRWd2hxZzZyOU90dTdXV05la1htRW9zdUpOMWhLdW00MkozdVZKTGtlVTF2OXpTaHZjbTNDbl94ZFh0UmZxTQ?oc=5",
-   "type": null,
-   "time": "2026-11-06T18:44:00Z",
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWZXQzJLcE9rM1ZaU1liMlJnYUhJQk9ZeHpnTk1SZnllVy0yMFBkazNZRU1yM3ZsN3FuQjdkb0s2WldLRVdpWnJDaVBJd3cxUXg3LUE3dHlLa0RNQ2l2RkpUbnBEOWNUZ2Iya2gySEJldG1YZkhpTHhqdU5vRWltTHNmal9QXzlYUU5ibndBVFdlUnFLUXdGLWhCaC1nTzEwbWcyWllWbDhwYVpfcmlMYlBnZjE3UlBPSTNRZlA2SHEyTWYxelppZDB0TGd5QQ?oc=5",
+   "type": "VIDEO",
+   "time": "2026-11-07T07:09:59Z",
    "countries": [
     "United Arab Emirates",
     "Russia",
-    "United States of America",
     "Ukraine"
    ]
   },
   {
-   "id": "pakistan-s-external-debt-nearly-doubles-to-135-b",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "La dette extérieure du Pakistan a presque doublé pour atteindre 135 milliards de dollars en une décennie, selon la Banque mondiale",
-   "summary": "La dette extérieure du Pakistan a presque doublé pour atteindre 135 milliards de dollars en une décennie, selon la Banque mondiale",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La dette extérieure du Pakistan a presque doublé pour atteindre 135 milliards de dollars en une décennie : Banque mondiale."
-    }
-   ],
-   "source": "Khaama Press",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ROXh5aHhTRlp3ZGVPV2ozYkNzMnQydi1GSVZVOWpXeURrOEdXaEY1Y2FfZG15bFRCNDlpRXVrV1dlQTVTYWJfd0pMREtIbmNLNWdPZV9Da1Mtc19vUWllMlk1b3JEaGpjOWc?oc=5",
-   "type": null,
-   "time": "2026-11-06T18:22:16Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-replaces-chief-of-staff-susie-wiles-with-s",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "World",
-   "headline": "Trump remplace la chef de cabinet Susie Wiles par Stephen Miller",
-   "summary": "Miller est un proche confident de Trump depuis 2016 et un architecte de la politique d’immigration dure du président.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump remplace la chef de cabinet Susie Wiles par Stephen Miller."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Compris. Continue."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Miller est un proche confident de Trump depuis 2016 et un architecte de la politique d’immigration dure du président."
-    }
-   ],
-   "source": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZGhwZGJCYW5FVk5iS004QzFIRGlOR1MzSHRVSWJVSmI0OWh0SXlzTzFpYjF0a0JKTGJBeHkyOUZPR2lPZWw2UXRCQUZZZks5bjY3V1hJTExQWFE0MVIxdl93bTV2enhUandDTFRWSnBHLVZESWoyeGh5V3l5cWJLLUtxWUgtb0U?oc=5",
-   "type": null,
-   "time": "2026-11-06T21:41:54Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "oil-prices-plunge-as-u-s-elections-shake-up-the-",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "-uae-is-my-first-home-dubai-teenager-riyan-malha",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole chutent alors que les élections américaines bouleversent la guerre en Iran",
-   "summary": "Les prix du pétrole chutent alors que les élections américaines bouleversent la guerre en Iran",
+   "category": "Sports",
+   "headline": "« Les Émirats arabes unis sont ma première maison » : l'adolescent de Dubaï Riyan Malhan à propos de l'or historique aux Jeux olympiques de la jeunesse et d'un Diwali inoubliable",
+   "summary": "« Les Émirats arabes unis sont ma première maison » : l'adolescent de Dubaï Riyan Malhan à propos de l'or historique aux Jeux olympiques de la jeunesse et d'un Diwali inoubliable",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les prix du pétrole chutent alors que les élections américaines bouleversent la guerre en Iran."
+     "text": "« Les Émirats arabes unis sont ma première maison » : l'adolescent de Dubaï Riyan Malhan à propos de l'or historique aux Jeux olympiques de la jeunesse et d'un Diwali inoubliable."
     }
    ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXgycURTcGxkYWNzYVlfaWY1bGRRRzlVNUU1emVaYTh1WnVtU2NFaXE5bDZzUUtodzVIQmRqY1R0a3hKdHh2Zng4SWZfdUdTMTVUZG9Dc3FieF9GRU9qQTlqWGZDTjBiRWVTQURWVXg4dVRXYmM1eXM3U2tFbktQUHFzS1B1SDBRODY3bjJLbm9pZlRObjZRWlYyWjlOdEVkZzZ5UXFn0gGrAUFVX3lxTE5hWDZCN0k2ZmlKOXc2ZHdOVElYYnpCb01tcjVxYzdpcHBvRGxwel9kWmt0S1ZVQjVCN0VkNUUxTWVtdlRRZm1OTjQ0UlRidUp1Z0U1cVRCQkVfN1lCaTMtMlN5My1SMW45WGM3UE53eDdOQ3hvb0FaVE5LSnFXUk5YY2ktbjVuTWZZNFgwZ25SQk1EOUozS1lESGxJdXJtMXNqQ3BtcHppV3pCaw?oc=5",
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWFOZ3NtMjRUa2tTN1pWMm03NUJHU3lzNEZ6Sk9WaVU5V0QzcGt2T0l3ODU4TkRzdXBhbnZ5QjBKMXpxd2tldDJFVDNfa25FWm5ZQkl6YlE1Wm1VWVoxVmZOOFZpcGVndU9BeFJVT1pBeHVrcFJrNE1tcm01YWlyN3pEUE1XU2lMWHhWV2N1OVFPQ2M1YVV4ZVFocGpmcVpPVXZZWFh3WnBhcGxjdXc0QTZnU0R4TXlXdWhqdng0b2MyY2VOSjJPWEJHUzVFOGxtQXlrX3dodU5adUnSAesBQVVfeXFMTUN3MXRia3dhdzBYNC1teWZBWVZveVR4TEJsZ3ZLOURpNW5GbkFGM0NySi1sakFQVmhZYVVPNm5nSmNCR2NCTkEzYXJiZkNwMklIRGpNLWNxNXlDQ3lyYzZsQWRsMTRkTlhJWlk1bFBvNFZNaGFWaGhIWW40cE5nME9FaUVlM1dXenNZQTNmZVFPN2duenNGMWNTUmRERGF6R2xobWJlazY2WERoLU8tRUp5ZTd0ck9aU0Q5ak9PQ29mRDljR3BkLS13NUlSOGEtMDQ2MFV3bUJOZWNOMF9tOXd4U1IyRHJVdzFuOA?oc=5",
    "type": null,
-   "time": "2026-11-06T12:30:00Z",
+   "time": "2026-11-07T09:04:37Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "duchess-meghan-s-father-thomas-markle-sr-arreste",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "Le père de la duchesse Meghan, Thomas Markle Sr., arrêté en Floride dans le cadre d'une enquête sur la pédopornographie",
-   "summary": "Les autorités américaines ont trouvé des photos sexuellement explicites qui semblaient montrer Thomas Markle avec des filles prépubères.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le père de la duchesse Meghan, Thomas Markle Sr., arrêté en Floride dans le cadre d'une enquête sur la pédopornographie."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce grave ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les autorités américaines ont trouvé des photos sexuellement explicites qui semblaient montrer Thomas Markle avec des filles prépubères."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYTJhUDF0dl95am51ZUJURHdEc2lMNUctVV9nZTAxeW9fMUw1dVF2REp6Z3B0a0FzTURFeG8xVFRfYUoxazcwQkRZdkFEejQ2aVB1ckdKemhQRWVnYzc0OUN2aldBVXF0OE56aXdtUmRUeVpPT0pORkdLWWs5djVYSVFVQQ?oc=5",
-   "type": null,
-   "time": "2026-11-06T19:31:00Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "t-rkiye-ratifies-joint-defense-agreement-with-pa",
-   "country": "Turkey",
-   "label": "TURQUIE",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "La Turquie ratifie l'accord de défense commune avec le Pakistan et l'Arabie saoudite",
-   "summary": "La Turquie ratifie l'accord de défense commune avec le Pakistan et l'Arabie saoudite",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Turquie ratifie l'accord de défense commune avec le Pakistan et l'Arabie saoudite."
-    }
-   ],
-   "source": "Caspian Post",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmhKbTlJWUhYWll1bWktajFhOFFheWhMSnBJM2VfNTBCaUprWkR1N2YyVDRMTDd5d05jV0k5MXpDR0JDMkRuSENob2VZaVVxa0R6V0l4NjlpMVBFZGVvQVN1TUxNcm9kX01pa2k3Zzh1MGgtY296d2JmM2FiZzZuQzd6bFVaRE53NERiVHY3LXNNN0RXOFBvSHdnYW14ZjR5cTZUYWxB?oc=5",
-   "type": null,
-   "time": "2026-11-06T12:52:45Z",
-   "countries": [
-    "Turkey",
-    "Pakistan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "makkah-defence-alliance-secretary-general-to-ass",
+   "id": "what-s-the-latest-saudi-arabia-security-update-a",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Le secrétaire général de l'Alliance de défense de La Mecque prendra bientôt ses fonctions à Riyad (FO)",
-   "summary": "Le ministère des Affaires étrangères (FO) a indiqué vendredi que le secrétaire général de l'Alliance de défense de La Mecque, le lieutenant-général à la retraite Nauman Mahmood, devrait bientôt prendre ses responsabilités à Riyad.",
+   "headline": "Quelle est la dernière mise à jour de sécurité en Arabie Saoudite avant le joyau de la couronne de la WWE aujourd'hui ?",
+   "summary": "Quelle est la dernière mise à jour de sécurité en Arabie Saoudite avant le joyau de la couronne de la WWE aujourd'hui ?",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le secrétaire général de l'Alliance de défense de La Mecque prendra bientôt ses fonctions à Riyad : FO."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le ministère des Affaires étrangères (FO) a indiqué vendredi que le secrétaire général de l'Alliance de défense de La Mecque, le lieutenant-général à la retraite Nauman Mahmood, devrait bientôt prendre ses responsabilités à Riyad."
+     "text": "Quelle est la dernière mise à jour de sécurité en Arabie saoudite avant le joyau de la couronne de la WWE aujourd'hui ?"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042611/makkah-defence-alliance-secretary-general-to-assume-duties-in-riyadh-soon-fo",
+   "source": "Sports Illustrated",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVSWnBFdXpuZkhoa1QtZnlqNWhQZnk2dHJCMzdwaFcxSjJjSUVvMUo3SXRkamNrWUVKcGFFM2Vudm9qMlo2UGZ5cVRYUW1IVkVFRUZmMk0yRW9SbENoZndicmNLMkdBejFoUTNSYkZ3dHIzNlFjdllwZDVlMVJ2ekNSMFZHRjR3OGlNZ3RBSjB0TEdHVnMtUHNaNHZ6RE82cHNvZ1B1VDdXSFFscHlCSkpIR3g0by1scVE4?oc=5",
    "type": null,
-   "time": "2026-11-06T18:31:41Z",
+   "time": "2026-11-07T06:00:00Z",
    "countries": [
     "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "two-missiles-struck-iran-s-qeshm-island-after-ai",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Deux missiles ont frappé l'île iranienne de Qeshm après que l'avion a été entendu au-dessus",
-   "summary": "Deux missiles ont frappé l'île iranienne de Qeshm après que l'avion a été entendu au-dessus",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Deux missiles ont frappé l'île iranienne de Qeshm après que l'avion ait entendu ci-dessus."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5",
-   "type": null,
-   "time": "2026-11-06T22:19:06Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "cdf-munir-sudan-s-interior-minister-discuss-aven",
-   "country": "Sudan",
-   "label": "SOUDAN",
-   "lat": 15.5,
-   "lon": 30.2,
-   "flag": "🇸🇩",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "CDF Munir et le ministre soudanais de l'Intérieur discutent des moyens de renforcer la coopération bilatérale : ISPR",
-   "summary": "Le chef des Forces de défense (CDF) et chef d'état-major de l'armée, le maréchal Asim Munir, et le ministre soudanais de l'Intérieur, le lieutenant-général (police) Babiker Samra Mustafa Ali, ont discuté vendredi des moyens de renforcer la coopération bilatérale entre leurs pays.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "CDF Munir et le ministre soudanais de l'Intérieur discutent des pistes pour renforcer la coopération bilatérale : ISPR."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le chef des Forces de défense (CDF) et chef d'état-major de l'armée, le maréchal Asim Munir, et le ministre soudanais de l'Intérieur, le lieutenant-général (police) Babiker Samra Mustafa Ali, ont discuté vendredi des moyens de renforcer la coopération bilatérale entre leurs pays."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042634/cdf-munir-sudans-interior-minister-discuss-avenues-to-enhance-bilateral-cooperation-ispr",
-   "type": null,
-   "time": "2026-11-06T17:48:21Z",
-   "countries": [
-    "Sudan"
    ]
   }
  ]
