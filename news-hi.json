@@ -1,29 +1,54 @@
 {
- "updated": "2026-11-07T09:17:21.233248Z",
+ "updated": "2026-11-07T23:42:48.516582Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
   {
-   "id": "syria-said-to-be-lending-military-support-to-sau",
+   "id": "jon-rahm-shoots-66-to-lead-by-one-in-abu-dhabi-r",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "अबू धाबी में जॉन रहम 66 रन बनाकर एक से आगे चल रहे हैं; रोरी मैक्लेरॉय 2 शॉट पीछे",
+   "summary": "अबू धाबी में जॉन रहम 66 रन बनाकर एक से आगे चल रहे हैं; रोरी मैक्लेरॉय 2 शॉट पीछे",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अबू धाबी में जॉन रहम 66 रन बनाकर एक से आगे चल रहे हैं; रोरी मैक्लेरॉय 2 शॉट पीछे।"
+    }
+   ],
+   "source": "ESPN",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjhrdUlDbEE2MmY1WnI2R211MmdLNE1Uc2J3cXJfRXp0eDJWWVptR3lMRjlPNUpYdEt4VHpfblFfbW9WNk1weHdhMDhlT0tiT1NtUi03WlFTTElJMjZJVEZwMFljWExLdmgzZmttQTFuNnFKVkl1cUdmRzQ3cHJUR3JFa2p3TzZYSHYzaGw3cmVydkFrUVcw?oc=5",
+   "type": null,
+   "time": "2026-11-07T13:42:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "syria-denies-sending-troops-to-saudi-arabia-or-y",
    "country": "Syria",
    "label": "सीरिया",
    "lat": 35.0,
    "lon": 38.5,
    "flag": "🇸🇾",
-   "severity": "critical",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "हौथी हमलों के बीच सीरिया ने सऊदी अरब को सैन्य सहायता देने की बात कही है",
-   "summary": "हौथी हमलों के बीच सीरिया ने सऊदी अरब को सैन्य सहायता देने की बात कही है",
+   "headline": "सीरिया ने सऊदी अरब या यमन में सेना भेजने से इनकार किया है",
+   "summary": "सीरिया ने सऊदी अरब या यमन में सेना भेजने से इनकार किया है",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "हौथी हमलों के बीच सीरिया ने सऊदी अरब को सैन्य सहायता देने की बात कही है।"
+     "text": "सीरिया ने सऊदी अरब या यमन में सेना भेजने से इनकार किया है।"
     }
    ],
-   "source": "The Arab Weekly",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEp0NE1RMkFEemJQVzlLQW5ta2NaMzlzS0IwYUdpN2RNM0FrNDRVR0gxdnJfVXBSSDRZSUUwRHA2ZVdCa0VaazhiZ0M1R0ZLTlJtYzRob1didXpWREJXMmFJNUJWazlXN1VoVTN3TE5hNC1UUlNIUlJrYUVzTEhrVi1WUGxFblNfeldCbzdqTDZkTndScl9DdDZzbDBfQQ?oc=5",
+   "source": "الحرة",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaWZxQllIbDJKV0lUZ0Q5bXJpdks0RGdObGh0NExITTBoR2N5N3dHM1pWRmJjQ0Vac3NYbXRaR281UQ?oc=5",
    "type": null,
-   "time": "2026-11-07T08:53:10Z",
+   "time": "2026-11-07T21:36:01Z",
    "countries": [
     "Syria",
     "Saudi Arabia",
@@ -31,118 +56,32 @@
    ]
   },
   {
-   "id": "how-pakistan-s-first-astronaut-got-a-seat-on-chi",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान के पहले अंतरिक्ष यात्री को चीन के अंतरिक्ष स्टेशन पर कैसे मिली सीट?",
-   "summary": "पाकिस्तान के पहले अंतरिक्ष यात्री को चीन के अंतरिक्ष स्टेशन पर कैसे मिली सीट?",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान के पहले अंतरिक्ष यात्री को चीन के अंतरिक्ष स्टेशन पर कैसे मिली सीट?"
-    }
-   ],
-   "source": "Open Magazine",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEVyam9VamtuSGFkLUtxNE5vRGpWQUt0RXJCTVlFbkUzdHZRSUV5YjY5RkpqSnQ1N2htNDd0ZmdrSE9NWjRPeG5EUGZiT1JfWEZ0elVsSTYtdkJ1VG9XYkFsbjdHX3dnWm55MnZBcDdxeEdPS0x4c0R5cmkxejlTOFVPUFVuWHdMRnFZOTBEdkNneFQwZjZDNlBJNEZGZTdDRTl1OUlWejhJQ3Vp?oc=5",
-   "type": "EXPLAINER",
-   "time": "2026-11-07T07:18:20Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-intercepted-houthi-c",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "airstrikes-kill-more-than-2-dozen-people-near-ye",
+   "country": "Yemen",
+   "label": "यमन",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद के ऊपर हौथी क्रूज़ मिसाइल को रोका",
-   "summary": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद के ऊपर हौथी क्रूज़ मिसाइल को रोका",
+   "headline": "हौथिस का कहना है कि यमन की राजधानी के पास हवाई हमलों में 2 दर्जन से अधिक लोग मारे गए",
+   "summary": "हौथिस का कहना है कि यमन की राजधानी के पास हवाई हमलों में 2 दर्जन से अधिक लोग मारे गए",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद के ऊपर हौथी क्रूज़ मिसाइल को रोका।"
+     "text": "हौथिस का कहना है कि यमन की राजधानी के पास हवाई हमलों में 2 दर्जन से अधिक लोग मारे गए।"
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUNidEdxZ0ZldC1CM2hrZ2QwREdiVEROZlhXTHBPc1NOME1IcDVkb1NOVHoxRHRTMGZFUHBoVllNVGFLTWMxLWNMMU80aXhuOFhMMTlXUENzU1VsVHVfTDFMcXpJa0ZFeGp2czAyVTZJZTJQTl81MFpKemQ5Q3JXeVRxZl82SjFCcHg4ZVBtOGV4Y2ZteFZBOXpraE1zTkVIeDFkZ3l4RmlnU3ZQOVBmdkpFb2xReERoTGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
    "type": null,
-   "time": "2026-11-07T06:03:13Z",
+   "time": "2026-11-07T16:42:00Z",
    "countries": [
-    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "us-offers-reward-of-up-to-20-million-possible-re",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "अमेरिका ने ईरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर तक का इनाम, संभावित स्थानांतरण की पेशकश की है",
-   "summary": "अमेरिका ने ईरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर तक का इनाम, संभावित स्थानांतरण की पेशकश की है",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिका ने ईरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर तक का इनाम, संभावित स्थानांतरण की पेशकश की है।"
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
-   "type": null,
-   "time": "2026-11-07T07:26:49Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-forces-stronger-than-at-beginning-of-w",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ईरान का कहना है कि सेनाएं युद्ध की शुरुआत से भी अधिक 'मजबूत' हैं",
-   "summary": "ईरान ने शनिवार को कहा कि संयुक्त राज्य अमेरिका के साथ युद्ध शुरू होने के बाद से उसकी सेना \"मजबूत\" हो गई है, जिसने तेहरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर का इनाम देने की पेशकश की है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान का कहना है कि सेनाएं युद्ध की शुरुआत से भी अधिक 'मजबूत' हैं।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ईरान ने शनिवार को कहा कि संयुक्त राज्य अमेरिका के साथ युद्ध शुरू होने के बाद से उसकी सेना \"मजबूत\" हो गई है, जिसने तेहरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर का इनाम देने की पेशकश की है।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042798/iran-says-forces-stronger-than-at-beginning-of-war",
-   "type": null,
-   "time": "2026-11-07T05:29:51Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-sudan-to-sign-mou-on-cybercrime-coopera",
+   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
@@ -150,12 +89,12 @@
    "flag": "🇵🇰",
    "severity": "high",
    "category": "Tech",
-   "headline": "पाकिस्तान, सूडान साइबर अपराध सहयोग पर समझौता ज्ञापन पर हस्ताक्षर करेंगे",
-   "summary": "इस्लामाबाद: आंतरिक मंत्रालय द्वारा जारी एक बयान के अनुसार, पाकिस्तान और सूडान ने शनिवार को साइबर अपराध से निपटने में सहयोग बढ़ाने के लिए एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर करने का फैसला किया।",
+   "headline": "पाकिस्तान, सूडान ने आधिकारिक, राजनयिक पासपोर्ट धारकों के लिए वीज़ा-मुक्त यात्रा समझौते पर हस्ताक्षर किए",
+   "summary": "आंतरिक मंत्रालय के एक बयान के अनुसार, पाकिस्तान और सूडान ने शनिवार को आधिकारिक और राजनयिक पासपोर्ट धारकों के लिए वीजा-मुक्त यात्रा पर एक समझौते पर हस्ताक्षर किए।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान, सूडान साइबर अपराध सहयोग पर समझौता ज्ञापन पर हस्ताक्षर करेंगे।"
+     "text": "पाकिस्तान, सूडान ने आधिकारिक, राजनयिक पासपोर्ट धारकों के लिए वीज़ा-मुक्त यात्रा समझौते पर हस्ताक्षर किए।"
     },
     {
      "role": "COMMANDER",
@@ -163,80 +102,54 @@
     },
     {
      "role": "ANALYST",
-     "text": "इस्लामाबाद: आंतरिक मंत्रालय द्वारा जारी एक बयान के अनुसार, पाकिस्तान और सूडान ने शनिवार को साइबर अपराध से निपटने में सहयोग बढ़ाने के लिए एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर करने का फैसला किया।"
+     "text": "आंतरिक मंत्रालय के एक बयान के अनुसार, पाकिस्तान और सूडान ने शनिवार को आधिकारिक और राजनयिक पासपोर्ट धारकों के लिए वीजा-मुक्त यात्रा पर एक समझौते पर हस्ताक्षर किए।"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-to-sign-mou-on-cybercrime-cooperation",
+   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
    "type": null,
-   "time": "2026-11-07T06:58:29Z",
+   "time": "2026-11-07T12:05:46Z",
    "countries": [
     "Pakistan",
     "Sudan"
    ]
   },
   {
-   "id": "pakistan-warns-un-against-weakening-peacekeeping",
+   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
+   "severity": "watch",
    "category": "Pakistan",
-   "headline": "पाकिस्तान ने बजट में कटौती के बीच शांति व्यवस्था को कमजोर करने के खिलाफ संयुक्त राष्ट्र को चेतावनी दी",
-   "summary": "संयुक्त राष्ट्र: पाकिस्तान ने संयुक्त राष्ट्र से आग्रह किया है कि वह अपने शांति अभियानों को कमजोर करने के लिए वित्तीय बाधाओं और लागत में कटौती के उपायों की अनुमति न दे, चेतावनी दी है कि संसाधनों में कटौती संगठन की अंतर्राष्ट्रीय बनाए रखने की क्षमता को कमजोर कर सकती है।",
+   "headline": "पाकिस्तानी अंतरिक्ष यात्री चीन के अंतरिक्ष स्टेशन शेनझोउ-24 मिशन में शामिल होंगे",
+   "summary": "बीजिंग की मानवयुक्त अंतरिक्ष एजेंसी ने शनिवार को कहा कि एक पाकिस्तानी अंतरिक्ष यात्री शेनझोउ-24 मिशन पर सवार होकर चीन के तियांगोंग अंतरिक्ष स्टेशन की यात्रा करेगा, जो परिक्रमा चौकी का दौरा करने वाला पहला विदेशी बन जाएगा।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान ने बजट में कटौती के बीच शांति व्यवस्था को कमजोर करने के खिलाफ संयुक्त राष्ट्र को चेतावनी दी।"
+     "text": "पाकिस्तानी अंतरिक्ष यात्री चीन के अंतरिक्ष स्टेशन शेनझोउ-24 मिशन में शामिल होंगे।"
     },
     {
      "role": "COMMANDER",
-     "text": "कोई हताहत?"
+     "text": "ठीक है। विवरण?"
     },
     {
      "role": "ANALYST",
-     "text": "संयुक्त राष्ट्र: पाकिस्तान ने संयुक्त राष्ट्र से आग्रह किया है कि वह अपने शांति अभियानों को कमजोर करने के लिए वित्तीय बाधाओं और लागत में कटौती के उपायों की अनुमति न दे, चेतावनी दी है कि संसाधनों में कटौती संगठन की अंतर्राष्ट्रीय बनाए रखने की क्षमता को कमजोर कर सकती है।"
+     "text": "बीजिंग की मानवयुक्त अंतरिक्ष एजेंसी ने शनिवार को कहा कि एक पाकिस्तानी अंतरिक्ष यात्री शेनझोउ-24 मिशन पर सवार होकर चीन के तियांगोंग अंतरिक्ष स्टेशन की यात्रा करेगा, जो परिक्रमा चौकी का दौरा करने वाला पहला विदेशी बन जाएगा।"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042796/pakistan-warns-un-against-weakening-peacekeeping-amid-budget-cuts",
+   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
    "type": null,
-   "time": "2026-11-07T04:59:04Z",
+   "time": "2026-11-07T11:39:16Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "China"
    ]
   },
   {
-   "id": "moscow-strikes-kyiv-as-ukraine-prepares-for-talk",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "यूक्रेन द्वारा रूस और अमेरिका के साथ बातचीत की तैयारी के बीच मास्को ने कीव पर हमला किया",
-   "summary": "यूक्रेन द्वारा रूस और अमेरिका के साथ बातचीत की तैयारी के बीच मास्को ने कीव पर हमला किया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूक्रेन द्वारा रूस और अमेरिका के साथ बातचीत की तैयारी के बीच मास्को ने कीव पर हमला किया।"
-    }
-   ],
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUi1zYk5UaVZlcUMwNklJUjVqQ3c4ZlNvMmw1cWZBaHNpMG1xeGlrX21NQUdRZGhmMk4zdnl6QXVWLTBDQlRPdER1UWRZT2FqNlBCcFpacHJkeEdpbnFaTGxiNDEtM1o0WnN0VmsycVdKZ0tnb0dKS0puMGxzenFhMmZzSzJwR2N2cVhMcG5zaFMydlZvanRFT21Od3ZuRzVON2RFYzFWdFYwajk0S2VuOGNScnJtaE0?oc=5",
-   "type": null,
-   "time": "2026-11-07T08:08:44Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "trump-says-u-s-carried-out-minor-strikes-on-iran",
+   "id": "us-offers-20m-reward-for-information-about-iran-",
    "country": "United States of America",
    "label": "संयुक्त राज्य अमेरिका",
    "lat": 39.0,
@@ -244,72 +157,80 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "ट्रंप का कहना है कि केशम द्वीप पर मिसाइलों के हमले के बाद अमेरिका ने ईरान पर 'मामूली हमले' किए",
-   "summary": "ट्रंप का कहना है कि केशम द्वीप पर मिसाइलों के हमले के बाद अमेरिका ने ईरान पर 'मामूली हमले' किए",
+   "headline": "अमेरिका ने ईरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर का इनाम देने की पेशकश की है",
+   "summary": "डोनाल्ड ट्रम्प ने बार-बार ईरान की परमाणु सुविधाओं के खिलाफ नए सिरे से हमले की संभावना जताई है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ट्रंप का कहना है कि केशम द्वीप पर मिसाइलों के हमले के बाद अमेरिका ने ईरान पर 'मामूली हमले' किए।"
+     "text": "अमेरिका ने ईरान के परमाणु कार्यक्रम के बारे में जानकारी देने वाले को 20 मिलियन डॉलर का इनाम देने की पेशकश की है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "डोनाल्ड ट्रम्प ने बार-बार ईरान की परमाणु सुविधाओं के खिलाफ नए सिरे से हमले की संभावना जताई है।"
     }
    ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T07:37:36Z",
+   "time": "2026-11-07T18:14:38Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "trump-confirms-us-strikes-in-iran-insists-it-s-n",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ट्रंप ने ईरान में अमेरिकी हमलों की पुष्टि की, कहा 'यह युद्ध नहीं है'",
-   "summary": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका ने ईरान के केशम द्वीप पर 'मामूली हमले' किए हैं.",
+   "id": "pcb-adds-aamir-jamal-three-uncapped-players-to-p",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "पीसीबी ने आमिर जमाल समेत तीन अनकैप्ड खिलाड़ियों को श्रीलंका टेस्ट के लिए पाकिस्तान टीम में शामिल किया है",
+   "summary": "पाकिस्तान क्रिकेट बोर्ड (पीसीबी) ने शनिवार को श्रीलंका के खिलाफ दो मैचों की श्रृंखला के लिए तेज गेंदबाजी ऑलराउंडर आमिर जमाल और तीन अनकैप्ड खिलाड़ियों को टेस्ट टीम में शामिल किया, जिससे टीम की ताकत 16 हो गई है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ट्रम्प ने ईरान में अमेरिकी हमलों की पुष्टि की, जोर देकर कहा 'यह युद्ध नहीं है'।"
+     "text": "पीसीबी ने आमिर जमाल समेत तीन अनकैप्ड खिलाड़ियों को श्रीलंका टेस्ट के लिए पाकिस्तान टीम में शामिल किया है।"
     },
     {
      "role": "COMMANDER",
-     "text": "कोई हताहत?"
+     "text": "समझा। जारी रखें।"
     },
     {
      "role": "ANALYST",
-     "text": "अमेरिकी राष्ट्रपति डोनाल्ड ट्रंप ने कहा कि अमेरिका ने ईरान के केशम द्वीप पर 'मामूली हमले' किए हैं."
+     "text": "पाकिस्तान क्रिकेट बोर्ड (पीसीबी) ने शनिवार को श्रीलंका के खिलाफ दो मैचों की श्रृंखला के लिए तेज गेंदबाजी ऑलराउंडर आमिर जमाल और तीन अनकैप्ड खिलाड़ियों को टेस्ट टीम में शामिल किया, जिससे टीम की ताकत 16 हो गई है।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042821/pcb-adds-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
    "type": null,
-   "time": "2026-11-07T07:05:01Z",
+   "time": "2026-11-07T10:41:03Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "will-trump-strike-nuclear-sites-again-as-iran-en",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "क्या ईरान द्वारा 'संज्ञानात्मक युद्ध' शुरू करने पर ट्रम्प फिर से परमाणु स्थलों पर हमला करेंगे?",
-   "summary": "मध्यावधि चुनावों में अपनी पार्टी की हार के बाद अमेरिकी राष्ट्रपति मिश्रित संदेश भेज रहे हैं।",
+   "category": "Middle East",
+   "headline": "हौथिस का कहना है कि सऊदी हवाई हमले में कम से कम 25 लोग मारे गए",
+   "summary": "सऊदी अरब, जो यमन में हौथिस से लड़ने वाले गठबंधन का नेतृत्व करता है, ने कोई टिप्पणी नहीं की है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "क्या ईरान द्वारा 'संज्ञानात्मक युद्ध' शुरू करने पर ट्रम्प फिर से परमाणु स्थलों पर हमला करेंगे?"
+     "text": "हौथिस का कहना है कि सऊदी हवाई हमले में कम से कम 25 लोग मारे गए।"
     },
     {
      "role": "COMMANDER",
@@ -317,205 +238,314 @@
     },
     {
      "role": "ANALYST",
-     "text": "मध्यावधि चुनावों में अपनी पार्टी की हार के बाद अमेरिकी राष्ट्रपति मिश्रित संदेश भेज रहे हैं।"
+     "text": "सऊदी अरब, जो यमन में हौथिस से लड़ने वाले गठबंधन का नेतृत्व करता है, ने कोई टिप्पणी नहीं की है।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T08:45:36Z",
+   "time": "2026-11-07T17:09:24Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "emirates-abu-dhabi-championship-golf",
+   "id": "yemeni-gov-t-forces-report-advances-as-houthis-s",
+   "country": "Yemen",
+   "label": "यमन",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "यमनी सरकार की सेनाओं ने प्रगति की सूचना नहीं दी है क्योंकि हौथिस का कहना है कि सना पर घातक हमले हुए हैं",
+   "summary": "नागरिकों को लड़ाई का खामियाजा भुगतना पड़ रहा है क्योंकि सना प्रांत के एक गांव पर हुए हमलों में 27 लोगों के मारे जाने की खबर है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यमनी सरकार की सेनाओं ने प्रगति की सूचना नहीं दी है क्योंकि हौथिस का कहना है कि सना पर घातक हमले हुए हैं।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "नागरिकों को लड़ाई का खामियाजा भुगतना पड़ रहा है क्योंकि सना प्रांत के एक गांव पर हुए हमलों में 27 लोगों के मारे जाने की खबर है।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-07T19:06:31Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "emirates-loves-syria-more-than-55-000-attend-dub",
    "country": "United Arab Emirates",
    "label": "संयुक्त अरब अमीरात",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
    "severity": "info",
-   "category": "Sports",
-   "headline": "अमीरात अबू धाबी चैम्पियनशिप गोल्फ",
-   "summary": "अमीरात अबू धाबी चैम्पियनशिप गोल्फ",
+   "category": "UAE",
+   "headline": "अमीरात सीरिया को प्यार करता है: सीरियाई संस्कृति का जश्न मनाने वाले दुबई कार्यक्रम में 55,000 से अधिक लोग शामिल हुए",
+   "summary": "अमीरात सीरिया को प्यार करता है: सीरियाई संस्कृति का जश्न मनाने वाले दुबई कार्यक्रम में 55,000 से अधिक लोग शामिल हुए",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "अमीरात अबू धाबी चैम्पियनशिप गोल्फ।"
+     "text": "अमीरात सीरिया को प्यार करता है: सीरियाई संस्कृति का जश्न मनाने वाले दुबई कार्यक्रम में 55,000 से अधिक लोग शामिल हुए।"
     }
    ],
-   "source": "dailyrecordnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXotVHIwYnVlTWdKTk9YNmpzOFBNeXNkbFNocUlYS0RyalVpaldRNnl3el9oTnpRT3hxNlZKVkc2X2ViT2FCcndPekNQMTdKemluREJxQVdSTngwcV9yRlh0MmFEbkRrWmc0TjE1ME5fVXhlVUFVSTV2Sld0WEcxeUlBQ3RjRlpOSk9jSkN4TkpPd0NoWGJLYUFuMVBXRFh1TnV2SkU4SVhqVnFPbTM1TjZ2VmJvcGpCaEVPazVURko5emlqTm9iUERJYw?oc=5",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVZEMHBLTHotb2w1Sk80cEh6a1ZnTXctTEpHTk9KX1djR25XTlFYUFFnS1U4XzVjNXhkYnpTT2xyN3d4UUhMcGJybjBmNjN2M2w0aUJMbUFhY0thNHB6UzIxc2lON0Z1RlRZT1RTV2ZOazFFZGEzTWdrNWVJRi12d3JVZFc5cFNIejAtVHB0SFZQd290LTJ2dzlSUENjbnA5T1Qyc0V1S3A1TzBtRnE5dkQtNlhYVjlxVDFGeVpYaDAtTzctQ1M1enlnaVR4Unds?oc=5",
    "type": null,
-   "time": "2026-11-07T08:04:56Z",
+   "time": "2026-11-07T18:11:47Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Syria"
    ]
   },
   {
-   "id": "us-treasury-sanctions-eight-canadian-money-excha",
+   "id": "explosions-heard-on-qeshm-island-multiple-locati",
    "country": "Iran",
    "label": "ईरान",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "अमेरिकी ट्रेजरी ने ईरान संबंधों पर आठ कनाडाई मनी एक्सचेंज फर्मों पर प्रतिबंध लगाया",
-   "summary": "अमेरिकी ट्रेजरी का दावा है कि फर्मों ने स्वीकृत ईरानी संस्थाओं की मदद की और कथित मादक पदार्थों की तस्करी के बॉस से जुड़े धन को संभाला।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिकी ट्रेजरी ने ईरान संबंधों को लेकर आठ कनाडाई मनी एक्सचेंज फर्मों पर प्रतिबंध लगाया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "मुझे विवरण दीजिए."
-    },
-    {
-     "role": "ANALYST",
-     "text": "अमेरिकी ट्रेजरी का दावा है कि फर्मों ने स्वीकृत ईरानी संस्थाओं की मदद की और कथित मादक पदार्थों की तस्करी के बॉस से जुड़े धन को संभाला।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T04:50:46Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Canada"
-   ]
-  },
-  {
-   "id": "report-silver-lake-and-the-saudi-arabia-pif-hold",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "रिपोर्ट: सिल्वर लेक और सऊदी अरब पीआईएफ ने अधिग्रहण की संभावना तलाशने के लिए यूनिटी के साथ बातचीत की",
-   "summary": "रिपोर्ट: सिल्वर लेक और सऊदी अरब पीआईएफ ने अधिग्रहण की संभावना तलाशने के लिए यूनिटी के साथ बातचीत की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रिपोर्ट: सिल्वर लेक और सऊदी अरब पीआईएफ ने अधिग्रहण की संभावना तलाशने के लिए यूनिटी के साथ बातचीत की।"
-    }
-   ],
-   "source": "Game Developer",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0VsaENSV1dWdGNnLWpvYWtuNUZwaHdRaHN1OTh6TnRIQy1vbk9RN1ZIenBuOTVBVWdiajduYWxtOWt6dVVORjE2NVRFUHBYMWpxcHpvaGlCZEx3UFN2aGV6N2RQdHktVGRfbXhJZG9pcDQtU3UzcS1SOHo4NS1FWUswNGVFZTI5VExIQTZRd2R5eGYwWmVxQi0tbVhDOFlKNzNndUdLNHNaQ3hEVjZzUTJCcTY2dFdCdDBhcg?oc=5",
-   "type": null,
-   "time": "2026-11-07T01:33:47Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "qatari-pm-says-us-willing-to-seek-solution-to-wa",
-   "country": "Qatar",
-   "label": "कतर",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "क़तर के प्रधानमंत्री का कहना है कि अमेरिका ईरान के साथ युद्ध का समाधान ढूंढने को इच्छुक है",
-   "summary": "क़तर के प्रधानमंत्री का कहना है कि अमेरिका ईरान के साथ युद्ध का समाधान ढूंढने को इच्छुक है",
+   "headline": "सरकारी मीडिया का कहना है कि ईरान में कई स्थानों पर केशम द्वीप पर विस्फोट सुने गए - रिपोर्ट",
+   "summary": "सरकारी मीडिया का कहना है कि ईरान में कई स्थानों पर केशम द्वीप पर विस्फोट सुने गए - रिपोर्ट",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "क़तर के प्रधानमंत्री का कहना है कि अमेरिका ईरान के साथ युद्ध का समाधान ढूंढने को इच्छुक है।"
+     "text": "सरकारी मीडिया का कहना है कि ईरान में कई स्थानों पर केशम द्वीप पर विस्फोट सुने गए - रिपोर्ट।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUdicS1vRHlsNmhSSW1Ic2hYbXF5OUM1dUllOWNETFRtT256VW9nMVNqeVIwNmRzN3pQWk9CWmwzczh2bERTRE50dmpkNk9LVWV2c3oyLVg5U3ItU1N4YmdlSmVxMVk4NFE?oc=5",
    "type": null,
-   "time": "2026-11-07T07:10:37Z",
+   "time": "2026-11-07T19:55:40Z",
    "countries": [
-    "Qatar",
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-official-risk-of-war-between-us-and-iran-rem",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "यूएई अधिकारी: अमेरिका और ईरान के बीच युद्ध का खतरा बना हुआ है",
+   "summary": "यूएई अधिकारी: अमेरिका और ईरान के बीच युद्ध का खतरा बना हुआ है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यूएई अधिकारी: अमेरिका और ईरान के बीच युद्ध का खतरा बना हुआ है।"
+    }
+   ],
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KSGhBN2JWLUViVTk4T2tLQVhNUUh3RjNxUGk3cGgwTjJMQTlVZkVBbWpkZEtzTENDLXYyQlFMTlc3alNpVVhpRlFxbGQ4SXJTSkJHa05mMjFYbWdpWHA2ZGRnNGFnSHJ5eEI4?oc=5",
+   "type": null,
+   "time": "2026-11-07T15:46:51Z",
+   "countries": [
+    "United Arab Emirates",
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "russia-ukraine-peace-talks-putin-confirms-fresh-",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "रूस यूक्रेन शांति वार्ता | पुतिन ने अगले मंगलवार को अबू धाबी में यूक्रेन के साथ नई शांति वार्ता की पुष्टि की",
-   "summary": "रूस यूक्रेन शांति वार्ता | पुतिन ने अगले मंगलवार को अबू धाबी में यूक्रेन के साथ नई शांति वार्ता की पुष्टि की",
+   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "यूक्रेन रूस और अमेरिका के साथ बातचीत की तैयारी कर रहा है, ड्रोन और मिसाइल हमलों में 9 लोग घायल हो गए",
+   "summary": "यूक्रेन रूस और अमेरिका के साथ बातचीत की तैयारी कर रहा है, ड्रोन और मिसाइल हमलों में 9 लोग घायल हो गए",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "रूस यूक्रेन शांति वार्ता | पुतिन ने अगले मंगलवार को अबू धाबी में यूक्रेन के साथ नई शांति वार्ता की पुष्टि की।"
+     "text": "यूक्रेन रूस और अमेरिका के साथ बातचीत की तैयारी कर रहा है, ड्रोन और मिसाइल हमलों में 9 लोग घायल हो गए।"
     }
    ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWZXQzJLcE9rM1ZaU1liMlJnYUhJQk9ZeHpnTk1SZnllVy0yMFBkazNZRU1yM3ZsN3FuQjdkb0s2WldLRVdpWnJDaVBJd3cxUXg3LUE3dHlLa0RNQ2l2RkpUbnBEOWNUZ2Iya2gySEJldG1YZkhpTHhqdU5vRWltTHNmal9QXzlYUU5ibndBVFdlUnFLUXdGLWhCaC1nTzEwbWcyWllWbDhwYVpfcmlMYlBnZjE3UlBPSTNRZlA2SHEyTWYxelppZDB0TGd5QQ?oc=5",
-   "type": "VIDEO",
-   "time": "2026-11-07T07:09:59Z",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "type": null,
+   "time": "2026-11-07T18:10:00Z",
    "countries": [
-    "United Arab Emirates",
+    "Ukraine",
     "Russia",
-    "Ukraine"
+    "United States of America"
    ]
   },
   {
-   "id": "-uae-is-my-first-home-dubai-teenager-riyan-malha",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "'यूएई मेरा पहला घर है': ऐतिहासिक युवा ओलंपिक स्वर्ण और यादगार दिवाली पर दुबई के किशोर रियान मल्हान",
-   "summary": "'यूएई मेरा पहला घर है': ऐतिहासिक युवा ओलंपिक स्वर्ण और यादगार दिवाली पर दुबई के किशोर रियान मल्हान",
+   "id": "poland-in-shock-after-six-die-in-krakow-mass-sho",
+   "country": "Poland",
+   "label": "पोलैंड",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "क्राको सामूहिक गोलीबारी में छह लोगों की मौत से पोलैंड सदमे में है",
+   "summary": "पोलैंड की पुलिस ने शनिवार को कहा कि उसके दूसरे शहर क्राको के ऐतिहासिक केंद्र में एक बंदूकधारी द्वारा की गई गोलीबारी में छह लोग मारे गए और लगभग एक दर्जन घायल हो गए। पुलिस ने कहा, एक व्यक्ति ने क्राको के मुख्य चौराहे पर कार चलाई और बेतरतीब लोगों पर गोलियां चलानी शुरू कर दीं।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'यूएई मेरा पहला घर है': ऐतिहासिक युवा ओलंपिक स्वर्ण और यादगार दिवाली पर दुबई के किशोर रियान मल्हान।"
+     "text": "क्राको सामूहिक गोलीबारी में छह लोगों की मौत से पोलैंड सदमे में है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "पोलैंड की पुलिस ने शनिवार को कहा कि उसके दूसरे शहर क्राको के ऐतिहासिक केंद्र में एक बंदूकधारी द्वारा की गई गोलीबारी में छह लोग मारे गए और लगभग एक दर्जन घायल हो गए। पुलिस ने कहा, एक व्यक्ति ने क्राको के मुख्य चौराहे पर कार चलाई और बेतरतीब लोगों पर गोलियां चलानी शुरू कर दीं।"
     }
    ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWFOZ3NtMjRUa2tTN1pWMm03NUJHU3lzNEZ6Sk9WaVU5V0QzcGt2T0l3ODU4TkRzdXBhbnZ5QjBKMXpxd2tldDJFVDNfa25FWm5ZQkl6YlE1Wm1VWVoxVmZOOFZpcGVndU9BeFJVT1pBeHVrcFJrNE1tcm01YWlyN3pEUE1XU2lMWHhWV2N1OVFPQ2M1YVV4ZVFocGpmcVpPVXZZWFh3WnBhcGxjdXc0QTZnU0R4TXlXdWhqdng0b2MyY2VOSjJPWEJHUzVFOGxtQXlrX3dodU5adUnSAesBQVVfeXFMTUN3MXRia3dhdzBYNC1teWZBWVZveVR4TEJsZ3ZLOURpNW5GbkFGM0NySi1sakFQVmhZYVVPNm5nSmNCR2NCTkEzYXJiZkNwMklIRGpNLWNxNXlDQ3lyYzZsQWRsMTRkTlhJWlk1bFBvNFZNaGFWaGhIWW40cE5nME9FaUVlM1dXenNZQTNmZVFPN2duenNGMWNTUmRERGF6R2xobWJlazY2WERoLU8tRUp5ZTd0ck9aU0Q5ak9PQ29mRDljR3BkLS13NUlSOGEtMDQ2MFV3bUJOZWNOMF9tOXd4U1IyRHJVdzFuOA?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
    "type": null,
-   "time": "2026-11-07T09:04:37Z",
+   "time": "2026-11-07T22:16:54Z",
    "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "israel-s-president-picks-yashar-leader-gadi-eise",
+   "country": "Israel",
+   "label": "इजराइल",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "इज़राइल के राष्ट्रपति ने सरकार बनाने के लिए याशर नेता गादी ईसेनकोट को चुना",
+   "summary": "पिछले हफ्ते के चुनाव में न तो पीएम बेंजामिन नेतन्याहू के गुट और न ही उनके प्रतिद्वंद्वी को बहुमत मिला।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "इज़राइल के राष्ट्रपति ने सरकार बनाने के लिए याशर नेता गादी ईसेनकोट को चुना।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या असर है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "पिछले हफ्ते के चुनाव में न तो पीएम बेंजामिन नेतन्याहू के गुट और न ही उनके प्रतिद्वंद्वी को बहुमत मिला।"
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
+   "type": null,
+   "time": "2026-11-07T21:03:00Z",
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "iran-says-it-has-lifted-its-self-imposed-limit-o",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान का कहना है कि उसने मिसाइल रेंज और अन्य मध्यपूर्व समाचारों पर अपनी स्वयं लगाई गई सीमा हटा दी है",
+   "summary": "ईरान का कहना है कि उसने मिसाइल रेंज और अन्य मध्यपूर्व समाचारों पर अपनी स्वयं लगाई गई सीमा हटा दी है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान का कहना है कि उसने मिसाइल रेंज और अन्य मध्यपूर्व समाचारों पर अपनी स्वयं लगाई गई सीमा हटा दी है।"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "type": null,
+   "time": "2026-11-07T20:55:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "russian-strikes-wound-nine-and-damage-ukraine-s-",
+   "country": "Russia",
+   "label": "रूस",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "वार्ता से पहले रूसी हमलों में नौ लोग घायल हुए और यूक्रेन के बिजली नेटवर्क को नुकसान पहुंचा",
+   "summary": "ये हमले यूक्रेनी और रूसी प्रतिनिधिमंडलों के अगले सप्ताह अबू धाबी में त्रिपक्षीय वार्ता में भाग लेने से पहले हुए हैं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "वार्ता से पहले रूसी हमलों में नौ लोग घायल हुए और यूक्रेन के बिजली नेटवर्क को नुकसान पहुंचा।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ये हमले यूक्रेनी और रूसी प्रतिनिधिमंडलों के अगले सप्ताह अबू धाबी में त्रिपक्षीय वार्ता में भाग लेने से पहले हुए हैं।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-07T12:49:36Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
     "United Arab Emirates"
    ]
   },
   {
-   "id": "what-s-the-latest-saudi-arabia-security-update-a",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "WWE क्राउन ज्वेल टुडे से पहले सऊदी अरब का नवीनतम सुरक्षा अपडेट क्या है?",
-   "summary": "WWE क्राउन ज्वेल टुडे से पहले सऊदी अरब का नवीनतम सुरक्षा अपडेट क्या है?",
+   "id": "ukraine-s-zaporizhzhia-faces-threat-as-russian-d",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "रूसी ड्रोन के करीब आने से यूक्रेन के ज़ापोरिज्जिया को ख़तरे का सामना करना पड़ रहा है",
+   "summary": "यूक्रेन का ज़ापोरीज़िया, जो कभी युद्ध से भागने वालों की शरणस्थली था, अब बढ़ते ख़तरे का सामना कर रहा है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "WWE क्राउन ज्वेल टुडे से पहले सऊदी अरब का नवीनतम सुरक्षा अपडेट क्या है?"
+     "text": "रूसी ड्रोन के करीब आने से यूक्रेन के ज़ापोरिज्जिया को ख़तरे का सामना करना पड़ रहा है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "यूक्रेन का ज़ापोरीज़िया, जो कभी युद्ध से भागने वालों की शरणस्थली था, अब बढ़ते ख़तरे का सामना कर रहा है।"
     }
    ],
-   "source": "Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVSWnBFdXpuZkhoa1QtZnlqNWhQZnk2dHJCMzdwaFcxSjJjSUVvMUo3SXRkamNrWUVKcGFFM2Vudm9qMlo2UGZ5cVRYUW1IVkVFRUZmMk0yRW9SbENoZndicmNLMkdBejFoUTNSYkZ3dHIzNlFjdllwZDVlMVJ2ekNSMFZHRjR3OGlNZ3RBSjB0TEdHVnMtUHNaNHZ6RE82cHNvZ1B1VDdXSFFscHlCSkpIR3g0by1scVE4?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
    "type": null,
-   "time": "2026-11-07T06:00:00Z",
+   "time": "2026-11-07T20:10:38Z",
    "countries": [
-    "Saudi Arabia"
+    "Ukraine",
+    "Russia"
    ]
   }
  ]

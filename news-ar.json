@@ -1,29 +1,54 @@
 {
- "updated": "2026-11-07T09:17:21.233248Z",
+ "updated": "2026-11-07T23:42:48.516582Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "syria-said-to-be-lending-military-support-to-sau",
+   "id": "jon-rahm-shoots-66-to-lead-by-one-in-abu-dhabi-r",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "جون رام يطلق النار على 66 ليتقدم بواحد في أبو ظبي. روري ماكلروي يسدد 2 تسديدة",
+   "summary": "جون رام يطلق النار على 66 ليتقدم بواحد في أبو ظبي. روري ماكلروي يسدد 2 تسديدة",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "جون رام يطلق النار على 66 ليتقدم بواحد في أبو ظبي. روري ماكلروي يسدد 2 تسديدة."
+    }
+   ],
+   "source": "ESPN",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjhrdUlDbEE2MmY1WnI2R211MmdLNE1Uc2J3cXJfRXp0eDJWWVptR3lMRjlPNUpYdEt4VHpfblFfbW9WNk1weHdhMDhlT0tiT1NtUi03WlFTTElJMjZJVEZwMFljWExLdmgzZmttQTFuNnFKVkl1cUdmRzQ3cHJUR3JFa2p3TzZYSHYzaGw3cmVydkFrUVcw?oc=5",
+   "type": null,
+   "time": "2026-11-07T13:42:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "syria-denies-sending-troops-to-saudi-arabia-or-y",
    "country": "Syria",
    "label": "سوريا",
    "lat": 35.0,
    "lon": 38.5,
    "flag": "🇸🇾",
-   "severity": "critical",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "يقال إن سوريا تقدم الدعم العسكري للسعودية وسط هجمات الحوثيين",
-   "summary": "يقال إن سوريا تقدم الدعم العسكري للسعودية وسط هجمات الحوثيين",
+   "headline": "سوريا تنفي إرسال قوات إلى السعودية أو اليمن",
+   "summary": "سوريا تنفي إرسال قوات إلى السعودية أو اليمن",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "يقال إن سوريا تقدم الدعم العسكري للسعودية وسط هجمات الحوثيين."
+     "text": "سوريا تنفي إرسال قوات إلى السعودية أو اليمن"
     }
    ],
-   "source": "The Arab Weekly",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEp0NE1RMkFEemJQVzlLQW5ta2NaMzlzS0IwYUdpN2RNM0FrNDRVR0gxdnJfVXBSSDRZSUUwRHA2ZVdCa0VaazhiZ0M1R0ZLTlJtYzRob1didXpWREJXMmFJNUJWazlXN1VoVTN3TE5hNC1UUlNIUlJrYUVzTEhrVi1WUGxFblNfeldCbzdqTDZkTndScl9DdDZzbDBfQQ?oc=5",
+   "source": "الحرة",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaWZxQllIbDJKV0lUZ0Q5bXJpdks0RGdObGh0NExITTBoR2N5N3dHM1pWRmJjQ0Vac3NYbXRaR281UQ?oc=5",
    "type": null,
-   "time": "2026-11-07T08:53:10Z",
+   "time": "2026-11-07T21:36:01Z",
    "countries": [
     "Syria",
     "Saudi Arabia",
@@ -31,118 +56,32 @@
    ]
   },
   {
-   "id": "how-pakistan-s-first-astronaut-got-a-seat-on-chi",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "كيف حصل أول رائد فضاء باكستاني على مقعد في محطة الفضاء الصينية؟",
-   "summary": "كيف حصل أول رائد فضاء باكستاني على مقعد في محطة الفضاء الصينية؟",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "كيف حصل أول رائد فضاء باكستاني على مقعد في محطة الفضاء الصينية؟"
-    }
-   ],
-   "source": "Open Magazine",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcEVyam9VamtuSGFkLUtxNE5vRGpWQUt0RXJCTVlFbkUzdHZRSUV5YjY5RkpqSnQ1N2htNDd0ZmdrSE9NWjRPeG5EUGZiT1JfWEZ0elVsSTYtdkJ1VG9XYkFsbjdHX3dnWm55MnZBcDdxeEdPS0x4c0R5cmkxejlTOFVPUFVuWHdMRnFZOTBEdkNneFQwZjZDNlBJNEZGZTdDRTl1OUlWejhJQ3Vp?oc=5",
-   "type": "EXPLAINER",
-   "time": "2026-11-07T07:18:20Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-intercepted-houthi-c",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "airstrikes-kill-more-than-2-dozen-people-near-ye",
+   "country": "Yemen",
+   "label": "اليمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "التحالف الذي تقوده السعودية يقول إنه اعترض صاروخا أطلقه الحوثيون فوق الرياض",
-   "summary": "التحالف الذي تقوده السعودية يقول إنه اعترض صاروخا أطلقه الحوثيون فوق الرياض",
+   "headline": "ويقول الحوثيون إن الغارات الجوية أسفرت عن مقتل أكثر من عشرين شخصًا بالقرب من العاصمة اليمنية",
+   "summary": "ويقول الحوثيون إن الغارات الجوية أسفرت عن مقتل أكثر من عشرين شخصًا بالقرب من العاصمة اليمنية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "التحالف الذي تقوده السعودية يقول إنه اعترض صاروخا أطلقه الحوثيون فوق الرياض."
+     "text": "ويقول الحوثيون إن الغارات الجوية أسفرت عن مقتل أكثر من عشرين شخصًا بالقرب من العاصمة اليمنية."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNUNidEdxZ0ZldC1CM2hrZ2QwREdiVEROZlhXTHBPc1NOME1IcDVkb1NOVHoxRHRTMGZFUHBoVllNVGFLTWMxLWNMMU80aXhuOFhMMTlXUENzU1VsVHVfTDFMcXpJa0ZFeGp2czAyVTZJZTJQTl81MFpKemQ5Q3JXeVRxZl82SjFCcHg4ZVBtOGV4Y2ZteFZBOXpraE1zTkVIeDFkZ3l4RmlnU3ZQOVBmdkpFb2xReERoTGc?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
    "type": null,
-   "time": "2026-11-07T06:03:13Z",
+   "time": "2026-11-07T16:42:00Z",
    "countries": [
-    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "us-offers-reward-of-up-to-20-million-possible-re",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "تعرض الولايات المتحدة مكافأة تصل إلى 20 مليون دولار، وإمكانية نقلها للحصول على معلومات حول البرنامج النووي الإيراني",
-   "summary": "تعرض الولايات المتحدة مكافأة تصل إلى 20 مليون دولار، وإمكانية نقلها للحصول على معلومات حول البرنامج النووي الإيراني",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تعرض الولايات المتحدة مكافأة تصل إلى 20 مليون دولار، وإمكانية نقلها للحصول على معلومات حول البرنامج النووي الإيراني."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeUNiSDFDMjdhOHNsX0RPeTdBNVZZcU43eG80SXFaWXdJY1YzTXlDZjdBdjV3MHNQZG12WFo5OGhGOU1kWGdjWjY0b0tuYmhHV05LWENZdWc1NHdyV1B0ZklTaHo1RWFUZ3c?oc=5",
-   "type": null,
-   "time": "2026-11-07T07:26:49Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-forces-stronger-than-at-beginning-of-w",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "وتقول إيران إن القوات \"أقوى\" مما كانت عليه في بداية الحرب",
-   "summary": "أعلنت إيران السبت أن جيشها أصبح \"أقوى\" منذ بداية حربها مع الولايات المتحدة التي عرضت مكافأة قدرها 20 مليون دولار لمن يدلي بمعلومات حول برنامج طهران النووي.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وتقول إيران إن القوات \"أقوى\" مما كانت عليه في بداية الحرب."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "أعلنت إيران السبت أن جيشها أصبح \"أقوى\" منذ بداية حربها مع الولايات المتحدة التي عرضت مكافأة قدرها 20 مليون دولار لمن يدلي بمعلومات حول برنامج طهران النووي."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042798/iran-says-forces-stronger-than-at-beginning-of-war",
-   "type": null,
-   "time": "2026-11-07T05:29:51Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-sudan-to-sign-mou-on-cybercrime-coopera",
+   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
@@ -150,12 +89,12 @@
    "flag": "🇵🇰",
    "severity": "high",
    "category": "Tech",
-   "headline": "باكستان والسودان توقعان مذكرة تفاهم للتعاون في مجال مكافحة الجرائم الإلكترونية",
-   "summary": "إسلام آباد: قررت باكستان والسودان، اليوم السبت، التوقيع على مذكرة تفاهم لتعزيز التعاون في مكافحة الجرائم الإلكترونية، بحسب بيان صادر عن وزارة الداخلية.",
+   "headline": "باكستان والسودان توقعان اتفاقية سفر بدون تأشيرة لحاملي جوازات السفر الرسمية والدبلوماسية",
+   "summary": "وقعت باكستان والسودان، اليوم السبت، اتفاقية بشأن السفر بدون تأشيرة لحاملي جوازات السفر الرسمية والدبلوماسية، بحسب بيان لوزارة الداخلية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "باكستان والسودان توقعان مذكرة تفاهم للتعاون في مجال مكافحة الجرائم الإلكترونية"
+     "text": "باكستان والسودان توقعان اتفاقية سفر بدون تأشيرة لحاملي جوازات السفر الرسمية والدبلوماسية"
     },
     {
      "role": "COMMANDER",
@@ -163,80 +102,54 @@
     },
     {
      "role": "ANALYST",
-     "text": "إسلام آباد: قررت باكستان والسودان، اليوم السبت، التوقيع على مذكرة تفاهم لتعزيز التعاون في مكافحة الجرائم الإلكترونية، بحسب بيان صادر عن وزارة الداخلية."
+     "text": "وقعت باكستان والسودان، اليوم السبت، اتفاقية بشأن السفر بدون تأشيرة لحاملي جوازات السفر الرسمية والدبلوماسية، بحسب بيان لوزارة الداخلية."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-to-sign-mou-on-cybercrime-cooperation",
+   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
    "type": null,
-   "time": "2026-11-07T06:58:29Z",
+   "time": "2026-11-07T12:05:46Z",
    "countries": [
     "Pakistan",
     "Sudan"
    ]
   },
   {
-   "id": "pakistan-warns-un-against-weakening-peacekeeping",
+   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
+   "severity": "watch",
    "category": "Pakistan",
-   "headline": "باكستان تحذر الأمم المتحدة من إضعاف عمليات حفظ السلام وسط تخفيضات في الميزانية",
-   "summary": "الأمم المتحدة: حثت باكستان الأمم المتحدة على عدم السماح للقيود المالية وإجراءات خفض التكاليف بإضعاف عملياتها لحفظ السلام، محذرة من أن التخفيضات في الموارد يمكن أن تقوض قدرة المنظمة على الحفاظ على العلاقات الدولية.",
+   "headline": "رائد فضاء باكستاني ينضم إلى مهمة شنتشو-24 إلى محطة الفضاء الصينية",
+   "summary": "قالت وكالة الفضاء الصينية المأهولة اليوم السبت إن رائد فضاء باكستانيا سيسافر إلى محطة الفضاء الصينية تيانجونج على متن مهمة شنتشو-24، ليصبح أول أجنبي يزور المحطة الفضائية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "باكستان تحذر الأمم المتحدة من إضعاف عمليات حفظ السلام وسط تخفيضات في الميزانية"
+     "text": "رائد فضاء باكستاني ينضم إلى مهمة شنتشو-24 إلى محطة الفضاء الصينية."
     },
     {
      "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
+     "text": "تمام. تفاصيل؟"
     },
     {
      "role": "ANALYST",
-     "text": "الأمم المتحدة: حثت باكستان الأمم المتحدة على عدم السماح للقيود المالية وإجراءات خفض التكاليف بإضعاف عملياتها لحفظ السلام، محذرة من أن التخفيضات في الموارد يمكن أن تقوض قدرة المنظمة على الحفاظ على العلاقات الدولية."
+     "text": "قالت وكالة الفضاء الصينية المأهولة اليوم السبت إن رائد فضاء باكستانيا سيسافر إلى محطة الفضاء الصينية تيانجونج على متن مهمة شنتشو-24، ليصبح أول أجنبي يزور المحطة الفضائية."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042796/pakistan-warns-un-against-weakening-peacekeeping-amid-budget-cuts",
+   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
    "type": null,
-   "time": "2026-11-07T04:59:04Z",
+   "time": "2026-11-07T11:39:16Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "China"
    ]
   },
   {
-   "id": "moscow-strikes-kyiv-as-ukraine-prepares-for-talk",
-   "country": "Russia",
-   "label": "روسيا",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "موسكو تضرب كييف بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة",
-   "summary": "موسكو تضرب كييف بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "موسكو تضرب كييف بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة."
-    }
-   ],
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUi1zYk5UaVZlcUMwNklJUjVqQ3c4ZlNvMmw1cWZBaHNpMG1xeGlrX21NQUdRZGhmMk4zdnl6QXVWLTBDQlRPdER1UWRZT2FqNlBCcFpacHJkeEdpbnFaTGxiNDEtM1o0WnN0VmsycVdKZ0tnb0dKS0puMGxzenFhMmZzSzJwR2N2cVhMcG5zaFMydlZvanRFT21Od3ZuRzVON2RFYzFWdFYwajk0S2VuOGNScnJtaE0?oc=5",
-   "type": null,
-   "time": "2026-11-07T08:08:44Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "trump-says-u-s-carried-out-minor-strikes-on-iran",
+   "id": "us-offers-20m-reward-for-information-about-iran-",
    "country": "United States of America",
    "label": "الولايات المتحدة",
    "lat": 39.0,
@@ -244,72 +157,80 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "ترامب يقول إن الولايات المتحدة نفذت \"ضربات طفيفة\" على إيران مع سقوط صواريخ على جزيرة قشم",
-   "summary": "ترامب يقول إن الولايات المتحدة نفذت \"ضربات طفيفة\" على إيران مع سقوط صواريخ على جزيرة قشم",
+   "headline": "عرضت الولايات المتحدة مكافأة قدرها 20 مليون دولار لمن يدلي بمعلومات حول البرنامج النووي الإيراني",
+   "summary": "أثار دونالد ترامب مرارا وتكرارا احتمال تجديد الضربات ضد المنشآت النووية الإيرانية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ترامب يقول إن الولايات المتحدة نفذت \"ضربات طفيفة\" على إيران مع سقوط صواريخ على جزيرة قشم."
+     "text": "عرضت الولايات المتحدة مكافأة قدرها 20 مليون دولار لمن يدلي بمعلومات حول البرنامج النووي الإيراني."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "أثار دونالد ترامب مرارا وتكرارا احتمال تجديد الضربات ضد المنشآت النووية الإيرانية."
     }
    ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHBsQVgybGQ0aDhTUFc2WDBBZzBEa2lJM3d3a24wWHcyRnVFdzdYQ1pwWXdrd2VSSWllZzhoYWhlWEowSy02VE5BYTRRak1faFh5Mm1FUVkzUW9HM2x4VzBublNzdHZkNUozWG1DbS1Xck80bzNPYUh2d3RRcmQwZU9haw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T07:37:36Z",
+   "time": "2026-11-07T18:14:38Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "trump-confirms-us-strikes-in-iran-insists-it-s-n",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ترامب يؤكد الضربات الأمريكية في إيران ويصر على أنها ليست حربا",
-   "summary": "قال الرئيس الأمريكي دونالد ترامب إن أمريكا نفذت \"ضربات طفيفة\" على جزيرة قشم الإيرانية.",
+   "id": "pcb-adds-aamir-jamal-three-uncapped-players-to-p",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "يضيف PCB عامر جمال، ثلاثة لاعبين لم يسبق لهم اللعب مع منتخب باكستان لاختبارات سريلانكا",
+   "summary": "أضاف مجلس الكريكيت الباكستاني (PCB) يوم السبت لاعب البولينج متعدد المستويات عامر جمال وثلاثة لاعبين لم يسبق لهم اللعب إلى فريق الاختبار لسلسلة المباراتين ضد سريلانكا، مما رفع قوة الفريق إلى 16.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ترامب يؤكد الضربات الأمريكية في إيران ويصر على أنها ليست حربا."
+     "text": "يضيف PCB عامر جمال، ثلاثة لاعبين لم يسبق لهم اللعب مع منتخب باكستان لاختبارات سريلانكا."
     },
     {
      "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
+     "text": "مفهوم. استمر."
     },
     {
      "role": "ANALYST",
-     "text": "قال الرئيس الأمريكي دونالد ترامب إن أمريكا نفذت \"ضربات طفيفة\" على جزيرة قشم الإيرانية."
+     "text": "أضاف مجلس الكريكيت الباكستاني (PCB) يوم السبت لاعب البولينج متعدد المستويات عامر جمال وثلاثة لاعبين لم يسبق لهم اللعب إلى فريق الاختبار لسلسلة المباراتين ضد سريلانكا، مما رفع قوة الفريق إلى 16."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042821/pcb-adds-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
    "type": null,
-   "time": "2026-11-07T07:05:01Z",
+   "time": "2026-11-07T10:41:03Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "will-trump-strike-nuclear-sites-again-as-iran-en",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "هل سيضرب ترامب المواقع النووية مرة أخرى بينما تنخرط إيران في \"حرب معرفية\"؟",
-   "summary": "ويبعث الرئيس الأمريكي برسائل متضاربة بعد هزيمة حزبه في الانتخابات النصفية.",
+   "category": "Middle East",
+   "headline": "ويقول الحوثيون إن ما لا يقل عن 25 قتلوا في غارة جوية سعودية",
+   "summary": "ولم تعلق السعودية، التي تقود تحالفا يقاتل الحوثيين في اليمن.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "هل سيضرب ترامب المواقع النووية مرة أخرى بينما تنخرط إيران في \"الحرب المعرفية\"؟."
+     "text": "ويقول الحوثيون إن ما لا يقل عن 25 قتلوا في غارة جوية سعودية."
     },
     {
      "role": "COMMANDER",
@@ -317,205 +238,314 @@
     },
     {
      "role": "ANALYST",
-     "text": "ويبعث الرئيس الأمريكي برسائل متضاربة بعد هزيمة حزبه في الانتخابات النصفية."
+     "text": "ولم تعلق السعودية، التي تقود تحالفا يقاتل الحوثيين في اليمن."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T08:45:36Z",
+   "time": "2026-11-07T17:09:24Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "emirates-abu-dhabi-championship-golf",
+   "id": "yemeni-gov-t-forces-report-advances-as-houthis-s",
+   "country": "Yemen",
+   "label": "اليمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "القوات الحكومية اليمنية تعلن عن تحقيق تقدم فيما يقول الحوثيون إن الضربات القاتلة ضربت صنعاء",
+   "summary": "يتحمل المدنيون وطأة القتال حيث أفادت التقارير بمقتل 27 شخصاً في غارات على قرية في محافظة صنعاء.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "القوات الحكومية اليمنية تعلن عن تحقيق تقدم فيما يقول الحوثيون إن ضربات قاتلة ضربت صنعاء."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "يتحمل المدنيون وطأة القتال حيث أفادت التقارير بمقتل 27 شخصاً في غارات على قرية في محافظة صنعاء."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-07T19:06:31Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "emirates-loves-syria-more-than-55-000-attend-dub",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
    "severity": "info",
-   "category": "Sports",
-   "headline": "بطولة الإمارات أبوظبي للجولف",
-   "summary": "بطولة الإمارات أبوظبي للجولف",
+   "category": "UAE",
+   "headline": "الإمارات تحب سوريا: أكثر من 55 ألف شخص يحضرون فعالية دبي للاحتفال بالثقافة السورية",
+   "summary": "الإمارات تحب سوريا: أكثر من 55 ألف شخص يحضرون فعالية دبي للاحتفال بالثقافة السورية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "بطولة الإمارات أبوظبي للجولف."
+     "text": "الإمارات تحب سوريا: أكثر من 55 ألف شخص يحضرون فعالية دبي للاحتفال بالثقافة السورية."
     }
    ],
-   "source": "dailyrecordnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXotVHIwYnVlTWdKTk9YNmpzOFBNeXNkbFNocUlYS0RyalVpaldRNnl3el9oTnpRT3hxNlZKVkc2X2ViT2FCcndPekNQMTdKemluREJxQVdSTngwcV9yRlh0MmFEbkRrWmc0TjE1ME5fVXhlVUFVSTV2Sld0WEcxeUlBQ3RjRlpOSk9jSkN4TkpPd0NoWGJLYUFuMVBXRFh1TnV2SkU4SVhqVnFPbTM1TjZ2VmJvcGpCaEVPazVURko5emlqTm9iUERJYw?oc=5",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVZEMHBLTHotb2w1Sk80cEh6a1ZnTXctTEpHTk9KX1djR25XTlFYUFFnS1U4XzVjNXhkYnpTT2xyN3d4UUhMcGJybjBmNjN2M2w0aUJMbUFhY0thNHB6UzIxc2lON0Z1RlRZT1RTV2ZOazFFZGEzTWdrNWVJRi12d3JVZFc5cFNIejAtVHB0SFZQd290LTJ2dzlSUENjbnA5T1Qyc0V1S3A1TzBtRnE5dkQtNlhYVjlxVDFGeVpYaDAtTzctQ1M1enlnaVR4Unds?oc=5",
    "type": null,
-   "time": "2026-11-07T08:04:56Z",
+   "time": "2026-11-07T18:11:47Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Syria"
    ]
   },
   {
-   "id": "us-treasury-sanctions-eight-canadian-money-excha",
+   "id": "explosions-heard-on-qeshm-island-multiple-locati",
    "country": "Iran",
    "label": "إيران",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "وفرضت وزارة الخزانة الأميركية عقوبات على ثماني شركات صرافة كندية بسبب علاقاتها مع إيران",
-   "summary": "تزعم وزارة الخزانة الأمريكية أن الشركات ساعدت الكيانات الإيرانية الخاضعة للعقوبات وتعاملت مع الأموال المرتبطة بزعيم تهريب المخدرات المزعوم.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وفرضت وزارة الخزانة الأميركية عقوبات على ثماني شركات صرافة كندية بسبب علاقاتها مع إيران."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "أعطني التفاصيل."
-    },
-    {
-     "role": "ANALYST",
-     "text": "تزعم وزارة الخزانة الأمريكية أن الشركات ساعدت الكيانات الإيرانية الخاضعة للعقوبات وتعاملت مع الأموال المرتبطة بزعيم تهريب المخدرات المزعوم."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T04:50:46Z",
-   "countries": [
-    "Iran",
-    "United States of America",
-    "Canada"
-   ]
-  },
-  {
-   "id": "report-silver-lake-and-the-saudi-arabia-pif-hold",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "تقرير: سيلفر ليك وصندوق الاستثمارات العامة السعودي يجريان محادثات مع شركة يونيتي لاستكشاف عملية الاستحواذ",
-   "summary": "تقرير: سيلفر ليك وصندوق الاستثمارات العامة السعودي يجريان محادثات مع شركة يونيتي لاستكشاف عملية الاستحواذ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تقرير: سيلفر ليك وصندوق الاستثمارات العامة السعودي يجريان محادثات مع شركة يونيتي لاستكشاف عملية الاستحواذ."
-    }
-   ],
-   "source": "Game Developer",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU0VsaENSV1dWdGNnLWpvYWtuNUZwaHdRaHN1OTh6TnRIQy1vbk9RN1ZIenBuOTVBVWdiajduYWxtOWt6dVVORjE2NVRFUHBYMWpxcHpvaGlCZEx3UFN2aGV6N2RQdHktVGRfbXhJZG9pcDQtU3UzcS1SOHo4NS1FWUswNGVFZTI5VExIQTZRd2R5eGYwWmVxQi0tbVhDOFlKNzNndUdLNHNaQ3hEVjZzUTJCcTY2dFdCdDBhcg?oc=5",
-   "type": null,
-   "time": "2026-11-07T01:33:47Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "qatari-pm-says-us-willing-to-seek-solution-to-wa",
-   "country": "Qatar",
-   "label": "قطر",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "رئيس وزراء قطر يقول إن الولايات المتحدة مستعدة للبحث عن حل للحرب مع إيران",
-   "summary": "رئيس وزراء قطر يقول إن الولايات المتحدة مستعدة للبحث عن حل للحرب مع إيران",
+   "headline": "أفادت وسائل إعلام رسمية بسماع دوي انفجارات في جزيرة قشم ومواقع متعددة في إيران",
+   "summary": "أفادت وسائل إعلام رسمية بسماع دوي انفجارات في جزيرة قشم ومواقع متعددة في إيران",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "رئيس وزراء قطر يقول إن الولايات المتحدة مستعدة للبحث عن حل للحرب مع إيران."
+     "text": "أفادت وسائل إعلام رسمية بسماع دوي انفجارات في جزيرة قشم ومواقع متعددة في إيران."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUdicS1vRHlsNmhSSW1Ic2hYbXF5OUM1dUllOWNETFRtT256VW9nMVNqeVIwNmRzN3pQWk9CWmwzczh2bERTRE50dmpkNk9LVWV2c3oyLVg5U3ItU1N4YmdlSmVxMVk4NFE?oc=5",
    "type": null,
-   "time": "2026-11-07T07:10:37Z",
+   "time": "2026-11-07T19:55:40Z",
    "countries": [
-    "Qatar",
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-official-risk-of-war-between-us-and-iran-rem",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "مسؤول إماراتي: خطر الحرب بين الولايات المتحدة وإيران لا يزال قائما",
+   "summary": "مسؤول إماراتي: خطر الحرب بين الولايات المتحدة وإيران لا يزال قائما",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مسؤول إماراتي: خطر الحرب بين الولايات المتحدة وإيران لا يزال قائما."
+    }
+   ],
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KSGhBN2JWLUViVTk4T2tLQVhNUUh3RjNxUGk3cGgwTjJMQTlVZkVBbWpkZEtzTENDLXYyQlFMTlc3alNpVVhpRlFxbGQ4SXJTSkJHa05mMjFYbWdpWHA2ZGRnNGFnSHJ5eEI4?oc=5",
+   "type": null,
+   "time": "2026-11-07T15:46:51Z",
+   "countries": [
+    "United Arab Emirates",
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "russia-ukraine-peace-talks-putin-confirms-fresh-",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "روسيا وأوكرانيا محادثات السلام | بوتين يؤكد محادثات سلام جديدة مع أوكرانيا في أبو ظبي الثلاثاء المقبل",
-   "summary": "روسيا وأوكرانيا محادثات السلام | بوتين يؤكد محادثات سلام جديدة مع أوكرانيا في أبو ظبي الثلاثاء المقبل",
+   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "أصيب 9 أشخاص في هجمات بطائرات بدون طيار وصواريخ بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة",
+   "summary": "أصيب 9 أشخاص في هجمات بطائرات بدون طيار وصواريخ بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "روسيا وأوكرانيا محادثات السلام | بوتين يؤكد محادثات سلام جديدة مع أوكرانيا في أبو ظبي الثلاثاء المقبل."
+     "text": "أصيب 9 أشخاص في هجمات بطائرات بدون طيار وصواريخ بينما تستعد أوكرانيا لإجراء محادثات مع روسيا والولايات المتحدة."
     }
    ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWZXQzJLcE9rM1ZaU1liMlJnYUhJQk9ZeHpnTk1SZnllVy0yMFBkazNZRU1yM3ZsN3FuQjdkb0s2WldLRVdpWnJDaVBJd3cxUXg3LUE3dHlLa0RNQ2l2RkpUbnBEOWNUZ2Iya2gySEJldG1YZkhpTHhqdU5vRWltTHNmal9QXzlYUU5ibndBVFdlUnFLUXdGLWhCaC1nTzEwbWcyWllWbDhwYVpfcmlMYlBnZjE3UlBPSTNRZlA2SHEyTWYxelppZDB0TGd5QQ?oc=5",
-   "type": "VIDEO",
-   "time": "2026-11-07T07:09:59Z",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "type": null,
+   "time": "2026-11-07T18:10:00Z",
    "countries": [
-    "United Arab Emirates",
+    "Ukraine",
     "Russia",
-    "Ukraine"
+    "United States of America"
    ]
   },
   {
-   "id": "-uae-is-my-first-home-dubai-teenager-riyan-malha",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "\"الإمارات العربية المتحدة هي بيتي الأول\": المراهق من دبي ريان مالهان يحصل على الميدالية الذهبية التاريخية في الألعاب الأولمبية للشباب وعيد ديوالي الذي لا يُنسى",
-   "summary": "\"الإمارات العربية المتحدة هي بيتي الأول\": المراهق من دبي ريان مالهان يحصل على الميدالية الذهبية التاريخية في الألعاب الأولمبية للشباب وعيد ديوالي الذي لا يُنسى",
+   "id": "poland-in-shock-after-six-die-in-krakow-mass-sho",
+   "country": "Poland",
+   "label": "بولندا",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "بولندا في حالة صدمة بعد مقتل ستة في إطلاق نار جماعي في كراكوف",
+   "summary": "قالت الشرطة البولندية، اليوم السبت، إن ستة أشخاص قتلوا وأصيب نحو 12 آخرين بعد أن فتح مسلح النار في المركز التاريخي لمدينة كراكوف، ثاني أكبر مدنها. وقالت الشرطة إن رجلا قاد سيارة إلى الساحة الرئيسية في كراكوف وبدأ في إطلاق النار على أشخاص بشكل عشوائي.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "\"الإمارات العربية المتحدة هي بيتي الأول\": المراهق من دبي ريان مالهان يحصل على الميدالية الذهبية التاريخية في الألعاب الأولمبية للشباب وعيد ديوالي الذي لا يُنسى."
+     "text": "بولندا في حالة صدمة بعد مقتل ستة في إطلاق نار جماعي في كراكوف."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "قالت الشرطة البولندية، اليوم السبت، إن ستة أشخاص قتلوا وأصيب نحو 12 آخرين بعد أن فتح مسلح النار في المركز التاريخي لمدينة كراكوف، ثاني أكبر مدنها. وقالت الشرطة إن رجلا قاد سيارة إلى الساحة الرئيسية في كراكوف وبدأ في إطلاق النار على أشخاص بشكل عشوائي."
     }
    ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWFOZ3NtMjRUa2tTN1pWMm03NUJHU3lzNEZ6Sk9WaVU5V0QzcGt2T0l3ODU4TkRzdXBhbnZ5QjBKMXpxd2tldDJFVDNfa25FWm5ZQkl6YlE1Wm1VWVoxVmZOOFZpcGVndU9BeFJVT1pBeHVrcFJrNE1tcm01YWlyN3pEUE1XU2lMWHhWV2N1OVFPQ2M1YVV4ZVFocGpmcVpPVXZZWFh3WnBhcGxjdXc0QTZnU0R4TXlXdWhqdng0b2MyY2VOSjJPWEJHUzVFOGxtQXlrX3dodU5adUnSAesBQVVfeXFMTUN3MXRia3dhdzBYNC1teWZBWVZveVR4TEJsZ3ZLOURpNW5GbkFGM0NySi1sakFQVmhZYVVPNm5nSmNCR2NCTkEzYXJiZkNwMklIRGpNLWNxNXlDQ3lyYzZsQWRsMTRkTlhJWlk1bFBvNFZNaGFWaGhIWW40cE5nME9FaUVlM1dXenNZQTNmZVFPN2duenNGMWNTUmRERGF6R2xobWJlazY2WERoLU8tRUp5ZTd0ck9aU0Q5ak9PQ29mRDljR3BkLS13NUlSOGEtMDQ2MFV3bUJOZWNOMF9tOXd4U1IyRHJVdzFuOA?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
    "type": null,
-   "time": "2026-11-07T09:04:37Z",
+   "time": "2026-11-07T22:16:54Z",
    "countries": [
+    "Poland"
+   ]
+  },
+  {
+   "id": "israel-s-president-picks-yashar-leader-gadi-eise",
+   "country": "Israel",
+   "label": "إسرائيل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "الرئيس الإسرائيلي يختار زعيم حزب ياشار غادي آيزنكوت لتشكيل الحكومة",
+   "summary": "ولم تحصل كتلة رئيس الوزراء بنيامين نتنياهو ولا كتلة منافسه على الأغلبية في انتخابات الأسبوع الماضي.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الرئيس الإسرائيلي يختار زعيم حزب ياشار غادي آيزنكوت لتشكيل الحكومة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو التأثير؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ولم تحصل كتلة رئيس الوزراء بنيامين نتنياهو ولا كتلة منافسه على الأغلبية في انتخابات الأسبوع الماضي."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
+   "type": null,
+   "time": "2026-11-07T21:03:00Z",
+   "countries": [
+    "Israel"
+   ]
+  },
+  {
+   "id": "iran-says-it-has-lifted-its-self-imposed-limit-o",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "تقول إيران إنها رفعت الحد الذي فرضته على نفسها على نطاقات الصواريخ، وغيرها من أخبار الشرق الأوسط",
+   "summary": "تقول إيران إنها رفعت الحد الذي فرضته على نفسها على نطاقات الصواريخ، وغيرها من أخبار الشرق الأوسط",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تقول إيران إنها رفعت الحد الذي فرضته على نفسها على نطاقات الصواريخ، وغيرها من أخبار الشرق الأوسط."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "type": null,
+   "time": "2026-11-07T20:55:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "russian-strikes-wound-nine-and-damage-ukraine-s-",
+   "country": "Russia",
+   "label": "روسيا",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "وأصابت الضربات الروسية تسعة أشخاص وألحقت أضرارا بشبكة الكهرباء في أوكرانيا قبل المحادثات",
+   "summary": "وتأتي الهجمات قبل أن يشارك وفدان أوكراني وروسيا في محادثات ثلاثية في أبو ظبي الأسبوع المقبل.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "وأصابت الضربات الروسية تسعة أشخاص وألحقت أضرارا بشبكة الكهرباء في أوكرانيا قبل المحادثات."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وتأتي الهجمات قبل أن يشارك وفدان أوكراني وروسيا في محادثات ثلاثية في أبو ظبي الأسبوع المقبل."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-07T12:49:36Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
     "United Arab Emirates"
    ]
   },
   {
-   "id": "what-s-the-latest-saudi-arabia-security-update-a",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "ما هو آخر تحديث أمني في المملكة العربية السعودية قبل عرض Crown Jewel اليوم؟",
-   "summary": "ما هو آخر تحديث أمني في المملكة العربية السعودية قبل عرض Crown Jewel اليوم؟",
+   "id": "ukraine-s-zaporizhzhia-faces-threat-as-russian-d",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "تواجه مدينة زابوريزهيا الأوكرانية تهديدًا مع اقتراب الطائرات الروسية بدون طيار",
+   "summary": "وتواجه مدينة زابوريزهيا في أوكرانيا، التي كانت ذات يوم ملجأ للفارين من الحرب، خطراً متزايداً.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ما هو آخر تحديث أمني للمملكة العربية السعودية قبل عرض Crown Jewel اليوم؟."
+     "text": "تواجه مدينة زابوريزهيا الأوكرانية تهديدًا مع اقتراب الطائرات الروسية بدون طيار."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وتواجه مدينة زابوريزهيا في أوكرانيا، التي كانت ذات يوم ملجأ للفارين من الحرب، خطراً متزايداً."
     }
    ],
-   "source": "Sports Illustrated",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSHVSWnBFdXpuZkhoa1QtZnlqNWhQZnk2dHJCMzdwaFcxSjJjSUVvMUo3SXRkamNrWUVKcGFFM2Vudm9qMlo2UGZ5cVRYUW1IVkVFRUZmMk0yRW9SbENoZndicmNLMkdBejFoUTNSYkZ3dHIzNlFjdllwZDVlMVJ2ekNSMFZHRjR3OGlNZ3RBSjB0TEdHVnMtUHNaNHZ6RE82cHNvZ1B1VDdXSFFscHlCSkpIR3g0by1scVE4?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
    "type": null,
-   "time": "2026-11-07T06:00:00Z",
+   "time": "2026-11-07T20:10:38Z",
    "countries": [
-    "Saudi Arabia"
+    "Ukraine",
+    "Russia"
    ]
   }
  ]

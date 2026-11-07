@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:16:48.406135Z",
+ "updated": "2026-11-07T23:42:48.516582Z",
  "generator": "rss",
  "stories": [
   {
@@ -25,6 +25,92 @@
    "time": "2026-11-07T13:42:00Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "syria-denies-sending-troops-to-saudi-arabia-or-y",
+   "country": "Syria",
+   "label": "SYRIA",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Syria Denies Sending Troops to Saudi Arabia or Yemen",
+   "summary": "Syria Denies Sending Troops to Saudi Arabia or Yemen",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Syria Denies Sending Troops to Saudi Arabia or Yemen."
+    }
+   ],
+   "source": "الحرة",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaWZxQllIbDJKV0lUZ0Q5bXJpdks0RGdObGh0NExITTBoR2N5N3dHM1pWRmJjQ0Vac3NYbXRaR281UQ?oc=5",
+   "type": null,
+   "time": "2026-11-07T21:36:01Z",
+   "countries": [
+    "Syria",
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "airstrikes-kill-more-than-2-dozen-people-near-ye",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+   "summary": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+   "type": null,
+   "time": "2026-11-07T16:42:00Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders",
+   "summary": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
+   "type": null,
+   "time": "2026-11-07T12:05:46Z",
+   "countries": [
+    "Pakistan",
+    "Sudan"
    ]
   },
   {
@@ -96,74 +182,6 @@
    ]
   },
   {
-   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders",
-   "summary": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
-   "type": null,
-   "time": "2026-11-07T12:05:46Z",
-   "countries": [
-    "Pakistan",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthis say at least 25 killed in Saudi air strike",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Houthis say at least 25 killed in Saudi air strike."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T17:09:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
    "id": "pcb-adds-aamir-jamal-three-uncapped-players-to-p",
    "country": "Pakistan",
    "label": "PAKISTAN",
@@ -198,55 +216,37 @@
    ]
   },
   {
-   "id": "houthi-run-health-ministry-says-airstrikes-it-bl",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
-   "summary": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
+   "headline": "Houthis say at least 25 killed in Saudi air strike",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
-   "type": null,
-   "time": "2026-11-07T19:27:23Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "us-hits-anti-arcraft-device-on-iran-s-queshm-isl",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says",
-   "summary": "US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says",
-   "lines": [
+     "text": "Houthis say at least 25 killed in Saudi air strike."
+    },
     {
-     "role": "OPERATOR",
-     "text": "US hits anti-arcraft device on Iran's Queshm Island in minor strikes, Donald Trump says."
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
     }
    ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQ3hBa3JORVJTTllMNFlWcDI2M2EwQVowc05SZVhzNWNMT3ltcndlcFVJQjRGMzYzNFh0dlZlb0pqMTludzVQTFFxVXhvdGQyYTVsclBkbWQ3dzEwajllQ0VscWVZMTdVU0E?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T18:09:34Z",
+   "time": "2026-11-07T17:09:24Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -267,7 +267,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -280,33 +280,6 @@
    "time": "2026-11-07T19:06:31Z",
    "countries": [
     "Yemen"
-   ]
-  },
-  {
-   "id": "syria-denies-plans-to-send-troops-to-yemen-as-sa",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-   "summary": "Syria denies plans to send troops to Yemen as Saudi military ties deepen",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Syria denies plans to send troops to Yemen as Saudi military ties deepen."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWFoalVjYUd5cFBzeWxSX3pKY1o0eG8wczAtaHYtSW5FckxtSkNoTXExWXlUY09ETUM3ZGVGS3lyRGFfeDh4bVJ0eER2YXp3dm1hclg3RzRHaktReWwxb1Zzdl9JWTJ0WVhpYWgxeUd6RWV4SkFUWU5DMDI0N0tYS3hMd1hIQU1kb3dCMUZzdng5VVlBUVhERlFMT0FvSldhcERMQ3ZXNHhPTkprenZKYW5waUxodHFTZFE?oc=5",
-   "type": null,
-   "time": "2026-11-07T16:35:43Z",
-   "countries": [
-    "Syria",
-    "Yemen",
-    "Saudi Arabia"
    ]
   },
   {
@@ -333,6 +306,31 @@
    "countries": [
     "United Arab Emirates",
     "Syria"
+   ]
+  },
+  {
+   "id": "explosions-heard-on-qeshm-island-multiple-locati",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
+   "summary": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUdicS1vRHlsNmhSSW1Ic2hYbXF5OUM1dUllOWNETFRtT256VW9nMVNqeVIwNmRzN3pQWk9CWmwzczh2bERTRE50dmpkNk9LVWV2c3oyLVg5U3ItU1N4YmdlSmVxMVk4NFE?oc=5",
+   "type": null,
+   "time": "2026-11-07T19:55:40Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -390,97 +388,94 @@
    ]
   },
   {
-   "id": "us-task-force-iron-gate-in-the-works-to-restrict",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "US ‘Task Force Iron Gate’ in the works to restrict Iranian land commerce alongside naval blockade",
-   "summary": "After a months-long naval blockade on Iran, the US military has announced the establishment of a task force to bolster Washington’s efforts to restrict Tehran’s movement of advanced weapons systems and other sanctioned material across its land borders and the",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US ‘Task Force Iron Gate’ in the works to restrict Iranian land commerce alongside naval blockade."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "After a months-long naval blockade on Iran, the US military has announced the establishment of a task force to bolster Washington’s efforts to restrict Tehran’s movement of advanced weapons systems and other sanctioned material across its land borders and the"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042856/us-task-force-iron-gate-in-the-works-to-restrict-iranian-land-commerce-alongside-naval-blockade",
-   "type": null,
-   "time": "2026-11-07T16:39:34Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "six-people-killed-at-least-a-dozen-injured-in-sh",
+   "id": "poland-in-shock-after-six-die-in-krakow-mass-sho",
    "country": "Poland",
    "label": "POLAND",
    "lat": 51.9,
    "lon": 19.1,
    "flag": "🇵🇱",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Six people killed, at least a dozen injured in shooting at main market square of Krakow, Poland",
-   "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Poland in shock after six die in Krakow mass shooting",
+   "summary": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Six people killed, at least a dozen injured in shooting at main market square of Krakow, Poland."
+     "text": "Poland in shock after six die in Krakow mass shooting."
     },
     {
      "role": "COMMANDER",
-     "text": "What does it mean for prices?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland."
+     "text": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police."
     }
    ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XLU1MQnRhZXVkS3JYQW1icjAtdDFfR0tBcTF3TzBoeEZRZ3BhSWR4MGlTNGdOTHNzTHFheHlLM0U0UHM3dkVlOHJFUDBrVFFiTGZjUXFTLWRGZ3RQYnRPVEh6MkZ1TzUtMGhQMGVnNTlLTGwyMWNNZEVR?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
    "type": null,
-   "time": "2026-11-07T18:41:08Z",
+   "time": "2026-11-07T22:16:54Z",
    "countries": [
     "Poland"
    ]
   },
   {
-   "id": "thousands-of-syrian-troops-to-deploy-to-yemen-sa",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "high",
+   "id": "israel-s-president-picks-yashar-leader-gadi-eise",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
    "category": "Middle East",
-   "headline": "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP - Al-Monitor",
-   "summary": "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP - Al-Monitor",
+   "headline": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Thousands of Syrian troops to deploy to Yemen, Saudi Arabia: sources to AFP - Al-Monitor."
+     "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
     }
    ],
-   "source": "Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY3UwYXRfUUlTdFFuam1jSTBVMTBpdkctblY5NElMM3lZSVNCekR5Y2FLNmYySWN2UUdWeWdYcGhmdDZFWHhYT3ROWklUQXNBSkZiQUJ2UnZ4cEZ0Zi1PLVVJX1RybF83Yk9oRjRqS1hRV19mUzJlV202NnFWcC1LYmFsUmVRS3E5RlFVSkNfVmlsYTZ3RUJvVFNfY1p5cjV6NklRc2gtc3VGZw?oc=5",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
    "type": null,
-   "time": "2026-11-07T13:50:30Z",
+   "time": "2026-11-07T21:03:00Z",
    "countries": [
-    "Syria",
-    "Yemen",
-    "Saudi Arabia"
+    "Israel"
+   ]
+  },
+  {
+   "id": "iran-says-it-has-lifted-its-self-imposed-limit-o",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+   "summary": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "type": null,
+   "time": "2026-11-07T20:55:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -501,7 +496,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -519,7 +514,7 @@
    ]
   },
   {
-   "id": "russia-hits-kyiv-in-overnight-attack-days-before",
+   "id": "ukraine-s-zaporizhzhia-faces-threat-as-russian-d",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -527,22 +522,29 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks",
-   "summary": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks",
+   "headline": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+   "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia hits Kyiv in overnight attack days before Abu Dhabi talks."
+     "text": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger."
     }
    ],
-   "source": "Politico",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWpGcGNKTlgzQzQyUTBodEgyUE5QRk9nMExaTkJMaHpxTjY5dG9Ec29pVjRfWVRZTFR0Ymcyb1Bqcl9Ic29EMkNnclJJOGdON3FlQ0ZIeWhMWTJDa1pubFBfanFSMUlrb0s3NklXaFZJeHYxaWhIUzd2RzVwSkFmblAtakUxTk9IRUdhQVdfcWEtci05TlhBQnVNZHZxX3FpcWlkQVRlX18?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
    "type": null,
-   "time": "2026-11-07T11:28:00Z",
+   "time": "2026-11-07T20:10:38Z",
    "countries": [
     "Ukraine",
-    "Russia",
-    "United Arab Emirates"
+    "Russia"
    ]
   }
  ]
