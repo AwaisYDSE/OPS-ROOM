@@ -1,10 +1,63 @@
 {
- "updated": "2026-11-08T16:22:56.847537Z",
+ "updated": "2026-11-08T20:47:22.710594Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "saudi-aramco-tower-damaged-as-yemen-s-houthis-at",
+   "id": "europe-to-join-u-s-brokered-ukraine-talks-in-abu",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "欧洲不顾克里姆林宫的反对，参加美国斡旋的阿布扎比乌克兰谈判",
+   "summary": "欧洲不顾克里姆林宫的反对，参加美国斡旋的阿布扎比乌克兰谈判",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "欧洲不顾克里姆林宫的反对，参加了美国斡旋的在阿布扎比举行的乌克兰谈判。"
+    }
+   ],
+   "source": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
+   "type": null,
+   "time": "2026-11-08T19:25:30Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "saudi-aramco-building-in-riyadh-damaged-in-attem",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "沙特阿美公司位于利雅得的大楼在“未遂”袭击中受损",
+   "summary": "沙特阿美公司位于利雅得的大楼在“未遂”袭击中受损",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "沙特阿美公司位于利雅得的大楼在“未遂”袭击中受损。"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5",
+   "type": null,
+   "time": "2026-11-08T13:19:35Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "aramco-skyscraper-damaged-as-houthis-target-riya",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
    "lat": 24.7,
@@ -12,87 +65,59 @@
    "flag": "🇸🇦",
    "severity": "markets",
    "category": "Tech",
-   "headline": "也门胡塞武装袭击利雅得 沙特阿美石油公司塔受损",
+   "headline": "胡塞武装瞄准利雅得金融区 沙特阿美摩天大楼受损",
    "summary": "沙特能源部周日表示，利雅得的一栋沙特阿美石油公司大楼成为“未遂袭击”的目标，目击者告诉法新社，沙特领导的打击胡塞武装联军称已拦截了沙特发射的导弹，导致该大楼遭受破坏。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "也门胡塞武装袭击利雅得，沙特阿美石油公司塔楼受损。"
+     "text": "胡塞武装袭击利雅得金融区，沙特阿美摩天大楼受损。"
     },
     {
      "role": "COMMANDER",
-     "text": "这对价格意味着什么？"
+     "text": "为什么要搬家？"
     },
     {
      "role": "ANALYST",
      "text": "沙特能源部周日表示，利雅得的一栋沙特阿美石油公司大楼成为“未遂袭击”的目标，目击者告诉法新社，沙特领导的打击胡塞武装联军称已拦截了沙特发射的导弹，导致该大楼遭受破坏。"
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043061/aramco-skyscraper-damaged-as-houthis-target-riyadh-financial-district",
    "type": null,
-   "time": "2026-11-08T12:16:42Z",
+   "time": "2026-11-08T14:40:08Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "europe-will-take-part-in-us-mediated-ukraine-tal",
+   "id": "trump-says-return-to-iran-war-highly-unlikely-if",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
+   "severity": "critical",
    "category": "World",
-   "headline": "法国外长表示，欧洲将参加美国斡旋在阿布扎比举行的乌克兰谈判",
-   "summary": "法国外长表示，欧洲将参加美国斡旋在阿布扎比举行的乌克兰谈判",
+   "headline": "特朗普称如果谈判取得进展“极不可能”重返伊朗战争",
+   "summary": "特朗普称如果谈判取得进展“极不可能”重返伊朗战争",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "法国外长表示，欧洲将参加美国斡旋的在阿布扎比举行的乌克兰谈判。"
+     "text": "特朗普表示，如果谈判取得进展，重返伊朗战争“极不可能”。"
     }
    ],
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTZ5ZjQxbUR2dE5VdlpGbnJfWkgxSnlMQkt3NjFNUERsaVhndWJncEU5Rm5vYThnUVlSOG1QYjVwVkVhM3dEdUwzV3VOcGVpOWZyWUV3Z09tSmF5aktQTHo2d1pTdHIyY3ZBaUZKRjdUaTVLMU1VcmhrNXpscnBaeFlVYXNQajdabF9VdDlMQWZFYXhDOUkxckIzM0pGUE91QlJua3ctRHM0OGNWdE5jNWQ0aXB3TGJzNUNKd2JTQQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc?oc=5",
    "type": null,
-   "time": "2026-11-08T14:16:31Z",
+   "time": "2026-11-08T17:55:52Z",
    "countries": [
     "United States of America",
-    "Ukraine",
-    "United Arab Emirates",
-    "France"
+    "Iran"
    ]
   },
   {
-   "id": "pakistan-beat-india-by-three-wickets-in-u-19-asi",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "巴基斯坦在 U-19 亚洲杯中以三柱门击败印度",
-   "summary": "巴基斯坦在 U-19 亚洲杯中以三柱门击败印度",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦在 U-19 亚洲杯上以三柱门击败印度。"
-    }
-   ],
-   "source": "The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclN4ZUxMcl9ocS02eFowbFJrODNxNmpUV01oMnV1cWRfRl9QQ0tSZjc1dlRBYlFWQ2xkUGZRLUFpb2JYOUF2eU5UcThuNHZuSDROVU9za0xRR2JxSVUtUksxSjViVjZzVmpUN3U5OFFxT2tjQWRNUktWeWE2SU1wTGc4amNpamY2b0xOTjJtQkFObHJpcmI1b0dPTDhIODlkVEJTYUVoVdIBrgFBVV95cUxQOW9YOUJxaVUwazR2SnhaNVBDOGx3ZUVTUXI1RjhxWk1iU2dBR3ozZ0g1YUdpLVI4TW0wREFuUEVyVkVUVU1HZEpKTzJkYkR2RHhrS1BRd3BjZEk0b0FjSU1QbzdvcGZ0VFFsSGpsU0JwX3cyVWtfckM3NktjdnJLeHFqMlhjbklFLTRXUEMwWmo4WWNGN1V6RE5wbURSQlRKMXhSaHBmdVgyLVR5Qmc?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:22:35Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "rahm-kicks-off-career-rebuild-with-abu-dhabi-win",
+   "id": "in-first-start-post-liv-jon-rahm-wins-abu-dhabi-",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
@@ -100,18 +125,69 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "拉姆以阿布扎比胜利开启职业生涯重建之路，力压麦克罗伊和哈顿",
-   "summary": "拉姆以阿布扎比胜利开启职业生涯重建之路，力压麦克罗伊和哈顿",
+   "headline": "在 LIV 后的首次出发中，Jon Rahm 赢得了阿联酋阿布扎比 Aldar 锦标赛",
+   "summary": "在 LIV 后的首次出发中，Jon Rahm 赢得了阿联酋阿布扎比 Aldar 锦标赛",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "拉姆以阿布扎比的胜利开始了职业生涯的重建，击败了麦克罗伊和哈顿。"
+     "text": "在 LIV 后的首次比赛中，乔恩·拉姆 (Jon Rahm) 赢得了阿联酋阿布扎比阿尔达尔锦标赛冠军。"
     }
    ],
-   "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0tYOTh0WmI0OFQ4VVpoZ0dYcmthZjB0X2dMSmJySC1GSjVfOTZ6T2ktWThLUGpCUEVYMEI0NXV1TldFcU9nTUdWX1lVd3V0SC03cVp5dDNDdkRENHBqLWllVmNuMm1aOXZ5a2RQUlEyODdQUWNDanlTczdneUtVMHVrSjc5RjkydFZ1Xw?oc=5",
+   "source": "Central Oregon Daily",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb1o1RFJfS2xuWDd6QmI0aHduZWpPN05DMUFPWHNfVGhhbTdsYkx3UmROVEEzWnN6YUJGTWVjV2MyNGRIZEdOc1NiTWxWU0VURnY5b1ppQTZ2MndkSS1ZQy1FRktSbUVva2JBcWZ1bU1XbUpaSDBKYkE4OUROc3dlYnRqTXJEX29nWFpqQk94VVlGMmh6UHpoTmZjZ3JvMVBTZXFXa2Iyd0JGQ2JvNFdDYUJPeVhGWndSWGRjdHJkejJlZXF3TFd1YncxM3lqQmwybkgtN25BS1dIRjh1QzJpUlp6QlpKc0xuV25iZl9rSDYtTXUwMnB5UQ?oc=5",
    "type": null,
-   "time": "2026-11-08T12:57:00Z",
+   "time": "2026-11-08T17:33:06Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-plays-down-prospect-of-new-strikes-on-iran",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "特朗普淡化对伊朗发动新打击的可能性",
+   "summary": "特朗普淡化对伊朗发动新打击的可能性",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "特朗普淡化了对伊朗发动新一轮打击的可能性。"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-08T20:39:47Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-s-foreign-trade-nears-dhs3-trillion-in-9-mon",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "谢赫·穆罕默德表示，阿联酋对外贸易在 9 个月内接近 3 万亿迪拉姆",
+   "summary": "谢赫·穆罕默德表示，阿联酋对外贸易在 9 个月内接近 3 万亿迪拉姆",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "谢赫·穆罕默德表示，阿联酋的对外贸易在 9 个月内接近 3 万亿迪拉姆。"
+    }
+   ],
+   "source": "Gulf Today",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG52aWFpVld4N1Q4ZzdTN19SdExRNmZIOW1mREN5a2hvUDZlZnQ1bFE1Zm91Zm9HTUtwaWFqQ2o5czF3OU5mNUdHellUT05ldVNEU1RoR21CNGkybWhqaTVFRFo2ajRCZWF1bkdNU2ZzV0ZYV29NUk9DVVlkczYzNVU2THZqMHV1d3NFMTJhNHY5N281Nk8wNUpFOS1tS2d0NVYzOEZXNmY4UFhOS2txakhR?oc=5",
+   "type": null,
+   "time": "2026-11-08T16:27:53Z",
    "countries": [
     "United Arab Emirates"
    ]
@@ -134,7 +210,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "好吧，还有什么？"
+     "text": "明白了。继续。"
     },
     {
      "role": "ANALYST",
@@ -152,113 +228,117 @@
    ]
   },
   {
-   "id": "uae-foreign-trade-hits-near-record-dh3-trillion-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
+   "id": "ind-vs-pak-pakistan-s-hilarious-fielding-blunder",
+   "country": "India",
+   "label": "印度",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "IND vs PAK：U19亚洲杯巴基斯坦队对阵印度队的搞笑防守失误被疯传",
+   "summary": "IND vs PAK：U19亚洲杯巴基斯坦队对阵印度队的搞笑防守失误被疯传",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "IND vs PAK：巴基斯坦在 U19 亚洲杯上对阵印度的搞笑防守失误被疯传。"
+    }
+   ],
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQklWSmx2UWgyOG5aN2dBNVFWMkZwVm9jZWE0VEsxUTJITTJwQnRsOVFTWmNiQ2plUXI3NTYwZ2VqYWpHblNCdFBTSERydTdiUDg1aWNLT3BTYVRmdVJwNE9US01xT2NHSlZKT0UwTlZQQi1yR3Blc2xCUktSVDk2M0dQQk1BN2VRM09xaWF4WHNCeGszTFRYbnl5M25sWS14dmNuTVh4d1lJc2cwYU90SF9vQ25fWDdPckVaMjlIVXBUM2QwWWlvN2stMWFPM3lNZHpEZU5VWXEtekZyaVNjT1YtXzZoeUQ4RC16X01hX0hvWHFmNFIzWGppS1BNZzdVWmZJMmwyb9IBjAJBVV95cUxOeXNIZDBVMEFac2JaLUVEZVVSeWo2Rk1NZkdIZm1FWVBDZWttTHgxZWk1VEZmalppNTNGTVBGV0xRMmlpT0I5cUR1OTRiZ0d4WTVjWkVMbUViXzRJamx6MHlPQlZ0OGs0cGZjNVlvcm5HdjlKRTNHSUdjbXFfQ20xRE53N01IVFV6eEJrdVRrSEJpbGRLaHNPZ1N5dWhadXEzVTIyX1lnQnRkTnAtV2taTFBzdzJZaUxOLWFjUWNhSzR3dzU2QjVaX20yQXo4d1ozVUhMMk5YM1RpdEtUcHpHcHdxVXQtRllyQl9mWVdFeUthUEVjemlJVXMzMjUtcFZXOXFqSjNnUHF1Q0xs?oc=5",
+   "type": "VIDEO",
+   "time": "2026-11-08T11:58:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iraq-has-reached-understandings-with-us-to-allow",
+   "country": "Iraq",
+   "label": "伊拉克",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
    "severity": "markets",
    "category": "Markets",
-   "headline": "阿联酋对外贸易在九个月内创下 3 万亿迪拉姆的新纪录 - 新闻和统计",
-   "summary": "阿联酋对外贸易在九个月内创下 3 万亿迪拉姆的新纪录 - 新闻和统计",
+   "headline": "部长表示，伊拉克已与美国达成谅解，允许通过霍尔木兹出口石油",
+   "summary": "部长表示，伊拉克已与美国达成谅解，允许通过霍尔木兹出口石油",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "阿联酋对外贸易在九个月内创下近纪录的 3 万亿迪拉姆 - 新闻和统计数据。"
+     "text": "部长表示，伊拉克已与美国达成谅解，允许通过霍尔木兹海峡出口石油。"
     }
    ],
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVdzNEdaZ1lHZDU1ZXUtMWlfQTM3SllhXzZWRUd6QlVyOEhEb1dkOXlsdHc4cDdNWC1uNWVHZFFwTUZRYzJzN1NUVmxpck9PLXNqSTNrSHlMRmFWbFJXTlFsX0djQkxOUGxuXzZsRWtycWs3SXZlSS1Cc2tORE1QT19DS1lBdWxqa1BYdFMwVQ?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
    "type": null,
-   "time": "2026-11-08T15:10:34Z",
+   "time": "2026-11-08T19:26:09Z",
    "countries": [
-    "United Arab Emirates"
+    "Iraq",
+    "United States of America"
    ]
   },
   {
-   "id": "2026-abu-dhabi-aldar-championship-prize-money-pa",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "2026 年阿布扎比阿尔达尔锦标赛每位 DP 世界巡回赛选手的奖金",
-   "summary": "2026 年阿布扎比阿尔达尔锦标赛每位 DP 世界巡回赛选手的奖金",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "2026 年阿布扎比阿尔达尔锦标赛每位 DP 世界巡回赛选手的奖金支付。"
-    }
-   ],
-   "source": "Golfweek",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmpCdTYyT2dhaTJ0aE5wWmxhdmZBdEJxVHFpbUFMSjBLUkJINnJlaVFtcjd1TjNtREN4U1lNUWk2UmNyczI1UVg5Rk5DdkYwMkw2VlhpSXhxeXVXMTI4aEozN1pzWU9FUnhXelhpeHMzaHl3bmRDRnFaUkh0N0lMT0U2RkZaTHZQLUJrR0hVejB6Z1FEVW5EenRmaUtsMFd2NUN3ZlJoOTVHR0FnVmc1WEpuUTFQWFRwR3VsYzk5Snp5MzVkTHcyTzREaHRiYWVOanFyRXVNRzNsZHIyVDNhRl9aWVVSdw?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:53:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "u-s-strikes-iran-as-tensions-rise-in-the-strait-",
+   "id": "iran-executes-three-men-for-armed-unrest-after-j",
    "country": "Iran",
    "label": "伊朗",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "霍尔木兹海峡紧张局势升级，美国打击伊朗",
-   "summary": "霍尔木兹海峡紧张局势升级，美国打击伊朗",
+   "headline": "一月份抗议活动后，伊朗以“武装骚乱”罪处决了三名男子",
+   "summary": "据称哈桑·迪奥班德、哈米德·卡泽米和礼萨·赞加内参加了今年早些时候的反政府抗议活动。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "随着霍尔木兹海峡紧张局势升级，美国对伊朗进行打击。"
-    }
-   ],
-   "source": "WHAS11",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenBMU0kyd0RqakF4UFdOc0xwX1RLTUo3SW15d3pRSnVPLVpkbF8tcnJPU0ttQUNGOHJRdjBHc3llWWthLTAySTNtWXJROWtSbzVBaXZ1a0lGbExMbElqQzRaVC05UURhNzU4T1U3WXNEZmNTaVc1MUhyaUFXUHRBd0d1ckNSenhTODk5TF95S2xvSzdqUVdZMmJ1eFl5cVV3Zlc4RDA4ZXlya296QnZDenBDWVBQTDN4cUh6WUk2TUExU2ZwaGpwQ3kwS3ZhWEJGWlFuVlQ1RQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T15:42:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "hundreds-of-thousands-left-without-power-in-ukra",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "当局称，俄罗斯空袭后乌克兰数十万人断电",
-   "summary": "俄罗斯袭击乌克兰第聂伯罗彼得罗夫斯克和哈尔科夫的能源基础设施后，约 85 万人失去电力。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "当局称，俄罗斯空袭后，乌克兰数十万人断电。"
+     "text": "一月份的抗议活动后，伊朗以“武装骚乱”罪名处决了三名男子。"
     },
     {
      "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
+     "text": "现在情况如何？"
     },
     {
      "role": "ANALYST",
-     "text": "俄罗斯袭击乌克兰第聂伯罗彼得罗夫斯克和哈尔科夫的能源基础设施后，约 85 万人失去电力。"
+     "text": "据称哈桑·迪奥班德、哈米德·卡泽米和礼萨·赞加内参加了今年早些时候的反政府抗议活动。"
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-08T11:20:29Z",
+   "time": "2026-11-08T13:37:50Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Iran"
+   ]
+  },
+  {
+   "id": "africa-s-most-powerful-military-joins-bahrain-ku",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "非洲最强大的军队加入巴林、科威特和叙利亚的行列，对胡塞武装袭击沙特阿拉伯价值 1.7 万亿美元的石油巨头阿美石油公司表示强烈反对",
+   "summary": "非洲最强大的军队加入巴林、科威特和叙利亚的行列，对胡塞武装袭击沙特阿拉伯价值 1.7 万亿美元的石油巨头阿美石油公司表示强烈反对",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "非洲最强大的军队与巴林、科威特和叙利亚一起，对胡塞武装袭击沙特阿拉伯价值 1.7 万亿美元的石油巨头阿美石油公司表示强烈反对。"
+    }
+   ],
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTZJY2VTeGl1Tkd5SkwzbV9PVjRnWXp6TXNqTGJtNFJCOUtSSzNkazBzQ3MxMHotM29TS1BOcHJnMThnbnEzR2lOSlZRcmtRU2ZhM2hCS05PYThfR2lkcmVfcEZNNE9YNUJ0clhSQkRNRks5dExnYVdNNU5YWGRLU3RaWXliT2ZJRENzODlPaUFhNUpQZ01tZ01lTmRzQnk3RnB4RHFyNDhlQnFmZTVQSGUtRkg0RExteEZSYlJnZjk3NFRGOFBCX2ZLdUdRYl83OHRkYW1YTHJ1UQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T17:00:01Z",
+   "countries": [
+    "Yemen",
+    "Bahrain",
+    "Kuwait",
+    "Syria",
+    "Saudi Arabia"
    ]
   },
   {
@@ -275,7 +355,7 @@
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国/以色列-伊朗战争：11 月 8 日晚上，阿联酋居民应该了解什么。"
+     "text": "美国/以色列-伊朗战争：11 月 8 日晚，阿联酋居民应该了解什么。"
     }
    ],
    "source": "Gulf News",
@@ -290,88 +370,89 @@
    ]
   },
   {
-   "id": "saudi-arabia-lifts-oil-region-alerts-after-houth",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞导弹拦截后沙特阿拉伯解除石油地区警报",
-   "summary": "胡塞导弹拦截后沙特阿拉伯解除石油地区警报",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装导弹被拦截后，沙特阿拉伯解除了石油地区警报。"
-    }
-   ],
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYno3bVdPSl9ScDRUZFI3V2RleVVjc2VfN2ZtM1NmbWxEblhCRGhuVDFCM25DWXFFcnFJVnJjVmJHV3h3OWJ6Q24zX2ZlRFNHWnNoWTQ3WVFVSFBQU2R6MUVfSU9YQ19UeV96ZjF5X0E1Yy1aQWVfcGV1TVFIQ1BZTDJ1WGRTUzU2T0pheWM1NE42MmhBUS1iWWVHTWtpSU92aGhlUXFUVThLMXZCdW1ieUFGcXJfcHJaa2NVdmRn?oc=5",
-   "type": null,
-   "time": "2026-11-08T05:07:35Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "ufc-saudi-arabia-official-for-december-5-israel-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "UFC 沙特阿拉伯官方将于 12 月 5 日举行，以色列阿迪萨尼亚 (Israel Adesanya) 复出对阵莎拉·马戈梅多夫 (Shara Magomedov)",
-   "summary": "UFC 沙特阿拉伯官方将于 12 月 5 日举行，以色列阿迪萨尼亚 (Israel Adesanya) 复出对阵莎拉·马戈梅多夫 (Shara Magomedov)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UFC 沙特阿拉伯官方将于 12 月 5 日举行，以色列阿德萨尼亚 (Israel Adesanya) 对阵莎拉·马戈梅多夫 (Shara Magomedov)。"
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pVb1lzUzBPSFBmNUdJN2Y2Y0lrZ2g1RnZ1bm9NZHZsaG5UaWgwc0I1bVZWMFdqTGs2UDZGa2hpVDVBUExXRVJfdmlkYWU1T09FbWx2N3hJdEQ1WW1WZ3hmTTFOenRzR2d4ejhnbThFYTJFenRaSUF6WWJtRFlsQlB1RlpUSlVVd3I4?oc=5",
-   "type": null,
-   "time": "2026-11-08T12:36:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Israel"
-   ]
-  },
-  {
-   "id": "pakistan-built-robots-serve-taste-of-future-to-k",
+   "id": "34-top-officials-travelling-pakistan-for-leaders",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "info",
-   "category": "Tech",
-   "headline": "巴基斯坦制造的机器人为卡拉奇食客带来未来的味道",
-   "summary": "在卡拉奇一家霓虹灯闪烁的餐厅里，一名机器人女服务员在餐位之间穿行，为等待的家庭送上一份新鲜的披萨。",
+   "category": "Pakistan",
+   "headline": "34名高级官员前往巴基斯坦参加领导力培训",
+   "summary": "34名高级官员前往巴基斯坦参加领导力培训",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦制造的机器人为卡拉奇食客带来了未来的味道。"
+     "text": "34 名高级官员前往巴基斯坦参加领导力培训。"
+    }
+   ],
+   "source": "New Age BD",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekhTRjBjVU1CZXFNSkdpSlJkZll3Y0x0eWtUTzhlbWlhOW1VMktRV3RrdVJJdlU1R1k4SFlLalpqNk41WjFzS1d1em03bGRwdTQzbE40Wi04YU44aFR5TFE1NmxlVHl4ODV5YjdPYzI4SFdXcWFUdjVhdEhZa1Z1cUluYzJJb1BaX2VjUWlkU1F1dGI3dDA0dmRWNE02VjYyUVBWOThibmNxVnc?oc=5",
+   "type": null,
+   "time": "2026-11-08T12:12:00Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "babar-azam-says-selection-not-in-his-hands-as-yo",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "巴巴尔·阿扎姆表示，巴基斯坦年轻球员面对斯里兰卡时，选择权不在他手中",
+   "summary": "巴基斯坦队队长巴巴尔·阿扎姆表示，球队的选择是选择者和教练的责任，并补充说，他的职责是充分利用可用的球员，因为年轻的巴基斯坦队准备在两届世界杯的揭幕战中对阵斯里兰卡。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴巴尔·阿扎姆表示，年轻的巴基斯坦队面对斯里兰卡队时，选择权不在他手中。"
     },
     {
      "role": "COMMANDER",
-     "text": "明白了。继续。"
+     "text": "好吧，还有什么？"
     },
     {
      "role": "ANALYST",
-     "text": "在卡拉奇一家霓虹灯闪烁的餐厅里，一名机器人女服务员在餐位间穿行，为等待的家庭送上一份新鲜的披萨。"
+     "text": "巴基斯坦队队长巴巴尔·阿扎姆表示，球队的选择是选择者和教练的责任，并补充说，他的职责是充分利用可用的球员，因为年轻的巴基斯坦队准备在两届世界杯的揭幕战中对阵斯里兰卡。"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043044/pakistan-built-robots-serve-taste-of-future-to-karachi-diners",
+   "url": "https://www.dawn.com/news/2043046/babar-azam-says-selection-not-in-his-hands-as-youthful-pakistan-face-sri-lanka",
    "type": null,
-   "time": "2026-11-08T11:44:44Z",
+   "time": "2026-11-08T08:37:31Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "iraq-says-it-lost-60b-from-iran-war-reaches-unde",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊拉克称伊朗战争损失600亿美元，与美国就霍尔木兹石油路线达成谅解",
+   "summary": "伊拉克称伊朗战争损失600亿美元，与美国就霍尔木兹石油路线达成谅解",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊拉克称其因伊朗战争损失了 600 亿美元，并与美国就霍尔木兹石油路线达成谅解。"
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
+   "type": null,
+   "time": "2026-11-08T19:43:43Z",
+   "countries": [
+    "Iran",
+    "Iraq",
+    "United States of America"
    ]
   },
   {
@@ -392,7 +473,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
+     "text": "背后是谁？"
     },
     {
      "role": "ANALYST",
@@ -410,115 +491,36 @@
    ]
   },
   {
-   "id": "iran-us-strikes-ship-after-blockade-breach",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗：美国在违反封锁后袭击船只",
-   "summary": "伊朗：美国在违反封锁后袭击船只",
+   "id": "collision-between-2-trains-in-egypt-kills-7-and-",
+   "country": "Egypt",
+   "label": "埃及",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
+   "severity": "info",
+   "category": "Business",
+   "headline": "埃及两列火车相撞 造成7人死亡、至少125人受伤",
+   "summary": "据当局称，两列火车周日在埃及首都以南相撞，导致几节车厢脱轨，造成四人死亡、数十人受伤。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "伊朗：美国在违反封锁后袭击船只。"
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:07:37Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-offers-20m-reward-for-information-about-iran-",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "美国悬赏2000万美元征集有关伊朗核计划的信息",
-   "summary": "唐纳德·特朗普多次提出重新打击伊朗核设施的可能性。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国悬赏2000万美元征集有关伊朗核计划的信息。"
+     "text": "埃及两列火车相撞，造成 7 人死亡、至少 125 人受伤。"
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "好吧，还有什么？"
     },
     {
      "role": "ANALYST",
-     "text": "唐纳德·特朗普多次提出重新打击伊朗核设施的可能性。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T18:14:38Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "zelenskyy-more-than-600-000-people-without-elect",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "泽连斯基：俄罗斯袭击后乌克兰有超过60万人断电",
-   "summary": "泽连斯基：俄罗斯袭击后乌克兰有超过60万人断电",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "泽伦斯基：俄罗斯袭击后乌克兰有超过60万人断电。"
-    }
-   ],
-   "source": "8AM Media",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHZfTllYdmhfLUdkdm1ydGFibEZVeF9HaU5teXBJSy1XWWFKZHJjdmlSMUFqN1BzZnZPV2FOZHQ3bGtmZlVrYmRyd3dXMnJNNExkbV9LZUpuN0tickRwRXpMa20zc1lfQ21zQ1lVUFRJNGhEeFdBX00tZ1VPenJobGRHUDJJZmpRRWRvRDNhdVQ0c2VVRThxcFU4Zl9oUm9FWTJpZzJNZ1BEYWhpc0E?oc=5",
-   "type": null,
-   "time": "2026-11-08T16:14:07Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "russia-targets-emergency-crews-at-the-site-of-a-",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "俄罗斯在乌克兰南部发生致命袭击的地点袭击了紧急救援人员",
-   "summary": "俄罗斯在乌克兰南部发生致命袭击的地点袭击了紧急救援人员",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯在乌克兰南部发生致命袭击的地点瞄准了紧急救援人员。"
+     "text": "据当局称，两列火车周日在埃及首都以南相撞，导致几节车厢脱轨，造成四人死亡、数十人受伤。"
     }
    ],
    "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
    "type": null,
-   "time": "2026-11-08T15:18:00Z",
+   "time": "2026-11-08T17:28:00Z",
    "countries": [
-    "Russia",
-    "Ukraine"
+    "Egypt"
    ]
   }
  ]

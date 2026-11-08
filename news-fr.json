@@ -1,10 +1,63 @@
 {
- "updated": "2026-11-08T16:22:56.847537Z",
+ "updated": "2026-11-08T20:47:22.710594Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "saudi-aramco-tower-damaged-as-yemen-s-houthis-at",
+   "id": "europe-to-join-u-s-brokered-ukraine-talks-in-abu",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "L’Europe se joindra aux négociations sur l’Ukraine à Abou Dhabi, sous l’égide des États-Unis, défiant les objections du Kremlin",
+   "summary": "L’Europe se joindra aux négociations sur l’Ukraine à Abou Dhabi, sous l’égide des États-Unis, défiant les objections du Kremlin",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Europe va se joindre aux pourparlers sur l’Ukraine à Abou Dhabi, sous l’égide des États-Unis, défiant les objections du Kremlin."
+    }
+   ],
+   "source": "NPR",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
+   "type": null,
+   "time": "2026-11-08T19:25:30Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "saudi-aramco-building-in-riyadh-damaged-in-attem",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Le bâtiment de Saudi Aramco à Riyad endommagé lors d’une « tentative » d’attaque",
+   "summary": "Le bâtiment de Saudi Aramco à Riyad endommagé lors d’une « tentative » d’attaque",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le bâtiment de Saudi Aramco à Riyad endommagé lors d’une « tentative » d’attaque."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5",
+   "type": null,
+   "time": "2026-11-08T13:19:35Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "aramco-skyscraper-damaged-as-houthis-target-riya",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
@@ -12,87 +65,59 @@
    "flag": "🇸🇦",
    "severity": "markets",
    "category": "Tech",
-   "headline": "La tour Saudi Aramco endommagée lors de l’attaque des Houthis du Yémen sur Riyad",
+   "headline": "Le gratte-ciel d'Aramco endommagé alors que les Houthis ciblent le quartier financier de Riyad",
    "summary": "Un bâtiment d'Aramco à Riyad a été visé par une \"tentative d'attaque\", a déclaré dimanche le ministère saoudien de l'Energie. Des témoins oculaires ont déclaré à l'AFP que le gratte-ciel avait subi des dommages, après que la coalition dirigée par l'Arabie saoudite combattant les Houthis a déclaré avoir intercepté des tirs de missiles.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La tour Saudi Aramco endommagée lors de l’attaque des Houthis du Yémen sur Riyad."
+     "text": "Le gratte-ciel Aramco endommagé alors que les Houthis ciblent le quartier financier de Riyad."
     },
     {
      "role": "COMMANDER",
-     "text": "Qu'est-ce que cela signifie pour les prix ?"
+     "text": "Pourquoi ce déménagement ?"
     },
     {
      "role": "ANALYST",
      "text": "Un bâtiment d'Aramco à Riyad a été visé par une \"tentative d'attaque\", a déclaré dimanche le ministère saoudien de l'Energie. Des témoins oculaires ont déclaré à l'AFP que le gratte-ciel avait subi des dommages, après que la coalition dirigée par l'Arabie saoudite combattant les Houthis a déclaré avoir intercepté des tirs de missiles."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043061/aramco-skyscraper-damaged-as-houthis-target-riyadh-financial-district",
    "type": null,
-   "time": "2026-11-08T12:16:42Z",
+   "time": "2026-11-08T14:40:08Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "europe-will-take-part-in-us-mediated-ukraine-tal",
+   "id": "trump-says-return-to-iran-war-highly-unlikely-if",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
+   "severity": "critical",
    "category": "World",
-   "headline": "L'Europe participera aux pourparlers sur l'Ukraine à Abou Dhabi, sous la médiation des États-Unis, selon le ministre français des Affaires étrangères",
-   "summary": "L'Europe participera aux pourparlers sur l'Ukraine à Abou Dhabi, sous la médiation des États-Unis, selon le ministre français des Affaires étrangères",
+   "headline": "Trump dit qu'un retour à la guerre en Iran est \"hautement improbable\" si les pourparlers avancent",
+   "summary": "Trump dit qu'un retour à la guerre en Iran est \"hautement improbable\" si les pourparlers avancent",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L’Europe participera aux pourparlers sur l’Ukraine à Abou Dhabi, sous la médiation des États-Unis, a déclaré le ministre français des Affaires étrangères."
+     "text": "Trump estime qu'un retour à la guerre en Iran est \"hautement improbable\" si les pourparlers progressent."
     }
    ],
-   "source": "France 24",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTZ5ZjQxbUR2dE5VdlpGbnJfWkgxSnlMQkt3NjFNUERsaVhndWJncEU5Rm5vYThnUVlSOG1QYjVwVkVhM3dEdUwzV3VOcGVpOWZyWUV3Z09tSmF5aktQTHo2d1pTdHIyY3ZBaUZKRjdUaTVLMU1VcmhrNXpscnBaeFlVYXNQajdabF9VdDlMQWZFYXhDOUkxckIzM0pGUE91QlJua3ctRHM0OGNWdE5jNWQ0aXB3TGJzNUNKd2JTQQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc?oc=5",
    "type": null,
-   "time": "2026-11-08T14:16:31Z",
+   "time": "2026-11-08T17:55:52Z",
    "countries": [
     "United States of America",
-    "Ukraine",
-    "United Arab Emirates",
-    "France"
+    "Iran"
    ]
   },
   {
-   "id": "pakistan-beat-india-by-three-wickets-in-u-19-asi",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Le Pakistan a battu l'Inde par trois guichets en Coupe d'Asie U-19",
-   "summary": "Le Pakistan a battu l'Inde par trois guichets en Coupe d'Asie U-19",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan a battu l'Inde par trois guichets lors de la Coupe d'Asie U-19."
-    }
-   ],
-   "source": "The Hindu",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclN4ZUxMcl9ocS02eFowbFJrODNxNmpUV01oMnV1cWRfRl9QQ0tSZjc1dlRBYlFWQ2xkUGZRLUFpb2JYOUF2eU5UcThuNHZuSDROVU9za0xRR2JxSVUtUksxSjViVjZzVmpUN3U5OFFxT2tjQWRNUktWeWE2SU1wTGc4amNpamY2b0xOTjJtQkFObHJpcmI1b0dPTDhIODlkVEJTYUVoVdIBrgFBVV95cUxQOW9YOUJxaVUwazR2SnhaNVBDOGx3ZUVTUXI1RjhxWk1iU2dBR3ozZ0g1YUdpLVI4TW0wREFuUEVyVkVUVU1HZEpKTzJkYkR2RHhrS1BRd3BjZEk0b0FjSU1QbzdvcGZ0VFFsSGpsU0JwX3cyVWtfckM3NktjdnJLeHFqMlhjbklFLTRXUEMwWmo4WWNGN1V6RE5wbURSQlRKMXhSaHBmdVgyLVR5Qmc?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:22:35Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "rahm-kicks-off-career-rebuild-with-abu-dhabi-win",
+   "id": "in-first-start-post-liv-jon-rahm-wins-abu-dhabi-",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
@@ -100,18 +125,69 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Rahm entame la reconstruction de sa carrière avec une victoire à Abu Dhabi, repoussant McIlroy et Hatton",
-   "summary": "Rahm entame la reconstruction de sa carrière avec une victoire à Abu Dhabi, repoussant McIlroy et Hatton",
+   "headline": "Lors de son premier départ après LIV, Jon Rahm remporte le championnat Abu Dhabi Aldar aux Émirats arabes unis",
+   "summary": "Lors de son premier départ après LIV, Jon Rahm remporte le championnat Abu Dhabi Aldar aux Émirats arabes unis",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Rahm entame la reconstruction de sa carrière avec une victoire à Abu Dhabi, repoussant McIlroy et Hatton."
+     "text": "Lors du premier départ après LIV, Jon Rahm remporte le championnat Abu Dhabi Aldar aux Émirats arabes unis."
     }
    ],
-   "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0tYOTh0WmI0OFQ4VVpoZ0dYcmthZjB0X2dMSmJySC1GSjVfOTZ6T2ktWThLUGpCUEVYMEI0NXV1TldFcU9nTUdWX1lVd3V0SC03cVp5dDNDdkRENHBqLWllVmNuMm1aOXZ5a2RQUlEyODdQUWNDanlTczdneUtVMHVrSjc5RjkydFZ1Xw?oc=5",
+   "source": "Central Oregon Daily",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb1o1RFJfS2xuWDd6QmI0aHduZWpPN05DMUFPWHNfVGhhbTdsYkx3UmROVEEzWnN6YUJGTWVjV2MyNGRIZEdOc1NiTWxWU0VURnY5b1ppQTZ2MndkSS1ZQy1FRktSbUVva2JBcWZ1bU1XbUpaSDBKYkE4OUROc3dlYnRqTXJEX29nWFpqQk94VVlGMmh6UHpoTmZjZ3JvMVBTZXFXa2Iyd0JGQ2JvNFdDYUJPeVhGWndSWGRjdHJkejJlZXF3TFd1YncxM3lqQmwybkgtN25BS1dIRjh1QzJpUlp6QlpKc0xuV25iZl9rSDYtTXUwMnB5UQ?oc=5",
    "type": null,
-   "time": "2026-11-08T12:57:00Z",
+   "time": "2026-11-08T17:33:06Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-plays-down-prospect-of-new-strikes-on-iran",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Trump minimise la perspective de nouvelles frappes contre l'Iran",
+   "summary": "Trump minimise la perspective de nouvelles frappes contre l'Iran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump minimise la perspective de nouvelles frappes contre l’Iran."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-08T20:39:47Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "uae-s-foreign-trade-nears-dhs3-trillion-in-9-mon",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Le commerce extérieur des Émirats arabes unis approche les 3 000 milliards de dirhams en 9 mois, selon Cheikh Mohammed",
+   "summary": "Le commerce extérieur des Émirats arabes unis approche les 3 000 milliards de dirhams en 9 mois, selon Cheikh Mohammed",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le commerce extérieur des Émirats arabes unis approche les 3 000 milliards de dirhams en 9 mois, déclare Cheikh Mohammed."
+    }
+   ],
+   "source": "Gulf Today",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG52aWFpVld4N1Q4ZzdTN19SdExRNmZIOW1mREN5a2hvUDZlZnQ1bFE1Zm91Zm9HTUtwaWFqQ2o5czF3OU5mNUdHellUT05ldVNEU1RoR21CNGkybWhqaTVFRFo2ajRCZWF1bkdNU2ZzV0ZYV29NUk9DVVlkczYzNVU2THZqMHV1d3NFMTJhNHY5N281Nk8wNUpFOS1tS2d0NVYzOEZXNmY4UFhOS2txakhR?oc=5",
+   "type": null,
+   "time": "2026-11-08T16:27:53Z",
    "countries": [
     "United Arab Emirates"
    ]
@@ -134,7 +210,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "D'accord, quoi d'autre ?"
+     "text": "Compris. Continue."
     },
     {
      "role": "ANALYST",
@@ -152,113 +228,117 @@
    ]
   },
   {
-   "id": "uae-foreign-trade-hits-near-record-dh3-trillion-",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
+   "id": "ind-vs-pak-pakistan-s-hilarious-fielding-blunder",
+   "country": "India",
+   "label": "INDE",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "IND vs PAK : l'erreur hilarante du Pakistan contre l'Inde lors de la Coupe d'Asie U19 devient virale",
+   "summary": "IND vs PAK : l'erreur hilarante du Pakistan contre l'Inde lors de la Coupe d'Asie U19 devient virale",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "IND vs PAK : l'erreur hilarante du Pakistan contre l'Inde lors de la Coupe d'Asie U19 devient virale."
+    }
+   ],
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQklWSmx2UWgyOG5aN2dBNVFWMkZwVm9jZWE0VEsxUTJITTJwQnRsOVFTWmNiQ2plUXI3NTYwZ2VqYWpHblNCdFBTSERydTdiUDg1aWNLT3BTYVRmdVJwNE9US01xT2NHSlZKT0UwTlZQQi1yR3Blc2xCUktSVDk2M0dQQk1BN2VRM09xaWF4WHNCeGszTFRYbnl5M25sWS14dmNuTVh4d1lJc2cwYU90SF9vQ25fWDdPckVaMjlIVXBUM2QwWWlvN2stMWFPM3lNZHpEZU5VWXEtekZyaVNjT1YtXzZoeUQ4RC16X01hX0hvWHFmNFIzWGppS1BNZzdVWmZJMmwyb9IBjAJBVV95cUxOeXNIZDBVMEFac2JaLUVEZVVSeWo2Rk1NZkdIZm1FWVBDZWttTHgxZWk1VEZmalppNTNGTVBGV0xRMmlpT0I5cUR1OTRiZ0d4WTVjWkVMbUViXzRJamx6MHlPQlZ0OGs0cGZjNVlvcm5HdjlKRTNHSUdjbXFfQ20xRE53N01IVFV6eEJrdVRrSEJpbGRLaHNPZ1N5dWhadXEzVTIyX1lnQnRkTnAtV2taTFBzdzJZaUxOLWFjUWNhSzR3dzU2QjVaX20yQXo4d1ozVUhMMk5YM1RpdEtUcHpHcHdxVXQtRllyQl9mWVdFeUthUEVjemlJVXMzMjUtcFZXOXFqSjNnUHF1Q0xs?oc=5",
+   "type": "VIDEO",
+   "time": "2026-11-08T11:58:00Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iraq-has-reached-understandings-with-us-to-allow",
+   "country": "Iraq",
+   "label": "IRAK",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Le commerce extérieur des Émirats arabes unis atteint un record de 3 000 milliards de dirhams en neuf mois - Actualités et statistiques",
-   "summary": "Le commerce extérieur des Émirats arabes unis atteint un record de 3 000 milliards de dirhams en neuf mois - Actualités et statistiques",
+   "headline": "L'Irak a conclu un accord avec les États-Unis pour autoriser les exportations de pétrole via Ormuz, selon le ministre",
+   "summary": "L'Irak a conclu un accord avec les États-Unis pour autoriser les exportations de pétrole via Ormuz, selon le ministre",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le commerce extérieur des Émirats arabes unis atteint un record de 3 000 milliards de dirhams en neuf mois - Actualités et statistiques."
+     "text": "L'Irak a conclu un accord avec les États-Unis pour autoriser les exportations de pétrole via Ormuz, a déclaré le ministre."
     }
    ],
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVdzNEdaZ1lHZDU1ZXUtMWlfQTM3SllhXzZWRUd6QlVyOEhEb1dkOXlsdHc4cDdNWC1uNWVHZFFwTUZRYzJzN1NUVmxpck9PLXNqSTNrSHlMRmFWbFJXTlFsX0djQkxOUGxuXzZsRWtycWs3SXZlSS1Cc2tORE1QT19DS1lBdWxqa1BYdFMwVQ?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
    "type": null,
-   "time": "2026-11-08T15:10:34Z",
+   "time": "2026-11-08T19:26:09Z",
    "countries": [
-    "United Arab Emirates"
+    "Iraq",
+    "United States of America"
    ]
   },
   {
-   "id": "2026-abu-dhabi-aldar-championship-prize-money-pa",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Récompenses en argent du Championnat Aldar d'Abu Dhabi 2026 pour chaque joueur du DP World Tour",
-   "summary": "Récompenses en argent du Championnat Aldar d'Abu Dhabi 2026 pour chaque joueur du DP World Tour",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Récompenses en argent du Championnat Aldar d'Abu Dhabi 2026 pour chaque joueur du DP World Tour."
-    }
-   ],
-   "source": "Golfweek",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmpCdTYyT2dhaTJ0aE5wWmxhdmZBdEJxVHFpbUFMSjBLUkJINnJlaVFtcjd1TjNtREN4U1lNUWk2UmNyczI1UVg5Rk5DdkYwMkw2VlhpSXhxeXVXMTI4aEozN1pzWU9FUnhXelhpeHMzaHl3bmRDRnFaUkh0N0lMT0U2RkZaTHZQLUJrR0hVejB6Z1FEVW5EenRmaUtsMFd2NUN3ZlJoOTVHR0FnVmc1WEpuUTFQWFRwR3VsYzk5Snp5MzVkTHcyTzREaHRiYWVOanFyRXVNRzNsZHIyVDNhRl9aWVVSdw?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:53:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "u-s-strikes-iran-as-tensions-rise-in-the-strait-",
+   "id": "iran-executes-three-men-for-armed-unrest-after-j",
    "country": "Iran",
    "label": "L'IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "Les États-Unis frappent l’Iran alors que les tensions montent dans le détroit d’Ormuz",
-   "summary": "Les États-Unis frappent l’Iran alors que les tensions montent dans le détroit d’Ormuz",
+   "headline": "L'Iran exécute trois hommes pour « troubles armés » après les manifestations de janvier",
+   "summary": "Hassan Dioband, Hamid Kazemi et Reza Zanganeh auraient participé aux manifestations antigouvernementales au début de cette année.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les États-Unis frappent l’Iran alors que les tensions montent dans le détroit d’Ormuz."
-    }
-   ],
-   "source": "WHAS11",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenBMU0kyd0RqakF4UFdOc0xwX1RLTUo3SW15d3pRSnVPLVpkbF8tcnJPU0ttQUNGOHJRdjBHc3llWWthLTAySTNtWXJROWtSbzVBaXZ1a0lGbExMbElqQzRaVC05UURhNzU4T1U3WXNEZmNTaVc1MUhyaUFXUHRBd0d1ckNSenhTODk5TF95S2xvSzdqUVdZMmJ1eFl5cVV3Zlc4RDA4ZXlya296QnZDenBDWVBQTDN4cUh6WUk2TUExU2ZwaGpwQ3kwS3ZhWEJGWlFuVlQ1RQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T15:42:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "hundreds-of-thousands-left-without-power-in-ukra",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Des centaines de milliers de personnes se retrouvent sans électricité en Ukraine après les frappes russes, selon les autorités",
-   "summary": "Environ 850 000 personnes ont perdu le courant après les attaques russes contre les infrastructures énergétiques à Dnipropetrovsk et Kharkiv en Ukraine.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Des centaines de milliers de personnes sont restées sans électricité en Ukraine après les frappes russes, selon les autorités."
+     "text": "L'Iran exécute trois hommes pour « troubles armés » après les manifestations de janvier."
     },
     {
      "role": "COMMANDER",
-     "text": "Des victimes ?"
+     "text": "Quelle est la situation maintenant ?"
     },
     {
      "role": "ANALYST",
-     "text": "Environ 850 000 personnes ont perdu le courant après les attaques russes contre les infrastructures énergétiques à Dnipropetrovsk et Kharkiv en Ukraine."
+     "text": "Hassan Dioband, Hamid Kazemi et Reza Zanganeh auraient participé aux manifestations antigouvernementales au début de cette année."
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-08T11:20:29Z",
+   "time": "2026-11-08T13:37:50Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Iran"
+   ]
+  },
+  {
+   "id": "africa-s-most-powerful-military-joins-bahrain-ku",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L’armée la plus puissante d’Afrique rejoint Bahreïn, le Koweït et la Syrie dans une violente réaction face aux attaques des Houthis contre le géant pétrolier saoudien Aramco, estimé à 1 700 milliards de dollars.",
+   "summary": "L’armée la plus puissante d’Afrique rejoint Bahreïn, le Koweït et la Syrie dans une violente réaction face aux attaques des Houthis contre le géant pétrolier saoudien Aramco, estimé à 1 700 milliards de dollars.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’armée la plus puissante d’Afrique rejoint Bahreïn, le Koweït et la Syrie dans une violente réaction face aux attaques des Houthis contre le géant pétrolier saoudien Aramco, estimé à 1 700 milliards de dollars."
+    }
+   ],
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTZJY2VTeGl1Tkd5SkwzbV9PVjRnWXp6TXNqTGJtNFJCOUtSSzNkazBzQ3MxMHotM29TS1BOcHJnMThnbnEzR2lOSlZRcmtRU2ZhM2hCS05PYThfR2lkcmVfcEZNNE9YNUJ0clhSQkRNRks5dExnYVdNNU5YWGRLU3RaWXliT2ZJRENzODlPaUFhNUpQZ01tZ01lTmRzQnk3RnB4RHFyNDhlQnFmZTVQSGUtRkg0RExteEZSYlJnZjk3NFRGOFBCX2ZLdUdRYl83OHRkYW1YTHJ1UQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T17:00:01Z",
+   "countries": [
+    "Yemen",
+    "Bahrain",
+    "Kuwait",
+    "Syria",
+    "Saudi Arabia"
    ]
   },
   {
@@ -290,88 +370,89 @@
    ]
   },
   {
-   "id": "saudi-arabia-lifts-oil-region-alerts-after-houth",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "L’Arabie Saoudite lève l’alerte dans la région pétrolière après l’interception d’un missile Houthi",
-   "summary": "L’Arabie Saoudite lève l’alerte dans la région pétrolière après l’interception d’un missile Houthi",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'Arabie saoudite lève l'alerte dans la région pétrolière après l'interception d'un missile Houthi."
-    }
-   ],
-   "source": "Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYno3bVdPSl9ScDRUZFI3V2RleVVjc2VfN2ZtM1NmbWxEblhCRGhuVDFCM25DWXFFcnFJVnJjVmJHV3h3OWJ6Q24zX2ZlRFNHWnNoWTQ3WVFVSFBQU2R6MUVfSU9YQ19UeV96ZjF5X0E1Yy1aQWVfcGV1TVFIQ1BZTDJ1WGRTUzU2T0pheWM1NE42MmhBUS1iWWVHTWtpSU92aGhlUXFUVThLMXZCdW1ieUFGcXJfcHJaa2NVdmRn?oc=5",
-   "type": null,
-   "time": "2026-11-08T05:07:35Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "ufc-saudi-arabia-official-for-december-5-israel-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Officiel de l'UFC Arabie Saoudite pour le 5 décembre, Israel Adesanya revient contre Shara Magomedov",
-   "summary": "Officiel de l'UFC Arabie Saoudite pour le 5 décembre, Israel Adesanya revient contre Shara Magomedov",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Officiel de l'UFC Arabie Saoudite pour le 5 décembre, Israel Adesanya revient contre Shara Magomedov."
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pVb1lzUzBPSFBmNUdJN2Y2Y0lrZ2g1RnZ1bm9NZHZsaG5UaWgwc0I1bVZWMFdqTGs2UDZGa2hpVDVBUExXRVJfdmlkYWU1T09FbWx2N3hJdEQ1WW1WZ3hmTTFOenRzR2d4ejhnbThFYTJFenRaSUF6WWJtRFlsQlB1RlpUSlVVd3I4?oc=5",
-   "type": null,
-   "time": "2026-11-08T12:36:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Israel"
-   ]
-  },
-  {
-   "id": "pakistan-built-robots-serve-taste-of-future-to-k",
+   "id": "34-top-officials-travelling-pakistan-for-leaders",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "info",
-   "category": "Tech",
-   "headline": "Des robots construits au Pakistan donnent un avant-goût de l'avenir aux convives de Karachi",
-   "summary": "Se frayant un chemin entre les cabines d'un restaurant éclairé au néon à Karachi, une serveuse robot dépose une pizza fraîche à une famille qui l'attend.",
+   "category": "Pakistan",
+   "headline": "34 hauts responsables se rendent au Pakistan pour une formation en leadership",
+   "summary": "34 hauts responsables se rendent au Pakistan pour une formation en leadership",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les robots construits au Pakistan donnent un avant-goût de l'avenir aux convives de Karachi."
+     "text": "34 hauts fonctionnaires voyagent au Pakistan pour une formation en leadership."
+    }
+   ],
+   "source": "New Age BD",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekhTRjBjVU1CZXFNSkdpSlJkZll3Y0x0eWtUTzhlbWlhOW1VMktRV3RrdVJJdlU1R1k4SFlLalpqNk41WjFzS1d1em03bGRwdTQzbE40Wi04YU44aFR5TFE1NmxlVHl4ODV5YjdPYzI4SFdXcWFUdjVhdEhZa1Z1cUluYzJJb1BaX2VjUWlkU1F1dGI3dDA0dmRWNE02VjYyUVBWOThibmNxVnc?oc=5",
+   "type": null,
+   "time": "2026-11-08T12:12:00Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "babar-azam-says-selection-not-in-his-hands-as-yo",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Babar Azam dit que la sélection n'est pas entre ses mains alors que le jeune Pakistan affronte le Sri Lanka",
+   "summary": "Le capitaine pakistanais Babar Azam a déclaré que la sélection de l'équipe relève de la responsabilité des sélectionneurs et de l'entraîneur, ajoutant que son rôle est de tirer le meilleur parti des joueurs à sa disposition alors qu'une jeune équipe pakistanaise se prépare à affronter le Sri Lanka lors du test d'ouverture d'un tournoi de deux ans.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Babar Azam dit que la sélection n'est pas entre ses mains alors que le jeune Pakistan affronte le Sri Lanka."
     },
     {
      "role": "COMMANDER",
-     "text": "Compris. Continue."
+     "text": "D'accord, quoi d'autre ?"
     },
     {
      "role": "ANALYST",
-     "text": "Se frayant un chemin entre les cabines d'un restaurant éclairé au néon à Karachi, une serveuse robot dépose une pizza fraîche à une famille qui l'attend."
+     "text": "Le capitaine pakistanais Babar Azam a déclaré que la sélection de l'équipe relève de la responsabilité des sélectionneurs et de l'entraîneur, ajoutant que son rôle est de tirer le meilleur parti des joueurs à sa disposition alors qu'une jeune équipe pakistanaise se prépare à affronter le Sri Lanka lors du test d'ouverture d'un tournoi de deux ans."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043044/pakistan-built-robots-serve-taste-of-future-to-karachi-diners",
+   "url": "https://www.dawn.com/news/2043046/babar-azam-says-selection-not-in-his-hands-as-youthful-pakistan-face-sri-lanka",
    "type": null,
-   "time": "2026-11-08T11:44:44Z",
+   "time": "2026-11-08T08:37:31Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "iraq-says-it-lost-60b-from-iran-war-reaches-unde",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L'Irak affirme avoir perdu 60 milliards de dollars à cause de la guerre en Iran et parvient à un accord avec les États-Unis sur la route pétrolière d'Ormuz",
+   "summary": "L'Irak affirme avoir perdu 60 milliards de dollars à cause de la guerre en Iran et parvient à un accord avec les États-Unis sur la route pétrolière d'Ormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Irak affirme avoir perdu 60 milliards de dollars à cause de la guerre en Iran et parvient à un accord avec les États-Unis sur la route pétrolière d'Ormuz."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
+   "type": null,
+   "time": "2026-11-08T19:43:43Z",
+   "countries": [
+    "Iran",
+    "Iraq",
+    "United States of America"
    ]
   },
   {
@@ -392,7 +473,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Des victimes ?"
+     "text": "Qui est derrière tout ça ?"
     },
     {
      "role": "ANALYST",
@@ -410,115 +491,36 @@
    ]
   },
   {
-   "id": "iran-us-strikes-ship-after-blockade-breach",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran : les États-Unis frappent un navire après une violation du blocus",
-   "summary": "Iran : les États-Unis frappent un navire après une violation du blocus",
+   "id": "collision-between-2-trains-in-egypt-kills-7-and-",
+   "country": "Egypt",
+   "label": "EGYPTE",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Une collision entre 2 trains en Egypte fait 7 morts et au moins 125 blessés",
+   "summary": "Deux trains sont entrés en collision dimanche au sud de la capitale égyptienne, faisant dérailler plusieurs wagons, faisant quatre morts et des dizaines de blessés, selon les autorités.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran : les États-Unis frappent un navire après une rupture du blocus."
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:07:37Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-offers-20m-reward-for-information-about-iran-",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Les États-Unis offrent une récompense de 20 millions de dollars pour toute information sur le programme nucléaire iranien",
-   "summary": "Donald Trump a évoqué à plusieurs reprises la perspective de nouvelles frappes contre les installations nucléaires iraniennes.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les États-Unis offrent une récompense de 20 millions de dollars pour toute information sur le programme nucléaire iranien."
+     "text": "Une collision entre 2 trains en Egypte fait 7 morts et au moins 125 blessés."
     },
     {
      "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
+     "text": "D'accord, quoi d'autre ?"
     },
     {
      "role": "ANALYST",
-     "text": "Donald Trump a évoqué à plusieurs reprises la perspective de nouvelles frappes contre les installations nucléaires iraniennes."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T18:14:38Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "zelenskyy-more-than-600-000-people-without-elect",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Zelensky : plus de 600 000 personnes privées d’électricité en Ukraine après les attaques russes",
-   "summary": "Zelensky : plus de 600 000 personnes privées d’électricité en Ukraine après les attaques russes",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Zelensky : plus de 600 000 personnes privées d’électricité en Ukraine après les attaques russes."
-    }
-   ],
-   "source": "8AM Media",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHZfTllYdmhfLUdkdm1ydGFibEZVeF9HaU5teXBJSy1XWWFKZHJjdmlSMUFqN1BzZnZPV2FOZHQ3bGtmZlVrYmRyd3dXMnJNNExkbV9LZUpuN0tickRwRXpMa20zc1lfQ21zQ1lVUFRJNGhEeFdBX00tZ1VPenJobGRHUDJJZmpRRWRvRDNhdVQ0c2VVRThxcFU4Zl9oUm9FWTJpZzJNZ1BEYWhpc0E?oc=5",
-   "type": null,
-   "time": "2026-11-08T16:14:07Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "russia-targets-emergency-crews-at-the-site-of-a-",
-   "country": "Russia",
-   "label": "RUSSIE",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "La Russie cible les équipes d'urgence sur le site d'une frappe meurtrière dans le sud de l'Ukraine",
-   "summary": "La Russie cible les équipes d'urgence sur le site d'une frappe meurtrière dans le sud de l'Ukraine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Russie cible les équipes d'urgence sur le site d'une frappe meurtrière dans le sud de l'Ukraine."
+     "text": "Deux trains sont entrés en collision dimanche au sud de la capitale égyptienne, faisant dérailler plusieurs wagons, faisant quatre morts et des dizaines de blessés, selon les autorités."
     }
    ],
    "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
    "type": null,
-   "time": "2026-11-08T15:18:00Z",
+   "time": "2026-11-08T17:28:00Z",
    "countries": [
-    "Russia",
-    "Ukraine"
+    "Egypt"
    ]
   }
  ]
