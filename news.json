@@ -1,68 +1,43 @@
 {
- "updated": "2026-11-08T02:45:18.018956Z",
+ "updated": "2026-11-08T09:35:29.349847Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "jon-rahm-leads-abu-dhabi-championship-with-rory-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round",
-   "summary": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round",
+   "id": "us-military-attacks-cargo-ship-in-the-gulf-of-om",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US military attacks cargo ship in the Gulf of Oman",
+   "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round."
-    }
-   ],
-   "source": "Sky Sports",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHpHdEd4M19OOTd2cmlidVgzQzJHeUpEcE1NMTZmS2ZnczZEMFQ0dVRlLU5LY3JRWEdFYnpHaUNiaGpVdEs0LUFBa182ckM3bURUYmFNWW5hR25Hdi1FMVA3OXEzd0dOdExiSmNDcWxrRm93WFNtOFBuc2lBS0I0aDZYR19KMXNHMFpPN2x1REw5WkNqVEZMLUpGLWlzaWh4cElPOWYwYTNxU3BSeFpTRXJ1cXpDY0NIWmNSd0FlSHFjcFlmd0xCT0YyWGl0dGdhblFURzJicWw?oc=5",
-   "type": null,
-   "time": "2026-11-08T00:35:11Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
-   "summary": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistani astronaut to join Shenzhou-24 mission to China's space station."
+     "text": "US military attacks cargo ship in the Gulf of Oman."
     },
     {
      "role": "COMMANDER",
-     "text": "What's the impact?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday."
+     "text": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
    "type": null,
-   "time": "2026-11-07T11:39:16Z",
+   "time": "2026-11-08T08:24:37Z",
    "countries": [
-    "Pakistan",
-    "China"
+    "United States of America",
+    "Oman"
    ]
   },
   {
-   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
+   "id": "saudi-arabia-intercepts-houthi-missiles-targetin",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
@@ -70,16 +45,163 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Houthis say at least 25 killed in Saudi air strike",
+   "headline": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province",
+   "summary": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia intercepts Houthi missiles targeting Riyadh, Eastern province."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The interceptions come as the Houthis report 33 people killed in a coalition air attack on a village near Sanaa."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-08T07:40:07Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-war-live-riyadh-s-saudi-aramco-tower-damage",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen",
+   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik, and Bandar Abbas.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Riyadh’s Saudi Aramco tower damaged during attack from Yemen."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik, and Bandar Abbas."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-08T00:00:56Z",
+   "countries": [
+    "Yemen",
+    "Iran",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "iran-executes-three-men-accused-of-working-for-i",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Iran executes three men accused of working for Israel, US, taking part in anti-government protests",
+   "summary": "Iran executes three men accused of working for Israel, US, taking part in anti-government protests",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran executes three men accused of working for Israel, US, taking part in anti-government protests."
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZEdXRll6eEE4c0M2ZmtMejJKZVNubEZIOWtWQVhsbUpicU5MWTA4VExzTmFtQUFjWEhIazBkQW9iRUZVa2YtaU9fZFdqb0tHT2RaYTJTb0VpdDVsQV93Mno0YlNFVk12MWc?oc=5",
+   "type": null,
+   "time": "2026-11-08T07:10:16Z",
+   "countries": [
+    "Iran",
+    "Israel",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-s-revolutionary-guards-say-two-oil-tankers-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran’s Revolutionary Guards Say Two Oil Tankers Hit Mines, Catch Fire Near Strait Of Hormuz: 17 outlets compared",
+   "summary": "Iran’s Revolutionary Guards Say Two Oil Tankers Hit Mines, Catch Fire Near Strait Of Hormuz: 17 outlets compared",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran’s Revolutionary Guards Say Two Oil Tankers Hit Mines, Catch Fire Near Strait Of Hormuz: 17 outlets compared."
+    }
+   ],
+   "source": "NewsCord",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT09odmotZ0hocmpxTlhLd3pnSDhSSTBReXd4YW5aMDZsdXIzT25MdjNIWks0NjRBb2VjWG1XSVpTZ2NBcGlxaVBWTzZxR3FhYjFwNDV6LXl2QURVZXVmRFI0VlptWVMzbE4yeXViS0FPQndFVl9nbHRUVDV1UHY1RW1TcEc3czlDZC0wWmtRUF9Xdl9Ld0dXMURtc0VpMThaR2tldi1VeTF0RGk1ZmNOTTczNjhYemwxRUcwclZLZ1dJSUljdWRCQ3VQeFE1ZU1hbGhDSmU3eHYwV09UTzBqUUNISU5tZw?oc=5",
+   "type": null,
+   "time": "2026-11-08T05:28:02Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-arabia-lifts-oil-region-alerts-after-houth",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
+   "summary": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia lifts oil region alerts after Houthi missile intercepted."
+    }
+   ],
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYno3bVdPSl9ScDRUZFI3V2RleVVjc2VfN2ZtM1NmbWxEblhCRGhuVDFCM25DWXFFcnFJVnJjVmJHV3h3OWJ6Q24zX2ZlRFNHWnNoWTQ3WVFVSFBQU2R6MUVfSU9YQ19UeV96ZjF5X0E1Yy1aQWVfcGV1TVFIQ1BZTDJ1WGRTUzU2T0pheWM1NE42MmhBUS1iWWVHTWtpSU92aGhlUXFUVThLMXZCdW1ieUFGcXJfcHJaa2NVdmRn?oc=5",
+   "type": null,
+   "time": "2026-11-08T05:07:35Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "houthis-say-at-least-33-killed-in-saudi-air-stri",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis say at least 33 killed in Saudi air strike",
    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthis say at least 25 killed in Saudi air strike."
+     "text": "Houthis say at least 33 killed in Saudi air strike."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -89,41 +211,14 @@
    "source": "bbc.co.uk",
    "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-07T17:09:24Z",
+   "time": "2026-11-08T04:03:12Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "syria-denies-sending-troops-to-saudi-arabia-or-y",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Syria Denies Sending Troops to Saudi Arabia or Yemen",
-   "summary": "Syria Denies Sending Troops to Saudi Arabia or Yemen",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Syria Denies Sending Troops to Saudi Arabia or Yemen."
-    }
-   ],
-   "source": "الحرة",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaWZxQllIbDJKV0lUZ0Q5bXJpdks0RGdObGh0NExITTBoR2N5N3dHM1pWRmJjQ0Vac3NYbXRaR281UQ?oc=5",
-   "type": null,
-   "time": "2026-11-07T21:36:01Z",
-   "countries": [
-    "Syria",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "rahm-returns-to-dp-world-tour-with-one-shot-lead",
+   "id": "22-crew-rescued-by-uae-national-guard-after-carg",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -131,47 +226,165 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi",
-   "summary": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi",
+   "headline": "22 Crew Rescued By UAE National Guard After Cargo Ship Fire",
+   "summary": "22 Crew Rescued By UAE National Guard After Cargo Ship Fire",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi."
+     "text": "22 Crew Rescued By UAE National Guard After Cargo Ship Fire."
     }
    ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlhJVXR1NHd5bS1fcTZrRVhsQ20xdzdxUVExNUFkWnQ1cFY2WHFJdEFZbHc1dUNzMDItTjRkUGlvVGhoQmhwQzdaQ3h6b3Y0RnhwdXNxRjl3Q0xQRjFjMjhXR0lRTkJuWmxDWDE4UXRKeGtLalNxazhXaHJwTEVMRQ?oc=5",
+   "source": "Marine Insight",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUVhjSjFNakdKODRhWkR1Y3loRDA1VFdpZEw3YWk0cjdnekxqSlltQXZmV3FEWFNQazd4YWd2UWQxNTFuQndoTEI3aE5jX0hTemxybEREaEYwSGk4UnFIb0t2OVo0VXNQaDRFVVJIZzNLVG9RQXkwdkNXZWpQS2JZMEZObWtKZw?oc=5",
    "type": null,
-   "time": "2026-11-08T00:00:00Z",
+   "time": "2026-11-08T05:40:51Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
-   "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+   "id": "israel-adesanya-opens-as-favorite-in-ufc-saudi-a",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Israel Adesanya Opens as Favorite in UFC Saudi Arabia Headliner",
+   "summary": "Israel Adesanya Opens as Favorite in UFC Saudi Arabia Headliner",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US."
+     "text": "Israel Adesanya Opens as Favorite in UFC Saudi Arabia Headliner."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUll1ZUlobEF1NThocDBJTXdfMldkanRpbkY2ZktDOElaZmNrZmMtajNQOGk5alVlSVl2cmZPelRsR29BUmJ1QjVkTkZ5WG0wSDU0cnM2RzZCLTdZYllobHJYMTZNcG5PTG0tWmtUTDF5LUR5U0FSSk1GSFhQLWNRdU5qS1BqMUY5LURn?oc=5",
    "type": null,
-   "time": "2026-11-08T00:37:00Z",
+   "time": "2026-11-08T08:23:48Z",
    "countries": [
-    "Ukraine",
+    "Israel",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "russia-sends-high-level-delegation-to-abu-dhabi-",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Russia Sends High-Level Delegation to Abu Dhabi Talks",
+   "summary": "Russia Sends High-Level Delegation to Abu Dhabi Talks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia Sends High-Level Delegation to Abu Dhabi Talks."
+    }
+   ],
+   "source": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yWk83WHlQTkFLNzAzRGZyZWFyRnZPcEJqcG4waUItMHRwX3EtZHZsWVFmN19rVUgtdFJ4VUszRWRFeEdiMV9uLThyRQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T09:10:32Z",
+   "countries": [
     "Russia",
-    "United States of America"
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "locally-built-robots-serve-taste-of-future-to-ka",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Locally built robots serve taste of future to Karachi diners",
+   "summary": "Wheeling its way between dining booths at a neon-lit restaurant in Karachi, a robot waitress drops off a fresh pizza to an awaiting family.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Locally built robots serve taste of future to Karachi diners."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Wheeling its way between dining booths at a neon-lit restaurant in Karachi, a robot waitress drops off a fresh pizza to an awaiting family."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043044/locally-built-robots-serve-taste-of-future-to-karachi-diners",
+   "type": null,
+   "time": "2026-11-08T08:40:33Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "2026-iran-war-oil-explained-united-states-israel",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+   "summary": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict."
+    }
+   ],
+   "source": "Britannica",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T06:35:34Z",
+   "countries": [
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "us-launches-task-force-to-disrupt-iran-s-land-ba",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "World",
+   "headline": "US launches task force to disrupt Iran’s land-based supply routes",
+   "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US launches task force to disrupt Iran’s land-based supply routes."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-08T02:34:04Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -192,7 +405,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -209,20 +422,98 @@
    ]
   },
   {
-   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
+   "id": "emirates-abu-dhabi-championship-golf",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Emirates Abu Dhabi Championship Golf",
+   "summary": "Emirates Abu Dhabi Championship Golf",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Emirates Abu Dhabi Championship Golf."
+    }
+   ],
+   "source": "dailyrecordnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDJidWQ1S3hZb0FIQkZnZS14akhxZWlIVXozMVhpQnp3b1ZIakpkc0dCZlBCSmVmcnpsMXZySmJQaUJRRG9Sc3k3c2ZBamZjcE1aRVlDNXFrajl4TEtvbFdrTlZhWjJZUmJodG1DbndfUzBvTzZhUVVoYm5jZUZhV3Vka1RTUUJjd2NCTkRnOURZajdvaEtXbmZTQk9lSmktSWVraE1Qa1QycW5yZlFKNlJvWTdZRjEwUmZOR1k4XzJZXzNoRWtlbVd3QQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T08:42:43Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-and-kuwait-express-solidarity-with-poland-af",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "UAE and Kuwait express solidarity with Poland after deadly shooting",
+   "summary": "UAE and Kuwait express solidarity with Poland after deadly shooting",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE and Kuwait express solidarity with Poland after deadly shooting."
+    }
+   ],
+   "source": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84bHVKWGdNSGc5VjVtZmpnUEJjRlZBTWdDYkZlRzRxNU1iLU9xVURpZWdQLXJFMWduXzVUeERsMTZnTnJud3A0UmhVdGtyLUtqa0hB?oc=5",
+   "type": null,
+   "time": "2026-11-08T09:27:07Z",
+   "countries": [
+    "United Arab Emirates",
+    "Kuwait",
+    "Poland"
+   ]
+  },
+  {
+   "id": "ind-vs-pak-u-19-asia-cup-2026-fans-react-as-indi",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders",
-   "summary": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior.",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "IND vs PAK U-19 Asia Cup 2026: Fans react as India batters struggle batting first against Pakistan",
+   "summary": "IND vs PAK U-19 Asia Cup 2026: Fans react as India batters struggle batting first against Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, Sudan sign visa-free travel agreement for official, diplomatic passport holders."
+     "text": "IND vs PAK U-19 Asia Cup 2026: Fans react as India batters struggle batting first against Pakistan."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYdUVuN2s4VEZ0R0hEV3Y3NTIteXQzSUxvSzQ4dmxfZEMwNUFoY2tmelRlcDZBMnhTTTlfeTZNUHZ5dEtWTlRZREo1enA3amlLNlRqWEI1ZWRyVmNxRUFEalIzTmlSRGM1YkFnSURrOFNRUQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T07:42:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "floods-in-gaza-leave-tens-of-thousands-without-s",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Floods in Gaza leave tens of thousands without shelter",
+   "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Floods in Gaza leave tens of thousands without shelter."
     },
     {
      "role": "COMMANDER",
@@ -230,306 +521,15 @@
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan and Sudan on Saturday signed an agreement on visa-free travel for official and diplomatic passport holders, according to a statement by the Ministry of Interior."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
-   "type": null,
-   "time": "2026-11-07T12:05:46Z",
-   "countries": [
-    "Pakistan",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "govt-announces-auto-policy-with-focus-on-cheaper",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "Govt announces auto policy with focus on cheaper vehicles, EVs",
-   "summary": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs).",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Govt announces auto policy with focus on cheaper vehicles, EVs."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs)."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042835/govt-announces-auto-policy-with-focus-on-cheaper-vehicles-evs",
-   "type": null,
-   "time": "2026-11-07T18:24:51Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "syrian-troops-to-be-deployed-to-saudi-arabia-to-",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Syrian troops to be deployed to Saudi Arabia to fight Houthis",
-   "summary": "Syrian troops to be deployed to Saudi Arabia to fight Houthis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Syrian troops to be deployed to Saudi Arabia to fight Houthis."
-    }
-   ],
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUUySjRfNFQ3UUgwc2NLZURJQnZ6bDE3U09YbVpnaTlDbDlVcXo2dUlPdTJuSEVGRlBwNUF0ZlhTSGEyWktVN1ViTzQ5ck9LRGh1cnMzU3hwd2hrZ0U5QnBkcnplc0ZGZTNPSXVFVEVDZHdsdmVNUjBybndEd1BjVV9SRG5mSGZ2NXZjSHBCZXZVeVRtVFozNm51S3djYkZBSE1z?oc=5",
-   "type": null,
-   "time": "2026-11-07T23:15:00Z",
-   "countries": [
-    "Syria",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "iran-war-live-blasts-heard-in-qeshm-us-moves-to-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas."
+     "text": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
    "type": null,
-   "time": "2026-11-08T00:00:56Z",
+   "time": "2026-11-08T09:28:52Z",
    "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "yemeni-gov-t-forces-report-advances-as-houthis-s",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-   "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T19:06:31Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "houthi-run-health-ministry-says-airstrikes-kill-",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
-   "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
-   "type": null,
-   "time": "2026-11-07T22:48:58Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "emirates-loves-syria-more-than-55-000-attend-dub",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Emirates Loves Syria: More than 55,000 attend Dubai event celebrating Syrian culture",
-   "summary": "Emirates Loves Syria: More than 55,000 attend Dubai event celebrating Syrian culture",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Emirates Loves Syria: More than 55,000 attend Dubai event celebrating Syrian culture."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVZEMHBLTHotb2w1Sk80cEh6a1ZnTXctTEpHTk9KX1djR25XTlFYUFFnS1U4XzVjNXhkYnpTT2xyN3d4UUhMcGJybjBmNjN2M2w0aUJMbUFhY0thNHB6UzIxc2lON0Z1RlRZT1RTV2ZOazFFZGEzTWdrNWVJRi12d3JVZFc5cFNIejAtVHB0SFZQd290LTJ2dzlSUENjbnA5T1Qyc0V1S3A1TzBtRnE5dkQtNlhYVjlxVDFGeVpYaDAtTzctQ1M1enlnaVR4Unds?oc=5",
-   "type": null,
-   "time": "2026-11-07T18:11:47Z",
-   "countries": [
-    "United Arab Emirates",
-    "Syria"
-   ]
-  },
-  {
-   "id": "explosions-heard-on-qeshm-island-multiple-locati",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
-   "summary": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Explosions heard on Qeshm Island, multiple locations in Iran, state media says - report."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUdicS1vRHlsNmhSSW1Ic2hYbXF5OUM1dUllOWNETFRtT256VW9nMVNqeVIwNmRzN3pQWk9CWmwzczh2bERTRE50dmpkNk9LVWV2c3oyLVg5U3ItU1N4YmdlSmVxMVk4NFE?oc=5",
-   "type": null,
-   "time": "2026-11-07T19:55:40Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "zelenskyy-says-russia-seeks-blackout-in-ukraine-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
-   "summary": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi."
-    }
-   ],
-   "source": "Eurasia Review",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3RRVWVDVko0NWEwQkFtb1ZXZ0llTVBVUGhyQTJEM1BISHRGbWJxT1hZZVh6X29vb3BRdGczU0ZsSEdTOWRMcVdPNU5nWTVjVk40RHhiT1o3ZHkzMzRjeTZrWlY5Q1VBVEVoMWRKbHFJUW1QT2RvWlloM2VJYW53aW1mSTRXSDZYazVZNlFGdTM5WVktdFNmdjNDOGFqNEF6YzZjVWhwTkJSQ2o4VUNLNXdndkgzUWUwRXBranRCLW53S0ZJeEE?oc=5",
-   "type": null,
-   "time": "2026-11-08T01:50:09Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United States of America",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "at-least-six-people-killed-in-shooting-in-poland",
-   "country": "Poland",
-   "label": "POLAND",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "At least six people killed in shooting in Poland’s Krakow main square",
-   "summary": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "At least six people killed in shooting in Poland’s Krakow main square."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjVjMS1hRzNkazY0TXRRbzF3YVQ1SnJZR0VIZV9Tak1NV0pQRk84TlpHekpzRWEtTlRFbk1LR08zZXNMVTBxYnNCY25kVTNHSWtrXzRBcEpIVVItc1VOVnMwT0xBODJLT1NwX3pzb0hyeWZQNGZOX3RrbWpEZGJMRVpkdWVCWmVMYmtiWGhqbk5TZUNSZFNHbNIBngFBVV95cUxPOVBoT0tkYk1ja0FRdjRITVpVZnNTVDRfWFgxTk1XUUpGWUtlZG5OLWd2LWJ3WVRzUmJ1MGhiYzUxM2JlaFZ0UlM3VHU3NjBYMHA3VGs4RWpJNFhsODhwMUpGZjhpOFlNQndBbFB6eFFFMi1RRVJRZlY0azZkY0lTdFRybTBEWHRVTkVHMnNVWk54TW1nUGZCaTdDVFRtQQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T00:33:45Z",
-   "countries": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "trump-confirms-fresh-us-strikes-on-iran-defenses",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
-   "summary": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors."
-    }
-   ],
-   "source": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemExdmpEbnc5TjNrbHBtalVLNmVmM3JQMmlwcm1pbzZuemhZUjBZT3hGY1Mxb0JIQkUzWlVjMnBvOVZTWVphZDh4c3YxamQ4RVZrODRlUWt0czVnRUZTdTB0RnVDd3RaUHBvSVd5SnZpQ2JnUllHcDc5QXNIMENNSkFFWnNtejd1Q2RIYnlocTZsRnM?oc=5",
-   "type": null,
-   "time": "2026-11-07T23:02:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
+    "Palestine"
    ]
   }
  ]
