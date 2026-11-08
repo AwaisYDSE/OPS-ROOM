@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-07T23:42:48.516582Z",
+ "updated": "2026-11-08T02:45:18.018956Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "jon-rahm-shoots-66-to-lead-by-one-in-abu-dhabi-r",
+   "id": "jon-rahm-leads-abu-dhabi-championship-with-rory-",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -11,20 +11,88 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Jon Rahm shoots 66 to lead by one in Abu Dhabi; Rory McIlroy 2 shots back",
-   "summary": "Jon Rahm shoots 66 to lead by one in Abu Dhabi; Rory McIlroy 2 shots back",
+   "headline": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round",
+   "summary": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Jon Rahm shoots 66 to lead by one in Abu Dhabi; Rory McIlroy 2 shots back."
+     "text": "Jon Rahm leads Abu Dhabi Championship with Rory McIlroy among challengers going into final round."
     }
    ],
-   "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjhrdUlDbEE2MmY1WnI2R211MmdLNE1Uc2J3cXJfRXp0eDJWWVptR3lMRjlPNUpYdEt4VHpfblFfbW9WNk1weHdhMDhlT0tiT1NtUi03WlFTTElJMjZJVEZwMFljWExLdmgzZmttQTFuNnFKVkl1cUdmRzQ3cHJUR3JFa2p3TzZYSHYzaGw3cmVydkFrUVcw?oc=5",
+   "source": "Sky Sports",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRHpHdEd4M19OOTd2cmlidVgzQzJHeUpEcE1NMTZmS2ZnczZEMFQ0dVRlLU5LY3JRWEdFYnpHaUNiaGpVdEs0LUFBa182ckM3bURUYmFNWW5hR25Hdi1FMVA3OXEzd0dOdExiSmNDcWxrRm93WFNtOFBuc2lBS0I0aDZYR19KMXNHMFpPN2x1REw5WkNqVEZMLUpGLWlzaWh4cElPOWYwYTNxU3BSeFpTRXJ1cXpDY0NIWmNSd0FlSHFjcFlmd0xCT0YyWGl0dGdhblFURzJicWw?oc=5",
    "type": null,
-   "time": "2026-11-07T13:42:00Z",
+   "time": "2026-11-08T00:35:11Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
+   "summary": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistani astronaut to join Shenzhou-24 mission to China's space station."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+   "type": null,
+   "time": "2026-11-07T11:39:16Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis say at least 25 killed in Saudi air strike",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis say at least 25 killed in Saudi air strike."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-07T17:09:24Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -55,28 +123,89 @@
    ]
   },
   {
-   "id": "airstrikes-kill-more-than-2-dozen-people-near-ye",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
-   "summary": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say",
+   "id": "rahm-returns-to-dp-world-tour-with-one-shot-lead",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi",
+   "summary": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Airstrikes kill more than 2 dozen people near Yemen’s capital, Houthis say."
+     "text": "Rahm Returns To DP World Tour With One-Shot Lead In Abu Dhabi."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTlhJVXR1NHd5bS1fcTZrRVhsQ20xdzdxUVExNUFkWnQ1cFY2WHFJdEFZbHc1dUNzMDItTjRkUGlvVGhoQmhwQzdaQ3h6b3Y0RnhwdXNxRjl3Q0xQRjFjMjhXR0lRTkJuWmxDWDE4UXRKeGtLalNxazhXaHJwTEVMRQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T00:00:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+   "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US."
     }
    ],
    "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
    "type": null,
-   "time": "2026-11-07T16:42:00Z",
+   "time": "2026-11-08T00:37:00Z",
    "countries": [
-    "Yemen"
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "us-offers-20m-reward-for-information-about-iran-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US offers $20m reward for information about Iran's nuclear programme",
+   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US offers $20m reward for information about Iran's nuclear programme."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-07T18:14:38Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -97,7 +226,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Give me the details."
+     "text": "How serious is it?"
     },
     {
      "role": "ANALYST",
@@ -114,139 +243,97 @@
    ]
   },
   {
-   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
+   "id": "govt-announces-auto-policy-with-focus-on-cheaper",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Pakistani astronaut to join Shenzhou-24 mission to China's space station",
-   "summary": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistani astronaut to join Shenzhou-24 mission to China's space station."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A Pakistani astronaut will travel to China’s Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit the orbiting outpost, Beijing’s manned space agency said on Saturday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
-   "type": null,
-   "time": "2026-11-07T11:39:16Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "us-offers-20m-reward-for-information-about-iran-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US offers $20m reward for information about Iran's nuclear programme",
-   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US offers $20m reward for information about Iran's nuclear programme."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T18:14:38Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "pcb-adds-aamir-jamal-three-uncapped-players-to-p",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
+   "severity": "markets",
    "category": "Sports",
-   "headline": "PCB adds Aamir Jamal, three uncapped players to Pakistan squad for Sri Lanka Tests",
-   "summary": "The Pakistan Cricket Board (PCB) on Saturday added pace-bowling all-rounder Aamir Jamal and three uncapped players to the Test squad for the two-match series against Sri Lanka , taking the strength of the team to 16.",
+   "headline": "Govt announces auto policy with focus on cheaper vehicles, EVs",
+   "summary": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "PCB adds Aamir Jamal, three uncapped players to Pakistan squad for Sri Lanka Tests."
+     "text": "Govt announces auto policy with focus on cheaper vehicles, EVs."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "Why the move?"
     },
     {
      "role": "ANALYST",
-     "text": "The Pakistan Cricket Board (PCB) on Saturday added pace-bowling all-rounder Aamir Jamal and three uncapped players to the Test squad for the two-match series against Sri Lanka , taking the strength of the team to 16."
+     "text": "The federal government on Saturday introduced the new auto policy, with a special focus on cheaper vehicles and electric vehicles (EVs)."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042821/pcb-adds-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
+   "url": "https://www.dawn.com/news/2042835/govt-announces-auto-policy-with-focus-on-cheaper-vehicles-evs",
    "type": null,
-   "time": "2026-11-07T10:41:03Z",
+   "time": "2026-11-07T18:24:51Z",
    "countries": [
-    "Pakistan",
-    "Sri Lanka"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
+   "id": "syrian-troops-to-be-deployed-to-saudi-arabia-to-",
+   "country": "Syria",
+   "label": "SYRIA",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "Houthis say at least 25 killed in Saudi air strike",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "headline": "Syrian troops to be deployed to Saudi Arabia to fight Houthis",
+   "summary": "Syrian troops to be deployed to Saudi Arabia to fight Houthis",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthis say at least 25 killed in Saudi air strike."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+     "text": "Syrian troops to be deployed to Saudi Arabia to fight Houthis."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaUUySjRfNFQ3UUgwc2NLZURJQnZ6bDE3U09YbVpnaTlDbDlVcXo2dUlPdTJuSEVGRlBwNUF0ZlhTSGEyWktVN1ViTzQ5ck9LRGh1cnMzU3hwd2hrZ0U5QnBkcnplc0ZGZTNPSXVFVEVDZHdsdmVNUjBybndEd1BjVV9SRG5mSGZ2NXZjSHBCZXZVeVRtVFozNm51S3djYkZBSE1z?oc=5",
    "type": null,
-   "time": "2026-11-07T17:09:24Z",
+   "time": "2026-11-07T23:15:00Z",
    "countries": [
+    "Syria",
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "iran-war-live-blasts-heard-in-qeshm-us-moves-to-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-08T00:00:56Z",
+   "countries": [
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -267,7 +354,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -278,6 +365,31 @@
    "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
    "type": null,
    "time": "2026-11-07T19:06:31Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "houthi-run-health-ministry-says-airstrikes-kill-",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+   "summary": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthi-run health ministry says airstrikes kill 33 near Yemen capital."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPck9CUTVBTUgyQVJnZUxobTVpZGxIdTBmaGNmOWpHVWt4NUF4SHYyTWlUS1g2QmZ5RUd0YmJHVVpPQUVqa1lzVlJ1SU9HUUpDdzh0SVNFRW9KanJEZDJycDA5cVhxV0NKWnA5TUEtS2tkcDF4MTNjTUstalQwLXg3TVJXb3d1VlpaTUN6N1BFWHFfUk1FNm42QWdBSndJNDdQQUdNNlZKUVlLTUN6RmQ0aXluNHNUQUxYTW9vV0ZfUEFHX2tjXzBwZkpZeXA?oc=5",
+   "type": null,
+   "time": "2026-11-07T22:48:58Z",
    "countries": [
     "Yemen"
    ]
@@ -334,61 +446,35 @@
    ]
   },
   {
-   "id": "uae-official-risk-of-war-between-us-and-iran-rem",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "UAE Official: Risk of War Between US and Iran Remains",
-   "summary": "UAE Official: Risk of War Between US and Iran Remains",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE Official: Risk of War Between US and Iran Remains."
-    }
-   ],
-   "source": "8AM Media",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KSGhBN2JWLUViVTk4T2tLQVhNUUh3RjNxUGk3cGgwTjJMQTlVZkVBbWpkZEtzTENDLXYyQlFMTlc3alNpVVhpRlFxbGQ4SXJTSkJHa05mMjFYbWdpWHA2ZGRnNGFnSHJ5eEI4?oc=5",
-   "type": null,
-   "time": "2026-11-07T15:46:51Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
+   "id": "zelenskyy-says-russia-seeks-blackout-in-ukraine-",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
    "lon": 31.4,
    "flag": "🇺🇦",
-   "severity": "critical",
+   "severity": "watch",
    "category": "World",
-   "headline": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
-   "summary": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US",
+   "headline": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
+   "summary": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Drone and missile attacks wound 9 as Ukraine prepares for talks with Russia and the US."
+     "text": "Zelenskyy Says Russia Seeks Blackout In Ukraine Ahead Of US-Mediated Talks In Abu Dhabi."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "source": "Eurasia Review",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd3RRVWVDVko0NWEwQkFtb1ZXZ0llTVBVUGhyQTJEM1BISHRGbWJxT1hZZVh6X29vb3BRdGczU0ZsSEdTOWRMcVdPNU5nWTVjVk40RHhiT1o3ZHkzMzRjeTZrWlY5Q1VBVEVoMWRKbHFJUW1QT2RvWlloM2VJYW53aW1mSTRXSDZYazVZNlFGdTM5WVktdFNmdjNDOGFqNEF6YzZjVWhwTkJSQ2o4VUNLNXdndkgzUWUwRXBranRCLW53S0ZJeEE?oc=5",
    "type": null,
-   "time": "2026-11-07T18:10:00Z",
+   "time": "2026-11-08T01:50:09Z",
    "countries": [
     "Ukraine",
     "Russia",
-    "United States of America"
+    "United States of America",
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "poland-in-shock-after-six-die-in-krakow-mass-sho",
+   "id": "at-least-six-people-killed-in-shooting-in-poland",
    "country": "Poland",
    "label": "POLAND",
    "lat": 51.9,
@@ -396,12 +482,12 @@
    "flag": "🇵🇱",
    "severity": "critical",
    "category": "Business",
-   "headline": "Poland in shock after six die in Krakow mass shooting",
+   "headline": "At least six people killed in shooting in Poland’s Krakow main square",
    "summary": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Poland in shock after six die in Krakow mass shooting."
+     "text": "At least six people killed in shooting in Poland’s Krakow main square."
     },
     {
      "role": "COMMANDER",
@@ -412,49 +498,16 @@
      "text": "Poland’s police said on Saturday that six people were killed and around a dozen wounded after a gunman opened fire in the historic centre of its second city, Krakow. A man drove a car onto Krakow’s Main Square and began shooting at random people, said police."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjVjMS1hRzNkazY0TXRRbzF3YVQ1SnJZR0VIZV9Tak1NV0pQRk84TlpHekpzRWEtTlRFbk1LR08zZXNMVTBxYnNCY25kVTNHSWtrXzRBcEpIVVItc1VOVnMwT0xBODJLT1NwX3pzb0hyeWZQNGZOX3RrbWpEZGJMRVpkdWVCWmVMYmtiWGhqbk5TZUNSZFNHbNIBngFBVV95cUxPOVBoT0tkYk1ja0FRdjRITVpVZnNTVDRfWFgxTk1XUUpGWUtlZG5OLWd2LWJ3WVRzUmJ1MGhiYzUxM2JlaFZ0UlM3VHU3NjBYMHA3VGs4RWpJNFhsODhwMUpGZjhpOFlNQndBbFB6eFFFMi1RRVJRZlY0azZkY0lTdFRybTBEWHRVTkVHMnNVWk54TW1nUGZCaTdDVFRtQQ?oc=5",
    "type": null,
-   "time": "2026-11-07T22:16:54Z",
+   "time": "2026-11-08T00:33:45Z",
    "countries": [
     "Poland"
    ]
   },
   {
-   "id": "israel-s-president-picks-yashar-leader-gadi-eise",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
-   "type": null,
-   "time": "2026-11-07T21:03:00Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "iran-says-it-has-lifted-its-self-imposed-limit-o",
+   "id": "trump-confirms-fresh-us-strikes-on-iran-defenses",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -462,89 +515,21 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
-   "summary": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news",
+   "headline": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
+   "summary": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news."
+     "text": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQemExdmpEbnc5TjNrbHBtalVLNmVmM3JQMmlwcm1pbzZuemhZUjBZT3hGY1Mxb0JIQkUzWlVjMnBvOVZTWVphZDh4c3YxamQ4RVZrODRlUWt0czVnRUZTdTB0RnVDd3RaUHBvSVd5SnZpQ2JnUllHcDc5QXNIMENNSkFFWnNtejd1Q2RIYnlocTZsRnM?oc=5",
    "type": null,
-   "time": "2026-11-07T20:55:00Z",
+   "time": "2026-11-07T23:02:00Z",
    "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-strikes-wound-nine-and-damage-ukraine-s-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian strikes wound nine and damage Ukraine's power network ahead of talks."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T12:49:36Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "ukraine-s-zaporizhzhia-faces-threat-as-russian-d",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-   "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T20:10:38Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
+    "Iran",
+    "United States of America"
    ]
   }
  ]
