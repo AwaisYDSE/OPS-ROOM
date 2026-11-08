@@ -1,10 +1,98 @@
 {
- "updated": "2026-11-07T23:42:48.516582Z",
+ "updated": "2026-11-08T16:22:56.847537Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "jon-rahm-shoots-66-to-lead-by-one-in-abu-dhabi-r",
+   "id": "saudi-aramco-tower-damaged-as-yemen-s-houthis-at",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Башня Saudi Aramco повреждена в результате нападения йеменских хуситов на Эр-Рияд",
+   "summary": "Здание Aramco в Эр-Рияде стало объектом «попытки нападения», сообщило в воскресенье министерство энергетики Саудовской Аравии, а очевидцы сообщили AFP, что небоскреб получил повреждения после того, как возглавляемая Саудовской Аравией коалиция, борющаяся с хуситами, заявила, что перехватила запуск ракет.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Башня Saudi Aramco повреждена в результате нападения йеменских хуситов на Эр-Рияд."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Здание Aramco в Эр-Рияде стало объектом «попытки нападения», сообщило в воскресенье министерство энергетики Саудовской Аравии, а очевидцы сообщили AFP, что небоскреб получил повреждения после того, как возглавляемая Саудовской Аравией коалиция, борющаяся с хуситами, заявила, что перехватила запуск ракет."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnVZQXBkYXFpSEd2Mk9LUnNxNTRRaVFWaVREQ1NxeXI0enROaGVMX1RKc041WWtaLU9hYjVQSGxLZHlyNUItaWxSRVB3a3lkMWZ5eDFuM3RhYTgzSy03cmVTZGZ2QlB6NTNNTERfRG01Uk1aV0pJUFMzd1BmSURQWnhfcFlNRUxVbjJNbXV2MA?oc=5",
+   "type": null,
+   "time": "2026-11-08T12:16:42Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "europe-will-take-part-in-us-mediated-ukraine-tal",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Европа примет участие в переговорах по Украине при посредничестве США в Абу-Даби, заявил глава МИД Франции",
+   "summary": "Европа примет участие в переговорах по Украине при посредничестве США в Абу-Даби, заявил глава МИД Франции",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Европа примет участие в переговорах по Украине при посредничестве США в Абу-Даби, сообщил министр иностранных дел Франции."
+    }
+   ],
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTZ5ZjQxbUR2dE5VdlpGbnJfWkgxSnlMQkt3NjFNUERsaVhndWJncEU5Rm5vYThnUVlSOG1QYjVwVkVhM3dEdUwzV3VOcGVpOWZyWUV3Z09tSmF5aktQTHo2d1pTdHIyY3ZBaUZKRjdUaTVLMU1VcmhrNXpscnBaeFlVYXNQajdabF9VdDlMQWZFYXhDOUkxckIzM0pGUE91QlJua3ctRHM0OGNWdE5jNWQ0aXB3TGJzNUNKd2JTQQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T14:16:31Z",
+   "countries": [
+    "United States of America",
+    "Ukraine",
+    "United Arab Emirates",
+    "France"
+   ]
+  },
+  {
+   "id": "pakistan-beat-india-by-three-wickets-in-u-19-asi",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Пакистан обыграл Индию с разницей в три калитки на Кубке Азии среди юношей до 19 лет.",
+   "summary": "Пакистан обыграл Индию с разницей в три калитки на Кубке Азии среди юношей до 19 лет.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан обыграл Индию с разницей в три калитки на Кубке Азии среди юношей до 19 лет."
+    }
+   ],
+   "source": "The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclN4ZUxMcl9ocS02eFowbFJrODNxNmpUV01oMnV1cWRfRl9QQ0tSZjc1dlRBYlFWQ2xkUGZRLUFpb2JYOUF2eU5UcThuNHZuSDROVU9za0xRR2JxSVUtUksxSjViVjZzVmpUN3U5OFFxT2tjQWRNUktWeWE2SU1wTGc4amNpamY2b0xOTjJtQkFObHJpcmI1b0dPTDhIODlkVEJTYUVoVdIBrgFBVV95cUxQOW9YOUJxaVUwazR2SnhaNVBDOGx3ZUVTUXI1RjhxWk1iU2dBR3ozZ0g1YUdpLVI4TW0wREFuUEVyVkVUVU1HZEpKTzJkYkR2RHhrS1BRd3BjZEk0b0FjSU1QbzdvcGZ0VFFsSGpsU0JwX3cyVWtfckM3NktjdnJLeHFqMlhjbklFLTRXUEMwWmo4WWNGN1V6RE5wbURSQlRKMXhSaHBmdVgyLVR5Qmc?oc=5",
+   "type": null,
+   "time": "2026-11-08T13:22:35Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "rahm-kicks-off-career-rebuild-with-abu-dhabi-win",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
@@ -12,140 +100,339 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Джон Рам набрал 66 очков и опередил на один в Абу-Даби; Рори Макилрой: 2 удара в ответ",
-   "summary": "Джон Рам набрал 66 очков и опередил на один в Абу-Даби; Рори Макилрой: 2 удара в ответ",
+   "headline": "Рам начинает восстановление карьеры с победы в Абу-Даби, опередив Макилроя и Хаттона",
+   "summary": "Рам начинает восстановление карьеры с победы в Абу-Даби, опередив Макилроя и Хаттона",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Джон Рам набрал 66 очков и опередил на один в Абу-Даби; Рори Макилрой наносит два ответных удара."
+     "text": "Рам начинает восстановление карьеры с победы в Абу-Даби, опередив Макилроя и Хаттона."
     }
    ],
    "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZjhrdUlDbEE2MmY1WnI2R211MmdLNE1Uc2J3cXJfRXp0eDJWWVptR3lMRjlPNUpYdEt4VHpfblFfbW9WNk1weHdhMDhlT0tiT1NtUi03WlFTTElJMjZJVEZwMFljWExLdmgzZmttQTFuNnFKVkl1cUdmRzQ3cHJUR3JFa2p3TzZYSHYzaGw3cmVydkFrUVcw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0tYOTh0WmI0OFQ4VVpoZ0dYcmthZjB0X2dMSmJySC1GSjVfOTZ6T2ktWThLUGpCUEVYMEI0NXV1TldFcU9nTUdWX1lVd3V0SC03cVp5dDNDdkRENHBqLWllVmNuMm1aOXZ5a2RQUlEyODdQUWNDanlTczdneUtVMHVrSjc5RjkydFZ1Xw?oc=5",
    "type": null,
-   "time": "2026-11-07T13:42:00Z",
+   "time": "2026-11-08T12:57:00Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "syria-denies-sending-troops-to-saudi-arabia-or-y",
-   "country": "Syria",
-   "label": "СИРИЯ",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Сирия отрицает отправку войск в Саудовскую Аравию и Йемен",
-   "summary": "Сирия отрицает отправку войск в Саудовскую Аравию и Йемен",
+   "id": "hamza-zahoor-s-unbeaten-century-guides-pakistan-",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Беспроигрышный век Хамзы Захура привел сборную Пакистана U-19 к захватывающей победе над Индией",
+   "summary": "Хамза Захур продемонстрировал беспроигрышный век, когда сборная Пакистана до 19 лет победила главного соперника Индию тремя калитками в захватывающем поединке группы «А» Кубка Азии среди мужчин среди юношей до 19 лет на стадионе «Аль-Амерат Крикет Граунд» в Маскате в воскресенье.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Сирия отрицает отправку войск в Саудовскую Аравию или Йемен."
+     "text": "Беспроигрышный век Хамзы Захура привел сборную Пакистана U-19 к захватывающей победе над Индией."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Хорошо, что еще?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Хамза Захур продемонстрировал беспроигрышный век, когда сборная Пакистана до 19 лет победила главного соперника Индию тремя калитками в захватывающем поединке группы «А» Кубка Азии среди мужчин среди юношей до 19 лет на стадионе «Аль-Амерат Крикет Граунд» в Маскате в воскресенье."
     }
    ],
-   "source": "الحرة",
-   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfaWZxQllIbDJKV0lUZ0Q5bXJpdks0RGdObGh0NExITTBoR2N5N3dHM1pWRmJjQ0Vac3NYbXRaR281UQ?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
    "type": null,
-   "time": "2026-11-07T21:36:01Z",
+   "time": "2026-11-08T13:31:38Z",
    "countries": [
-    "Syria",
+    "India",
+    "Pakistan",
+    "Oman"
+   ]
+  },
+  {
+   "id": "uae-foreign-trade-hits-near-record-dh3-trillion-",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Внешняя торговля ОАЭ достигла почти рекордного уровня в 3 триллиона дирхамов за девять месяцев - новости и статистика",
+   "summary": "Внешняя торговля ОАЭ достигла почти рекордного уровня в 3 триллиона дирхамов за девять месяцев - новости и статистика",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Внешняя торговля ОАЭ достигла почти рекордного уровня в 3 триллиона дирхамов за девять месяцев - новости и статистика."
+    }
+   ],
+   "source": "IndexBox",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSVdzNEdaZ1lHZDU1ZXUtMWlfQTM3SllhXzZWRUd6QlVyOEhEb1dkOXlsdHc4cDdNWC1uNWVHZFFwTUZRYzJzN1NUVmxpck9PLXNqSTNrSHlMRmFWbFJXTlFsX0djQkxOUGxuXzZsRWtycWs3SXZlSS1Cc2tORE1QT19DS1lBdWxqa1BYdFMwVQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T15:10:34Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "2026-abu-dhabi-aldar-championship-prize-money-pa",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Выплата призовых денег на чемпионате Абу-Даби Алдар 2026 года каждому игроку DP World Tour",
+   "summary": "Выплата призовых денег на чемпионате Абу-Даби Алдар 2026 года каждому игроку DP World Tour",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Выплаты призовых денег на чемпионате Абу-Даби Алдар 2026 года каждому игроку DP World Tour."
+    }
+   ],
+   "source": "Golfweek",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZmpCdTYyT2dhaTJ0aE5wWmxhdmZBdEJxVHFpbUFMSjBLUkJINnJlaVFtcjd1TjNtREN4U1lNUWk2UmNyczI1UVg5Rk5DdkYwMkw2VlhpSXhxeXVXMTI4aEozN1pzWU9FUnhXelhpeHMzaHl3bmRDRnFaUkh0N0lMT0U2RkZaTHZQLUJrR0hVejB6Z1FEVW5EenRmaUtsMFd2NUN3ZlJoOTVHR0FnVmc1WEpuUTFQWFRwR3VsYzk5Snp5MzVkTHcyTzREaHRiYWVOanFyRXVNRzNsZHIyVDNhRl9aWVVSdw?oc=5",
+   "type": null,
+   "time": "2026-11-08T13:53:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "u-s-strikes-iran-as-tensions-rise-in-the-strait-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "США нанесли удар по Ирану на фоне роста напряженности в Ормузском проливе",
+   "summary": "США нанесли удар по Ирану на фоне роста напряженности в Ормузском проливе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "США наносят удары по Ирану на фоне роста напряженности в Ормузском проливе."
+    }
+   ],
+   "source": "WHAS11",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenBMU0kyd0RqakF4UFdOc0xwX1RLTUo3SW15d3pRSnVPLVpkbF8tcnJPU0ttQUNGOHJRdjBHc3llWWthLTAySTNtWXJROWtSbzVBaXZ1a0lGbExMbElqQzRaVC05UURhNzU4T1U3WXNEZmNTaVc1MUhyaUFXUHRBd0d1ckNSenhTODk5TF95S2xvSzdqUVdZMmJ1eFl5cVV3Zlc4RDA4ZXlya296QnZDenBDWVBQTDN4cUh6WUk2TUExU2ZwaGpwQ3kwS3ZhWEJGWlFuVlQ1RQ?oc=5",
+   "type": null,
+   "time": "2026-11-08T15:42:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "hundreds-of-thousands-left-without-power-in-ukra",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Сотни тысяч человек остались без электричества в Украине после российских ударов, заявляют власти",
+   "summary": "Около 850 000 человек лишились власти после атак России на энергетическую инфраструктуру в украинских Днепропетровске и Харькове.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "По словам властей, сотни тысяч человек остались без электричества в Украине после российских ударов."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Около 850 000 человек лишились власти после атак России на энергетическую инфраструктуру в украинских Днепропетровске и Харькове."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JV3lDUVpZVXY0aUs3R2NtUDdKV1RTczJUaFRqdzkwZElYclVQMkRPeFdkcmdoRmhrSDFMU2xUTWZLdUItaC0yb0JWeVpjQm81cjdZMlBJdllHTHYycktHdUlFdEZTdHlHdklLdDZn?oc=5",
+   "type": null,
+   "time": "2026-11-08T11:20:29Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "us-israel-iran-war-what-uae-residents-should-kno",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Война США/Израиль-Иран: Что стоит знать жителям ОАЭ этим вечером, 8 ноября",
+   "summary": "Война США/Израиль-Иран: Что стоит знать жителям ОАЭ этим вечером, 8 ноября",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Война США/Израиль-Иран: что стоит знать жителям ОАЭ этим вечером, 8 ноября."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUVZMGU2QjlHNmNIT2R1WDlxWjgxYXlGNGI5VWNJYzlvUzRLYWo5OGs1NHpaczB0THpacmxMM3h5NjRva19tWnBGZmxEZGc1MGZIZEJLdFA1eHV4OHpnS1lnVnVEV0YzRF9sQ3lOOWN5MktmOHo5eEtfeXRnQURfSFRwNGotMUdGZ05vWGdwMDd5NmhEU3NSeHJRZERvcHNHamdwTmU2bFI0NXJNcXlWRV9SQWJrSDTSAcoBQVVfeXFMT1ZJNlVPOWNTQmJGTFBsc1B0M1NzZzQ4eXBub2dhNV8yYWY4a0JfRU9hZWhEMm50RTJRTWlrSlFrRF85QlpuSllMMUZhWTYxVTBILWJCemlwbVE4dkZITkw1aXZHRXBkY2FlQVdPOHhTOXVvZzZwZU4wMV9nRHhFc1dzWnVXajdoUlVBNE5nODl1X2hUcHlKNGdYbG5TS1dfTUREOHlLQzdpOVg0S3JORzdRQ2pFaUNQdEtqb3dNTVdrY2JpZnQ3SFdNdw?oc=5",
+   "type": null,
+   "time": "2026-11-08T14:55:13Z",
+   "countries": [
+    "United States of America",
+    "Israel",
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "saudi-arabia-lifts-oil-region-alerts-after-houth",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Саудовская Аравия отменила предупреждение о нефтяном регионе после перехвата ракеты хуситов",
+   "summary": "Саудовская Аравия отменила предупреждение о нефтяном регионе после перехвата ракеты хуситов",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саудовская Аравия снимает тревогу в нефтяном регионе после перехвата ракеты хуситов."
+    }
+   ],
+   "source": "Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYno3bVdPSl9ScDRUZFI3V2RleVVjc2VfN2ZtM1NmbWxEblhCRGhuVDFCM25DWXFFcnFJVnJjVmJHV3h3OWJ6Q24zX2ZlRFNHWnNoWTQ3WVFVSFBQU2R6MUVfSU9YQ19UeV96ZjF5X0E1Yy1aQWVfcGV1TVFIQ1BZTDJ1WGRTUzU2T0pheWM1NE42MmhBUS1iWWVHTWtpSU92aGhlUXFUVThLMXZCdW1ieUFGcXJfcHJaa2NVdmRn?oc=5",
+   "type": null,
+   "time": "2026-11-08T05:07:35Z",
+   "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "airstrikes-kill-more-than-2-dozen-people-near-ye",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "ufc-saudi-arabia-official-for-december-5-israel-",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Официальный представитель UFC в Саудовской Аравии на 5 декабря: Исраэль Адесанья возвращается против Шары Магомедова",
+   "summary": "Официальный представитель UFC в Саудовской Аравии на 5 декабря: Исраэль Адесанья возвращается против Шары Магомедова",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Официальный представитель UFC Саудовской Аравии на 5 декабря: Исраэль Адесанья возвращается против Шары Магомедова."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pVb1lzUzBPSFBmNUdJN2Y2Y0lrZ2g1RnZ1bm9NZHZsaG5UaWgwc0I1bVZWMFdqTGs2UDZGa2hpVDVBUExXRVJfdmlkYWU1T09FbWx2N3hJdEQ1WW1WZ3hmTTFOenRzR2d4ejhnbThFYTJFenRaSUF6WWJtRFlsQlB1RlpUSlVVd3I4?oc=5",
+   "type": null,
+   "time": "2026-11-08T12:36:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Israel"
+   ]
+  },
+  {
+   "id": "pakistan-built-robots-serve-taste-of-future-to-k",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Роботы, созданные в Пакистане, подают вкус будущего посетителям Карачи",
+   "summary": "Пробираясь между обеденными кабинками освещенного неоновым светом ресторана в Карачи, робот-официантка доставляет свежую пиццу ожидающей семье.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Роботы, созданные в Пакистане, подают посетителям Карачи вкус будущего."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Пробираясь между обеденными кабинками освещенного неоновым светом ресторана в Карачи, робот-официантка доставляет свежую пиццу ожидающей семье."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043044/pakistan-built-robots-serve-taste-of-future-to-karachi-diners",
+   "type": null,
+   "time": "2026-11-08T11:44:44Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "broken-record-pakistan-struggles-with-refugee-in",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Побитый рекорд: Пакистан борется с притоком беженцев; США поддерживают Иран против Советского Союза",
+   "summary": "Когда Пакистан сделал свои первые несколько шагов, масштабная логистическая задача по размещению миллионов беженцев в условиях широко распространенного межобщинного насилия стала серьезной проблемой для государства. Выпуски за 8-14 сентября 1947 года задокументировали эти трудные времена.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Побитый рекорд: Пакистан борется с притоком беженцев; США поддерживают Иран против Советского Союза."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Когда Пакистан сделал свои первые несколько шагов, масштабная логистическая задача по размещению миллионов беженцев в условиях широко распространенного межобщинного насилия стала серьезной проблемой для государства. Выпуски за 8-14 сентября 1947 года задокументировали эти трудные времена."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2042812/broken-record-pakistan-struggles-with-refugee-influx-us-supports-iran-against-the-soviet-union",
+   "type": null,
+   "time": "2026-11-08T10:32:31Z",
+   "countries": [
+    "Pakistan",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-us-strikes-ship-after-blockade-breach",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Хуситы заявляют, что в результате авиаударов возле столицы Йемена погибли более 2 десятков человек",
-   "summary": "Хуситы заявляют, что в результате авиаударов возле столицы Йемена погибли более 2 десятков человек",
+   "headline": "Иран: США нанесли удар по кораблю после нарушения блокады",
+   "summary": "Иран: США нанесли удар по кораблю после нарушения блокады",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "По словам хуситов, в результате авиаударов погибли более двух десятков человек недалеко от столицы Йемена."
+     "text": "Иран: США нанесли удар по кораблю после нарушения блокады."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2phS1lmT1dSeWRnSGpVanhOVE5iNGVSbldWSTFDMjdLVFAxSW9FcWNTUkVYX1ppMXJ1aFRLYlF2NDY3STIwZGdTaE9lOEtOOEU3ZFZKd1RXbXhhWDVsZ1ZiRGRZU0pEdkx2LXZHUXBKeGVWOEFrT3RMaUx6UUZnZk1tSG13Tzh6VWlOT01tVQ?oc=5",
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVZIRjBab183eXg3NERJTXhPTEZ1V0hmYVBiQy1pY1JOUDNVa3ZWdTNCdGZjV1VIT05UMDA1UkRCbWlacVY0STFnR0p3aGxNTXlqUF96RVZxNEJPR29NTkJRVWJTdzZjRlFQYjBueVVmLUxneTRnLWs5TjhPaEVBNHNOSTN5MUV1OFHSAYoBQVVfeXFMTWgyYWpENlJKM2N1MGM3emZnLUdubUc2RjVvNnpwMzBpQi1tVnJzemJaRGdValJqV2VHbXVPYjh0TF9QM1lmTW9oV0dnbnpFQktNYnRDY1daWnJmdGFETTBRNHN3QjJHSUhzSVdXTlctNUM0SlVTdC1fZ1FVeVpfbmgxZlFtLWtacXBB?oc=5",
    "type": null,
-   "time": "2026-11-07T16:42:00Z",
+   "time": "2026-11-08T13:07:37Z",
    "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-sudan-sign-visa-free-travel-agreement-f",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Пакистан и Судан подписали соглашение о безвизовом режиме для владельцев официальных дипломатических паспортов",
-   "summary": "Согласно заявлению Министерства внутренних дел Пакистан и Судан в субботу подписали соглашение о безвизовом режиме для владельцев официальных и дипломатических паспортов.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан и Судан подписывают соглашение о безвизовом режиме для владельцев официальных дипломатических паспортов."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Дайте мне подробности."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Согласно заявлению Министерства внутренних дел Пакистан и Судан в субботу подписали соглашение о безвизовом режиме для владельцев официальных и дипломатических паспортов."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042807/pakistan-sudan-sign-visa-free-travel-agreement-for-official-diplomatic-passport-holders",
-   "type": null,
-   "time": "2026-11-07T12:05:46Z",
-   "countries": [
-    "Pakistan",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "pakistani-astronaut-to-join-shenzhou-24-mission-",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Пакистанский астронавт присоединится к миссии «Шэньчжоу-24» на китайской космической станции",
-   "summary": "Пакистанский астронавт отправится на китайскую космическую станцию «Тяньгун» на борту миссии «Шэньчжоу-24», став первым иностранцем, посетившим орбитальный пост, сообщило в субботу пекинское пилотируемое космическое агентство.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистанский астронавт присоединится к миссии «Шэньчжоу-24» на китайской космической станции."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Хорошо. Подробности?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистанский астронавт отправится на китайскую космическую станцию ​​«Тяньгун» на борту миссии «Шэньчжоу-24», став первым иностранцем, посетившим орбитальный пост, сообщило в субботу пекинское пилотируемое космическое агентство."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
-   "type": null,
-   "time": "2026-11-07T11:39:16Z",
-   "countries": [
-    "Pakistan",
-    "China"
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -158,7 +445,7 @@
    "severity": "critical",
    "category": "World",
    "headline": "США предлагают вознаграждение в 20 миллионов долларов за информацию о ядерной программе Ирана",
-   "summary": "Дональд Трамп неоднократно заявлял о возможности возобновления ударов по ядерным объектам Ирана.",
+   "summary": "Дональд Трамп неоднократно поднимал вопрос о возможности возобновления ударов по ядерным объектам Ирана.",
    "lines": [
     {
      "role": "OPERATOR",
@@ -166,11 +453,11 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Это подтверждено?"
+     "text": "Кто стоит за этим?"
     },
     {
      "role": "ANALYST",
-     "text": "Дональд Трамп неоднократно заявлял о возможности возобновления ударов по ядерным объектам Ирана."
+     "text": "Дональд Трамп неоднократно поднимал вопрос о возможности возобновления ударов по ядерным объектам Ирана."
     }
    ],
    "source": "bbc.co.uk",
@@ -183,186 +470,7 @@
    ]
   },
   {
-   "id": "pcb-adds-aamir-jamal-three-uncapped-players-to-p",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "PCB добавляет Аамира Джамала и трех игроков без ограничений в состав сборной Пакистана на тесты в Шри-Ланке",
-   "summary": "Пакистанский совет по крикету (PCB) в субботу добавил в тестовую команду универсала Аамира Джамаля и трех игроков без ограничений в тестовой команде на серию из двух матчей против Шри-Ланки, в результате чего численность команды достигла 16.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "PCB добавляет Аамира Джамала, трех игроков без ограничений, в состав сборной Пакистана на тесты в Шри-Ланке."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Понял. Продолжать."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистанский совет по крикету (PCB) в субботу добавил в тестовую команду универсала Аамира Джамаля и трех игроков без ограничений в тестовой команде на серию из двух матчей против Шри-Ланки, в результате чего численность команды достигла 16."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042821/pcb-adds-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
-   "type": null,
-   "time": "2026-11-07T10:41:03Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "houthis-say-at-least-25-killed-in-saudi-air-stri",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Хуситы заявили, что в результате авиаудара Саудовской Аравии погибли по меньшей мере 25 человек",
-   "summary": "Саудовская Аравия, которая возглавляет коалицию, борющуюся с хуситами в Йемене, не прокомментировала ситуацию.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Хуситы утверждают, что в результате авиаудара Саудовской Аравии погибло по меньшей мере 25 человек."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Саудовская Аравия, которая возглавляет коалицию, борющуюся с хуситами в Йемене, не прокомментировала ситуацию."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-07T17:09:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "yemeni-gov-t-forces-report-advances-as-houthis-s",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Правительственные силы Йемена сообщают об успехах, а хуситы говорят, что по Сане нанесены смертельные удары",
-   "summary": "Основная тяжесть боевых действий приходится на гражданское население: сообщается, что в результате ударов по деревне в провинции Сана погибло 27 человек.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Правительственные силы Йемена сообщают о наступлении, а хуситы говорят, что по Сане были нанесены смертельные удары."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Основная тяжесть боевых действий приходится на гражданское население: сообщается, что в результате ударов по деревне в провинции Сана погибло 27 человек."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T19:06:31Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "emirates-loves-syria-more-than-55-000-attend-dub",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Эмирейтс любит Сирию: более 55 000 человек посетили мероприятие в Дубае, посвященное сирийской культуре",
-   "summary": "Эмирейтс любит Сирию: более 55 000 человек посетили мероприятие в Дубае, посвященное сирийской культуре",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Эмирейтс любит Сирию: более 55 000 человек посетили мероприятие в Дубае, посвященное сирийской культуре."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVZEMHBLTHotb2w1Sk80cEh6a1ZnTXctTEpHTk9KX1djR25XTlFYUFFnS1U4XzVjNXhkYnpTT2xyN3d4UUhMcGJybjBmNjN2M2w0aUJMbUFhY0thNHB6UzIxc2lON0Z1RlRZT1RTV2ZOazFFZGEzTWdrNWVJRi12d3JVZFc5cFNIejAtVHB0SFZQd290LTJ2dzlSUENjbnA5T1Qyc0V1S3A1TzBtRnE5dkQtNlhYVjlxVDFGeVpYaDAtTzctQ1M1enlnaVR4Unds?oc=5",
-   "type": null,
-   "time": "2026-11-07T18:11:47Z",
-   "countries": [
-    "United Arab Emirates",
-    "Syria"
-   ]
-  },
-  {
-   "id": "explosions-heard-on-qeshm-island-multiple-locati",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Государственные СМИ сообщают, что взрывы слышны на острове Кешм и в нескольких местах Ирана - репортаж",
-   "summary": "Государственные СМИ сообщают, что взрывы слышны на острове Кешм и в нескольких местах Ирана - репортаж",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Государственные СМИ сообщают, что взрывы слышались на острове Кешм и в нескольких местах Ирана."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OUdicS1vRHlsNmhSSW1Ic2hYbXF5OUM1dUllOWNETFRtT256VW9nMVNqeVIwNmRzN3pQWk9CWmwzczh2bERTRE50dmpkNk9LVWV2c3oyLVg5U3ItU1N4YmdlSmVxMVk4NFE?oc=5",
-   "type": null,
-   "time": "2026-11-07T19:55:40Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "uae-official-risk-of-war-between-us-and-iran-rem",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Официальный представитель ОАЭ: риск войны между США и Ираном сохраняется",
-   "summary": "Официальный представитель ОАЭ: риск войны между США и Ираном сохраняется",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Официальный представитель ОАЭ: риск войны между США и Ираном сохраняется."
-    }
-   ],
-   "source": "8AM Media",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KSGhBN2JWLUViVTk4T2tLQVhNUUh3RjNxUGk3cGgwTjJMQTlVZkVBbWpkZEtzTENDLXYyQlFMTlc3alNpVVhpRlFxbGQ4SXJTSkJHa05mMjFYbWdpWHA2ZGRnNGFnSHJ5eEI4?oc=5",
-   "type": null,
-   "time": "2026-11-07T15:46:51Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "drone-and-missile-attacks-wound-9-as-ukraine-pre",
+   "id": "zelenskyy-more-than-600-000-people-without-elect",
    "country": "Ukraine",
    "label": "УКРАИНА",
    "lat": 49.0,
@@ -370,117 +478,25 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Атаки дронов и ракет ранили 9 человек, пока Украина готовится к переговорам с Россией и США",
-   "summary": "Атаки дронов и ракет ранили 9 человек, пока Украина готовится к переговорам с Россией и США",
+   "headline": "Зеленский: Более 600 тысяч человек остались без электричества в Украине после нападения России",
+   "summary": "Зеленский: Более 600 тысяч человек остались без электричества в Украине после нападения России",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "В результате ударов дронов и ракет ранили 9 человек, пока Украина готовится к переговорам с Россией и США."
+     "text": "Зеленский: Более 600 тысяч человек остались без электричества в Украине после нападения России."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHZfTllYdmhfLUdkdm1ydGFibEZVeF9HaU5teXBJSy1XWWFKZHJjdmlSMUFqN1BzZnZPV2FOZHQ3bGtmZlVrYmRyd3dXMnJNNExkbV9LZUpuN0tickRwRXpMa20zc1lfQ21zQ1lVUFRJNGhEeFdBX00tZ1VPenJobGRHUDJJZmpRRWRvRDNhdVQ0c2VVRThxcFU4Zl9oUm9FWTJpZzJNZ1BEYWhpc0E?oc=5",
    "type": null,
-   "time": "2026-11-07T18:10:00Z",
+   "time": "2026-11-08T16:14:07Z",
    "countries": [
     "Ukraine",
-    "Russia",
-    "United States of America"
+    "Russia"
    ]
   },
   {
-   "id": "poland-in-shock-after-six-die-in-krakow-mass-sho",
-   "country": "Poland",
-   "label": "ПОЛЬША",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Польша в шоке после того, как шесть человек погибли в результате массового расстрела в Кракове",
-   "summary": "Полиция Польши сообщила в субботу, что шесть человек были убиты и около дюжины ранены после того, как вооруженный преступник открыл огонь в историческом центре второго города Польши, Кракова. Мужчина выехал на машине на главную площадь Кракова и начал стрелять в случайных людей, сообщила полиция.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Польша в шоке после того, как шесть человек погибли в массовом расстреле в Кракове."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Полиция Польши сообщила в субботу, что шесть человек были убиты и около дюжины ранены после того, как вооруженный преступник открыл огонь в историческом центре второго города Польши, Кракова. Мужчина выехал на машине на главную площадь Кракова и начал стрелять в случайных людей, сообщила полиция."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
-   "type": null,
-   "time": "2026-11-07T22:16:54Z",
-   "countries": [
-    "Poland"
-   ]
-  },
-  {
-   "id": "israel-s-president-picks-yashar-leader-gadi-eise",
-   "country": "Israel",
-   "label": "ИЗРАИЛЬ",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "Президент Израиля выбирает лидера «Яшара» Гади Айзенкота для формирования правительства",
-   "summary": "Ни блок премьер-министра Биньямина Нетаньяху, ни блок его соперника не получили большинства на выборах на прошлой неделе.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Президент Израиля выбирает лидера «Яшара» Гади Айзенкота для формирования правительства."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Каков эффект?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ни блок премьер-министра Биньямина Нетаньяху, ни блок его соперника не получили большинства на выборах на прошлой неделе."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0JHczRrNlAyS01zWHNUYlRNR1d4NVNQMVR3Q3VreERqZjY0QmJ5dlJsaEFoWUc4VEQxcjNxMmw2RkIydWVVSFZ3Ukg5M0lDX1EzWjJ2cmt5ZmFEOTZXWk11Zkh6OUNDc21OM29sQXVjcXgwNTZYYWdXYnZuMUNJYUtWNlJGblN2TXRZN2M1TW82VjVaUFJ3?oc=5",
-   "type": null,
-   "time": "2026-11-07T21:03:00Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "iran-says-it-has-lifted-its-self-imposed-limit-o",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Иран заявляет, что снял добровольное ограничение на дальность ракет и другие новости Ближнего Востока",
-   "summary": "Иран заявляет, что снял добровольное ограничение на дальность ракет и другие новости Ближнего Востока",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран заявляет, что снял добровольно установленное ограничение на дальность ракет и другие новости Ближнего Востока."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWlBaG5BYjY0T3dxT1Z6aFlidmJqREpvYzlzdXFOQW8wZFpLaWZSUktyc0dhZXJQdUd3UlJHLVVITURzd2VnWEFtR2w4cVcydHVIVXFCci1yOUJXVnpQWXAteGNWQUZNcWZjcERDZ01KeXFpd1hNN1Z1QmdIY0c5N2ZsOWxKQ1RHdnk4LW1QNVpyZw?oc=5",
-   "type": null,
-   "time": "2026-11-07T20:55:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-strikes-wound-nine-and-damage-ukraine-s-",
+   "id": "russia-targets-emergency-crews-at-the-site-of-a-",
    "country": "Russia",
    "label": "РОССИЯ",
    "lat": 55.75,
@@ -488,64 +504,21 @@
    "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "Российские удары ранили девять человек и повредили энергосистему Украины перед переговорами",
-   "summary": "Нападения произошли перед тем, как украинская и российская делегации должны принять участие в трехсторонних переговорах в Абу-Даби на следующей неделе.",
+   "headline": "Россия нацелилась на спасателей на месте смертельного удара на юге Украины",
+   "summary": "Россия нацелилась на спасателей на месте смертельного удара на юге Украины",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "В преддверии переговоров российские удары ранили девять человек и повредили энергосистему Украины."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Нападения произошли перед тем, как украинская и российская делегации должны принять участие в трехсторонних переговорах в Абу-Даби на следующей неделе."
+     "text": "Россия нацелилась на спасательные бригады на месте смертельного удара на юге Украины."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0?oc=5",
    "type": null,
-   "time": "2026-11-07T12:49:36Z",
+   "time": "2026-11-08T15:18:00Z",
    "countries": [
     "Russia",
-    "Ukraine",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "ukraine-s-zaporizhzhia-faces-threat-as-russian-d",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Украинское Запорожье сталкивается с угрозой из-за приближения российских беспилотников",
-   "summary": "Украинское Запорожье, когда-то служившее убежищем для тех, кто бежал от войны, теперь сталкивается с растущей опасностью.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Украинское Запорожье сталкивается с угрозой из-за приближения российских беспилотников."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Украинское Запорожье, когда-то служившее убежищем для тех, кто бежал от войны, теперь сталкивается с растущей опасностью."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-07T20:10:38Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   }
  ]
