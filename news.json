@@ -1,500 +1,138 @@
 {
- "updated": "2026-11-09T08:04:21.347767Z",
+ "updated": "2026-11-09T18:53:23.487020Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "trump-plays-down-prospect-of-new-strikes-on-iran",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Trump plays down prospect of new strikes on Iran",
-   "summary": "Trump plays down prospect of new strikes on Iran",
+   "id": "-no-concession-what-to-expect-from-russia-us-ukr",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi",
+   "summary": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump plays down prospect of new strikes on Iran."
+     "text": "‘No concession’: What to expect from Russia-US-Ukraine talks in Abu Dhabi."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A fourth round of peace talks in 2026 takes place this week, with security guarantees high on the agenda."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/9/no-concession-what-to-expect-from-russia-us-ukraine-talks-in-abu-dhabi?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T14:24:31Z",
+   "countries": [
+    "Russia",
+    "United States of America",
+    "Ukraine",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "france-accuses-iran-of-supermarket-fridge-hackin",
+   "country": "France",
+   "label": "FRANCE",
+   "lat": 46.6,
+   "lon": 2.2,
+   "flag": "🇫🇷",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "France accuses Iran of supermarket fridge hacking",
+   "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "France accuses Iran of supermarket fridge hacking."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzeFI0SDNQMm9ieHFIWGNtSFV6cEliY0dwOUhXNE9NODFkSTZKUktramxLV0ZHS1BaN3RZX1pTWEtsNmZxSVlBQTNfN2I0Rlk4NTlCdnRnUElYbUE?oc=5",
+   "type": null,
+   "time": "2026-11-09T16:55:07Z",
+   "countries": [
+    "France",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-investors-launch-fund-to-b",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment",
+   "summary": "A joint council of Saudi Arabian and Pakistani investors launched a private equity fund on Monday as part of the countries’ wider push to deepen two-way private sector trade and investment.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Saudi Arabia investors launch fund to boost trade, investment."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "A joint council of Saudi Arabian and Pakistani investors launched a private equity fund on Monday as part of the countries’ wider push to deepen two-way private sector trade and investment."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043284/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
+   "type": null,
+   "time": "2026-11-09T12:40:11Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "attack-on-saudi-oil-pipeline-causes-fire",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Attack on Saudi oil pipeline causes fire",
+   "summary": "Attack on Saudi oil pipeline causes fire",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Attack on Saudi oil pipeline causes fire."
     }
    ],
    "source": "The National",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRkdzMDFwVFNGNEFRbmVXNUZ4MG5RTDExMlVPcmIxek5OaEpFOFp2c0NVUEhzcWt5TWVVb3NhUDQ5SzJQZjhqaU41ZnVEMldQRGNNTk1CWm9pS2h6WmxHdlpKMHlqZ3BFaXBDaXdRTzIyNlNTY19FY0MxelZ6bEh3MjFB?oc=5",
    "type": "LIVE",
-   "time": "2026-11-09T05:03:30Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "oil-falls-as-trump-signals-restraint-on-iran-ami",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks",
-   "summary": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil falls as Trump signals restraint on Iran amid fresh Hormuz shipping attacks."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWnV4VENDNkFNVllVVEpoVTJLcC13SlhHREstWFZZQ252QTRiU3dKeW5EYWYxVUJjNnQzVzh1M1FsWjNGTmRKMVFEYjhxT3M2VmF4aVpERWwwczh6dV9OTG5NcFJCMFVZZ0toWEEyMnRRTnBZUm9iQVVzblIzcmJMOTR4V29sUDFVME1jcFQ5VVhoMHVUM0YzWHM2bmE1b3VCV0s0R2JmUUQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T23:50:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-aramco-building-in-riyadh-damaged-in-attem",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-   "summary": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5",
-   "type": null,
-   "time": "2026-11-09T00:36:45Z",
+   "time": "2026-11-09T17:37:54Z",
    "countries": [
     "Saudi Arabia"
    ]
   },
   {
-   "id": "what-is-next-for-israel-",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "What is next for Israel?",
-   "summary": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "What is next for Israel?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/opinions/2026/11/9/what-is-next-for-israel?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-09T06:42:03Z",
-   "countries": [
-    "Israel"
-   ]
-  },
-  {
-   "id": "uae-non-oil-foreign-trade-reaches-2-945-trillion",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE Non-Oil Foreign Trade Reaches 2.945 Trillion Dirhams in Nine Months",
-   "summary": "UAE Non-Oil Foreign Trade Reaches 2.945 Trillion Dirhams in Nine Months",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE Non-Oil Foreign Trade Reaches 2.945 Trillion Dirhams in Nine Months."
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVRGszQXc1R0NVcktfMm9QV1dBMnduQzFsUjVPVUVBRTlnTGNQNXB4MXByaWxOaHNyZTZwRGt1a09Jb2dvVlhhblRBcDhDUEhZRmhpWmRXcXJyS2tpR1JnN3FRbXV6bnlmeHRtZkw5SGZfeTJOaFE?oc=5",
-   "type": null,
-   "time": "2026-11-09T07:36:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "europe-to-join-u-s-brokered-ukraine-talks-in-abu",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-   "summary": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections."
-    }
-   ],
-   "source": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
-   "type": null,
-   "time": "2026-11-08T19:25:30Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "pakistan-vs-sri-lanka-free-live-stream-how-to-wa",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India",
-   "summary": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan vs. Sri Lanka free live stream: How to watch 1st Test without cable in India."
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlJtd0JOaTY4aU1KOUNrdVVhQlNFS0oyWThlQmhiNGdMYUo5RDFRVjZKZ3JYY0VhUHRwYXNsQWpfRHdpNWhYemRaUDR6aXh2QlpHdC05VmJEcHN6NFM5dVlOQ3FfQ21ObmxTWWlsVl9GaFlJRXhUam5VeUdCXzNiSg?oc=5",
-   "type": null,
-   "time": "2026-11-09T05:34:00Z",
-   "countries": [
-    "India",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "drone-attack-suspends-production-at-iraq-s-khor-",
-   "country": "Iraq",
-   "label": "IRAQ",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
-   "summary": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Drone attack suspends production at Iraq’s Khor Mor gasfield."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-09T01:19:09Z",
-   "countries": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "saudi-coalition-intercepts-houthi-missiles-over-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi coalition intercepts Houthi missiles over Riyadh",
-   "summary": "Saudi coalition intercepts Houthi missiles over Riyadh",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi coalition intercepts Houthi missiles over Riyadh."
-    }
-   ],
-   "source": "Yeni Şafak English",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzRBenJKNV81OFVZdlFTTGhCTkpDM0VQMlFHUTd0cDF4MXlTZEkxTkZYUjhmUWxTUHppcFhnQjRwcGpFX0JiRUl3c2JyTm9sVjVGcGhVOC1rVlFyOWtYUF9PeDdSSWQ2bHEtRzFIeHRfU2ZpUTJma1duX2ZlNVJyMW9zTjFhc1NwWmFYczJXRHJUQVZnS19TZQ?oc=5",
-   "type": null,
-   "time": "2026-11-09T06:58:53Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "rubio-says-war-on-iran-unpopular-but-necessary-t",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
-   "summary": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "US secretary of state says Iran's negotiation demands are 'outrageous and ridiculous, and really not realistic'."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-09T04:02:18Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "ukraine-war-briefing-post-war-security-guarantee",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
-   "summary": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine war briefing: post war ‘security guarantees’ a key focus in upcoming Abu Dhabi talks, says Rubio."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnYxU1hlQ2Vib01aVVJuZzdydnd1d2ozanJlbklReFpISkNJeG1zZFRSMkN4d3dwcU5EMktnLVdzOENRaDRHUjFwWm5vYS1pWWQ5OTF1NDZMM3gydm9YMVJ4Y2dxYUxoU0N0S2ZTZmw4eG5aSFR1TDdzSHhtSEJhT0FCelc0OFc4YnBmbEVhSmVRRVU5WjMzc25HX0VZaWRwWUx5WExHTW84VXNNYWpZcXdFSWVSY0VxYmdUZEl0aW1lRkhiZmRubUdvM2hJdHphdmttcWgwN0FZbFVWbmZF?oc=5",
-   "type": null,
-   "time": "2026-11-09T01:57:00Z",
-   "countries": [
-    "Ukraine",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "aramco-skyscraper-damaged-as-houthis-target-riya",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Aramco skyscraper damaged as Houthis target Riyadh financial district",
-   "summary": "An Aramco building in Riyadh was targeted in an “attempted attack”, the Saudi energy ministry said on Sunday, with eyewitnesses telling AFP the skyscraper sustained damage, after the Saudi-led coalition fighting Houthis said it had intercepted missiles launche",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Aramco skyscraper damaged as Houthis target Riyadh financial district."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "An Aramco building in Riyadh was targeted in an “attempted attack”, the Saudi energy ministry said on Sunday, with eyewitnesses telling AFP the skyscraper sustained damage, after the Saudi-led coalition fighting Houthis said it had intercepted missiles launche"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043061/aramco-skyscraper-damaged-as-houthis-target-riyadh-financial-district",
-   "type": null,
-   "time": "2026-11-08T14:40:08Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "jon-rahm-how-dp-world-tour-win-in-abu-dhabi-mark",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Jon Rahm: How DP World Tour win in Abu Dhabi marks start of 'next page' in career after mental strain of LIV Golf exit",
-   "summary": "Jon Rahm: How DP World Tour win in Abu Dhabi marks start of 'next page' in career after mental strain of LIV Golf exit",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Jon Rahm: How DP World Tour win in Abu Dhabi marks start of 'next page' in career after mental strain of LIV Golf exit."
-    }
-   ],
-   "source": "Sky Sports",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeEJqSGJjdnZwZ1I1NUNtd3BMVUdCMGk5dU5GMmtMcFE3ZGNaTUlCOXR1Q1J1cmxDQmJoSjJXTjdXNl9iN1luNmdnNFFCRVZxYkNBQkJZTnRvbTFpTmhKQjhDWTliUktGS2o2N3ZwQVRxV2M5Z2N0czlndTFlamxOazdwN1RFV1E1MTVsWVk2UjBiRVl5NUhBVEJZclB2azlvZEpXYW5rQWhwdGVSNUlma1Rtd21rX09vdmdUN3RkdmJDU1JLa21QYUpiRW9acDh4X2x6WFlkY3NxTFFvMHhjNDZ0TldkNVZSdkZqM2twUy1sUQ?oc=5",
-   "type": null,
-   "time": "2026-11-09T06:03:13Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "south-africa-s-anc-suffers-worst-ever-local-elec",
-   "country": "South Africa",
-   "label": "SOUTH AFRICA",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
-   "severity": "watch",
-   "category": "World",
-   "headline": "South Africa’s ANC suffers worst-ever local elections result",
-   "summary": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "South Africa’s ANC suffers worst-ever local elections result."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "South Africa's ANC has suffered its worst-ever local elections result, securing just 30% of the vote."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-09T03:09:51Z",
-   "countries": [
-    "South Africa"
-   ]
-  },
-  {
-   "id": "donald-trump-plans-to-meet-vladimir-putin-and-xi",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war",
-   "summary": "Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Donald Trump plans to meet Vladimir Putin and Xi Jinping in China to discuss ending Iran war."
-    }
-   ],
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFl6TVJwbnphRjMxUTFpcEItalRGeTlhelE4QmpQMm1lV2hZb0tLYXdmeE12dVVrSVNmNW9HalJFSFhRaEpuWjBEZUFUSDhoM05EdFNkbTRZM19fN0N2dmVOQ2NBeGowN0FyaUttTnRSNzBRMzAxb2pDYzAtcXg4RmhvQlllNEJyTzZHNGw4OTE0RHNCcnZ4cmMwX3JURlVkbEg3NTBjTWx1MHpVYnZUbGFyUHRkbWtVakE3YmdULVpkLXhz?oc=5",
-   "type": null,
-   "time": "2026-11-09T07:08:26Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "who-are-the-seafarers-caught-in-the-us-israeli-w",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Who are the seafarers caught in the US-Israeli war on Iran?",
-   "summary": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Who are the seafarers caught in the US-Israeli war on Iran?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "International Maritime Organization records at least 25 deaths since the conflict started on February 28."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-09T07:07:26Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-says-great-dislike-for-israel-iran-war-cos",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Trump says 'great dislike' for Israel, Iran war cost Republicans midterms",
-   "summary": "Trump says 'great dislike' for Israel, Iran war cost Republicans midterms",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump says 'great dislike' for Israel, Iran war cost Republicans midterms."
-    }
-   ],
-   "source": "Yeni Şafak English",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3Q4UmU1ZVo1ZVJlTXpKamRaVmlKRDBCTDI1MFRhTE9nRnFXTm9fTVhpcVJHb3IwVzZiUG5KSVJNN3R5SVBzemlQRFQ4RE43UXNOVkhmZnBEcWhGRkVYbjJFR2I1THFuZkwzQWhMUFB4NVl1S0d5LXJQcnZFTkNSeDVhVGFObTNDYlVlXzd2Z0NsR3JKYVpvY25EVnJvNXZNaHY1NGc3OVlkN21EYnc?oc=5",
-   "type": null,
-   "time": "2026-11-09T07:05:45Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "hamza-inspired-pakistan-down-india-in-u-19-asia-",
+   "id": "pakistan-post-281-5-to-punish-sri-lanka-in-first",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -502,21 +140,424 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Sports",
-   "headline": "Hamza-inspired Pakistan down India in U-19 Asia Cup thriller",
-   "summary": "Hamza-inspired Pakistan down India in U-19 Asia Cup thriller",
+   "headline": "Pakistan post 281-5 to punish Sri Lanka in first Test",
+   "summary": "Captain Babar Azam and two debutants were among four batters to hit half-centuries as Pakistan reached 281-5 on day one of the first Test against Sri Lanka on Monday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Hamza-inspired Pakistan down India in U-19 Asia Cup thriller."
+     "text": "Pakistan post 281-5 to punish Sri Lanka in first Test."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Captain Babar Azam and two debutants were among four batters to hit half-centuries as Pakistan reached 281-5 on day one of the first Test against Sri Lanka on Monday."
     }
    ],
-   "source": "Dawn",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcW01cUFNYWJYaDg1UlR3cGFHcXdHX3VNdFRxZkd1YlRGZnV1N2tFdHFMbTV2Yy1Bdmw1THRRek5rOXRVTklTQlc1V2pwVDRsWS1Lak9XbjVobzFPZUR0ZW1JV1cxYlZEVDdfVFlROUFfdVVuYWJaTjlScWZZYlRFVnRzQUh6WHNVeTdaZHkzTzNqTU5vbVNqV0d3?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043268/pakistan-post-281-5-to-punish-sri-lanka-in-first-test",
    "type": null,
-   "time": "2026-11-09T01:38:50Z",
+   "time": "2026-11-09T12:34:01Z",
    "countries": [
     "Pakistan",
-    "India"
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "oil-prices-fall-on-hopes-for-peace-between-u-s-a",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+   "summary": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran."
+    }
+   ],
+   "source": "GV Wire",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLUxpU2JTS3FseU95UkVHRWo1SkFFVGdnWHlwcjNTZGdHbmpWYTdDTE9RYmRRLXJsellmSkZ4eHhxU01VUjZzNFNyM01TSzlfUzJWWkN6cDVHSTV3amVSQlhRd0xxcmI5ZHBNbjNGaGZBNXp1NURWdkM2NkpCT3Z0SThZQUNVVWVZd0FmNG5XYw?oc=5",
+   "type": null,
+   "time": "2026-11-09T18:09:40Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-condemns-targeting-of-aramco-building-d",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia",
+   "summary": "Pakistan on Monday condemned the Houthi attack on Saudi oil giant Aramco’s corporate office in Riyadh, demanding that the rebel group “immediately and unconditionally” cease all attacks against Saudi Arabia, the Foreign Office (FO) said.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan condemns targeting of Aramco building, demands Houthis cease all attacks against Saudi Arabia."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan on Monday condemned the Houthi attack on Saudi oil giant Aramco’s corporate office in Riyadh, demanding that the rebel group “immediately and unconditionally” cease all attacks against Saudi Arabia, the Foreign Office (FO) said."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+   "type": null,
+   "time": "2026-11-09T14:45:08Z",
+   "countries": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-tv-anchor-shot-dead-at-home-husband-arr",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Pakistan TV anchor shot dead at home, husband arrested after national outrage | GRAVITAS",
+   "summary": "Pakistan TV anchor shot dead at home, husband arrested after national outrage | GRAVITAS",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan TV anchor shot dead at home, husband arrested after national outrage | GRAVITAS."
+    }
+   ],
+   "source": "WION",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkp2a2puTEloZWVXMlA2QmtGRDFjUkkwZmF6ZVZ5WjdTMmdZZnVHVm1MWkNwVGVfUDVRZEYxOWZvVnc4Q2NGLXVOOG5WQVlSZmlfN1d6TlZnczExbE5hM1MydGlWNGVaRGFOSEFxVW4wMmdJWFhzcEVwQXJDdEJUTksxNzczWnpWVE1TR2JLbzkwUjZ3Z2RRcXo5UVBIZjRrTExNancwUE02cmdUclZJbUJwSVRfMnBYM3RaMlhUTUJNNkYxZG53ZtIBzgFBVV95cUxNS3pQZEZjWXdNYnhFaGhDcEdSNW5iVTZFXy0yeEtEcUVkczlHTmZnSUZFa25NemF2NTlrWDhfVnh4RjJqMXU1NlJ0enhZazlaWU1tZ2RXeUtGX3ZyVWFwbEF6NklsVXI2WkhoeFB1ZGN2X0JzTlliUzJUWDAwQ0dQSE0tSGtmQmM0TDZhTFhvOV9sM29fSEl4Mkwxdm9xSHlJTEdaeXBEYkRYQ1N6dnJFS3dia2xKcGFjVVY2RFh2VEdkQUZpc0c5c0wxQ08tQQ?oc=5",
+   "type": null,
+   "time": "2026-11-09T18:09:00Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "trump-meets-key-iran-war-mediator-as-uae-reveals",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+   "summary": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict."
+    }
+   ],
+   "source": "930 WFMD Free Talk",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTdWSU8ybk42RC1haHY3TDMxamdaNnZoVkpYYW0tMy1SRllGVHVqZWlXbzAzU2hxXzdrNWhwNkpsTkwtb1NvTE9HSV9nWGtFZUQwUndmeDFsb2RoSkt2VjFYOHZPNTd6ME5Sd2NObVhWYkJQc1E3cVpaN3F3YWJIRXFWQjYyWVFPeVoydEctd0hCR0djWGpCbXdOTjZSMkNkWWw1alRuUVVRRi1NUUdFSmt1WXNrcUE2MXh1TDZR?oc=5",
+   "type": null,
+   "time": "2026-11-09T18:47:19Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "nvidia-shares-slump-amid-investigation-into-ceo-",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+   "summary": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Nvidia shares slump amid investigation into CEO Jensen Huang."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T16:00:10Z",
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "irgc-strikes-three-tankers-near-hormuz-over-us-l",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "IRGC strikes three tankers near Hormuz over ‘US links’",
+   "summary": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "IRGC strikes three tankers near Hormuz over ‘US links’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T15:10:20Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "nvidia-live-updates-nvidia-stock-falls-5-as-boar",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy",
+   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Nvidia live updates: Nvidia stock falls 5% as board investigates CEO's affair with alleged Chinese spy."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia."
+    }
+   ],
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb005WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc?oc=5",
+   "type": null,
+   "time": "2026-11-09T18:42:29Z",
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "syria-confirms-sending-troops-to-saudi-arabia-am",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+   "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T13:15:27Z",
+   "countries": [
+    "Yemen",
+    "Syria",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "uae-s-gargash-warns-of-prolonged-regional-uncert",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
+   "summary": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE's Gargash warns of prolonged regional uncertainty, says US-Iran settlement appears difficult."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlI2UXNzNl84Z1ByMV9Ybm5YNjMtZkdPcDhsZ2plZk9udWViZDZ4eTRVQVNXN2x6U2hENlkxbXJ2SXVvVU0tVWFkZGlSLXBDcnBZM1pzLVBNMzA5bjdZOHlFSXd6ZzhsWWZvV3JWWXlTME1tMnJ5Q0RoWHk1ZmJzbzk5cjZFaDI4NXpTOGRaVDBTNGNxcnRZYjF0X2NzY3EwaEJZcVhMaHRRMXREdXBkeXh6OGRCdU9aaWRJdS1zNzBQSUJCZEE?oc=5",
+   "type": null,
+   "time": "2026-11-09T07:01:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "trump-says-he-s-not-planning-new-iran-strikes-de",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump says he's not planning new Iran strikes, defends war after GOP midterm losses",
+   "summary": "Trump says he's not planning new Iran strikes, defends war after GOP midterm losses",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says he's not planning new Iran strikes, defends war after GOP midterm losses."
+    }
+   ],
+   "source": "Spectrum News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT1I4NzZaeWRYZ09wLXpGU0NDT0VQRzlRdVJvaGx5alhqdGhOTE11Z05YdXhFODNCZWR6OEpNa1NjSDY4Z0JPdV9yZXh0eTVoX1pTb05FQ3lqd2NMZVIxQjJvUTZ4MndJckw5NEVDdGlDMThoNmlXeUJWNl90U2U3UXJyOTVqdkR4UC0wMjR5Q2d1d0xVOUVvTzNabS1ZdEZkclBxalZn?oc=5",
+   "type": null,
+   "time": "2026-11-09T18:18:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "kushner-outlines-four-priorities-for-ending-war-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Kushner Outlines Four Priorities for Ending War as US Consults Europe Before Abu Dhabi Talks",
+   "summary": "Kushner Outlines Four Priorities for Ending War as US Consults Europe Before Abu Dhabi Talks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Kushner Outlines Four Priorities for Ending War as US Consults Europe Before Abu Dhabi Talks."
+    }
+   ],
+   "source": "UNITED24 Media",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZzdSOG1RNjVrS0lBZjlNVERVZTdYR2ZYTmFyekt4RVp3NlNOV1gzRHJlMi1tMWR6MW1Ic0g5cWdHSWZDcldKN080M01yYTNjSFdiVjA5ZXVPT1lZYTRmVFd0WThtaDR6cENabjBnSjJPd1BiYjJQd1pIV2lUOEpvaVJKY2l1VmlxUndwUmpxQkp5S3ZXZndZcUNfZUhYemUxeWh2cUhrN05JY0Zmak9UUUkyU2sxbU5mVEJqWk4ycXIwakN5OXBQTHFGZ3BDUDJNbThzd1Nn?oc=5",
+   "type": null,
+   "time": "2026-11-09T16:56:11Z",
+   "countries": [
+    "United States of America",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-stands-by-demands-to-end-the-war-as-us-ramp",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran stands by demands to end the war as US ramps up military pressure",
+   "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran stands by demands to end the war as US ramps up military pressure."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Talks aimed at preventing new major fighting between the US and Iran are ongoing."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T14:39:32Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "russian-investigative-newspaper-novaya-gazeta-cl",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+   "summary": "The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-09T18:21:38Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   }
  ]
