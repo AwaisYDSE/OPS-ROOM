@@ -1,36 +1,28 @@
 {
- "updated": "2026-11-10T09:59:28.945425Z",
+ "updated": "2026-11-10T17:55:45.893196Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "russia-ukraine-and-us-officials-hold-talks-in-ab",
+   "id": "russia-and-ukraine-hold-nearly-4-hours-of-us-med",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "critical",
+   "severity": "watch",
    "category": "UAE",
-   "headline": "Russia, Ukraine and US officials hold talks in Abu Dhabi",
-   "summary": "Zelenskyy claims Russia 'suffering record losses', as Trump says US sees 'strong inclination' to end war in Ukraine.",
+   "headline": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+   "summary": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia, Ukraine and US officials hold talks in Abu Dhabi."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Zelenskyy claims Russia 'suffering record losses', as Trump says US sees 'strong inclination' to end war in Ukraine."
+     "text": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
    "type": null,
-   "time": "2026-11-10T02:45:14Z",
+   "time": "2026-11-10T17:01:00Z",
    "countries": [
     "United Arab Emirates",
     "Russia",
@@ -39,220 +31,37 @@
    ]
   },
   {
-   "id": "after-meeting-qatar-pm-trump-calls-iran-war-effe",
-   "country": "Qatar",
-   "label": "QATAR",
-   "lat": 25.3,
-   "lon": 51.2,
-   "flag": "🇶🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-   "summary": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
-   "type": null,
-   "time": "2026-11-10T01:43:36Z",
-   "countries": [
-    "Qatar",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-arabia-downs-missiles-fired-at-riyadh-afte",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-   "summary": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-10T03:17:51Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "trump-says-more-us-attacks-on-iran-highly-unlike",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Trump says more US attacks on Iran 'highly unlikely'",
-   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump says more US attacks on Iran 'highly unlikely'."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-10T09:40:31Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "exclusive-u-s-aircraft-evacuated-from-second-u-k",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
-   "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5",
-   "type": null,
-   "time": "2026-11-10T04:41:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "oil-prices-extend-decline-after-trump-signals-re",
+   "id": "-positive-momentum-is-the-us-war-on-iran-about-t",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Extend Decline After Trump Signals Restraint on Iran",
-   "summary": "Oil Prices Extend Decline After Trump Signals Restraint on Iran",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Extend Decline After Trump Signals Restraint on Iran."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWY0eGlzV2FfSkxTRE1BTWZaTjNtWmIxSjJocnF1a2YzbzczUWlWUFBLMDhlWFdkN0s2MFJDNThNTUQyQlRkT0s5bTRfZUpWbnE0QWlmV0lDbXQxQlVXUk41M3M3UF9lWVZ2ekM4QnQ5WXE2N0d0RWNRY3NRNHc2YnBQblFkZTFhQ0ZWWURxa3ljN2FBSU5TWERiMlZqektRZl85YTBqb09zNDNZNjNQVVJn?oc=5",
-   "type": null,
-   "time": "2026-11-10T09:22:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-declare-at-434-9-as-saud-shakeel-falls-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Sports",
-   "headline": "Pakistan declare at 434-9 as Saud Shakeel falls short of century in first Sri Lanka Test",
-   "summary": "Pakistan declared their first innings at 434 for nine on the second day of the opening Test against Sri Lanka at the Rawalpindi Cricket Stadium on Tuesday, with Saud Shakeel falling agonisingly short of a century and debutant Arafat Minhas adding a valuable ha",
+   "category": "World",
+   "headline": "‘Positive momentum’: Is the US war on Iran about to end?",
+   "summary": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan declare at 434-9 as Saud Shakeel falls short of century in first Sri Lanka Test."
+     "text": "‘Positive momentum’: Is the US war on Iran about to end?."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan declared their first innings at 434 for nine on the second day of the opening Test against Sri Lanka at the Rawalpindi Cricket Stadium on Tuesday, with Saud Shakeel falling agonisingly short of a century and debutant Arafat Minhas adding a valuable ha"
+     "text": "Domestic pressures are injecting new life into stalled diplomatic talks, but analysts say peace still hangs by a thread."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/10/positive-momentum-is-the-us-war-on-iran-about-to-end?traffic_source=rss",
    "type": null,
-   "time": "2026-11-10T09:43:55Z",
+   "time": "2026-11-10T15:18:32Z",
    "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "donald-trump-qatar-saudi-arabia-seek-peace-us-re",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Donald Trump: Qatar, Saudi Arabia seek peace, US ready to hit Iran",
-   "summary": "Donald Trump: Qatar, Saudi Arabia seek peace, US ready to hit Iran",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Donald Trump: Qatar, Saudi Arabia seek peace, US ready to hit Iran."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweV84Y1A2Z2ZSbmtnbmM2RE1JSXQwdVlFYWpfd0llczRiWnN0c3lKeHdoU0o0QklLRFJWaXlLcXUzMXRZVGtMRTd5WGxwQ0ZYX2pzdDRfc3BtTDlfb2NCb2RFWlV2ZzR2RWc?oc=5",
-   "type": null,
-   "time": "2026-11-10T05:17:13Z",
-   "countries": [
-    "Iran",
     "United States of America",
-    "Qatar",
-    "Saudi Arabia"
+    "Iran"
    ]
   },
   {
@@ -290,134 +99,54 @@
    ]
   },
   {
-   "id": "china-s-trade-surplus-passes-1-trillion-at-recor",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-   "summary": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "China’s Trade Surplus Passes $1 Trillion at Record Pace."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
-   "type": null,
-   "time": "2026-11-10T09:00:00Z",
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "saudi-arabia-confirms-strike-on-east-west-pipeli",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia Confirms Strike on East-West Pipeline",
-   "summary": "Saudi Arabia Confirms Strike on East-West Pipeline",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia Confirms Strike on East-West Pipeline."
-    }
-   ],
-   "source": "The Maritime Executive",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmFkUlM2WWp3c0RhN25ERTFlZGR0c1QzN3NPdlMtM1JnM0FBN1BmUWJZcUl0N2xJc01qQXM3dW5xNVdDbkJ3NVBVTndtNE9rRjhyVFRnU3FiN09SYm54SGtWQmNQampfQ1R6Ql9BaTdXNERRSUJMZ1JLc3JRTTFBZm1ZRHRmcnV5cnMzdjRkUnNxMDg?oc=5",
-   "type": null,
-   "time": "2026-11-10T01:39:13Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "european-diplomats-press-rubio-for-a-role-in-rus",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "European diplomats press Rubio for a role in Russia-Ukraine talks",
-   "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "European diplomats press Rubio for a role in Russia-Ukraine talks."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-10T05:02:33Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "France",
-    "United States of America",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-sees-strong-inclination-to-end-russia-ukra",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-   "summary": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump sees 'strong inclination' to end Russia-Ukraine war ahead of U.S.-brokered peace talks."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTR4b1RSQ2FtZEFXLUNXQ195VmlRWHYxQ1plQUJtVW8tdlpwSVpYVndpcS1sTGFSYy1UWWh3Z1BDYWJnLVBWODM4bmhQWHlqYzlDNEc1eFliT0hXUzE0ekNwcE9TcFh4NWltbVdpMTNwVXJtMnNxcVJSYzh1SjUtajZvMA?oc=5",
-   "type": null,
-   "time": "2026-11-10T04:46:00Z",
-   "countries": [
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "lpg-strike-postponed-after-talks",
+   "id": "pakistan-tighten-grip-on-first-test-as-sri-lanka",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Pakistan",
-   "headline": "LPG strike postponed after talks",
-   "summary": "KARACHI: The Pakistan LPG Marketers Association has postponed its planned strike after a meeting with Sindh Governor Syed Nehal Hashmi on Monday. The PLPGMA had annou­nced a strike for Nov 16 over the lack of consultation on the LPG policy.",
+   "category": "Sports",
+   "headline": "Pakistan tighten grip on first Test as Sri Lanka struggle at 114-3",
+   "summary": "Pakistan strengthened their hold on the opening Test against Sri Lanka on Tuesday, declaring their first innings at 434 for nine before reducing the visitors to 114 for three at the close of the second day at the Rawalpindi Cricket Stadium.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "LPG strike postponed after talks."
+     "text": "Pakistan tighten grip on first Test as Sri Lanka struggle at 114-3."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan strengthened their hold on the opening Test against Sri Lanka on Tuesday, declaring their first innings at 434 for nine before reducing the visitors to 114 for three at the close of the second day at the Rawalpindi Cricket Stadium."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
+   "type": null,
+   "time": "2026-11-10T15:23:03Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "fia-chief-says-qatar-and-abu-dhabi-grand-prix-to",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions",
+   "summary": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "FIA chief says Qatar and Abu Dhabi Grand Prix to go ahead despite tensions."
     },
     {
      "role": "COMMANDER",
@@ -425,45 +154,283 @@
     },
     {
      "role": "ANALYST",
-     "text": "KARACHI: The Pakistan LPG Marketers Association has postponed its planned strike after a meeting with Sindh Governor Syed Nehal Hashmi on Monday. The PLPGMA had annou­nced a strike for Nov 16 over the lack of consultation on the LPG policy."
+     "text": "This year's Saudi Arabian Grand Prix was scrapped following the outbreak of the US and Israel's war with Iran."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043371/lpg-strike-postponed-after-talks",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/10/fia-chief-says-qatar-and-abu-dhabi-grand-prix-to-go-ahead-despite-tensions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-10T02:03:58Z",
+   "time": "2026-11-10T14:01:09Z",
    "countries": [
-    "Pakistan"
+    "United Arab Emirates",
+    "Qatar",
+    "Saudi Arabia",
+    "United States of America",
+    "Israel",
+    "Iran"
    ]
   },
   {
-   "id": "saudi-led-coalition-reports-houthi-missile-drone",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "uae-selling-saudi-oil-from-supertanker-attacked-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
-   "summary": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa",
+   "category": "UAE",
+   "headline": "UAE selling Saudi oil from supertanker attacked in Gulf",
+   "summary": "UAE selling Saudi oil from supertanker attacked in Gulf",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi-led coalition reports Houthi missile, drone interceptions; Saba reports Saudi strikes on Sanaa."
+     "text": "UAE selling Saudi oil from supertanker attacked in Gulf."
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOODVGNDIwb000V0k3WEJXNF9NTFRITHptR2M2WkdrVEhuM05ZQjNWcFVqNXhfdDFaQ2daNWNvOTB5cVR5a29aejhoTDFqZUtvTXJqaXd6eElFaXpQOHdBMEFSRy1DRWdTWm5tN3NHSjFWVlVTMXRlRzdjVHJjbWZ3QWJobFpBMHFLSUV1d2NzLU1tMF9LTkw3dWw3djdKYnlJUDJqYi13?oc=5",
    "type": null,
-   "time": "2026-11-10T01:53:00Z",
+   "time": "2026-11-10T11:54:11Z",
    "countries": [
-    "Yemen",
+    "United Arab Emirates",
     "Saudi Arabia"
    ]
   },
   {
-   "id": "ukraine-peace-talks-resume-with-some-flexibility",
+   "id": "brent-crude-dips-below-90-for-first-time-since-a",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Brent crude dips below $90 for first time since August on Iran war de-escalation hopes",
+   "summary": "Brent crude dips below $90 for first time since August on Iran war de-escalation hopes",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Brent crude dips below $90 for first time since August on Iran war de-escalation hopes."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Y2hNRTN0UVJqLWY0eVd0dWp2T3RWWC1UTXRXUUNnem9BY09QT3FfdUxDdktQX2ZVd195a3Bpd3NGV3ZmQU05Mk9uUllGZlRmYnR5NXVycGJQMmVnSnc3cVpVNGhzRmN6dlE?oc=5",
+   "type": null,
+   "time": "2026-11-10T10:38:49Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "nvidia-ceo-s-affair-with-an-alleged-chinese-spy-",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy",
+   "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Nvidia CEO’s affair with an alleged Chinese spy could be a problem for the economy."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Why the move?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+    }
+   ],
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3lyMzJwdnl2WkRzbnM2UjAwT3ZSTUZDQTgzbzBiNnJnZWVaRXloREtmSl85dGhjRUZnd2lvUlpkWTFja3BoMHZwbDJIZXl0MWdkdnpwRGlwUHpkMUZ1Vzd4NnpKMWdrN29yczBZa19MSk41Y1lFZTJIT2NfSlVtQTUtMmROZFFqRm9BcFN3QVdpbEtWN29qM3hPOUVUTWI5QkdBQUdRSEhsZnM2NlJjRVZn?oc=5",
+   "type": null,
+   "time": "2026-11-10T17:34:43Z",
+   "countries": [
+    "China",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "u-s-moves-military-aircraft-from-british-base-am",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "high",
+   "category": "World",
+   "headline": "U.S. moves military aircraft from British base amid Iran threats",
+   "summary": "U.S. moves military aircraft from British base amid Iran threats",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "U.S. moves military aircraft from British base amid Iran threats."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjZ4UXBPOUctT3V2bHR5V2x4NFRtX1NqQmx4OVgwdmtCejhDVndySUxORllTRThrNlNoNTZ2WUNDcVlWVWNNeGdNdHFJOFpuRENOLTIzQm8xMDV2VnhzeUEtcFh5Y1M3SDEzVlh5djQ1Y0pkWFBzU1d3MENaZVcyaWRGN0FVcHhXMUozeFd4ZW00NzZoUVZOTktwMUlwOHVDUGMxM2NHQkwwWGNEMk5nQnpfWjZSQQ?oc=5",
+   "type": null,
+   "time": "2026-11-10T12:28:32Z",
+   "countries": [
+    "United Kingdom",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "oil-falls-below-90-amid-easing-us-iran-tensions",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil falls below $90 amid easing US-Iran tensions",
+   "summary": "Oil falls below $90 amid easing US-Iran tensions",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil falls below $90 amid easing US-Iran tensions."
+    }
+   ],
+   "source": "Oil & Gas Journal",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWtZcFVwS19OLUFUX09CZlpacEpWOGZDWXlmU3BLX1ZZQXdjNDdnYUV3YlRuSnBISEpZT2V4bXN6VlBiY3VGX3R5MDVFQXRVM1QtNTZ1Q0FmMHJpTzhfaTdUR045NzFiTG1GMkNiUDBBUHF1dE9zYnBXNmxNbm5hVUtFbXZCUWMyQjFuVmJkNVA1VFJ1Wjh3UHVqVkhhNkdSOExQNklXUWpDNDVCS3RIeHdKNHdwQ2s?oc=5",
+   "type": null,
+   "time": "2026-11-10T17:49:19Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pete-hegseth-decries-impeachment-push-defends-ir",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+   "summary": "Pete Hegseth decries impeachment push, defends Iran war handling",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pete Hegseth decries impeachment push, defends Iran war handling."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03T3lfUjZLX0NDODYzbVR3V1lYSXI1OVpfWkNtNDFjN19vaGhiazZ2TmNFbG1LNlRuQjR3c09VY2djUjlHSngxSFMyeVdiNUVPQ2dLMXE1UGR4TEpTT2FnMVVfdHJROUtSNzJVeVVjdDdWSEJIMS13c3ZPOWJMUQ?oc=5",
+   "type": null,
+   "time": "2026-11-10T13:14:18Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-arabia-downs-missiles-fired-at-riyadh-afte",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "summary": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGxFOUdxQ2o5dlYtdVRVY242bW5XLW4wQlhsWk92c3QxM1RneTJqTENuYkFza01ORTRrMTNaT0tqZTFIcHVkc2ZkVGxnWXJXX01lSkpXWkNvbFExSFo4cjZwQ21CQXU2bGU1YWRzOF9uRjBkc1I3TFZxU2lGSk4zeThZZVdtRWpKNU5PRzJUTFdPXzFscExmSDBiYlRLLUFBZkh2RkxPMWJoWEljcnZNY1JYUUxMUGFF0gG-AUFVX3lxTE91Tml0Z0VtT3U5OXlDQzBWTGp2WHdKb0dZVzBoU05aOEh1eXhYQXZZYVVNNUQyUlhicy14dm1KR3JkUWh0aHZNa3hOdENYZTdOd2JmbHluRmM0M2NJSHllNzF0Um1qUElNc0h2Rm83Q2RHaXhpMW1WdWhRYWxCZDRWVlRhOUVvZ1pUNlFPend1Mk5DMUZQX0dNOVhmWnUxeEhEblVqOG0ySFNCV0hxeTcxblMyeWtaQTBHSTBSUHc?oc=5",
+   "type": null,
+   "time": "2026-11-10T06:22:45Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-beat-nepal-to-set-up-u-19-asia-cup-semi",
+   "country": "Bangladesh",
+   "label": "BANGLADESH",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Pakistan beat Nepal to set up U-19 Asia Cup semi-final against Bangladesh",
+   "summary": "Defending champions Pakistan maintained their unbeaten run in the ACC Men’s U-19 Asia Cup 2026 with a convincing 101-run victory over Nepal at the Al Amerat Cricket Ground in Muscat on Tuesday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan beat Nepal to set up U-19 Asia Cup semi-final against Bangladesh."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Defending champions Pakistan maintained their unbeaten run in the ACC Men’s U-19 Asia Cup 2026 with a convincing 101-run victory over Nepal at the Al Amerat Cricket Ground in Muscat on Tuesday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043568/pakistan-beat-nepal-to-set-up-u-19-asia-cup-semi-final-against-bangladesh",
+   "type": null,
+   "time": "2026-11-10T17:02:11Z",
+   "countries": [
+    "Bangladesh",
+    "Pakistan",
+    "Nepal",
+    "Oman"
+   ]
+  },
+  {
+   "id": "trump-says-more-us-attacks-on-iran-highly-unlike",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says more US attacks on Iran 'highly unlikely'."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-10T09:40:31Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "first-day-of-ukraine-peace-talks-constructive-ze",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -471,26 +438,26 @@
    "flag": "🇺🇦",
    "severity": "watch",
    "category": "World",
-   "headline": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+   "headline": "First day of Ukraine peace talks constructive, Zelensky says",
+   "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say."
+     "text": "First day of Ukraine peace talks constructive, Zelensky says."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "What's the impact?"
     },
     {
      "role": "ANALYST",
-     "text": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February."
+     "text": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February."
     }
    ],
    "source": "bbc.co.uk",
    "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-10T09:07:00Z",
+   "time": "2026-11-10T17:29:36Z",
    "countries": [
     "Ukraine",
     "United States of America",
@@ -499,55 +466,98 @@
    ]
   },
   {
-   "id": "abu-dhabi-talks-ukrainian-delegation-holds-first",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "Abu Dhabi talks: Ukrainian delegation holds first meeting",
-   "summary": "Abu Dhabi talks: Ukrainian delegation holds first meeting",
+   "id": "attacks-escalate-between-saudi-led-forces-and-ye",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
+   "summary": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Abu Dhabi talks: Ukrainian delegation holds first meeting."
+     "text": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate."
     }
    ],
-   "source": "Ukrinform",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU5qRGJyMVlUZV8xdERrai0zd0xnNzVHcUd5bzRyYVQ1dVBYNERiejAtUUVvb0FyWmlWMmZiaEJESTVSeV9QUjNrdF8tSmFHVnJUOVBkaHRfRm04eXQtMkUxRVFUWG9aRmJ5MmNFaGltd3I4UXkxSWFVOXhZOEpjdUhpSmtoYXBXXzdmSTJHZS1qdFZYY2h6b0czOXpYV1FNY0NOR01OLW9GWERvc0xoVtIBtgFBVV95cUxNbG5qeENscDBnOEk4WXJqRnpIbVBkc25DRUJacEtPTjA1OF81Tk9JZXBXaTNYRlF3a0NGYW1JbVU0ZkYwQWV6TG5JNTloVU45N0RPZllBVlh3OGxBNmtvYXNDTlVmT0pwYnpYUGdiNk1obkRxWW5CaHAxb3VVN1BhZkl4QWRkRVV1OHhuNWpXdjY0WVZKNkdMRV8wZk40dlBmWEdkZkFGZ3RPUDBYdWR0QVBTMmpuUQ?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
    "type": null,
-   "time": "2026-11-10T08:25:57Z",
+   "time": "2026-11-10T13:39:22Z",
    "countries": [
-    "United Arab Emirates",
-    "Ukraine"
+    "Saudi Arabia",
+    "Yemen",
+    "Iran"
    ]
   },
   {
-   "id": "spjbc-signs-mou-for-saudi-pakistan-private-equit",
+   "id": "apple-s-m6-macbook-pro-is-good-but-it-s-missing-",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "SPJBC signs MoU for Saudi-Pakistan private equity fund",
-   "summary": "SPJBC signs MoU for Saudi-Pakistan private equity fund",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Apple’s M6 MacBook Pro is good, but it’s missing all the exciting stuff",
+   "summary": "IN contrast to official claims of economic stability, a series of recently released reports provide disturbing evidence of deepening poverty and a human development crisis in Pakistan.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "SPJBC signs MoU for Saudi-Pakistan private equity fund."
+     "text": "Apple’s M6 MacBook Pro is good, but it’s missing all the exciting stuff."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "IN contrast to official claims of economic stability, a series of recently released reports provide disturbing evidence of deepening poverty and a human development crisis in Pakistan."
     }
    ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFAydFp1NUE2WXlqN2hpWl8yd1JDdlNCTGhnRHRYeFhyWnVwdGJmOE5naTBLcUJxc3dMY1NobE1yQUNsNGFTMmNmYk5kMmtmektzRFh1NGd2bzA0Z0pEa21zX3FvcW50TFBZU0FmWHFYZjFiTGMyVzBGMkNwUHRlUjJnemo3VjBKNlUwcTU5MTNBNkZFdGpzMUI3eVhHZw?oc=5",
-   "type": null,
-   "time": "2026-11-10T04:24:05Z",
+   "source": "Ars Technica",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVm1FX2VpZVpoS2VtNGxOemZYV0RYOXVieVNkWVhYUVdGYkpqdm9aRW16d2EydmJHZXEwY3l4MjNST05WaXNVM1dqMzlJS3Yxc085VVpzWjU0UzIzWDdBNmRwdTJmX0VlSG5jQ1pSRXBSOVBPa2ZvQ3d5QjZBSEhCcXJDQVpWTGpTX3NaSEQ5NUhUT1pHdHhxY0tkbXVJcDFVM0E?oc=5",
+   "type": "REVIEW",
+   "time": "2026-11-10T12:00:21Z",
    "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "pakistan-condemns-houthi-attack-on-saudi-aramco-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Pakistan Condemns Houthi Attack on Saudi Aramco Building",
+   "summary": "Pakistan Condemns Houthi Attack on Saudi Aramco Building",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan Condemns Houthi Attack on Saudi Aramco Building."
+    }
+   ],
+   "source": "The Diplomatic Insight",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlRIbnMzQnluVFFlVW5QUXluVDQydHgzZUNjQmktVHo5aWVGY1dYNU9DSHRreERROEN5d3BBX3Y4aExkNDJtS09MNHVVM04xalBoYUZfRW1YallLbkFrelRkRE5SZFZSYkpieExlYm5DWGFYWVRWM3lXak1iTUhnb1gwbzlFRlFoQmQwNE52U2xJUk1k?oc=5",
+   "type": null,
+   "time": "2026-11-10T14:57:48Z",
+   "countries": [
+    "Saudi Arabia",
     "Pakistan",
-    "Saudi Arabia"
+    "Yemen"
    ]
   }
  ]
