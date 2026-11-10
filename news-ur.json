@@ -1,38 +1,73 @@
 {
- "updated": "2026-11-08T20:47:22.710594Z",
+ "updated": "2026-11-10T09:59:28.945425Z",
  "generator": "rss",
  "lang": "ur",
  "stories": [
   {
-   "id": "europe-to-join-u-s-brokered-ukraine-talks-in-abu",
+   "id": "russia-ukraine-and-us-officials-hold-talks-in-ab",
    "country": "United Arab Emirates",
    "label": "متحدہ عرب امارات",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "کریملن کے اعتراضات کو مسترد کرتے ہوئے، یورپ ابوظہبی میں امریکی ثالثی میں ہونے والے یوکرین مذاکرات میں شامل ہو گا",
-   "summary": "کریملن کے اعتراضات کو مسترد کرتے ہوئے، یورپ ابوظہبی میں امریکی ثالثی میں ہونے والے یوکرین مذاکرات میں شامل ہو گا",
+   "headline": "ابوظہبی میں روس، یوکرین اور امریکی حکام کے درمیان مذاکرات ہوئے۔",
+   "summary": "زیلنسکی کا دعویٰ ہے کہ روس کو 'ریکارڈ نقصانات کا سامنا ہے'، جیسا کہ ٹرمپ کا کہنا ہے کہ امریکہ یوکرین میں جنگ کے خاتمے کے لیے 'مضبوط جھکاؤ' دیکھ رہا ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "کریملن کے اعتراضات کو مسترد کرتے ہوئے ابوظہبی میں یوکرین کے درمیان ہونے والے امریکی ثالثی میں ہونے والے مذاکرات میں یورپ شامل ہوگا۔"
+     "text": "روس، یوکرین اور امریکی حکام ابوظہبی میں مذاکرات کر رہے ہیں۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "کوئی جانی نقصان؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "زیلنسکی کا دعویٰ ہے کہ روس کو 'ریکارڈ نقصانات کا سامنا ہے'، جیسا کہ ٹرمپ کا کہنا ہے کہ امریکہ یوکرین میں جنگ کے خاتمے کے لیے 'مضبوط جھکاؤ' دیکھ رہا ہے۔"
     }
    ],
-   "source": "NPR",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXFMOFVmY0FXcE1RbnBtWUFlOG5SbkhCNHBGU2pDcEFTbTJqWHVYSVFCYk9QcmNvTXhQQjdHc1E1alJQR3pFRlpJLVVSa0hfX2tEZVdncE53ZWllUHJBUGt1bEpCV3lHMG8wd2lXLUlPb3U5bEg5TUtXMDRMV3ctQWcwZzBMVnZGa0lQZVA3cVUxdkZGTW92SzIzUFFDUmlo?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes?traffic_source=rss",
    "type": null,
-   "time": "2026-11-08T19:25:30Z",
+   "time": "2026-11-10T02:45:14Z",
    "countries": [
     "United Arab Emirates",
-    "United States of America",
+    "Russia",
     "Ukraine",
-    "Russia"
+    "United States of America"
    ]
   },
   {
-   "id": "saudi-aramco-building-in-riyadh-damaged-in-attem",
+   "id": "after-meeting-qatar-pm-trump-calls-iran-war-effe",
+   "country": "Qatar",
+   "label": "قطر",
+   "lat": 25.3,
+   "lon": 51.2,
+   "flag": "🇶🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "قطر کے وزیر اعظم سے ملاقات کے بعد ٹرمپ نے ایران کی جنگ کو عسکری طور پر ’مؤثر طریقے سے ختم‘ قرار دیا۔",
+   "summary": "قطر کے وزیر اعظم سے ملاقات کے بعد ٹرمپ نے ایران کی جنگ کو عسکری طور پر ’مؤثر طریقے سے ختم‘ قرار دیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "قطر کے وزیر اعظم سے ملاقات کے بعد ٹرمپ نے ایران کی جنگ کو عسکری طور پر ’مؤثر طریقے سے ختم‘ قرار دیا۔"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQk10al9Za09KSVdSOEJFak01MEtXS0I0bHg2Q2wzSmUzSDlEVlpObU41Mjg0aUZhQU5zR1NIbzdTMHJLV1FDbEk5WExHLUF0aUlHVU9CSlpEMXozNVFzSm5PTm4zekxYVmR6YlZLYUtHVUEzREp3UEIzSW1NTksyMWJXZTFiWTRvNW5oSGtQOVY3ZW1uOHdNYXJuWUtnWmhkVTRQWEsxRdIBrAFBVV95cUxOeDVLZnJwdDZ1b2dWamRIanBpZXUtQXE1dVhQeXVmY0haLVRFUDFwa2Zicl9FQTEyUXhFaE40dldBQmR1amhrSkFqd2U3Z1d4RXhSZ1VFTGpmeHpMNERLc2syWFZYLVk3aGtvQk5WZFRYWlRLODE3NEs4UGF4amM2ZEVFSmZJcElHaEpQSlJ2Z2ZsTFh4TUhhb3BqblV2ZHBHaTRPWXNpcDJMeTdG?oc=5",
+   "type": null,
+   "time": "2026-11-10T01:43:36Z",
+   "countries": [
+    "Qatar",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-arabia-downs-missiles-fired-at-riyadh-afte",
    "country": "Saudi Arabia",
    "label": "سعودی عرب",
    "lat": 24.7,
@@ -40,109 +75,33 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "ریاض میں سعودی آرامکو کی عمارت کو ’حملے کی کوشش‘ میں نقصان پہنچا",
-   "summary": "ریاض میں سعودی آرامکو کی عمارت کو ’حملے کی کوشش‘ میں نقصان پہنچا",
+   "headline": "سعودی عرب نے پائپ لائن پر حوثی باغیوں کے حملے کے بعد ریاض پر داغے گئے میزائل کو مار گرایا",
+   "summary": "سعودی فورسز نے اہم مشرقی مغربی پائپ لائن کو نقصان پہنچنے کی اطلاع کے چند گھنٹے بعد ریاض کی طرف داغے گئے دو میزائلوں کو روک دیا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ریاض میں سعودی آرامکو کی عمارت کو ’حملے کی کوشش‘ میں نقصان پہنچا۔"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOam9zc1FkUTVXSWFQS0FvbG5pRlRaTjVyRDNrU0pubVYtU1Q2SUM3T0NuVWltenY4VUNXRGh6LW1fLWRxcFVKWEhyY2ZlODZHdEV5UkJiNkhBOHpYUUY2U3FLNnM3RHpkS3o3Tm9jNnEzUEg1VGdCdmlHV0trMDdEX3p5UWp6XzJFTEtyWlBTUFhocldQcXlJeTg1N3d6d0FSMGk4WVdwZW16Q3Q4dlZTdDVoSm_SAboBQVVfeXFMTnlpdEw5V3RCT3NRU2pOUUdmSExLODRyNVY5US1jTnkyWG9POFRpM3JGMVFEb0ZpZ2ZieFBWd1Brd0kyQll0dlBtenRZQjVoQ2J6UDBQSFlCVDhfNU5obnpHM0lLYkpRVHJvUmt6YkRzc3loMnpiSnUtczlrOHdFTm5rNWVmdlJGbWt2RXhnbUxyaDBoRkN2dXBmM3R1T2JTczhaUEpiV3hZbmpVV1ZSSjh3ZUNQRXFNOVJn?oc=5",
-   "type": null,
-   "time": "2026-11-08T13:19:35Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "aramco-skyscraper-damaged-as-houthis-target-riya",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "آرامکو فلک بوس عمارت کو نقصان پہنچا جب حوثیوں نے ریاض کے مالیاتی ضلع کو نشانہ بنایا",
-   "summary": "ریاض میں آرامکو کی ایک عمارت کو \"حملے کی کوشش\" میں نشانہ بنایا گیا، سعودی وزارت توانائی نے اتوار کے روز کہا، عینی شاہدین نے اے ایف پی کو بتایا کہ فلک بوس عمارت کو نقصان پہنچا، جب سعودی زیرقیادت اتحاد نے حوثیوں سے لڑنے والے میزائلوں کو روکا تھا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "آرامکو فلک بوس عمارت کو نقصان پہنچا جب حوثیوں نے ریاض کے مالیاتی ضلع کو نشانہ بنایا۔"
+     "text": "سعودی عرب نے پائپ لائن پر حوثی باغیوں کے حملے کے بعد ریاض پر داغے گئے میزائل کو مار گرایا۔"
     },
     {
      "role": "COMMANDER",
-     "text": "اقدام کیوں؟"
+     "text": "کیا یہ تصدیق شدہ ہے؟"
     },
     {
      "role": "ANALYST",
-     "text": "ریاض میں آرامکو کی ایک عمارت کو \"حملے کی کوشش\" میں نشانہ بنایا گیا، سعودی وزارت توانائی نے اتوار کے روز کہا، عینی شاہدین نے اے ایف پی کو بتایا کہ فلک بوس عمارت کو نقصان پہنچا، جب سعودی زیرقیادت اتحاد نے حوثیوں سے لڑنے والے میزائلوں کو روکا تھا۔"
+     "text": "سعودی فورسز نے اہم مشرقی مغربی پائپ لائن کو نقصان پہنچنے کی اطلاع کے چند گھنٹے بعد ریاض کی طرف داغے گئے دو میزائلوں کو روک دیا۔"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043061/aramco-skyscraper-damaged-as-houthis-target-riyadh-financial-district",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
    "type": null,
-   "time": "2026-11-08T14:40:08Z",
+   "time": "2026-11-10T03:17:51Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "trump-says-return-to-iran-war-highly-unlikely-if",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ٹرمپ کا کہنا ہے کہ اگر بات چیت آگے بڑھی تو ایران جنگ میں واپسی کا 'انتہائی امکان نہیں'",
-   "summary": "ٹرمپ کا کہنا ہے کہ اگر بات چیت آگے بڑھی تو ایران جنگ میں واپسی کا 'انتہائی امکان نہیں'",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ٹرمپ کا کہنا ہے کہ اگر بات چیت آگے بڑھی تو ایران جنگ میں واپسی کا 'انتہائی امکان نہیں'۔"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGhfQlJBV0N4bk8tTGFDN3BiTEFYajFaRk5Tb3Zxc3FvWVZVVFEtSXYyNFctakNISlo2MlY5cTJPN2syZW9VV1JRWExORm9EQlJqSjdrXzBTZTBWX1pvUUdPMmZjOUxJUjhlbzBOd196b0FPMVVzdXIzdUZFaE43ZVVSNXNPNlViY0RiaTBjaG1weXN3TkdHaVJuWmdQNVBTM3NKZHJuTWg5b3ktZjlTaUdYemc?oc=5",
-   "type": null,
-   "time": "2026-11-08T17:55:52Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "in-first-start-post-liv-jon-rahm-wins-abu-dhabi-",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "LIV کے بعد پہلی شروعات میں، جون رحیم نے متحدہ عرب امارات میں ابوظہبی الدار چیمپئن شپ جیت لی",
-   "summary": "LIV کے بعد پہلی شروعات میں، جون رحیم نے متحدہ عرب امارات میں ابوظہبی الدار چیمپئن شپ جیت لی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "LIV کے بعد پہلی شروعات میں، جون رہم نے متحدہ عرب امارات میں ابوظہبی الدار چیمپئن شپ جیت لی۔"
-    }
-   ],
-   "source": "Central Oregon Daily",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb1o1RFJfS2xuWDd6QmI0aHduZWpPN05DMUFPWHNfVGhhbTdsYkx3UmROVEEzWnN6YUJGTWVjV2MyNGRIZEdOc1NiTWxWU0VURnY5b1ppQTZ2MndkSS1ZQy1FRktSbUVva2JBcWZ1bU1XbUpaSDBKYkE4OUROc3dlYnRqTXJEX29nWFpqQk94VVlGMmh6UHpoTmZjZ3JvMVBTZXFXa2Iyd0JGQ2JvNFdDYUJPeVhGWndSWGRjdHJkejJlZXF3TFd1YncxM3lqQmwybkgtN25BS1dIRjh1QzJpUlp6QlpKc0xuV25iZl9rSDYtTXUwMnB5UQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T17:33:06Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-plays-down-prospect-of-new-strikes-on-iran",
+   "id": "trump-says-more-us-attacks-on-iran-highly-unlike",
    "country": "Iran",
    "label": "ایران",
    "lat": 32.4,
@@ -150,326 +109,12 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "ٹرمپ نے ایران پر نئے حملوں کے امکان کو مسترد کردیا۔",
-   "summary": "ٹرمپ نے ایران پر نئے حملوں کے امکان کو مسترد کردیا۔",
+   "headline": "ٹرمپ کا کہنا ہے کہ ایران پر مزید امریکی حملوں کا 'انتہائی امکان نہیں'",
+   "summary": "صدر کا کہنا ہے کہ امریکہ ایران کے ساتھ \"سٹیٹس کو\" برقرار رکھے ہوئے ہے لیکن صورت حال تبدیل ہونے کی صورت میں \"لاک اینڈ لوڈ\" رہے گا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ٹرمپ نے ایران پر نئے حملوں کے امکان کو مسترد کردیا۔"
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNME42cE40Mk9sODA3dHc5LWNWZTRab1JhY1RmcVA0WklGQ0VOUlRUSkhXc0x2eThQM3lCVE43VlpnSWgwVUFSb29RVW5oZnBPMjFzWXkxYXAxSEUtTHpRcmRFR3pBTUxIX1F4clI5clBrTVNodTRPOHl2c3dlREFqdW9ROWx3R2xoS1JLMWVPSXI?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-08T20:39:47Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "uae-s-foreign-trade-nears-dhs3-trillion-in-9-mon",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "شیخ محمد کہتے ہیں کہ متحدہ عرب امارات کی غیر ملکی تجارت 9 ماہ میں 3 ٹریلین درہم کے قریب ہے۔",
-   "summary": "شیخ محمد کا کہنا ہے کہ متحدہ عرب امارات کی غیر ملکی تجارت 9 ماہ میں 3 ٹریلین درہم کے قریب ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "شیخ محمد کا کہنا ہے کہ متحدہ عرب امارات کی غیر ملکی تجارت 9 ماہ میں 3 ٹریلین درہم کے قریب ہے۔"
-    }
-   ],
-   "source": "Gulf Today",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG52aWFpVld4N1Q4ZzdTN19SdExRNmZIOW1mREN5a2hvUDZlZnQ1bFE1Zm91Zm9HTUtwaWFqQ2o5czF3OU5mNUdHellUT05ldVNEU1RoR21CNGkybWhqaTVFRFo2ajRCZWF1bkdNU2ZzV0ZYV29NUk9DVVlkczYzNVU2THZqMHV1d3NFMTJhNHY5N281Nk8wNUpFOS1tS2d0NVYzOEZXNmY4UFhOS2txakhR?oc=5",
-   "type": null,
-   "time": "2026-11-08T16:27:53Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "hamza-zahoor-s-unbeaten-century-guides-pakistan-",
-   "country": "India",
-   "label": "انڈیا",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "حمزہ ظہور کی ناقابل شکست سنچری نے پاکستان انڈر 19 کو بھارت کے خلاف سنسنی خیز فتح سے ہمکنار کر دیا",
-   "summary": "حمزہ ظہور کی میچ جیتنے والی ناقابل شکست سنچری کی بدولت پاکستان انڈر 19 نے اتوار کو مسقط کے الامیرات کرکٹ گراؤنڈ میں اے سی سی مینز انڈر 19 ایشیا کپ کے گروپ ’اے‘ کے ایک سنسنی خیز مقابلے میں روایتی حریف بھارت کو تین وکٹوں سے شکست دی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "حمزہ ظہور کی ناقابل شکست سنچری نے پاکستان انڈر 19 کو بھارت کے خلاف سنسنی خیز فتح دلائی۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "سمجھ گیا چلو۔"
-    },
-    {
-     "role": "ANALYST",
-     "text": "حمزہ ظہور کی میچ جیتنے والی ناقابل شکست سنچری کی بدولت پاکستان انڈر 19 نے اتوار کو مسقط کے الامیرات کرکٹ گراؤنڈ میں اے سی سی مینز انڈر 19 ایشیا کپ کے گروپ ’اے‘ کے ایک سنسنی خیز مقابلے میں روایتی حریف بھارت کو تین وکٹوں سے شکست دی۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
-   "type": null,
-   "time": "2026-11-08T13:31:38Z",
-   "countries": [
-    "India",
-    "Pakistan",
-    "Oman"
-   ]
-  },
-  {
-   "id": "ind-vs-pak-pakistan-s-hilarious-fielding-blunder",
-   "country": "India",
-   "label": "انڈیا",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "ہندوستان بمقابلہ پاک: انڈر 19 ایشیا کپ میں ہندوستان کے خلاف پاکستان کی مزاحیہ فیلڈنگ کی غلطی وائرل ہوگئی",
-   "summary": "ہندوستان بمقابلہ پاک: انڈر 19 ایشیا کپ میں ہندوستان کے خلاف پاکستان کی مزاحیہ فیلڈنگ کی غلطی وائرل ہوگئی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ہندوستان بمقابلہ پاک: انڈر 19 ایشیا کپ میں ہندوستان کے خلاف پاکستان کی مزاحیہ فیلڈنگ کی غلطی وائرل ہوگئی۔"
-    }
-   ],
-   "source": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQklWSmx2UWgyOG5aN2dBNVFWMkZwVm9jZWE0VEsxUTJITTJwQnRsOVFTWmNiQ2plUXI3NTYwZ2VqYWpHblNCdFBTSERydTdiUDg1aWNLT3BTYVRmdVJwNE9US01xT2NHSlZKT0UwTlZQQi1yR3Blc2xCUktSVDk2M0dQQk1BN2VRM09xaWF4WHNCeGszTFRYbnl5M25sWS14dmNuTVh4d1lJc2cwYU90SF9vQ25fWDdPckVaMjlIVXBUM2QwWWlvN2stMWFPM3lNZHpEZU5VWXEtekZyaVNjT1YtXzZoeUQ4RC16X01hX0hvWHFmNFIzWGppS1BNZzdVWmZJMmwyb9IBjAJBVV95cUxOeXNIZDBVMEFac2JaLUVEZVVSeWo2Rk1NZkdIZm1FWVBDZWttTHgxZWk1VEZmalppNTNGTVBGV0xRMmlpT0I5cUR1OTRiZ0d4WTVjWkVMbUViXzRJamx6MHlPQlZ0OGs0cGZjNVlvcm5HdjlKRTNHSUdjbXFfQ20xRE53N01IVFV6eEJrdVRrSEJpbGRLaHNPZ1N5dWhadXEzVTIyX1lnQnRkTnAtV2taTFBzdzJZaUxOLWFjUWNhSzR3dzU2QjVaX20yQXo4d1ozVUhMMk5YM1RpdEtUcHpHcHdxVXQtRllyQl9mWVdFeUthUEVjemlJVXMzMjUtcFZXOXFqSjNnUHF1Q0xs?oc=5",
-   "type": "VIDEO",
-   "time": "2026-11-08T11:58:00Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iraq-has-reached-understandings-with-us-to-allow",
-   "country": "Iraq",
-   "label": "عراق",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "وزیر کا کہنا ہے کہ عراق نے امریکہ کے ساتھ ہرمز کے راستے تیل کی برآمد کی اجازت دینے کے لیے سمجھوتہ کیا ہے۔",
-   "summary": "وزیر کا کہنا ہے کہ عراق نے امریکہ کے ساتھ ہرمز کے راستے تیل کی برآمد کی اجازت دینے کے لیے سمجھوتہ کیا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وزیر کا کہنا ہے کہ عراق نے امریکہ کے ساتھ ہرمز کے راستے تیل کی برآمد کی اجازت دینے کے لیے سمجھوتہ کیا ہے۔"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcVp2dDBwekFJVEtlai1lemtaZVNTb2FaallsZHhyT2FHTlZHdmpwY3B0SU9HRUpQV2JQQ3E0NWo0VEJpS3B4N1JCTGhkTUhJTHFYUUY3ZkttWmc2RUl1V2dicHdLODBaUEFQSmdySXdHcTJ2VGpIeUlOTlZZd05LZ29wYVdWajhrMzVYa1ZJQl9FTnNjZjFQRmNGc1FoV1dmOFZyOWYzTE1pRndvaGxzSTg1S1B1Z1lxSDZNM3hZWEZmZw?oc=5",
-   "type": null,
-   "time": "2026-11-08T19:26:09Z",
-   "countries": [
-    "Iraq",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-executes-three-men-for-armed-unrest-after-j",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ایران میں جنوری کے مظاہروں کے بعد 'مسلح بدامنی' کے الزام میں تین افراد کو پھانسی دے دی گئی۔",
-   "summary": "دعویٰ کیا جاتا ہے کہ حسن دیوبند، حامد کاظمی اور رضا زنگانہ اس سال کے شروع میں حکومت مخالف مظاہروں کا حصہ تھے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایران میں جنوری کے مظاہروں کے بعد 'مسلح بدامنی' کے الزام میں تین افراد کو پھانسی دے دی گئی۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اب کیا حال ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "دعویٰ کیا جاتا ہے کہ حسن دیوبند، حامد کاظمی اور رضا زنگانہ اس سال کے شروع میں حکومت مخالف مظاہروں کا حصہ تھے۔"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-08T13:37:50Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "africa-s-most-powerful-military-joins-bahrain-ku",
-   "country": "Yemen",
-   "label": "یمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "افریقہ کی سب سے طاقتور فوج بحرین، کویت اور شام میں شامل ہو گئی سعودی عرب کی 1.7 ٹریلین ڈالر کی تیل کمپنی آرامکو پر حوثیوں کے حملوں پر شدید ردعمل",
-   "summary": "افریقہ کی سب سے طاقتور فوج بحرین، کویت اور شام میں شامل ہو گئی سعودی عرب کی 1.7 ٹریلین ڈالر کی تیل کمپنی آرامکو پر حوثیوں کے حملوں پر شدید ردعمل",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "افریقہ کی سب سے طاقتور فوج بحرین، کویت اور شام کے ساتھ سعودی عرب کی 1.7 ٹریلین ڈالر کی تیل کمپنی آرامکو پر حوثیوں کے حملوں پر شدید ردعمل میں شامل ہے۔"
-    }
-   ],
-   "source": "Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORTZJY2VTeGl1Tkd5SkwzbV9PVjRnWXp6TXNqTGJtNFJCOUtSSzNkazBzQ3MxMHotM29TS1BOcHJnMThnbnEzR2lOSlZRcmtRU2ZhM2hCS05PYThfR2lkcmVfcEZNNE9YNUJ0clhSQkRNRks5dExnYVdNNU5YWGRLU3RaWXliT2ZJRENzODlPaUFhNUpQZ01tZ01lTmRzQnk3RnB4RHFyNDhlQnFmZTVQSGUtRkg0RExteEZSYlJnZjk3NFRGOFBCX2ZLdUdRYl83OHRkYW1YTHJ1UQ?oc=5",
-   "type": null,
-   "time": "2026-11-08T17:00:01Z",
-   "countries": [
-    "Yemen",
-    "Bahrain",
-    "Kuwait",
-    "Syria",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-should-kno",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "امریکہ/اسرائیل-ایران جنگ: متحدہ عرب امارات کے رہائشیوں کو آج شام، 8 نومبر کو کیا معلوم ہونا چاہیے۔",
-   "summary": "امریکہ/اسرائیل-ایران جنگ: متحدہ عرب امارات کے رہائشیوں کو آج شام، 8 نومبر کو کیا معلوم ہونا چاہیے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "امریکہ/اسرائیل-ایران جنگ: متحدہ عرب امارات کے رہائشیوں کو آج شام، 8 نومبر کو کیا معلوم ہونا چاہیے۔"
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUVZMGU2QjlHNmNIT2R1WDlxWjgxYXlGNGI5VWNJYzlvUzRLYWo5OGs1NHpaczB0THpacmxMM3h5NjRva19tWnBGZmxEZGc1MGZIZEJLdFA1eHV4OHpnS1lnVnVEV0YzRF9sQ3lOOWN5MktmOHo5eEtfeXRnQURfSFRwNGotMUdGZ05vWGdwMDd5NmhEU3NSeHJRZERvcHNHamdwTmU2bFI0NXJNcXlWRV9SQWJrSDTSAcoBQVVfeXFMT1ZJNlVPOWNTQmJGTFBsc1B0M1NzZzQ4eXBub2dhNV8yYWY4a0JfRU9hZWhEMm50RTJRTWlrSlFrRF85QlpuSllMMUZhWTYxVTBILWJCemlwbVE4dkZITkw1aXZHRXBkY2FlQVdPOHhTOXVvZzZwZU4wMV9nRHhFc1dzWnVXajdoUlVBNE5nODl1X2hUcHlKNGdYbG5TS1dfTUREOHlLQzdpOVg0S3JORzdRQ2pFaUNQdEtqb3dNTVdrY2JpZnQ3SFdNdw?oc=5",
-   "type": null,
-   "time": "2026-11-08T14:55:13Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "34-top-officials-travelling-pakistan-for-leaders",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "قیادت کی تربیت کے لیے 34 اعلیٰ حکام پاکستان کا سفر کر رہے ہیں۔",
-   "summary": "قیادت کی تربیت کے لیے 34 اعلیٰ حکام پاکستان کا سفر کر رہے ہیں۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "قیادت کی تربیت کے لیے 34 اعلیٰ حکام پاکستان کا سفر کر رہے ہیں۔"
-    }
-   ],
-   "source": "New Age BD",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOekhTRjBjVU1CZXFNSkdpSlJkZll3Y0x0eWtUTzhlbWlhOW1VMktRV3RrdVJJdlU1R1k4SFlLalpqNk41WjFzS1d1em03bGRwdTQzbE40Wi04YU44aFR5TFE1NmxlVHl4ODV5YjdPYzI4SFdXcWFUdjVhdEhZa1Z1cUluYzJJb1BaX2VjUWlkU1F1dGI3dDA0dmRWNE02VjYyUVBWOThibmNxVnc?oc=5",
-   "type": null,
-   "time": "2026-11-08T12:12:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "babar-azam-says-selection-not-in-his-hands-as-yo",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "بابر اعظم کا کہنا ہے کہ انتخاب ان کے ہاتھ میں نہیں ہے کیونکہ نوجوان پاکستان کا سری لنکا کا سامنا ہے۔",
-   "summary": "پاکستانی کپتان بابر اعظم کا کہنا ہے کہ ٹیم کا انتخاب سلیکٹرز اور کوچ کی ذمہ داری ہے، انہوں نے مزید کہا کہ ان کا کردار ان کے لیے دستیاب کھلاڑیوں میں سے بہترین کارکردگی کا مظاہرہ کرنا ہے کیونکہ پاکستان کی نوجوان ٹیم دو میچوں کے ابتدائی ٹیسٹ میں سری لنکا کے خلاف تیاری کر رہی ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "بابر اعظم کا کہنا ہے کہ انتخاب ان کے ہاتھ میں نہیں ہے کیونکہ نوجوان پاکستان کا سری لنکا کا سامنا ہے۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ٹھیک ہے، اور کیا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "پاکستانی کپتان بابر اعظم کا کہنا ہے کہ ٹیم کا انتخاب سلیکٹرز اور کوچ کی ذمہ داری ہے، انہوں نے مزید کہا کہ ان کا کردار ان کے لیے دستیاب کھلاڑیوں میں سے بہترین کارکردگی کا مظاہرہ کرنا ہے کیونکہ پاکستان کی نوجوان ٹیم دو میچوں کے ابتدائی ٹیسٹ میں سری لنکا کے خلاف تیاری کر رہی ہے۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043046/babar-azam-says-selection-not-in-his-hands-as-youthful-pakistan-face-sri-lanka",
-   "type": null,
-   "time": "2026-11-08T08:37:31Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "iraq-says-it-lost-60b-from-iran-war-reaches-unde",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "عراق کا کہنا ہے کہ اسے ایران جنگ سے 60 بلین ڈالر کا نقصان ہوا، ہرمز تیل کے راستے پر امریکہ کے ساتھ مفاہمت تک پہنچ گئی۔",
-   "summary": "عراق کا کہنا ہے کہ اسے ایران جنگ سے 60 بلین ڈالر کا نقصان ہوا، ہرمز تیل کے راستے پر امریکہ کے ساتھ مفاہمت تک پہنچ گئی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "عراق کا کہنا ہے کہ اسے ایران جنگ سے 60 بلین ڈالر کا نقصان ہوا، ہرمز تیل کے راستے پر امریکہ کے ساتھ مفاہمت تک پہنچ گئی۔"
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aV1ZuSE4wYy1aUzhoOW83VW1CVVhYNHBBX2pBR0FLeW5vZzlYTmI5SmllMEFUT18waEtyR2FzZWJvSzRka3lnNHRCOTZ0bjdET1VENVp6RnVrUkRn?oc=5",
-   "type": null,
-   "time": "2026-11-08T19:43:43Z",
-   "countries": [
-    "Iran",
-    "Iraq",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "broken-record-pakistan-struggles-with-refugee-in",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "ٹوٹا ہوا ریکارڈ: پاکستان مہاجرین کی آمد کے ساتھ جدوجہد کر رہا ہے۔ امریکہ سوویت یونین کے خلاف ایران کی حمایت کرتا ہے۔",
-   "summary": "جیسے ہی پاکستان نے اپنے پہلے چند اقدامات کیے، وسیع پیمانے پر فرقہ وارانہ تشدد کے درمیان لاکھوں پناہ گزینوں کو رہائش فراہم کرنے کا بڑا لاجسٹک کام ریاست کے لیے ایک بڑا چیلنج تھا۔ ستمبر 8-14، 1947 کے مسائل نے ان مشکل وقتوں کو دستاویزی شکل دی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ٹوٹا ہوا ریکارڈ: پاکستان مہاجرین کی آمد کے ساتھ جدوجہد کر رہا ہے۔ امریکہ سوویت یونین کے خلاف ایران کی حمایت کرتا ہے۔"
+     "text": "ٹرمپ کا کہنا ہے کہ ایران پر مزید امریکی حملوں کا 'انتہائی امکان نہیں'۔"
     },
     {
      "role": "COMMANDER",
@@ -477,50 +122,433 @@
     },
     {
      "role": "ANALYST",
-     "text": "جیسے ہی پاکستان نے اپنے پہلے چند اقدامات کیے، وسیع پیمانے پر فرقہ وارانہ تشدد کے درمیان لاکھوں پناہ گزینوں کو رہائش فراہم کرنے کا بڑا لاجسٹک کام ریاست کے لیے ایک بڑا چیلنج تھا۔ 8-14 ستمبر 1947 کے شماروں نے ان مشکل وقتوں کو دستاویزی شکل دی ہے۔"
+     "text": "صدر کا کہنا ہے کہ امریکہ ایران کے ساتھ \"سٹیٹس کو\" برقرار رکھے ہوئے ہے لیکن صورت حال تبدیل ہونے کی صورت میں \"لاک اینڈ لوڈ\" رہے گا۔"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2042812/broken-record-pakistan-struggles-with-refugee-influx-us-supports-iran-against-the-soviet-union",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-08T10:32:31Z",
+   "time": "2026-11-10T09:40:31Z",
    "countries": [
-    "Pakistan",
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "exclusive-u-s-aircraft-evacuated-from-second-u-k",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "خصوصی | امریکی طیارہ ایران کی دھمکی کی وجہ سے دوسرے یوکے اڈے سے خالی کرا لیا گیا۔",
+   "summary": "WSJ کی رپورٹوں کے مطابق، دو ایندھن بھرنے والے ٹینکرز اور کئی دیگر طیارے RAF ملڈن ہال ایئربیس سے دوسرے مقامات کی طرف موڑ گئے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "خصوصی | امریکی طیارہ ایران کی دھمکی کی وجہ سے دوسرے یوکے اڈے سے خالی کرا لیا گیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مجھے تفصیلات دیں۔"
+    },
+    {
+     "role": "ANALYST",
+     "text": "WSJ کی رپورٹوں کے مطابق، دو ایندھن بھرنے والے ٹینکرز اور کئی دوسرے ہوائی جہاز RAF ملڈن ہال ایئربیس سے دیگر مقامات کی طرف موڑ گئے۔"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0tDaWxJVnFUVzlrbFZ4UlNRWTRpdWdidXRnenUzSVlISnNTT1RNaDRNWC1iWU9PZXdPTHRQUUJOTlJaOFRLdWxodDBhV3hINllRODNtSnVtdVU5ZHZMcWN1Q0h5ejJUVHB2WGpyVWxJU2ZFTGtROC11SUJTdU1DNWt5MUNiRTFfSmNkMjhrcU1aODh6bEQ2SThibDcxMUIzUmx4TDRsR1cxcUNta0E?oc=5",
+   "type": null,
+   "time": "2026-11-10T04:41:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "oil-prices-extend-decline-after-trump-signals-re",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "ٹرمپ کے ایران پر تحمل کے اشارے کے بعد تیل کی قیمتوں میں کمی کا سلسلہ جاری ہے۔",
+   "summary": "ٹرمپ کے ایران پر تحمل کے اشارے کے بعد تیل کی قیمتوں میں کمی کا سلسلہ جاری ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ٹرمپ کے ایران پر تحمل کے اشارے کے بعد تیل کی قیمتوں میں کمی کا سلسلہ جاری ہے۔"
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeWY0eGlzV2FfSkxTRE1BTWZaTjNtWmIxSjJocnF1a2YzbzczUWlWUFBLMDhlWFdkN0s2MFJDNThNTUQyQlRkT0s5bTRfZUpWbnE0QWlmV0lDbXQxQlVXUk41M3M3UF9lWVZ2ekM4QnQ5WXE2N0d0RWNRY3NRNHc2YnBQblFkZTFhQ0ZWWURxa3ljN2FBSU5TWERiMlZqektRZl85YTBqb09zNDNZNjNQVVJn?oc=5",
+   "type": null,
+   "time": "2026-11-10T09:22:00Z",
+   "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "collision-between-2-trains-in-egypt-kills-7-and-",
-   "country": "Egypt",
-   "label": "مصر",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "info",
-   "category": "Business",
-   "headline": "مصر میں 2 ٹرینوں کے درمیان تصادم کے نتیجے میں 7 افراد ہلاک اور 125 زخمی ہو گئے۔",
-   "summary": "مصری دارالحکومت کے جنوب میں اتوار کو دو ٹرینیں آپس میں ٹکرا گئیں، جس سے کئی بوگیاں پٹڑی سے اتر گئیں، حکام کے مطابق چار افراد ہلاک اور درجنوں زخمی ہو گئے۔",
+   "id": "pakistan-declare-at-434-9-as-saud-shakeel-falls-",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "سری لنکا کے پہلے ٹیسٹ میں سعود شکیل سنچری بنانے سے کم رہ گئے، پاکستان نے 434-9 پر ڈیکلیئر کر دیا",
+   "summary": "منگل کو راولپنڈی کرکٹ اسٹیڈیم میں سری لنکا کے خلاف پہلے ٹیسٹ کے دوسرے دن پاکستان نے اپنی پہلی اننگز 434 رنز 9 کھلاڑی آؤٹ پر ڈکلیئر کر دی، سعود شکیل سنچری بنانے سے شدید طور پر کم ہو گئے اور ڈیبیو کرنے والے عرفات منہاس نے قیمتی ہیک کا اضافہ کیا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "مصر میں 2 ٹرینوں کے درمیان تصادم کے نتیجے میں 7 افراد ہلاک اور 125 زخمی ہو گئے۔"
+     "text": "سری لنکا کے پہلے ٹیسٹ میں سعود شکیل سنچری سے دور رہتے ہوئے پاکستان نے 434-9 پر ڈیکلیئر کر دیا۔"
     },
     {
      "role": "COMMANDER",
-     "text": "ٹھیک ہے، اور کیا؟"
+     "text": "کیا یہ تصدیق شدہ ہے؟"
     },
     {
      "role": "ANALYST",
-     "text": "مصری دارالحکومت کے جنوب میں اتوار کو دو ٹرینیں آپس میں ٹکرا گئیں، جس سے کئی بوگیاں پٹڑی سے اتر گئیں، حکام کے مطابق چار افراد ہلاک اور درجنوں زخمی ہو گئے۔"
+     "text": "منگل کو راولپنڈی کرکٹ اسٹیڈیم میں سری لنکا کے خلاف پہلے ٹیسٹ کے دوسرے دن پاکستان نے اپنی پہلی اننگز 434 رنز 9 کھلاڑی آؤٹ پر ڈکلیئر کر دی، سعود شکیل سنچری بنانے سے شدید طور پر کم ہو گئے اور ڈیبیو کرنے والے عرفات منہاس نے قیمتی ہیک کا اضافہ کیا۔"
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR1pDemVhQ0RJdmhpWXA2akRYZHFLSkpCaXlHdUIwRmZab2JCcHdDMEU0VU5QajU2ODBvc21yUm5TLW9oUlRhWVI0Z2FUX2cta21RZFhYSEJIa3R4TjhDQkpnTWlBS0VvZDRhSnowTGlwdThyODM2UlEwTHlHQnM3N0E5LTR5dWlXZEZDZS02T3NlbnBmQ1ZaSXdhV21nbVJWRmZuTWF6Q3g5MDQ?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
    "type": null,
-   "time": "2026-11-08T17:28:00Z",
+   "time": "2026-11-10T09:43:55Z",
    "countries": [
-    "Egypt"
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "donald-trump-qatar-saudi-arabia-seek-peace-us-re",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "ڈونلڈ ٹرمپ: قطر، سعودی عرب امن چاہتے ہیں، امریکا ایران کو نشانہ بنانے کے لیے تیار ہے۔",
+   "summary": "ڈونلڈ ٹرمپ: قطر، سعودی عرب امن چاہتے ہیں، امریکا ایران کو نشانہ بنانے کے لیے تیار ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ڈونلڈ ٹرمپ: قطر، سعودی عرب امن چاہتے ہیں، امریکا ایران کو نشانہ بنانے کے لیے تیار ہے۔"
+    }
+   ],
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweV84Y1A2Z2ZSbmtnbmM2RE1JSXQwdVlFYWpfd0llczRiWnN0c3lKeHdoU0o0QklLRFJWaXlLcXUzMXRZVGtMRTd5WGxwQ0ZYX2pzdDRfc3BtTDlfb2NCb2RFWlV2ZzR2RWc?oc=5",
+   "type": null,
+   "time": "2026-11-10T05:17:13Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Qatar",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "trump-nominates-natalie-baker-for-us-ambassador-",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "ٹرمپ نے نٹالی بیکر کو پاکستان میں امریکی سفیر کے لیے نامزد کر دیا۔",
+   "summary": "وائٹ ہاؤس کے ایک بیان کے مطابق، امریکی صدر ڈونلڈ ٹرمپ نے اسلام آباد میں امریکی سفارت خانے کی موجودہ چارج ڈی افیئرز نٹالی بیکر کو پاکستان میں سفیر کے لیے نامزد کیا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ٹرمپ نے نٹالی بیکر کو پاکستان میں امریکی سفیر کے لیے نامزد کر دیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "یہ کتنا سنجیدہ ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وائٹ ہاؤس کے ایک بیان کے مطابق، امریکی صدر ڈونلڈ ٹرمپ نے اسلام آباد میں امریکی سفارت خانے کی موجودہ چارج ڈی افیئرز نٹالی بیکر کو پاکستان میں سفیر کے لیے نامزد کیا ہے۔"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan",
+   "type": null,
+   "time": "2026-11-10T07:59:13Z",
+   "countries": [
+    "United States of America",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "china-s-trade-surplus-passes-1-trillion-at-recor",
+   "country": "China",
+   "label": "چین",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "چین کا تجارتی سرپلس ریکارڈ رفتار سے 1 ٹریلین ڈالر سے تجاوز کر گیا۔",
+   "summary": "چین کا تجارتی سرپلس ریکارڈ رفتار سے 1 ٹریلین ڈالر سے تجاوز کر گیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "چین کا تجارتی سرپلس ریکارڈ رفتار سے 1 ٹریلین ڈالر سے تجاوز کر گیا۔"
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw?oc=5",
+   "type": null,
+   "time": "2026-11-10T09:00:00Z",
+   "countries": [
+    "China"
+   ]
+  },
+  {
+   "id": "saudi-arabia-confirms-strike-on-east-west-pipeli",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "سعودی عرب نے ایسٹ ویسٹ پائپ لائن پر ہڑتال کی تصدیق کردی",
+   "summary": "سعودی عرب نے ایسٹ ویسٹ پائپ لائن پر ہڑتال کی تصدیق کردی",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "سعودی عرب نے ایسٹ ویسٹ پائپ لائن پر ہڑتال کی تصدیق کردی۔"
+    }
+   ],
+   "source": "The Maritime Executive",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMmFkUlM2WWp3c0RhN25ERTFlZGR0c1QzN3NPdlMtM1JnM0FBN1BmUWJZcUl0N2xJc01qQXM3dW5xNVdDbkJ3NVBVTndtNE9rRjhyVFRnU3FiN09SYm54SGtWQmNQampfQ1R6Ql9BaTdXNERRSUJMZ1JLc3JRTTFBZm1ZRHRmcnV5cnMzdjRkUnNxMDg?oc=5",
+   "type": null,
+   "time": "2026-11-10T01:39:13Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "european-diplomats-press-rubio-for-a-role-in-rus",
+   "country": "Russia",
+   "label": "روس",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "یورپی سفارت کار روبیو پر روس-یوکرین مذاکرات میں کردار ادا کرنے کے لیے دباؤ ڈال رہے ہیں۔",
+   "summary": "ابوظہبی میں امریکہ کی ثالثی میں روس-یوکرین مذاکرات سے قبل پیرس میں جی 7 کے وزرائے خارجہ کا اجلاس ہو رہا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "یورپی سفارت کار روبیو پر روس-یوکرین مذاکرات میں کردار ادا کرنے کے لیے دباؤ ڈال رہے ہیں۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ٹھیک ہے۔ تفصیلات؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ابوظہبی میں امریکہ کی ثالثی میں روس-یوکرین مذاکرات سے قبل پیرس میں جی 7 کے وزرائے خارجہ کا اجلاس ہو رہا ہے۔"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-10T05:02:33Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "France",
+    "United States of America",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-sees-strong-inclination-to-end-russia-ukra",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "ٹرمپ امریکہ کی ثالثی میں ہونے والے امن مذاکرات سے قبل روس-یوکرین جنگ کے خاتمے کے لیے 'مضبوط جھکاؤ' دیکھ رہے ہیں",
+   "summary": "ٹرمپ امریکہ کی ثالثی میں ہونے والے امن مذاکرات سے قبل روس-یوکرین جنگ کے خاتمے کے لیے 'مضبوط جھکاؤ' دیکھ رہے ہیں",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ٹرمپ امریکہ کی ثالثی میں ہونے والے امن مذاکرات سے قبل روس یوکرین جنگ کے خاتمے کے لیے 'مضبوط جھکاؤ' دیکھ رہے ہیں۔"
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTR4b1RSQ2FtZEFXLUNXQ195VmlRWHYxQ1plQUJtVW8tdlpwSVpYVndpcS1sTGFSYy1UWWh3Z1BDYWJnLVBWODM4bmhQWHlqYzlDNEc1eFliT0hXUzE0ekNwcE9TcFh4NWltbVdpMTNwVXJtMnNxcVJSYzh1SjUtajZvMA?oc=5",
+   "type": null,
+   "time": "2026-11-10T04:46:00Z",
+   "countries": [
+    "United States of America",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "lpg-strike-postponed-after-talks",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "ایل پی جی کی ہڑتال مذاکرات کے بعد ملتوی کر دی گئی۔",
+   "summary": "کراچی: پاکستان ایل پی جی مارکیٹرز ایسوسی ایشن نے پیر کو گورنر سندھ سید نہال ہاشمی سے ملاقات کے بعد اپنی منصوبہ بند ہڑتال ملتوی کردی۔ ایل پی جی پالیسی پر مشاورت نہ ہونے پر PLPGMA نے 16 نومبر کو ہڑتال کا اعلان کیا تھا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایل پی جی کی ہڑتال مذاکرات کے بعد ملتوی کر دی گئی۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "کوئی جانی نقصان؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "کراچی: پاکستان ایل پی جی مارکیٹرز ایسوسی ایشن نے پیر کو گورنر سندھ سید نہال ہاشمی سے ملاقات کے بعد اپنی منصوبہ بند ہڑتال ملتوی کردی۔ ایل پی جی پالیسی پر مشاورت نہ ہونے پر PLPGMA نے 16 نومبر کو ہڑتال کا اعلان کیا تھا۔"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043371/lpg-strike-postponed-after-talks",
+   "type": null,
+   "time": "2026-11-10T02:03:58Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-reports-houthi-missile-drone",
+   "country": "Yemen",
+   "label": "یمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "سعودی زیرقیادت اتحاد نے حوثی میزائلوں، ڈرونوں کو روکنے کی اطلاع دی۔ صبا نے صنعا پر سعودی حملوں کی خبر دی ہے۔",
+   "summary": "سعودی زیرقیادت اتحاد نے حوثی میزائلوں، ڈرونوں کو روکنے کی اطلاع دی۔ صبا نے صنعا پر سعودی حملوں کی خبر دی ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "سعودی زیرقیادت اتحاد نے حوثی میزائلوں، ڈرونوں کو روکنے کی اطلاع دی۔ صبا نے صنعا پر سعودی حملوں کی خبر دی ہے۔"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeEFMZHZXSnB4Q1RWMGxYRGJrYUFLdXBsc2ZGcmowbDhlNGVjMWxtOWt6bno5WWZnd2F2NVNncnJKdFM1bm1QU2RGQmNNOFBXampZcHpYLU1mdGxIRFJ4Z0drcHcyNHYtTmhVWEVlY0FldWp1d3ZoWlpoZXljR2w1b1lvb2pSR3owY2tnbUF2MDFYQXZlNUxsUUM1TGdaQ1lJZ3ZSUzl6cVp2czBFeTA3akRSS19vMTR3LW1qcGZGUExhbEJQTlpzSFdfNGc2dw?oc=5",
+   "type": null,
+   "time": "2026-11-10T01:53:00Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "ukraine-peace-talks-resume-with-some-flexibility",
+   "country": "Ukraine",
+   "label": "یوکرین",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "امریکی حکام کا کہنا ہے کہ یوکرین امن مذاکرات متحارب فریقوں کی طرف سے 'کچھ لچک' کے ساتھ دوبارہ شروع ہو رہے ہیں۔",
+   "summary": "کیف، واشنگٹن اور ماسکو نے فروری کے بعد پہلے سہ فریقی مذاکرات کے لیے تمام وفود متحدہ عرب امارات بھیجے ہیں۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "امریکی حکام کا کہنا ہے کہ یوکرین امن مذاکرات متحارب فریقوں کی طرف سے 'کچھ لچک' کے ساتھ دوبارہ شروع ہو رہے ہیں۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ٹھیک ہے۔ تفصیلات؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "کیف، واشنگٹن اور ماسکو نے فروری کے بعد سے پہلے سہ فریقی مذاکرات کے لیے تمام وفود متحدہ عرب امارات بھیجے ہیں۔"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-10T09:07:00Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "abu-dhabi-talks-ukrainian-delegation-holds-first",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "ابوظہبی مذاکرات: یوکرائنی وفد نے پہلی ملاقات کی۔",
+   "summary": "ابوظہبی مذاکرات: یوکرائنی وفد نے پہلی ملاقات کی۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ابوظہبی مذاکرات: یوکرائنی وفد نے پہلی ملاقات کی۔"
+    }
+   ],
+   "source": "Ukrinform",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSU5qRGJyMVlUZV8xdERrai0zd0xnNzVHcUd5bzRyYVQ1dVBYNERiejAtUUVvb0FyWmlWMmZiaEJESTVSeV9QUjNrdF8tSmFHVnJUOVBkaHRfRm04eXQtMkUxRVFUWG9aRmJ5MmNFaGltd3I4UXkxSWFVOXhZOEpjdUhpSmtoYXBXXzdmSTJHZS1qdFZYY2h6b0czOXpYV1FNY0NOR01OLW9GWERvc0xoVtIBtgFBVV95cUxNbG5qeENscDBnOEk4WXJqRnpIbVBkc25DRUJacEtPTjA1OF81Tk9JZXBXaTNYRlF3a0NGYW1JbVU0ZkYwQWV6TG5JNTloVU45N0RPZllBVlh3OGxBNmtvYXNDTlVmT0pwYnpYUGdiNk1obkRxWW5CaHAxb3VVN1BhZkl4QWRkRVV1OHhuNWpXdjY0WVZKNkdMRV8wZk40dlBmWEdkZkFGZ3RPUDBYdWR0QVBTMmpuUQ?oc=5",
+   "type": null,
+   "time": "2026-11-10T08:25:57Z",
+   "countries": [
+    "United Arab Emirates",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "spjbc-signs-mou-for-saudi-pakistan-private-equit",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "SPJBC نے سعودی پاکستان پرائیویٹ ایکویٹی فنڈ کے لیے مفاہمت کی یادداشت پر دستخط کر دیے۔",
+   "summary": "SPJBC نے سعودی پاکستان پرائیویٹ ایکویٹی فنڈ کے لیے مفاہمت کی یادداشت پر دستخط کر دیے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "SPJBC نے سعودی پاکستان پرائیویٹ ایکویٹی فنڈ کے لیے مفاہمت کی یادداشت پر دستخط کر دیے۔"
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFAydFp1NUE2WXlqN2hpWl8yd1JDdlNCTGhnRHRYeFhyWnVwdGJmOE5naTBLcUJxc3dMY1NobE1yQUNsNGFTMmNmYk5kMmtmektzRFh1NGd2bzA0Z0pEa21zX3FvcW50TFBZU0FmWHFYZjFiTGMyVzBGMkNwUHRlUjJnemo3VjBKNlUwcTU5MTNBNkZFdGpzMUI3eVhHZw?oc=5",
+   "type": null,
+   "time": "2026-11-10T04:24:05Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia"
    ]
   }
  ]
