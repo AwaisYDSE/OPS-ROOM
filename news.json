@@ -1,273 +1,262 @@
 {
- "updated": "2026-11-12T08:24:50.780010Z",
+ "updated": "2026-11-12T17:07:57.062477Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "uk-police-question-nato-assigned-us-soldier-accu",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "UK police question Nato-assigned US soldier accused of spying for Russia",
-   "summary": "UK police were questioning on Wednesday a senior American soldier assigned to Nato and suspected of spying for Russia, after his arrest amid a joint investigation with the US military and law enforcement.",
+   "id": "trump-says-us-does-not-need-iran-deal-directs-va",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+   "summary": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UK police question Nato-assigned US soldier accused of spying for Russia."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "UK police were questioning on Wednesday a senior American soldier assigned to Nato and suspected of spying for Russia, after his arrest amid a joint investigation with the US military and law enforcement."
+     "text": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043844/uk-police-question-nato-assigned-us-soldier-accused-of-spying-for-russia",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
    "type": null,
-   "time": "2026-11-11T19:47:57Z",
+   "time": "2026-11-12T16:28:53Z",
    "countries": [
-    "United Kingdom",
     "United States of America",
-    "Russia"
+    "Iran"
    ]
   },
   {
-   "id": "10-police-18-militants-killed-in-pakistan-s-nort",
+   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+   "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE says 14 killed, 30 injured in Fujairah traffic accident."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-12T16:23:29Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-releases-two-sisters-of-ex-pm-imran-kha",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
+   "severity": "high",
    "category": "Pakistan",
-   "headline": "10 police, 18 militants killed in Pakistan’s northwest",
-   "summary": "10 police, 18 militants killed in Pakistan’s northwest",
+   "headline": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
+   "summary": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "10 police, 18 militants killed in Pakistan’s northwest."
+     "text": "Pakistan releases two sisters of ex-PM Imran Khan from jail."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the situation now?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest."
     }
    ],
-   "source": "Bangkok Post",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnp2R1V6WTRMalEwVVh6RkFKNVRjQ0UtOUw3eE9kZEQ4dzAwdWQyV01jTHg4VHVOenRudkYxNE84TjZUXzJlLVBPRjNkS1FmTV9NWHcxUmVhWHdzWW13SlQ0X25DUEtTR0gyODBiZlBjS2t6MXBVbGNDQk1GTXBHT2hjeWZmUUdFVnRka202OWJlSm5vdFhjSFdB?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T03:45:00Z",
+   "time": "2026-11-12T12:12:17Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "saudi-arabia-intercepts-houthi-missiles-drones-g",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
-   "summary": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+   "id": "abu-dhabi-police-arrest-10-after-nurmagomedov-an",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl",
+   "summary": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca."
+     "text": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl."
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGxVNnZOVWtLWUlBU0hJa3dVQTNpV2w5TDRxemFQd2xLNmM4Z2hRcnZNcmlkTG1LODhrRG82bk8tZDBHXzlscWhoc1VUQVpaMkdaLUppN1N5NlJfTmNGRFR5eGtSX1ptNWJERFBxX1VqSzJuVXkyaFdpcmVTbTFTaGhmY242bWMxaTlrdnAtM3hJYlhvSjdxVXlwVXExTEt3dDhQTlkwUnphUlQ4ZFdCX2ZZNVNvOUs1UFBqV1d2TmI?oc=5",
    "type": null,
-   "time": "2026-11-11T20:57:51Z",
+   "time": "2026-11-12T14:49:25Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "oil-prices-sink-as-iran-and-ukraine-peace-optimi",
+   "id": "trump-says-he-s-pulling-vance-off-iran-talks-to-",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
-   "summary": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds."
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmJCZTBCRGFhVEkwMjFLNUxQVTI3MDVISzMtb1F5ZDZTTjF2RWIxS2tiTVA5eU1XTml0elVvdEtqQi1lZzVWZEd2NnZPbWc3OXhxZElodXR0WVRfN3d4VGtkcjQ0bHR6cDVJTmpSS2Z3NnoyR1Y0VlhkR2VJTnRXOFk4WXg0MXV3RlczTVB1OVNtSjFqUHVaLVZHOUNyb1RjTkpqaDVqc3FMOGVsTm1VY3NTb9IBuAFBVV95cUxQSTl2T3JrUVphV2RpSmstMU9rcTB2cG12T1lWZmxXX1huYkJtUzhDaU5LVmpGMzZhU2ZZLVFaLUdrQXVjcTNEWWVpc2pxQ2NQcnRobElFS3pmUllSa0YtQnJLektjN0luX3hfakVHNE9TbElTemluRWZ4SE1YYVJEOUdMZnljcXdtRTZ5LUZzMlduaHIzUHpKNlNrMmxuc3VPWnJrcVEwTExoN01JS3kyTzJQejVXbjJZ?oc=5",
-   "type": null,
-   "time": "2026-11-12T06:35:48Z",
-   "countries": [
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "oil-production-nears-pre-iran-war-levels-opec-sa",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Oil production nears pre-Iran war levels, OPEC says",
-   "summary": "Oil production nears pre-Iran war levels, OPEC says",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil production nears pre-Iran war levels, OPEC says."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5",
-   "type": null,
-   "time": "2026-11-11T21:13:47Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "us-envoys-in-moscow-for-meeting-with-putin-follo",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
    "severity": "watch",
-   "category": "World",
-   "headline": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi",
-   "summary": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi",
+   "category": "Middle East",
+   "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "summary": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi."
+     "text": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign."
     }
    ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dmZEs0Q1VzOXpTVDd6X2NGWW9Gd3BwXzl6V3gyRV84aXNna2c4NGI1bzZKS2NaWF84VnNTMVdleEUxMmRwNTF0WnJfdVlnYUVocHl5UHZET3pLQWpLZGh3SlcxVHcweVlXbS1tU1lDQWJya2x0WkdyWjZYTVJoS0dVZHZYUzhqUGRWS3htdDB0ZXI0WXk1TWVRZGRaaFlCNzQtcUFn?oc=5",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
    "type": null,
-   "time": "2026-11-12T08:05:28Z",
-   "countries": [
-    "Russia",
-    "United States of America",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "russo-ukrainian-war-day-1722-russia-sends-heavie",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims",
-   "summary": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims."
-    }
-   ],
-   "source": "Euromaidan Press",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXduMnd5Z1FNMUZ4X1JFdTlOczJFR1JPRnFTRHVJcFFMbHlxX0xEa1MtZnJ4a1lFaU1GV25vZDFaVVlwUEhUUHExanRxNlFneEk5OW84R0g5UngxRVk2bkw3MWRXT3FENlhjSVd3VHBKcC13dS1KOWdJS1l3STY1NTU3UTJWalRfMlFzRXJqRXhrUG5rZkcybDFnWHR5ZE93M1J3cVJYdDdVR3RVbGpJZnVGaWpHQzdOZ0pYb2J0RF9XQzBWa0pRemtReG9aVDFzb0lVRWRDMWxWa0hvUmxXdUhvQm44TmplUDl6VG42MTd4SjhxQjdJU2ItcTdYV0tPMERQazRTSQ?oc=5",
-   "type": null,
-   "time": "2026-11-12T07:31:23Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "debutant-saqib-khan-takes-seven-as-pakistan-rest",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Debutant Saqib Khan takes seven as Pakistan restrict Sri Lanka to slender lead",
-   "summary": "Debutant fast bowler Saqib Khan produced a remarkable seven-wicket haul as Pakistan restricted Sri Lanka to a slender 12-run first-innings lead on the fourth day of the opening Test at the Rawalpindi Cricket Stadium on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Debutant Saqib Khan takes seven as Pakistan restrict Sri Lanka to slender lead."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Debutant fast bowler Saqib Khan produced a remarkable seven-wicket haul as Pakistan restricted Sri Lanka to a slender 12-run first-innings lead on the fourth day of the opening Test at the Rawalpindi Cricket Stadium on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead",
-   "type": null,
-   "time": "2026-11-12T07:24:15Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "oil-prices-fall-as-investors-weigh-u-s-iran-dipl",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy",
-   "summary": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
-   "type": null,
-   "time": "2026-11-12T07:29:00Z",
+   "time": "2026-11-12T14:36:29Z",
    "countries": [
     "Iran",
     "United States of America"
    ]
   },
   {
-   "id": "israeli-strike-on-hospital-kills-at-least-five-p",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-   "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Sports",
+   "headline": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics",
+   "summary": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says."
+     "text": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
+   "type": null,
+   "time": "2026-11-12T11:37:09Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "ukraine-says-military-starlink-disrupted-again-a",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-12T16:31:12Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "what-have-the-talks-with-russia-and-the-us-in-ab",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+   "summary": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?."
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFRhM29zNjVOZXc4UjdlMmVtOTA1SDBNTV9wZHgwZTQ4aHJNWmp4VUZ2RkZ1eWYteUVkdmwwTWFCRjA4SnR1WjVXaGJvU1ZBRDZDSllkVnBDZlhkQzhYWDBDV1hMbWFZN21pa284V1Z5UHpVM0NON3A3aDlfeHZhRUswcl9XWWU4RUlXTU4zUVJrYzV2Z3FBOVJtS1djdFNsOHdOeDJDMmltN0JtQVHSAa4BQVVfeXFMTnY0RU16dUFOWW40TUVidU9lVTl5eU94Z1psQ19oYlBrX2gyUHY0UGxmS1BrUDZSTXRybnFndTJWXzRoaUlsZlNEc1B5TkZqbVVtdWpBYUl2UjNVc0E2NjdtYnVqMk1yWE52OWNkMTRYR2pEM19zRkQzbzN1clRFWnVYZkhFR1Y2bFVINnBxaFhlRDRNWWdwaFlsb3dXTUFNbDBSUWRJYlZyT25leGJ3?oc=5",
+   "type": null,
+   "time": "2026-11-12T16:52:30Z",
+   "countries": [
+    "United Arab Emirates",
+    "Russia",
+    "United States of America",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "uk-court-finds-two-iranian-men-guilty-of-spying-",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "critical",
+   "category": "World",
+   "headline": "UK court finds two Iranian men guilty of spying for Iran",
+   "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UK court finds two Iranian men guilty of spying for Iran."
     },
     {
      "role": "COMMANDER",
@@ -275,46 +264,45 @@
     },
     {
      "role": "ANALYST",
-     "text": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says."
+     "text": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wMjBISTdTSzZGQzZGVHJWUE1aQUIxaXlyRkhWei1yVi02UmJoNEJSdjRIQWxjYlo4MldUV19vOG9OanNWVWNIelY1cFlhOUJDQUJLTl9GVjNaT2s?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T06:12:05Z",
+   "time": "2026-11-12T15:15:48Z",
    "countries": [
-    "Israel",
-    "Palestine"
+    "United Kingdom",
+    "Iran"
    ]
   },
   {
-   "id": "kushner-witkoff-do-the-abu-dhabi-shuffle-ukraine",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?",
-   "summary": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?",
+   "id": "four-tankers-struck-by-explosions-in-strait-of-h",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
+   "summary": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?."
+     "text": "Four tankers struck by explosions in Strait of Hormuz, Iran says."
     }
    ],
-   "source": "Responsible Statecraft",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wU01zOWQ4RmlLLWVxaktCMmczTVktQ0Fhd2g3UHNTam1xLXZONG45X1lxd0MzZXlGQXR1cDNZbG1zN0gyYXdBcElJS0FZdFVvd29XdWtwUTBhQUIwZXgzN3ZxbFNORmgwc3V0Z2o3TQ?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
    "type": null,
-   "time": "2026-11-12T05:07:43Z",
+   "time": "2026-11-12T16:27:35Z",
    "countries": [
-    "United Arab Emirates",
-    "Ukraine"
+    "Iran"
    ]
   },
   {
-   "id": "-significant-evidence-of-placer-gold-in-punjab-r",
+   "id": "ten-police-officers-18-fighters-killed-in-northw",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -322,53 +310,73 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "'Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum",
-   "summary": "Punjab Chief Minister Maryam Nawaz said on Thursday that there was “significant evidence” of “sufficient quantities” of placer gold flowing in the province’s five rivers.",
+   "headline": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+   "summary": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Punjab Chief Minister Maryam Nawaz said on Thursday that there was “significant evidence” of “sufficient quantities” of placer gold flowing in the province’s five rivers."
+     "text": "Ten police officers, 18 fighters killed in northwest Pakistan attack."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/significant-evidence-of-placer-gold-in-punjab-rivers-says-cm-maryam-at-minerals-investment-forum",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1EyZEVPSGEzVExyQ2lZSE5kX2pDYzRpXzc5U3dsMnp1aWlwWWhURzhpUmtjbGliOC1RdG5KY21DbGdfV0JUWU9TNWQtQ0k3WEZjczdPSTJEcktseDNVZTJfOVVqZlFCYWE3MHIzNFpYTkR4T00xY2FiSnNSdEFXMzBqVllRU3RBT1ZGOWdPRXFjTkd6VE1lcDkwaGpKQnVlQXRRRmFxa2huV1QxSUHSAbMBQVVfeXFMUFI0dmR5M2pRekxQMjU4eTRIbS1Jd2dNUjJYZHVMc0Z2VFMzTEUzSTVYNHBLSS1oOFVxekpoX2JKSS1PQTBNS3RiWEhoVGFpYXlnWXhCY2VSOHphWU1VNnlpQnJHa2IyR1ExZjRMM1Z0VDhoWWNvbWdzcnAzMGJXLTlMYzNIN0E5UzFwMHd5OFY1d290OHUtMHlKSHhNdktVSkFFdWV1MFctM1huaTJNM1htaDA?oc=5",
    "type": null,
-   "time": "2026-11-12T08:21:25Z",
+   "time": "2026-11-12T15:36:57Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "blackstone-expands-gulf-wealth-business-with-new",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
+   "id": "ukraine-says-it-s-facing-new-restrictions-to-the",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "info",
-   "category": "UAE",
-   "headline": "Blackstone expands Gulf wealth business with new Dubai office",
-   "summary": "Blackstone expands Gulf wealth business with new Dubai office",
+   "category": "World",
+   "headline": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin",
+   "summary": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Blackstone expands Gulf wealth business with new Dubai office."
+     "text": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin."
     }
    ],
-   "source": "Arabian Gulf Business Insight | AGBI",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblNkSlNkTWZRTWE5Z0czOFdNRnVpRDJpT09CWjlYX3dZTEtjMHZYZGh5cUVCcFREZ0Q5OU5ELXZkcThHMEo2Vm9RaVRFcVp2dFdHQVQ3NFctSzlUd2RRMno3THFKSExHdkhzbWotQ2xkcEhyNzE0ZWxBZ3ZYeGFhbUowWTJEVzhNdHZMNUtXd19nZGhqQ3dGclJGRy1ZMzhR?oc=5",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVV3X1BzOWx3UU9VR014QVVGbW5JY0g5amxBWTZ3M1pOM25yT0RONVl4ZlJObzhFT0UwSk9MRzkwMkhVVFl1dm1LZURjaXZCcGxHSEJnWFFUd0J6WXBjX21oNUlEcEQwYWRQWmI3eDE5aUw5VjE5aU0tT1FSZTg5NWVKNUxBWVNGSmh4UWx4Szk3V19SWDQxX296em4?oc=5",
    "type": null,
-   "time": "2026-11-12T08:00:33Z",
+   "time": "2026-11-12T14:57:08Z",
    "countries": [
-    "United Arab Emirates"
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "trump-says-no-iran-deal-needed-oil-prices-jump",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Trump Says No Iran Deal Needed; Oil Prices Jump",
+   "summary": "Trump Says No Iran Deal Needed; Oil Prices Jump",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump Says No Iran Deal Needed; Oil Prices Jump."
+    }
+   ],
+   "source": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0tGUzhUdGRpalBFNVA1bFhEdVViX050NnMxR1IwODFiWkhxQTAzZW1jYnFJNTdPdG9PQmo3Vzl2M0h1MzJIMXhXY2ppNHphYUM4RllNcjhsNFVELVpQcGNrdUdjSFNBb1AtcDdOa21YWXUyUHltY0l0WFM0NWthWUpWOVNlR1E1T21Heg?oc=5",
+   "type": null,
+   "time": "2026-11-12T14:47:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -380,18 +388,18 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)",
-   "summary": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)",
+   "headline": "US-Israel-Iran war: What UAE residents need to know this evening, November 12",
+   "summary": "US-Israel-Iran war: What UAE residents need to know this evening, November 12",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)."
+     "text": "US-Israel-Iran war: What UAE residents need to know this evening, November 12."
     }
    ],
    "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkN1X2laOFpQbmlGY01oYmZVeEM1Uk5YeWh6MDl2QkhkSW5ael9iQl9FaGFmS0JKUnVtcW1vdTg1MXY2VEZCSmFYNkxBenJZY1M2VV9DTFNNSGN4N1o1WWdZTzR6YmQ2M3Uxem03RThLMUo1MWVsTWttRE9CUmFoTzd1QzBBNmsyQlgtZ1hNZ2c0NFFhOFphTXAwMHhrYUxIVWlOWUltVdIBtwFBVV95cUxPYlV4SWgybFk2U2I3cDdrUTNCZlE2R192dlhrOVd0bUpRODlOLVE4Ukp3RHhOOVZTUjFJZ1AteFZzdHh3SUd4MWN4Ty01a0VyaHdsWEV2NmRWSWhXOFVraEFTX1lhMWxsU3pGMDdmVXJOaFZZS1ZCT3RCd1d1ck1VX01DbWx4Zm1fSzNBNXU0WngxOW5OVFE5ek9KVFhGX3RFNkVubG1FWjNvZ3pIaHZteTlRVXJfVk0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVlBR0VNbHNiQ1hPV1MxaG1tb3dadEhkODR4ZVQxWFB1azhJOVdYLTF0bk1FaUZHVlpGaHdqSTRZVVBZeEUzd3hXNzIwdnN2Z21CV1VISERiSmlzOGhzdHZSYWpoaXI5R2RTVXNhVzI1dUoxbnJpbEtjY0pGXy1NeUZxbmRSWkFJTEpvVDZFTktBSTlydXJGdVdkaTd4cjFDVXlNdFZLbmNYbjYxSDgzcExaVEdHSWtndWNDb3JNbmdrd9IB1AFBVV95cUxNdUlnMFUyS21WWEdOdXVidkZVZ2czYlRjWUxHQTVuSmdqNDVudnp2Z2VDdUtMR0JBVjJKSjRwVW93TGc2dEozcHVFMkZ5YlpYYnlSYkkyYXFhUEdQb1VpTGVsdzBvSUtYRzJKQnk0U3ZOc0xpNHpGTWNFZWhuaDJwWmtSaktKRjdGMklHa19sUlJaQnVCXzF1aW41b2g5aWNRb3dOZERpdWVCbHg0Yk9iNVZEZkZkTW1QelZ6cVBBbE1UNGQzOW90dUNJSUtkUlB2Q0NjMQ?oc=5",
    "type": null,
-   "time": "2026-11-12T07:54:51Z",
+   "time": "2026-11-12T14:41:40Z",
    "countries": [
     "United States of America",
     "Israel",
@@ -400,45 +408,54 @@
    ]
   },
   {
-   "id": "merab-dvalishvili-usman-nurmagomedov-involved-in",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi",
-   "summary": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi",
+   "id": "canadian-mining-company-signs-mou-with-mari-ener",
+   "country": "Canada",
+   "label": "CANADA",
+   "lat": 56.1,
+   "lon": -106.3,
+   "flag": "🇨🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Canadian mining company signs MoU with Mari Energies in South Asia push",
+   "summary": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi."
+     "text": "Canadian mining company signs MoU with Mari Energies in South Asia push."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum."
     }
    ],
-   "source": "Bleacher Report",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVZmTktxcUh1N0lJNmtMRS16R2FXbjVyQnB0cjMzUnZZVjJaTE4zcUZWbEdmZXZzVXZjaWR3TXQ2a0VNdHlxQml1ZlRtakpuYXYzdUFrMjZIMVMzWXNhR2FueFZtb1A3VTZVQnQzV011RzZ2VmhFVkZtWU9FcDFFZkF3UmxLRkZINkd4Z25SSmRyTkZWUFZjcWNjTHo0VGNIaEstdkVuTlN6ekVyb0dOWG84MVhDdEsyZEFrX05QWFFTR0s0cEdoR2VR?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
    "type": null,
-   "time": "2026-11-11T19:22:19Z",
+   "time": "2026-11-12T13:36:04Z",
    "countries": [
-    "United Arab Emirates"
+    "Canada",
+    "Pakistan"
    ]
   },
   {
-   "id": "protesters-clash-with-police-after-housing-cost-",
-   "country": "Spain",
-   "label": "SPAIN",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
+   "id": "israeli-strike-on-gaza-s-nasser-hospital-kills-a",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
    "severity": "critical",
-   "category": "World",
-   "headline": "Protesters clash with police after housing cost rallies in Spain",
-   "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
+   "category": "Middle East",
+   "headline": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
+   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Protesters clash with police after housing cost rallies in Spain."
+     "text": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say."
     },
     {
      "role": "COMMANDER",
@@ -446,75 +463,83 @@
     },
     {
      "role": "ANALYST",
-     "text": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years."
+     "text": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-   "type": "PHOTOS",
-   "time": "2026-11-12T08:01:29Z",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
+   "type": null,
+   "time": "2026-11-12T16:23:30Z",
    "countries": [
-    "Spain"
+    "Palestine",
+    "Israel"
    ]
   },
   {
-   "id": "ukraine-s-power-supply-close-to-critical-as-russ",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "-no-war-no-peace-can-iran-break-the-deadlock-wit",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "category": "Middle East",
+   "headline": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+   "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold."
+     "text": "‘No war, no peace’: Can Iran break the deadlock with the US?."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+     "text": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T07:59:33Z",
+   "time": "2026-11-12T14:27:54Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "de-silva-kusal-centuries-put-sri-lanka-in-comman",
-   "country": "Sri Lanka",
-   "label": "SRI LANKA",
-   "lat": 7.9,
-   "lon": 80.8,
-   "flag": "🇱🇰",
-   "severity": "info",
+   "id": "suspected-bomb-hoax-threats-force-fresh-evacuati",
+   "country": "Italy",
+   "label": "ITALY",
+   "lat": 41.9,
+   "lon": 12.6,
+   "flag": "🇮🇹",
+   "severity": "critical",
    "category": "World",
-   "headline": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test",
-   "summary": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test",
+   "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test."
+     "text": "Suspected bomb hoax threats force fresh evacuations of Italian schools."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     }
    ],
-   "source": "Dawn",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaF9TNWZvLVZkYWRRcGZoU252cFBBUUtsM3dkdE9LSHBkVUh5UFRhUnEyaEdHa21tbmU5SkZRWGhhQmNsTGtBOWM3UnlsVUpLYm5PZFFVdDZ6a09KTFA5MlB4WWRRS3FxSm5uQXA3amEwX2c1bzZ1ZlZTSjlZTnNBUHYxNk9USFVTbXZtcF92YTdCWmFpMjI4VFdvZW94bGI5eDRtY2hjVVN3QQ?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nY1B6TXNUb193LUUzMVVGd3JOX1ZBeENFLWxRQ2ViNnFVWmYzczdxclZnNEt3TW9JYk1HOFRCdUVCNkw2NzY2VnlTVWV1UXVOOWQweld5N0FWYmc?oc=5",
    "type": null,
-   "time": "2026-11-12T01:48:49Z",
+   "time": "2026-11-12T12:39:39Z",
    "countries": [
-    "Sri Lanka",
-    "Pakistan"
+    "Italy"
    ]
   }
  ]
