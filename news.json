@@ -1,119 +1,22 @@
 {
- "updated": "2026-11-12T01:04:05.207077Z",
+ "updated": "2026-11-12T08:24:50.780010Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "formula-1-season-to-end-in-middle-east-as-schedu",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "uk-police-question-nato-assigned-us-soldier-accu",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
    "severity": "critical",
-   "category": "Sports",
-   "headline": "Formula 1 season to end in Middle East as scheduled, despite Iran War",
-   "summary": "Formula 1 season to end in Middle East as scheduled, despite Iran War",
+   "category": "Tech",
+   "headline": "UK police question Nato-assigned US soldier accused of spying for Russia",
+   "summary": "UK police were questioning on Wednesday a senior American soldier assigned to Nato and suspected of spying for Russia, after his arrest amid a joint investigation with the US military and law enforcement.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Formula 1 season to end in Middle East as scheduled, despite Iran War."
-    }
-   ],
-   "source": "USA Today",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQekpGNkxkUlBaMWFncG5hTFA5eWZKWUswODlZT3pzLXhKMnRnOWVFUlFTbmlpS2tFeDBtbW9qa3NSQXZUT09nSnhhLUJtRlhMU3VWa2dxM1ZmUXZSWlNOV3RMbWtnTURTNlVyTFJfQlJPcEk1aHVyaUpPUlVrYkJzWXQ2ci1iWl9sWDRySURDTTBXXzRrM0plMWJLcmtSWVoxQnBucDVCTzNUdExHOG11M1FkOHU2LVBPemdvVTFR?oc=5",
-   "type": null,
-   "time": "2026-11-11T21:31:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-and-ukraine-agree-to-a-large-prisoner-exc",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
-   "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
-   "type": null,
-   "time": "2026-11-11T19:43:00Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United Arab Emirates",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-envoys-to-meet-putin-zelensky-after-russia-uk",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "US envoys to meet Putin, Zelensky after Russia-Ukraine war talks in Abu Dhabi",
-   "summary": "United States envoys will separately meet Russia’s Vladimir Putin and Ukraine’s Volodymyr Zelensky on Thursday as they seek to seize “openings” from two days of talks in Abu Dhabi on ending the Ukraine war.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US envoys to meet Putin, Zelensky after Russia-Ukraine war talks in Abu Dhabi."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "United States envoys will separately meet Russia’s Vladimir Putin and Ukraine’s Volodymyr Zelensky on Thursday as they seek to seize “openings” from two days of talks in Abu Dhabi on ending the Ukraine war."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043838/us-envoys-to-meet-putin-zelensky-after-russia-ukraine-war-talks-in-abu-dhabi",
-   "type": null,
-   "time": "2026-11-11T20:24:03Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "oil-production-nears-pre-iran-war-levels-opec-sa",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Oil production nears pre-Iran war levels, OPEC says",
-   "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil production nears pre-Iran war levels, OPEC says."
+     "text": "UK police question Nato-assigned US soldier accused of spying for Russia."
     },
     {
      "role": "COMMANDER",
@@ -121,41 +24,42 @@
     },
     {
      "role": "ANALYST",
-     "text": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions."
+     "text": "UK police were questioning on Wednesday a senior American soldier assigned to Nato and suspected of spying for Russia, after his arrest amid a joint investigation with the US military and law enforcement."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2043844/uk-police-question-nato-assigned-us-soldier-accused-of-spying-for-russia",
    "type": null,
-   "time": "2026-11-11T20:45:30Z",
+   "time": "2026-11-11T19:47:57Z",
    "countries": [
-    "Iran",
-    "Saudi Arabia"
+    "United Kingdom",
+    "United States of America",
+    "Russia"
    ]
   },
   {
-   "id": "mma-stars-merab-dvalishvili-usman-nurmagomedov-b",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "MMA stars Merab Dvalishvili, Usman Nurmagomedov brawl at hotel in Abu Dhabi",
-   "summary": "MMA stars Merab Dvalishvili, Usman Nurmagomedov brawl at hotel in Abu Dhabi",
+   "id": "10-police-18-militants-killed-in-pakistan-s-nort",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "10 police, 18 militants killed in Pakistan’s northwest",
+   "summary": "10 police, 18 militants killed in Pakistan’s northwest",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "MMA stars Merab Dvalishvili, Usman Nurmagomedov brawl at hotel in Abu Dhabi."
+     "text": "10 police, 18 militants killed in Pakistan’s northwest."
     }
    ],
-   "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTVweWZCRmlyQ1BtOWp3N0xmeW9oNjRIWlhCbXphMnF1bDM5TF9CNExUZGR5dnoyVXI3dlAtM2kyaGh4ZHdGbVhDOFdEM3dhWnBnMWM5RlY4QzAxNENyR2c2V2hDQkdQZXV1M29YYzFtZVFyamVib3E2VjU2M0g5ck1yZUJjR2RZVU5keWdES0RqYmFMQ0FJVVFEaEZsSVpYX3VuMG53?oc=5",
+   "source": "Bangkok Post",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnp2R1V6WTRMalEwVVh6RkFKNVRjQ0UtOUw3eE9kZEQ4dzAwdWQyV01jTHg4VHVOenRudkYxNE84TjZUXzJlLVBPRjNkS1FmTV9NWHcxUmVhWHdzWW13SlQ0X25DUEtTR0gyODBiZlBjS2t6MXBVbGNDQk1GTXBHT2hjeWZmUUdFVnRka202OWJlSm5vdFhjSFdB?oc=5",
    "type": null,
-   "time": "2026-11-11T22:46:00Z",
+   "time": "2026-11-12T03:45:00Z",
    "countries": [
-    "United Arab Emirates"
+    "Pakistan"
    ]
   },
   {
@@ -185,217 +89,290 @@
    ]
   },
   {
-   "id": "hormuz-strait-will-never-return-to-pre-war-statu",
+   "id": "oil-prices-sink-as-iran-and-ukraine-peace-optimi",
    "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-   "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
+   "summary": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says."
+     "text": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmJCZTBCRGFhVEkwMjFLNUxQVTI3MDVISzMtb1F5ZDZTTjF2RWIxS2tiTVA5eU1XTml0elVvdEtqQi1lZzVWZEd2NnZPbWc3OXhxZElodXR0WVRfN3d4VGtkcjQ0bHR6cDVJTmpSS2Z3NnoyR1Y0VlhkR2VJTnRXOFk4WXg0MXV3RlczTVB1OVNtSjFqUHVaLVZHOUNyb1RjTkpqaDVqc3FMOGVsTm1VY3NTb9IBuAFBVV95cUxQSTl2T3JrUVphV2RpSmstMU9rcTB2cG12T1lWZmxXX1huYkJtUzhDaU5LVmpGMzZhU2ZZLVFaLUdrQXVjcTNEWWVpc2pxQ2NQcnRobElFS3pmUllSa0YtQnJLektjN0luX3hfakVHNE9TbElTemluRWZ4SE1YYVJEOUdMZnljcXdtRTZ5LUZzMlduaHIzUHpKNlNrMmxuc3VPWnJrcVEwTExoN01JS3kyTzJQejVXbjJZ?oc=5",
+   "type": null,
+   "time": "2026-11-12T06:35:48Z",
+   "countries": [
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "oil-production-nears-pre-iran-war-levels-opec-sa",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil production nears pre-Iran war levels, OPEC says",
+   "summary": "Oil production nears pre-Iran war levels, OPEC says",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil production nears pre-Iran war levels, OPEC says."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5",
+   "type": null,
+   "time": "2026-11-11T21:13:47Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "us-envoys-in-moscow-for-meeting-with-putin-follo",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi",
+   "summary": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US envoys in Moscow for meeting with Putin following talks in Abu Dhabi."
+    }
+   ],
+   "source": "WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dmZEs0Q1VzOXpTVDd6X2NGWW9Gd3BwXzl6V3gyRV84aXNna2c4NGI1bzZKS2NaWF84VnNTMVdleEUxMmRwNTF0WnJfdVlnYUVocHl5UHZET3pLQWpLZGh3SlcxVHcweVlXbS1tU1lDQWJya2x0WkdyWjZYTVJoS0dVZHZYUzhqUGRWS3htdDB0ZXI0WXk1TWVRZGRaaFlCNzQtcUFn?oc=5",
+   "type": null,
+   "time": "2026-11-12T08:05:28Z",
+   "countries": [
+    "Russia",
+    "United States of America",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "russo-ukrainian-war-day-1722-russia-sends-heavie",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims",
+   "summary": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russo-Ukrainian war, day 1722: Russia sends heavier team to Abu Dhabi peace talks, but its negotiators insist on Kremlin’s original war aims."
+    }
+   ],
+   "source": "Euromaidan Press",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXduMnd5Z1FNMUZ4X1JFdTlOczJFR1JPRnFTRHVJcFFMbHlxX0xEa1MtZnJ4a1lFaU1GV25vZDFaVVlwUEhUUHExanRxNlFneEk5OW84R0g5UngxRVk2bkw3MWRXT3FENlhjSVd3VHBKcC13dS1KOWdJS1l3STY1NTU3UTJWalRfMlFzRXJqRXhrUG5rZkcybDFnWHR5ZE93M1J3cVJYdDdVR3RVbGpJZnVGaWpHQzdOZ0pYb2J0RF9XQzBWa0pRemtReG9aVDFzb0lVRWRDMWxWa0hvUmxXdUhvQm44TmplUDl6VG42MTd4SjhxQjdJU2ItcTdYV0tPMERQazRTSQ?oc=5",
+   "type": null,
+   "time": "2026-11-12T07:31:23Z",
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "debutant-saqib-khan-takes-seven-as-pakistan-rest",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Debutant Saqib Khan takes seven as Pakistan restrict Sri Lanka to slender lead",
+   "summary": "Debutant fast bowler Saqib Khan produced a remarkable seven-wicket haul as Pakistan restricted Sri Lanka to a slender 12-run first-innings lead on the fourth day of the opening Test at the Rawalpindi Cricket Stadium on Thursday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Debutant Saqib Khan takes seven as Pakistan restrict Sri Lanka to slender lead."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Okay, what else?"
     },
     {
      "role": "ANALYST",
-     "text": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions."
+     "text": "Debutant fast bowler Saqib Khan produced a remarkable seven-wicket haul as Pakistan restricted Sri Lanka to a slender 12-run first-innings lead on the fourth day of the opening Test at the Rawalpindi Cricket Stadium on Thursday."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead",
    "type": null,
-   "time": "2026-11-11T21:03:40Z",
+   "time": "2026-11-12T07:24:15Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "oil-prices-fall-as-investors-weigh-u-s-iran-dipl",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy",
+   "summary": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Fall as Investors Weigh U.S.-Iran Diplomacy."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+   "type": null,
+   "time": "2026-11-12T07:29:00Z",
    "countries": [
     "Iran",
     "United States of America"
    ]
   },
   {
-   "id": "militants-ambush-police-in-pakistan-sparking-gun",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "israeli-strike-on-hospital-kills-at-least-five-p",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
    "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants",
-   "summary": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants",
+   "category": "Middle East",
+   "headline": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+   "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUlPajFoQ0JJek9uOW5KdHMyV2tZT3I4V1FNTWtlcXpqR2JFMVBHNkRPc21yNmdWVHNPbXlZVDVZTnF2RTJSYkE3RUE5ZkNYWDdlaGR0WkcwbGJMSjhLYThJcnZvX25QcnlVb2llSTBKbWdyZkdnQUhfX09taGptZEstTnlsTjNSV0JRVS1YbWNVOHJHWlhoXy14eGRnNDRzdnFYaWg5YUhEOEllSGM3cXdOZEs?oc=5",
-   "type": null,
-   "time": "2026-11-11T19:07:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "10-cops-martyred-18-terrorists-killed-as-police-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat",
-   "summary": "PESHAWAR: Eighteen terrorists were killed while 10 cops were martyred on Wednesday when the police team came under attack on its way back after completing an operation against elements involved in illegal gold mining, police said.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "10 cops martyred, 18 terrorists killed as police party comes under attack in KP's Kohat."
+     "text": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "PESHAWAR: Eighteen terrorists were killed while 10 cops were martyred on Wednesday when the police team came under attack on its way back after completing an operation against elements involved in illegal gold mining, police said."
+     "text": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043793/10-cops-martyred-18-terrorists-killed-as-police-party-comes-under-attack-in-kps-kohat",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wMjBISTdTSzZGQzZGVHJWUE1aQUIxaXlyRkhWei1yVi02UmJoNEJSdjRIQWxjYlo4MldUV19vOG9OanNWVWNIelY1cFlhOUJDQUJLTl9GVjNaT2s?oc=5",
    "type": null,
-   "time": "2026-11-11T18:28:58Z",
+   "time": "2026-11-12T06:12:05Z",
    "countries": [
-    "Pakistan"
+    "Israel",
+    "Palestine"
    ]
   },
   {
-   "id": "asian-development-bank-approves-500m-loan-to-hel",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
-   "type": null,
-   "time": "2026-11-11T10:13:47Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "alexander-darchiev-russia-s-ambassador-to-the-u-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
-   "category": "World",
-   "headline": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
-   "summary": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Alexander Darchiev, Russia’s Ambassador to the U.S., Dies at 66."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkU2ZUg4cmlIYmxJRlBhSHExRmZXQUdoazRYalpTUHg4SWF5clhQeGF1TS1HZm5uUGNTS1hpd1RIY1pWenBpVlBlVUJoTG1rZmszUUl3Z283N3ZRNmo1WTNLNGR6cVI0ZzVmTTBJa0xJdW5Gay1kM2pRNUtLYzNZNFprWXh2NTYwdGh4Q1dn?oc=5",
-   "type": null,
-   "time": "2026-11-11T21:14:46Z",
-   "countries": [
-    "Russia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "ukraine-talks-in-abu-dhabi-bring-progress-on-pri",
+   "id": "kushner-witkoff-do-the-abu-dhabi-shuffle-ukraine",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "info",
    "category": "UAE",
-   "headline": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
-   "summary": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+   "headline": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?",
+   "summary": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace."
+     "text": "Kushner & Witkoff do the Abu Dhabi shuffle: Ukraine peace ahead?."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUEzcFhSTGg1blJIY0lvX2VDZERPd3JvelRrSVdpTnktcFpTNUttbmI3TnVEV2JSYWR3RHJJd0tkSTdxX2dneHFTSXVzTno4RVB6cUhFSUN6YUo5SXU0SW5fZUM2VHF0YWY4UWQxdmNlUXJ0Ni05SFdjNWs3RUFSTFpRTEtTcl9hVUVENkFqSFNQNUpscVQwbDQyOHBmQmNQQWhhM1dkVXNFeFIzYmFaRWc2c3ZaMkQ5?oc=5",
+   "source": "Responsible Statecraft",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wU01zOWQ4RmlLLWVxaktCMmczTVktQ0Fhd2g3UHNTam1xLXZONG45X1lxd0MzZXlGQXR1cDNZbG1zN0gyYXdBcElJS0FZdFVvd29XdWtwUTBhQUIwZXgzN3ZxbFNORmgwc3V0Z2o3TQ?oc=5",
    "type": null,
-   "time": "2026-11-11T19:48:00Z",
+   "time": "2026-11-12T05:07:43Z",
    "countries": [
     "United Arab Emirates",
     "Ukraine"
    ]
   },
   {
-   "id": "schools-in-italy-scotland-and-northern-ireland-h",
-   "country": "Italy",
-   "label": "ITALY",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
+   "id": "-significant-evidence-of-placer-gold-in-punjab-r",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
+   "category": "Pakistan",
+   "headline": "'Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum",
+   "summary": "Punjab Chief Minister Maryam Nawaz said on Thursday that there was “significant evidence” of “sufficient quantities” of placer gold flowing in the province’s five rivers.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax."
+     "text": "'Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public."
+     "text": "Punjab Chief Minister Maryam Nawaz said on Thursday that there was “significant evidence” of “sufficient quantities” of placer gold flowing in the province’s five rivers."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044014/significant-evidence-of-placer-gold-in-punjab-rivers-says-cm-maryam-at-minerals-investment-forum",
    "type": null,
-   "time": "2026-11-11T18:38:45Z",
+   "time": "2026-11-12T08:21:25Z",
    "countries": [
-    "Italy"
+    "Pakistan"
    ]
   },
   {
-   "id": "trump-defends-iran-war-during-veterans-day-addre",
+   "id": "blackstone-expands-gulf-wealth-business-with-new",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Blackstone expands Gulf wealth business with new Dubai office",
+   "summary": "Blackstone expands Gulf wealth business with new Dubai office",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Blackstone expands Gulf wealth business with new Dubai office."
+    }
+   ],
+   "source": "Arabian Gulf Business Insight | AGBI",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblNkSlNkTWZRTWE5Z0czOFdNRnVpRDJpT09CWjlYX3dZTEtjMHZYZGh5cUVCcFREZ0Q5OU5ELXZkcThHMEo2Vm9RaVRFcVp2dFdHQVQ3NFctSzlUd2RRMno3THFKSExHdkhzbWotQ2xkcEhyNzE0ZWxBZ3ZYeGFhbUowWTJEVzhNdHZMNUtXd19nZGhqQ3dGclJGRy1ZMzhR?oc=5",
+   "type": null,
+   "time": "2026-11-12T08:00:33Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -403,64 +380,98 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'",
-   "summary": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'",
+   "headline": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)",
+   "summary": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'."
+     "text": "US/Israel-Iran war: What UAE residents need to know today (Nov. 12, 2026)."
     }
    ],
-   "source": "Fox News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1VKaG0zSzM2SlppUmFSeUdEVS1LMUZPdFlIX3FfcG1VMC1keGJsMUFJdVVQRVNLdElkdFdna2VmRkd6UlBsc1VMVkwxcXg3SlBqV1V0ejFWVnY2VWVvUERUcEl2cFVTUVJzUkg4ZEVXM2hDZ0h5RU05YTBPTmtXb0FqNzhiamNpSzBhX0ZFZXFiVE9DZWo5RXN5WVBBUlI3MEtSelFnRmxrejjSAbABQVVfeXFMTldtRkNyWlhoTUc2NHFHRk9wTEphTHg0NDFoODluOHpGTW52RndjUmV5cXR0YXBBWVhZSXo0M05wZTNYSy1IbnlkbDN3c0ZzbnNuRTY0YWlka3hlaVBOODNZcEdLaHFNWkNjc2xVcVc1Vmdyb2d4ZHdMTERtd0M0OGpGd0lNZUxXNWw1d2hVMFptWmpCSnoyb01BeGtEaF9ROGRzNF8xcVFxRkNQanZzS2M?oc=5",
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkN1X2laOFpQbmlGY01oYmZVeEM1Uk5YeWh6MDl2QkhkSW5ael9iQl9FaGFmS0JKUnVtcW1vdTg1MXY2VEZCSmFYNkxBenJZY1M2VV9DTFNNSGN4N1o1WWdZTzR6YmQ2M3Uxem03RThLMUo1MWVsTWttRE9CUmFoTzd1QzBBNmsyQlgtZ1hNZ2c0NFFhOFphTXAwMHhrYUxIVWlOWUltVdIBtwFBVV95cUxPYlV4SWgybFk2U2I3cDdrUTNCZlE2R192dlhrOVd0bUpRODlOLVE4Ukp3RHhOOVZTUjFJZ1AteFZzdHh3SUd4MWN4Ty01a0VyaHdsWEV2NmRWSWhXOFVraEFTX1lhMWxsU3pGMDdmVXJOaFZZS1ZCT3RCd1d1ck1VX01DbWx4Zm1fSzNBNXU0WngxOW5OVFE5ek9KVFhGX3RFNkVubG1FWjNvZ3pIaHZteTlRVXJfVk0?oc=5",
    "type": null,
-   "time": "2026-11-11T18:32:55Z",
+   "time": "2026-11-12T07:54:51Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "Israel",
+    "Iran",
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "saudi-arabia-and-turkey-sign-major-3-gw-wind-pow",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "merab-dvalishvili-usman-nurmagomedov-involved-in",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "info",
-   "category": "Business",
-   "headline": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal",
-   "summary": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal",
+   "category": "UAE",
+   "headline": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi",
+   "summary": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia and Turkey Sign Major 3 GW Wind Power Deal."
+     "text": "Merab Dvalishvili, Usman Nurmagomedov Involved in Massive Brawl on Video Ahead of RAF Abu Dhabi."
     }
    ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3YybU5VSlgzM21pbXdLMTZHZnlGU3RZWTdEZ1luZHA2a3VuWEhGWVRCQ0oyR200WWFEcmZMakhMLWRrUmUyYmFqVlQ1c2tmeFVVZDJqSGRmZ2s0dGlOOFhGcHNwQmZpbWl6YXYzV3dBQ0pHc3RmWnlYLS1DWUhGaTFpcFpMVXlGM3NobGZNMWJVNER2SXVCZl9QTFpPNjRrMUVjWVZJclk4T002Qy04QtIBtgFBVV95cUxNa1AyX3h1V0R0c2JISmJiWWVSUFdZSVgwRnY5aG0zd0h0cTgxRDZDeWhNX3BQU0NnZnNyVmxGRFJlTEYyWU41MUxYSUhUcFJud1g5UVcwNzJHaTVGNjlKbXN3Slk4NExEVU1GSXhTZUFTdndLM2dEWThISWRtWjRTQ3lUVDE2cW56Q2FjbjN4UHhfRU9oZVdzUEZjVnpUa3MzNHVIZUpGRWlPam42WDFfUmdrV1p3dw?oc=5",
+   "source": "Bleacher Report",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVZmTktxcUh1N0lJNmtMRS16R2FXbjVyQnB0cjMzUnZZVjJaTE4zcUZWbEdmZXZzVXZjaWR3TXQ2a0VNdHlxQml1ZlRtakpuYXYzdUFrMjZIMVMzWXNhR2FueFZtb1A3VTZVQnQzV011RzZ2VmhFVkZtWU9FcDFFZkF3UmxLRkZINkd4Z25SSmRyTkZWUFZjcWNjTHo0VGNIaEstdkVuTlN6ekVyb0dOWG84MVhDdEsyZEFrX05QWFFTR0s0cEdoR2VR?oc=5",
    "type": null,
-   "time": "2026-11-11T08:45:00Z",
+   "time": "2026-11-11T19:22:19Z",
    "countries": [
-    "Saudi Arabia",
-    "Turkey"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "iran-war-live-tehran-warns-of-wider-retaliation-",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
+   "id": "protesters-clash-with-police-after-housing-cost-",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-   "summary": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
+   "category": "World",
+   "headline": "Protesters clash with police after housing cost rallies in Spain",
+   "summary": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza."
+     "text": "Protesters clash with police after housing cost rallies in Spain."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
+   "type": "PHOTOS",
+   "time": "2026-11-12T08:01:29Z",
+   "countries": [
+    "Spain"
+   ]
+  },
+  {
+   "id": "ukraine-s-power-supply-close-to-critical-as-russ",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+   "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold."
     },
     {
      "role": "COMMANDER",
@@ -468,76 +479,42 @@
     },
     {
      "role": "ANALYST",
-     "text": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked."
+     "text": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-12T00:00:44Z",
+   "time": "2026-11-12T07:59:33Z",
    "countries": [
-    "Palestine",
-    "Iran",
-    "Israel"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
-   "id": "israeli-strikes-hit-medical-complex-as-nine-kill",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Israeli strikes hit medical complex as nine killed across Gaza",
-   "summary": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+   "id": "de-silva-kusal-centuries-put-sri-lanka-in-comman",
+   "country": "Sri Lanka",
+   "label": "SRI LANKA",
+   "lat": 7.9,
+   "lon": 80.8,
+   "flag": "🇱🇰",
+   "severity": "info",
+   "category": "World",
+   "headline": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test",
+   "summary": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Israeli strikes hit medical complex as nine killed across Gaza."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave."
+     "text": "De Silva, Kusal centuries put Sri Lanka in command in first Pakistan Test."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+   "source": "Dawn",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaF9TNWZvLVZkYWRRcGZoU252cFBBUUtsM3dkdE9LSHBkVUh5UFRhUnEyaEdHa21tbmU5SkZRWGhhQmNsTGtBOWM3UnlsVUpLYm5PZFFVdDZ6a09KTFA5MlB4WWRRS3FxSm5uQXA3amEwX2c1bzZ1ZlZTSjlZTnNBUHYxNk9USFVTbXZtcF92YTdCWmFpMjI4VFdvZW94bGI5eDRtY2hjVVN3QQ?oc=5",
    "type": null,
-   "time": "2026-11-11T22:55:37Z",
+   "time": "2026-11-12T01:48:49Z",
    "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "saudi-arabia-told-opec-its-oil-output-hit-a-wart",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Saudi Arabia told OPEC its oil output hit a wartime high in October",
-   "summary": "Saudi Arabia told OPEC its oil output hit a wartime high in October",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia told OPEC its oil output hit a wartime high in October."
-    }
-   ],
-   "source": "Quartz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xbWdsUGtua1JGMmMtTDVnSlIxZk1EQzlRcGVoZGRIWXVfWlpLemJpeXFWN09veG1QNXB6Z2JrQlVGY1FHLTVzeWEtcFJzbUc4bng0eDBzNUliUFVoYW44MGxOMEo4ZnFQRGJaeVp5aVM?oc=5",
-   "type": null,
-   "time": "2026-11-11T14:17:36Z",
-   "countries": [
-    "Saudi Arabia"
+    "Sri Lanka",
+    "Pakistan"
    ]
   }
  ]
