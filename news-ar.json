@@ -1,147 +1,36 @@
 {
- "updated": "2026-11-12T08:24:50.780010Z",
+ "updated": "2026-11-12T22:45:24.416056Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "uk-police-question-nato-assigned-us-soldier-accu",
-   "country": "United Kingdom",
-   "label": "المملكة المتحدة",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "الشرطة البريطانية تستجوب جنديًا أمريكيًا معينًا في حلف شمال الأطلسي متهم بالتجسس لصالح روسيا",
-   "summary": "تستجوب الشرطة البريطانية، اليوم الأربعاء، جنديًا أمريكيًا كبيرًا يعمل في حلف شمال الأطلسي (الناتو) ويشتبه في قيامه بالتجسس لصالح روسيا، بعد اعتقاله في إطار تحقيق مشترك مع الجيش الأمريكي وسلطات إنفاذ القانون.",
+   "id": "trump-says-no-deal-needed-with-iran-closes-down-",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Business",
+   "headline": "يقول ترامب إنه لا حاجة إلى اتفاق مع إيران، ويغلق مفاوضات فانس",
+   "summary": "يقول ترامب إنه لا حاجة إلى اتفاق مع إيران، ويغلق مفاوضات فانس",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الشرطة البريطانية تستجوب جنديًا أمريكيًا معينًا في حلف شمال الأطلسي متهم بالتجسس لصالح روسيا."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "تستجوب الشرطة البريطانية، اليوم الأربعاء، جنديًا أمريكيًا كبيرًا يعمل في حلف شمال الأطلسي (الناتو) ويشتبه في قيامه بالتجسس لصالح روسيا، بعد اعتقاله في إطار تحقيق مشترك مع الجيش الأمريكي وسلطات إنفاذ القانون."
+     "text": "يقول ترامب إنه لا حاجة إلى اتفاق مع إيران، ويغلق مفاوضات فانس."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2043844/uk-police-question-nato-assigned-us-soldier-accused-of-spying-for-russia",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
    "type": null,
-   "time": "2026-11-11T19:47:57Z",
+   "time": "2026-11-12T22:04:30Z",
    "countries": [
-    "United Kingdom",
     "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "10-police-18-militants-killed-in-pakistan-s-nort",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "مقتل 10 من الشرطة و18 مسلحا في شمال غرب باكستان",
-   "summary": "مقتل 10 من الشرطة و18 مسلحا في شمال غرب باكستان",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "مقتل 10 من الشرطة و18 مسلحا في شمال غرب باكستان"
-    }
-   ],
-   "source": "Bangkok Post",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWnp2R1V6WTRMalEwVVh6RkFKNVRjQ0UtOUw3eE9kZEQ4dzAwdWQyV01jTHg4VHVOenRudkYxNE84TjZUXzJlLVBPRjNkS1FmTV9NWHcxUmVhWHdzWW13SlQ0X25DUEtTR0gyODBiZlBjS2t6MXBVbGNDQk1GTXBHT2hjeWZmUUdFVnRka202OWJlSm5vdFhjSFdB?oc=5",
-   "type": null,
-   "time": "2026-11-12T03:45:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-arabia-intercepts-houthi-missiles-drones-g",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "السعودية تعترض صواريخ وطائرات مسيرة للحوثيين؛ الجماعة تنفي استهداف مكة",
-   "summary": "السعودية تعترض صواريخ وطائرات مسيرة للحوثيين؛ الجماعة تنفي استهداف مكة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "السعودية تعترض صواريخ وطائرات مسيرة للحوثيين؛ الجماعة تنفي استهداف مكة"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ?oc=5",
-   "type": null,
-   "time": "2026-11-11T20:57:51Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "oil-prices-sink-as-iran-and-ukraine-peace-optimi",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط تنخفض مع تنامي التفاؤل بشأن السلام بين إيران وأوكرانيا",
-   "summary": "أسعار النفط تنخفض مع تنامي التفاؤل بشأن السلام بين إيران وأوكرانيا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسعار النفط تنخفض مع تزايد التفاؤل بشأن السلام بين إيران وأوكرانيا"
-    }
-   ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSmJCZTBCRGFhVEkwMjFLNUxQVTI3MDVISzMtb1F5ZDZTTjF2RWIxS2tiTVA5eU1XTml0elVvdEtqQi1lZzVWZEd2NnZPbWc3OXhxZElodXR0WVRfN3d4VGtkcjQ0bHR6cDVJTmpSS2Z3NnoyR1Y0VlhkR2VJTnRXOFk4WXg0MXV3RlczTVB1OVNtSjFqUHVaLVZHOUNyb1RjTkpqaDVqc3FMOGVsTm1VY3NTb9IBuAFBVV95cUxQSTl2T3JrUVphV2RpSmstMU9rcTB2cG12T1lWZmxXX1huYkJtUzhDaU5LVmpGMzZhU2ZZLVFaLUdrQXVjcTNEWWVpc2pxQ2NQcnRobElFS3pmUllSa0YtQnJLektjN0luX3hfakVHNE9TbElTemluRWZ4SE1YYVJEOUdMZnljcXdtRTZ5LUZzMlduaHIzUHpKNlNrMmxuc3VPWnJrcVEwTExoN01JS3kyTzJQejVXbjJZ?oc=5",
-   "type": null,
-   "time": "2026-11-12T06:35:48Z",
-   "countries": [
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "oil-production-nears-pre-iran-war-levels-opec-sa",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "وتقول أوبك إن إنتاج النفط يقترب من مستويات ما قبل الحرب الإيرانية",
-   "summary": "وتقول أوبك إن إنتاج النفط يقترب من مستويات ما قبل الحرب الإيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وتقول أوبك إن إنتاج النفط يقترب من مستويات ما قبل الحرب الإيرانية."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVl4QjNFcFhZd1N4V2ZIQlM0ejAwcEVmbUxqXzdmamFJeUE0QXBNU3FoQW9ldGNYdF95QnU2MVZxTGlMX1NiYWZrUVY0S2hKTFlVSGJBZTExY0xfWGl1Q2RobDlQa0M5a1ozU1VYSlBNd2lDYzQwS2FKV0pNNnpJUnNUNDV1RmJYZENBNWVXcVM0R0MyVWfSAZsBQVVfeXFMTVdoNlkwaFM0R0ZuOExoUHowckk2eFNRejVwY1NUM1pnZEp1RDdMdVdGLXM3ZFFCeEJIOE5zdWJZeXJwcTlHLVk5azdLUTV2R0EtaGJ1VHMyb0tiTmp3MHhJVzBZSjBJRURLcF8yWkJvcXhHY2UwTS1wd1JFbkZGMkY1eXcwNk9LTlBkNDh6clNWSUlRRXppdG5QelE?oc=5",
-   "type": null,
-   "time": "2026-11-11T21:13:47Z",
-   "countries": [
     "Iran"
    ]
   },
   {
-   "id": "us-envoys-in-moscow-for-meeting-with-putin-follo",
+   "id": "new-talks-with-russia-ukraine-and-european-count",
    "country": "Russia",
    "label": "روسيا",
    "lat": 55.75,
@@ -149,330 +38,236 @@
    "flag": "🇷🇺",
    "severity": "watch",
    "category": "World",
-   "headline": "مبعوثون أمريكيون في موسكو للقاء بوتين عقب محادثات في أبو ظبي",
-   "summary": "مبعوثون أمريكيون في موسكو للقاء بوتين عقب محادثات في أبو ظبي",
+   "headline": "تقول الولايات المتحدة إنه تم الاتفاق على محادثات جديدة مع روسيا وأوكرانيا والدول الأوروبية",
+   "summary": "تقول الولايات المتحدة إنه تم الاتفاق على محادثات جديدة مع روسيا وأوكرانيا والدول الأوروبية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "مبعوثون أمريكيون في موسكو للقاء بوتين عقب محادثات في أبو ظبي."
+     "text": "تقول الولايات المتحدة إنه تم الاتفاق على محادثات جديدة مع روسيا وأوكرانيا والدول الأوروبية."
     }
    ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0dmZEs0Q1VzOXpTVDd6X2NGWW9Gd3BwXzl6V3gyRV84aXNna2c4NGI1bzZKS2NaWF84VnNTMVdleEUxMmRwNTF0WnJfdVlnYUVocHl5UHZET3pLQWpLZGh3SlcxVHcweVlXbS1tU1lDQWJya2x0WkdyWjZYTVJoS0dVZHZYUzhqUGRWS3htdDB0ZXI0WXk1TWVRZGRaaFlCNzQtcUFn?oc=5",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-12T17:17:55Z",
+   "countries": [
+    "Russia",
+    "Ukraine",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "us-envoys-meet-zelensky-in-dublin-after-talks-wi",
+   "country": "Russia",
+   "label": "روسيا",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "مبعوثون أمريكيون يجتمعون مع زيلينسكي في دبلن بعد محادثات مع بوتين في موسكو",
+   "summary": "قال المبعوث الأمريكي ستيف ويتكوف إن الرئيس بوتين وافق على انضمام المفاوضين الأوروبيين إلى الجولة المقبلة من المحادثات الأوكرانية.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مبعوثون أمريكيون يجتمعون مع زيلينسكي في دبلن بعد محادثات مع بوتين في موسكو."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو التأثير؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "قال المبعوث الأمريكي ستيف ويتكوف إن الرئيس بوتين وافق على انضمام المفاوضين الأوروبيين إلى الجولة المقبلة من المحادثات الأوكرانية."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-12T08:05:28Z",
+   "time": "2026-11-12T21:00:42Z",
    "countries": [
     "Russia",
     "United States of America",
-    "United Arab Emirates"
+    "Ukraine"
    ]
   },
   {
-   "id": "russo-ukrainian-war-day-1722-russia-sends-heavie",
-   "country": "Ukraine",
-   "label": "أوكرانيا",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "الحرب الروسية الأوكرانية، يوم 1722: روسيا ترسل فريقًا أثقل إلى محادثات السلام في أبو ظبي، لكن مفاوضيها يصرون على أهداف الكرملين الأصلية من الحرب",
-   "summary": "الحرب الروسية الأوكرانية، يوم 1722: روسيا ترسل فريقًا أثقل إلى محادثات السلام في أبو ظبي، لكن مفاوضيها يصرون على أهداف الكرملين الأصلية من الحرب",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الحرب الروسية الأوكرانية، يوم 1722: أرسلت روسيا فريقًا أثقل إلى محادثات السلام في أبو ظبي، لكن مفاوضيها يصرون على أهداف الكرملين الأصلية من الحرب."
-    }
-   ],
-   "source": "Euromaidan Press",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcXduMnd5Z1FNMUZ4X1JFdTlOczJFR1JPRnFTRHVJcFFMbHlxX0xEa1MtZnJ4a1lFaU1GV25vZDFaVVlwUEhUUHExanRxNlFneEk5OW84R0g5UngxRVk2bkw3MWRXT3FENlhjSVd3VHBKcC13dS1KOWdJS1l3STY1NTU3UTJWalRfMlFzRXJqRXhrUG5rZkcybDFnWHR5ZE93M1J3cVJYdDdVR3RVbGpJZnVGaWpHQzdOZ0pYb2J0RF9XQzBWa0pRemtReG9aVDFzb0lVRWRDMWxWa0hvUmxXdUhvQm44TmplUDl6VG42MTd4SjhxQjdJU2ItcTdYV0tPMERQazRTSQ?oc=5",
-   "type": null,
-   "time": "2026-11-12T07:31:23Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "debutant-saqib-khan-takes-seven-as-pakistan-rest",
+   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
+   "severity": "markets",
    "category": "Sports",
-   "headline": "المبتدأ ثاقب خان يأخذ سبعة بينما تقيد باكستان سريلانكا بفارق ضئيل",
-   "summary": "أنتج لاعب البولينج السريع الجديد ثاقب خان مسافة رائعة من سبع ويكيت حيث قامت باكستان بتقييد سريلانكا بفارق 12 جولة في اليوم الرابع من الاختبار الافتتاحي في ملعب روالبندي للكريكيت يوم الخميس.",
+   "headline": "اختبار باكستان-سريلانكا يتعرض لسوء الأحوال الجوية بعد بطولات ثاقب خان",
+   "summary": "ضرب المطر والضوء السيئ الاختبار الأول بين باكستان وسريلانكا بعد أن أخذ اللاعب ثاقب خان سبعة ويكيت في أول ظهور له لقيادة قتال الفريق المضيف يوم الخميس.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "المبتدأ ثاقب خان يأخذ سبعة بينما تقيد باكستان سريلانكا بفارق ضئيل."
+     "text": "اختبار باكستان-سريلانكا يتعرض لسوء الأحوال الجوية بعد بطولات ثاقب خان."
     },
     {
      "role": "COMMANDER",
-     "text": "حسنًا، ماذا أيضًا؟"
+     "text": "لماذا هذه الخطوة؟"
     },
     {
      "role": "ANALYST",
-     "text": "أنتج لاعب البولينج السريع الجديد ثاقب خان مسافة رائعة من سبع ويكيت حيث قامت باكستان بتقييد سريلانكا بفارق 12 جولة في اليوم الرابع من الاختبار الافتتاحي في ملعب روالبندي للكريكيت يوم الخميس."
+     "text": "ضرب المطر والضوء السيئ الاختبار الأول بين باكستان وسريلانكا بعد أن أخذ اللاعب ثاقب خان سبعة ويكيت في أول ظهور له لقيادة قتال الفريق المضيف يوم الخميس."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead",
+   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
    "type": null,
-   "time": "2026-11-12T07:24:15Z",
+   "time": "2026-11-12T11:37:09Z",
    "countries": [
     "Pakistan",
     "Sri Lanka"
    ]
   },
   {
-   "id": "oil-prices-fall-as-investors-weigh-u-s-iran-dipl",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسعار النفط تنخفض مع تقييم المستثمرين للدبلوماسية الأمريكية الإيرانية",
-   "summary": "أسعار النفط تنخفض مع تقييم المستثمرين للدبلوماسية الأمريكية الإيرانية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسعار النفط تنخفض مع تقييم المستثمرين للدبلوماسية الأمريكية الإيرانية."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
-   "type": null,
-   "time": "2026-11-12T07:29:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "israeli-strike-on-hospital-kills-at-least-five-p",
-   "country": "Israel",
-   "label": "إسرائيل",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "قال جهاز الدفاع المدني في غزة إن الغارة الإسرائيلية على مستشفى أسفرت عن مقتل خمسة فلسطينيين على الأقل",
-   "summary": "وقال متحدث باسم المستشفى إن الغارة أصابت قسم الجراحة في مستشفى ناصر، مما أدى إلى إصابة ما لا يقل عن 20 شخصًا وتسبب في أضرار جسيمة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "قال جهاز الدفاع المدني في غزة إن الغارة الإسرائيلية على مستشفى أسفرت عن مقتل خمسة فلسطينيين على الأقل."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وقال متحدث باسم المستشفى إن الغارة أصابت قسم الجراحة في مستشفى ناصر، مما أدى إلى إصابة ما لا يقل عن 20 شخصًا وتسبب في أضرار جسيمة."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wMjBISTdTSzZGQzZGVHJWUE1aQUIxaXlyRkhWei1yVi02UmJoNEJSdjRIQWxjYlo4MldUV19vOG9OanNWVWNIelY1cFlhOUJDQUJLTl9GVjNaT2s?oc=5",
-   "type": null,
-   "time": "2026-11-12T06:12:05Z",
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "kushner-witkoff-do-the-abu-dhabi-shuffle-ukraine",
+   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "كوشنر وويتكوف يبدآن خلط الأوراق في أبو ظبي: السلام في أوكرانيا أمامنا؟",
-   "summary": "كوشنر وويتكوف يبدآن خلط الأوراق في أبو ظبي: السلام في أوكرانيا أمامنا؟",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "كوشنر وويتكوف يقومان بخلط أبو ظبي: السلام في أوكرانيا أمامنا؟."
-    }
-   ],
-   "source": "Responsible Statecraft",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wU01zOWQ4RmlLLWVxaktCMmczTVktQ0Fhd2g3UHNTam1xLXZONG45X1lxd0MzZXlGQXR1cDNZbG1zN0gyYXdBcElJS0FZdFVvd29XdWtwUTBhQUIwZXgzN3ZxbFNORmgwc3V0Z2o3TQ?oc=5",
-   "type": null,
-   "time": "2026-11-12T05:07:43Z",
-   "countries": [
-    "United Arab Emirates",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "-significant-evidence-of-placer-gold-in-punjab-r",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Pakistan",
-   "headline": "\"أدلة مهمة\" على وجود الذهب الغريني في أنهار البنجاب، كما تقول سي إم مريم في منتدى استثمار المعادن",
-   "summary": "وقالت رئيسة وزراء البنجاب مريم نواز، الخميس، إن هناك \"أدلة مهمة\" على وجود \"كميات كافية\" من الذهب الغريني تتدفق في الأنهار الخمسة بالإقليم.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "\"أدلة مهمة\" على وجود الذهب الغريني في أنهار البنجاب، كما تقول سي إم مريم في منتدى استثمار المعادن."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وقالت رئيسة وزراء البنجاب مريم نواز، الخميس، إن هناك \"أدلة مهمة\" على وجود \"كميات كافية\" من الذهب الغريني تتدفق في الأنهار الخمسة بالإقليم."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/significant-evidence-of-placer-gold-in-punjab-rivers-says-cm-maryam-at-minerals-investment-forum",
-   "type": null,
-   "time": "2026-11-12T08:21:25Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "blackstone-expands-gulf-wealth-business-with-new",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
    "category": "UAE",
-   "headline": "بلاكستون توسع أعمال الثروات في الخليج من خلال مكتبها الجديد في دبي",
-   "summary": "بلاكستون توسع أعمال الثروات في الخليج من خلال مكتبها الجديد في دبي",
+   "headline": "الإمارات تعلن مقتل 14 وإصابة 30 في حادث مروري بالفجيرة",
+   "summary": "الإمارات تعلن مقتل 14 وإصابة 30 في حادث مروري بالفجيرة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "بلاكستون توسع أعمال الثروات في الخليج من خلال مكتبها الجديد في دبي"
+     "text": "الإمارات تعلن مقتل 14 وإصابة 30 في حادث مروري بالفجيرة"
     }
    ],
-   "source": "Arabian Gulf Business Insight | AGBI",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblNkSlNkTWZRTWE5Z0czOFdNRnVpRDJpT09CWjlYX3dZTEtjMHZYZGh5cUVCcFREZ0Q5OU5ELXZkcThHMEo2Vm9RaVRFcVp2dFdHQVQ3NFctSzlUd2RRMno3THFKSExHdkhzbWotQ2xkcEhyNzE0ZWxBZ3ZYeGFhbUowWTJEVzhNdHZMNUtXd19nZGhqQ3dGclJGRy1ZMzhR?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
    "type": null,
-   "time": "2026-11-12T08:00:33Z",
+   "time": "2026-11-12T16:01:46Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
+   "id": "abu-dhabi-cops-arrest-eight-in-merab-usman-brawl",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "شرطة أبو ظبي تعتقل ثمانية في شجار ميراب وعثمان",
+   "summary": "شرطة أبو ظبي تعتقل ثمانية في شجار ميراب وعثمان",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "شرطة أبو ظبي تعتقل ثمانية في شجار ميراب وعثمان."
+    }
+   ],
+   "source": "MMA Mania",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWd4MXM3QzBRRzJJZ1h6TGZGRU5scUNqSVg0ZkI0cWk2a3hVd2Zrb1pzMDYtYzBaSEs2Tko5TFZKLU52YWV4N01ybDBJVGxadUd1RkVhck51UmFLR2xZTm5pS1hYUkFiSjkxTy1rSlFqMU1uQ2hzYVAtV0ZjV3kyOW1FT0lmcE5tR0d5Tzk4eXd1VFZ1anNPVzhTR3JreEhuRlFRWWswcnl3emJNN0E3T2p0bFZMMHc?oc=5",
+   "type": null,
+   "time": "2026-11-12T18:02:47Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "donald-trump-signals-end-to-vice-president-s-ira",
    "country": "United States of America",
    "label": "الولايات المتحدة",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "الحرب الأمريكية/الإسرائيلية-الإيرانية: ما يحتاج سكان الإمارات العربية المتحدة إلى معرفته اليوم (12 نوفمبر 2026)",
-   "summary": "الحرب الأمريكية/الإسرائيلية-الإيرانية: ما يحتاج سكان الإمارات العربية المتحدة إلى معرفته اليوم (12 نوفمبر 2026)",
+   "severity": "info",
+   "category": "Business",
+   "headline": "أشار دونالد ترامب إلى نهاية مساعي نائب الرئيس لاتفاق السلام مع إيران",
+   "summary": "أشار دونالد ترامب إلى نهاية مساعي نائب الرئيس لاتفاق السلام مع إيران",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الحرب بين الولايات المتحدة وإسرائيل وإيران: ما يحتاج سكان الإمارات العربية المتحدة إلى معرفته اليوم (12 نوفمبر 2026)."
+     "text": "أشار دونالد ترامب إلى نهاية مساعي نائب الرئيس لاتفاق السلام مع إيران."
     }
    ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkN1X2laOFpQbmlGY01oYmZVeEM1Uk5YeWh6MDl2QkhkSW5ael9iQl9FaGFmS0JKUnVtcW1vdTg1MXY2VEZCSmFYNkxBenJZY1M2VV9DTFNNSGN4N1o1WWdZTzR6YmQ2M3Uxem03RThLMUo1MWVsTWttRE9CUmFoTzd1QzBBNmsyQlgtZ1hNZ2c0NFFhOFphTXAwMHhrYUxIVWlOWUltVdIBtwFBVV95cUxPYlV4SWgybFk2U2I3cDdrUTNCZlE2R192dlhrOVd0bUpRODlOLVE4Ukp3RHhOOVZTUjFJZ1AteFZzdHh3SUd4MWN4Ty01a0VyaHdsWEV2NmRWSWhXOFVraEFTX1lhMWxsU3pGMDdmVXJOaFZZS1ZCT3RCd1d1ck1VX01DbWx4Zm1fSzNBNXU0WngxOW5OVFE5ek9KVFhGX3RFNkVubG1FWjNvZ3pIaHZteTlRVXJfVk0?oc=5",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9reTlqSS1STVliSXF3NmwwMVM2ek1sSk05Y1REN3VjaVhsZGFYbUIySGlmZ1BYcXZLU21XQzFlT3dmWHJPbWNuQklocFZxMTRrajVNNVd0S0R4ZVF4Q1VMWkxlQUE2SE16R1ZCWDZlcERVbjZKNG1SVmY0WE1sWDlab0o?oc=5",
    "type": null,
-   "time": "2026-11-12T07:54:51Z",
+   "time": "2026-11-12T20:02:34Z",
    "countries": [
     "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
+    "Iran"
    ]
   },
   {
-   "id": "merab-dvalishvili-usman-nurmagomedov-involved-in",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "ميراب دفاليشفيلي وعثمان نورماغوميدوف يشاركان في شجار هائل بالفيديو قبل سلاح الجو الملكي البريطاني في أبو ظبي",
-   "summary": "ميراب دفاليشفيلي وعثمان نورماغوميدوف يشاركان في شجار هائل بالفيديو قبل سلاح الجو الملكي البريطاني في أبو ظبي",
+   "id": "yemen-s-houthis-say-they-attacked-pumping-statio",
+   "country": "Yemen",
+   "label": "اليمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "أعلن الحوثيون في اليمن أنهم هاجموا محطة ضخ على خط أنابيب النفط بين الشرق والغرب في المملكة العربية السعودية",
+   "summary": "أعلن الحوثيون في اليمن أنهم هاجموا محطة ضخ على خط أنابيب النفط بين الشرق والغرب في المملكة العربية السعودية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ميراب دفاليشفيلي وعثمان نورماغوميدوف يشاركان في شجار هائل بالفيديو قبل سلاح الجو الملكي البريطاني في أبو ظبي."
+     "text": "أعلن الحوثيون في اليمن أنهم هاجموا محطة ضخ على خط أنابيب النفط بين الشرق والغرب في المملكة العربية السعودية."
     }
    ],
-   "source": "Bleacher Report",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVZmTktxcUh1N0lJNmtMRS16R2FXbjVyQnB0cjMzUnZZVjJaTE4zcUZWbEdmZXZzVXZjaWR3TXQ2a0VNdHlxQml1ZlRtakpuYXYzdUFrMjZIMVMzWXNhR2FueFZtb1A3VTZVQnQzV011RzZ2VmhFVkZtWU9FcDFFZkF3UmxLRkZINkd4Z25SSmRyTkZWUFZjcWNjTHo0VGNIaEstdkVuTlN6ekVyb0dOWG84MVhDdEsyZEFrX05QWFFTR0s0cEdoR2VR?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
    "type": null,
-   "time": "2026-11-11T19:22:19Z",
+   "time": "2026-11-12T20:18:21Z",
    "countries": [
-    "United Arab Emirates"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "protesters-clash-with-police-after-housing-cost-",
-   "country": "Spain",
-   "label": "اسبانيا",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "متظاهرون يشتبكون مع الشرطة بعد مسيرات ارتفاع أسعار الإسكان في إسبانيا",
-   "summary": "الغضب بشأن القدرة على تحمل تكاليف السكن والقوة الشرائية يؤدي إلى اشتباكات وسط أول إضراب عام في إسبانيا منذ 14 عامًا.",
+   "id": "oil-prices-rebound-as-trump-questions-need-for-i",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "أسعار النفط تنتعش مع تساؤلات ترامب عن ضرورة التوصل إلى اتفاق مع إيران",
+   "summary": "أسعار النفط تنتعش مع تساؤلات ترامب عن ضرورة التوصل إلى اتفاق مع إيران",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "متظاهرون يشتبكون مع الشرطة بعد مسيرات ارتفاع أسعار الإسكان في إسبانيا."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "الغضب بشأن القدرة على تحمل تكاليف السكن والقوة الشرائية يؤدي إلى اشتباكات وسط أول إضراب عام في إسبانيا منذ 14 عامًا."
+     "text": "أسعار النفط تنتعش مع تساؤلات ترامب عن ضرورة التوصل إلى اتفاق مع إيران"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-   "type": "PHOTOS",
-   "time": "2026-11-12T08:01:29Z",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+   "type": null,
+   "time": "2026-11-12T21:01:00Z",
    "countries": [
-    "Spain"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "ukraine-s-power-supply-close-to-critical-as-russ",
-   "country": "Ukraine",
-   "label": "أوكرانيا",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "canadian-mining-company-signs-mou-with-mari-ener",
+   "country": "Canada",
+   "label": "كندا",
+   "lat": 56.1,
+   "lon": -106.3,
+   "flag": "🇨🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "إمدادات الطاقة في أوكرانيا تكاد تكون حرجة حيث تجلب الضربات الروسية الظلام والبرد",
-   "summary": "بالنسبة للآباء في أجزاء من أوكرانيا، فإن محاولة عيش حياة أسرية طبيعية مع بضع ساعات فقط من الطاقة كل يوم أمر له أثره.",
+   "category": "Business",
+   "headline": "شركة التعدين الكندية توقع مذكرة تفاهم مع شركة Mari Energies في جنوب آسيا",
+   "summary": "وقعت شركة إيفانهو ماينز مذكرة تفاهم مع شركة ماري إنرجيز يوم الخميس، حسبما قال رئيس الشركة الكندية روبرت فريدلاند على هامش منتدى استثمار المعادن الباكستاني.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "إمدادات الطاقة في أوكرانيا تكاد تكون حرجة حيث تجلب الضربات الروسية الظلام والبرد."
+     "text": "شركة التعدين الكندية توقع مذكرة تفاهم مع شركة Mari Energies في جنوب آسيا."
     },
     {
      "role": "COMMANDER",
@@ -480,42 +275,252 @@
     },
     {
      "role": "ANALYST",
-     "text": "بالنسبة للآباء في أجزاء من أوكرانيا، فإن محاولة عيش حياة أسرية طبيعية مع بضع ساعات فقط من الطاقة كل يوم أمر له أثره."
+     "text": "وقعت شركة إيفانهو ماينز مذكرة تفاهم مع شركة ماري إنرجيز يوم الخميس، حسبما قال رئيس الشركة الكندية روبرت فريدلاند على هامش منتدى استثمار المعادن الباكستاني."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
    "type": null,
-   "time": "2026-11-12T07:59:33Z",
+   "time": "2026-11-12T13:36:04Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Canada",
+    "Pakistan"
    ]
   },
   {
-   "id": "de-silva-kusal-centuries-put-sri-lanka-in-comman",
-   "country": "Sri Lanka",
-   "label": "سريلانكا",
-   "lat": 7.9,
-   "lon": 80.8,
-   "flag": "🇱🇰",
-   "severity": "info",
-   "category": "World",
-   "headline": "دي سيلفا، وضعت قرون كوسال سريلانكا في القيادة في أول اختبار لباكستان",
-   "summary": "دي سيلفا، وضعت قرون كوسال سريلانكا في القيادة في أول اختبار لباكستان",
+   "id": "southern-iran-s-sirik-county-near-strait-of-horm",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "وسائل الإعلام الرسمية: مقاطعة سيريك بجنوب إيران بالقرب من مضيق هرمز تعرضت لضربة من قبل \"العدو\"",
+   "summary": "وسائل الإعلام الرسمية: مقاطعة سيريك بجنوب إيران بالقرب من مضيق هرمز تعرضت لضربة من قبل \"العدو\"",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "دي سيلفا، وضعت قرون كوسال سريلانكا في القيادة في أول اختبار لباكستان."
+     "text": "وسائل الإعلام الرسمية: مقاطعة سيريك بجنوب إيران بالقرب من مضيق هرمز تعرضت لضربة من قبل \"العدو\""
     }
    ],
-   "source": "Dawn",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaF9TNWZvLVZkYWRRcGZoU252cFBBUUtsM3dkdE9LSHBkVUh5UFRhUnEyaEdHa21tbmU5SkZRWGhhQmNsTGtBOWM3UnlsVUpLYm5PZFFVdDZ6a09KTFA5MlB4WWRRS3FxSm5uQXA3amEwX2c1bzZ1ZlZTSjlZTnNBUHYxNk9USFVTbXZtcF92YTdCWmFpMjI4VFdvZW94bGI5eDRtY2hjVVN3QQ?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFFCZENFYk5lZUY0REprb2VyOGxnOUpEUUJHdVJwUUpfUjhGZ1JibzctTjJCRFdCX2l0cno3VmVxdVpZRzI0cGc1TWd4Q2UyZEF6bW5pTHo1aDJFdHdXc3VCOVJoNXNKOF9DT0Zid1RZRXR2ZHhJYWh5TWZPbUhtbHVsRTd1enZTMkluWE1UY0szSk84S0FMWF9pbGNKT2NhcGY2WU1PWk1EaURYR190b0o5cEVkRTNRUEU2MTVveHBjaEJD?oc=5",
    "type": null,
-   "time": "2026-11-12T01:48:49Z",
+   "time": "2026-11-12T19:41:22Z",
    "countries": [
-    "Sri Lanka",
+    "Iran"
+   ]
+  },
+  {
+   "id": "crash-involving-23-vehicles-kills-14-in-uae",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "حادث تصادم 23 مركبة يقتل 14 في الإمارات",
+   "summary": "حادث تصادم 23 مركبة يقتل 14 في الإمارات",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "حادث تصادم 23 مركبة يقتل 14 في الإمارات."
+    }
+   ],
+   "source": "Newser",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1ZpZVk2MjZqZzZfVkliaWlFbEdqM052UE5OeVdYQ3E0XzNpWklpT1pOVVdpUUJvd2YtREVMMHFXM0FneEU5c2RnWlZneWQ3RW5vYkFpdFBVS3AxZFZjY3dtSjRfT2gtdE1uVHNHX2lLY0hJWmROdU1MX29ydFVSSS1XcmhSeVcxRWREUw?oc=5",
+   "type": null,
+   "time": "2026-11-12T19:15:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "four-tankers-struck-by-explosions-in-strait-of-h",
+   "country": "Iran",
+   "label": "مضيق هرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "إيران تقول إن أربع ناقلات نفط تعرضت لانفجارات في مضيق هرمز",
+   "summary": "إيران تقول إن أربع ناقلات نفط تعرضت لانفجارات في مضيق هرمز",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إيران تقول إن أربع ناقلات نفط تعرضت لانفجارات في مضيق هرمز."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
+   "type": null,
+   "time": "2026-11-12T16:27:35Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ten-police-officers-18-fighters-killed-in-northw",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "مقتل عشرة من ضباط الشرطة و18 مقاتلا في هجوم شمال غرب باكستان",
+   "summary": "مقتل عشرة من ضباط الشرطة و18 مقاتلا في هجوم شمال غرب باكستان",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مقتل عشرة من ضباط الشرطة و18 مقاتلا في هجوم شمال غرب باكستان."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1EyZEVPSGEzVExyQ2lZSE5kX2pDYzRpXzc5U3dsMnp1aWlwWWhURzhpUmtjbGliOC1RdG5KY21DbGdfV0JUWU9TNWQtQ0k3WEZjczdPSTJEcktseDNVZTJfOVVqZlFCYWE3MHIzNFpYTkR4T00xY2FiSnNSdEFXMzBqVllRU3RBT1ZGOWdPRXFjTkd6VE1lcDkwaGpKQnVlQXRRRmFxa2huV1QxSUHSAbMBQVVfeXFMUFI0dmR5M2pRekxQMjU4eTRIbS1Jd2dNUjJYZHVMc0Z2VFMzTEUzSTVYNHBLSS1oOFVxekpoX2JKSS1PQTBNS3RiWEhoVGFpYXlnWXhCY2VSOHphWU1VNnlpQnJHa2IyR1ExZjRMM1Z0VDhoWWNvbWdzcnAzMGJXLTlMYzNIN0E5UzFwMHd5OFY1d290OHUtMHlKSHhNdktVSkFFdWV1MFctM1huaTJNM1htaDA?oc=5",
+   "type": null,
+   "time": "2026-11-12T15:36:57Z",
+   "countries": [
     "Pakistan"
+   ]
+  },
+  {
+   "id": "israel-hits-gaza-hospital-and-france-turns-away-",
+   "country": "Palestine",
+   "label": "فلسطين",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "إسرائيل تقصف مستشفى في غزة وفرنسا ترفض استقبال زعيم مستوطن، وأخبار أخرى في الشرق الأوسط",
+   "summary": "تقرير طارق أبو عزوم من قناة الجزيرة عن آثار الغارة الإسرائيلية على مستشفى ناصر",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إسرائيل تقصف مستشفى في غزة وفرنسا ترفض استقبال زعيم مستوطن، وأخبار أخرى في الشرق الأوسط."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تقرير طارق أبو عزوم من قناة الجزيرة عن آثار الغارة الإسرائيلية على مستشفى ناصر"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
+   "type": null,
+   "time": "2026-11-12T22:02:00Z",
+   "countries": [
+    "Palestine",
+    "Israel",
+    "France"
+   ]
+  },
+  {
+   "id": "russian-warship-hit-by-ukrainian-drone-in-gulf-o",
+   "country": "Russia",
+   "label": "روسيا",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "سفينة حربية روسية تقصفها طائرة بدون طيار أوكرانية في خليج فنلندا",
+   "summary": "ويُعتقد أن الهجوم هو المرة الأولى التي تهاجم فيها طائرات بدون طيار أوكرانية سفينة روسية في منطقة مفتوحة من بحر البلطيق.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "سفينة حربية روسية تقصفها طائرة بدون طيار أوكرانية في خليج فنلندا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويُعتقد أن الهجوم هو المرة الأولى التي تهاجم فيها طائرات بدون طيار أوكرانية سفينة روسية في منطقة مفتوحة من بحر البلطيق."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-12T20:09:16Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "suspected-bomb-hoax-threats-force-fresh-evacuati",
+   "country": "Italy",
+   "label": "إيطاليا",
+   "lat": 41.9,
+   "lon": 12.6,
+   "flag": "🇮🇹",
+   "severity": "critical",
+   "category": "World",
+   "headline": "تهديدات مزيفة بوجود قنبلة تجبر على إخلاء المدارس الإيطالية من جديد",
+   "summary": "تلقت المدارس في جميع أنحاء إيطاليا تهديدات بوجود قنابل لليوم الثاني على التوالي، مما أثار حالة من الذعر وعمليات الإخلاء الجديدة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تهديدات مزيفة بوجود قنبلة تجبر على إخلاء المدارس الإيطالية من جديد."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تلقت المدارس في جميع أنحاء إيطاليا تهديدات بوجود قنابل لليوم الثاني على التوالي، مما أثار حالة من الذعر وعمليات الإخلاء الجديدة."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-12T19:23:02Z",
+   "countries": [
+    "Italy"
+   ]
+  },
+  {
+   "id": "china-s-xi-says-taiwan-reunification-must-happen",
+   "country": "China",
+   "label": "الصين",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "الرئيس الصيني يقول إن \"إعادة توحيد\" تايوان يجب أن يحدث لأن التاريخ لا يمكن إيقافه",
+   "summary": "قال الرئيس الصيني شي جين بينغ، اليوم الخميس، إن المد التاريخي لا يمكن وقفه، بينما حث على \"إعادة التوحيد\" سلميا مع تايوان ولم يشر إلى استخدام القوة، على الرغم من أنه لا يزال يواجه رفضا صارما من تايبيه.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الرئيس الصيني يقول إن \"إعادة توحيد\" تايوان يجب أن يحدث لأن التاريخ لا يمكن إيقافه."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "قال الرئيس الصيني شي جين بينغ، اليوم الخميس، إن المد التاريخي لا يمكن وقفه، بينما حث على \"إعادة التوحيد\" سلميا مع تايوان ولم يشر إلى استخدام القوة، على الرغم من أنه لا يزال يواجه رفضا صارما من تايبيه."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+   "type": null,
+   "time": "2026-11-12T11:15:56Z",
+   "countries": [
+    "China",
+    "Taiwan"
    ]
   }
  ]

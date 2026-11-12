@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-12T17:07:57.062477Z",
+ "updated": "2026-11-12T22:45:24.416056Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "trump-says-us-does-not-need-iran-deal-directs-va",
+   "id": "trump-says-no-deal-needed-with-iran-closes-down-",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -11,138 +11,83 @@
    "flag": "🇺🇸",
    "severity": "info",
    "category": "Business",
-   "headline": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
-   "summary": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption",
+   "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
+   "summary": "Trump says no deal needed with Iran, closes down Vance negotiations",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump says US does not \"need\" Iran deal, directs Vance to focus on domestic corruption."
+     "text": "Trump says no deal needed with Iran, closes down Vance negotiations."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTkdBWnZVWXZqcEFwdWFkTmw5XzVHVndjNzBhdW1GZVFfT2d2OFBzVDlLbC1pdmNvZTY5X01iRE01eGktRlh0b0s2bXJSTm9ZS19CZkdnVzR6bmEzOFJlQjNET2NvTl9yVGZjeHg5SkxVcmZ5UHFkLXcxQ1M3N1dRU3R5R05raV9VOVRsUDRFZE9sT1B6NmZ0ZTA4SFB0TlNYTUNhUHdMWVNKV0tDSmd4d19IRERyblE2QkgxSlpzSQ?oc=5",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
    "type": null,
-   "time": "2026-11-12T16:28:53Z",
+   "time": "2026-11-12T22:04:30Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-   "summary": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE says 14 killed, 30 injured in Fujairah traffic accident."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ministry says a driver lost control of his truck, causing a collision and fire involving 18 vehicles."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-12T16:23:29Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-releases-two-sisters-of-ex-pm-imran-kha",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-   "summary": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan releases two sisters of ex-PM Imran Khan from jail."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-12T12:12:17Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "abu-dhabi-police-arrest-10-after-nurmagomedov-an",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl",
-   "summary": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGxVNnZOVWtLWUlBU0hJa3dVQTNpV2w5TDRxemFQd2xLNmM4Z2hRcnZNcmlkTG1LODhrRG82bk8tZDBHXzlscWhoc1VUQVpaMkdaLUppN1N5NlJfTmNGRFR5eGtSX1ptNWJERFBxX1VqSzJuVXkyaFdpcmVTbTFTaGhmY242bWMxaTlrdnAtM3hJYlhvSjdxVXlwVXExTEt3dDhQTlkwUnphUlQ4ZFdCX2ZZNVNvOUs1UFBqV1d2TmI?oc=5",
-   "type": null,
-   "time": "2026-11-12T14:49:25Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-says-he-s-pulling-vance-off-iran-talks-to-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "new-talks-with-russia-ukraine-and-european-count",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
    "severity": "watch",
-   "category": "Middle East",
-   "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-   "summary": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+   "category": "World",
+   "headline": "New talks with Russia, Ukraine and European countries agreed, US says",
+   "summary": "New talks with Russia, Ukraine and European countries agreed, US says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign."
+     "text": "New talks with Russia, Ukraine and European countries agreed, US says."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVkpKYjhub0lKY3JLamNqdW91aWl4YnAwbVZZV3J5YWR6b1k4SnBXcWRkOWJSOUdFcXlLUHl5WlNuYU1tNlF2TFF4bkxudVVtYUVIWG0wb2RRR0J4YkQ2eWRpMUxOdzFldHRfT0hPMGpSVEhHcFRTT1QwSENIckk?oc=5",
-   "type": null,
-   "time": "2026-11-12T14:36:29Z",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-12T17:17:55Z",
    "countries": [
-    "Iran",
+    "Russia",
+    "Ukraine",
     "United States of America"
+   ]
+  },
+  {
+   "id": "us-envoys-meet-zelensky-in-dublin-after-talks-wi",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "watch",
+   "category": "World",
+   "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-12T21:00:42Z",
+   "countries": [
+    "Russia",
+    "United States of America",
+    "Ukraine"
    ]
   },
   {
@@ -163,7 +108,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What does it mean for prices?"
+     "text": "Why the move?"
     },
     {
      "role": "ANALYST",
@@ -180,100 +125,215 @@
    ]
   },
   {
-   "id": "ukraine-says-military-starlink-disrupted-again-a",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "World",
-   "headline": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-12T16:31:12Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "what-have-the-talks-with-russia-and-the-us-in-ab",
+   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-   "summary": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+   "headline": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+   "summary": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?."
+     "text": "UAE says 14 killed, 30 injured in Fujairah traffic accident."
     }
    ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFRhM29zNjVOZXc4UjdlMmVtOTA1SDBNTV9wZHgwZTQ4aHJNWmp4VUZ2RkZ1eWYteUVkdmwwTWFCRjA4SnR1WjVXaGJvU1ZBRDZDSllkVnBDZlhkQzhYWDBDV1hMbWFZN21pa284V1Z5UHpVM0NON3A3aDlfeHZhRUswcl9XWWU4RUlXTU4zUVJrYzV2Z3FBOVJtS1djdFNsOHdOeDJDMmltN0JtQVHSAa4BQVVfeXFMTnY0RU16dUFOWW40TUVidU9lVTl5eU94Z1psQ19oYlBrX2gyUHY0UGxmS1BrUDZSTXRybnFndTJWXzRoaUlsZlNEc1B5TkZqbVVtdWpBYUl2UjNVc0E2NjdtYnVqMk1yWE52OWNkMTRYR2pEM19zRkQzbzN1clRFWnVYZkhFR1Y2bFVINnBxaFhlRDRNWWdwaFlsb3dXTUFNbDBSUWRJYlZyT25leGJ3?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
    "type": null,
-   "time": "2026-11-12T16:52:30Z",
+   "time": "2026-11-12T16:01:46Z",
    "countries": [
-    "United Arab Emirates",
-    "Russia",
-    "United States of America",
-    "Ukraine"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "uk-court-finds-two-iranian-men-guilty-of-spying-",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
-   "severity": "critical",
-   "category": "World",
-   "headline": "UK court finds two Iranian men guilty of spying for Iran",
-   "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+   "id": "abu-dhabi-cops-arrest-eight-in-merab-usman-brawl",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl",
+   "summary": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UK court finds two Iranian men guilty of spying for Iran."
+     "text": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl."
+    }
+   ],
+   "source": "MMA Mania",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWd4MXM3QzBRRzJJZ1h6TGZGRU5scUNqSVg0ZkI0cWk2a3hVd2Zrb1pzMDYtYzBaSEs2Tko5TFZKLU52YWV4N01ybDBJVGxadUd1RkVhck51UmFLR2xZTm5pS1hYUkFiSjkxTy1rSlFqMU1uQ2hzYVAtV0ZjV3kyOW1FT0lmcE5tR0d5Tzk4eXd1VFZ1anNPVzhTR3JreEhuRlFRWWswcnl3emJNN0E3T2p0bFZMMHc?oc=5",
+   "type": null,
+   "time": "2026-11-12T18:02:47Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "donald-trump-signals-end-to-vice-president-s-ira",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Donald Trump signals end to vice-president’s Iran peace deal push",
+   "summary": "Donald Trump signals end to vice-president’s Iran peace deal push",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Donald Trump signals end to vice-president’s Iran peace deal push."
+    }
+   ],
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9reTlqSS1STVliSXF3NmwwMVM2ek1sSk05Y1REN3VjaVhsZGFYbUIySGlmZ1BYcXZLU21XQzFlT3dmWHJPbWNuQklocFZxMTRrajVNNVd0S0R4ZVF4Q1VMWkxlQUE2SE16R1ZCWDZlcERVbjZKNG1SVmY0WE1sWDlab0o?oc=5",
+   "type": null,
+   "time": "2026-11-12T20:02:34Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "yemen-s-houthis-say-they-attacked-pumping-statio",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline",
+   "summary": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
+   "type": null,
+   "time": "2026-11-12T20:18:21Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "oil-prices-rebound-as-trump-questions-need-for-i",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+   "summary": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Rebound as Trump Questions Need for Iran Deal."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
+   "type": null,
+   "time": "2026-11-12T21:01:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "canadian-mining-company-signs-mou-with-mari-ener",
+   "country": "Canada",
+   "label": "CANADA",
+   "lat": 56.1,
+   "lon": -106.3,
+   "flag": "🇨🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Canadian mining company signs MoU with Mari Energies in South Asia push",
+   "summary": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Canadian mining company signs MoU with Mari Energies in South Asia push."
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'."
+     "text": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
    "type": null,
-   "time": "2026-11-12T15:15:48Z",
+   "time": "2026-11-12T13:36:04Z",
    "countries": [
-    "United Kingdom",
+    "Canada",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "southern-iran-s-sirik-county-near-strait-of-horm",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media",
+   "summary": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFFCZENFYk5lZUY0REprb2VyOGxnOUpEUUJHdVJwUUpfUjhGZ1JibzctTjJCRFdCX2l0cno3VmVxdVpZRzI0cGc1TWd4Q2UyZEF6bW5pTHo1aDJFdHdXc3VCOVJoNXNKOF9DT0Zid1RZRXR2ZHhJYWh5TWZPbUhtbHVsRTd1enZTMkluWE1UY0szSk84S0FMWF9pbGNKT2NhcGY2WU1PWk1EaURYR190b0o5cEVkRTNRUEU2MTVveHBjaEJD?oc=5",
+   "type": null,
+   "time": "2026-11-12T19:41:22Z",
+   "countries": [
     "Iran"
+   ]
+  },
+  {
+   "id": "crash-involving-23-vehicles-kills-14-in-uae",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Crash Involving 23 Vehicles Kills 14 in UAE",
+   "summary": "Crash Involving 23 Vehicles Kills 14 in UAE",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Crash Involving 23 Vehicles Kills 14 in UAE."
+    }
+   ],
+   "source": "Newser",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1ZpZVk2MjZqZzZfVkliaWlFbEdqM052UE5OeVdYQ3E0XzNpWklpT1pOVVdpUUJvd2YtREVMMHFXM0FneEU5c2RnWlZneWQ3RW5vYkFpdFBVS3AxZFZjY3dtSjRfT2gtdE1uVHNHX2lLY0hJWmROdU1MX29ydFVSSS1XcmhSeVcxRWREUw?oc=5",
+   "type": null,
+   "time": "2026-11-12T19:15:00Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   },
   {
@@ -327,122 +387,7 @@
    ]
   },
   {
-   "id": "ukraine-says-it-s-facing-new-restrictions-to-the",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "info",
-   "category": "World",
-   "headline": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin",
-   "summary": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine says it’s facing new restrictions to the Starshield network, as Trump envoys meet with Putin."
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVV3X1BzOWx3UU9VR014QVVGbW5JY0g5amxBWTZ3M1pOM25yT0RONVl4ZlJObzhFT0UwSk9MRzkwMkhVVFl1dm1LZURjaXZCcGxHSEJnWFFUd0J6WXBjX21oNUlEcEQwYWRQWmI3eDE5aUw5VjE5aU0tT1FSZTg5NWVKNUxBWVNGSmh4UWx4Szk3V19SWDQxX296em4?oc=5",
-   "type": null,
-   "time": "2026-11-12T14:57:08Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "trump-says-no-iran-deal-needed-oil-prices-jump",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Trump Says No Iran Deal Needed; Oil Prices Jump",
-   "summary": "Trump Says No Iran Deal Needed; Oil Prices Jump",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump Says No Iran Deal Needed; Oil Prices Jump."
-    }
-   ],
-   "source": "Investor's Business Daily",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0tGUzhUdGRpalBFNVA1bFhEdVViX050NnMxR1IwODFiWkhxQTAzZW1jYnFJNTdPdG9PQmo3Vzl2M0h1MzJIMXhXY2ppNHphYUM4RllNcjhsNFVELVpQcGNrdUdjSFNBb1AtcDdOa21YWXUyUHltY0l0WFM0NWthWUpWOVNlR1E1T21Heg?oc=5",
-   "type": null,
-   "time": "2026-11-12T14:47:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US-Israel-Iran war: What UAE residents need to know this evening, November 12",
-   "summary": "US-Israel-Iran war: What UAE residents need to know this evening, November 12",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US-Israel-Iran war: What UAE residents need to know this evening, November 12."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVlBR0VNbHNiQ1hPV1MxaG1tb3dadEhkODR4ZVQxWFB1azhJOVdYLTF0bk1FaUZHVlpGaHdqSTRZVVBZeEUzd3hXNzIwdnN2Z21CV1VISERiSmlzOGhzdHZSYWpoaXI5R2RTVXNhVzI1dUoxbnJpbEtjY0pGXy1NeUZxbmRSWkFJTEpvVDZFTktBSTlydXJGdVdkaTd4cjFDVXlNdFZLbmNYbjYxSDgzcExaVEdHSWtndWNDb3JNbmdrd9IB1AFBVV95cUxNdUlnMFUyS21WWEdOdXVidkZVZ2czYlRjWUxHQTVuSmdqNDVudnp2Z2VDdUtMR0JBVjJKSjRwVW93TGc2dEozcHVFMkZ5YlpYYnlSYkkyYXFhUEdQb1VpTGVsdzBvSUtYRzJKQnk0U3ZOc0xpNHpGTWNFZWhuaDJwWmtSaktKRjdGMklHa19sUlJaQnVCXzF1aW41b2g5aWNRb3dOZERpdWVCbHg0Yk9iNVZEZkZkTW1QelZ6cVBBbE1UNGQzOW90dUNJSUtkUlB2Q0NjMQ?oc=5",
-   "type": null,
-   "time": "2026-11-12T14:41:40Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "canadian-mining-company-signs-mou-with-mari-ener",
-   "country": "Canada",
-   "label": "CANADA",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Canadian mining company signs MoU with Mari Energies in South Asia push",
-   "summary": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Canadian mining company signs MoU with Mari Energies in South Asia push."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
-   "type": null,
-   "time": "2026-11-12T13:36:04Z",
-   "countries": [
-    "Canada",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "israeli-strike-on-gaza-s-nasser-hospital-kills-a",
+   "id": "israel-hits-gaza-hospital-and-france-turns-away-",
    "country": "Palestine",
    "label": "PALESTINE",
    "lat": 31.6,
@@ -450,12 +395,12 @@
    "flag": "🇵🇸",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say",
-   "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+   "headline": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news",
+   "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Israeli strike on Gaza’s Nasser Hospital kills at least six people, officials say."
+     "text": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news."
     },
     {
      "role": "COMMANDER",
@@ -463,33 +408,34 @@
     },
     {
      "role": "ANALYST",
-     "text": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+     "text": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital"
     }
    ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQUdEakxtMWZpbTJoLTBTOGRoNElEcDFodXFDNzcyUEtVS2dJMU92anJoQWFpdjEwT042d3lRVExOcHpFdDdrZ3lNTWZ2dlp1dzdoVjN3YU5TdUJkb1NWTWZBNHhqOTlBVWNYTkRoS2tpUWRrMTVMVFlLMDN1NHB6blRvV3dkbERhZWJHSFM1enVSaGlsaHUzRVk2cTBSREp3aENrYVBCbTlteEpMMzd2U05n?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
    "type": null,
-   "time": "2026-11-12T16:23:30Z",
+   "time": "2026-11-12T22:02:00Z",
    "countries": [
     "Palestine",
-    "Israel"
+    "Israel",
+    "France"
    ]
   },
   {
-   "id": "-no-war-no-peace-can-iran-break-the-deadlock-wit",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "russian-warship-hit-by-ukrainian-drone-in-gulf-o",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-   "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
+   "category": "World",
+   "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "‘No war, no peace’: Can Iran break the deadlock with the US?."
+     "text": "Russian warship hit by Ukrainian drone in Gulf of Finland."
     },
     {
      "role": "COMMANDER",
@@ -497,16 +443,16 @@
     },
     {
      "role": "ANALYST",
-     "text": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say."
+     "text": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-12T14:27:54Z",
+   "time": "2026-11-12T20:09:16Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -534,12 +480,46 @@
      "text": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nY1B6TXNUb193LUUzMVVGd3JOX1ZBeENFLWxRQ2ViNnFVWmYzczdxclZnNEt3TW9JYk1HOFRCdUVCNkw2NzY2VnlTVWV1UXVOOWQweld5N0FWYmc?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-12T12:39:39Z",
+   "time": "2026-11-12T19:23:02Z",
    "countries": [
     "Italy"
+   ]
+  },
+  {
+   "id": "china-s-xi-says-taiwan-reunification-must-happen",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
+   "summary": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful “ reunification ” with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful “ reunification ” with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+   "type": null,
+   "time": "2026-11-12T11:15:56Z",
+   "countries": [
+    "China",
+    "Taiwan"
    ]
   }
  ]
