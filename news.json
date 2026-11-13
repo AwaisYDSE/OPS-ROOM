@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-12T22:45:24.416056Z",
+ "updated": "2026-11-13T02:58:42.003323Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "trump-says-no-deal-needed-with-iran-closes-down-",
+   "id": "trump-says-us-no-longer-needs-iran-deal",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -11,117 +11,48 @@
    "flag": "🇺🇸",
    "severity": "info",
    "category": "Business",
-   "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
-   "summary": "Trump says no deal needed with Iran, closes down Vance negotiations",
+   "headline": "Trump says US no longer needs Iran deal",
+   "summary": "Trump says US no longer needs Iran deal",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump says no deal needed with Iran, closes down Vance negotiations."
+     "text": "Trump says US no longer needs Iran deal."
     }
    ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
-   "type": null,
-   "time": "2026-11-12T22:04:30Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUlUTHlPaTZjN0NQZnVxYWVlaGZhV3djV24xWWN1a1JTVk5Qc2FkSEI1Y21JZTF4M042WXRhUy1WVU1uSmlSTkNWRGRCbk1DX1N2MTJTTVRqZl9zNWM5ZkU1MkpvV3o5aWZmSERONTRvRzBJLVh0YmVRTGlKbE9HbG94Qkg?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-13T02:47:47Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "new-talks-with-russia-ukraine-and-european-count",
+   "id": "after-meeting-putin-u-s-envoys-say-europe-to-joi",
    "country": "Russia",
    "label": "RUSSIA",
    "lat": 55.75,
    "lon": 37.6,
    "flag": "🇷🇺",
-   "severity": "watch",
+   "severity": "critical",
    "category": "World",
-   "headline": "New talks with Russia, Ukraine and European countries agreed, US says",
-   "summary": "New talks with Russia, Ukraine and European countries agreed, US says",
+   "headline": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+   "summary": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "New talks with Russia, Ukraine and European countries agreed, US says."
+     "text": "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-12T17:17:55Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-envoys-meet-zelensky-in-dublin-after-talks-wi",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj?oc=5",
    "type": null,
-   "time": "2026-11-12T21:00:42Z",
+   "time": "2026-11-13T02:41:12Z",
    "countries": [
     "Russia",
     "United States of America",
     "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics",
-   "summary": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
-   "type": null,
-   "time": "2026-11-12T11:37:09Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
    ]
   },
   {
@@ -150,7 +81,7 @@
    ]
   },
   {
-   "id": "abu-dhabi-cops-arrest-eight-in-merab-usman-brawl",
+   "id": "8-people-arrested-after-abu-dhabi-hotel-brawl-us",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -158,207 +89,207 @@
    "flag": "🇦🇪",
    "severity": "high",
    "category": "UAE",
-   "headline": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl",
-   "summary": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl",
+   "headline": "8 people arrested after Abu Dhabi hotel brawl; Usman Nurmagomedov barred from RAF event",
+   "summary": "8 people arrested after Abu Dhabi hotel brawl; Usman Nurmagomedov barred from RAF event",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Abu Dhabi Cops Arrest Eight In Merab-Usman Brawl."
+     "text": "8 people arrested after Abu Dhabi hotel brawl; Usman Nurmagomedov barred from RAF event."
     }
    ],
-   "source": "MMA Mania",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWd4MXM3QzBRRzJJZ1h6TGZGRU5scUNqSVg0ZkI0cWk2a3hVd2Zrb1pzMDYtYzBaSEs2Tko5TFZKLU52YWV4N01ybDBJVGxadUd1RkVhck51UmFLR2xZTm5pS1hYUkFiSjkxTy1rSlFqMU1uQ2hzYVAtV0ZjV3kyOW1FT0lmcE5tR0d5Tzk4eXd1VFZ1anNPVzhTR3JreEhuRlFRWWswcnl3emJNN0E3T2p0bFZMMHc?oc=5",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTWJ5YUZTY0dMd1ZmUXp4X3dPZFhwZ2NBTFpUeVhMM21uNTRXYjFnNzZMU2I4MDBqQXVQeW4xeG9QUHNpa29vZ3hSdzFuTVFGdE0yOVo0NGM4c0J6NDJIQjlITXp2TGExRC1ablR4d1FzNWFwMndRa19ISkdCQVgwUUx3X0ZKZ3hzZUJQOE9xdmdGQWwxdjBwMHRwRnJMMVZPMzlRdThRMDRjTndNVEJmOU96a3VIMTZ3N2tkekJpd3YzSVRsT2JfRFpiVGFYMHhNV29lTg?oc=5",
    "type": null,
-   "time": "2026-11-12T18:02:47Z",
+   "time": "2026-11-12T18:15:25Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "donald-trump-signals-end-to-vice-president-s-ira",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Donald Trump signals end to vice-president’s Iran peace deal push",
-   "summary": "Donald Trump signals end to vice-president’s Iran peace deal push",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Donald Trump signals end to vice-president’s Iran peace deal push."
-    }
-   ],
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9reTlqSS1STVliSXF3NmwwMVM2ek1sSk05Y1REN3VjaVhsZGFYbUIySGlmZ1BYcXZLU21XQzFlT3dmWHJPbWNuQklocFZxMTRrajVNNVd0S0R4ZVF4Q1VMWkxlQUE2SE16R1ZCWDZlcERVbjZKNG1SVmY0WE1sWDlab0o?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:02:34Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-say-they-attacked-pumping-statio",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline",
-   "summary": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:18:21Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-rebound-as-trump-questions-need-for-i",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
-   "summary": "Oil Prices Rebound as Trump Questions Need for Iran Deal",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Prices Rebound as Trump Questions Need for Iran Deal."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
-   "type": null,
-   "time": "2026-11-12T21:01:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "canadian-mining-company-signs-mou-with-mari-ener",
-   "country": "Canada",
-   "label": "CANADA",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Canadian mining company signs MoU with Mari Energies in South Asia push",
-   "summary": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Canadian mining company signs MoU with Mari Energies in South Asia push."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
-   "type": null,
-   "time": "2026-11-12T13:36:04Z",
-   "countries": [
-    "Canada",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "southern-iran-s-sirik-county-near-strait-of-horm",
+   "id": "trump-bluntly-tells-jd-vance-to-shift-focus-from",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media",
-   "summary": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media",
+   "headline": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
+   "summary": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media."
+     "text": "Trump bluntly tells JD Vance to shift focus from Iran to targeting 'corruption and crime' at home."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFFCZENFYk5lZUY0REprb2VyOGxnOUpEUUJHdVJwUUpfUjhGZ1JibzctTjJCRFdCX2l0cno3VmVxdVpZRzI0cGc1TWd4Q2UyZEF6bW5pTHo1aDJFdHdXc3VCOVJoNXNKOF9DT0Zid1RZRXR2ZHhJYWh5TWZPbUhtbHVsRTd1enZTMkluWE1UY0szSk84S0FMWF9pbGNKT2NhcGY2WU1PWk1EaURYR190b0o5cEVkRTNRUEU2MTVveHBjaEJD?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ3hucVhKWVM3X1M0clZMcFVrTFA0UU9ReE9RVW5LVWV2eUY1czdQcnJval9iU3ljNHVoZ0lvdV84Rm5adEFHby1EMnM1d0VfenNTOTBEM1FZczBwRVdVUG9raUF1Q2hqZnpHOFQ4SnZoMkdHZlBLUGtUME1aUmVHVFppZ0dxM2I2MEZCRGpNdzNrNm8?oc=5",
    "type": null,
-   "time": "2026-11-12T19:41:22Z",
+   "time": "2026-11-12T21:04:00Z",
    "countries": [
-    "Iran"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "crash-involving-23-vehicles-kills-14-in-uae",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Crash Involving 23 Vehicles Kills 14 in UAE",
-   "summary": "Crash Involving 23 Vehicles Kills 14 in UAE",
+   "id": "climate-challenges",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Climate challenges",
+   "summary": "THE poisonous smog blanketing Punjab is an immediate threat to public health, but it also points to a larger environmental crisis that Pakistan can no longer address through piecemeal measures.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Crash Involving 23 Vehicles Kills 14 in UAE."
+     "text": "Climate challenges."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "How serious is it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "THE poisonous smog blanketing Punjab is an immediate threat to public health, but it also points to a larger environmental crisis that Pakistan can no longer address through piecemeal measures."
     }
    ],
-   "source": "Newser",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1ZpZVk2MjZqZzZfVkliaWlFbEdqM052UE5OeVdYQ3E0XzNpWklpT1pOVVdpUUJvd2YtREVMMHFXM0FneEU5c2RnWlZneWQ3RW5vYkFpdFBVS3AxZFZjY3dtSjRfT2gtdE1uVHNHX2lLY0hJWmROdU1MX29ydFVSSS1XcmhSeVcxRWREUw?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044212/climate-challenges",
    "type": null,
-   "time": "2026-11-12T19:15:00Z",
+   "time": "2026-11-13T02:42:30Z",
    "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Sports",
+   "headline": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics",
+   "summary": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan-Sri Lanka Test hit by bad weather after Saqib Khan's heroics."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Rain and bad light hit the first Test between Pakistan and Sri Lanka after pacer Saqib Khan took seven wickets on debut to lead the home team’s fightback on Thursday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
+   "type": null,
+   "time": "2026-11-12T11:37:09Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "yemen-s-houthis-renew-strikes-on-saudi-arabia-as",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+   "summary": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-12T23:52:38Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "deadly-shooting-in-washington-dc",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Deadly shooting in Washington DC",
+   "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Deadly shooting in Washington DC."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-12T21:18:24Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "saudi-arabia-expresses-condolences-to-uae-turkiy",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi Arabia expresses condolences to UAE, Turkiye over deadly crashes",
+   "summary": "Saudi Arabia expresses condolences to UAE, Turkiye over deadly crashes",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia expresses condolences to UAE, Turkiye over deadly crashes."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFVETV9EYW51azVsR3d2dmV2U1BsbEdCbEN1U2ctX251akxsWi1GaW9UbGtfVVBpWmMzT1U5cEdaZmhxa2FmMWhfZW56OUI1UGtfbUtzMWJ4Q1luUmVKbl9TNlR6dHptMzZlbnVHSWFBUkhKR2xySS0wcTJRTDNxOEp6aTZGYUJlZmtvSndycjhvMjhlUXdwSVVnLWFZOGJ3MUNBUzBIa3l6X2RmX213dWZGdmVpdw?oc=5",
+   "type": null,
+   "time": "2026-11-13T00:29:54Z",
+   "countries": [
+    "Saudi Arabia",
     "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "four-tankers-struck-by-explosions-in-strait-of-h",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
-   "summary": "Four tankers struck by explosions in Strait of Hormuz, Iran says",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Four tankers struck by explosions in Strait of Hormuz, Iran says."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
-   "type": null,
-   "time": "2026-11-12T16:27:35Z",
-   "countries": [
-    "Iran"
    ]
   },
   {
@@ -387,20 +318,114 @@
    ]
   },
   {
-   "id": "israel-hits-gaza-hospital-and-france-turns-away-",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news",
-   "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+   "id": "witkoff-floats-european-role-in-next-ukraine-pea",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Witkoff Floats European Role in Next Ukraine Peace Talks After Abu Dhabi Sidelined EU",
+   "summary": "Witkoff Floats European Role in Next Ukraine Peace Talks After Abu Dhabi Sidelined EU",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Israel hits Gaza hospital and France turns away a settler leader, and other Mideast news."
+     "text": "Witkoff Floats European Role in Next Ukraine Peace Talks After Abu Dhabi Sidelined EU."
+    }
+   ],
+   "source": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9CZlJCZHZYSnB3NVBUdGM5bGg3UUxVWkpQcVVoRE5Tek9QdnNpdGktbGhvOVdka1hyTUR6a0RFTUl4UEc1SU5WTmtCTQ?oc=5",
+   "type": null,
+   "time": "2026-11-12T18:42:42Z",
+   "countries": [
+    "Ukraine",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "scandal-hit-nvidia-ceo-jensen-huang-quits-plungi",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-13T02:39:00Z",
+   "countries": [
+    "United States of America",
+    "China"
+   ]
+  },
+  {
+   "id": "canadian-mining-company-signs-mou-with-mari-ener",
+   "country": "Canada",
+   "label": "CANADA",
+   "lat": 56.1,
+   "lon": -106.3,
+   "flag": "🇨🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Canadian mining company signs MoU with Mari Energies in South Asia push",
+   "summary": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Canadian mining company signs MoU with Mari Energies in South Asia push."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ivanhoe Mines signed a memorandum of understanding (MoU) with Mari Energies on Thursday, the Canadian company’s chairman Robert Friedland said on the sidelines of the Pakistan Minerals Investment Forum."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
+   "type": null,
+   "time": "2026-11-12T13:36:04Z",
+   "countries": [
+    "Canada",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-trump-says-gulf-allies-urged-pause",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+   "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Trump says Gulf allies urged pause in Iran strikes."
     },
     {
      "role": "COMMANDER",
@@ -408,17 +433,41 @@
     },
     {
      "role": "ANALYST",
-     "text": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital"
+     "text": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T22:02:00Z",
+   "time": "2026-11-13T00:00:26Z",
    "countries": [
-    "Palestine",
-    "Israel",
-    "France"
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "oil-prices-squeezed-between-peace-hopes-and-iran",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+   "summary": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0RqMFB6MmQ4MFljd1BtenFxS0dPUjN4RnhCWmVTTExzdnU3OVF3a0lZMWVXelZIaGFDcHpoalhJUlRzb2pRanNOUEo0N1FpUWs3bmVlRXZmRTBnelBnaXR3RU5fQkgyX0lHR1gzOFdJTjdiX0xOaEJnWUloaUtrNEZqTW9TRXBwaElncDdoMFg2OXpWMVA0cXM0UUNlOEZBa3Z6M1YtUlBEWTTSAbABQVVfeXFMTS15d096QzhvbGtwLUUwQjVsLWNTbTdSak5nMVVtdl9waGhSUHRWQUtJU0hrQW15cEU3VWY5Y3RPS2RDN3o2OEVkS0VuVW1wekx6d19FcVROQVVRQlRjRXpEa0ZNVkhJeDQ5UTRRX2NvbjhZNUEzenlGUmpJXzdMTVQtMzNJdFdGaEJnVExabHIzVGVvN1hHRGZiX3BiZ1NMaC1UbzdUNDhYa3pSc0xNZUQ?oc=5",
+   "type": null,
+   "time": "2026-11-13T00:00:00Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -456,70 +505,28 @@
    ]
   },
   {
-   "id": "suspected-bomb-hoax-threats-force-fresh-evacuati",
-   "country": "Italy",
-   "label": "ITALY",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+   "id": "blackstone-opens-dubai-office-in-push-for-gulf-w",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Blackstone opens Dubai office in push for Gulf wealth",
+   "summary": "Blackstone opens Dubai office in push for Gulf wealth",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Suspected bomb hoax threats force fresh evacuations of Italian schools."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+     "text": "Blackstone opens Dubai office in push for Gulf wealth."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "source": "Alternative Credit Investor",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFFRWEFYRktNNmhHNG1WeWxiN2xrMkk5ZXpmdjlfOWYtVkVDdUswNmhaaC1qakd3WUo0bmp3aXN4MlZpVXhnQVZQNEdRemZjZTNHTlZHN0s1WmlBMnlZZGl5cVp2SVN0M2wtbUgwLUdWSDQwVkc0NkpBUUpFMkJjOFZEMTVHVkxFMkJxTkVOT3F6UmhaRXpoY2ZPTG1aLXdyUE9MR2VB?oc=5",
    "type": null,
-   "time": "2026-11-12T19:23:02Z",
+   "time": "2026-11-12T15:58:05Z",
    "countries": [
-    "Italy"
-   ]
-  },
-  {
-   "id": "china-s-xi-says-taiwan-reunification-must-happen",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
-   "summary": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful “ reunification ” with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The tide of history cannot be stopped, Chinese President Xi Jinping said on Thursday, ​while urging peaceful “ reunification ” with Taiwan and making no mention of using force, though he still drew a firm rebuff from Taipei."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
-   "type": null,
-   "time": "2026-11-12T11:15:56Z",
-   "countries": [
-    "China",
-    "Taiwan"
+    "United Arab Emirates"
    ]
   }
  ]
