@@ -1,132 +1,36 @@
 {
- "updated": "2026-11-12T22:45:24.416056Z",
+ "updated": "2026-11-13T18:34:35.800924Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "trump-says-no-deal-needed-with-iran-closes-down-",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "saudi-arabia-vs-south-korea-friendlies-stats-hea",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "info",
-   "category": "Business",
-   "headline": "特朗普表示不需要与伊朗达成协议，结束了万斯谈判",
-   "summary": "特朗普表示不需要与伊朗达成协议，结束了万斯谈判",
+   "category": "Middle East",
+   "headline": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋记录",
+   "summary": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋记录",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "特朗普表示不需要与伊朗达成协议，结束了万斯谈判。"
+     "text": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋。"
     }
    ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU2xOLTRxNUtSZ1BtQmhNNlltTy1lTllKaTNHc0F1OW5NT0puWDdPWkJXWGlTZjZ5VGRPZGkxemtSR1o5dWlHMVhIcHdlM0tVWkc1QWxEOU5Dc2VhS2NuTk9Tbw?oc=5",
    "type": null,
-   "time": "2026-11-12T22:04:30Z",
+   "time": "2026-11-13T17:46:26Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "South Korea"
    ]
   },
   {
-   "id": "new-talks-with-russia-ukraine-and-european-count",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "美国表示，与俄罗斯、乌克兰和欧洲国家的新会谈已达成一致",
-   "summary": "美国表示，与俄罗斯、乌克兰和欧洲国家的新会谈已达成一致",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国表示，与俄罗斯、乌克兰和欧洲国家的新会谈已达成一致。"
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-12T17:17:55Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-envoys-meet-zelensky-in-dublin-after-talks-wi",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "美国特使在莫斯科与普京会谈后在都柏林会见泽连斯基",
-   "summary": "美国特使史蒂夫·威特科夫表示，普京总统已同意欧洲谈判代表加入下一轮乌克兰谈判。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国特使在莫斯科与普京会谈后在都柏林会见泽连斯基。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有什么影响？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "美国特使史蒂夫·威特科夫表示，普京总统已同意欧洲谈判代表加入下一轮乌克兰谈判。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-12T21:00:42Z",
-   "countries": [
-    "Russia",
-    "United States of America",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "萨奇布·汗英雄事迹后，巴基斯坦-斯里兰卡测试遭遇恶劣天气",
-   "summary": "星期四，巴基斯坦队和斯里兰卡队之间的第一次测试赛遭遇降雨和恶劣光线，步行者萨奇布·汗(Saqib Khan)在首秀中拿下七个三柱门，带领主队反击。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "萨奇布·汗的英雄事迹之后，巴基斯坦-斯里兰卡测试遭遇恶劣天气。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "星期四，巴基斯坦队和斯里兰卡队之间的第一次测试赛遭遇降雨和恶劣光线，步行者萨奇布·汗(Saqib Khan)在首秀中拿下七个三柱门，带领主队反击。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
-   "type": null,
-   "time": "2026-11-12T11:37:09Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
+   "id": "usman-nurmagomedov-gets-6-month-jail-sentence-fo",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
@@ -134,236 +38,24 @@
    "flag": "🇦🇪",
    "severity": "critical",
    "category": "UAE",
-   "headline": "阿联酋称富查伊拉车祸造成14人死亡、30人受伤",
-   "summary": "阿联酋称富查伊拉车祸造成14人死亡、30人受伤",
+   "headline": "乌斯曼·努尔马戈梅多夫因阿布扎比袭击事件被判 6 个月监禁，梅拉布·德瓦利什维利从拘留中心获释",
+   "summary": "乌斯曼·努尔马戈梅多夫因阿布扎比袭击事件被判 6 个月监禁，梅拉布·德瓦利什维利从拘留中心获释",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "阿联酋称富查伊拉发生交通事故，造成14人死亡、30人受伤。"
+     "text": "乌斯曼·努尔马戈梅多夫 (Usman Nurmagomedov) 因阿布扎比袭击事件被判 6 个月监禁，梅拉布·德瓦利什维利 (Merab Dvalishvili) 从拘留中心获释。"
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWZpQUh3ZXFBTW4teklsZWNlYmMwTXVyUnNqVDBSYTBGbmZ2eUh0MzRRTTJYV3NqcTVtZHJOZ0FpSmk5d3AxWXladmVPVHJ6a21FYlBuRVUwM3BYaUR1YmxiNUhLQ2RGY0JnZ0t1UWNEcE83VVZMeUZWb25qLVNlYTlzcllKanZ2Q3lzNFgzeEJIck8zeWxvTGVGb1FwRU5VUnFKZlZ3OVNDWHFiUTBSNU45QnFGYzJ3SzJJdWNFRkliQnJhM3BKcWF5T19BSW1tSXRzdG04RVFjeDlhX0hjaGNwX3R3ZDZLWFN4ZzB2WXN1WUVvS1BWNg?oc=5",
    "type": null,
-   "time": "2026-11-12T16:01:46Z",
+   "time": "2026-11-13T15:07:15Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "abu-dhabi-cops-arrest-eight-in-merab-usman-brawl",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "阿布扎比警察在梅拉布-乌斯曼斗殴事件中逮捕了八人",
-   "summary": "阿布扎比警察在梅拉布-乌斯曼斗殴事件中逮捕了八人",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿布扎比警察在梅拉布-乌斯曼斗殴事件中逮捕了八人。"
-    }
-   ],
-   "source": "MMA Mania",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWd4MXM3QzBRRzJJZ1h6TGZGRU5scUNqSVg0ZkI0cWk2a3hVd2Zrb1pzMDYtYzBaSEs2Tko5TFZKLU52YWV4N01ybDBJVGxadUd1RkVhck51UmFLR2xZTm5pS1hYUkFiSjkxTy1rSlFqMU1uQ2hzYVAtV0ZjV3kyOW1FT0lmcE5tR0d5Tzk4eXd1VFZ1anNPVzhTR3JreEhuRlFRWWswcnl3emJNN0E3T2p0bFZMMHc?oc=5",
-   "type": null,
-   "time": "2026-11-12T18:02:47Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "donald-trump-signals-end-to-vice-president-s-ira",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Business",
-   "headline": "唐纳德·特朗普表示副总统结束伊朗和平协议推动",
-   "summary": "唐纳德·特朗普表示副总统结束伊朗和平协议推动",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "唐纳德·特朗普发出信号，结束副总统推动的伊朗和平协议。"
-    }
-   ],
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9reTlqSS1STVliSXF3NmwwMVM2ek1sSk05Y1REN3VjaVhsZGFYbUIySGlmZ1BYcXZLU21XQzFlT3dmWHJPbWNuQklocFZxMTRrajVNNVd0S0R4ZVF4Q1VMWkxlQUE2SE16R1ZCWDZlcERVbjZKNG1SVmY0WE1sWDlab0o?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:02:34Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-say-they-attacked-pumping-statio",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "也门胡塞武装称他们袭击了沙特阿拉伯东西石油管道的泵站",
-   "summary": "也门胡塞武装称他们袭击了沙特阿拉伯东西石油管道的泵站",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "也门胡塞武装称，他们袭击了沙特阿拉伯东西石油管道上的泵站。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:18:21Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-rebound-as-trump-questions-need-for-i",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "特朗普质疑伊朗协议必要性，油价反弹",
-   "summary": "特朗普质疑伊朗协议必要性，油价反弹",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "由于特朗普质疑伊朗协议的必要性，油价反弹。"
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
-   "type": null,
-   "time": "2026-11-12T21:01:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "canadian-mining-company-signs-mou-with-mari-ener",
-   "country": "Canada",
-   "label": "加拿大",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "加拿大矿业公司与 Mari Energies 签署谅解备忘录，推动南亚业务",
-   "summary": "艾芬豪矿业 (Ivanhoe Mines) 董事长罗伯特·弗里德兰 (Robert Friedland) 在巴基斯坦矿产投资论坛间隙表示，周四，艾芬豪矿业 (Ivanhoe Mines) 与 Mari Energies 签署了一份谅解备忘录 (MoU)。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "加拿大矿业公司与 Mari Energies 签署谅解备忘录，推动南亚业务。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "艾芬豪矿业 (Ivanhoe Mines) 董事长罗伯特·弗里德兰 (Robert Friedland) 在巴基斯坦矿产投资论坛间隙表示，周四，艾芬豪矿业 (Ivanhoe Mines) 与 Mari Energies 签署了一份谅解备忘录 (MoU)。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
-   "type": null,
-   "time": "2026-11-12T13:36:04Z",
-   "countries": [
-    "Canada",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "southern-iran-s-sirik-county-near-strait-of-horm",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗南部霍尔木兹海峡附近的锡里克县遭到“敌方”袭击：官方媒体",
-   "summary": "伊朗南部霍尔木兹海峡附近的锡里克县遭到“敌方”袭击：官方媒体",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗南部霍尔木兹海峡附近的锡里克县遭到“敌方”袭击：官方媒体。"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFFCZENFYk5lZUY0REprb2VyOGxnOUpEUUJHdVJwUUpfUjhGZ1JibzctTjJCRFdCX2l0cno3VmVxdVpZRzI0cGc1TWd4Q2UyZEF6bW5pTHo1aDJFdHdXc3VCOVJoNXNKOF9DT0Zid1RZRXR2ZHhJYWh5TWZPbUhtbHVsRTd1enZTMkluWE1UY0szSk84S0FMWF9pbGNKT2NhcGY2WU1PWk1EaURYR190b0o5cEVkRTNRUEU2MTVveHBjaEJD?oc=5",
-   "type": null,
-   "time": "2026-11-12T19:41:22Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "crash-involving-23-vehicles-kills-14-in-uae",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "阿联酋发生23辆车相撞事故，造成14人死亡",
-   "summary": "阿联酋发生23辆车相撞事故，造成14人死亡",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋发生一起涉及 23 辆车的车祸，造成 14 人死亡。"
-    }
-   ],
-   "source": "Newser",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1ZpZVk2MjZqZzZfVkliaWlFbEdqM052UE5OeVdYQ3E0XzNpWklpT1pOVVdpUUJvd2YtREVMMHFXM0FneEU5c2RnWlZneWQ3RW5vYkFpdFBVS3AxZFZjY3dtSjRfT2gtdE1uVHNHX2lLY0hJWmROdU1MX29ydFVSSS1XcmhSeVcxRWREUw?oc=5",
-   "type": null,
-   "time": "2026-11-12T19:15:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "four-tankers-struck-by-explosions-in-strait-of-h",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗称四艘油轮在霍尔木兹海峡发生爆炸",
-   "summary": "伊朗称四艘油轮在霍尔木兹海峡发生爆炸",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗称，四艘油轮在霍尔木兹海峡发生爆炸。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
-   "type": null,
-   "time": "2026-11-12T16:27:35Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ten-police-officers-18-fighters-killed-in-northw",
+   "id": "pakistan-military-reports-it-killed-74-terrorist",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -371,106 +63,12 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "巴基斯坦西北部袭击造成10名警察、18名武装分子死亡",
-   "summary": "巴基斯坦西北部袭击造成10名警察、18名武装分子死亡",
+   "headline": "巴基斯坦军方报告称在袭击中杀死了 74 名“恐怖分子”",
+   "summary": "阿富汗边境袭击事件增多，导致邻国关系紧张。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "10 名警察、18 名武装分子在巴基斯坦西北部的袭击中丧生。"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1EyZEVPSGEzVExyQ2lZSE5kX2pDYzRpXzc5U3dsMnp1aWlwWWhURzhpUmtjbGliOC1RdG5KY21DbGdfV0JUWU9TNWQtQ0k3WEZjczdPSTJEcktseDNVZTJfOVVqZlFCYWE3MHIzNFpYTkR4T00xY2FiSnNSdEFXMzBqVllRU3RBT1ZGOWdPRXFjTkd6VE1lcDkwaGpKQnVlQXRRRmFxa2huV1QxSUHSAbMBQVVfeXFMUFI0dmR5M2pRekxQMjU4eTRIbS1Jd2dNUjJYZHVMc0Z2VFMzTEUzSTVYNHBLSS1oOFVxekpoX2JKSS1PQTBNS3RiWEhoVGFpYXlnWXhCY2VSOHphWU1VNnlpQnJHa2IyR1ExZjRMM1Z0VDhoWWNvbWdzcnAzMGJXLTlMYzNIN0E5UzFwMHd5OFY1d290OHUtMHlKSHhNdktVSkFFdWV1MFctM1huaTJNM1htaDA?oc=5",
-   "type": null,
-   "time": "2026-11-12T15:36:57Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "israel-hits-gaza-hospital-and-france-turns-away-",
-   "country": "Palestine",
-   "label": "巴勒斯坦",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "以色列袭击加沙医院，法国拒绝定居者领导人，以及其他中东新闻",
-   "summary": "半岛电视台记者塔里克·阿布·阿祖姆报道以色列袭击纳赛尔医院的后果",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "以色列袭击加沙医院，法国拒绝一名定居者领导人，以及其他中东新闻。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "半岛电视台记者塔里克·阿布·阿祖姆报道以色列袭击纳赛尔医院的后果"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
-   "type": null,
-   "time": "2026-11-12T22:02:00Z",
-   "countries": [
-    "Palestine",
-    "Israel",
-    "France"
-   ]
-  },
-  {
-   "id": "russian-warship-hit-by-ukrainian-drone-in-gulf-o",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "俄罗斯军舰在芬兰湾被乌克兰无人机击中",
-   "summary": "此次袭击被认为是乌克兰无人机首次在波罗的海开阔海域袭击俄罗斯船只。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯军舰在芬兰湾被乌克兰无人机击中。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "此次袭击被认为是乌克兰无人机首次在波罗的海开阔海域袭击俄罗斯船只。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-12T20:09:16Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "suspected-bomb-hoax-threats-force-fresh-evacuati",
-   "country": "Italy",
-   "label": "意大利",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "疑似炸弹恶作剧威胁迫使意大利学校重新疏散",
-   "summary": "意大利各地的学校连续第二天收到炸弹威胁，引发新的恐慌和疏散。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "疑似炸弹恶作剧威胁迫使意大利学校重新疏散。"
+     "text": "巴基斯坦军方报告称，在袭击中杀死了 74 名“恐怖分子”。"
     },
     {
      "role": "COMMANDER",
@@ -478,49 +76,451 @@
     },
     {
      "role": "ANALYST",
-     "text": "意大利各地的学校连续第二天收到炸弹威胁，引发新的恐慌和疏散。"
+     "text": "阿富汗边境袭击事件增多，导致邻国关系紧张。"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T19:23:02Z",
+   "time": "2026-11-13T11:59:34Z",
    "countries": [
-    "Italy"
+    "Pakistan",
+    "Afghanistan"
    ]
   },
   {
-   "id": "china-s-xi-says-taiwan-reunification-must-happen",
-   "country": "China",
-   "label": "中国",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
+   "id": "gold-smuggled-from-war-zones-entered-the-uae-des",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "critical",
-   "category": "Tech",
-   "headline": "中国习近平称台湾“统一”必须实现，历史无法阻止",
-   "summary": "中国国家主席习近平周四表示，历史的潮流无法阻挡，同时敦促与台湾和平“统一”，并没有提到使用武力，尽管他仍然遭到台北的坚决拒绝。",
+   "category": "UAE",
+   "headline": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋",
+   "summary": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "中国习近平表示，台湾“统一”必须实现，因为历史无法阻止。"
+     "text": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋。"
+    }
+   ],
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2dpclhYVnNMX1V5RVFKT0twRTZxaTNTZDBHN0dibDdOMVpCUXRoUXI5TEtDRWtGVVFYTVlLY2p4Tno5X1I0MXZkd1BOZnJWOVVwRzU3d09Wdm1JdjNFaGJMdEIzMDNhRHp3cFVrcHhDMDM3RTNJSWV5YzF4WWcwQlhSWmRsd3ZoRTI1elBHalktT19VaTJRN3A5eUJTV05Sc3BEbFgzNGtGSEVlM3p2YU5HT0IyWkZUZGRGRnFQYko4RTRvZS04bmtONVg2Z9IB0wFBVV95cUxPTW5Pbk44ZEZZLWxROTExNm5RZkNMTVVWMnZ6QTViem5fMHFTamZhTF9sTW5ucWVmeElSX09ucHNZR1dNdlg2Sk0tRW1Kak9xWmR6UWZNSUQyeVNybnRycHlXYkFrMVZSckxpYVFXdlBjM2stRnZGZUZCU2hYTEpWOG1mWVdhSVpXbjRaNTh6SC1fN3dDMmNGWFZoQzNJQkIxTGFGT1BfYWRwMi1XaExsNFFEdUdzTzV0RXIyUlpwa0pJVlNVRW5JZ0I2b3N3akVWQl9n?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:59:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-bad-weather-hold-sri-lanka-to-draw-in-f",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "巴基斯坦，恶劣天气使斯里兰卡在第一次测试中陷入困境",
+   "summary": "在沙特·沙基尔的带领下，在恶劣天气的帮助下，巴基斯坦挫败了斯里兰卡的胜利，周五在拉瓦尔品第举行的第五场也是最后一天的第一次测试以平局结束。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦，恶劣的天气使斯里兰卡在第一次测试中陷入困境。"
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "明白了。继续。"
     },
     {
      "role": "ANALYST",
-     "text": "中国国家主席习近平周四表示，历史的潮流无法阻挡，同时敦促与台湾和平“统一”，并没有提到使用武力，尽管他仍然遭到台北的坚决拒绝。"
+     "text": "在沙特·沙基尔的带领下，在恶劣天气的帮助下，巴基斯坦挫败了斯里兰卡的胜利，周五在拉瓦尔品第举行的第五场也是最后一天的第一次测试以平局结束。"
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+   "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
    "type": null,
-   "time": "2026-11-12T11:15:56Z",
+   "time": "2026-11-13T12:29:11Z",
    "countries": [
-    "China",
-    "Taiwan"
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "us-denies-iran-s-claim-it-hit-two-radar-sites-in",
+   "country": "Bahrain",
+   "label": "巴林",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "美国否认伊朗声称袭击了巴林的两个雷达站",
+   "summary": "美国否认伊朗声称袭击了巴林的两个雷达站",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国否认伊朗声称其袭击了巴林的两个雷达站。"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:21:45Z",
+   "countries": [
+    "Bahrain",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-immediate-end-to-houthi-attac",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Business",
+   "headline": "联合国安理会延长也门制裁，巴基斯坦呼吁“立即”停止胡塞武装对沙特阿拉伯的袭击",
+   "summary": "华盛顿：周四，巴基斯坦呼吁“立即无条件”停止胡塞武装对沙特阿拉伯的袭击，联合国安理会通过了一项决议，延长对威胁和平与稳定的个人和实体的制裁。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着联合国安理会延长对也门的制裁，巴基斯坦呼吁“立即”停止胡塞武装对沙特阿拉伯的袭击。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "华盛顿：周四，巴基斯坦呼吁“立即无条件”停止胡塞武装对沙特阿拉伯的袭击，联合国安理会通过了一项决议，延长对威胁和平与稳定的个人和实体的制裁。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions",
+   "type": null,
+   "time": "2026-11-13T04:12:33Z",
+   "countries": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "eu-leaders-tussle-over-whom-to-send-to-ukraine-p",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "欧盟领导人就派谁前往乌克兰与俄罗斯进行和平谈判争论不休",
+   "summary": "欧盟领导人就派谁前往乌克兰与俄罗斯进行和平谈判争论不休",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "欧盟领导人正在争论派谁去乌克兰与俄罗斯进行和平谈判。"
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJtTGJ2SF9sUkx4dm1IWnNLYmM3VE5lT195M2ZMOFdZMGN3d1JjdmFBRWdVT19FcU1yckxzNUJVTGNXbUFSYlJqRWxhR29rcVhlZ2tSeFE0MEtINXdSTklic2xCTWxHRUlsLW02NFc5N1NEcm1KZHBXTS1lR3hhLU9JWkQ3NkpfSlJVUU12a0xKUWF4R19XaFlqdnFyZXPSAZ8BQVVfeXFMTmJGLTRyRXY1WjY5UlNrM2NKLUVkN3M2OXd0NHVPaS1ZbUZXalVicEJ6U2VaRWd5NGJqNDFieUEzRVUxYm5VQkVJZ3JETlN2bDJNV0Uwd2FVNlRsd0ItN0pNRDhIb1dyZW54YlRGTjBwRGZZckxzNDJRVDZrSktsWVBpR2hOR0t4Z09kQV9iREpzdGRDdmw0YTZzMnRSYTNJ?oc=5",
+   "type": null,
+   "time": "2026-11-13T14:19:27Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "china-s-transsion-holdings-eyes-expansion-into-c",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "中国传音控股计划进军巴基斯坦零部件制造领域",
+   "summary": "中国传音控股计划进军巴基斯坦零部件制造领域",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中国传音控股公司计划进军巴基斯坦零部件制造领域。"
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmEyM0sycUVCTnhia2Qxb1g4SVFGcnJVZF9fenJBYk9OcldpOHFmc1g2dko0UExWbzZ3SzMwNnUwVFBTSnplYWhvd3FQNGp1b1Z6SW81NzBnRzgxeGItM291WFdMRXZPYVRSWEs5akFxZzRuQU9MVlM1UEsxZmU5Tmx0NWVWY1loX2tHOFdReG13ZmJhMjhkR3JXQ2k3ZG5CSmdIRVZHZlZOQW1yRjQ3SEc1eElDc09FSEJZZUtRbDJ6blk?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:43:21Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "rory-mcilroy-tyrrell-hatton-share-lead-at-midway",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "迪拜赛中途，罗里·麦克罗伊和泰瑞尔·哈顿并列领先",
+   "summary": "迪拜赛中途，罗里·麦克罗伊和泰瑞尔·哈顿并列领先",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "罗里·麦克罗伊 (Rory McIlroy) 和泰瑞尔·哈顿 (Tyrrell Hatton) 在迪拜中途并列领先。"
+    }
+   ],
+   "source": "Field Level Media",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXhGZC1WbmxuYWQ1TDczYmN3aUg1LWYwY0pJbWhZbjVyaUFQYV9Gc0FidHVNYlNGdzhHR2hoOWRvV1owSHJVSDRiREhUd0x5MWJUZkZ6MU5HZm9PS1huZlFzcDJzNnRDNG9wTFg2anlnN1NpT2k3eFUzX3JHNVFWNTFzUDRfd2ZESjhidGhvdW16dmZ1TV9nZy14TkZBSWM0RVlJ?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:11:47Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-honours-fallen-soldiers-in-iran-iraq-war-wi",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "伊朗展示导弹纪念两伊战争中阵亡士兵",
+   "summary": "数千人聚集在德黑兰举行集体葬礼，悼念在两伊战争中丧生的 110 名身份不明的士兵。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗通过导弹展示纪念两伊战争中阵亡的士兵。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "数千人聚集在德黑兰举行集体葬礼，悼念在两伊战争中丧生的 110 名身份不明的士兵。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T18:09:05Z",
+   "countries": [
+    "Iran",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "us-treasury-warns-against-rate-hikes-during-us-i",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "美国财政部警告不要在美伊战争期间加息 能源“冲击”",
+   "summary": "尽管财政部长 Scott Bessent 发表了上述言论，但金融追踪机构 CME Fed Watch 预测 12 月可能加息。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国财政部警告不要在美伊战争能源“冲击”期间加息。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "尽管财政部长 Scott Bessent 发表了上述言论，但金融追踪机构 CME Fed Watch 预测 12 月可能加息。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T16:22:33Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "mossad-chief-meets-u-s-officials-to-discuss-iran",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "摩萨德主席会见美国官员讨论伊朗问题，内塔尼亚胡推动战争",
+   "summary": "摩萨德主席会见美国官员讨论伊朗问题，内塔尼亚胡推动战争",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "内塔尼亚胡推动战争之际，摩萨德负责人会见美国官员讨论伊朗问题。"
+    }
+   ],
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
+   "type": null,
+   "time": "2026-11-13T15:34:00Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Israel"
+   ]
+  },
+  {
+   "id": "saudi-arabia-under-us-pressure-to-persuade-pakis",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "沙特阿拉伯在美国压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，埃及呼吁对话",
+   "summary": "沙特阿拉伯在美国压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，埃及呼吁对话",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "沙特阿拉伯在美国的压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，而埃及则呼吁进行对话。"
+    }
+   ],
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
+   "type": null,
+   "time": "2026-11-13T15:30:50Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Pakistan",
+    "Turkey",
+    "Iran",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gulf-oil-exports-recover-as-hormuz-shipping-stru",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "霍尔木兹航运陷入困境，海湾石油出口恢复",
+   "summary": "霍尔木兹航运陷入困境，海湾石油出口恢复",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "霍尔木兹航运陷入困境，海湾石油出口恢复。"
+    }
+   ],
+   "source": "gCaptain",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2lpMnBhNWlzWjQtZjBBcUFCSzNWMmxKeUdEaENxNnpTTFFQck1kbTd0d21WRm9PTHAzeDI0RHZPY2FlYjc0blAyZlg0UXVFUUExODhXc1FmQ3A5MnJzTGN6VTRPYktzWmlzSjRWNzBOTXdwVUE0UlhhVi1VNUo4UA?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:51:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "second-car-bomb-hits-russia-in-two-days",
+   "country": "Russia",
+   "label": "俄罗斯",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "两天内第二起汽车炸弹袭击俄罗斯",
+   "summary": "两天内第二起汽车炸弹袭击俄罗斯",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "两天内第二起汽车炸弹袭击了俄罗斯。"
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ21Ha3hab1pPbm1lakQxaGgwT3hLTUNSV3BlM3lmZ1pwSHBXcVpFaXhRSXFIVWtyeXpEQlV3SzlPazhKQkxNVUJfd3ZnbGZjVUQwQ2cxbV9INkY1dlFlcUlfVmI2WGRsY3AyUm9TczlKTFBlMG9vOHJnc3dfMVJPLVFLQ040SzlBdUFyNw?oc=5",
+   "type": null,
+   "time": "2026-11-13T09:23:09Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "us-military-downs-2-iranian-attack-drones-as-ira",
+   "country": "Bahrain",
+   "label": "巴林",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗声称袭击了巴林的美国雷达，美军击落两架伊朗攻击无人机",
+   "summary": "伊朗声称袭击了巴林的美国雷达，美军击落两架伊朗攻击无人机",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗声称袭击了巴林的美国雷达，美国军方击落了两架伊朗攻击无人机。"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:22:00Z",
+   "countries": [
+    "Bahrain",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "car-bombings-in-russia-kill-military-officer-inj",
+   "country": "Russia",
+   "label": "俄罗斯",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "俄罗斯汽车爆炸造成军官死亡、乌克兰前总理顾问受伤",
+   "summary": "莫斯科指责基辅制造了一系列汽车爆炸事件，这些爆炸事件的目标是与乌克兰战争有关的人。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "俄罗斯汽车爆炸造成军官死亡、乌克兰前总理顾问受伤。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "莫斯科指责基辅制造了一系列汽车爆炸事件，这些爆炸事件的目标是与乌克兰战争有关的人。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T16:44:56Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   }
  ]

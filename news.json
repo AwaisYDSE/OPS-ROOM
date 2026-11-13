@@ -1,9 +1,60 @@
 {
- "updated": "2026-11-13T11:10:22.946569Z",
+ "updated": "2026-11-13T18:34:35.800924Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "pakistan-s-army-says-it-killed-74-militants-in-r",
+   "id": "saudi-arabia-vs-south-korea-friendlies-stats-hea",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head",
+   "summary": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU2xOLTRxNUtSZ1BtQmhNNlltTy1lTllKaTNHc0F1OW5NT0puWDdPWkJXWGlTZjZ5VGRPZGkxemtSR1o5dWlHMVhIcHdlM0tVWkc1QWxEOU5Dc2VhS2NuTk9Tbw?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:46:26Z",
+   "countries": [
+    "Saudi Arabia",
+    "South Korea"
+   ]
+  },
+  {
+   "id": "usman-nurmagomedov-gets-6-month-jail-sentence-fo",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Usman Nurmagomedov gets 6-month jail sentence for Abu Dhabi attack, Merab Dvalishvili freed from detention center",
+   "summary": "Usman Nurmagomedov gets 6-month jail sentence for Abu Dhabi attack, Merab Dvalishvili freed from detention center",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Usman Nurmagomedov gets 6-month jail sentence for Abu Dhabi attack, Merab Dvalishvili freed from detention center."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWZpQUh3ZXFBTW4teklsZWNlYmMwTXVyUnNqVDBSYTBGbmZ2eUh0MzRRTTJYV3NqcTVtZHJOZ0FpSmk5d3AxWXladmVPVHJ6a21FYlBuRVUwM3BYaUR1YmxiNUhLQ2RGY0JnZ0t1UWNEcE83VVZMeUZWb25qLVNlYTlzcllKanZ2Q3lzNFgzeEJIck8zeWxvTGVGb1FwRU5VUnFKZlZ3OVNDWHFiUTBSNU45QnFGYzJ3SzJJdWNFRkliQnJhM3BKcWF5T19BSW1tSXRzdG04RVFjeDlhX0hjaGNwX3R3ZDZLWFN4ZzB2WXN1WUVvS1BWNg?oc=5",
+   "type": null,
+   "time": "2026-11-13T15:07:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-military-reports-it-killed-74-terrorist",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -11,216 +62,115 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan's army says it killed 74 militants in raids on their hideouts",
-   "summary": "Pakistan's army says it killed 74 militants in raids on their hideouts",
+   "headline": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+   "summary": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan's army says it killed 74 militants in raids on their hideouts."
-    }
-   ],
-   "source": "Audacy",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWRNUWYtalhHNGgxZC1tWlFBbWtKdVhGUEZIWW1JZFZuQ0w3dmxfTFJNUlJfWld5OHk2ak56Rmc2aGVRdDNhSWNYSV8wOWlGMGNuVTVZMGNMV1Z6VjUtMFVxc3hyRHFaSFpTZTlzdXViMDlwUVpzMkZqSy0zXzA1c0JWWXRkdG5SX1NWc0hDLV83akI1Qkl0ZWk5VEw0Qm9x?oc=5",
-   "type": null,
-   "time": "2026-11-13T06:46:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "why-is-trump-saying-no-deal-necessary-with-iran-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
-   "summary": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?."
+     "text": "Pakistan military reports it killed 74 ‘terrorists’ during raids."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "The US-Iran war is trapped in an ongoing 'no war, no peace' situation, analysts say."
+     "text": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
    "type": null,
-   "time": "2026-11-13T10:26:22Z",
+   "time": "2026-11-13T11:59:34Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Pakistan",
+    "Afghanistan"
    ]
   },
   {
-   "id": "zelensky-welcomes-us-bringing-europe-into-russia",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-   "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+   "id": "gold-smuggled-from-war-zones-entered-the-uae-des",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
+   "summary": "Gold smuggled from war zones entered the UAE despite new regulations, report says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+     "text": "Gold smuggled from war zones entered the UAE despite new regulations, report says."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2dpclhYVnNMX1V5RVFKT0twRTZxaTNTZDBHN0dibDdOMVpCUXRoUXI5TEtDRWtGVVFYTVlLY2p4Tno5X1I0MXZkd1BOZnJWOVVwRzU3d09Wdm1JdjNFaGJMdEIzMDNhRHp3cFVrcHhDMDM3RTNJSWV5YzF4WWcwQlhSWmRsd3ZoRTI1elBHalktT19VaTJRN3A5eUJTV05Sc3BEbFgzNGtGSEVlM3p2YU5HT0IyWkZUZGRGRnFQYko4RTRvZS04bmtONVg2Z9IB0wFBVV95cUxPTW5Pbk44ZEZZLWxROTExNm5RZkNMTVVWMnZ6QTViem5fMHFTamZhTF9sTW5ucWVmeElSX09ucHNZR1dNdlg2Sk0tRW1Kak9xWmR6UWZNSUQyeVNybnRycHlXYkFrMVZSckxpYVFXdlBjM2stRnZGZUZCU2hYTEpWOG1mWVdhSVpXbjRaNTh6SC1fN3dDMmNGWFZoQzNJQkIxTGFGT1BfYWRwMi1XaExsNFFEdUdzTzV0RXIyUlpwa0pJVlNVRW5JZ0I2b3N3akVWQl9n?oc=5",
    "type": null,
-   "time": "2026-11-13T02:01:35Z",
+   "time": "2026-11-13T17:59:00Z",
    "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "security-forces-kill-74-terrorists-during-ibos-i",
+   "id": "pakistan-bad-weather-hold-sri-lanka-to-draw-in-f",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR",
-   "summary": "Security forces have killed 74 terrorists during intelligence-based operations (IBOs) in Khyber Pakhtunkhwa (KP) and Balochistan, said a statement by the military’s media wing on Friday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Security forces have killed 74 terrorists during intelligence-based operations (IBOs) in Khyber Pakhtunkhwa (KP) and Balochistan, said a statement by the military’s media wing on Friday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044260/security-forces-kill-74-terrorists-during-ibos-in-khyber-pakhtunkhwa-balochistan-ispr",
-   "type": null,
-   "time": "2026-11-13T08:45:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oil-prices-set-for-second-weekly-decline-as-trum",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil prices set for second weekly decline as Trump sticks with Iran blockade",
-   "summary": "Oil prices set for second weekly decline as Trump sticks with Iran blockade",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil prices set for second weekly decline as Trump sticks with Iran blockade."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0ZTUUtQbXVySmRXLWtEc2xtZDk5RWkwa29OWlEyQjN3UXVzMkZTYzF3ajVoNkVXZnBnODVRTkN0b1ZwaVk4VE5KOXFqZktYbG1PN1RwdEtwS1ZEb3BBUEkxM2JtUl91NkxCMWpjbmxWV3RScndxMjJUcjh4dEpZM256Nl8tY19iWmp4OExndnRRaXQwdFRpMGRYRDFnNGQ1eEFhNEVrZjZwaW0tamJkLXFYa1I3V1EzbVE?oc=5",
-   "type": null,
-   "time": "2026-11-13T03:01:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "islamabad-to-become-country-s-first-fully-cashle",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
+   "severity": "info",
    "category": "Pakistan",
-   "headline": "Islamabad to become country's first fully cashless city by year-end",
-   "summary": "ISLAMABAD: The government has decided to make the federal capital the country’s first fully cashless city, setting Dec 31 as the deadline for the transition.",
+   "headline": "Pakistan, bad weather hold Sri Lanka to draw in first Test",
+   "summary": "Led by Saud Shakeel and aided by bad weather, Pakistan foiled Sri Lanka’s bid for victory as the first Test ended in a draw on the fifth and final day in Rawalpindi on Friday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Islamabad to become country's first fully cashless city by year-end."
+     "text": "Pakistan, bad weather hold Sri Lanka to draw in first Test."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "ISLAMABAD: The government has decided to make the federal capital the country’s first fully cashless city, setting Dec 31 as the deadline for the transition."
+     "text": "Led by Saud Shakeel and aided by bad weather, Pakistan foiled Sri Lanka’s bid for victory as the first Test ended in a draw on the fifth and final day in Rawalpindi on Friday."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044285/islamabad-to-become-countrys-first-fully-cashless-city-by-year-end",
+   "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
    "type": null,
-   "time": "2026-11-13T10:19:43Z",
+   "time": "2026-11-13T12:29:11Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "russia-and-ukraine-report-overnight-attacks-amid",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-   "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+   "id": "us-denies-iran-s-claim-it-hit-two-radar-sites-in",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "US denies Iran’s claim it hit two radar sites in Bahrain",
+   "summary": "US denies Iran’s claim it hit two radar sites in Bahrain",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia and Ukraine report overnight attacks amid US diplomatic push."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress."
+     "text": "US denies Iran’s claim it hit two radar sites in Bahrain."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
    "type": null,
-   "time": "2026-11-13T10:11:38Z",
+   "time": "2026-11-13T16:21:45Z",
    "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
+    "Bahrain",
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -241,7 +191,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
@@ -260,7 +210,59 @@
    ]
   },
   {
-   "id": "uae-announces-three-day-federal-holiday-for-55th",
+   "id": "eu-leaders-tussle-over-whom-to-send-to-ukraine-p",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "EU leaders tussle over whom to send to Ukraine peace talks with Russia",
+   "summary": "EU leaders tussle over whom to send to Ukraine peace talks with Russia",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "EU leaders tussle over whom to send to Ukraine peace talks with Russia."
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJtTGJ2SF9sUkx4dm1IWnNLYmM3VE5lT195M2ZMOFdZMGN3d1JjdmFBRWdVT19FcU1yckxzNUJVTGNXbUFSYlJqRWxhR29rcVhlZ2tSeFE0MEtINXdSTklic2xCTWxHRUlsLW02NFc5N1NEcm1KZHBXTS1lR3hhLU9JWkQ3NkpfSlJVUU12a0xKUWF4R19XaFlqdnFyZXPSAZ8BQVVfeXFMTmJGLTRyRXY1WjY5UlNrM2NKLUVkN3M2OXd0NHVPaS1ZbUZXalVicEJ6U2VaRWd5NGJqNDFieUEzRVUxYm5VQkVJZ3JETlN2bDJNV0Uwd2FVNlRsd0ItN0pNRDhIb1dyZW54YlRGTjBwRGZZckxzNDJRVDZrSktsWVBpR2hOR0t4Z09kQV9iREpzdGRDdmw0YTZzMnRSYTNJ?oc=5",
+   "type": null,
+   "time": "2026-11-13T14:19:27Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "china-s-transsion-holdings-eyes-expansion-into-c",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "China's Transsion Holdings eyes expansion into component manufacturing in Pakistan",
+   "summary": "China's Transsion Holdings eyes expansion into component manufacturing in Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "China's Transsion Holdings eyes expansion into component manufacturing in Pakistan."
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmEyM0sycUVCTnhia2Qxb1g4SVFGcnJVZF9fenJBYk9OcldpOHFmc1g2dko0UExWbzZ3SzMwNnUwVFBTSnplYWhvd3FQNGp1b1Z6SW81NzBnRzgxeGItM291WFdMRXZPYVRSWEs5akFxZzRuQU9MVlM1UEsxZmU5Tmx0NWVWY1loX2tHOFdReG13ZmJhMjhkR3JXQ2k3ZG5CSmdIRVZHZlZOQW1yRjQ3SEc1eElDc09FSEJZZUtRbDJ6blk?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:43:21Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "rory-mcilroy-tyrrell-hatton-share-lead-at-midway",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -268,135 +270,58 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "UAE announces three-day federal holiday for 55th Union Day",
-   "summary": "UAE announces three-day federal holiday for 55th Union Day",
+   "headline": "Rory McIlroy, Tyrrell Hatton share lead at midway point in Dubai",
+   "summary": "Rory McIlroy, Tyrrell Hatton share lead at midway point in Dubai",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE announces three-day federal holiday for 55th Union Day."
+     "text": "Rory McIlroy, Tyrrell Hatton share lead at midway point in Dubai."
     }
    ],
-   "source": "Gulf Today",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXVMcDRna3BkSTh5ajBteXlEWWp3UUdoVkx3WkFIV21HT25mdzhlY3Z4UGtobXN5VmRWdmlwSnlLYmI2UVg2N2hOVmU4ZHZOZnVhS1hKRWF0ZlE5NEFVenpKOG5NcFVaVjRPUW05ajFhbVRSR3hEblMxLVBpWXNBMTJxRWJnUDQyckF4bEQ3ZThiRDJ3aFZvM2ZGNUJYdTJn?oc=5",
+   "source": "Field Level Media",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXhGZC1WbmxuYWQ1TDczYmN3aUg1LWYwY0pJbWhZbjVyaUFQYV9Gc0FidHVNYlNGdzhHR2hoOWRvV1owSHJVSDRiREhUd0x5MWJUZkZ6MU5HZm9PS1huZlFzcDJzNnRDNG9wTFg2anlnN1NpT2k3eFUzX3JHNVFWNTFzUDRfd2ZESjhidGhvdW16dmZ1TV9nZy14TkZBSWM0RVlJ?oc=5",
    "type": null,
-   "time": "2026-11-13T09:04:44Z",
+   "time": "2026-11-13T16:11:47Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "iran-says-tanker-carrying-lng-hit-mine-suffered-",
+   "id": "iran-honours-fallen-soldiers-in-iran-iraq-war-wi",
    "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
-   "summary": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+   "headline": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+   "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
-   "type": null,
-   "time": "2026-11-13T07:00:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "us-envoys-meet-with-putin-in-moscow-on-ukraine-t",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "Business",
-   "headline": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-   "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin."
+     "text": "Iran honours fallen soldiers in Iran-Iraq war with missile display."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal."
+     "text": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
    "type": null,
-   "time": "2026-11-13T02:09:00Z",
+   "time": "2026-11-13T18:09:05Z",
    "countries": [
-    "Russia",
-    "United States of America",
-    "Ukraine"
+    "Iran",
+    "Iraq"
    ]
   },
   {
-   "id": "abu-dhabi-talks-advance-diplomacy-not-peace-as-r",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "Abu Dhabi talks advance diplomacy, not peace, as Russia seeks broader security bargain",
-   "summary": "Abu Dhabi talks advance diplomacy, not peace, as Russia seeks broader security bargain",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Abu Dhabi talks advance diplomacy, not peace, as Russia seeks broader security bargain."
-    }
-   ],
-   "source": "The Ukrainian Weekly",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUdlMk5pZHQyVkhtU1Nya3NwTXhHczVDU3ozZWJOMjRNVWNvWmc5X0VLdFUtY0xDbEh6UXZPc192aGRFUzMwc2JGUnNmVjNFUlZMY2V5Zk5TTHJUcUZQQi1VbzBXWjNzaGk2YU5kYmluUUV1dndkRUw2U3AzdmlNTUdLNG9NdEV4cGtmdHF3amxIWVhXaFFzVzhPcFFmTzFQN3YyNVFNOWk5VVdreXZkLVFBbFVhRGw3S1lhOA?oc=5",
-   "type": null,
-   "time": "2026-11-13T06:40:36Z",
-   "countries": [
-    "United Arab Emirates",
-    "Russia"
-   ]
-  },
-  {
-   "id": "pm-barzani-offers-condolences-to-uae-over-deadly",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "PM Barzani offers condolences to UAE over deadly traffic accident",
-   "summary": "PM Barzani offers condolences to UAE over deadly traffic accident",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "PM Barzani offers condolences to UAE over deadly traffic accident."
-    }
-   ],
-   "source": "The New Region",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KQm5RamNFN1BCZzNFOHU5MEhJa0FHOVBWUk53N0ZmbF93M05rX1ZhMWNnMXZDS21sMzEzUWcxWG9EU2FHSGpvRUFQTQ?oc=5",
-   "type": null,
-   "time": "2026-11-13T09:12:20Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
+   "id": "us-treasury-warns-against-rate-hikes-during-us-i",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -404,27 +329,33 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "US/Israel-Iran war: What UAE residents need to know today (Nov. 13, 2026)",
-   "summary": "US/Israel-Iran war: What UAE residents need to know today (Nov. 13, 2026)",
+   "headline": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
+   "summary": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US/Israel-Iran war: What UAE residents need to know today (Nov. 13, 2026)."
+     "text": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Despite Treasury's Scott Bessent's remarks, financial tracker CME Fed Watch forecasts rate hike in December likely."
     }
    ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUEc5SkVsc0F1VHM2VmI5S1U4WUkzQjRzdzc1d2o2OW5SbnpyRVVHTnMyQmNZS2oyUXZPSzlkSW1xT2NKeGhPU2E0UWlyd3RQUUhxZFdHNlJjQnZ0a3ZjeWlMaDJ5UlRSQWRtQTRWbWFBV0ZlZ3cwRGZ3ZEI4WUpqaklIanduZjBONVJHQjdzWW50OFhEeUdFYmtQazI3LWRBdmR5ZWdxb0YtcEJ5VG83MNIBwwFBVV95cUxOSXI0d2lKaFFMbzBnM182OVhrd0RIVXh0MmViN2RXZW9jVElQcGdCOGpubDAzZkI3Y3NILV9mU1JIRTlQa3pRS1EzTWwwSThlOWZHTEphUmVCdDI3MXdrWEdTOFVXZ3BzT0tabEx6R3V4OWdsVG15UnQ4aWU0b1pPWTZaTDJ2UmVoVEFMREQzc3FOSUdGRjBVWkJRbDRZSzFrUWxkdEY0ZE9McTNSY0Zqc3owS214SHp1c1VRU1RzbmJjZDg?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
    "type": null,
-   "time": "2026-11-13T06:18:15Z",
+   "time": "2026-11-13T16:22:33Z",
    "countries": [
     "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
+    "Iran"
    ]
   },
   {
-   "id": "iea-sees-oil-surplus-for-first-time-in-iran-war",
+   "id": "mossad-chief-meets-u-s-officials-to-discuss-iran",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -432,97 +363,163 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "IEA Sees Oil Surplus for First Time in Iran War",
-   "summary": "IEA Sees Oil Surplus for First Time in Iran War",
+   "headline": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war",
+   "summary": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "IEA Sees Oil Surplus for First Time in Iran War."
+     "text": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war."
     }
    ],
-   "source": "Rigzone",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDJRYml1bHRIcnpLU1R6bVFXRmdMVlIwS2VkYkxsSWlzcWE2V3gtckUxR2Etb0ZEVFVPbDZpZ1ZNeldSY2x6OHlscnVlOXZKOTBqOUxnYmM5dkx6SmxyZkJGb3QtN3B0T1dqbEZnUnU2TGd0RUxqQXBNUFFjX01sZnRYU2doVlEzMjVSTnpPUU5qMTJSR2R0TzFlcXZjN1NTcnplQXJoT2FRYmkxcVE?oc=5",
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
    "type": null,
-   "time": "2026-11-13T09:36:00Z",
+   "time": "2026-11-13T15:34:00Z",
    "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "shafaq-news-irgc-says-gas-carrier-hits-mine-near",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Shafaq News..IRGC says gas carrier hits mine near Hormuz",
-   "summary": "Shafaq News..IRGC says gas carrier hits mine near Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Shafaq News..IRGC says gas carrier hits mine near Hormuz."
-    }
-   ],
-   "source": "شفق نيوز",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Pek15YVhZZ1VMRzJUVV9TWmVnbjJxclZBa0lqQlhCdFRaRThYSWl3azVnY3ZXOS1KM29LeWVfd2t1ZElweHNTTFJVSG1hYVlSaXI2REtMRXc4dnFrcUpzVmtzUi1MZFZTZmhLZmd2c3NSNXZrb01qZXkzdw?oc=5",
-   "type": null,
-   "time": "2026-11-13T09:16:15Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-s-revolutionary-guard-says-it-destroyed-a-u",
-   "country": "Bahrain",
-   "label": "BAHRAIN",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Iran’s Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news",
-   "summary": "Iran’s Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran’s Revolutionary Guard says it destroyed a US radar in Bahrain, and other Mideast news."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
-   "type": null,
-   "time": "2026-11-13T09:09:00Z",
-   "countries": [
-    "Bahrain",
     "Iran",
-    "United States of America"
+    "United States of America",
+    "Israel"
    ]
   },
   {
-   "id": "saudi-led-coalition-says-it-intercepted-drone-ov",
+   "id": "saudi-arabia-under-us-pressure-to-persuade-pakis",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition says it intercepted drone over eastern Saudi Arabia",
-   "summary": "Saudi-led coalition says it intercepted drone over eastern Saudi Arabia",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Saudi Arabia under US pressure to persuade Pakistan and Turkey to shut Iran's trade routes and border crossings as Egypt calls for dialogue",
+   "summary": "Saudi Arabia under US pressure to persuade Pakistan and Turkey to shut Iran's trade routes and border crossings as Egypt calls for dialogue",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi-led coalition says it intercepted drone over eastern Saudi Arabia."
+     "text": "Saudi Arabia under US pressure to persuade Pakistan and Turkey to shut Iran's trade routes and border crossings as Egypt calls for dialogue."
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGthZFZ4MXBDUnRCZXI5VFhVclV6clh0SEl5UXBISTlDOUFEcHdpek4ycnVldEhOdzQ0RTZzR1NGVWRnTzJOdHBNcjc3aFBZTjY2U3VSWXV3WkZqY2FVbUVieEFFYVNSTDU4c2VhMHNPWDBVRVV2VWN6b09YcFdiN2FPbjc5T21hWHF5OTR1UUE4RlZSZHhDVzRYMXByTW56Q3BuTGFid3dleVJucGFr?oc=5",
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
    "type": null,
-   "time": "2026-11-13T06:34:50Z",
+   "time": "2026-11-13T15:30:50Z",
    "countries": [
-    "Saudi Arabia"
+    "Saudi Arabia",
+    "United States of America",
+    "Pakistan",
+    "Turkey",
+    "Iran",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gulf-oil-exports-recover-as-hormuz-shipping-stru",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+   "summary": "Gulf Oil Exports Recover as Hormuz Shipping Struggles",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Gulf Oil Exports Recover as Hormuz Shipping Struggles."
+    }
+   ],
+   "source": "gCaptain",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2lpMnBhNWlzWjQtZjBBcUFCSzNWMmxKeUdEaENxNnpTTFFQck1kbTd0d21WRm9PTHAzeDI0RHZPY2FlYjc0blAyZlg0UXVFUUExODhXc1FmQ3A5MnJzTGN6VTRPYktzWmlzSjRWNzBOTXdwVUE0UlhhVi1VNUo4UA?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:51:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "second-car-bomb-hits-russia-in-two-days",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Second car bomb hits Russia in two days",
+   "summary": "Second car bomb hits Russia in two days",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Second car bomb hits Russia in two days."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ21Ha3hab1pPbm1lakQxaGgwT3hLTUNSV3BlM3lmZ1pwSHBXcVpFaXhRSXFIVWtyeXpEQlV3SzlPazhKQkxNVUJfd3ZnbGZjVUQwQ2cxbV9INkY1dlFlcUlfVmI2WGRsY3AyUm9TczlKTFBlMG9vOHJnc3dfMVJPLVFLQ040SzlBdUFyNw?oc=5",
+   "type": null,
+   "time": "2026-11-13T09:23:09Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "us-military-downs-2-iranian-attack-drones-as-ira",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+   "summary": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:22:00Z",
+   "countries": [
+    "Bahrain",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "car-bombings-in-russia-kill-military-officer-inj",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+   "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T16:44:56Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   }
  ]

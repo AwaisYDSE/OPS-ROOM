@@ -1,132 +1,36 @@
 {
- "updated": "2026-11-12T22:45:24.416056Z",
+ "updated": "2026-11-13T18:34:35.800924Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "trump-says-no-deal-needed-with-iran-closes-down-",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "saudi-arabia-vs-south-korea-friendlies-stats-hea",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "info",
-   "category": "Business",
-   "headline": "Трамп заявил, что сделка с Ираном не нужна, и закрыл переговоры с Вэнсом",
-   "summary": "Трамп заявил, что сделка с Ираном не нужна, и закрыл переговоры с Вэнсом",
+   "category": "Middle East",
+   "headline": "Саудовская Аравия — Южная Корея: статистика товарищеских матчей и личные встречи",
+   "summary": "Саудовская Аравия — Южная Корея: статистика товарищеских матчей и личные встречи",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Трамп заявляет, что сделка с Ираном не нужна, и закрывает переговоры с Вэнсом."
+     "text": "Саудовская Аравия – Южная Корея: статистика товарищеских матчей и личные встречи."
     }
    ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYnhHOUZCeEwzbmN5alpPZm1fbjRvQ2ltdmYydUE0VE02ZnMtYzhOLUp3eWotVXQ5aTYwSFlpYXZyWmRsRjhBRi1iS08zMWJFYUNVQnZLNXY5TnRsN0p4cVF1eVppQ0hsa1I5Y0hLaWlOMmRzZWV0Q09hdlpOal9YSVJOdXNPZFVyYlZQemhFeVRGUUUwOE1CcEZIRHR1Ul9wckU5WVBVeTh0TTBKaGtDN091X0hxM1BYUjNz?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU2xOLTRxNUtSZ1BtQmhNNlltTy1lTllKaTNHc0F1OW5NT0puWDdPWkJXWGlTZjZ5VGRPZGkxemtSR1o5dWlHMVhIcHdlM0tVWkc1QWxEOU5Dc2VhS2NuTk9Tbw?oc=5",
    "type": null,
-   "time": "2026-11-12T22:04:30Z",
+   "time": "2026-11-13T17:46:26Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "Saudi Arabia",
+    "South Korea"
    ]
   },
   {
-   "id": "new-talks-with-russia-ukraine-and-european-count",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Согласованы новые переговоры с Россией, Украиной и европейскими странами, заявляют в США",
-   "summary": "Согласованы новые переговоры с Россией, Украиной и европейскими странами, заявляют в США",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Согласованы новые переговоры с Россией, Украиной и европейскими странами, заявляют в США."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNjloWUQ4N0lPcVpScWVPUU4yeDV4UnlneERFcl9fd0lHSVVRczVkQWJlWVJ1ZmFMT3Nfel9LQldfeUd5dFFEZ29MY3RWelZQN0VLOG1ONnVUTjZaRjZ6Y0tsZU1uZWVrQ2pJTFRQNmxKZWRyX1NPSmtPUUt4dUlCV3JHNF9tU2ViZVN3TzhpSjllbVJvdkE2aDRlQzk2ZWd5WWdpUlJIWHNnY1dUZzZxRnlDZGlKTzlxLUNOaDVlM1BVdzE0NHVLNEJrY1lPUUpXSXNSeDhKWmFPRzFQSXBUSFJGOA?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-12T17:17:55Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-envoys-meet-zelensky-in-dublin-after-talks-wi",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Послы США встретились с Зеленским в Дублине после переговоров с Путиным в Москве",
-   "summary": "Посол США Стив Уиткофф заявил, что президент Путин согласился на участие европейских переговорщиков в следующем раунде переговоров по Украине.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Послы США встречаются с Зеленским в Дублине после переговоров с Путиным в Москве."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Каков эффект?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Посол США Стив Уиткофф заявил, что президент Путин согласился на участие европейских переговорщиков в следующем раунде переговоров по Украине."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-12T21:00:42Z",
-   "countries": [
-    "Russia",
-    "United States of America",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-sri-lanka-test-hit-by-bad-weather-after",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Sports",
-   "headline": "Испытания Пакистана и Шри-Ланки закончились плохой погодой после героизма Сакиба Хана",
-   "summary": "Дождь и плохой свет обрушились на первый тест между Пакистаном и Шри-Ланкой после того, как игрок Сакиб Хан взял семь калиток в дебюте и возглавил борьбу хозяев поля в четверг.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан-Шри-Ланка Испытание пострадало из-за плохой погоды после героизма Сакиба Хана."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Почему этот шаг?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Дождь и плохой свет обрушились на первый тест между Пакистаном и Шри-Ланкой после того, как игрок Сакиб Хан взял семь калиток в дебюте и возглавил борьбу хозяев поля в четверг."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044023/pakistan-sri-lanka-test-hit-by-bad-weather-after-saqib-khans-heroics",
-   "type": null,
-   "time": "2026-11-12T11:37:09Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "uae-says-14-killed-30-injured-in-fujairah-traffi",
+   "id": "usman-nurmagomedov-gets-6-month-jail-sentence-fo",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
@@ -134,236 +38,24 @@
    "flag": "🇦🇪",
    "severity": "critical",
    "category": "UAE",
-   "headline": "ОАЭ заявили о 14 погибших и 30 раненых в результате дорожно-транспортного происшествия в Фуджейре",
-   "summary": "ОАЭ заявили о 14 погибших и 30 раненых в результате дорожно-транспортного происшествия в Фуджейре",
+   "headline": "Усман Нурмагомедов приговорен к 6 месяцам тюремного заключения за теракт в Абу-Даби, Мераб Двалишвили освобожден из СИЗО",
+   "summary": "Усман Нурмагомедов приговорен к 6 месяцам тюремного заключения за теракт в Абу-Даби, Мераб Двалишвили освобожден из СИЗО",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ОАЭ сообщает о 14 погибших и 30 раненых в результате дорожно-транспортного происшествия в Фуджейре."
+     "text": "Усман Нурмагомедов приговорен к 6 месяцам тюремного заключения за теракт в Абу-Даби, Мераб Двалишвили освобожден из СИЗО."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2R6ZmJGZHpIRGdEbWw3aDBtU0VaemhmSlljY0UzSmtKNjdaVlhHTHRGU2VYUWI5eWUtYmFUakgyX28taFlOR3RIRUFMNnNodHI1VU9NUjlNV09IM3ZPUXhxcUlNS0p6dFg5MnBJMEdEUnQxNXNHS1Yxa2pnVjdkbmhYM1MwS0NTbkp6S1B1bzRaeDMtaHU1TTVyYm9ZOU13WWRDYVdXLW14c1BocXc?oc=5",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWZpQUh3ZXFBTW4teklsZWNlYmMwTXVyUnNqVDBSYTBGbmZ2eUh0MzRRTTJYV3NqcTVtZHJOZ0FpSmk5d3AxWXladmVPVHJ6a21FYlBuRVUwM3BYaUR1YmxiNUhLQ2RGY0JnZ0t1UWNEcE83VVZMeUZWb25qLVNlYTlzcllKanZ2Q3lzNFgzeEJIck8zeWxvTGVGb1FwRU5VUnFKZlZ3OVNDWHFiUTBSNU45QnFGYzJ3SzJJdWNFRkliQnJhM3BKcWF5T19BSW1tSXRzdG04RVFjeDlhX0hjaGNwX3R3ZDZLWFN4ZzB2WXN1WUVvS1BWNg?oc=5",
    "type": null,
-   "time": "2026-11-12T16:01:46Z",
+   "time": "2026-11-13T15:07:15Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "abu-dhabi-cops-arrest-eight-in-merab-usman-brawl",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Полицейские Абу-Даби арестовали восемь человек в драке Мераб-Усман",
-   "summary": "Полицейские Абу-Даби арестовали восемь человек в драке Мераб-Усман",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Полицейские Абу-Даби арестовали восемь человек в драке Мераб-Усман."
-    }
-   ],
-   "source": "MMA Mania",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWd4MXM3QzBRRzJJZ1h6TGZGRU5scUNqSVg0ZkI0cWk2a3hVd2Zrb1pzMDYtYzBaSEs2Tko5TFZKLU52YWV4N01ybDBJVGxadUd1RkVhck51UmFLR2xZTm5pS1hYUkFiSjkxTy1rSlFqMU1uQ2hzYVAtV0ZjV3kyOW1FT0lmcE5tR0d5Tzk4eXd1VFZ1anNPVzhTR3JreEhuRlFRWWswcnl3emJNN0E3T2p0bFZMMHc?oc=5",
-   "type": null,
-   "time": "2026-11-12T18:02:47Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "donald-trump-signals-end-to-vice-president-s-ira",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Дональд Трамп сигнализирует о прекращении усилий вице-президента по мирному соглашению с Ираном",
-   "summary": "Дональд Трамп сигнализирует о прекращении усилий вице-президента по мирному соглашению с Ираном",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Дональд Трамп сигнализирует о прекращении усилий вице-президента по мирному соглашению с Ираном."
-    }
-   ],
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTE9reTlqSS1STVliSXF3NmwwMVM2ek1sSk05Y1REN3VjaVhsZGFYbUIySGlmZ1BYcXZLU21XQzFlT3dmWHJPbWNuQklocFZxMTRrajVNNVd0S0R4ZVF4Q1VMWkxlQUE2SE16R1ZCWDZlcERVbjZKNG1SVmY0WE1sWDlab0o?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:02:34Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-say-they-attacked-pumping-statio",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Йеменские хуситы заявили, что атаковали насосную станцию на нефтепроводе Восток-Запад Саудовской Аравии",
-   "summary": "Йеменские хуситы заявили, что атаковали насосную станцию на нефтепроводе Восток-Запад Саудовской Аравии",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Йеменские хуситы заявили, что они атаковали насосную станцию на нефтепроводе Восток-Запад Саудовской Аравии."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOHNyWUhKaHR2QmJXUjJ6S0xNdDZnZmpKRzJQak9SWVc3cmttUGVfbk13NzBZclpqNnp5N1JFc0JYakw2Wl9hV3BYdm1mMnJQR3BKRFI2Zzh3cVRhTFFxejBSVWtTMkt2WTRGRUxFSkVocF83aFlIOU10Vk11d29TRERPcnFVWHRJYktFOUlGU0x4c0Q0UWVtT3JkUE91ZVNPQ09NTnhaMGxJajZxQnkwWTFvTzN4WnNpMTBYalNZOHFZdnUtX1VHeUVR?oc=5",
-   "type": null,
-   "time": "2026-11-12T20:18:21Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-prices-rebound-as-trump-questions-need-for-i",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на нефть растут, поскольку Трамп ставит под сомнение необходимость соглашения с Ираном",
-   "summary": "Цены на нефть растут, поскольку Трамп ставит под сомнение необходимость соглашения с Ираном",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Цены на нефть растут, поскольку Трамп ставит под сомнение необходимость соглашения с Ираном."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGlJbWtWZHpSYmlFQjIzNDZLb1hkZXV2dVlNazZ2aXpPSFU2QzBZb1VxeC1mZlVsVTNTTEh0eVRCZS1UZnR6ZFUwNF9YdFkydnNxZVdpTHMyYUtTQWE0TFVoQ3pLNDRvM1JWSWRDY2hmenNNR3JfT0hSWFlibnRPOVVMT0JHcUtPcHQ1TjJjWnFGV1FoRkEtS1NsVzhtSWZPeGt6bw?oc=5",
-   "type": null,
-   "time": "2026-11-12T21:01:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "canadian-mining-company-signs-mou-with-mari-ener",
-   "country": "Canada",
-   "label": "КАНАДА",
-   "lat": 56.1,
-   "lon": -106.3,
-   "flag": "🇨🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Канадская горнодобывающая компания подписывает меморандум о взаимопонимании с Mari Energies в Южной Азии",
-   "summary": "Ivanhoe Mines подписала меморандум о взаимопонимании (MoU) с Mari Energies в четверг, сообщил председатель канадской компании Роберт Фридланд в кулуарах Пакистанского инвестиционного форума по минеральным ресурсам.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Канадская горнодобывающая компания подписывает меморандум о взаимопонимании с Mari Energies в Южной Азии."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ivanhoe Mines подписала меморандум о взаимопонимании (MoU) с Mari Energies в четверг, сообщил председатель канадской компании Роберт Фридланд в кулуарах Пакистанского инвестиционного форума по минеральным ресурсам."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044014/canadian-mining-company-signs-mou-with-mari-energies-in-south-asia-push",
-   "type": null,
-   "time": "2026-11-12T13:36:04Z",
-   "countries": [
-    "Canada",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "southern-iran-s-sirik-county-near-strait-of-horm",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Уезд Сирик на юге Ирана возле Ормузского пролива подвергся удару «врага»: государственные СМИ",
-   "summary": "Уезд Сирик на юге Ирана возле Ормузского пролива подвергся удару «врага»: государственные СМИ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Уезд Сирик на юге Ирана возле Ормузского пролива подвергся удару «врага»: государственные СМИ."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMFFCZENFYk5lZUY0REprb2VyOGxnOUpEUUJHdVJwUUpfUjhGZ1JibzctTjJCRFdCX2l0cno3VmVxdVpZRzI0cGc1TWd4Q2UyZEF6bW5pTHo1aDJFdHdXc3VCOVJoNXNKOF9DT0Zid1RZRXR2ZHhJYWh5TWZPbUhtbHVsRTd1enZTMkluWE1UY0szSk84S0FMWF9pbGNKT2NhcGY2WU1PWk1EaURYR190b0o5cEVkRTNRUEU2MTVveHBjaEJD?oc=5",
-   "type": null,
-   "time": "2026-11-12T19:41:22Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "crash-involving-23-vehicles-kills-14-in-uae",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "В ДТП с участием 23 автомобилей погибли 14 человек в ОАЭ",
-   "summary": "В ДТП с участием 23 автомобилей погибли 14 человек в ОАЭ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В результате аварии с участием 23 автомобилей в ОАЭ погибли 14 человек."
-    }
-   ],
-   "source": "Newser",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1ZpZVk2MjZqZzZfVkliaWlFbEdqM052UE5OeVdYQ3E0XzNpWklpT1pOVVdpUUJvd2YtREVMMHFXM0FneEU5c2RnWlZneWQ3RW5vYkFpdFBVS3AxZFZjY3dtSjRfT2gtdE1uVHNHX2lLY0hJWmROdU1MX29ydFVSSS1XcmhSeVcxRWREUw?oc=5",
-   "type": null,
-   "time": "2026-11-12T19:15:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "four-tankers-struck-by-explosions-in-strait-of-h",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Четыре танкера пострадали от взрывов в Ормузском проливе, сообщает Иран",
-   "summary": "Четыре танкера пострадали от взрывов в Ормузском проливе, сообщает Иран",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Четыре танкера пострадали от взрывов в Ормузском проливе, сообщает Иран."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcDQ2cWxyeTFpazFaX1ZNM2RoS0t2ZVpEa0JpMElTZVFMUElROEF5c20tMlU0dEszWFlEdkhfR2VOb3hEQmo3MjRtdVlSaEhkZnpKXzExbE5QcXItQ3Z6REoyY1Fpak9IUUplYWp6NTQ2UjBiNVk1WDN0MmJjaFRkOHNLdDYxMU9xOWhuMnVaTlNiVXJNTlhLYV9EZEpnd1oxYmF0cG82b2VkMURkYnkzZkZBX0hhWHM?oc=5",
-   "type": null,
-   "time": "2026-11-12T16:27:35Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ten-police-officers-18-fighters-killed-in-northw",
+   "id": "pakistan-military-reports-it-killed-74-terrorist",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
@@ -371,106 +63,12 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Десять полицейских и 18 боевиков убиты в результате нападения на северо-западе Пакистана",
-   "summary": "Десять полицейских и 18 боевиков убиты в результате нападения на северо-западе Пакистана",
+   "headline": "Пакистанские военные сообщили, что убили 74 «террориста» во время рейдов",
+   "summary": "Участившиеся нападения на границу с Афганистаном вызвали напряженность в отношениях между соседями.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Десять полицейских и 18 боевиков убиты в результате нападения на северо-западе Пакистана."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR1EyZEVPSGEzVExyQ2lZSE5kX2pDYzRpXzc5U3dsMnp1aWlwWWhURzhpUmtjbGliOC1RdG5KY21DbGdfV0JUWU9TNWQtQ0k3WEZjczdPSTJEcktseDNVZTJfOVVqZlFCYWE3MHIzNFpYTkR4T00xY2FiSnNSdEFXMzBqVllRU3RBT1ZGOWdPRXFjTkd6VE1lcDkwaGpKQnVlQXRRRmFxa2huV1QxSUHSAbMBQVVfeXFMUFI0dmR5M2pRekxQMjU4eTRIbS1Jd2dNUjJYZHVMc0Z2VFMzTEUzSTVYNHBLSS1oOFVxekpoX2JKSS1PQTBNS3RiWEhoVGFpYXlnWXhCY2VSOHphWU1VNnlpQnJHa2IyR1ExZjRMM1Z0VDhoWWNvbWdzcnAzMGJXLTlMYzNIN0E5UzFwMHd5OFY1d290OHUtMHlKSHhNdktVSkFFdWV1MFctM1huaTJNM1htaDA?oc=5",
-   "type": null,
-   "time": "2026-11-12T15:36:57Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "israel-hits-gaza-hospital-and-france-turns-away-",
-   "country": "Palestine",
-   "label": "ПАЛЕСТИНА",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Израиль нанес удар по больнице в секторе Газа, а Франция отвергла лидера поселенцев и другие новости Ближнего Востока",
-   "summary": "Корреспондент «Аль-Джазиры» Тарек Абу Аззум рассказывает о последствиях израильского удара по больнице Насера",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Израиль нанес удар по больнице в секторе Газа, а Франция отвергла лидера поселенцев и другие новости Ближнего Востока."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Корреспондент «Аль-Джазиры» Тарек Абу Аззум рассказывает о последствиях израильского удара по больнице Насера"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmdGNlhOUURTNDdjOXk4eHVVdC1FZGVHMEFsZEJHa2FUM2NrdUZWbzI0Q3gyRHllbXY4dWZ4NmdUZzU0UVRNRWcxTGJmb2lEalZSZkRQeUFvYUNNM3hEeEh1bXV3d0E5bXJnbUt2eTRkMTR1WjA0R1d5RHNNZElhWVlMSDVsckp2X0Nsa0JpSWQ3dlJPRDZMMU5mRnU1bHpEcXBPVWhKWnFVM1U?oc=5",
-   "type": null,
-   "time": "2026-11-12T22:02:00Z",
-   "countries": [
-    "Palestine",
-    "Israel",
-    "France"
-   ]
-  },
-  {
-   "id": "russian-warship-hit-by-ukrainian-drone-in-gulf-o",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Российский военный корабль сбит украинским беспилотником в Финском заливе",
-   "summary": "Считается, что это первый случай, когда украинские беспилотники атаковали российский корабль на открытом участке Балтийского моря.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Российский военный корабль сбит украинским беспилотником в Финском заливе."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Считается, что это первый случай, когда украинские беспилотники атаковали российский корабль на открытом участке Балтийского моря."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-12T20:09:16Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "suspected-bomb-hoax-threats-force-fresh-evacuati",
-   "country": "Italy",
-   "label": "ИТАЛИЯ",
-   "lat": 41.9,
-   "lon": 12.6,
-   "flag": "🇮🇹",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Подозреваемые угрозы о бомбе вынуждают провести новую эвакуацию итальянских школ",
-   "summary": "Школы по всей Италии получают угрозы о взрыве второй день подряд, что спровоцировало новую панику и эвакуацию.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Подозреваемые угрозы о взрыве бомбы вынуждают провести новую эвакуацию итальянских школ."
+     "text": "Пакистанские военные сообщают, что во время рейдов были убиты 74 «террориста»."
     },
     {
      "role": "COMMANDER",
@@ -478,49 +76,451 @@
     },
     {
      "role": "ANALYST",
-     "text": "Школы по всей Италии получают угрозы о взрыве второй день подряд, что спровоцировало новую панику и эвакуацию."
+     "text": "Участившиеся нападения на границу с Афганистаном вызвали напряженность в отношениях между соседями."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
    "type": null,
-   "time": "2026-11-12T19:23:02Z",
+   "time": "2026-11-13T11:59:34Z",
    "countries": [
-    "Italy"
+    "Pakistan",
+    "Afghanistan"
    ]
   },
   {
-   "id": "china-s-xi-says-taiwan-reunification-must-happen",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
+   "id": "gold-smuggled-from-war-zones-entered-the-uae-des",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "critical",
-   "category": "Tech",
-   "headline": "Си Цзиньпин заявил, что «воссоединение» Тайваня должно произойти, поскольку историю невозможно остановить",
-   "summary": "Ход истории невозможно остановить, заявил в четверг президент Китая Си Цзиньпин, призывая к мирному «воссоединению» с Тайванем и не упоминая о применении силы, хотя он все же получил твердый отпор со стороны Тайбэя.",
+   "category": "UAE",
+   "headline": "Золото, контрабандой вывезенное из зон боевых действий, попало в ОАЭ, несмотря на новые правила, говорится в докладе",
+   "summary": "Золото, контрабандой вывезенное из зон боевых действий, попало в ОАЭ, несмотря на новые правила, говорится в докладе",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Си Цзиньпин заявил, что «воссоединение» Тайваня должно произойти, поскольку историю невозможно остановить."
+     "text": "Золото, контрабандно вывезенное из зон боевых действий, попало в ОАЭ, несмотря на новые правила, говорится в докладе."
+    }
+   ],
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2dpclhYVnNMX1V5RVFKT0twRTZxaTNTZDBHN0dibDdOMVpCUXRoUXI5TEtDRWtGVVFYTVlLY2p4Tno5X1I0MXZkd1BOZnJWOVVwRzU3d09Wdm1JdjNFaGJMdEIzMDNhRHp3cFVrcHhDMDM3RTNJSWV5YzF4WWcwQlhSWmRsd3ZoRTI1elBHalktT19VaTJRN3A5eUJTV05Sc3BEbFgzNGtGSEVlM3p2YU5HT0IyWkZUZGRGRnFQYko4RTRvZS04bmtONVg2Z9IB0wFBVV95cUxPTW5Pbk44ZEZZLWxROTExNm5RZkNMTVVWMnZ6QTViem5fMHFTamZhTF9sTW5ucWVmeElSX09ucHNZR1dNdlg2Sk0tRW1Kak9xWmR6UWZNSUQyeVNybnRycHlXYkFrMVZSckxpYVFXdlBjM2stRnZGZUZCU2hYTEpWOG1mWVdhSVpXbjRaNTh6SC1fN3dDMmNGWFZoQzNJQkIxTGFGT1BfYWRwMi1XaExsNFFEdUdzTzV0RXIyUlpwa0pJVlNVRW5JZ0I2b3N3akVWQl9n?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:59:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-bad-weather-hold-sri-lanka-to-draw-in-f",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Пакистан из-за плохой погоды не позволил Шри-Ланке сыграть вничью в первом тесте",
+   "summary": "Пакистан под предводительством Сауда Шакила и благодаря плохой погоде сорвал заявку Шри-Ланки на победу, поскольку первый тест завершился вничью в пятый и последний день в Равалпинди в пятницу.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан, плохая погода не позволяют Шри-Ланке сыграть в первом тесте."
     },
     {
      "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
+     "text": "Понял. Продолжать."
     },
     {
      "role": "ANALYST",
-     "text": "Ход истории невозможно остановить, заявил в четверг президент Китая Си Цзиньпин, призывая к мирному «воссоединению» с Тайванем и не упоминая о применении силы, хотя он все же получил твердый отпор со стороны Тайбэя."
+     "text": "Пакистан под предводительством Сауда Шакила и благодаря плохой погоде сорвал заявку Шри-Ланки на победу, поскольку первый тест завершился вничью в пятый и последний день в Равалпинди в пятницу."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+   "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
    "type": null,
-   "time": "2026-11-12T11:15:56Z",
+   "time": "2026-11-13T12:29:11Z",
    "countries": [
-    "China",
-    "Taiwan"
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "us-denies-iran-s-claim-it-hit-two-radar-sites-in",
+   "country": "Bahrain",
+   "label": "БАХРЕЙН",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "США опровергают утверждения Ирана об ударе по двум радарам в Бахрейне",
+   "summary": "США опровергают утверждения Ирана об ударе по двум радарам в Бахрейне",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "США опровергают утверждения Ирана о том, что он нанес удар по двум радарам в Бахрейне."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:21:45Z",
+   "countries": [
+    "Bahrain",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-immediate-end-to-houthi-attac",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Пакистан призывает к «немедленному» прекращению атак хуситов на Саудовскую Аравию, поскольку СБ ООН продлевает санкции в отношении Йемена",
+   "summary": "ВАШИНГТОН: Пакистан призвал к «немедленному и безоговорочному» прекращению нападений хуситов на Саудовскую Аравию в четверг, поскольку Совет Безопасности ООН принял резолюцию, возобновляющую санкции против физических и юридических лиц, угрожающих миру и государству.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан призывает к «немедленному» прекращению атак хуситов на Саудовскую Аравию, поскольку СБ ООН продлевает санкции в отношении Йемена."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ВАШИНГТОН: Пакистан призвал к «немедленному и безоговорочному» прекращению нападений хуситов на Саудовскую Аравию в четверг, поскольку Совет Безопасности ООН принял резолюцию, возобновляющую санкции против физических и юридических лиц, угрожающих миру и государству."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions",
+   "type": null,
+   "time": "2026-11-13T04:12:33Z",
+   "countries": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "eu-leaders-tussle-over-whom-to-send-to-ukraine-p",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Лидеры ЕС спорят, кого отправить Украине на мирные переговоры с Россией",
+   "summary": "Лидеры ЕС спорят, кого отправить Украине на мирные переговоры с Россией",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Лидеры ЕС спорят о том, кого отправить Украине на мирные переговоры с Россией."
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVTJtTGJ2SF9sUkx4dm1IWnNLYmM3VE5lT195M2ZMOFdZMGN3d1JjdmFBRWdVT19FcU1yckxzNUJVTGNXbUFSYlJqRWxhR29rcVhlZ2tSeFE0MEtINXdSTklic2xCTWxHRUlsLW02NFc5N1NEcm1KZHBXTS1lR3hhLU9JWkQ3NkpfSlJVUU12a0xKUWF4R19XaFlqdnFyZXPSAZ8BQVVfeXFMTmJGLTRyRXY1WjY5UlNrM2NKLUVkN3M2OXd0NHVPaS1ZbUZXalVicEJ6U2VaRWd5NGJqNDFieUEzRVUxYm5VQkVJZ3JETlN2bDJNV0Uwd2FVNlRsd0ItN0pNRDhIb1dyZW54YlRGTjBwRGZZckxzNDJRVDZrSktsWVBpR2hOR0t4Z09kQV9iREpzdGRDdmw0YTZzMnRSYTNJ?oc=5",
+   "type": null,
+   "time": "2026-11-13T14:19:27Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "china-s-transsion-holdings-eyes-expansion-into-c",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Китайская Transsion Holdings планирует расширить производство компонентов в Пакистане",
+   "summary": "Китайская Transsion Holdings планирует расширить производство компонентов в Пакистане",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Китайская компания Transsion Holdings планирует расширить производство компонентов в Пакистане."
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVmEyM0sycUVCTnhia2Qxb1g4SVFGcnJVZF9fenJBYk9OcldpOHFmc1g2dko0UExWbzZ3SzMwNnUwVFBTSnplYWhvd3FQNGp1b1Z6SW81NzBnRzgxeGItM291WFdMRXZPYVRSWEs5akFxZzRuQU9MVlM1UEsxZmU5Tmx0NWVWY1loX2tHOFdReG13ZmJhMjhkR3JXQ2k3ZG5CSmdIRVZHZlZOQW1yRjQ3SEc1eElDc09FSEJZZUtRbDJ6blk?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:43:21Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "rory-mcilroy-tyrrell-hatton-share-lead-at-midway",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Рори Макилрой и Тиррел Хаттон делят лидерство на полпути в Дубае",
+   "summary": "Рори Макилрой и Тиррел Хаттон делят лидерство на полпути в Дубае",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Рори Макилрой и Тиррел Хаттон делят лидерство на полпути в Дубае."
+    }
+   ],
+   "source": "Field Level Media",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXhGZC1WbmxuYWQ1TDczYmN3aUg1LWYwY0pJbWhZbjVyaUFQYV9Gc0FidHVNYlNGdzhHR2hoOWRvV1owSHJVSDRiREhUd0x5MWJUZkZ6MU5HZm9PS1huZlFzcDJzNnRDNG9wTFg2anlnN1NpT2k3eFUzX3JHNVFWNTFzUDRfd2ZESjhidGhvdW16dmZ1TV9nZy14TkZBSWM0RVlJ?oc=5",
+   "type": null,
+   "time": "2026-11-13T16:11:47Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-honours-fallen-soldiers-in-iran-iraq-war-wi",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Иран почтил память павших в ирано-иракской войне демонстрацией ракет",
+   "summary": "Тысячи людей собрались в Тегеране на массовые похороны в честь 110 неопознанных солдат, погибших в ирано-иракской войне.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран чествует солдат, павших в ирано-иракской войне, демонстрацией ракет."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Тысячи людей собрались в Тегеране на массовые похороны в честь 110 неопознанных солдат, погибших в ирано-иракской войне."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T18:09:05Z",
+   "countries": [
+    "Iran",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "us-treasury-warns-against-rate-hikes-during-us-i",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Министерство финансов США предостерегает от повышения ставок во время энергетического шока войны между США и Ираном",
+   "summary": "Несмотря на высказывания представителя Казначейства Скотта Бессента, финансовый трекер CME Fed Watch прогнозирует вероятность повышения ставок в декабре.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Казначейство США предостерегает от повышения ставок во время военного энергетического шока между США и Ираном."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Несмотря на высказывания представителя Казначейства Скотта Бессента, финансовый трекер CME Fed Watch прогнозирует вероятность повышения ставок в декабре."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T16:22:33Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "mossad-chief-meets-u-s-officials-to-discuss-iran",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Глава Моссада встретился с официальными лицами США, чтобы обсудить Иран, поскольку Нетаньяху настаивает на войне",
+   "summary": "Глава Моссада встретился с официальными лицами США, чтобы обсудить Иран, поскольку Нетаньяху настаивает на войне",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Глава Мосада встречается с официальными лицами США, чтобы обсудить Иран, поскольку Нетаньяху настаивает на войне."
+    }
+   ],
+   "source": "Haaretz",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
+   "type": null,
+   "time": "2026-11-13T15:34:00Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Israel"
+   ]
+  },
+  {
+   "id": "saudi-arabia-under-us-pressure-to-persuade-pakis",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Саудовская Аравия находится под давлением США, чтобы убедить Пакистан и Турцию закрыть торговые пути и пограничные переходы Ирана, поскольку Египет призывает к диалогу",
+   "summary": "Саудовская Аравия находится под давлением США, чтобы убедить Пакистан и Турцию закрыть торговые пути и пограничные переходы Ирана, поскольку Египет призывает к диалогу",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саудовская Аравия находится под давлением США, чтобы убедить Пакистан и Турцию закрыть торговые пути и пограничные переходы Ирана, поскольку Египет призывает к диалогу."
+    }
+   ],
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
+   "type": null,
+   "time": "2026-11-13T15:30:50Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Pakistan",
+    "Turkey",
+    "Iran",
+    "Egypt"
+   ]
+  },
+  {
+   "id": "gulf-oil-exports-recover-as-hormuz-shipping-stru",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Экспорт нефти Персидского залива восстанавливается из-за проблем с судоходством в Ормузе",
+   "summary": "Экспорт нефти Персидского залива восстанавливается из-за проблем с судоходством в Ормузе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Экспорт нефти Персидского залива восстанавливается на фоне проблем с судоходством в Ормузе."
+    }
+   ],
+   "source": "gCaptain",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2lpMnBhNWlzWjQtZjBBcUFCSzNWMmxKeUdEaENxNnpTTFFQck1kbTd0d21WRm9PTHAzeDI0RHZPY2FlYjc0blAyZlg0UXVFUUExODhXc1FmQ3A5MnJzTGN6VTRPYktzWmlzSjRWNzBOTXdwVUE0UlhhVi1VNUo4UA?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:51:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "second-car-bomb-hits-russia-in-two-days",
+   "country": "Russia",
+   "label": "РОССИЯ",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Второй заминированный автомобиль взорвался в России за два дня",
+   "summary": "Второй заминированный автомобиль взорвался в России за два дня",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Второй взрыв автомобиля произошел в России за два дня."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ21Ha3hab1pPbm1lakQxaGgwT3hLTUNSV3BlM3lmZ1pwSHBXcVpFaXhRSXFIVWtyeXpEQlV3SzlPazhKQkxNVUJfd3ZnbGZjVUQwQ2cxbV9INkY1dlFlcUlfVmI2WGRsY3AyUm9TczlKTFBlMG9vOHJnc3dfMVJPLVFLQ040SzlBdUFyNw?oc=5",
+   "type": null,
+   "time": "2026-11-13T09:23:09Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "us-military-downs-2-iranian-attack-drones-as-ira",
+   "country": "Bahrain",
+   "label": "БАХРЕЙН",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Военные США сбили два иранских ударных дрона, поскольку Иран заявил об ударе по американскому радару в Бахрейне",
+   "summary": "Военные США сбили два иранских ударных дрона, поскольку Иран заявил об ударе по американскому радару в Бахрейне",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Американские военные сбили два иранских ударных дрона, поскольку Иран заявил об ударе по американскому радару в Бахрейне."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
+   "type": null,
+   "time": "2026-11-13T17:22:00Z",
+   "countries": [
+    "Bahrain",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "car-bombings-in-russia-kill-military-officer-inj",
+   "country": "Russia",
+   "label": "РОССИЯ",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "В результате взрыва автомобиля в России погиб военный и ранен экс-советник премьер-министра Украины",
+   "summary": "Москва обвиняет Киев в серии взрывов автомобилей, направленных против людей, связанных с войной с Украиной.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В результате взрывов автомобилей в России погиб военный и ранен бывший советник премьер-министра Украины."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Москва обвиняет Киев в серии взрывов автомобилей, направленных против людей, связанных с войной с Украиной."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-13T16:44:56Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   }
  ]
