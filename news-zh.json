@@ -1,179 +1,10 @@
 {
- "updated": "2026-11-13T23:56:03.856553Z",
+ "updated": "2026-11-14T13:49:22.465432Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "saudi-arabia-vs-south-korea-friendlies-stats-hea",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋记录",
-   "summary": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋记录",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特阿拉伯 vs 韩国：友谊赛统计数据和交锋。"
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU2xOLTRxNUtSZ1BtQmhNNlltTy1lTllKaTNHc0F1OW5NT0puWDdPWkJXWGlTZjZ5VGRPZGkxemtSR1o5dWlHMVhIcHdlM0tVWkc1QWxEOU5Dc2VhS2NuTk9Tbw?oc=5",
-   "type": null,
-   "time": "2026-11-13T22:42:15Z",
-   "countries": [
-    "Saudi Arabia",
-    "South Korea"
-   ]
-  },
-  {
-   "id": "merab-dvalishvili-calls-on-abu-dhabi-authorities",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "梅拉布·德瓦利什维利在残酷袭击后的首次声明中呼吁阿布扎比当局释放乌斯曼·努尔马戈梅多夫",
-   "summary": "梅拉布·德瓦利什维利在残酷袭击后的首次声明中呼吁阿布扎比当局释放乌斯曼·努尔马戈梅多夫",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "梅拉布·德瓦利什维利在残酷袭击后的首次声明中呼吁阿布扎比当局释放乌斯曼·努尔马戈梅多夫。"
-    }
-   ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOanBhV3VLSmd6bE9JbTdWelBjTEVWaEkxbFFJQ1B3QWoxSVFUeUs2V1B4UzFpeGFhN29iR0N4OGZfRkdxUHV1XzVYVFFLSzJUWndWQ0dXVDVnVHJNTUZwcGxQd0F0dUM1dzQwX291NWtBUDJPRTFBSjRYUXRLM2xrYVppLUJuMERHbzRmbzhrM2VBWGNza1luSzRQdlR2V0hTNzNVM2hRS3pvMkZDcEZ1V29uMk1PQW5YeHdPbmxSWWQwckNPTjk0TTEyOWVEdHdPNElmV2wxV29MYThSNUwweHdYSHhNZWp0SzlHbi03LWk1eWRTZDY4SEZB?oc=5",
-   "type": null,
-   "time": "2026-11-13T20:25:29Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "faa-issues-nationwide-ground-stop-after-communic",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "美国通信中断后，美国联邦航空局 (FAA) 宣布全国范围内停飞",
-   "summary": "美国航空监管机构以通讯问题为由，在全国范围内对离港航班实施地面停车。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国通信中断后，美国联邦航空局 (FAA) 在全国范围内发出地面停车令。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有什么影响？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "美国航空监管机构以通讯问题为由，在全国范围内对离港航班实施地面停车。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-   "type": "LIVE",
-   "time": "2026-11-13T22:02:07Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-military-downs-2-iranian-attack-drones-as-ira",
-   "country": "Bahrain",
-   "label": "巴林",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗声称袭击了巴林的美国雷达，美军击落了两架伊朗攻击无人机",
-   "summary": "伊朗声称袭击了巴林的美国雷达，美军击落了两架伊朗攻击无人机",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗声称袭击了巴林的美国雷达，美国军方击落了两架伊朗攻击无人机。"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXJTcEdfVGdOV1VrbGpYTy1hMlkybS1IbjZGS0piS01yNWY5RnVsMi16ZHBMTFVIajNzcFoydFZXWmhEQXJuVXBHNFBic2JSRlJLZ05TNGlmclRmMlppOExmc2ttem1zVnhQV0ppcnVaUkd2Q29fVVNXUzJpUFEwUE1WSHVkc0tZQXpmaHBSZ0YxVWpoOGNkMmZnbw?oc=5",
-   "type": null,
-   "time": "2026-11-13T20:52:00Z",
-   "countries": [
-    "Bahrain",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "dp-world-tour-championship-rory-mcilroy-takes-sh",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "DP 世界巡回锦标赛：罗里·麦克罗伊 (Rory McIlroy) 与泰瑞尔·哈顿 (Tyrrell Hatton) 在迪拜决赛中并列领先",
-   "summary": "DP 世界巡回锦标赛：罗里·麦克罗伊 (Rory McIlroy) 与泰瑞尔·哈顿 (Tyrrell Hatton) 在迪拜决赛中并列领先",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "DP 世界巡回锦标赛：在迪拜决赛中，罗里·麦克罗伊 (Rory McIlroy) 与泰瑞尔·哈顿 (Tyrrell Hatton) 并列领先。"
-    }
-   ],
-   "source": "Sky Sports",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOVpJT05ObXdqaFRCeHdoVnQ4bEp0Wk4xbDVMSnN2ZnFJUDktRWJ5cy1qQjBpYVc2WFo2U2hGckxWbXdjNDVXeU5yMWlVS3FMNEN6VmxvbjN0TW1TUWQ4emNKN09RTmNMRFZ2N2ttZGwwT3VvYVNIN21YQUxZLWM2NW5mcFh0c3BpZGx1Zk1HR1lRV0NobW5naGpROWZiQkdGb0h3WW5aem1KbDIwWmk5dzVtUmJjSnp5ZVZlZ01pMFpSeGJBMW91bzhpTFdYQXRpV2NYR3FsbVZqX3dTZ1pEVmVYTEZDaUUx?oc=5",
-   "type": null,
-   "time": "2026-11-13T14:27:13Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "irgc-says-tanker-caught-fire-after-hitting-mines",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗革命卫队称油轮在霍尔木兹海峡触雷后起火",
-   "summary": "据伊朗伊斯兰革命卫队称，一艘液化气运输船在霍尔木兹海峡触雷后起火。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗革命卫队称，油轮在霍尔木兹海峡触雷后起火。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "据伊朗伊斯兰革命卫队称，一艘液化气运输船在霍尔木兹海峡触雷后起火。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-13T19:23:05Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "india-vs-pakistan-u19-asia-cup-final-when-and-wh",
+   "id": "india-stun-pakistan-by-one-wicket-in-last-ball-u",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -181,25 +12,34 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Sports",
-   "headline": "印度 vs 巴基斯坦 U19 亚洲杯决赛：何时何地观看直播、流媒体",
-   "summary": "印度 vs 巴基斯坦 U19 亚洲杯决赛：何时何地观看直播、流媒体",
+   "headline": "印度在 U-19 亚洲杯决赛最后一球以一球之差击败巴基斯坦",
+   "summary": "莫希特·乌尔瓦 (Mohit Ulva) 和文卡塔 (Venkata) 在 U-19 亚洲杯决赛中打出了决定性的不败第九个三柱门，帮助印度以一柱门的方式击败了巴基斯坦，在周六马斯喀特的比赛最后一场比赛中追上了令人畏惧的 338 分目标",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "印度 vs 巴基斯坦 U19 亚洲杯决赛：何时何地观看直播、流媒体。"
+     "text": "印度 U-19 亚洲杯决赛最后一球以一球之差击败巴基斯坦。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "好吧，还有什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "莫希特·乌尔瓦 (Mohit Ulva) 和文卡塔 (Venkata) 在 U-19 亚洲杯决赛中打出了决定性的不败第九个三柱门，帮助印度以一柱门的方式击败了巴基斯坦，在周六马斯喀特的比赛最后一场比赛中追上了令人畏惧的 338 分目标"
     }
    ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZEJFa0V4T0ZQRUhCM21QYkNCLXAzSkNhZ3BWNVg3b1JlUkZHNnhpRDY3ekM0d09mV3pCYURpWWZISkUwczRJVHg4Z2M1X3RCZmZfM01udXlBTENPMWxzYlN3emlsdUJ5VWE1LW5QbmMxT0h1VFpValFhdk5GVVNhLQ?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044502/india-stun-pakistan-by-one-wicket-in-last-ball-u-19-asia-cup-final-thriller",
    "type": null,
-   "time": "2026-11-13T18:40:00Z",
+   "time": "2026-11-14T13:37:56Z",
    "countries": [
     "Pakistan",
-    "India"
+    "India",
+    "Oman"
    ]
   },
   {
-   "id": "iran-s-irgc-says-two-tankers-hit-sea-mines-in-ho",
+   "id": "irgc-says-two-oil-tankers-caught-fire-after-hitt",
    "country": "Iran",
    "label": "霍尔木兹海峡",
    "lat": 26.6,
@@ -207,74 +47,24 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "伊朗伊斯兰革命卫队称两艘油轮在霍尔木兹触雷",
-   "summary": "伊朗伊斯兰革命卫队称两艘油轮在霍尔木兹触雷",
+   "headline": "伊朗革命卫队称两艘油轮在霍尔木兹触雷后起火",
+   "summary": "伊朗革命卫队称两艘油轮在霍尔木兹触雷后起火",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "伊朗伊斯兰革命卫队称，两艘油轮在霍尔木兹触雷。"
+     "text": "伊朗革命卫队称，两艘油轮在霍尔木兹触雷后起火。"
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVUydG1mRVVtRzVScWR6N19NejF5VXVuUDlqaGxSSHdJN1hmYlBtZHRJMDNWbUJVSUMyRTBRM252dzFjSmtZOHlLYmg4Y2pqLXVrSndiS3dVLWVBa0tESWJtZW05MUprVkpXTE5sQXV0aXJRR1dQQ3FmWHk0SHpoSmQzRUZmRFZCaXdjLURicWxtRk1tSnZ1dEM2UTI1b1RmTzdwRw?oc=5",
-   "type": null,
-   "time": "2026-11-13T21:14:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-14T11:49:58Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "gold-smuggled-from-war-zones-entered-the-uae-des",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋",
-   "summary": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "报告称，尽管有新规定，从战区走私的黄金仍进入阿联酋。"
-    }
-   ],
-   "source": "Audacy",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1pNWG9Menc1a3hpWEZXVmRKZXhBSVl1Z2RDVHhOeDgxZjJ3MG1xamM4SUExWGpKV2dTTFl6QklZWklrRXFKRjRxSXYwM0dnOHV2YVY2ZFdJSW9WNVAxaHI2UURUc0pWMlFvVjNmTUtYMTk2WFBwcXU2Mmc4YTNVY2E4WmNGcXp6amNVcDlkM1FzSmNjVENXTW13a2xzSDZHaGUxQ1VCRjAwY1lzRnUycmM4UHlQckFzeVp1MllFTm1wMlVY?oc=5",
-   "type": null,
-   "time": "2026-11-13T17:59:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "shehbaz-says-pakistan-could-become-major-global-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Shehbaz 表示巴基斯坦可能在 2050 年之前成为全球主要经济体",
-   "summary": "Shehbaz 表示巴基斯坦可能在 2050 年之前成为全球主要经济体",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Shehbaz 表示巴基斯坦可能在 2050 年之前成为全球主要经济体。"
-    }
-   ],
-   "source": "thekabultribune.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVFBCbDZBa01wZFNRN3UzRFVrd29ra0VkX1IxSFpiYXRwdmFRSmRfeXc2Y2tPeFVXUlIzeG5TeDVUdF9ETTNjamJxMkpjU2s?oc=5",
-   "type": null,
-   "time": "2026-11-13T17:06:46Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-treasury-warns-against-rate-hikes-during-us-i",
+   "id": "us-has-floated-ukraine-ceding-donbas-for-nato-me",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -282,12 +72,12 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "美国财政部警告不要在美伊战争期间加息 能源“冲击”",
-   "summary": "尽管财政部长 Scott Bessent 发表了上述言论，但金融追踪机构 CME Fed Watch 预测 12 月可能加息。",
+   "headline": "泽伦斯基表示，美国已提议乌克兰放弃顿巴斯以加入北约",
+   "summary": "乌克兰总统表示，美国特使将此次交流视为结束与俄罗斯战争努力的一部分。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国财政部警告不要在美伊战争能源“冲击”期间加息。"
+     "text": "泽连斯基表示，美国已提议乌克兰放弃顿巴斯以加入北约。"
     },
     {
      "role": "COMMANDER",
@@ -295,146 +85,80 @@
     },
     {
      "role": "ANALYST",
-     "text": "尽管财政部长 Scott Bessent 发表了上述言论，但金融追踪机构 CME Fed Watch 预测 12 月可能加息。"
+     "text": "乌克兰总统表示，美国特使将此次交流视为结束与俄罗斯战争努力的一部分。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-13T16:22:33Z",
+   "time": "2026-11-14T11:41:20Z",
    "countries": [
     "United States of America",
-    "Iran"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
-   "id": "pakistan-calls-for-immediate-end-to-houthi-attac",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "t100-dubai-results-wilde-and-taylor-brown-surge-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "info",
-   "category": "Business",
-   "headline": "联合国安理会延长也门制裁，巴基斯坦呼吁“立即”停止胡塞武装对沙特阿拉伯的袭击",
-   "summary": "华盛顿：周四，巴基斯坦呼吁“立即无条件”停止胡塞武装对沙特阿拉伯的袭击，联合国安理会通过了一项决议，延长对威胁和平与稳定的个人和实体的制裁。",
+   "category": "UAE",
+   "headline": "T100 迪拜赛结果：王尔德和泰勒-布朗跃升至积分榜榜首",
+   "summary": "T100 迪拜赛结果：王尔德和泰勒-布朗跃升至积分榜榜首",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "随着联合国安理会延长对也门的制裁，巴基斯坦呼吁“立即”停止胡塞武装对沙特阿拉伯的袭击。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "明白了。继续。"
-    },
-    {
-     "role": "ANALYST",
-     "text": "华盛顿：周四，巴基斯坦呼吁“立即无条件”停止胡塞武装对沙特阿拉伯的袭击，联合国安理会通过了一项决议，延长对威胁和平与稳定的个人和实体的制裁。"
+     "text": "T100 迪拜赛结果：王尔德和泰勒-布朗跃升至积分榜榜首。"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions",
+   "source": "Slowtwitch News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYS1YaEZNbU9jOURhQkJlRjQydzZZenlzY3BiWEx6NXZXTDJkNDd3Z29DVlVwM2I4eERSQWNybVMtWkNydW04TmVEQk9ZNXYxYlZDa3Yta2dzcVd3dERRYVc4cVRrUGtzelVMZnZDdFhVVVB4UkhUMjlzVEQ1bFlFZEtpVkc5d2lwVFdzSnVZTVpwNDJ0a1lybFVTRjR6ZEtwWklvRkt1UW8?oc=5",
    "type": null,
-   "time": "2026-11-13T04:12:33Z",
+   "time": "2026-11-14T12:24:39Z",
    "countries": [
-    "Saudi Arabia",
-    "Pakistan",
-    "Yemen",
-    "United States of America"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "saudi-arabia-under-us-pressure-to-persuade-pakis",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "沙特阿拉伯在美国压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，埃及呼吁对话",
-   "summary": "沙特阿拉伯在美国压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，埃及呼吁对话",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特阿拉伯在美国的压力下说服巴基斯坦和土耳其关闭伊朗的贸易路线和过境点，而埃及则呼吁进行对话。"
-    }
-   ],
-   "source": "Business Insider Africa",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
-   "type": null,
-   "time": "2026-11-13T15:30:50Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America",
-    "Pakistan",
-    "Turkey",
-    "Iran",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "security-forces-kill-74-terrorists-during-ibos-i",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "ISPR：安全部队在俾路支省开伯尔普赫图赫瓦省 IBO 期间击毙 74 名恐怖分子",
-   "summary": "军方媒体部门周五发表声明称，安全部队在开伯尔-普赫图赫瓦省 (KP) 和俾路支省的情报行动 (IBO) 中击毙了 74 名恐怖分子。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ISPR：安全部队在俾路支省开伯尔普赫图赫瓦省的 IBO 期间击毙了 74 名恐怖分子。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "军方媒体部门周五发表声明称，安全部队在开伯尔-普赫图赫瓦省 (KP) 和俾路支省的情报行动 (IBO) 中击毙了 74 名恐怖分子。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044260/security-forces-kill-74-terrorists-during-ibos-in-khyber-pakhtunkhwa-balochistan-ispr",
-   "type": null,
-   "time": "2026-11-13T08:45:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "t-rkiye-publishes-law-on-defense-pact-with-pakis",
-   "country": "Turkey",
-   "label": "土耳其",
+   "id": "trump-xi-and-putin-plan-an-unprecedented-joint-m",
+   "country": "United States of America",
+   "label": "美国",
    "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "土耳其公布与巴基斯坦和沙特阿拉伯签订的防务协定法 — 阿纳多卢通讯社",
-   "summary": "土耳其公布与巴基斯坦和沙特阿拉伯签订的防务协定法 — 阿纳多卢通讯社",
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "白宫表示，特朗普、习近平和普京计划在亚太经合组织会议期间举行史无前例的联席会议",
+   "summary": "一位发言人表示，特朗普将在这次史无前例的会谈中讨论“削减核武器”问题。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "土耳其公布了与巴基斯坦和沙特阿拉伯签订的防务条约法——阿纳多卢通讯社。"
+     "text": "白宫称，特朗普、习近平和普京计划在亚太经合组织会议期间举行史无前例的联席会议。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "给我详细信息。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "一位发言人表示，特朗普将在这次史无前例的会谈中讨论“削减核武器”问题。"
     }
    ],
-   "source": "UA.NEWS",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTVhuY1ZuNDNLNFNtTlJRTXdFQ253QlZadjA3aTU5dDlTbmd4WFl5M2FZSWJDTWczSnZtWGppREtQMDhpbkR6Wml2VFJiWXNNLU9tZnpOWC1CTlMtUkg5WTgyN29DTmt1ZUlYZFkxazdHUzdJM0Y0Qkh3R1NjaE9UYVNHZkZDVW9VM01nVy05bFJDWDQxUHYyRHZyT0lQcmpzSWo5UEpHeVJzNjZXQWZ1M204b0RVcVZvOE1CekFDOFludS0xOG5TMGRhZEdXRFpH?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
    "type": null,
-   "time": "2026-11-13T22:43:56Z",
+   "time": "2026-11-14T07:56:00Z",
    "countries": [
-    "Turkey",
-    "Pakistan",
-    "Saudi Arabia"
+    "United States of America",
+    "Russia"
    ]
   },
   {
-   "id": "iran-says-gas-tanker-hit-mine-in-strait-of-hormu",
+   "id": "iran-says-oil-tanker-on-fire-after-naval-mine-st",
    "country": "Iran",
    "label": "伊朗",
    "lat": 32.4,
@@ -442,24 +166,154 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "伊朗称油轮在霍尔木兹海峡触雷",
-   "summary": "伊朗称油轮在霍尔木兹海峡触雷",
+   "headline": "伊朗称霍尔木兹海峡东部海军水雷袭击后油轮起火",
+   "summary": "伊朗称霍尔木兹海峡东部海军水雷袭击后油轮起火",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "伊朗称油轮在霍尔木兹海峡触雷。"
+     "text": "伊朗称，霍尔木兹海峡东部的一艘油轮在海军水雷袭击后起火。"
     }
    ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWXdvbHV6NmJUR3NQSTd0dk93RlNPWTR1anR6c20xQVNWOTM5eDJaU2dDR3NCb3g3RGJYRVBWQ0tWczNiYUJpN2V4M1dDTkNSc1JVVWZOU0J5NDYyenQwM0NLT0pBVmxWaGVpUmtnZlByOUs2dW5hak9YQi02LTBrRHZKT2NlYlFJQ0hjVm93WWpXMkFXUmZOd1doT2xKRzMyTkwwVGFVYmTSAa4BQVVfeXFMTUVoUlBfQ3N1UzZpTEVyaXFGa1oyN19OQnhMLTlTNmYtQmtLSC0zZEpqdkNnNWxNY0JsOUp3Q0lMR3E3dFFMUVFnSGR5U2xtel9uT2RicWYxT3ppWmNxM2k1aGtJVWNpb2NFQWFnQzRITjdQdm1Ma0ZDVzFqZk0zNGdSNEF0NGxSTXVSS200ek9qU1R4TF93TjJobEFBeVBlbXNOOUlZM1g2eFFNbnNR?oc=5",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
    "type": null,
-   "time": "2026-11-13T12:45:00Z",
+   "time": "2026-11-14T12:00:58Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "sixth-victim-confirmed-in-dc-condo-related-shoot",
+   "id": "uae-condemns-israeli-air-strikes-on-nasser-medic",
+   "country": "Palestine",
+   "label": "巴勒斯坦",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "阿联酋谴责以色列对加沙纳赛尔医疗中心的空袭",
+   "summary": "阿联酋谴责以色列对加沙纳赛尔医疗中心的空袭",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋谴责以色列对加沙纳赛尔医疗中心的空袭。"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRU52WlA5WnlrQTI2OVhVbkNZLTFXYWFrUkpOY3hrVTEzT2pVdS03WE1SWW1SaWU4OHVMVGZYWVFTWEllenFRMUQ4WFMxRW5qUW5wbFBwWXJON0FMbXVyUDVmYjV3VGNJNmxRMHZoMlc3SVVpdktkLW5ueHFRdi1rNkUyZ2FMVFN1UzIyRGtveldKaGR2WE5EY2xCdTI2TDZMQWs4aTJTU1JIZWtNUVZOeHpwbWxINl9GSjRV?oc=5",
+   "type": null,
+   "time": "2026-11-14T13:22:14Z",
+   "countries": [
+    "Palestine",
+    "United Arab Emirates",
+    "Israel"
+   ]
+  },
+  {
+   "id": "pakistan-to-host-30th-eco-council-of-ministers-m",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "巴基斯坦将于11月15日至16日主办第30届经济合作组织部长理事会会议",
+   "summary": "外交部周六表示，经济合作组织（ECO）部长理事会第30次会议将于11月15日至16日在伊斯兰堡举行。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦将于11月15日至16日主办第30届经济合作组织部长理事会会议。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "外交部周六表示，经济合作组织（ECO）部长理事会第30次会议将于11月15日至16日在伊斯兰堡举行。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
+   "type": null,
+   "time": "2026-11-14T10:42:56Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "fo-says-climate-minister-musadik-malik-nominated",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "FO表示，气候部长穆萨迪克·马利克被提名代表巴基斯坦参加在新德里举行的上合组织模拟赛",
+   "summary": "外交部 (FO) 周六表示，气候变化部长穆萨迪克·马利克 (Musadik Malik) 已被提名代表巴基斯坦出席 11 月 20 日至 22 日在新德里举行的上海合作组织 (SCO) 文明对话会。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "《FO》表示，气候部长穆萨迪克·马利克被提名代表巴基斯坦参加在新德里举行的上合组织模拟赛。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "为什么要搬家？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "外交部 (FO) 周六表示，气候变化部长穆萨迪克·马利克 (Musadik Malik) 已被提名代表巴基斯坦出席 11 月 20 日至 22 日在新德里举行的上海合作组织 (SCO) 文明对话会。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi",
+   "type": null,
+   "time": "2026-11-14T13:19:03Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "China"
+   ]
+  },
+  {
+   "id": "un-says-25-seafarers-killed-in-around-hormuz-sin",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "联合国表示，自美以对伊朗发动战争以来，已有 25 名海员在霍尔木兹附近地区丧生",
+   "summary": "联合国秘书长哈立德·基亚里表示，“局势不能成为新常态”，伊朗报告又有三艘船只触雷。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "联合国表示，自美以对伊朗发动战争以来，已有 25 名海员在霍尔木兹海峡附近丧生。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "联合国秘书长哈立德·基亚里表示，“局势不能成为新常态”，伊朗报告又有三艘船只触雷。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-14T07:46:36Z",
+   "countries": [
+    "Iran",
+    "United States of America",
+    "Israel"
+   ]
+  },
+  {
+   "id": "trump-tells-advisers-he-may-hold-off-on-iran-att",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
@@ -467,61 +321,227 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "警方称，美国华盛顿特区公寓枪击案第六名受害者已确诊",
-   "summary": "警方确认华盛顿公寓枪击案第六名受害者；嫌疑人封锁自己并纵火后死亡。",
+   "headline": "消息人士称，特朗普告诉顾问，除非出现新的挑衅，否则他可能会推迟对伊朗的袭击",
+   "summary": "消息人士称，特朗普告诉顾问，除非出现新的挑衅，否则他可能会推迟对伊朗的袭击",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "警方称，美国华盛顿特区公寓相关枪击案已确认第六名受害者。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "警方确认华盛顿公寓枪击案第六名受害者；嫌疑人封锁自己并纵火后死亡。"
+     "text": "消息人士称，特朗普告诉顾问，除非出现新的挑衅，否则他可能会推迟对伊朗的袭击。"
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUNsYTRYZ0FoalloZ3JkMHcyNkFQQm5HQlo5OG5nUksxMEVRWmZfSXJrOGt0blBCaEtCSzROa05CaVYxelZUMVE1QmdyUl9LbzQxWnBGMDYyNFhtT0NFSkl4VGszZDJZYmR5ZnpqTXRJdEZwYVV1Zl9YYkd4aHF2Z09nQVRERGxJM0NxV0RTQXVuYmdpUzZwX0lHWDl3ejFIRnVWNkFyTdIBrAFBVV95cUxNTEI1Z3pwMFVUVmI4Y1ktNXlGcXEzYU12aV9xY2RGYWN3d1FsOUp4VEFUdHdSQ0dYSHJrZ1pwZk9SS25ELTZKNWt3amZPTnBBcF9uWmJxcWxRanpvYkN0RU5Pc2ExdUt1NXNEcnJZS09xdDlwR1cwek5teDRDLXlJal8tZEc4RmJSSVNWX0Y2RnVCMGZMWFk5a1FrOG1zMHNZSEp3aHBMZ3B0d2lF?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
    "type": null,
-   "time": "2026-11-13T16:37:10Z",
+   "time": "2026-11-14T11:04:10Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "at-least-24-killed-after-bus-collides-with-truck",
-   "country": "India",
-   "label": "印度",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
+   "id": "ukraine-russia-race-to-build-military-satellite-",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "印度东北部巴士与卡车相撞 至少24人死亡",
-   "summary": "据当地官员阿图博拉称，其中几名死者是大学生，但他们的身份尚未公开。",
+   "headline": "战争愈演愈烈，乌克兰和俄罗斯竞相建设军事卫星网络",
+   "summary": "随着莫斯科开发自己的军事通信卫星星座，基辅寻求打破对星链的依赖。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "印度东北部巴士与卡车相撞，造成至少 24 人死亡。"
+     "text": "随着战争的激烈进行，乌克兰和俄罗斯竞相建设军事卫星网络。"
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "据当地官员阿图博拉称，其中几名死者是大学生，但他们的身份尚未公开。"
+     "text": "随着莫斯科开发自己的军事通信卫星星座，基辅寻求打破对星链的依赖。"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
    "type": null,
-   "time": "2026-11-13T15:16:50Z",
+   "time": "2026-11-14T11:00:39Z",
    "countries": [
-    "India"
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "-watch-espn-bangladesh-vs-pakistan-live-free",
+   "country": "Bangladesh",
+   "label": "孟加拉国",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "info",
+   "category": "World",
+   "headline": "‍[观看 ESPN！] 孟加拉国 vs 巴基斯坦 免费直播",
+   "summary": "‍[观看 ESPN！] 孟加拉国 vs 巴基斯坦 免费直播",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "‍[观看 ESPN！] 孟加拉国 vs 巴基斯坦 免费直播。"
+    }
+   ],
+   "source": "日本取引所グループ",
+   "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNS2Q4NzFWNm43aVJxM3ZUMWJHX3Fpb3dLektTM2RZLXJDcmF0NUU0R2lVNlF6NDZ4MFAzUXVOSkdFVjB6ci1SNWhYOWhFV1Q2MWtqUVpoN1lYYnVUZmpVNEh4amdMRVRQTkV5ZWFfSzluOU1EV3gwa0pDSjdBcjY1ZEtVSERCVzdCcTVvU2lPRE9YU2NST0xaWnEtY2gyOU1JMW5HSmwxR0ZsZ2FRTDVvN2tUdnBEaW1iams4SEdWT3pybnc1ME5veC1SUzV6bHdhbUs1dVU5MnZydmVSMExSTlRJYWIxUjZTQ09SemFBT2xyYm44MVhXcXBJd0UwVW9CcFE3MFpwdEtPS3FTLUlILXEta21RRDRNWFF3d0Jfd2taOC1DUTdDcVQ2ZkpHTmRyaVpQUF9oblBILTlVQUdRSnByT3o0RzFRWTd1cV9HQ1FrM19sSDZBN2xBLThSN2ttd1FXQ2Y1dkVUM1kwcXNTSTNQc1g0b2ktX1hiRkp3VGU4WVVqRTBHMHB3?oc=5",
+   "type": null,
+   "time": "2026-11-14T13:47:50Z",
+   "countries": [
+    "Bangladesh",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "qatar-and-turkiye-sign-a-mutual-defence-pact-wha",
+   "country": "Qatar",
+   "label": "卡塔尔",
+   "lat": 25.3,
+   "lon": 51.2,
+   "flag": "🇶🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "卡塔尔和土耳其签署共同防御协议：我们知道什么？",
+   "summary": "分析人士表示，这项在美伊战争期间达成的协议旨在阻止袭击，而不是建立进攻性联盟。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "卡塔尔和土耳其签署共同防御协定：我们知道什么？"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "分析人士表示，这项在美伊战争期间达成的协议旨在阻止袭击，而不是建立进攻性联盟。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-14T09:19:43Z",
+   "countries": [
+    "Qatar",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "dp-world-tour-championship-rory-mcilroy-suffers-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "DP世界巡回锦标赛：罗里·麦克罗伊迪拜赛遭遇重大挫折，泰瑞尔·哈顿领先进入最后一天",
+   "summary": "DP世界巡回锦标赛：罗里·麦克罗伊迪拜赛遭遇重大挫折，泰瑞尔·哈顿领先进入最后一天",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "DP世界巡回锦标赛：罗里·麦克罗伊在迪拜之战中遭遇重大挫折，泰瑞尔·哈顿在最后一天取得领先。"
+    }
+   ],
+   "source": "Sky Sports",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaF8ydzM1RkQ1dGhzRlpuYkdPQWF0MTduN3I4MHd4Q3FMTW1KLU1oWmd6cnMtS3oyNEJaVEdGdXVBVy1scXdaQlJJTXJQdk1kRjl2U2pYX3lLVnZkQzlYTlp5RmpDSURmZkRfUmVVUFIxd09sdXN1eWZVSzNIdDFmT1V2aHhmNTRwdjJGWWlNRmhiZWxxSWJpMjB6ZV9JLW9XcUk1QkZWQjNyOUkzRFVIZkFpSXkza1g2NlY2eWs0ckFDTlZ1bHpSVWhvRXh2ZjZqSHowZE55X2drQzJyeGNOaUpZcDZMWnVaVldCR1pDV0x4cExp?oc=5",
+   "type": null,
+   "time": "2026-11-14T13:04:51Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "turkey-saudi-arabia-pakistan-defence-agreement-t",
+   "country": "Turkey",
+   "label": "土耳其",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "土耳其-沙特阿拉伯-巴基斯坦防务协议生效",
+   "summary": "土耳其-沙特阿拉伯-巴基斯坦防务协议生效",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "土耳其-沙特阿拉伯-巴基斯坦防务协议生效。"
+    }
+   ],
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByVl9jRTl4SGNXeDZCMFRJd042WDVxb0RScEtZSjZIVEVyQmxOSElwT2loakhITzR2ZWxBc1dnT1ZvZGJkRHo2c05YU01Rdmd0bjdVaWoxX05jRXRsOEUzV2R4Tl9Wbk5CNVBzM1FDckZTYk9MT25Vbg?oc=5",
+   "type": null,
+   "time": "2026-11-14T09:23:51Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-casualties-reach-450-000-what-that-means",
+   "country": "Russia",
+   "label": "俄罗斯",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "俄罗斯伤亡人数“达到45万人”：这对乌克兰战争意味着什么",
+   "summary": "泄露的俄罗斯记录显示，战争造成的伤亡最严重的是老年人、贫困地区和外国新兵。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "俄罗斯伤亡人数“达到 45 万”：这对乌克兰战争意味着什么。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "泄露的俄罗斯记录显示，战争造成的伤亡最严重的是老年人、贫困地区和外国新兵。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-14T12:57:36Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "middle-east-war-5-things-uae-residents-need-to-k",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "中东战争：阿联酋居民今天需要了解的 5 件事 (2026 年 11 月 14 日)",
+   "summary": "中东战争：阿联酋居民今天需要了解的 5 件事 (2026 年 11 月 14 日)",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中东战争：阿联酋居民今天需要了解的 5 件事（2026 年 11 月 14 日）。"
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQV9PbE5tUmVhN0huamdzcHZ3WTZKcHh3SkdHWUE5UHJLQnhFM3VhWDB5dGxCbGNUaDhxYi1NZ3RjZXl3TDB0RWYtT1dDU2ZHaW4tYVJESEJETUxXUjBMS3FZc09yUjVIdWo3MEFGZE5TZ21yalhLblRuemlnLUdnemFDbGpGZmJidVVSQ1I0TEFtQTY2RDRneUFUcVhvVnQxQURiU2laZ0pXd9IBugFBVV95cUxNOFpfbXBjcXh0UEJLTDlOTExxeGQ5TzZjS3N4NEdlOFNwZm5HOHNpaU5uY2RwQW1DSlVkd2FhMEd2T1JaanZxRVdhRWdnaDVfS0xwSG9KVDd1ZkgxdU5yQTRmMkFjakNVYzJxYlROTmVEWFdrcGNjZ0VJWjRhckIzTVZIYlVfZGxfTG1SZEJLYXJWaTU2X1Fnck9hWk5GTkwwREhfMkRzTGRqV0hBVmhPbWI4bW82NjdyT3c?oc=5",
+   "type": null,
+   "time": "2026-11-14T05:56:05Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   }
  ]

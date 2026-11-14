@@ -1,35 +1,129 @@
 {
- "updated": "2026-11-14T06:37:47.459730Z",
+ "updated": "2026-11-14T13:49:22.465432Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "saudi-arabia-vs-south-korea-friendlies-stats-hea",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "india-stun-pakistan-by-one-wicket-in-last-ball-u",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head",
-   "summary": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head",
+   "category": "Sports",
+   "headline": "India stun Pakistan by one wicket in last-ball U-19 Asia Cup final thriller",
+   "summary": "Mohit Ulva and Venkata produced a decisive unbeaten ninth-wicket stand to snatch a thrilling one-wicket victory for India over Pakistan in the U-19 Asia Cup final, chasing down a daunting 338-run target off the final delivery of the match in Muscat on Saturday",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia vs South Korea: Friendlies stats & head-to-head."
+     "text": "India stun Pakistan by one wicket in last-ball U-19 Asia Cup final thriller."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Mohit Ulva and Venkata produced a decisive unbeaten ninth-wicket stand to snatch a thrilling one-wicket victory for India over Pakistan in the U-19 Asia Cup final, chasing down a daunting 338-run target off the final delivery of the match in Muscat on Saturday"
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DU2xOLTRxNUtSZ1BtQmhNNlltTy1lTllKaTNHc0F1OW5NT0puWDdPWkJXWGlTZjZ5VGRPZGkxemtSR1o5dWlHMVhIcHdlM0tVWkc1QWxEOU5Dc2VhS2NuTk9Tbw?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044502/india-stun-pakistan-by-one-wicket-in-last-ball-u-19-asia-cup-final-thriller",
    "type": null,
-   "time": "2026-11-14T04:27:14Z",
+   "time": "2026-11-14T13:37:56Z",
    "countries": [
-    "Saudi Arabia",
-    "South Korea"
+    "Pakistan",
+    "India",
+    "Oman"
    ]
   },
   {
-   "id": "trump-to-have-first-trilateral-meeting-with-puti",
+   "id": "irgc-says-two-oil-tankers-caught-fire-after-hitt",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
+   "summary": "IRGC says two oil tankers caught fire after hitting sea mines in Hormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "IRGC says two oil tankers caught fire after hitting sea mines in Hormuz."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXFoNFFYdTBqTjZjZ3pBRTk4bm9QWkRnRUstbndsQV8wd1dhX281Y1hhblZCNjdJT2dZWGZXZWZBWGZTWDBZNXg0bVc1a1hGbjNSWHFNb2FveFY3VjhXRy1ZRU1CVWFUa3B4aGtNdjVwZU5WTmR2VkhHNmJHYjZ1VGg5dXpYWG5JWmVuSExGQ3MwLUE?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-14T11:49:58Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "us-has-floated-ukraine-ceding-donbas-for-nato-me",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-14T11:41:20Z",
+   "countries": [
+    "United States of America",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "t100-dubai-results-wilde-and-taylor-brown-surge-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "T100 Dubai Results: Wilde and Taylor-Brown Surge to Top of Standings",
+   "summary": "T100 Dubai Results: Wilde and Taylor-Brown Surge to Top of Standings",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "T100 Dubai Results: Wilde and Taylor-Brown Surge to Top of Standings."
+    }
+   ],
+   "source": "Slowtwitch News",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYS1YaEZNbU9jOURhQkJlRjQydzZZenlzY3BiWEx6NXZXTDJkNDd3Z29DVlVwM2I4eERSQWNybVMtWkNydW04TmVEQk9ZNXYxYlZDa3Yta2dzcVd3dERRYVc4cVRrUGtzelVMZnZDdFhVVVB4UkhUMjlzVEQ1bFlFZEtpVkc5d2lwVFdzSnVZTVpwNDJ0a1lybFVTRjR6ZEtwWklvRkt1UW8?oc=5",
+   "type": null,
+   "time": "2026-11-14T12:24:39Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "trump-xi-and-putin-plan-an-unprecedented-joint-m",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -37,12 +131,12 @@
    "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "Trump to have first trilateral meeting with Putin, Xi",
+   "headline": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says",
    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump to have first trilateral meeting with Putin, Xi."
+     "text": "Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says."
     },
     {
      "role": "COMMANDER",
@@ -53,171 +147,17 @@
      "text": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says."
     }
    ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS0ZHZDFUVjNXc19jTzlIeWRBX0s4dmtIUG1jNGFwZFpCUTBEWEJTRW5tbnhDVTlEdDlwcnZNV0ctRWVLNnhaSUJvbDVlRzUyNmxWelF0aU5xOWV0SkJ5UkhHNTdmVTcyZ1plcWhhY0N2LW5zNUZFT3pVWXhzZkFidEM2bkk0aE8wUFRScg?oc=5",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5",
    "type": null,
-   "time": "2026-11-14T03:47:00Z",
+   "time": "2026-11-14T07:56:00Z",
    "countries": [
     "United States of America",
     "Russia"
    ]
   },
   {
-   "id": "pakistan-ask-india-to-field-in-under-19-asia-cup",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Pakistan ask India to field in Under-19 Asia Cup final",
-   "summary": "Pakistan ask India to field in Under-19 Asia Cup final",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan ask India to field in Under-19 Asia Cup final."
-    }
-   ],
-   "source": "Cricinfo",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWd4REJWS3l3NTFKOGljWF91NW9HZnMxQnk3SzV0dU5aOFNGZ3NPYWhGcWU0NnFoSFFudlNtZFI1TzA1cm1GeFgyRGVXeFp3X1NNaEd2SFBENm5zZ09KdkhGVzVkbWJoaVFqa1hmblZVdmJoVzBEUEdKall0a3U0cERKX3JUaDR3bHJNRGg4RmliaGdiQThUUtIBqgFBVV95cUxNaVVXSkdwQzJtcVF3aGJqdzI5dlZpZWZLM3pualUxYVA0d2tNT2lpWGQ1bXJxdmNUY1MzNjZRMTVYSlRhQ1lUSmZEUXZJc3lnQUs0NnNsT2J4V2g4OHVKSE9kd1JlcXdqNmwtZTdERmtYU1E1cWc4amdjWVNwX1RnQ0F6c0FXUnpjUWdzaTNha2tJNVlQME5LTkxHUVQ5RkNVTXpfbXVVaHBfZw?oc=5",
-   "type": null,
-   "time": "2026-11-14T05:24:19Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "merab-dvalishvili-shows-class-after-abu-dhabi-at",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Merab Dvalishvili Shows Class After Abu Dhabi Attack, Hopes Usman Nurmagomedov Gets Released Soon",
-   "summary": "Merab Dvalishvili Shows Class After Abu Dhabi Attack, Hopes Usman Nurmagomedov Gets Released Soon",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Merab Dvalishvili Shows Class After Abu Dhabi Attack, Hopes Usman Nurmagomedov Gets Released Soon."
-    }
-   ],
-   "source": "MMA Sucka",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0oyOHZoWXNmdU5LY2hHSzR0WTJ3OHRKQkhwWUp1cmU4N2VBQ3JCU0ViY3FMQVdzdkxwYWVTai1uenBhOWI2cUJXNklvUkZLRmd1T3FNZVZsd0hFYTAzQTMtcGV4QlRsX1hPOGxvSExsSEZpZnpHTTRhUHhWRDZaOGZGaFJRQkRNXzdqUEx3WGN4UkRzT2NPaVZsdE1sOFdSYlh3dnRDNU83SnpHMXhBRHpfUnhPMnF6eHdJek5lNnE?oc=5",
-   "type": null,
-   "time": "2026-11-14T05:11:33Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "gold-price-in-pakistan-for-today-november-14-202",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Gold price in Pakistan for today, November 14, 2026",
-   "summary": "Gold price in Pakistan for today, November 14, 2026",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Gold price in Pakistan for today, November 14, 2026."
-    }
-   ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY1Y5OFhuMC1pZ3F2bF95QUJQSzdPQzZFSTVWS25OejhabVdfRzQzSzluZ3RzXy1CQ2IzTy1POHRUNm9SS05yUjd0SE9WSk9hbUZzcGlsZ0dKTHI2ZTRTSjl3QWtGTDJGRmZBR0s5T00wc0hHZDh0TFpxdVptMjRmNk9ncVVBVW8ybnp3SFZwampPekEyVFJj?oc=5",
-   "type": null,
-   "time": "2026-11-14T04:31:28Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "the-nvidia-scandal-is-heightening-america-s-ai-r",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit - ABC News",
-   "summary": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit - ABC News",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "The Nvidia scandal is heightening America's AI rivalry with China ahead of Trump's visit - ABC News."
-    }
-   ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTdIb1dVWXp1MFVRQmJfY3lVelBQN0RDZzJoQnI4V19GQVAyZ0Fkdk9JdU5LenRnY3lYejRzdy1UYVRjVXh4SmVrb09rbjFxLU96d0pGN0NYdmJQT3BwaVNLdjVJSjNBUzFwcUhXVDZYNU9QYWdMWURzQWNfd3dUbnZORGlROFFWaENQTjNOcE9vdmtPanRQWEpzUTdmV1dMSy1j0gGoAUFVX3lxTFBIdGZpRWxLclBvWlBpQkt0OURmdXdSYklEZHp6bVhORWFkMDQ3NDFuUzVoQkRrRks4ZW8ydF83UmhJOFdrTV9GN1d4UWtjYlRmX3owYXRpaW9OZEl5VDZWdUwybUdZLXlHNWpsNWFLMzNwRTgtRG1RUXFLdUYyVHBmcGNkdF95Q3o4Tm1SN1laeFdZQmwwY1BVRncyMjIzblRfaTE3OGgtOQ?oc=5",
-   "type": null,
-   "time": "2026-11-14T05:51:32Z",
-   "countries": [
-    "United States of America",
-    "China"
-   ]
-  },
-  {
-   "id": "security-alert-u-s-mission-to-saudi-arabia-novem",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Security Alert: U.S. Mission to Saudi Arabia – November 13, 2026",
-   "summary": "Security Alert: U.S. Mission to Saudi Arabia – November 13, 2026",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Security Alert: U.S. Mission to Saudi Arabia – November 13, 2026."
-    }
-   ],
-   "source": "U.S. Embassy & Consulates in Saudi Arabia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN09FRkF1U2dwbDJrRk8ydURydWNnWmJhM3g4eE5KN0JlNWk1djF1bVlGUDJsbDJScjRaaWU5OEJ5QWhtWTRES0gxX0dJUUxCTkc3MWZDTDFzR2RiYVJ0Z1htVnJOZGtBaU5UR090WVJ5NGJQZFcxazZySXJGNTdPbmVVUHI4YTdrTFB2OGdn?oc=5",
-   "type": null,
-   "time": "2026-11-14T02:09:27Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "uae-remains-main-destination-for-gold-smuggled-o",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones",
-   "summary": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE remains ‘main destination’ for gold smuggled out of Sudan and other war zones."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnhVRHNESGxZaUdIMnlwc2JSSl9oTEhtSGduTHo5dEwyR3dxcFVDUlFzNlN4d3ZVWTRVY0N6N3NtWDR1WWRNM3FJY3VMbjJXLWJLc2FTOWx2aThneExUcnVkYnlNZVVvUVVqLUZ0NzFYbWlfYm1YWVVsb0ZfR0pSMmktTmlFS1Q1REFJVWM5OThOdnBOSmRTdlV5b0hTRE1XZ1pnazI1akRIcm8?oc=5",
-   "type": null,
-   "time": "2026-11-13T15:31:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Sudan"
-   ]
-  },
-  {
-   "id": "iran-war-live-tehran-says-tanker-hit-naval-mine-",
+   "id": "iran-says-oil-tanker-on-fire-after-naval-mine-st",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -225,124 +165,51 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran war live: Tehran says tanker hit naval mine, caught fire",
-   "summary": "Tehran has said that a tanker hit a naval mine and caught fire, accusing the vessel of operating in a prohibited area.",
+   "headline": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz",
+   "summary": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran war live: Tehran says tanker hit naval mine, caught fire."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Tehran has said that a tanker hit a naval mine and caught fire, accusing the vessel of operating in a prohibited area."
+     "text": "Iran says oil tanker on fire after naval mine strike in eastern Strait of Hormuz."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNVjhPM3hwZ1NUdmp1cjJsTjZpc1hhYlBObHFZeVBYX0VhbTBPVEd4RHhrbmxMOG9ISEQ5MWFVSG5VQWR4d1NCQ1pjQWtCMkk3dGNyV2dGYTN5UzRlZXVBTVRzaEVScTVBd1E?oc=5",
    "type": null,
-   "time": "2026-11-14T00:00:25Z",
+   "time": "2026-11-14T12:00:58Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "derailed-by-design",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "uae-condemns-israeli-air-strikes-on-nasser-medic",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
    "severity": "critical",
-   "category": "Tech",
-   "headline": "Derailed by design",
-   "summary": "PAKISTAN Railways has become synonymous with the image of a decaying organisation: accident-prone, loss-making and inefficient.",
+   "category": "Middle East",
+   "headline": "UAE condemns Israeli air strikes on Nasser Medical Complex in Gaza",
+   "summary": "UAE condemns Israeli air strikes on Nasser Medical Complex in Gaza",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Derailed by design."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "PAKISTAN Railways has become synonymous with the image of a decaying organisation: accident-prone, loss-making and inefficient."
+     "text": "UAE condemns Israeli air strikes on Nasser Medical Complex in Gaza."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044450/derailed-by-design",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRU52WlA5WnlrQTI2OVhVbkNZLTFXYWFrUkpOY3hrVTEzT2pVdS03WE1SWW1SaWU4OHVMVGZYWVFTWEllenFRMUQ4WFMxRW5qUW5wbFBwWXJON0FMbXVyUDVmYjV3VGNJNmxRMHZoMlc3SVVpdktkLW5ueHFRdi1rNkUyZ2FMVFN1UzIyRGtveldKaGR2WE5EY2xCdTI2TDZMQWs4aTJTU1JIZWtNUVZOeHpwbWxINl9GSjRV?oc=5",
    "type": null,
-   "time": "2026-11-14T03:54:07Z",
+   "time": "2026-11-14T13:22:14Z",
    "countries": [
-    "Iran",
-    "Pakistan"
+    "Palestine",
+    "United Arab Emirates",
+    "Israel"
    ]
   },
   {
-   "id": "pfl-dubai-nemkov-vs-bilostenniy-live-fight-cover",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "PFL Dubai: Nemkov vs. Bilostenniy Live Fight Coverage",
-   "summary": "PFL Dubai: Nemkov vs. Bilostenniy Live Fight Coverage",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "PFL Dubai: Nemkov vs. Bilostenniy Live Fight Coverage."
-    }
-   ],
-   "source": "ESPN",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vTFJOR2d4WFEzdlRSOWp3RWtPLUZ2amh5ZEhKeUxhNV90Zk1qNTROZE5mNzRrSEY3dFBQSGlPdzV4QlZFMWU0ZTV4SXc5U3FmVU1YTTQ1R19HTEVpTzJhOF9Jejk5NWlMbmRlczRZMA?oc=5",
-   "type": null,
-   "time": "2026-11-14T02:07:05Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "what-we-know-about-the-longest-ground-stop-since",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "What we know about the longest ground stop since 9/11",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "What we know about the longest ground stop since 9/11."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-14T03:45:21Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "shehbaz-says-pakistan-could-become-major-global-",
+   "id": "pakistan-to-host-30th-eco-council-of-ministers-m",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -350,37 +217,45 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050",
-   "summary": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050",
+   "headline": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
+   "summary": "The 30th meeting of the Economic Cooperation Organization (ECO) Council of Ministers will be held in Islamabad on Nov 15 and 16, the Foreign Office (FO) said on Saturday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Shehbaz Says Pakistan Could Become Major Global Economy Before 2050."
+     "text": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The 30th meeting of the Economic Cooperation Organization (ECO) Council of Ministers will be held in Islamabad on Nov 15 and 16, the Foreign Office (FO) said on Saturday."
     }
    ],
-   "source": "thekabultribune.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wVFBCbDZBa01wZFNRN3UzRFVrd29ra0VkX1IxSFpiYXRwdmFRSmRfeXc2Y2tPeFVXUlIzeG5TeDVUdF9ETTNjamJxMkpjU2s?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
    "type": null,
-   "time": "2026-11-13T17:07:56Z",
+   "time": "2026-11-14T10:42:56Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "afghanistan-s-new-road-to-china-ends-at-a-closed",
-   "country": "Afghanistan",
-   "label": "AFGHANISTAN",
-   "lat": 33.9,
-   "lon": 67.7,
-   "flag": "🇦🇫",
+   "id": "fo-says-climate-minister-musadik-malik-nominated",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "Afghanistan’s new road to China ends at a closed border",
-   "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+   "category": "Tech",
+   "headline": "FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi",
+   "summary": "The Foreign Office (FO) said on Saturday that Climate Change Minister Musadik Malik had been nominated to represent Pakistan at the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in New Delhi from Nov 20-22.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Afghanistan’s new road to China ends at a closed border."
+     "text": "FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi."
     },
     {
      "role": "COMMANDER",
@@ -388,123 +263,284 @@
     },
     {
      "role": "ANALYST",
-     "text": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan."
+     "text": "The Foreign Office (FO) said on Saturday that Climate Change Minister Musadik Malik had been nominated to represent Pakistan at the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in New Delhi from Nov 20-22."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi",
    "type": null,
-   "time": "2026-11-14T00:06:43Z",
+   "time": "2026-11-14T13:19:03Z",
    "countries": [
-    "Afghanistan",
-    "China",
-    "Pakistan"
+    "Pakistan",
+    "India",
+    "China"
    ]
   },
   {
-   "id": "international-friendlies-saudi-arabia-australia-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "International Friendlies - Saudi Arabia, Australia, Kuwait, UAE shine",
-   "summary": "International Friendlies - Saudi Arabia, Australia, Kuwait, UAE shine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "International Friendlies - Saudi Arabia, Australia, Kuwait, UAE shine."
-    }
-   ],
-   "source": "The AFC",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNzM2djctekgwU3dOZ2E0STdQajNzMTBVNkhlRmhjU0RPME0xUTJWN1o5REZ4aEFkZXpSYkRKNTZMTmJwUVgwSUVPU1lNcEk2LVJobWdob2hzdmF1NlNUNF9aOHBkeTVaN0pZZmJMSy1xcmNaVTAyOVlodHZrSTNUTWpCaWtHb05RT2prcElucDNDNEJoSFdhMGhNbXNhYjRvLWFjOHJma0c5UQ?oc=5",
-   "type": null,
-   "time": "2026-11-14T03:03:58Z",
-   "countries": [
-    "Saudi Arabia",
-    "Australia",
-    "Kuwait",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "global-oil-supply-returns-to-surplus-for-first-t",
+   "id": "un-says-25-seafarers-killed-in-around-hormuz-sin",
    "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-   "summary": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
+   "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Global oil supply returns to surplus for first time since start of Iran war, says IEA."
+     "text": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
    "type": null,
-   "time": "2026-11-14T02:31:00Z",
+   "time": "2026-11-14T07:46:36Z",
    "countries": [
+    "Iran",
+    "United States of America",
+    "Israel"
+   ]
+  },
+  {
+   "id": "trump-tells-advisers-he-may-hold-off-on-iran-att",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+   "summary": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
+   "type": null,
+   "time": "2026-11-14T11:04:10Z",
+   "countries": [
+    "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "europe-and-ukraine-get-a-boost-in-peace-talks-bu",
+   "id": "ukraine-russia-race-to-build-military-satellite-",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
    "lon": 31.4,
    "flag": "🇺🇦",
-   "severity": "watch",
+   "severity": "critical",
    "category": "World",
-   "headline": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
-   "summary": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+   "headline": "Ukraine, Russia race to build military satellite networks as war rages on",
+   "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time."
+     "text": "Ukraine, Russia race to build military satellite networks as war rages on."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications."
     }
    ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUF0RjZSUldra2R2TVp6OUg4YmFBRDdHMHYtMnpwNk9MelhKdU92NUtMaC1heV9GYnotUEZvWHdqLXVQejV2bnpScUlTaGlCbU5vU0ozX3pOWENTVGdDaVNoNGRGVzBSbFM3X25GcURsWFBjVFJkLWVxNjJJVkh0NlpJaFFHcnJhMTVNdnJR?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
    "type": null,
-   "time": "2026-11-13T18:24:53Z",
+   "time": "2026-11-14T11:00:39Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "us-military-downs-2-iranian-attack-drones-as-ira",
-   "country": "Bahrain",
-   "label": "BAHRAIN",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
-   "summary": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+   "id": "-watch-espn-bangladesh-vs-pakistan-live-free",
+   "country": "Bangladesh",
+   "label": "BANGLADESH",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "info",
+   "category": "World",
+   "headline": "‍[WATCH ESPN!] Bangladesh vs Pakistan Live Free",
+   "summary": "‍[WATCH ESPN!] Bangladesh vs Pakistan Live Free",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain."
+     "text": "‍[WATCH ESPN!] Bangladesh vs Pakistan Live Free."
     }
    ],
-   "source": "The Journal Gazette",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOUphYlZoLUx0b0tmaUNEdTNIWDlSVXZjcUtvYzkxbVZzQWxLYldabFpmT1dEN1hMLTRIdUJXdlVfRjBCX29tUFNVRENuRUtuaG5FUXdJcEZ5VmZZOHdNdXoxOWFvTmVha0I1T3FhZUoySVRMYzJnYXlqM2I4eTJNTzE0VjlOaDJkTmRSYXZsbGlpY0dfaUdudERrWi1wWW1mc3lzc1Q0cTByQ19OODA2T2dnX1FhaFZZWXNMY2pMZ0NsdEtKUkNXWjZCSU5WOUFSdUMta2d1T2xSdmlLdXZoSkx2RVpmWVNTTUwzZ0t5akJaeVdlYVNRcA?oc=5",
+   "source": "日本取引所グループ",
+   "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNS2Q4NzFWNm43aVJxM3ZUMWJHX3Fpb3dLektTM2RZLXJDcmF0NUU0R2lVNlF6NDZ4MFAzUXVOSkdFVjB6ci1SNWhYOWhFV1Q2MWtqUVpoN1lYYnVUZmpVNEh4amdMRVRQTkV5ZWFfSzluOU1EV3gwa0pDSjdBcjY1ZEtVSERCVzdCcTVvU2lPRE9YU2NST0xaWnEtY2gyOU1JMW5HSmwxR0ZsZ2FRTDVvN2tUdnBEaW1iams4SEdWT3pybnc1ME5veC1SUzV6bHdhbUs1dVU5MnZydmVSMExSTlRJYWIxUjZTQ09SemFBT2xyYm44MVhXcXBJd0UwVW9CcFE3MFpwdEtPS3FTLUlILXEta21RRDRNWFF3d0Jfd2taOC1DUTdDcVQ2ZkpHTmRyaVpQUF9oblBILTlVQUdRSnByT3o0RzFRWTd1cV9HQ1FrM19sSDZBN2xBLThSN2ttd1FXQ2Y1dkVUM1kwcXNTSTNQc1g0b2ktX1hiRkp3VGU4WVVqRTBHMHB3?oc=5",
    "type": null,
-   "time": "2026-11-14T00:30:00Z",
+   "time": "2026-11-14T13:47:50Z",
    "countries": [
-    "Bahrain",
+    "Bangladesh",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "qatar-and-turkiye-sign-a-mutual-defence-pact-wha",
+   "country": "Qatar",
+   "label": "QATAR",
+   "lat": 25.3,
+   "lon": 51.2,
+   "flag": "🇶🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+   "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Qatar and Turkiye sign a mutual defence pact: What do we know?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-14T09:19:43Z",
+   "countries": [
+    "Qatar",
     "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "dp-world-tour-championship-rory-mcilroy-suffers-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "DP World Tour Championship: Rory McIlroy suffers big Race to Dubai setback as Tyrrell Hatton takes lead into final day",
+   "summary": "DP World Tour Championship: Rory McIlroy suffers big Race to Dubai setback as Tyrrell Hatton takes lead into final day",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "DP World Tour Championship: Rory McIlroy suffers big Race to Dubai setback as Tyrrell Hatton takes lead into final day."
+    }
+   ],
+   "source": "Sky Sports",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaF8ydzM1RkQ1dGhzRlpuYkdPQWF0MTduN3I4MHd4Q3FMTW1KLU1oWmd6cnMtS3oyNEJaVEdGdXVBVy1scXdaQlJJTXJQdk1kRjl2U2pYX3lLVnZkQzlYTlp5RmpDSURmZkRfUmVVUFIxd09sdXN1eWZVSzNIdDFmT1V2aHhmNTRwdjJGWWlNRmhiZWxxSWJpMjB6ZV9JLW9XcUk1QkZWQjNyOUkzRFVIZkFpSXkza1g2NlY2eWs0ckFDTlZ1bHpSVWhvRXh2ZjZqSHowZE55X2drQzJyeGNOaUpZcDZMWnVaVldCR1pDV0x4cExp?oc=5",
+   "type": null,
+   "time": "2026-11-14T13:04:51Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "turkey-saudi-arabia-pakistan-defence-agreement-t",
+   "country": "Turkey",
+   "label": "TURKEY",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Turkey-Saudi Arabia-Pakistan Defence Agreement Takes Effect",
+   "summary": "Turkey-Saudi Arabia-Pakistan Defence Agreement Takes Effect",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Turkey-Saudi Arabia-Pakistan Defence Agreement Takes Effect."
+    }
+   ],
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByVl9jRTl4SGNXeDZCMFRJd042WDVxb0RScEtZSjZIVEVyQmxOSElwT2loakhITzR2ZWxBc1dnT1ZvZGJkRHo2c05YU01Rdmd0bjdVaWoxX05jRXRsOEUzV2R4Tl9Wbk5CNVBzM1FDckZTYk9MT25Vbg?oc=5",
+   "type": null,
+   "time": "2026-11-14T09:23:51Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-casualties-reach-450-000-what-that-means",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+   "summary": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-14T12:57:36Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "middle-east-war-5-things-uae-residents-need-to-k",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Middle East war: 5 things UAE residents need to know today (Nov 14, 2026)",
+   "summary": "Middle East war: 5 things UAE residents need to know today (Nov 14, 2026)",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Middle East war: 5 things UAE residents need to know today (Nov 14, 2026)."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQV9PbE5tUmVhN0huamdzcHZ3WTZKcHh3SkdHWUE5UHJLQnhFM3VhWDB5dGxCbGNUaDhxYi1NZ3RjZXl3TDB0RWYtT1dDU2ZHaW4tYVJESEJETUxXUjBMS3FZc09yUjVIdWo3MEFGZE5TZ21yalhLblRuemlnLUdnemFDbGpGZmJidVVSQ1I0TEFtQTY2RDRneUFUcVhvVnQxQURiU2laZ0pXd9IBugFBVV95cUxNOFpfbXBjcXh0UEJLTDlOTExxeGQ5TzZjS3N4NEdlOFNwZm5HOHNpaU5uY2RwQW1DSlVkd2FhMEd2T1JaanZxRVdhRWdnaDVfS0xwSG9KVDd1ZkgxdU5yQTRmMkFjakNVYzJxYlROTmVEWFdrcGNjZ0VJWjRhckIzTVZIYlVfZGxfTG1SZEJLYXJWaTU2X1Fnck9hWk5GTkwwREhfMkRzTGRqV0hBVmhPbWI4bW82NjdyT3c?oc=5",
+   "type": null,
+   "time": "2026-11-14T05:56:05Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   }
  ]
