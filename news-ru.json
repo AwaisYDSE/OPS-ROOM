@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14T23:04:12.912056Z",
+ "updated": "2026-11-15T21:53:45.166782Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "raf-abu-dhabi-results-khamzat-chimaev-wins-raf-t",
+   "id": "emotional-rory-mcilroy-dedicates-record-equallin",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
@@ -12,20 +12,284 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Результаты РАФ Абу-Даби: Хамзат Чимаев выигрывает титул РАФ, Арман Царукян идет к победе",
-   "summary": "Результаты РАФ Абу-Даби: Хамзат Чимаев выигрывает титул РАФ, Арман Царукян идет к победе",
+   "headline": "Эмоциональный Рори Макилрой посвящает отцу рекордный восьмой титул Race to Dubai",
+   "summary": "Эмоциональный Рори Макилрой посвящает отцу рекордный восьмой титул Race to Dubai",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Результаты РАФ Абу-Даби: Хамзат Чимаев выигрывает титул РАФ, Арман Царукян идет к победе."
+     "text": "Эмоциональный Рори Макилрой посвящает отцу рекордный восьмой титул Race to Dubai."
     }
    ],
-   "source": "MMA Junkie",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaUZQX3dDbmM2U1Q1Q1VtbGl1YTRNX0FwdXJYVEloanZJUldLMEJCbklSZVBpYzRDOVEwZXlRa2dCcmk5ZVJIdWdndlpUX19xOVVBSlU1aHZwNW41TjJGempFaXk5dGw0VDY1SVRaaWh4M1gtaDFoSUJ6d3RhTnMwS25GZHFJRUxiQjluX0NzM3pTYVZ6amx1ZlpSY1cxLThXOTFLb3lRYjRmX3oteXlMLVJQa3V2aDVpakVLX19hbW05Ykh3aHRnV0NuMTZiUWc5dnVwWUNuNUxBaUJOM2JMNTB2QUkyUWZGSEpSYnNhRVlwZXk4N3BIWWF6S0MzTF85WHV3cw?oc=5",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHYtRjRoQTNFVVUxUW01RUlsbVhZZ2FRMHlXS2lHclJLSEpoem4tSHVhMHZKaEFqVEU2YVRfX21VWjFXSGZvbkFKd2ZkaTNNcmcwRW1KOTVfWUppNnhTd1UxYm5XamF1N1VHaExKYVdWa0lneWt2TWpXX1FWWFllTnBISG51RW1fSkI0aDRKVmlXQzg3Z1RTMzBrNlVVMmRxRzlpeTFCRjFQR0xXYjVrZHJ2NmRZVVZuSlliU05uNA?oc=5",
    "type": null,
-   "time": "2026-11-14T19:33:00Z",
+   "time": "2026-11-15T21:42:00Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "estonia-to-close-border-crossings-with-russia-af",
+   "country": "Russia",
+   "label": "РОССИЯ",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Эстония закроет пограничные переходы с Россией после предполагаемого поджога",
+   "summary": "Эстония закрывает пограничные переходы с Россией после предполагаемой попытки поджога завода по производству дронов.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Эстония закроет пограничные переходы с Россией после предполагаемого поджога."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Эстония закрывает пограничные переходы с Россией после предполагаемой попытки поджога завода по производству дронов."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-15T20:31:18Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-intercepts-suspected-houthi-",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Коалиция под руководством Саудовской Аравии перехватила предполагаемые ракеты и беспилотники хуситов",
+   "summary": "Коалиция под руководством Саудовской Аравии перехватила предполагаемые ракеты и беспилотники хуситов",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Коалиция под руководством Саудовской Аравии перехватывает предполагаемые ракеты и беспилотники хуситов."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
+   "type": null,
+   "time": "2026-11-15T18:50:27Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-targets-us-military-base-in-bahrain-with-dr",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Иран атаковал военную базу США в Бахрейне",
+   "summary": "Это второе нападение на страну за три дня, и оно произошло на фоне противостояния США и Ирана из-за Ормузского пролива.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран атаковал военную базу США в Бахрейне."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Это второе нападение на страну за три дня, и оно произошло на фоне противостояния США и Ирана из-за Ормузского пролива."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-15T13:42:58Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "growing-crisis",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "Нарастающий кризис",
+   "summary": "О чрезвычайной ситуации можно судить по скорости, с которой на нее осуществляется эффективное реагирование. Исполнительный комитет Национального совета по народонаселению объявил быстрый рост населения национальной чрезвычайной ситуацией.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Нарастающий кризис."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Насколько это серьезно?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "О чрезвычайной ситуации можно судить по скорости, с которой на нее осуществляется эффективное реагирование. Исполнительный комитет Национального совета по народонаселению объявил быстрый рост населения национальной чрезвычайной ситуацией."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044649/growing-crisis",
+   "type": null,
+   "time": "2026-11-15T12:46:56Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-s-navy-says-oil-tanker-on-fire-after-hittin",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ВМС Ирана заявили, что нефтяной танкер загорелся после того, как подорвался на мине к востоку от Ормуза",
+   "summary": "ВМС Ирана заявили, что нефтяной танкер загорелся после того, как подорвался на мине к востоку от Ормуза",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ВМС Ирана заявили, что нефтяной танкер загорелся после того, как подорвался на мине к востоку от Ормуза."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV1ZIV1JpUk1VTDFwek9vXzBNM0NaMXlXLWR2WkUyZ25rMmg2anNmeXZqU0NEcm9LQ0ctRlgtNTRfV3RhMG9SNlRpeGU3UFNubl9tcGVrSXFvYUlvbGlwLXlrSVZ6UjAtc3YtQTFzQTExanF2UkxrTXJnOVA3TFllMGRiLWo2a2lOQnNMdWUzdHBuNW9FRTcyRXF3c3YwWkI3WTZuTUg3UmZQV0FlTE1uS3hWVQ?oc=5",
+   "type": null,
+   "time": "2026-11-15T20:38:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-economy-to-grow-in-2026-as-fitch-maintains-a",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Экономика ОАЭ будет расти в 2026 году, поскольку Fitch сохраняет рейтинг АА, несмотря на войну с Ираном",
+   "summary": "Экономика ОАЭ будет расти в 2026 году, поскольку Fitch сохраняет рейтинг АА, несмотря на войну с Ираном",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Экономика ОАЭ будет расти в 2026 году, поскольку Fitch сохраняет рейтинг АА, несмотря на войну с Ираном."
+    }
+   ],
+   "source": "Arabian Business",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVllvOTc2R1JiSG51U1FLUDFiRVZ6SDBEOTFFenVlSld3cllKVmpZUEh6YlhGS1ZkM2tJaTExYlhoM0FVV2tBMnJNOHUtbVJrbkV2WkRCTFBhYkV1d3daOXhBSHpadXNwbGhPOGlSRFd5SlI2TF9IYzZnTFBQQ3o4UFctcWZOV2llMllqQ19nNWdoamNoeWl3VVVwMXhOOG4yczFSY1QtSkQ1QjdDQnhMd1ZhOE9UT2lWT3NEMEtB?oc=5",
+   "type": null,
+   "time": "2026-11-15T17:28:57Z",
+   "countries": [
+    "United Arab Emirates",
+    "Iran"
+   ]
+  },
+  {
+   "id": "the-130-billion-oil-boom-fueled-by-the-iran-war",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Нефтяной бум стоимостью 130 миллиардов долларов, вызванный войной в Иране",
+   "summary": "Нефтяной бум стоимостью 130 миллиардов долларов, вызванный войной в Иране",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Нефтяной бум стоимостью 130 миллиардов долларов, вызванный войной в Иране."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREQwREdna2c5ZzZySWUweTVNYmNRTUt6Y2lfcFdiQlAyRTNrRkJpRFplcG9CWFFrSjd0QkMyNHMyNk1GQk9nQmhOOXhVUkQ2cmNMUE5jaXNBdzFjTHdQLWRDRV9CaVlrdU1pVWFzTTJndVc5bU5XNGhRYUpCa0JwcFEyVm9tb2tCNDc4al9XY2x5UjlM0gGaAUFVX3lxTE9PeGkwOEpmRFRfdHR3OS1EZ0NBNFJCTHMwS2lIWDVaeEY4WFZhV1Q2OE8zZnBZRjZodnY2SUQzeERfdEVkYlpKM1FGRUtjX1FnZGx2OElrRVowRmlXeG0yeTBLYTlTc0gwZW1nbUFjdHlaUjFxM3B0UzFCdlVkZ1h3cEtLNzF2Z196UFVVb3lxcmt0OTljUlE3dHc?oc=5",
+   "type": null,
+   "time": "2026-11-15T20:04:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "araghchi-travels-to-pakistan-to-attend-eco-meeti",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Арагчи едет в Пакистан для участия в совещании ОЭС",
+   "summary": "Арагчи едет в Пакистан для участия в совещании ОЭС",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Арагчи едет в Пакистан для участия в совещании ОЭС."
+    }
+   ],
+   "source": "8AM Media",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43QkhiUmRVOHdUX2ZJRmdwd0VDUEpkQm0zTzhvcGFFeGwxUms3MWpRNmFEV2hGdFVWVHhGcVA4eDgwZTFBWUx3ZHZua2tiRE0zYV95aFF1TnpKcG9jVF9yTWVCVnJaY2RqeE90UUl1YXExWDd4V2FIYkozZWdnZw?oc=5",
+   "type": null,
+   "time": "2026-11-15T19:36:08Z",
+   "countries": [
+    "Iran",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "zelensky-urges-us-and-musk-to-lift-starlink-rest",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Зеленский призывает США и Маска снять ограничения Starlink и быть на «правой стороне истории»",
+   "summary": "Президент Украины говорит, что замедление работы Интернета затрудняет прекращение российских атак.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Зеленский призывает США и Маска снять ограничения Starlink и оказаться на «правой стороне истории»."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Президент Украины говорит, что замедление работы Интернета затрудняет прекращение российских атак."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKRV92VVNvRTJsaGp2REVNVTkxQVgtRllsdDUydFV0Ym9hcklORXo0UjFwR1lIOVBTYm5Ed3hfenpzV2tfLVl0N3ZhVUcwZ3gzaFpQcGRTTlNYRzQ?oc=5",
+   "type": null,
+   "time": "2026-11-15T19:32:39Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
    ]
   },
   {
@@ -46,7 +310,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Понял. Продолжать."
+     "text": "Хорошо, что еще?"
     },
     {
      "role": "ANALYST",
@@ -64,235 +328,47 @@
    ]
   },
   {
-   "id": "us-has-floated-ukraine-ceding-donbas-for-nato-me",
+   "id": "bahrain-intercepts-iranian-strikes-on-us-airbase",
    "country": "United States of America",
    "label": "СОЕДИНЕННЫЕ ШТАТЫ",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
+   "severity": "critical",
    "category": "World",
-   "headline": "США предложили Украине передать Донбасс в НАТО, заявил Зеленский",
-   "summary": "США не подтвердили комментарии украинского президента - американский чиновник сообщил Би-би-си, что \"многие идеи продолжают обсуждаться\".",
+   "headline": "Бахрейн перехватил удары Ирана по авиабазе США",
+   "summary": "Бахрейн перехватил удары Ирана по авиабазе США",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "США предложили Украине передать Донбасс в НАТО, заявил Зеленский."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Хорошо, что еще?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "США не подтвердили комментарии украинского президента - американский чиновник сообщил Би-би-си, что \"многие идеи продолжают обсуждаться\"."
+     "text": "Бахрейн перехватил удары Ирана по авиабазе США."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDdKWmtnMUUxYS0tZThsV2M0cmhTQlFZdDNNZGNPNGROOFczaTVZekdyYlNlblJaSEJmNUVKZDJsNzZydll1b25CMENycUVWMjZpNzFEUm5YNlg1b0QzUzkxRTBaa0tJcXV0c2dmazFOQ3VuNXE2NWhtSjItRU9pUdIBhgFBVV95cUxPdzVHb3A5UmNFSFpqdHpBWURnc3YteEtQVXJhSE5iSzRpdVcya2loNUVyaFY0aE1wUUZIVkZvQ1JsRWtyU0FWc0RBVzdOaG0zemdMRUJFOXNQSl92MXliU0Ntanp6bW1HcGhJSmpvcEFrVDBibFhKUkdEZ1NLNEJFeFh4c2pkdw?oc=5",
    "type": null,
-   "time": "2026-11-14T22:37:25Z",
+   "time": "2026-11-15T17:57:00Z",
    "countries": [
     "United States of America",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "us-warns-americans-in-saudi-arabia-over-threat-o",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "США предупредили американцев в Саудовской Аравии об угрозе атак хуситов",
-   "summary": "США предупредили американцев в Саудовской Аравии об угрозе атак хуситов",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "США предупреждают американцев в Саудовской Аравии об угрозе атак хуситов."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnRHUGszcWMwdURHUGhPcmE3bkpmdW94RGdRT0JmbHhVN1gyQlA3OTVHQ19OUWVrSFlUbjBpcDFveTYxejBLVmp0LXBDTGs4UTBua2RORGhNdkV2NllxZzVadWJrdzlxUDdrZlhpb18wbVhNUzI5RlMtVm5leVE5ZDlqQXg0UEplbWxNYW8wczZoMlg5QmRtVFdFMWpBS2d3SnJPeQ?oc=5",
-   "type": null,
-   "time": "2026-11-14T16:35:38Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pfl-dubai-nemkov-vs-bilostenniy-play-by-play-res",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "ПФЛ Дубай «Немков против Белостенного», игра за игрой, результаты и подсчет очков",
-   "summary": "ПФЛ Дубай «Немков против Белостенного», игра за игрой, результаты и подсчет очков",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ПФЛ Дубай «Немков против Белостенного», игра за игрой, результаты и подсчет очков."
-    }
-   ],
-   "source": "Sherdog",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdVZXSU5oYTR4RDk4cjhuUlNmTXctZXZ0cDBFZmlyWXY4VnBtc0FoUTRxQ0Utd2xQbVFIdG9BLXBhbGhaZmY4cHcxQlNoeU5Zb3JnZGVKZzVGTk5nYV8zcTVsbDBEalNHWG5BV3llZVM2Q0RmRFVPWmdpM0J0Nm5CcGpBb3hiUXJYRk5wM2N2VDJ3dnVEY2tsdHRKRDRaWkZJcmJMeHBocTLSAa4BQVVfeXFMTjRUSEN4ak1wQi1IbjBocWJPSktVYU9KS0ZTRkJveS1TdktmRkU3bHR3UU1ybHU0c2FiaWduVDVlZlFiZS1Ia3hMdlltSnJUaEp2SmZMeWR5dFJMQV9KeFo3aFQ0TFBlczRfNFlVUUFxRVg2bUh3a2t6TU04Mks1ZDhTM2NxNmNtNTZSNmFwZWRqbFZ3MGs5c053ZlRYVGlTSjljT1hGVWNvV0VvYXVn?oc=5",
-   "type": null,
-   "time": "2026-11-14T21:45:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-s-navy-says-three-tankers-on-fire-after-hit",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ВМС Ирана заявили, что три танкера загорелись после того, как подорвались на минах в Ормузе",
-   "summary": "ВМС Ирана заявили, что три танкера загорелись после того, как подорвались на минах в Ормузе",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ВМС Ирана заявили, что три танкера загорелись после того, как подорвались на минах в Ормузе."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-   "type": null,
-   "time": "2026-11-14T22:10:59Z",
-   "countries": [
+    "Bahrain",
     "Iran"
    ]
   },
   {
-   "id": "pakistan-16-other-countries-condemn-israeli-stri",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Пакистан и еще 16 стран осудили удар Израиля по больнице на юге Газы",
-   "summary": "Пакистан и 16 других стран в субботу осудили израильский авиаудар по больнице Насера на юге сектора Газа, призвав Тель-Авив защитить гражданское население и медицинские учреждения и обеспечить устойчивую и беспрепятственную доставку гуманитарной помощи в Бледную черту.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан и еще 16 стран осуждают удар Израиля по больнице на юге Газы."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистан и 16 других стран в субботу осудили израильский авиаудар по больнице Насера ​​на юге сектора Газа, призвав Тель-Авив защитить гражданское население и медицинские учреждения и обеспечить устойчивую и беспрепятственную доставку гуманитарной помощи в Бледную черту."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044496/pakistan-16-other-countries-condemn-israeli-strike-on-southern-gaza-hospital",
-   "type": null,
-   "time": "2026-11-14T13:13:41Z",
-   "countries": [
-    "Pakistan",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "trump-putin-and-xi-plan-historic-joint-meeting-i",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "high",
-   "category": "World",
-   "headline": "Трамп, Путин и Си планируют историческую совместную встречу в Китае на следующей неделе, сообщает Белый дом",
-   "summary": "Трамп обсудит «сокращение ядерного оружия» в ходе беспрецедентных переговоров, сообщила пресс-секретарь.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп, Путин и Си планируют историческую совместную встречу в Китае на следующей неделе, сообщает Белый дом."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Какова ситуация сейчас?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Трамп обсудит «сокращение ядерного оружия» в ходе беспрецедентных переговоров, сообщила пресс-секретарь."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-14T15:53:55Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "abdul-samad-s-late-strike-sends-pakistan-into-hi",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Поздний удар Абдула Самада вывел Пакистан в исторический финал чемпионата SAFF",
-   "summary": "Абдул Самад Аршад поразил сенсационного позднего победителя и вывел Пакистан в свой первый в истории финал чемпионата SAFF, в то время как команда Нолберто Солано выдержала постоянное давление со стороны хозяев Бангладеш и обеспечила драматическую победу в полуфинале со счетом 1:0 на Национальном стадионе.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Поздний удар Абдула Самада вывел Пакистан в исторический финал чемпионата SAFF."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Хорошо, что еще?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Абдул Самад Аршад поразил сенсационного позднего победителя и вывел Пакистан в свой первый в истории финал чемпионата SAFF, в то время как команда Нолберто Солано выдержала постоянное давление со стороны хозяев Бангладеш и обеспечила драматическую победу в полуфинале со счетом 1:0 на Национальном стадионе."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044516/abdul-samads-late-strike-sends-pakistan-into-historic-saff-championship-final",
-   "type": null,
-   "time": "2026-11-14T17:54:18Z",
-   "countries": [
-    "Pakistan",
-    "Bangladesh"
-   ]
-  },
-  {
-   "id": "us-envoy-kushner-says-he-aims-to-broker-europe-r",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "yemeni-government-forces-redeploy-from-bab-al-ma",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "watch",
-   "category": "World",
-   "headline": "Посол США Кушнер заявил, что намерен стать посредником в переговорах между Европой и Россией по Украине",
-   "summary": "Прямое взаимодействие Европы с Москвой в рамках мирных переговоров между Украиной и Россией приближается к тому, чтобы стать реальностью.",
+   "category": "Middle East",
+   "headline": "Правительственные силы Йемена передислоцируются из Баб-эль-Мандеба для защиты Адена",
+   "summary": "Представитель Вооруженных сил Юга сообщил, что группа перемещается из аэропорта Дхубаба и районов вокруг Баб-эль-Мандеба.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Посол США Кушнер говорит, что намерен стать посредником в переговорах между Европой и Россией по Украине."
+     "text": "Правительственные силы Йемена передислоцируются из Баб-эль-Мандеба для защиты Адена."
     },
     {
      "role": "COMMANDER",
@@ -300,250 +376,167 @@
     },
     {
      "role": "ANALYST",
-     "text": "Прямое взаимодействие Европы с Москвой в рамках мирных переговоров между Украиной и Россией приближается к тому, чтобы стать реальностью."
+     "text": "Представитель Вооруженных сил Юга сообщил, что группа перемещается из аэропорта Дхубаба и районов вокруг Баб-эль-Мандеба."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss",
    "type": null,
-   "time": "2026-11-14T21:10:26Z",
+   "time": "2026-11-15T17:33:00Z",
    "countries": [
-    "Russia",
-    "United States of America",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "iea-sees-first-oil-surplus-since-iran-war-as-gul",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "МЭА видит первый избыток нефти после войны с Ираном на фоне восстановления поставок в Персидском заливе",
-   "summary": "МЭА видит первый избыток нефти после войны с Ираном на фоне восстановления поставок в Персидском заливе",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "МЭА видит первый избыток нефти после войны с Ираном на фоне восстановления поставок в Персидском заливе."
-    }
-   ],
-   "source": "Benzinga",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREVYWGdDaFRfd1FTWTllOC01SE00eUJ3WnpZUjZsSHppUkVycUxsX19qZndGS3pTcklqSlhrM3ltTzRJUk9ydUhaUUxob0dIaHBYbVhicksyVXp5Y3UyMFI1bDdmbTAwSUlvSENQY1B2R0s3eTdTMlE1MC13WFB6bWs4ZkU1ZjRQeVpfbkxETFFUTzA5NHM0eTVmc09lX2JHdEM2cE1XaVN3U3VsakZsQVpERm9BVEdaN3YtNFg3ZUhNTE0?oc=5",
-   "type": null,
-   "time": "2026-11-14T16:15:08Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "thousands-rally-in-antalya-to-demand-climate-jus",
-   "country": "Turkey",
-   "label": "ТУРЦИЯ",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Тысячи людей митингуют в Анталье, требуя климатической справедливости, поскольку переговоры COP31 подошли к середине",
-   "summary": "Тысячи протестующих в субботу вышли на улицы турецкого города, где проходит COP31, чтобы обвинить климатический саммит в том, что он подвел тех, кто несет на себе основную тяжесть разрушения окружающей среды.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Тысячи людей митингуют в Анталье, требуя климатической справедливости, поскольку переговоры COP31 подходят к середине."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Тысячи протестующих в субботу вышли на улицы турецкого города, где проходит COP31, чтобы обвинить климатический саммит в том, что он подвел тех, кто несет на себе основную тяжесть разрушения окружающей среды."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint",
-   "type": null,
-   "time": "2026-11-14T19:32:46Z",
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "iran-takes-the-war-beyond-the-middle-east",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Иран выводит войну за пределы Ближнего Востока",
-   "summary": "Иран выводит войну за пределы Ближнего Востока",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран выводит войну за пределы Ближнего Востока."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQX2xKR0JTVzRwLUtDQTVuMFdYYm9NY3Bqek9iakIzdXBSN3VoQ3VibWZtcm5RbFJqaXRmWHhlei0ycUpkZkJmc05pTGdqWmIwTHNxdUMzZXVpVXM2dGxqUHlBTlNfZ3ZTRi0tWm51RHk5NHIzT2k5cDREYTlseDZPZmNGSmMtQmpzNUs2dkI4VmJ5SHF3b19WVTc0T3BCZW1LWll6d3V3YWh2RmRjVVBpeHQwRVN1TW9kUnJtdnZ5MWp6OVBheXo2Yk9TUTV1Umtqd0psS2RBZlFzbXBNWm5fbFgtQVY?oc=5",
-   "type": null,
-   "time": "2026-11-14T21:55:50Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "musk-says-nvidia-will-lose-critical-deals-withou",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Маск говорит, что Nvidia потеряет «важные» сделки без Дженсена Хуанга",
-   "summary": "Илон Маск заявил в субботу, что производитель чипов Nvidia потеряет «важнейшие» сделки без своего ныне свергнутого главного исполнительного директора (генерального директора) Дженсена Хуанга.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Маск говорит, что Nvidia потеряет «важнейшие» сделки без Дженсена Хуанга."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что это значит для цен?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Илон Маск заявил в субботу, что производитель чипов Nvidia потеряет «важнейшие» сделки без своего ныне свергнутого главного исполнительного директора (генерального директора) Дженсена Хуанга."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang",
-   "type": null,
-   "time": "2026-11-14T17:28:12Z",
-   "countries": [
-    "China"
-   ]
-  },
-  {
-   "id": "saudi-arabia-thwarts-houthi-ballistic-missiles-y",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Саудовская Аравия препятствует запуску баллистических ракет хуситов, заявляет возглавляемая Саудовской Аравией коалиция в Йемене",
-   "summary": "Саудовская Аравия препятствует запуску баллистических ракет хуситов, заявляет возглавляемая Саудовской Аравией коалиция в Йемене",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Саудовская Аравия препятствует запуску баллистических ракет хуситов, заявляет йеменская коалиция, возглавляемая Саудовской Аравией."
-    }
-   ],
-   "source": "EnergyNow.com",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnB0NDl2UTJHY0lMV040Z3o2MXRtaXc1cnRPMzdNN3dtMHp6VEVVZHMtYlVXNHRORklmWDhRVncwdG9XZXcxcmhoc0l4T3FYT21PVE9rZ1J2clpRR2dWcDNVeWdWUlpsbEZTRDlFSVhyRzBDOE9lUEp4VmVWU3lZbEZoRnVDSjN2WFFxaXNlQzRTakxPUmFLelZYemhvZ09JVDJVWDByTmNXWHl1R2c?oc=5",
-   "type": null,
-   "time": "2026-11-14T13:20:38Z",
-   "countries": [
-    "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "how-telecoms-upgrade-work-sparked-us-flight-chao",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Как работа по модернизации телекоммуникаций спровоцировала авиационный хаос в США",
-   "summary": "Официальные лица США утверждают, что сбой был вызван перегрузкой старого оборудования, а не кибератакой.",
+   "id": "will-iraq-s-oil-smuggling-crackdown-disarm-milit",
+   "country": "Iraq",
+   "label": "ИРАК",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Сможет ли иракская борьба с контрабандой нефти разоружить ополченцев без конфликта?",
+   "summary": "Ирак ликвидировал предполагаемую сеть контрабандистов в Джурф-ас-Сахаре, которая могла бы подавить ополченцев и предотвратить внутренние беспорядки.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Как работа по модернизации телекоммуникаций спровоцировала авиационный хаос в США."
+     "text": "Сможет ли борьба с контрабандой нефти в Ираке разоружить ополченцев без конфликта?"
     },
     {
      "role": "COMMANDER",
-     "text": "Это подтверждено?"
+     "text": "Почему этот шаг?"
     },
     {
      "role": "ANALYST",
-     "text": "Официальные лица США утверждают, что сбой был вызван перегрузкой старого оборудования, а не кибератакой."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-14T20:03:48Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "deadly-car-bomb-blast-kills-two-near-syria-s-cap",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "В результате взрыва заминированного автомобиля возле столицы Сирии погибли двое",
-   "summary": "По меньшей мере два человека, мужчина и девочка, погибли в результате взрыва заминированного автомобиля в Джарамане, недалеко от столицы Сирии Дамаска.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В результате взрыва заминированного автомобиля возле столицы Сирии погибли двое."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "По меньшей мере два человека, мужчина и девочка, погибли в результате взрыва заминированного автомобиля в Джарамане, недалеко от столицы Сирии Дамаска."
+     "text": "Ирак ликвидировал предполагаемую сеть контрабандистов в Джурф-ас-Сахаре, которая могла бы подавить ополченцев и предотвратить внутренние беспорядки."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
    "type": null,
-   "time": "2026-11-14T19:46:36Z",
+   "time": "2026-11-15T15:21:21Z",
    "countries": [
-    "Syria"
+    "Iraq"
    ]
   },
   {
-   "id": "-livestreams-raf-abu-dhabi-freestyle-wrestling-1",
+   "id": "uae-expresses-condolences-to-turkey-after-deadly",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "info",
+   "severity": "critical",
    "category": "UAE",
-   "headline": "(ПРЯМЫЕ ТРАНСЛЯЦИИ)! RAF Абу-Даби 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 Вольная борьба 14 ноября, 2026",
-   "summary": "(ПРЯМЫЕ ТРАНСЛЯЦИИ)! RAF Абу-Даби 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 Вольная борьба 14 ноября, 2026",
+   "headline": "ОАЭ выразили соболезнования Турции в связи со смертельной катастрофой вертолета",
+   "summary": "ОАЭ выразили соболезнования Турции в связи со смертельной катастрофой вертолета",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "(ПРЯМЫЕ ТРАНСЛЯЦИИ)! RAF Abu Dhabi 𝐋𝐈𝐕𝐄 Ｆｒｅｅ 𝐒𝐭𝐑𝐞𝐀𝐦 Вольная борьба 14 ноября, 2026."
+     "text": "ОАЭ выразили соболезнования Турции в связи со смертельной катастрофой вертолета."
     }
    ],
-   "source": "Universitat de Barcelona",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQkg2TThVa1JhNnpvMk0xT0I0dE9ybXBzVXV0eExXdW5GVG5sUzR0OUpRLUF1U2ZMblBSU2RHZzdRZHAwdldXNXZBbEpPLVVOdkJVbUF2WE5ZdlBQZHhKTVB4UGdrRkcwamNYMURFbjJoSE1Fc0FKck9iUUNuTjRMeTFfYTBiT0VucnFPXzVmWGZwd0RBZEI4UmpJME5lTm5JcjBzRWhFdHZnR1UxZkN4QWxZUzJCbGFVNVFsTEhnZFNOb1lpMENkbW5KX1Q5MzdfSTB2LVRnUndYNGt2Sng5c1BpeWl0RDVkZGNLXzVLUzcxVGk0Sk9QNDAzUGVHME9TSV94cVd4LWo?oc=5",
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXZPSFFTb3hzNXFFYUpvNnU3MHluUDRTSndoRDhFM21SM3NMc01NNXQ4S0owUm5majJ2cGNzVmFRazVVSjZiT0FIM29ITVVPdVdMMFo1MFVxZDY3cUZjeHZlNDlwSDdWcF9oZWNDV0RQc29CRlhUWTFaMTFMQUhtX19scDVIOS13Y3FGaU90SVdGa0N2VmdySzZ6TVBHZnoxQlZzQ0JidVNYUQ?oc=5",
    "type": null,
-   "time": "2026-11-14T17:59:55Z",
+   "time": "2026-11-15T18:34:18Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "south-korea-s-top-scorer-in-tax-accountancy-exam",
+   "country": "South Korea",
+   "label": "ЮЖНАЯ КОРЕЯ",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Лучший результат на экзамене по налоговому учету в Южной Корее признался в мошенничестве",
+   "summary": "34-летний Хан Вон Сок признался, что использовал скрытую камеру и искусственный интеллект, чтобы получить почти идеальную оценку на важном тесте.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Лучший результат на экзамене по налоговому учету в Южной Корее признался в мошенничестве."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "34-летний Хан Вон Сок признался, что использовал скрытую камеру и искусственный интеллект, чтобы получить почти идеальную оценку на важном тесте."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-15T13:37:45Z",
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "yemen-s-houthis-unilaterally-release-600-war-det",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Йеменские хуситы в одностороннем порядке освободили 600 военнопленных",
+   "summary": "Йеменские хуситы освободили 600 человек, заключенных в тюрьму во время гражданской войны в стране.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Йеменские хуситы в одностороннем порядке освободили 600 военнопленных."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Йеменские хуситы освободили 600 человек, заключенных в тюрьму во время гражданской войны в стране."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-15T21:19:08Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "saudi-arabia-iran-s-attack-on-bahrain-is-a-viola",
+   "country": "Bahrain",
+   "label": "БАХРЕЙН",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Саудовская Аравия: нападение Ирана на Бахрейн является нарушением международного права - ASHARQ AL-AWSAT Russian",
+   "summary": "Саудовская Аравия: нападение Ирана на Бахрейн является нарушением международного права - ASHARQ AL-AWSAT Russian",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саудовская Аравия: нападение Ирана на Бахрейн является нарушением международного права - ASHARQ AL-AWSAT English."
+    }
+   ],
+   "source": "ASHARQ AL-AWSAT English",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZnZUR2IzYm05MERDdUtka1MyQkJwV2dEckUxVXZDazhNQVdobm84NlhiSlBSMGhfd3FmVDh5aGV5VWNJMFZYVWplSDVkTk1wWVR6aGx0TGQ1azJ1eTdFZFczOC1VS3c2dnY3Z0tfYlI4bWFONEtSaGxvc1hXakstcFJKcEQ1MmtoRHpSMjFpZXc0elZnV2ltTHBRVENPWlF6UkQtamN2VndiRVVRT21v?oc=5",
+   "type": null,
+   "time": "2026-11-15T19:31:11Z",
+   "countries": [
+    "Bahrain",
+    "Saudi Arabia",
+    "Iran"
    ]
   }
  ]
