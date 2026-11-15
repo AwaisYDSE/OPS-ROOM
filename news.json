@@ -1,7 +1,67 @@
 {
- "updated": "2026-11-15T09:58:40.839869Z",
+ "updated": "2026-11-15T17:14:49.982578Z",
  "generator": "rss",
  "stories": [
+  {
+   "id": "rory-mcilroy-wins-eighth-race-to-dubai-title-tie",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Rory McIlroy wins eighth Race to Dubai title, ties all-time record",
+   "summary": "Rory McIlroy wins eighth Race to Dubai title, ties all-time record",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rory McIlroy wins eighth Race to Dubai title, ties all-time record."
+    }
+   ],
+   "source": "Golf Channel",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUlrTkpLVTRIRFhSMTJJM0w1MlFpZmJkOVZOUXRGLVdWUC0wdFZzUWhKTDFleG02bUpTWm0wNXpRek1DZzl1ZWVfRGtiMzZ1SkNiVWxVLWJHVWw1ZWluajdtNHlodFVyTlhueUtzOGhLTFJ2dEZadHVpTUNZM3FXWDhuV2p1NkRDbDlSeG4tU2hucHYtcmtOM2hjbzRFSmRnRFdrVTN6MVVUcU5kRVRRRy13?oc=5",
+   "type": null,
+   "time": "2026-11-15T14:08:02Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-targets-us-military-base-in-bahrain-with-dr",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Iran targets US military base in Bahrain with drone attack",
+   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran targets US military base in Bahrain with drone attack."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-15T13:42:58Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Bahrain"
+   ]
+  },
   {
    "id": "saudi-led-coalition-intercepts-suspected-houthi-",
    "country": "Saudi Arabia",
@@ -12,19 +72,11 @@
    "severity": "critical",
    "category": "Middle East",
    "headline": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-   "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+   "summary": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "Saudi-led coalition intercepts suspected Houthi missiles and drones."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August."
     }
    ],
    "source": "Al Jazeera",
@@ -34,6 +86,142 @@
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "iran-update-november-14-2026",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Iran Update, November 14, 2026",
+   "summary": "Iran Update, November 14, 2026",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran Update, November 14, 2026."
+    }
+   ],
+   "source": "Institute for the Study of War",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeHh0MDN0Uko2eHNzTS1lYnN6MUtXUE1pdTBGMll5RnZfd0FnNWI3UzBlM09NYzVrTzhLZ2xDQ3dUMHFGcTZaOUFENmoxQkl4ZWt4MWxjYW16SE16VTdpREFpWWF2ek85SnVOVVVDNUVVaVllZkZ0RWtoTFdnd3RoX25BYmNjQQ?oc=5",
+   "type": null,
+   "time": "2026-11-15T00:37:12Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "starshield-restrictions-help-russia-s-energy-att",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+   "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-15T13:37:08Z",
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "bahrain-says-it-intercepted-iranian-aerial-attac",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert",
+   "summary": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWFZVVhzUDVtSFIwNTY3QjZWN2NIRzJXVmdMWEc4ZEtKQlpQb1NBZ2VnUGxtaFZtc1IyLUZ0ZGFXZUtaUEVsd1lSNG1vSmF0Sy1KRndMcDdSYTdYaWI0ZXowSEwzLUhRN0ZKTVlhZ2ZiT2M1RTRwMEF4dEJQVGY4aExtUnF5T1RQLTlOMHdsLTVUblN2QUN1SXhmZ3hjZWV1?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-15T17:13:02Z",
+   "countries": [
+    "Bahrain",
+    "Iran"
+   ]
+  },
+  {
+   "id": "estonia-to-close-border-with-russia-after-sabota",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Estonia to close border with Russia after ‘sabotage attack’ on defense firm",
+   "summary": "Estonia to close border with Russia after ‘sabotage attack’ on defense firm",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Estonia to close border with Russia after ‘sabotage attack’ on defense firm."
+    }
+   ],
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjdHZk1iTXhkS25SV1E4WVdWVmd3SUdnamNHMEdXclRyUjdxeGtfZk9fSGZGRzByZll5ZFdXWEtkVVFBVkpaZlRvSjdCd09sZV81QWVXWHl3bUNIcGJvazNwcjNZVFlvbDZtcXpRQW9NWUNHbXczRGRMenhpUUdEWnduUWdZOE1ubmlJZE1Cc3RyZkNxOW5xQ0hjbF8?oc=5",
+   "type": null,
+   "time": "2026-11-15T14:32:00Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "iran-says-2-oil-tankers-hit-mines-near-strait-of",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks",
+   "summary": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says 2 oil tankers hit mines near Strait of Hormuz, 1 sinks."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVpyVXN0aUg3WkJlT2lSODV2bnF4RE1BUjZLSkIxYlA3YktPZjlNcGZUUDFBU2k5VThpbFBydWN0eHMyOWZtN01iUnNBdEMxd096M2FoUENtcHlzMlBaZGR4ME8tMU9sYm9HaTQ1a0tCSDI1WlBUUDV2cDRmQjdXaVdYV0RValpHb19EVWhiMFIzZXR1WmpRTnhhOFVuVEhvVGs5YjVyRjJTZTBj?oc=5",
+   "type": null,
+   "time": "2026-11-15T15:05:26Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -54,7 +242,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "Okay, what else?"
     },
     {
      "role": "ANALYST",
@@ -69,6 +257,64 @@
     "Pakistan",
     "India",
     "Oman"
+   ]
+  },
+  {
+   "id": "south-korea-s-top-scorer-in-tax-accountancy-exam",
+   "country": "South Korea",
+   "label": "SOUTH KOREA",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "South Korea's top scorer in tax accountancy exam admits cheating."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-15T13:37:45Z",
+   "countries": [
+    "South Korea"
+   ]
+  },
+  {
+   "id": "pakistan-based-handler-provided-ied-directed-acc",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Pakistan-based handler provided IED, directed accused to carry out railway track blast: Rajasthan ATS chief",
+   "summary": "Pakistan-based handler provided IED, directed accused to carry out railway track blast: Rajasthan ATS chief",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan-based handler provided IED, directed accused to carry out railway track blast: Rajasthan ATS chief."
+    }
+   ],
+   "source": "The Indian EYE",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX19CUjRTY05aOG9ZXzNFV1Y0cE5VYjlpVHR3bmFJczZiUXNLZENDdHhvVFkteTh5SnQ0bmUtWFFXZm1ad3BsN2pZeTlqVW41Tm44bDFNTTZwWlVpcnUxQ3l2SVhmdTVVajVJLXlubVc3bUVPT1B3UWRESFRWdHhzQWx5TDRVSGVvZVJ3NjN6c3c1ZFV0SG9mUmdpTjh3NDRlaU5fNlpBZ1N2NFdaOGgzT2FpcDJoZm1zSzZ1WXB5aFM4aEFWUjFVdnVWS0tPLW1wbTV1b2Q3MllJZw?oc=5",
+   "type": null,
+   "time": "2026-11-15T15:11:12Z",
+   "countries": [
+    "Pakistan"
    ]
   },
   {
@@ -97,69 +343,32 @@
    ]
   },
   {
-   "id": "ukraine-war-briefing-us-proposes-kyiv-cede-land-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
-   "summary": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says",
+   "id": "-livestreams-nfl-tv-miami-dolphins-vs-indianapol",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "‍‍‍[LIVESTREAMs]NFL-TV!] Miami Dolphins vs Indianapolis Colts Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ",
+   "summary": "‍‍‍[LIVESTREAMs]NFL-TV!] Miami Dolphins vs Indianapolis Colts Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says."
+     "text": "‍‍‍[LIVESTREAMs]NFL-TV!] Miami Dolphins vs Indianapolis Colts Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONDZhdzBhLVdGZk1vZFdVY1E5MmhQMWVMWjAyRFJ4RzB6NUlfLWVBbmdsb1BQMFpLbnNlQ2J4bUdWNVpuUE1jbzNseWhuREhsYkRUWm1oRTNLUVhMLVNWWEE5ejh0OVpZakN3YkNjWDNvYUUybUtMVVhsVmladkljQ2h6ZDNvUWREdUVaNkpBclpHTkY2Uktzd3lYMnltNmZEeUh4MUV2RllDSWZPUWNlZjJsaEJ0T29BeDVfLTJydUV2aVVlbncwVTVKc3pEZEJ4YzY3LQ?oc=5",
+   "source": "Universitat de Barcelona",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNTTByaWcwbWk2b2dscTg5eXJqOVNqV1QzcHptSFMyS2NVWl9COTkzQnlyLW15MVpOSUhsUVItVG4yTlpUa2JoMURBRy1ZWTJMWV9xVC11OTJ5d25HYmZJV1pRcDVqUzZVNnkzVXpvY2lPSm43ZWc0SER2eUNYN0hPZmEwNUdnU2xVQ0U0NS1Tc3NJX3p0Nm1mVXNZZDltWGRlYVZlWmtEUy12WFNqOGJ6bXduRDFnTTk5R2ZJUlZxVl9ncFdBaWI3anBVZ0MtOUNoNWtndExPY0tDOFN5VldvRklOQ2dhcWxCeks3YkpVVnZqcjlMLWhZellZS2dLa09QbkxwNFc5SVRNRFE3dmZ6WUlIV1VKbWI0d0E?oc=5",
    "type": null,
-   "time": "2026-11-15T03:41:00Z",
+   "time": "2026-11-15T16:53:54Z",
    "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
+    "India"
    ]
   },
   {
-   "id": "iran-says-it-targets-us-radar-in-bahrain-what-do",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Iran says it targets US radar in Bahrain. What do we know?",
-   "summary": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says it targets US radar in Bahrain. What do we know?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Bahrain Defence Force says its air defence systems thwart several Iranian 'aerial attacks'."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-15T09:41:27Z",
-   "countries": [
-    "United States of America",
-    "Iran",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "khamzat-chimaev-elated-after-raf-abu-dhabi-win-o",
+   "id": "rory-mcilroy-tearfully-dedicates-dubai-title-to-",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -167,102 +376,24 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "Khamzat Chimaev elated after RAF Abu Dhabi win over Chris Weidman, praises the UAE",
-   "summary": "Khamzat Chimaev elated after RAF Abu Dhabi win over Chris Weidman, praises the UAE",
+   "headline": "Rory McIlroy tearfully dedicates Dubai title to ailing father: 'This one's for him'",
+   "summary": "Rory McIlroy tearfully dedicates Dubai title to ailing father: 'This one's for him'",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Khamzat Chimaev elated after RAF Abu Dhabi win over Chris Weidman, praises the UAE."
+     "text": "Rory McIlroy tearfully dedicates Dubai title to ailing father: 'This one's for him'."
     }
    ],
-   "source": "MMA Sucka",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdzVEQ1d2Um0tOENHVDdiblNvVDcyUjRqMnZwdWV4cmxZb240eDRnUkJlbmhVUUJqOGU0NDJzOHRoT1VaNHFGcTcwcGFhVEZhT09EZy1Yb1lDTFFVXzZOMWxHVTdPdEh6ZE4zRUVFNDktWldyQ0JHZ0Ffd0hkNzUxaDRyXzE0bkFubkxDcG1SbWhPSjY5RVYtcFdaa1dob0ljaUNEc0JFSjM5d2la?oc=5",
+   "source": "ESPN",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnlkSFh6LURwRGJjb3N5MTZCUmR1M3dZR18zb3BUYUl0MWh2dzg3VkVBNEx0akN2ZHRucFROYnNreHRVdEwwRFJpZmZ5R2RVdDZRNTlVWWM4STVuVHlTSThacWc1U3BLZVJQTnBfeGMzeEJpc3gwS2xjZDlGdGZoc3AwczFjUmtaT2llUXhTbFZwYnVBQkl3?oc=5",
    "type": null,
-   "time": "2026-11-15T07:01:53Z",
+   "time": "2026-11-15T12:20:00Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "us-warns-citizens-of-rapid-escalation-risk-after",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "US warns citizens of rapid escalation risk after Houthi attacks on Saudi Arabia",
-   "summary": "US warns citizens of rapid escalation risk after Houthi attacks on Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US warns citizens of rapid escalation risk after Houthi attacks on Saudi Arabia."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6U3pGc3g0dWJYN0J0eVdpY2xseUUzT2dFemlJMHBoZDdicHE4Tjg0bVUtWVg4aUdyRWxWblpORVZYY241cmVuNUNEUWlxdlBYNkFsMWFQamRTLU1I?oc=5",
-   "type": null,
-   "time": "2026-11-14T19:38:09Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "us-intel-estimates-iran-retains-up-to-2-500-miss",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
-   "summary": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRERKOGFNblFuMXowX3VMdEtEN0JqNXRJMlplZzRhYXhpTTd4RGowY0VLWDFLaWtNLU8zQ0RJZGR2NlY3clF4eW1BZ0dLMkJnYXVrQ2FMdy1ubE0tWVI1ME9FVW1kV2prT0YzY1VzTWxBcVloVllxSmEtNG9CTm83Y2thVmxQQjV0UEp0a0Ztb0k1S2h6U29UemNIdjV5a2pRUjJOX0l3TWZtcVlxVXN5RUJkMlVscHpHQ0RucA?oc=5",
-   "type": null,
-   "time": "2026-11-15T03:22:52Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "dp-world-tour-championship-final-round-live-late",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "DP World Tour Championship - final round LIVE! Latest scores, highlights as Rory McIlroy chases Race to Dubai win",
-   "summary": "DP World Tour Championship - final round LIVE! Latest scores, highlights as Rory McIlroy chases Race to Dubai win",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "DP World Tour Championship - final round LIVE! Latest scores, highlights as Rory McIlroy chases Race to Dubai win."
-    }
-   ],
-   "source": "Sky Sports",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYUtWbFRETUxZR0dQdENkdzVZQWljVnlhdVpHNnFuRzA4ZFhVN1BCaHBZY3FveTE0cFpYWEpWbEhCS1ViQmJVSUR4TzVvUEEtVXlLSmtrNENucnNRNmh2UXE5MENJUTBSMllPa2t0SHZYVElKa2g4XzNLekhwbVNOWE1DUGVXbURrU2pSVTFNbjFHeHBWSjlxOW95YkpwbkZzWVkyTGN3VHpmZWs2QzgzaURLTEVabzZMc3VMdzgtMkRfOXRPdTd6bVNiMXFqOWVzSTh5X0dzV3lNcXotaHl4eS1WcW1US2dRMFk1OTFya08?oc=5",
-   "type": null,
-   "time": "2026-11-15T07:18:22Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iraq-pm-sacks-nine-officials-over-oil-smuggling-",
+   "id": "will-iraq-s-oil-smuggling-crackdown-disarm-milit",
    "country": "Iraq",
    "label": "IRAQ",
    "lat": 33.2,
@@ -270,92 +401,57 @@
    "flag": "🇮🇶",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-   "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+   "headline": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold."
+     "text": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?."
     },
     {
      "role": "COMMANDER",
-     "text": "Why the move?"
+     "text": "What does it mean for prices?"
     },
     {
      "role": "ANALYST",
-     "text": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah."
+     "text": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
    "type": null,
-   "time": "2026-11-15T01:54:55Z",
+   "time": "2026-11-15T15:21:21Z",
    "countries": [
-    "Iraq",
-    "Iran",
-    "Lebanon"
+    "Iraq"
    ]
   },
   {
-   "id": "south-korea-probes-top-exam-scorer-after-ai-chea",
-   "country": "South Korea",
-   "label": "SOUTH KOREA",
-   "lat": 36.5,
-   "lon": 127.8,
-   "flag": "🇰🇷",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "South Korea probes top exam scorer after AI cheating confession",
-   "summary": "South Korean police said Sunday they had launched an investigation after the top scorer in a national tax accountant exam admitted to using artificial intelligence to cheat.",
+   "id": "uae-and-mozambique-expand-trade-and-investment-c",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE and Mozambique expand trade and investment cooperation",
+   "summary": "UAE and Mozambique expand trade and investment cooperation",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "South Korea probes top exam scorer after AI cheating confession."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "South Korean police said Sunday they had launched an investigation after the top scorer in a national tax accountant exam admitted to using artificial intelligence to cheat."
+     "text": "UAE and Mozambique expand trade and investment cooperation."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044706/south-korea-probes-top-exam-scorer-after-ai-cheating-confession",
+   "source": "Gulf Today",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUs1NjRzOU1EbW1pSzdHU285MDJQRkJJaGlIcVd0emw5WTlFUTFnR1IwMXpkZ0Vfc21jeU1ONVQ4TzhVSTRTNFVXN214NWpZMVJoUHFGY1lqa0pnc1QxMm9MdFJEdy1zZ0d4Y0x3anJHTEtaeUhjaVN5WmctOTkzSl8yZ3ZNa1hWODBjQWZpb3lSdEFUa1RsbW4zUUxURmJ4T19zelZn?oc=5",
    "type": null,
-   "time": "2026-11-15T09:06:17Z",
+   "time": "2026-11-15T14:40:04Z",
    "countries": [
-    "South Korea"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "iran-s-navy-says-three-tankers-on-fire-after-hit",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-   "summary": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran's navy says three tankers on fire after hitting mines in Hormuz."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZWt1cHFualJEVktnTTVvd21uVnljc0FqR2dRaWpaRnYwZ3luZ2t1dUlJNVUtLTVlWHJFOS1ocDBlaVZsTFNZdjRMeldFVFE1Q0Jqem9FbU9fMmp1YTBUTUhqTmYzR3FJN1Z1Y1dHY2d0Yjlzb2lBR0JvNllyT3pScjI2SEpkbkhiYzZSWW9Tb3dwemdWaVVmMjBPbXZqd0hOZzdpRDVSZlVlbzBnV1BjMQ?oc=5",
-   "type": null,
-   "time": "2026-11-14T22:54:19Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bahrain-says-it-intercepted-iranian-aerial-attac",
+   "id": "bahrain-accuses-iran-of-attacking-its-territory-",
    "country": "Bahrain",
    "label": "BAHRAIN",
    "lat": 26.1,
@@ -363,21 +459,30 @@
    "flag": "🇧🇭",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert",
-   "summary": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert",
+   "headline": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+   "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Bahrain says it intercepted Iranian aerial attacks after nationwide alert."
+     "text": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Tehran says its air attacks on countries cooperating with the US are justified under international law."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWFZVVhzUDVtSFIwNTY3QjZWN2NIRzJXVmdMWEc4ZEtKQlpQb1NBZ2VnUGxtaFZtc1IyLUZ0ZGFXZUtaUEVsd1lSNG1vSmF0Sy1KRndMcDdSYTdYaWI0ZXowSEwzLUhRN0ZKTVlhZ2ZiT2M1RTRwMEF4dEJQVGY4aExtUnF5T1RQLTlOMHdsLTVUblN2QUN1SXhmZ3hjZWV1?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-15T08:54:23Z",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-15T12:36:19Z",
    "countries": [
     "Bahrain",
-    "Iran"
+    "Iran",
+    "United States of America"
    ]
   },
   {
@@ -408,130 +513,11 @@
    "source": "dawn.com",
    "url": "https://www.dawn.com/news/2044692/pm-shehbaz-cdf-munir-share-top-spot-in-list-of-worlds-500-most-influential-muslims",
    "type": null,
-   "time": "2026-11-15T08:43:18Z",
+   "time": "2026-11-15T11:25:11Z",
    "countries": [
     "Jordan",
     "Saudi Arabia",
     "Turkey"
-   ]
-  },
-  {
-   "id": "middle-power-aspirations",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Middle power aspirations",
-   "summary": "AS the global order shifts away from unipolarity toward fragmented multipolarity, middle powers have gained unprecedented strategic weight.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Middle power aspirations."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "AS the global order shifts away from unipolarity toward fragmented multipolarity, middle powers have gained unprecedented strategic weight."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044655/middle-power-aspirations",
-   "type": null,
-   "time": "2026-11-15T04:28:43Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "uae-residents-update-bahrain-alert-saudi-interce",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise",
-   "summary": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE residents' update: Bahrain alert, Saudi intercepts missiles as Middle East tensions rise."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFE2Z1ZqR1R2Mm4yal9HbE4zVWlzdTlkbVVwRHhBM3d0Z3laYUk3ekZ4VXJhLXUySEl0QndzRWlweFRERmFZMjNxQnZUaVY3YUZIYjZBbWdaa0F3ay12VUllRTYzc1JGOTJNbzA0bEtGOGxzTGpVM29wV3RmNzU3X0xXU1luN2tTNkpySzBYdjI1cWNyR3Jfc0d2dzVBWlhndE5BX0VzUnplZmVqVDRtUWlwMU9pUWhqZnJKUHc1MWhMWV9W0gHUAUFVX3lxTE8tTjFYYnBBX2ZQMkw3RnNJZGdSSkpvRkI1ZGZIZGNKX0hWRzhqbzI1STlyYWZ5WDJCcXdjSWhYV0pZcl90NHFHR1VEVU9SdVVBMnI5ZUJyWXoxTlE5T1NTcjBYQUN6cl8wdVlpNm11ajBGaDVvajd4Ym1HcThWVkRmQklWemdKODVQTUlxNGZ5aTByZzZJdFc1NndZeXhkcmpEZllNSV95QkZJWFJDckxrMHdMV1haWG50bEYxNDdVWGp6N1hJTVdYNTVRVHY1ZmhNdXBM?oc=5",
-   "type": null,
-   "time": "2026-11-15T05:51:40Z",
-   "countries": [
-    "United Arab Emirates",
-    "Bahrain",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-air-defenses-intercept-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition says air defenses intercept drone over eastern Saudi Arabia",
-   "summary": "Saudi-led coalition says air defenses intercept drone over eastern Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-led coalition says air defenses intercept drone over eastern Saudi Arabia."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjgydkx0M3JaYWdCTERxMUhDaGdITE00ckVYTmpZSjNUZ3ItcUpST3g1Y1BjY0tTVDRSQl9LbGZvbWVpWFdfS291ZTE4a0hxWlhQNGp4cTFHZ2hLclUxX1FrbWFRX3dWUnhlM0oyMGNaR2dvZzd6RzRGc0V2SWRWS0JwcUhfUUlkSmRmdEkxeTJIZ1BhTjFhSGVKUVFlQVdBYnRDMnV3b1VDNmcyeXhJNmNFbG1IazUxS1NnQkxPV3FzUQ?oc=5",
-   "type": null,
-   "time": "2026-11-15T01:06:02Z",
-   "countries": [
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "israel-kills-hamas-commander-in-strike-on-gaza-c",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israel kills Hamas commander in strike on Gaza camp, officials say."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-15T08:17:41Z",
-   "countries": [
-    "Palestine",
-    "Israel"
    ]
   }
  ]
