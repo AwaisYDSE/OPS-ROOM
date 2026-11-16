@@ -1,75 +1,209 @@
 {
- "updated": "2026-11-16T09:53:43.154453Z",
+ "updated": "2026-11-16T20:33:00.819606Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "pakistan-vows-us-iran-diplomacy-urges-afghan-act",
+   "id": "houthis-accuse-saudi-arabia-of-strikes-that-kill",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
+   "summary": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news."
+    }
+   ],
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgwRUxaX2xHbVlybWJPWEtzb3NKdHdiY3FsSDhIeF8tQnBqZEdUdUlCZlVrWkloNGFDYVh4eU5fU3ZhUWZRVlM0cGJVTzlPY1pMTXJUSVhMcEY5bzNteUhpU01ISzlWU0VlblVzRll2TEdILU9rNnptXy1rMzVDb2E1QlhlNEFHYklBOWNDYndpLTcwTUlaVnp1YTJwNFp3eUlfdl90RWhlZC1wZktYNTd2anRuZFEwT09zZmU4X1RIMWktTFJB0gHMAUFVX3lxTFBOVk1kay1tdjlNdVB4NlhGd3EwX1pZcmppZWxESUJTeEZkUE1jdVZzRkZqWWN2RVM5SVZyNld5RjNIS3gtOF9ZcVhQZm9Ecm5sMFhHTHQxWjlqalpoTFpKb2tzZ1c5V1lJaUxVVWxmQVA0WERESHcwWEkzVk0xMG4wNlBRNjU5U3ZYLUx0Vk1MNGFMWnR0NGhjd1l0ZGFqTkRxc2V5OWdJcDIwclp1MzI1ZXlEUXBxTGNkRXZPeW9idGRSYVBYd2lEY1VRbg?oc=5",
+   "type": null,
+   "time": "2026-11-16T14:54:28Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "saudi-arabia-dismisses-commander-of-coalition-fo",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+   "summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia dismisses commander of coalition forces fighting Houthis."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-16T19:19:21Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "trump-says-he-might-meet-with-north-korea-s-kim-",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump says he might meet with North Korea's Kim Jong Un in China",
+   "summary": "United States President Donald Trump said on Monday he might meet with North Korean leader Kim Jong Un in China this week, an announcement that could dramatically reshape his upcoming trip through East Asia if it occurs.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says he might meet with North Korea's Kim Jong Un in China."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "United States President Donald Trump said on Monday he might meet with North Korean leader Kim Jong Un in China this week, an announcement that could dramatically reshape his upcoming trip through East Asia if it occurs."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044961/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china",
+   "type": null,
+   "time": "2026-11-16T16:04:55Z",
+   "countries": [
+    "China",
+    "United States of America",
+    "North Korea"
+   ]
+  },
+  {
+   "id": "we-know-how-to-hurt-india-says-pakistan-coach-so",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting",
-   "summary": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting",
+   "category": "Sports",
+   "headline": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final",
+   "summary": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals pr",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan vows US-Iran diplomacy, urges Afghan action on terrorism at regional economic bloc meeting."
+     "text": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals pr"
     }
    ],
-   "source": "KTVN",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOQXNmVzVvYW5EQU5QcVpxcXVYT0I0X09sOG5INXJ3NktuNGlybWs0bENLT2VhcngwNF9feFdBeXpOQW1vb2NWNDc4eUtJOVVGMk5NSlpFTFVfSlp6Z1owUUdQSWhfUzh5RDVSNTBEMVVUZk45UTY0S0lpcThjdXJGYlg5SDJZdm5JNjFuY1VJcTBkVkNRVktZX2JUX2xVcTd1RU5ybWxlR3BzNUlXYXM4b3JpZHdma1Z4ajNjWjduR1FOSVNSbWlaUjRRdE42aFlJc1NhM3lRVUNNclJOdHFQa2QxTDRXVHFzY1htWmo2Zi1xQWx3eVg3Sk5jdGZWMmcxTEFwOHNIZFZEaDRmbDhN?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044966/we-know-how-to-hurt-india-says-pakistan-coach-solano-ahead-of-saff-championship-final",
    "type": null,
-   "time": "2026-11-16T08:43:56Z",
+   "time": "2026-11-16T17:30:11Z",
    "countries": [
     "Pakistan",
-    "United States of America",
-    "Iran",
-    "Afghanistan"
+    "India"
    ]
   },
   {
-   "id": "emotional-rory-mcilroy-dedicates-record-equallin",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Emotional Rory McIlroy dedicates record-equalling eighth Race to Dubai title to father",
-   "summary": "Emotional Rory McIlroy dedicates record-equalling eighth Race to Dubai title to father",
+   "id": "oil-tankers-hit-sea-mines-in-the-strait-of-hormu",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil tankers hit sea mines in the Strait of Hormuz",
+   "summary": "Oil tankers hit sea mines in the Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Emotional Rory McIlroy dedicates record-equalling eighth Race to Dubai title to father."
+     "text": "Oil tankers hit sea mines in the Strait of Hormuz."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHYtRjRoQTNFVVUxUW01RUlsbVhZZ2FRMHlXS2lHclJLSEpoem4tSHVhMHZKaEFqVEU2YVRfX21VWjFXSGZvbkFKd2ZkaTNNcmcwRW1KOTVfWUppNnhTd1UxYm5XamF1N1VHaExKYVdWa0lneWt2TWpXX1FWWFllTnBISG51RW1fSkI0aDRKVmlXQzg3Z1RTMzBrNlVVMmRxRzlpeTFCRjFQR0xXYjVrZHJ2NmRZVVZuSlliU05uNA?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T02:30:00Z",
+   "time": "2026-11-16T15:37:49Z",
    "countries": [
-    "United Arab Emirates"
+    "Iran"
    ]
   },
   {
-   "id": "third-us-aircraft-carrier-arrives-in-middle-east",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-   "summary": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+   "id": "-i-may-not-return-alive-in-open-letter-to-top-ju",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi",
+   "summary": "ISLAMABAD: Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Third US aircraft carrier arrives in Middle East amid tensions with Iran."
+     "text": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044922/i-may-not-return-alive-in-open-letter-to-top-judges-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+   "type": null,
+   "time": "2026-11-16T14:15:48Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "sbp-says-inflation-to-ease-to-5-7pc-target-range",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "SBP says inflation to ease to 5-7pc target range during FY2027",
+   "summary": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "SBP says inflation to ease to 5-7pc target range during FY2027."
     },
     {
      "role": "COMMANDER",
@@ -77,71 +211,163 @@
     },
     {
      "role": "ANALYST",
-     "text": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East."
+     "text": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027",
+   "type": null,
+   "time": "2026-11-16T12:25:02Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "third-american-aircraft-carrier-arrives-in-the-m",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "World",
+   "headline": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
+   "summary": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Third American aircraft carrier arrives in the Middle East, and other Mideast news."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5",
+   "type": null,
+   "time": "2026-11-16T17:57:00Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "what-will-europe-do-next-in-ukraine-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "What will Europe do next in Ukraine?",
+   "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What will Europe do next in Ukraine?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T09:31:36Z",
+   "time": "2026-11-16T20:12:21Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "trump-says-bari-weiss-60-minutes-leadership-is-e",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report",
+   "summary": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report."
+    }
+   ],
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmt3eUdSUTNnYkQ4UVlSbkJJQ09oX1BSbC1YREVRTVZOQXNTaVBSVWJ2aUp4QnFBWEVVNlV2dElnbTlFSmpiWTBtUjBnUTQ3djd3clZPTkRxWVB2ZUQzUjN3OEVwbzNvTTQxLVlzSElsbThfTzlBbzU1MUx4STkxVzRYZk5KZXpkYW9YQkZ4SzNKWjBUYS1NbE5EampINDRLNEdxVjZIelcxY1N2THlwVnRhY01vWnZuTldnM3BrRlRpN2NkeGozd2t4Z1VhdUdGb2lhY3FR?oc=5",
+   "type": null,
+   "time": "2026-11-16T15:00:23Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "pakistan-links-deeper-regional-cooperation-to-af",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan Links Deeper Regional Cooperation to Afghanistan’s Security Commitments",
-   "summary": "Pakistan Links Deeper Regional Cooperation to Afghanistan’s Security Commitments",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan Links Deeper Regional Cooperation to Afghanistan’s Security Commitments."
-    }
-   ],
-   "source": "thekabultribune.com",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOdnNuZ2VaS1hBeHdoc0pvdUNyVGtqRlZRU3p6VXhOd1JYWktpaWtib1Uyam4xdUo0VHZCcnNIcWFGcUJzWldyWHE5WGNmc00?oc=5",
-   "type": null,
-   "time": "2026-11-16T05:22:21Z",
-   "countries": [
-    "Pakistan",
-    "Afghanistan"
-   ]
-  },
-  {
-   "id": "at-least-17-people-were-killed-in-separate-shoot",
-   "country": "South Africa",
-   "label": "SOUTH AFRICA",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "iran-braces-for-natural-gas-shortages-during-win",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "At least 17 people were killed in separate shootings in South Africa - ABC News",
-   "summary": "At least 17 people were killed in separate shootings in South Africa - ABC News",
+   "category": "Middle East",
+   "headline": "Iran braces for natural gas shortages during winter energy imbalance",
+   "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "At least 17 people were killed in separate shootings in South Africa - ABC News."
+     "text": "Iran braces for natural gas shortages during winter energy imbalance."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war."
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjVISFhtOUNkMmVmbXFBZ3FNNGNwc0RBY1IxZFBSaVdXVnctdlNtUWhTME1QRF85OTFCUEp0QkJmYWlDUHVBcmdGVnVlLU9iSjBHWFJValFGMTdYYkdhX0R2al9hbWt2b3Mtb3EtOXlXUHM2aEZyd2dnMG5QWUczQ2Z1N2VCX2JtdVNTTWwxVGQzMzloa3E5NU5rdFR3SmV5dFBRTtIBqgFBVV95cUxOTmFHdVBqSFduU1VPOGVXbGhsMVNrQTdDQklpMDRTeDczcmRRN2stelRuTzFJTG5ONlhpUXNJUkUwVXlVR3RXbGFfckZPXzdtakpwOWZNZzlTOVJZZ2Z3bG80el9YRmVoQnFwcEhybE1KbVhDaUxzUzFQNEtBUXZtVjI2bmNOUDM4Ml9aWnYyTk0xTlhJVXpCUk9rNlp3WkJiTzVwOW1neE5jdw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T09:00:00Z",
+   "time": "2026-11-16T16:58:46Z",
    "countries": [
-    "South Africa"
+    "Iran"
    ]
   },
   {
-   "id": "yemeni-forces-retreat-leaves-houthis-in-control-",
+   "id": "araghchi-meets-pakistan-army-chief-amid-regional",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Araghchi meets Pakistan army chief amid regional tensions",
+   "summary": "Araghchi meets Pakistan army chief amid regional tensions",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Araghchi meets Pakistan army chief amid regional tensions."
+    }
+   ],
+   "source": "Middle East Online",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxxdUxXMG1QRG1MamdKSm5JTHFxMGxnRzl3dnRQV1MxcGkyUmJNR1A1OFhRSWVTOVVkNjFleUtMeUR5blBXNjBlWU80ZU10UjNzbFZVMDY3NzNwSUZxUzBuYXRlMFJPbWtZNGtfUG9IRmpkLUlPeWRIQW5vUlF2Tk1SSlRNZ1N4cTJaUFFPNUpxVnEtV0E?oc=5",
+   "type": null,
+   "time": "2026-11-16T19:59:14Z",
+   "countries": [
+    "Iran",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "after-yemen-setback-saudi-arabia-replaces-milita",
    "country": "Yemen",
    "label": "YEMEN",
    "lat": 15.5,
@@ -149,97 +375,38 @@
    "flag": "🇾🇪",
    "severity": "high",
    "category": "Middle East",
-   "headline": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+   "headline": "After Yemen setback, Saudi Arabia replaces military commander",
+   "summary": "After Yemen setback, Saudi Arabia replaces military commander",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+     "text": "After Yemen setback, Saudi Arabia replaces military commander."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllfNkZoYzF4U1ZLdmUtaGE2VnZsblBfeXMyV0xFSEVwcDRya3hzTG1jR2JVS08zYUFBR1laaGhkTVhyZ3hueTl5N1k5ZkFTc3V0blFaUm02WFd0Y2Y2bTR5Rm53XzhTZV8wYy1YWVRNQWo3Vjc5VF9GeXJMaU9zZnhOV3N4aDNkbmcyalJnenlReWFCamtKS0NPZWNLRV9EQ1A3SEVLeU9BNjBvYzd6VzNnQQ?oc=5",
    "type": null,
-   "time": "2026-11-16T07:23:23Z",
+   "time": "2026-11-16T15:49:18Z",
    "countries": [
     "Yemen",
     "Saudi Arabia"
    ]
   },
   {
-   "id": "oil-edges-up-as-hormuz-tanker-incidents-highligh",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil edges up as Hormuz tanker incidents highlight shipping risks",
-   "summary": "Oil edges up as Hormuz tanker incidents highlight shipping risks",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil edges up as Hormuz tanker incidents highlight shipping risks."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXlabl9ocWtiOEZLcnc2SGNVSEh2bjltWURkWU1RSDVTejZWMEtNYTR4QW9sT19DQy05SVhHVmphTEtIQXdtVzlUS25Vdk1oS0hjdWZ0MHpUb01NQUp4dzlBcE55anIwR0hKVmhCUDRsT3V3ek9jTURVYkcySDNBM1B0RmJ3emdUaHpPVWpENENfZ2JGRHB3MlJuekVfUWlFa2lfUQ?oc=5",
-   "type": null,
-   "time": "2026-11-16T02:00:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-says-its-air-defenses-intercept-over-1-30",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "why-starshield-limits-are-hurting-ukraine-agains",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack",
-   "summary": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack",
+   "headline": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+   "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia says its air defenses intercept over 1,300 Ukrainian drones in massive aerial attack."
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1l3ektZSWRCV0NGakNfaTZjbEpzTkNaQnB6QUt2TEd2eHpMVkt6VEhsRE9RblFlTGR2V1QzbFVOWTE2azRQSi1BeFhrdy00VVBraWtRM3BuNkRYSG5Wb3Q3ZjlZWlNNVFBMdXdQcE5iNXE0QXhqLUZteFBxRVFmbWNRRjNEeWtGUWk2dHlycTh6UnVWal9aQzZXNjVqdGtYSTRHYUQxenRCQUs4Z09XRFJWRHV5OFY2Mjlqd0p4NTFDa2s?oc=5",
-   "type": null,
-   "time": "2026-11-16T09:29:43Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "world-bank-satisfied-with-370m-national-health-s",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "World Bank ‘satisfied’ with $370m National Health Support Programme",
-   "summary": "ISLAMABAD: The World Bank has rated the implementation progress of its $370 million National Health Support Programme (NHSP) in Punjab, Sindh and Khyber Pakhtunkhwa as “satisfactory”, with a “moderate” overall risk rating, and expects the programme to meet its",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "World Bank ‘satisfied’ with $370m National Health Support Programme."
+     "text": "Why Starshield limits are hurting Ukraine against jet-powered drones."
     },
     {
      "role": "COMMANDER",
@@ -247,261 +414,144 @@
     },
     {
      "role": "ANALYST",
-     "text": "ISLAMABAD: The World Bank has rated the implementation progress of its $370 million National Health Support Programme (NHSP) in Punjab, Sindh and Khyber Pakhtunkhwa as “satisfactory”, with a “moderate” overall risk rating, and expects the programme to meet its"
+     "text": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044800/world-bank-satisfied-with-370m-national-health-support-programme",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T03:15:28Z",
+   "time": "2026-11-16T14:58:30Z",
    "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "landmark-crimea-bridge-hit-as-russia-reports-big",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "info",
+   "category": "World",
+   "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-16T14:58:12Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "estonia-to-close-russia-border-crossings-after-a",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+   "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Estonia to close Russia border crossings after attempted drone factory arson attack."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-16T14:22:36Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "turkey-saudi-arabia-and-pakistan-expected-to-hol",
+   "country": "Turkey",
+   "label": "TURKEY",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month",
+   "summary": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month."
+    }
+   ],
+   "source": "Turkish Minute",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE5hUzFUYlc0Q2pfS284NWU5aUVDNlZkM2VEbmhPREpZaTY5UXY3eEdjbUh1ZVExTzlmTjR2MkdlYWVGQXNJZkJwY1JfQ3F1anoweEhfbU1NdXBZOFhPVlRqc05vWUJzV1JJSHdvc1dfQTVGLWhPZGdDbXNGTmlocmFXdFVLaHJnQlUtWVB0ZmhyZXlrMG9WQjJMNG40anpuRXZ3WVlPdFotNllKTjZNcW1lSkVTemVIQkdvdk1FU2LSAcYBQVVfeXFMT3BwTDFvYmwwU2ZwbXR6TkxvMEZDYXlHalJ6QlB1eEFpdHhGYjRZelgzelZLZDYyaTRoczVOR05iaFdRRVY0Z0tuU0o2MEw2MTNDYkVNWHF4TzFoTnJuellTU0FQUm45emp2LWZfWW5rOWYxWXFfOUtiTkNnemhyc1MyUUNMSkJnVGhwTzJuaVB5TUlnelR1SktBX1dRZ3VqMDdUbUdmQjczRU1HekNCT0ZwSVpUaHFzS21UVFdvb2hFYk14cXlR?oc=5",
+   "type": null,
+   "time": "2026-11-16T16:14:23Z",
+   "countries": [
+    "Turkey",
+    "Saudi Arabia",
     "Pakistan"
    ]
   },
   {
-   "id": "iranian-navy-says-vessel-ablaze-after-hitting-mi",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait",
-   "summary": "Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait."
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNC1maXBiQU8xZDdqUEZKeFlxa0dBTjR1eGYyV3E4RklBd0VYV21meGtWeGFnRV85ZmZwb1pqV0lLaWNLNzliMkRVeGZodnZFVFBQdTBMRlh1TmlRUnRjcVU5eHAzcHUtUzNXajlBVHI0d0xQNDBSdmFhX1F6bUpxTFhrM2ZXZ0hRdkw5S0VFUjYwZXQwLS10M3lOOXF0M0lrQXhxZnVwcmZFWGRlTldBb0JXVTZHYkR4RGs0Q29yYXNkWkw5?oc=5",
-   "type": null,
-   "time": "2026-11-16T08:04:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-2-oil-tankers-hit-mines-catch-fire-in-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz",
-   "summary": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says 2 oil tankers hit mines, catch fire in Strait of Hormuz."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3d2bEdHRlVXdGc1WVhHRU1sVFNUQnJTSFNnZVpfMjlaOE5hVXljUHk3Y3R1emZuRm1UQXpOTmdjejlISDBVT3NfTDBES1V1OVFYZUNWYjlKZ2pIbngyX05vbnEyZ3ZsRndnQmJiQ2xraGdOeS1CRGgwMmhJdHZsWTB4YmhIRmNyOWpUZ1loMUJlNEdackpTZG5Pd01fTldpUlF2RFJVNGk?oc=5",
-   "type": null,
-   "time": "2026-11-16T06:41:08Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "houthis-advance-in-yemen-as-government-forces-mo",
+   "id": "yemeni-forces-retreat-to-defend-port-city-from-h",
    "country": "Yemen",
    "label": "YEMEN",
    "lat": 15.5,
    "lon": 48.0,
    "flag": "🇾🇪",
    "severity": "high",
-   "category": "Middle East",
-   "headline": "Houthis advance in Yemen as government forces move to defend Aden",
-   "summary": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+   "category": "Business",
+   "headline": "Yemeni forces retreat to defend port city from Houthis",
+   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthis advance in Yemen as government forces move to defend Aden."
+     "text": "Yemeni forces retreat to defend port city from Houthis."
     },
     {
      "role": "COMMANDER",
-     "text": "Give me the details."
+     "text": "What's the situation now?"
     },
     {
      "role": "ANALYST",
-     "text": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds."
+     "text": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-16T02:22:29Z",
+   "time": "2026-11-16T11:09:38Z",
    "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "us-israel-iran-war-what-uae-residents-need-to-kn",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US/Israel-Iran war: What UAE residents need to know today, November 16",
-   "summary": "US/Israel-Iran war: What UAE residents need to know today, November 16",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US/Israel-Iran war: What UAE residents need to know today, November 16."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMFV0VVY0bGdxbDhjTk5QYTRocUZRNHdXSjF5S3J5LWdyOFJrbVZKNU4xaGlNODFYSWdob3dkQmRRNkY1dm9vaWluN3RoeFZ6REUwNmk2S040aTROendjdU03VkIzd3hnb2FwaDBiX0xGMklwLVlRcFpnMHBZOWRhNGNaUVgxc1ItNmg0Y0JYN1NJWHB6Qk5kNTBjWmtEWGtwTGxWeDN5czlXdzRROENSd9IBwwFBVV95cUxQNndPaExucWQ0Y2U5UEtFTVU3aU5hQnAwclNHMV8wOWFMcUNVTXp1M2VSTGpVakstR2JjaGRfYzNJYTR5SEJnM2JRUXowLVJHNnpCS1JUaWNOcklPVjdhSmd1N1RyR1RCYkFnbld1TUNCMmtBM2JnUGxPVXJsSGdhajBVSGJ5R2U4cmVYTU52S0c5aXRvZWpveXNyeTJmUHNZT3J1WlRkb3hVYVpwOEF3Tm5EVVJvZXNVckF2a2pDZC16Mk0?oc=5",
-   "type": null,
-   "time": "2026-11-16T05:46:02Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-flights-status-update-saudi-cancellations-co",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "watch",
-   "category": "UAE",
-   "headline": "UAE flights status update: Saudi cancellations continue; latest delays and airline updates for November 16",
-   "summary": "UAE flights status update: Saudi cancellations continue; latest delays and airline updates for November 16",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE flights status update: Saudi cancellations continue; latest delays and airline updates for November 16."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQUJXVVdnUEVtUjN1TFlHT05SWEYzaE0yTm1zNHhPMXBGdDI0WlVDUE1WY1ZiVDJwMDFBaG1melJZT2xKLTVGZVp1X2NXRVQxZHlYRGJMNnlnNVlybHJpZEFSa3RwQ2FHLTlWSlBiQThVZjNJbUtaSnQyZE56NWxJRS1nLVBWMnVBRUJxNFMyQzFvOUtnNENFSW8yendoU2xSSDBHUXQwVlRRQlZqMDJjX1hQVDdrSHhQTktJQjhxNFN4Vm5HbW9LTHRGSHhrenRLbDhXUlZZc01TRkd3QWtEdURiWFVDZzhMb0HSAf8BQVVfeXFMTTFfOUx1RHhBVnJFelEzajhheXVDODFZT3dWUU1NaXBSU2FTQVZlOFEzeUlUbTdLbzZJR0JLTFlKTkR6WUJrdHh3akhncEtCN3VYOHYyTm9oakdXazJXUnJKOXRxTHJxR3hONFZyRTFXU1V1a082aFVzRU5DbldlQjMxckZHdC1XeUVBRm1DQTM1NzRId2oyeTAzdlhUaWFKTkt4SnVKbS0zLXdOQVNHYlFxSTJWTll2eGc3YXBPeS1pZE1vOUdtLXBlcWRWdm1Ec0luaFhLc1FBWlp6NHM0clM0cV9vcHBXa0pZeVV4MXBwa2owcG1IU2JyNkQ3cjYw?oc=5",
-   "type": null,
-   "time": "2026-11-16T08:05:26Z",
-   "countries": [
-    "United Arab Emirates",
+    "Yemen",
     "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "mannesmann-energy-signs-3-uae-deals",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Mannesmann Energy signs 3 UAE deals",
-   "summary": "Mannesmann Energy signs 3 UAE deals",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Mannesmann Energy signs 3 UAE deals."
-    }
-   ],
-   "source": "Oil & Gas Middle East",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WN1YzbTBsaHJtUEtSTnl5ZmVTQllQclB0blc0aEJUNkNLXzAybVhfN3BRbDVKbnV5WUJkZnc4VUhiZ1ZpY19EN1lkOEdPaDJMVWxJbkxmVUN5WlhYbm8tTHN6LW0yeHdCNUxZcW5TdDBVMmZ1eHB2eThRUQ?oc=5",
-   "type": null,
-   "time": "2026-11-16T07:33:59Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "fire-in-phuket-shophouse-kills-11-injures-16-pol",
-   "country": "Thailand",
-   "label": "THAILAND",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Fire in Phuket shophouse kills 11 injures 16, police say",
-   "summary": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Fire in Phuket shophouse kills 11 injures 16, police say."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Fire engulfed buildings in Thailand’s popular tourist town of Patong, killing several people and injuring many others."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmFrVGM0Zk5GUlV1akd3YXZucWd0YUlpem1zQkRVbUtYMGRmZkcwN0hvVlpmX3UxenJhZnBVdGZmTGtKZzhvZFU5cUhabTc0OGVHMVVjbGsxa1pCcnR5YzFqUHVlaDBtcmF1MWtaM3BTV3hCa1hYNTdQRTBkNXQ3LTk3eXhySGtoeDVVV3FDNDBfMTd4b0hOeHFFeWw5YXhZeDR4M1lRcnpxLUU?oc=5",
-   "type": null,
-   "time": "2026-11-16T03:02:00Z",
-   "countries": [
-    "Thailand"
-   ]
-  },
-  {
-   "id": "canadian-dollar-weakens-against-us-dollar-amid-f",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices",
-   "summary": "Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Canadian Dollar weakens against US Dollar amid Fed rate hike bets, falling oil prices."
-    }
-   ],
-   "source": "FXStreet",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVlzX2dvWTVaRFg3MnBZMDlONFNYYXh3QXIxWkY3dV9uT0UyTXo0UjN2T093OTlpR3ZBeTBFVnVVUmVLbWV3TW1UTGw1dVJPWEhudUVSaXpNTWV5NFdVZXlrbkNKMmNKLTh4d0dOQW5HQndTV2hMREhJemNveHUwYkMzN1YyczNBZTNiVFh2bFJQUGhyRE85dXhURWJUcmxBVEtxa3pOdnZTT2E0X05IRVM5Z2l5UXRjVkM1QTBWWF94aHV3Rnc?oc=5",
-   "type": null,
-   "time": "2026-11-16T01:39:05Z",
-   "countries": [
-    "United States of America",
-    "Canada"
-   ]
-  },
-  {
-   "id": "palm-oil-market-analysis-malaysian-output-declin",
-   "country": "Malaysia",
-   "label": "MALAYSIA",
-   "lat": 4.2,
-   "lon": 101.9,
-   "flag": "🇲🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Palm Oil Market Analysis: Malaysian Output Decline and Rising Prices",
-   "summary": "Palm Oil Market Analysis: Malaysian Output Decline and Rising Prices",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Palm Oil Market Analysis: Malaysian Output Decline and Rising Prices."
-    }
-   ],
-   "source": "CMB News",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUTVualprWGw4eVlDMUd5YVFieVEwWGhNWFJEempYbkdaZktTZXl0RXBpMG5mQlhMYXYyOTItODNaNW5VWlB5TG9QN25aWXptTGJLODRoMHdJVUkyZEdnTHFuZ2NabzZZYmd6VGlKc1RVXzcybU11QmhSWFlVR0FiZnFkbXpNakpzd3g5TDRJeVlNc1lzcnBmOUQ2NDdTRTM4YUJseUtJNmtYa2c?oc=5",
-   "type": null,
-   "time": "2026-11-16T07:57:29Z",
-   "countries": [
-    "Malaysia"
    ]
   }
  ]
