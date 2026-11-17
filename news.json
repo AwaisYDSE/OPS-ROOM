@@ -1,31 +1,43 @@
 {
- "updated": "2026-11-16T20:33:00.819606Z",
+ "updated": "2026-11-17T03:13:59.770536Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "houthis-accuse-saudi-arabia-of-strikes-that-kill",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
-   "summary": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
+   "id": "us-moves-to-block-china-s-remote-access-to-ai-ch",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+   "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news."
+     "text": "US moves to block China’s remote access to AI chips amid Nvidia scandal."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil."
     }
    ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgwRUxaX2xHbVlybWJPWEtzb3NKdHdiY3FsSDhIeF8tQnBqZEdUdUlCZlVrWkloNGFDYVh4eU5fU3ZhUWZRVlM0cGJVTzlPY1pMTXJUSVhMcEY5bzNteUhpU01ISzlWU0VlblVzRll2TEdILU9rNnptXy1rMzVDb2E1QlhlNEFHYklBOWNDYndpLTcwTUlaVnp1YTJwNFp3eUlfdl90RWhlZC1wZktYNTd2anRuZFEwT09zZmU4X1RIMWktTFJB0gHMAUFVX3lxTFBOVk1kay1tdjlNdVB4NlhGd3EwX1pZcmppZWxESUJTeEZkUE1jdVZzRkZqWWN2RVM5SVZyNld5RjNIS3gtOF9ZcVhQZm9Ecm5sMFhHTHQxWjlqalpoTFpKb2tzZ1c5V1lJaUxVVWxmQVA0WERESHcwWEkzVk0xMG4wNlBRNjU5U3ZYLUx0Vk1MNGFMWnR0NGhjd1l0ZGFqTkRxc2V5OWdJcDIwclp1MzI1ZXlEUXBxTGNkRXZPeW9idGRSYVBYd2lEY1VRbg?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T14:54:28Z",
+   "time": "2026-11-17T02:52:56Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "United States of America",
+    "China",
+    "Malaysia",
+    "Thailand",
+    "Indonesia",
+    "Brazil"
    ]
   },
   {
@@ -98,152 +110,146 @@
    ]
   },
   {
-   "id": "we-know-how-to-hurt-india-says-pakistan-coach-so",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final",
-   "summary": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals pr",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "We know how to hurt India, says Pakistan coach Solano ahead of SAFF Championship final."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Understood. Go on."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan head coach Nolberto Solano believes his side has what it takes to trouble India in the SAFF Championship final , insisting that his players must focus on their own strengths rather than become preoccupied with their opponents as the two arch-rivals pr"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044966/we-know-how-to-hurt-india-says-pakistan-coach-solano-ahead-of-saff-championship-final",
-   "type": null,
-   "time": "2026-11-16T17:30:11Z",
-   "countries": [
-    "Pakistan",
-    "India"
-   ]
-  },
-  {
-   "id": "oil-tankers-hit-sea-mines-in-the-strait-of-hormu",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
+   "id": "houthis-accuse-saudi-arabia-of-strikes-that-kill",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Oil tankers hit sea mines in the Strait of Hormuz",
-   "summary": "Oil tankers hit sea mines in the Strait of Hormuz",
+   "headline": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
+   "summary": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil tankers hit sea mines in the Strait of Hormuz."
+     "text": "Houthis accuse Saudi Arabia of strikes that killed 3 including a child, and other Mideast news."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUgwRUxaX2xHbVlybWJPWEtzb3NKdHdiY3FsSDhIeF8tQnBqZEdUdUlCZlVrWkloNGFDYVh4eU5fU3ZhUWZRVlM0cGJVTzlPY1pMTXJUSVhMcEY5bzNteUhpU01ISzlWU0VlblVzRll2TEdILU9rNnptXy1rMzVDb2E1QlhlNEFHYklBOWNDYndpLTcwTUlaVnp1YTJwNFp3eUlfdl90RWhlZC1wZktYNTd2anRuZFEwT09zZmU4X1RIMWktTFJB0gHMAUFVX3lxTFBOVk1kay1tdjlNdVB4NlhGd3EwX1pZcmppZWxESUJTeEZkUE1jdVZzRkZqWWN2RVM5SVZyNld5RjNIS3gtOF9ZcVhQZm9Ecm5sMFhHTHQxWjlqalpoTFpKb2tzZ1c5V1lJaUxVVWxmQVA0WERESHcwWEkzVk0xMG4wNlBRNjU5U3ZYLUx0Vk1MNGFMWnR0NGhjd1l0ZGFqTkRxc2V5OWdJcDIwclp1MzI1ZXlEUXBxTGNkRXZPeW9idGRSYVBYd2lEY1VRbg?oc=5",
    "type": null,
-   "time": "2026-11-16T15:37:49Z",
+   "time": "2026-11-16T14:54:28Z",
    "countries": [
-    "Iran"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "-i-may-not-return-alive-in-open-letter-to-top-ju",
+   "id": "dar-says-pakistan-to-host-next-makkah-alliance-s",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi",
-   "summary": "ISLAMABAD: Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Dar says Pakistan to host next Makkah alliance summit later this month",
+   "summary": "Pakistan will host the next meeting of the Makkah Defence Alliance’s apex committee, likely later this month, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'I may not return alive': In open letter to top judges, Imran pleads for medical treatment for him and Bushra Bibi."
+     "text": "Dar says Pakistan to host next Makkah alliance summit later this month."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "ISLAMABAD: Incarcerated PTI founder and former prime minister Imran Khan on Monday appealed for medical treatment for himself and his wife Bushra Bibi in an open letter to the chief justices of the Federal Constitutional Court (FCC), the Supreme Court (SC) and"
+     "text": "Pakistan will host the next meeting of the Makkah Defence Alliance’s apex committee, likely later this month, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044922/i-may-not-return-alive-in-open-letter-to-top-judges-imran-pleads-for-medical-treatment-for-him-and-bushra-bibi",
+   "url": "https://www.dawn.com/news/2044957/dar-says-pakistan-to-host-next-makkah-alliance-summit-later-this-month",
    "type": null,
-   "time": "2026-11-16T14:15:48Z",
+   "time": "2026-11-16T16:18:15Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "sbp-says-inflation-to-ease-to-5-7pc-target-range",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "SBP says inflation to ease to 5-7pc target range during FY2027",
-   "summary": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027.",
+   "id": "israel-uae-talks-to-restart-flydubai-tel-aviv-ro",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "Israel-UAE Talks to Restart FlyDubai Tel Aviv Route",
+   "summary": "Israel-UAE Talks to Restart FlyDubai Tel Aviv Route",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "SBP says inflation to ease to 5-7pc target range during FY2027."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The State Bank of Pakistan (SBP) said on Monday that consumer price inflation was expected to gradually ease towards the medium-term target range of five to seven per cent during financial year 2027."
+     "text": "Israel-UAE Talks to Restart FlyDubai Tel Aviv Route."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2044936/sbp-says-inflation-to-ease-to-5-7pc-target-range-during-fy2027",
+   "source": "Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY1diRGYzdUxsSnR6NjQ0NDR3WktqYTUzWG5fejJzdjh6YnlDU3JYbG9hdkxLVXpfMGt0andWeDhyeE5MQjdlaXdzMTlKWU0xb3loTlFiTk8xMkxtQW8xQUVVY2w5MGZ0M1FaV3c1WU0wSmlUeUZySnRKaUtaWS1DQjFzZkFuN0hKdGFwMnhqWW9ZUQ?oc=5",
    "type": null,
-   "time": "2026-11-16T12:25:02Z",
+   "time": "2026-11-17T02:54:10Z",
    "countries": [
-    "Pakistan"
+    "United Arab Emirates",
+    "Israel"
    ]
   },
   {
-   "id": "third-american-aircraft-carrier-arrives-in-the-m",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "World",
-   "headline": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
-   "summary": "Third American aircraft carrier arrives in the Middle East, and other Mideast news",
+   "id": "gold-smuggled-from-war-zones-entered-the-uae-des",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Gold Smuggled from War Zones Entered the UAE despite New Regulations, Report Says",
+   "summary": "Gold Smuggled from War Zones Entered the UAE despite New Regulations, Report Says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Third American aircraft carrier arrives in the Middle East, and other Mideast news."
+     "text": "Gold Smuggled from War Zones Entered the UAE despite New Regulations, Report Says."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZG5hSUlUV1Faal92TE5Na3NzVENGU181SVRwMnN1VzgzMm0xUERkZDdFZG9DLUl6SVhLbnFTSXktZEcwU0RSMTBFaUlPYUZ3TjljdkU3NzdBcGVvQTMwd0Rxa0g1bVFfZnp6eWVkMDg2OGQ0aUczYlc2Q3NtaWRaWU9VSkNJeUZMZ1EyWDNoNXhha1YwQXRfUUpQYm1RbmZEV25QZTRuN3ZFMjRocWNwZ2dBZno?oc=5",
+   "source": "The Japan News",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmUDFzOGNQTjdmdFRtYks4SnVWeERrcDZoX3pZdGtLMG9qMjlTa1NmcF83Y093ekV3THJ0ODkwc3dMNm9OZ2w3WXhLMG5xQ1lzWTdocTAzU3ZpNHJLYktZTHMyUWwxdzVLa0ZReU9RNE5PdXM?oc=5",
    "type": null,
-   "time": "2026-11-16T17:57:00Z",
+   "time": "2026-11-17T02:00:00Z",
    "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-refuses-to-let-nuclear-inspectors-in-until-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Iran refuses to let nuclear inspectors in until war ends",
+   "summary": "• Gharibabadi says IAEA request aims to gauge US weapon impact • Oil tanker set ablaze by projectile in Hormuz; IRGC says six tankers have sunk since Sunday • Third US aircraft carrier group arrives in Middle East TEHRAN: Iran will not let UN inspectors visit",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran refuses to let nuclear inspectors in until war ends."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "• Gharibabadi says IAEA request aims to gauge US weapon impact • Oil tanker set ablaze by projectile in Hormuz; IRGC says six tankers have sunk since Sunday • Third US aircraft carrier group arrives in Middle East TEHRAN: Iran will not let UN inspectors visit"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045066/iran-refuses-to-let-nuclear-inspectors-in-until-war-ends",
+   "type": null,
+   "time": "2026-11-17T01:38:52Z",
+   "countries": [
+    "Iran",
     "United States of America"
    ]
   },
@@ -265,7 +271,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -282,46 +288,46 @@
    ]
   },
   {
-   "id": "trump-says-bari-weiss-60-minutes-leadership-is-e",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report",
-   "summary": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report",
+   "id": "us-uae-business-council-to-hold-infrastructure-t",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "US-UAE Business Council to hold infrastructure trade mission to Emirates",
+   "summary": "US-UAE Business Council to hold infrastructure trade mission to Emirates",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump Says Bari Weiss’ ‘60 Minutes’ Leadership Is ‘Even Worse,’ Criticizes Iran War Report."
+     "text": "US-UAE Business Council to hold infrastructure trade mission to Emirates."
     }
    ],
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbmt3eUdSUTNnYkQ4UVlSbkJJQ09oX1BSbC1YREVRTVZOQXNTaVBSVWJ2aUp4QnFBWEVVNlV2dElnbTlFSmpiWTBtUjBnUTQ3djd3clZPTkRxWVB2ZUQzUjN3OEVwbzNvTTQxLVlzSElsbThfTzlBbzU1MUx4STkxVzRYZk5KZXpkYW9YQkZ4SzNKWjBUYS1NbE5EampINDRLNEdxVjZIelcxY1N2THlwVnRhY01vWnZuTldnM3BrRlRpN2NkeGozd2t4Z1VhdUdGb2lhY3FR?oc=5",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejAzUVNRMTNTYkxldGZodFB0WnozWDFTdXdBSVJ6WXBvNThXbGVaNFBqMWlGWE5ta3lPSk5HV3ZtM1kzZ2ZHSjZWaXJURzRUcVhtWDh4UlZOVWRDM01LQ1UxcFJlNlc2dktJeWpjS0JKTmxwMkltbHAwYlZXd1FBbFdSV0x3Mm9ZSHROckdlQXh5U2F4RlF2djhFbXZKN2RnRlZHXzJpV0EtT1BlaGxxaC13UDZIV3ByN2JpUnItQ3ZNZ00?oc=5",
    "type": null,
-   "time": "2026-11-16T15:00:23Z",
+   "time": "2026-11-17T02:37:30Z",
    "countries": [
-    "United States of America",
-    "Iran"
+    "United Arab Emirates",
+    "United States of America"
    ]
   },
   {
-   "id": "iran-braces-for-natural-gas-shortages-during-win",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "yemeni-army-reports-661-attacks-on-houthis-as-gr",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran braces for natural gas shortages during winter energy imbalance",
-   "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+   "headline": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+   "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran braces for natural gas shortages during winter energy imbalance."
+     "text": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden."
     },
     {
      "role": "COMMANDER",
@@ -329,135 +335,118 @@
     },
     {
      "role": "ANALYST",
-     "text": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war."
+     "text": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T16:58:46Z",
+   "time": "2026-11-17T01:38:13Z",
    "countries": [
-    "Iran"
+    "Yemen"
    ]
   },
   {
-   "id": "araghchi-meets-pakistan-army-chief-amid-regional",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Araghchi meets Pakistan army chief amid regional tensions",
-   "summary": "Araghchi meets Pakistan army chief amid regional tensions",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Araghchi meets Pakistan army chief amid regional tensions."
-    }
-   ],
-   "source": "Middle East Online",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGxxdUxXMG1QRG1MamdKSm5JTHFxMGxnRzl3dnRQV1MxcGkyUmJNR1A1OFhRSWVTOVVkNjFleUtMeUR5blBXNjBlWU80ZU10UjNzbFZVMDY3NzNwSUZxUzBuYXRlMFJPbWtZNGtfUG9IRmpkLUlPeWRIQW5vUlF2Tk1SSlRNZ1N4cTJaUFFPNUpxVnEtV0E?oc=5",
-   "type": null,
-   "time": "2026-11-16T19:59:14Z",
-   "countries": [
-    "Iran",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "after-yemen-setback-saudi-arabia-replaces-milita",
+   "id": "iran-war-live-houthis-advance-in-yemen-as-vance-",
    "country": "Yemen",
    "label": "YEMEN",
    "lat": 15.5,
    "lon": 48.0,
    "flag": "🇾🇪",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "After Yemen setback, Saudi Arabia replaces military commander",
-   "summary": "After Yemen setback, Saudi Arabia replaces military commander",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "After Yemen setback, Saudi Arabia replaces military commander."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbllfNkZoYzF4U1ZLdmUtaGE2VnZsblBfeXMyV0xFSEVwcDRya3hzTG1jR2JVS08zYUFBR1laaGhkTVhyZ3hueTl5N1k5ZkFTc3V0blFaUm02WFd0Y2Y2bTR5Rm53XzhTZV8wYy1YWVRNQWo3Vjc5VF9GeXJMaU9zZnhOV3N4aDNkbmcyalJnenlReWFCamtKS0NPZWNLRV9EQ1A3SEVLeU9BNjBvYzd6VzNnQQ?oc=5",
-   "type": null,
-   "time": "2026-11-16T15:49:18Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "why-starshield-limits-are-hurting-ukraine-agains",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-   "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
+   "category": "Middle East",
+   "headline": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+   "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Why Starshield limits are hurting Ukraine against jet-powered drones."
+     "text": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones."
+     "text": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T14:58:30Z",
+   "time": "2026-11-16T23:57:49Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Yemen",
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "landmark-crimea-bridge-hit-as-russia-reports-big",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "info",
+   "id": "trump-departs-for-asean-on-summit-with-xi-and-pu",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
    "category": "World",
-   "headline": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-   "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+   "headline": "Trump departs for ASEAN on summit with Xi and Putin",
+   "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war."
+     "text": "Trump departs for ASEAN on summit with Xi and Putin."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "Okay. Details?"
     },
     {
      "role": "ANALYST",
-     "text": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
+     "text": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T14:58:12Z",
+   "time": "2026-11-16T23:42:03Z",
    "countries": [
+    "United States of America",
     "Russia",
-    "Ukraine"
+    "Philippines"
+   ]
+  },
+  {
+   "id": "lawyers-submit-affidavits-detailing-nov-11-meeti",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Lawyers submit affidavits detailing Nov 11 meeting with Imran, Bushra at Adiala jail",
+   "summary": "ISLAMABAD: Lawyers representing former prime minister Imran Khan and his wife, Bushra Bibi, have submitted affidavits to the Islamabad High Court (IHC), detailing their Nov 11 meeting with the incarcerated couple at Adiala jail.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Lawyers submit affidavits detailing Nov 11 meeting with Imran, Bushra at Adiala jail."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: Lawyers representing former prime minister Imran Khan and his wife, Bushra Bibi, have submitted affidavits to the Islamabad High Court (IHC), detailing their Nov 11 meeting with the incarcerated couple at Adiala jail."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044913/lawyers-submit-affidavits-detailing-nov-11-meeting-with-imran-bushra-at-adiala-jail",
+   "type": null,
+   "time": "2026-11-16T18:41:46Z",
+   "countries": [
+    "Pakistan"
    ]
   },
   {
@@ -478,7 +467,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -494,64 +483,95 @@
    ]
   },
   {
-   "id": "turkey-saudi-arabia-and-pakistan-expected-to-hol",
-   "country": "Turkey",
-   "label": "TURKEY",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month",
-   "summary": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month",
+   "id": "in-tit-for-tat-move-chaudhry-salik-sends-cm-mary",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "In tit-for-tat move, Chaudhry Salik sends CM Maryam, Azma Bokhari defamation notices",
+   "summary": "In a tit-for-tat move, PML-Q leader and Overseas Pakistanis Minister Chaudhry Salik Hussain said on Monday he has also sent a defamation notice to Punjab Chief Minister Maryam Nawaz.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Turkey, Saudi Arabia and Pakistan expected to hold defense pact meeting this month."
+     "text": "In tit-for-tat move, Chaudhry Salik sends CM Maryam, Azma Bokhari defamation notices."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "In a tit-for-tat move, PML-Q leader and Overseas Pakistanis Minister Chaudhry Salik Hussain said on Monday he has also sent a defamation notice to Punjab Chief Minister Maryam Nawaz."
     }
    ],
-   "source": "Turkish Minute",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRE5hUzFUYlc0Q2pfS284NWU5aUVDNlZkM2VEbmhPREpZaTY5UXY3eEdjbUh1ZVExTzlmTjR2MkdlYWVGQXNJZkJwY1JfQ3F1anoweEhfbU1NdXBZOFhPVlRqc05vWUJzV1JJSHdvc1dfQTVGLWhPZGdDbXNGTmlocmFXdFVLaHJnQlUtWVB0ZmhyZXlrMG9WQjJMNG40anpuRXZ3WVlPdFotNllKTjZNcW1lSkVTemVIQkdvdk1FU2LSAcYBQVVfeXFMT3BwTDFvYmwwU2ZwbXR6TkxvMEZDYXlHalJ6QlB1eEFpdHhGYjRZelgzelZLZDYyaTRoczVOR05iaFdRRVY0Z0tuU0o2MEw2MTNDYkVNWHF4TzFoTnJuellTU0FQUm45emp2LWZfWW5rOWYxWXFfOUtiTkNnemhyc1MyUUNMSkJnVGhwTzJuaVB5TUlnelR1SktBX1dRZ3VqMDdUbUdmQjczRU1HekNCT0ZwSVpUaHFzS21UVFdvb2hFYk14cXlR?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2044932/in-tit-for-tat-move-chaudhry-salik-sends-cm-maryam-azma-bokhari-defamation-notices",
    "type": null,
-   "time": "2026-11-16T16:14:23Z",
+   "time": "2026-11-16T17:11:01Z",
    "countries": [
-    "Turkey",
-    "Saudi Arabia",
     "Pakistan"
    ]
   },
   {
-   "id": "yemeni-forces-retreat-to-defend-port-city-from-h",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "high",
-   "category": "Business",
-   "headline": "Yemeni forces retreat to defend port city from Houthis",
-   "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+   "id": "trump-administration-moves-to-close-a-i-chip-loo",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+   "summary": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Yemeni forces retreat to defend port city from Houthis."
+     "text": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5",
+   "type": null,
+   "time": "2026-11-16T21:07:23Z",
+   "countries": [
+    "United States of America",
+    "China"
+   ]
+  },
+  {
+   "id": "sudanese-army-air-attack-kills-13-in-western-sud",
+   "country": "Sudan",
+   "label": "SUDAN",
+   "lat": 15.5,
+   "lon": 30.2,
+   "flag": "🇸🇩",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+   "summary": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Sudanese army air attack kills 13 in western Sudan: Rights group."
     },
     {
      "role": "COMMANDER",
-     "text": "What's the situation now?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden."
+     "text": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
    "type": null,
-   "time": "2026-11-16T11:09:38Z",
+   "time": "2026-11-16T21:06:19Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Sudan"
    ]
   }
  ]
