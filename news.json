@@ -1,60 +1,194 @@
 {
- "updated": "2026-11-18T11:53:28.878133Z",
+ "updated": "2026-11-18T20:39:01.776966Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "iran-attacks-kuwait-and-bahrain-further-escalati",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
-   "summary": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+   "id": "trump-shakes-hands-with-putin-and-xi-ahead-of-hi",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait."
+     "text": "Trump shakes hands with Putin and Xi ahead of historic talks in China."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
     }
    ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FNVg3ME1zb05FTlVhMmw5SXQ4eGlxRF9hYUo3bGhVNlMyTjEyeFBMT29tMDM1WjY4QUxONVVjSkp4VFVlZFZrNkNxU0ZDR0c1LWU3cmE1c0lDeTQ?oc=5",
    "type": null,
-   "time": "2026-11-18T04:36:00Z",
+   "time": "2026-11-18T16:10:44Z",
    "countries": [
-    "Iran",
-    "Kuwait",
-    "Bahrain"
+    "China",
+    "United States of America",
+    "Russia"
    ]
   },
   {
-   "id": "dubai-and-middle-east-flight-disruption-bahrain-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
+   "id": "iran-attacks-us-air-base-in-kuwait",
+   "country": "Kuwait",
+   "label": "KUWAIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
    "severity": "critical",
-   "category": "UAE",
-   "headline": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue",
-   "summary": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue",
+   "category": "Middle East",
+   "headline": "Iran attacks US air base in Kuwait",
+   "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Dubai and Middle East flight disruption: Bahrain, Kuwait and Saudi Arabia face fresh attacks as escalations continue."
+     "text": "Iran attacks US air base in Kuwait."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iranian attacks on the Gulf countries draw condemnation from across the region."
     }
    ],
-   "source": "Condé Nast Traveller Middle East",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaFpHY2ZpZFJZUHN3X2xYakdpS1JacUEzOHV4c2pUQmZrc0tvaEZiSlJoaVZ4Y3FnVUpNTGRnZTRhclBncU96YmNfMTA3SWpDT0ZrcFloeE0tekJ2cF8tQ3JGZ052UG1ZMk10VTh4X2NfNXNWQ0RJSTBzNEY3X3JRX2JsRkl5Y0RuSUNGbVR4LTVUZi0wMVFHc1JmM1JHT1lFYkEwVTNBUGg1WVRZZkdSU2xLcVUwNlUtZWNHekl4Y1k2d0d0dnc2aDQ0OHoxd0MzTzJ0M3Z0Rm5wb0IzUVl0eU5oQXU?oc=5",
+   "source": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHpmSHlDSi1ndFFSVmhoMnFfM3RrZVpxa0JLOWFWbTZTUEItT2ozT0ZuRW9rNkU3cUZOenJldm91cEhUcEI5cHhiWTQ4VDZvcDY1WndHRGJxRWFfUGF6MVl0V05Fam05eHp1Uk4zVXVtZlVoMFg4OHlyRk5STmpFb9IBhgFBVV95cUxQaVJDY0RQY0VHOENNQ0FSdV9MU2lIaUNWanFDSGFZMHV0SlJBV3h3N3d6akRqVWFxdzRhanExcXRZOWhBSVVjX25SRlFfZGpzd3VUclZseWJiQ1N1WUR2THFuazZQYVVybUdVa1psRm1fYVMwS18wSUFPTGR2eVNadlFGbXBEQQ?oc=5",
    "type": null,
-   "time": "2026-11-18T07:26:30Z",
+   "time": "2026-11-18T16:24:00Z",
    "countries": [
-    "United Arab Emirates",
-    "Bahrain",
     "Kuwait",
-    "Saudi Arabia"
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-tighten-grip-on-second-test-as-sri-lank",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
+   "summary": "Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
+   "type": null,
+   "time": "2026-11-18T12:37:58Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "pakistan-conducts-successful-launch-of-fatah-3-s",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
+   "summary": "The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
+   "type": null,
+   "time": "2026-11-18T15:35:41Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "us-oil-inventories-on-the-rise",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "US Oil Inventories On the Rise",
+   "summary": "US Oil Inventories On the Rise",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US Oil Inventories On the Rise."
+    }
+   ],
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWkRraUlSN25NODR4M2Y1VVJNQnJHM3U5U1ZFWi1PSWs0ZE5oRVNfS2ZaMV94M2xXSGotX0pUMGRsV3RSUWRMNlMxMG0zM3pfdF93b2tMdjAzOGptY3cteDdJTGJSS3J6LU9Rc3l4ZEZwTnhHclZqLXlsbWpiUdIBgwFBVV95cUxNakhPSk43QUpWNDdWZ24tcG1pVXowUko1RVhFTWhOdXlhQVhjVDVDcmVCcnRwMmZRZHNybDd2dzFLUVZZLV81bEtlUy1nNWstNzBGUEFJdEcyTWt5QkRRZjRHLXRQVUhGY2J5eGlrWkF6alJuNFRIakljODBfQ2pwSzhDcw?oc=5",
+   "type": null,
+   "time": "2026-11-18T15:39:53Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "gulf-nations-condemn-hostile-iranian-attacks-on-",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
+   "summary": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-18T19:20:14Z",
+   "countries": [
+    "Bahrain",
+    "Iran",
+    "Kuwait"
    ]
   },
   {
@@ -74,282 +208,101 @@
      "text": "Oil prices fall as higher US crude stocks temper supply risks."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmp3REJQam1xdjkyMkpCN1JlSkotTnJNM0JEWDVFNmJqZ2FHbmNIN2E0V2twa2N3djBLTXlNNVJvcDJmZVNXMlBlQnk2VG1FTThnX0hQbVRqS2dKbVVBdXl6MWR5ZHo0S2VneWt2bUdwVjE4TnNxaHFLN0hHNU9IUVljVnNXLWJTeHdORFFJX3BfQXhPTThEbGFYQXhYaGNneHRHcVRGS2NyOFhxTzVN?oc=5",
+   "source": "American Journal of Transportation",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIS2ZQVmR4N0pyRUFkc2JBNDFSbFRETHB6SThBdnZpVTc4VUgyOGQzYWdKckJpU2RfWnc5YThTUEtUaF95VFRORVduQ05kdmViYktNSUJ1aUtVT2RpbEg4Q1l2bmJ4T0MtS1hueDFwZ3pRdTBjcnFUNEpOQVJTYTdPTU10LXpmMDlsOVJvY28?oc=5",
    "type": null,
-   "time": "2026-11-18T02:16:00Z",
+   "time": "2026-11-18T17:31:00Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "man-sentenced-to-over-27-years-in-us-for-plot-to",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "trump-grows-frustrated-with-vance-over-iran-war-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "Man sentenced to over 27 years in US for plot to assassinate Trump",
-   "summary": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesday.",
+   "category": "Middle East",
+   "headline": "Trump Grows Frustrated With Vance Over Iran War Critique",
+   "summary": "Trump Grows Frustrated With Vance Over Iran War Critique",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Man sentenced to over 27 years in US for plot to assassinate Trump."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A US judge has sentenced a Pakistani man, found guilty of plotting to assassinate President Donald Trump and other prominent US politicians, to more than 27 years in prison, the Department of Justice (DOJ) said on Tuesday."
+     "text": "Trump Grows Frustrated With Vance Over Iran War Critique."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
    "type": null,
-   "time": "2026-11-18T02:47:12Z",
+   "time": "2026-11-18T17:15:08Z",
    "countries": [
-    "United States of America",
-    "Pakistan"
+    "Iran",
+    "United States of America"
    ]
   },
   {
-   "id": "ghazi-s-fifty-and-razaullah-s-late-blitz-give-pa",
-   "country": "Sri Lanka",
-   "label": "SRI LANKA",
-   "lat": 7.9,
-   "lon": 80.8,
-   "flag": "🇱🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Ghazi's fifty and Razaullah's late blitz give Pakistan 227-run lead over Sri Lanka in second Test",
-   "summary": "Wicket-keeper-batter Ghazi Ghori struck a resilient half-century before Razaullah provided late fireworks to lift Pakistan to 325 all out, giving the hosts a commanding 227-run first-innings lead over Sri Lanka on the second day of the second Test at the Rawal",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ghazi's fifty and Razaullah's late blitz give Pakistan 227-run lead over Sri Lanka in second Test."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Wicket-keeper-batter Ghazi Ghori struck a resilient half-century before Razaullah provided late fireworks to lift Pakistan to 325 all out, giving the hosts a commanding 227-run first-innings lead over Sri Lanka on the second day of the second Test at the Rawal"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045398/ghazis-fifty-and-razaullahs-late-blitz-give-pakistan-227-run-lead-over-sri-lanka-in-second-test",
-   "type": null,
-   "time": "2026-11-18T09:54:26Z",
-   "countries": [
-    "Sri Lanka",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "xi-breaks-precedent-by-meeting-trump-on-arrival-",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Xi breaks precedent by meeting Trump on arrival in China",
-   "summary": "Chinese President Xi Jinping personally greeted Donald Trump at the airport as the US leader arrived Wednesday ahead of a trilateral meeting in Shenzhen that will also include Russia’s Vladimir Putin, AFP footage showed.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Xi breaks precedent by meeting Trump on arrival in China."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Chinese President Xi Jinping personally greeted Donald Trump at the airport as the US leader arrived Wednesday ahead of a trilateral meeting in Shenzhen that will also include Russia’s Vladimir Putin, AFP footage showed."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ25JQjBlM1VSNTUtOE5XcGJSU05pOThhUDRZTVdwUWZEYXdTcDNYYnNDcDRMazdqMUxHV0Z3WHlMem5DNklqVnhvOTlDOGJnYVp1eWdkN3RKUFZhNzI0Q0VIMW5sUUpaT2Vnc0xoRTVYZ0NWWjNWUnF2SGc2S1A4TDkzSENTZw?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-18T11:25:00Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "imf-raises-uae-2026-growth-forecast-to-0-2-sees-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "IMF Raises UAE 2026 Growth Forecast to 0.2%, Sees 7.3% Expansion in 2027 - News and Statistics",
-   "summary": "IMF Raises UAE 2026 Growth Forecast to 0.2%, Sees 7.3% Expansion in 2027 - News and Statistics",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "IMF Raises UAE 2026 Growth Forecast to 0.2%, Sees 7.3% Expansion in 2027 - News and Statistics."
-    }
-   ],
-   "source": "IndexBox",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSFlUTUJDT09Wd3JEQzVrZGNiWjlTemVTTHZkN2FXVkFPRFZJcVNPclNrSmtzVUtvRXlRTTNWOGtxakZnOVpuTVRwWVEzanVaRS0zZzZvNHgzVWdkeEg1SUpDbFh0RGRISm03XzU4azZMdFpPSmpYZWlxNDVwaEVxdGFFNGUxTzdJTzNGNjBkQjlESTV4Z091a2NfamFsM2ZaX0pZNkFFTDhHeG4t?oc=5",
-   "type": null,
-   "time": "2026-11-18T11:01:23Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "nestl-pakistan-board-approves-plan-to-transfer-w",
+   "id": "pakistan-and-turkmenistan-sign-three-agreements-",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
+   "severity": "watch",
    "category": "Pakistan",
-   "headline": "Nestlé Pakistan board approves plan to transfer water business to subsidiary ahead of Platinum Equity deal",
-   "summary": "Nestlé Pakistan board approves plan to transfer water business to subsidiary ahead of Platinum Equity deal",
+   "headline": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue",
+   "summary": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Nestlé Pakistan board approves plan to transfer water business to subsidiary ahead of Platinum Equity deal."
+     "text": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue."
     }
    ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYThVYk5NS0psTlg1ckdPYTE4SFQwOVZIMU0xQUN0Uk9UVXpBQnBiVkpONE9XWEdidjVEMGVNMG1BT2xCX2hXSzJYa2tiWncxcTJSTFhwclhyMHB1cUJIUm1oLTFyV0l2d2pjTzdVLWJUU0tRQVV2cFcyUXJ0S2tTZ29ORE1Gem1CWXhiajJUZElrVDV4b2xtc2x1WVM3LXBjeFN2TVh2bzEwdC1tbkV1TXQxZU1QMkppaTloblVORmxPN3pMenlXZVZLU3F2UQ?oc=5",
+   "source": "Operativ Məlumat Mərkəzi",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDFjMWxXY2djMllKX0F3U3NiRGVGVE84S2p5aUY5a1c3UlVJNGowNmphaGZiaFJhTXNGR0JSVTE2d3RoTV8zWlV6b3E5T1FMTWFlM3hqX19faDNfeURJVTJyc21sRFJWSERISVRRVFEzRllGSlFkWWR0WEpUajlJN09QTTVFRXdUN0R2Zm5vMFAtZG81TUphZHZvWGh0R3Z1TWV1TzhtM2pEUQ?oc=5",
    "type": null,
-   "time": "2026-11-18T08:33:18Z",
+   "time": "2026-11-18T18:00:25Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "india-defeat-pakistan-to-win-saff-championship-i",
-   "country": "Bangladesh",
-   "label": "BANGLADESH",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "World",
-   "headline": "India defeat Pakistan to win SAFF Championship in Bangladesh",
-   "summary": "Thousands of Bangladeshi fans turned up to watch India complete a three-peat of SAFF titles in Dhaka.",
+   "id": "four-killed-as-russian-strikes-hit-ukraine-s-ode",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Four killed as Russian strikes hit Ukraine’s Odesa",
+   "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "India defeat Pakistan to win SAFF Championship in Bangladesh."
+     "text": "Four killed as Russian strikes hit Ukraine’s Odesa."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "Thousands of Bangladeshi fans turned up to watch India complete a three-peat of SAFF titles in Dhaka."
+     "text": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
-   "type": "PHOTOS",
-   "time": "2026-11-18T07:54:15Z",
-   "countries": [
-    "Bangladesh",
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "gulf-s-ai-ambitions-at-risk-as-nvidia-turmoil-th",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Gulf’s $AI Ambitions at Risk as Nvidia Turmoil Threatens UAE and Saudi Arabia’s Tech Investments",
-   "summary": "Gulf’s $AI Ambitions at Risk as Nvidia Turmoil Threatens UAE and Saudi Arabia’s Tech Investments",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Gulf’s $AI Ambitions at Risk as Nvidia Turmoil Threatens UAE and Saudi Arabia’s Tech Investments."
-    }
-   ],
-   "source": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONklNejBfYThtUWs1RXBWYlA3b2I5R0x0X0otWFVEZ1M1cmNpc0RpOTI0enRqT0g0ZmNmTVlaYzYweF9fUmROdjJBOXJvS2E5cFFoOUs5c2NTTC1qd1BDVWdxSVFmQ2J1bF9fVmRYOURxLVBOVWFxUEJ1aXJGekhmU3hLX2NJUlp3anpqNE9DckR6UzZTTU5qazlRNHk?oc=5",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
    "type": null,
-   "time": "2026-11-18T10:52:00Z",
+   "time": "2026-11-18T19:31:31Z",
    "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
-   "id": "uae-s-adnoc-l-s-says-one-crew-member-missing-aft",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
-   "summary": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz."
-    }
-   ],
-   "source": "Yahoo News Singapore",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lLVhLZUFYcEM1SHN3VW96TXpJZjk0bUNsWVhQeldKWWV6WlBjXy1xN2FDVnpXLUNWREhfU3JuZkpVcF9qV3ladTc4X3JWdDdBOEtaeE5VRmJzMS1mcGp4VzBYYUZIV1d2ZGpoNjVTcw?oc=5",
-   "type": null,
-   "time": "2026-11-18T07:41:00Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "uae-state-oil-firm-says-one-person-missing-after",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE state oil firm says one person missing after ship hit in Hormuz",
-   "summary": "UAE state oil firm says one person missing after ship hit in Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE state oil firm says one person missing after ship hit in Hormuz."
-    }
-   ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXFBTkJ2Rzd5ME4zbEotV1NBandOQ1FEMXhhZDJJdy1vT3FsWXVoZGtQVW95eEtQMFBKUU1qb1NGbVc2blhmQnFhUS1HbEFlaUNNeTVLYjYzdW9iakFvdEJtR2pZYmtJd2NaLTFFY0pBNHRHa3luQkZFWGxLVjVMUzZDMUliMmd2SnJuRzdXSEEzUVQ4SVpEVHpxd25XTkpsUTZvaVNZRE9YcWJEY3VMdHViZw?oc=5",
-   "type": null,
-   "time": "2026-11-18T07:41:53Z",
-   "countries": [
-    "Iran",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-intercepts-houthi-cruise-mis",
+   "id": "saudi-led-coalition-says-it-intercepted-2-houthi",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
@@ -357,21 +310,114 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Saudi-led coalition intercepts Houthi cruise missile targeting Riyadh",
-   "summary": "Saudi-led coalition intercepts Houthi cruise missile targeting Riyadh",
+   "headline": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia",
+   "summary": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi-led coalition intercepts Houthi cruise missile targeting Riyadh."
+     "text": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia."
     }
    ],
    "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRk9jX2V0T0FZV2JLcFdNb1dteUNBbTg4dS1ya3BaRlFXRlY5dC1weUQ5NW9pLTI2NGNnczJfQjNBc2lRZjN1TTNXQTE0YTlUUVdoWjR2bFFzeV9BQmlnN1dOYUZXbmJPTnVBWnc5b2RYRTZDNmN3RW9KRk01cVJFUWVGaU4tOWM1U1VMbkZpQkNHbER3Vk96NERQWGJlUFNPWmZESU5fMTR5RWp6Y2llQ0g3UTU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3FQeFV3N2tXLUl2bmJCWGY4RG1yaFVBbThIb0RsYno5N0RLUm1ReUh5TDhhcnJKYldjWURJSXJkT1dzOUZOczJNdXpxZGVHTEZPeHZUZzlTbElNYTFtZE1JQmQ4UUpuTTAycVBiTTNETUVOVjVoQU1uWHZfc0tpMGRJVmJPcjBnUDNrRzU1NkZVYXRuYlVEVVlVRFRvSXV6eEhOQzhGa0FaN2tMVWVUa2ZKdkxsWXM?oc=5",
    "type": null,
-   "time": "2026-11-18T09:40:10Z",
+   "time": "2026-11-18T17:33:33Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "inside-the-old-gas-pipeline-where-ukraine-is-fig",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war",
+   "summary": "The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Inside the old gas pipeline where Ukraine is fighting an underground war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
+   "type": null,
+   "time": "2026-11-18T17:00:04Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "dubai-s-city-ai-agent-initiative-to-transform-go",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Dubai's 'City AI Agent' initiative to transform government operations",
+   "summary": "Dubai's 'City AI Agent' initiative to transform government operations",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Dubai's 'City AI Agent' initiative to transform government operations."
+    }
+   ],
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTJyU01kenFZNlpYTGVuSmltWkowR3M4cVRJc1JDdDFUcHA1NzJOZ3ZGVTFzQkNQdFZlZlBQbEZvMEhGRmhTUEJCX2FBeVBKYncwMHVkbnVJNHlmaTFPYXFCcU1WZFk1dTBadUhPNXlsVl90enlZUC1CeXlYY05WS0tBZjNrYUVUUDkxWWFuMmRZQS1NZTZBNnR4ZzJGbUVncWV1OWRVdy1RZ2M?oc=5",
+   "type": null,
+   "time": "2026-11-18T19:42:33Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "russian-attacks-on-ukraine-kill-at-least-five-pe",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian attacks on Ukraine kill at least five people",
+   "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian attacks on Ukraine kill at least five people."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-18T15:32:01Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
    ]
   },
   {
@@ -392,7 +438,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -411,115 +457,87 @@
    ]
   },
   {
-   "id": "gold-falls-below-rs400-000-per-tola-in-pakistan",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Gold falls below Rs400,000 per tola in Pakistan",
-   "summary": "Gold falls below Rs400,000 per tola in Pakistan",
+   "id": "rory-mcilroy-s-historic-race-to-dubai-record-und",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return",
+   "summary": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gold falls below Rs400,000 per tola in Pakistan."
+     "text": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return."
     }
    ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUpSeW9QSlRFM211Q2tyUzN2S1prZVhMSFFoQ2hyYzgtSmhVTmtFenozVGJ3RDd6dGlJRUU0SHNJTFJEYkVaM1FhQm9rVTRRakxFRFBJbzJIdWJMa2Q1WS1PcVNmRnpIV1V3WjRVMUV6TUpxRUNVb1dacG94clI5Tk1FSlFkdElNSGdCYmxTc2xkbEJh?oc=5",
+   "source": "NDTV Sports",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmxxRVhGU2xtNmpLS2JJeGFtNEp2MXIwSDMxRFRtRVNaendWUi1yeWJ4MHFaLTFPNDBKQTBrNUl1aDhFMWVMU3BPU0oyZGxlSEFBMEpfbGluNmdwQ3Y2b1ZaUlI3Zl92VV9rYjdzajBualh1Vmd5SlZXRFVvdFozNTdSQ3ktRGJYNFpDRHlROEtCRkJRcENVelNleC1TeVFCUUhDY2pLcnR4U3FNeGZldy04N3RuWE9zTmpMTnp6cXg5LXU0TGtZYTdYX3ExQ3hNQnp4VGdmazZPZw?oc=5",
    "type": null,
-   "time": "2026-11-18T11:24:08Z",
+   "time": "2026-11-18T17:31:28Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "ukraine-allies-reject-u-s-criticism-of-deep-stri",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-   "summary": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcF9sZnpjTVZtQnpnUTlmcFJ5OFB4UGhFLVIwUUJFZ1F4MXVBem14ZzRXSkotTUp1S0tJZEZjY1oxbEt3S1NiaXlSbTJrUmZMQjEwWEZUN1dGZTlGSUxTZWl1bzhfT1N4SzhrcDN6X29TMTNadlEzdWFrZWxlalFTV0lUQmNKeGfSAYwBQVVfeXFMT3ByenVPUVlqSzkzRWJmWE13TGxRQjRZcmtBZVU2aFhtVUJiVlZGZGNydnNBOFNuMENZaWdDVHN4aVpUeUF1N2JZaGVwUi05eFNGSDB1c3V3WXlnbk9vczlsb29lVlF5Nll3ZlpPUV9QRUh0RG80VVI3bEtJX1VOQjBlS3BKcUdFXzVEa1U?oc=5",
-   "type": null,
-   "time": "2026-11-18T10:31:58Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "uae-carriers-extend-suspension-of-flights-to-som",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "UAE carriers extend suspension of flights to some cities in Saudi Arabia",
-   "summary": "UAE carriers extend suspension of flights to some cities in Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE carriers extend suspension of flights to some cities in Saudi Arabia."
-    }
-   ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3ZGSTBDWVVNWk5XeTRLNUlmVF9LUGY3N29xdWVIMlR3RGQ1SEJhMzV2X1p2X2tCWHpEUDFTMTB3Z21SajdyQTJscWpORC11SVVlTE1UU2Y0ZWdEZ1VEcFp6OExfbHpyeWxBYWVUOTQyYTluNUFYWkthWXFqNFhPR2YzQnZtM0Ywb3EzeUdISktYWjdNcnFlUGVqSzhialRWTnZQOW5IRy1iOTB1bDlYR1VlTQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T10:07:30Z",
-   "countries": [
-    "Saudi Arabia",
     "United Arab Emirates"
    ]
   },
   {
-   "id": "pakistan-turkiye-discuss-expanding-defence-coope",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies",
-   "summary": "Air Chief Marshal (ACM) Zaheer Ahmed Baber Sidhu and Turkish Air Force Commander General Rafet Dalkıran discussed opportunities to enhance bilateral defence cooperation in unmanned and autonomous systems, electronic warfare, advanced aerospace technologies, an",
+   "id": "dr-gargash-criticises-somali-president-s-attack-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dr Gargash criticises Somali President's 'attack on the UAE'",
+   "summary": "Dr Gargash criticises Somali President's 'attack on the UAE'",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, Turkiye discuss expanding defence cooperation in electronic warfare, drone and aerospace technologies."
+     "text": "Dr Gargash criticises Somali President's 'attack on the UAE'."
+    }
+   ],
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHJLcHVkUWxPUWRKMzNjbXQ3YkZ2R1loTlVSWng2WWdacFRhcnIwdGtHblo4TFdlRldKWExnSm14Sl91cWlRSTkzN2U1a0JxUGdPLVdJUXBteTE1VjVTeWpMaWE4QkVoSVVwdGJKUUhYdDhIQVk4bUhYcUl6WVNHN3FoSExpS1ZlTGs3d2xxanZSRW9sUlIybThiRlBqZnM?oc=5",
+   "type": null,
+   "time": "2026-11-18T17:22:07Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "un-nuclear-watchdog-says-us-saudi-nuclear-agreem",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'",
+   "summary": "UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a deal between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'."
     },
     {
      "role": "COMMANDER",
-     "text": "Understood. Go on."
+     "text": "How serious is it?"
     },
     {
      "role": "ANALYST",
-     "text": "Air Chief Marshal (ACM) Zaheer Ahmed Baber Sidhu and Turkish Air Force Commander General Rafet Dalkıran discussed opportunities to enhance bilateral defence cooperation in unmanned and autonomous systems, electronic warfare, advanced aerospace technologies, an"
+     "text": "UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a deal between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045393/pakistan-turkiye-discuss-expanding-defence-cooperation-in-electronic-warfare-drone-and-aerospace-technologies",
+   "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory",
    "type": null,
-   "time": "2026-11-18T08:18:27Z",
+   "time": "2026-11-18T13:13:10Z",
    "countries": [
-    "Pakistan",
-    "Turkey"
+    "United States of America",
+    "Saudi Arabia"
    ]
   }
  ]
