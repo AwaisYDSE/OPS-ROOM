@@ -1,56 +1,57 @@
 {
- "updated": "2026-11-19T02:03:22.498471Z",
+ "updated": "2026-11-19T10:28:02.363925Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "pakistan-tighten-grip-on-second-test-as-sri-lank",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3",
-   "summary": "Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium.",
+   "id": "trump-meets-putin-and-xi-as-trilateral-us-russia",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin",
+   "summary": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan tighten grip on second Test as Sri Lanka stumble to 74-3."
+     "text": "Trump meets Putin and Xi as trilateral US, Russia, China talks begin."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What's the impact?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan strengthened their grip on the second Test on Wednesday, taking a commanding 227-run first-innings lead before reducing Sri Lanka to 74-3 at stumps on the second day at the Rawalpindi Cricket Stadium."
+     "text": "US president calls both Putin and Xi a 'friend' in separate meetings at APEC, ahead of rare three-way talks."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
    "type": null,
-   "time": "2026-11-18T12:37:58Z",
+   "time": "2026-11-19T08:32:10Z",
    "countries": [
-    "Pakistan",
-    "Sri Lanka"
+    "United States of America",
+    "Russia",
+    "China"
    ]
   },
   {
-   "id": "pakistan-conducts-successful-launch-of-fatah-3-s",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "saudi-led-coalition-intercepts-houthi-missiles-t",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "info",
-   "category": "Pakistan",
-   "headline": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR",
-   "summary": "The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing.",
+   "category": "Middle East",
+   "headline": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+   "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan conducts successful launch of Fatah-3 supersonic cruise missile: ISPR."
+     "text": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south."
     },
     {
      "role": "COMMANDER",
@@ -58,45 +59,97 @@
     },
     {
      "role": "ANALYST",
-     "text": "The Pakistan Army on Wednesday successfully launched the Fatah-3 supersonic cruise missile, according to the military’s media wing."
+     "text": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
    "type": null,
-   "time": "2026-11-18T15:35:41Z",
+   "time": "2026-11-19T08:19:17Z",
    "countries": [
-    "Pakistan"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "iran-war-updates-gulf-states-and-tankers-under-f",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
+   "id": "skyscraper-in-riyadh-damaged-as-saudi-arabia-rep",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
-   "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
+   "headline": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+   "summary": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes."
+     "text": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks."
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5",
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2dIclQtc0NCVUk0dVZ6NS1XcVNLVS1EZFh2aTY3b2pmbGFuM3ltaGYwRkJOLWpsQlZIT0lPbkdabDA2ajhMeW9qeXc5a1JZUWhCbEthYTliRFcwNFB5XzFkdUQxTlh5am91aWFhSGVWRmY0WGw3QWFhVW14TlJESExsVjdHTnRoRkdzaHJzajB1TXpaU3NfMUpnUHFGc1lPMGQzNllEMGFyM21EUVktOGdqMkRPX2NMNnMxOFZwbmJVLURWR01SeA?oc=5",
    "type": null,
-   "time": "2026-11-18T23:29:00Z",
+   "time": "2026-11-19T07:58:16Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "what-the-crimean-bridge-attack-means-for-russia",
+   "id": "houthis-target-riyadh-with-missile-as-saudi-led-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis target Riyadh with missile as Saudi-led coalition reports debris damage",
+   "summary": "Houthis target Riyadh with missile as Saudi-led coalition reports debris damage",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis target Riyadh with missile as Saudi-led coalition reports debris damage."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam9XS0tmcEhaa3NBUzd2bUJ5ME1FWktqN2hhaVFzd2k0MlVDaExwX0EyUW84Ylg2QkNFZ2FMTC1RbkZ2VGtUNV9xQzhMQ1lhcklId3JXbGQ1dTBHNDg3Qm0wT1RBWEZYRGFIUjZ0YVZlcHI3NUcyZV9yNFdaam9qX1FHZUtIbnFpRU5EU2dxMnRXZ2lRNlpfYTFJWQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-19T06:30:47Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-on-hormuz-shipping-risks-as-surp",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices rise on Hormuz shipping risks as surplus outlook caps gains",
+   "summary": "Oil prices rise on Hormuz shipping risks as surplus outlook caps gains",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil prices rise on Hormuz shipping risks as surplus outlook caps gains."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ3pXdXB0VElUVVRGZ0tUZUVjZW1Ld1NGcWhxSExLa29fc1FldkxaSjUzWnpWUDNYTk9oM3JEVTNkZWxiMGFVTkw1bE9HVEJoVWkwUFgtOUhhMTlFLWtBOE8wR3k2WFBJWlFqTG43LTNpZUJDWUQ2X3NZd3JHc0gzbzByQ2RpekluZ20xQkltSTRZajdUTnhMbHNVZ1Z6VTh1Tk03LWtNSzhNZmVvQ1d4cHZR?oc=5",
+   "type": null,
+   "time": "2026-11-19T08:12:28Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "crimea-bridge-has-been-attacked-again-says-russi",
    "country": "Russia",
    "label": "RUSSIA",
    "lat": 55.75,
@@ -104,56 +157,88 @@
    "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "What the Crimean bridge attack means for Russia",
-   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "headline": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "What the Crimean bridge attack means for Russia."
+     "text": "Crimea bridge has been attacked again, says Russian-installed governor."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+     "text": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
     }
    ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWNJeU52cmNIWXVxYXloM1RVdm5SQWdTd3pFWUd6QzhXYmhNeWx4enlkSjNENHBLcnBDY240aV96SEdiTnFVOUtuTWJ4ZmVIUHYySmJaczR6NzJLXzQwc2p0Y1lfSnpNaUdfOEdHLUwyZDdGVkVFODZFZjRtVVVXUjNVdWl5REXSAYcBQVVfeXFMTWR5dF9IVHRBaVhOc2RKbGpGR193aDhrRHRwSFRDZzVLeV9EdnloLTFHRU9CRi01TU5VV09iSXJ0V2VBTGJndFo0R3BSdDhmcXpraFhlSllSREJLVEZYcDVfT3NDQXRLTVdyWEpRNEw3YUY1TVJQT09KWEowOHVWSkFMeHlRVVhB?oc=5",
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTkhuRXZBS0pyYWltUGM2UGg4ejdvOExOcVhTNnJqeVVOS2s3T2pEdU1SV0J4SUhDcnp6WDVWaERPR19taTd3OXRvdEg1NGdmdWtwOWdadkFOOXMtZVN5T29Yak9hTzJpSVIzSUU5bXBEcGJua1dzRVFobVVDcFlxZi00MzBfZWNnQUZwdmRuVWJsczlja2ZBOXBndw?oc=5",
    "type": null,
-   "time": "2026-11-18T21:12:40Z",
+   "time": "2026-11-19T08:09:00Z",
    "countries": [
-    "Russia",
-    "Ukraine"
+    "Russia"
    ]
   },
   {
-   "id": "gulf-nations-condemn-hostile-iranian-attacks-on-",
-   "country": "Bahrain",
-   "label": "BAHRAIN",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
-   "summary": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait",
+   "id": "could-trump-putin-and-xi-end-the-nuclear-age-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Could Trump, Putin and Xi end the nuclear age?",
+   "summary": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gulf nations condemn 'hostile' Iranian attacks on Bahrain and Kuwait."
+     "text": "Could Trump, Putin and Xi end the nuclear age?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-19T01:13:44Z",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-19T06:15:55Z",
    "countries": [
-    "Bahrain",
-    "Iran",
-    "Kuwait"
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "sri-lanka-reaches-167-5-still-trails-pakistan-by",
+   "country": "Sri Lanka",
+   "label": "SRI LANKA",
+   "lat": 7.9,
+   "lon": 80.8,
+   "flag": "🇱🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test",
+   "summary": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Sri Lanka reaches 167-5, still trails Pakistan by 60 runs in 2nd cricket test."
+    }
+   ],
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdFBQRjRKaXlSaXFZTE9YSmRDSXlWQ09nOGtqdEM4R2ZsQkc3VUlXM1M3ZXVkWmtHNGgxd19uUGpYRHAzN3dGYld4NlRyRHlwdzV2WHQ5eXVZRzZPVVlWb2VWTWEwclRwTzRiVEo3RV9RVWRaUlh0d29TSnk2dmRFU29naUNCcWpLNmpiM200ZVlDWW5TSjdGNlNTaVV2R1JTZnVnb2lkeHpDOXIweU5YWUZpdmJJMUFwTENjclpYZ2hrWWND?oc=5",
+   "type": null,
+   "time": "2026-11-19T07:45:09Z",
+   "countries": [
+    "Sri Lanka",
+    "Pakistan"
    ]
   },
   {
@@ -176,11 +261,95 @@
    "source": "WSJ",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
    "type": null,
-   "time": "2026-11-18T14:56:00Z",
+   "time": "2026-11-19T09:10:32Z",
    "countries": [
     "Iran",
     "Kuwait",
     "Bahrain"
+   ]
+  },
+  {
+   "id": "pakistan-military-says-it-killed-22-militants-in",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Pakistan military says it killed 22 militants in raids on hideouts in northwest - ABC News",
+   "summary": "Pakistan military says it killed 22 militants in raids on hideouts in northwest - ABC News",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan military says it killed 22 militants in raids on hideouts in northwest - ABC News."
+    }
+   ],
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMF81Z3Y2LXFCNGZoVjYtbHZ5b1ltOC1CUUp4NHpmTnB5clcwUWFReDB6bWpDbGVoT1RvZjc1Rk1HYzlOUVJfd1hXSmh0U2NOOEJmOTMzWHJmcWJyem1kN1dKX2xDeldWWGl0dE56RGlyVllmaTNhWkRkQXJhSnBkUXFYbEVNdF9OV0NuSWtFN1ZJNTYxcGQyeHEzVHFlcHdjUGhIa2xqd2NfMnEwa3Zqc1h0ZjZrcVXSAbwBQVVfeXFMUE43LUpPUi1tSkxDZjNoa3dsSVJfTlJjLTZGWmFFVGs5Q0JRNVh2OEx0bGFFMU9XOG5UcXFNQnlZbVo2OTVJd0hPa2t6eTJVLTI4LTI2LUlhS3gxWTBzbFQ2bEV3dUtvZ2d4YWZDU3BIOXJsWjJ6UWNtalREV2lqRGgxWENmeG0yckRuQldjR1NqbEVReWxEVjVFM3g0VmxVQjNBUmdTVGVBQzlPak9fM29GcWpiTWx5WFJyaHQ?oc=5",
+   "type": null,
+   "time": "2026-11-19T10:01:24Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "22-terrorists-killed-in-security-operations-in-n",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "22 Terrorists Killed in Security Operations in NW Pakistan",
+   "summary": "22 Terrorists Killed in Security Operations in NW Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "22 Terrorists Killed in Security Operations in NW Pakistan."
+    }
+   ],
+   "source": "تسنیم",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOEx4ZWdNYWFVVHJ2T1lVYVJkaXJRNWNJMV9uWnZudzNMMTg3eFhkWUdmeVZMNkxlVFpjZjFSU0Frb25sNWhGSUVHbVc3ZDhtT0lYeTlFeDJXanJDbkI2NExvRE51VmQ0Rnd3VGxpcjY5VTJBOXIwOHAzZzRNazZLZVNwWHlwOU1KWVlIdnFCc291QkpDZDFER2NhT3F4LXNtMGlzVFUxWXdBN2xwZXZ0b9IBtgFBVV95cUxPbGhTNnlNS3dVZnhTZ2NWNGxmeXRib3NlRUJONDB2QmxCNXRzZ3QzSTFzQ0wtallpQkVPMzlMWVBydVBlTE0zV1V0X3JucVpWZnNZY2tGWWc0ZjZIUlFqUHo0M1ktSktrV0JFWVdtSy1jQWRDVFpNSUZvbzF1VkxwaXNTUUI0RlFYTmhjSlFSMnZPTGJRQWFMZE4tRGVXQkFDQU0tbUhWc3g1ZXJXMmVBQ1RpTjJVdw?oc=5",
+   "type": null,
+   "time": "2026-11-19T08:03:53Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "yalta-in-shenzhen-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Yalta in Shenzhen?",
+   "summary": "Shenzhen — China’s technology hub is hosting the annual gathering of the 21 members of the Asia-Pacific Economic Cooperation (APEC).",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yalta in Shenzhen?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Shenzhen — China’s technology hub is hosting the annual gathering of the 21 members of the Asia-Pacific Economic Cooperation (APEC)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045656/yalta-in-shenzhen",
+   "type": null,
+   "time": "2026-11-19T07:31:26Z",
+   "countries": [
+    "Iran",
+    "China"
    ]
   },
   {
@@ -211,26 +380,109 @@
    ]
   },
   {
-   "id": "trump-meets-xi-and-putin-in-china-with-nuclear-a",
+   "id": "pakistan-maldives-agree-to-form-joint-working-gr",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan, Maldives agree to form joint working groups to boost trade to $200 million, explore direct shipping link",
+   "summary": "Pakistan, Maldives agree to form joint working groups to boost trade to $200 million, explore direct shipping link",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Maldives agree to form joint working groups to boost trade to $200 million, explore direct shipping link."
+    }
+   ],
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMzY0UTVOUmJ5MG9xVjFUSmRqcWpmSE1lUXZSZndDb3hVTERhNUFvLTBmT3lMeTc5Sy1kcDVWcllvUWgwYzRvTHFtWHZyWll5b1IwMU44UURRXy1fQnRFallFYUNnMy11QUpsczRkbHNNUTlxTWlzZmRzc1Vad3l1UUkzVnZyRDQxRDl1UkpSZHBWZjMweEhyMU9lcG1ENlNTb09yNUd2SHB6dExRbkpkQUxHT1FpSzZDNWlJREZIdWdEaFZoMmxnRlhkNzBDQQ?oc=5",
+   "type": null,
+   "time": "2026-11-19T08:24:42Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "crude-oil-price-forecast-wti-and-brent-slide-as-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Crude Oil Price Forecast: WTI and Brent Slide as US Inventories Rise",
+   "summary": "Crude Oil Price Forecast: WTI and Brent Slide as US Inventories Rise",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Crude Oil Price Forecast: WTI and Brent Slide as US Inventories Rise."
+    }
+   ],
+   "source": "FXEmpire",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbW5XckR2MklyYWxnQ2RaNkRVWmdxRl8zS0xnd3k4VEFfYkNPU1NGOFlHU2lWWUQwV3M2cnhGbXJfWVRscTJGcjRsS2gtWnZoY0wxNDY5ZmRGWXA3dVFRZUhtX0ozeERodzNUT3RlYTIza3dmWVN1T2RQcVF0bEtZVkJVYWhqM3VFeTNLQ0xuQl9nVXgyVnRNQTlhWTlRUW9fU2hXWlF4RVVTellyQ3ZoOVNMbzZ4ODNPZWc?oc=5",
+   "type": null,
+   "time": "2026-11-19T08:22:48Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "dubai-international-chamber-opens-representative",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Dubai International Chamber opens representative office in Miami to strengthen trade and investment ties between Dubai and the United States",
+   "summary": "Dubai International Chamber opens representative office in Miami to strengthen trade and investment ties between Dubai and the United States",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Dubai International Chamber opens representative office in Miami to strengthen trade and investment ties between Dubai and the United States."
+    }
+   ],
+   "source": "WV News",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPaHQ0d0tpZFBRTzdjMUJ4TFZrWENJOGdoVG1MbU9zU1pidlJ6Y1FjdlFwSkNleUNqRExZUmtROEt6MEhYOUlRemVpQmQ5ZkNrYWZrcEdaVGFoanBETkxsTEpuMC1lRDQ1ZHZmYnVyZUZtczNOLVd4NGlNeURFOU5VdlRDOE5VbWFud1lLamhobTNVS2lNSmZ5V2Fyck5HS2xhalc1QTVJT0dBQVV5dGhGTnZ2aTZYeE4yOEhLVHBiZTNmbFJUaDY1UWpQYXd1MlhKMkpicHk4WUJDaEhDYUVNbHROZHdSd0dOckNYWURtV2dKSlpDNG5tWVpkQnh3YjRWY3hUNTdqZnVWbDdqY2E2eWoxTDVQSHlhd0NfZ19Ca3A4VXRxcllMRnZzQWthMUs5bkx1YTgwT0VJQjVt?oc=5",
+   "type": null,
+   "time": "2026-11-19T05:57:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "-it-s-my-friend-moment-trump-greets-putin-at-chi",
    "country": "China",
    "label": "CHINA",
    "lat": 35.0,
    "lon": 104.0,
    "flag": "🇨🇳",
-   "severity": "high",
+   "severity": "watch",
    "category": "World",
-   "headline": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com",
-   "summary": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com",
+   "headline": "‘It’s my friend’: Moment Trump greets Putin at China summit",
+   "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com."
+     "text": "‘It’s my friend’: Moment Trump greets Putin at China summit."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The three leaders have divergent geopolitical goals and visions for the world order."
     }
    ],
-   "source": "KTVN",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN192VnNFV1JOMEJQa3NKeVJTVUN5MFZTRlpOSGlfbUZfYUxiR2Y0RVpueDRuRjlzTGl2VzNmcEtJRGh1V3BqZlphbzk5enZxNkhyUjlwTThGR05YNWYyTEZEdHpycFNZNG9UMk1HS25DQ283X2NnVG5MLUFkenRMblM4bk5nSW5MLTlCYXVGQnBjQjhRd2ZoSUZpNW80TDVZREhOTld5ZHRTTWxxVzFfNjlaaVU3WE9XTnVkRzc3c2V6Y0FEekVCaFYzM0RkQl9aOUhVTzFqXzhaSE9DTHIxTHBTQVNBQVE?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
    "type": null,
-   "time": "2026-11-19T01:00:20Z",
+   "time": "2026-11-19T06:44:59Z",
    "countries": [
     "China",
     "United States of America",
@@ -238,101 +490,7 @@
    ]
   },
   {
-   "id": "trump-grows-frustrated-with-vance-over-iran-war-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Trump Grows Frustrated With Vance Over Iran War Critique",
-   "summary": "Trump Grows Frustrated With Vance Over Iran War Critique",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump Grows Frustrated With Vance Over Iran War Critique."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
-   "type": null,
-   "time": "2026-11-19T01:23:01Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "crimean-bridge-attacked-again-russian-official-s",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Crimean Bridge attacked again, Russian official says",
-   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Crimean Bridge attacked again, Russian official says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-19T01:05:03Z",
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "us-steps-up-pressure-on-iran-backed-hezbollah-wi",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-   "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US steps up pressure on Iran-backed Hezbollah with new sanctions."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-18T22:56:19Z",
-   "countries": [
-    "United States of America",
-    "Iran",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "uae-expresses-solidarity-with-jordan-after-milit",
+   "id": "two-pti-affiliated-pakistanis-detained-in-uae-ov",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -340,202 +498,29 @@
    "flag": "🇦🇪",
    "severity": "high",
    "category": "UAE",
-   "headline": "UAE expresses solidarity with Jordan after military helicopter crash",
-   "summary": "UAE expresses solidarity with Jordan after military helicopter crash",
+   "headline": "Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told",
+   "summary": "LAHORE: The Ministry of Foreign Affairs (MoFA) has informed the Lahore High Court (LHC) that two Pakistani citizens affiliated with the PTI and detained at Abu Dhabi’s Al-Wathba Jail are being held in connection with cases relating to “state security”.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE expresses solidarity with Jordan after military helicopter crash."
-    }
-   ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3dQWUlDaDZRaHJfN3RPaVBsT1dyeG51UWRCYlEzTjdXSVBwOHJfWXRGZFJ5cFQwdUlEaWtzVlNONzItX2EyWmRTaUJoU0ZJamxKWnowcmhRSlBJeHd2Sm01cHhvdXhEckVINUk4Q3E5anROak1GYTl2bExRR01maWpzbExkQ21RdDNvbDRzREdHYngwTlJIUlhHYmwwOGc1a3VOSDJpM29sUVdCVVE?oc=5",
-   "type": null,
-   "time": "2026-11-19T01:23:39Z",
-   "countries": [
-    "United Arab Emirates",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-reacts-to-trump-meeting-puti",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
-   "summary": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine."
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUlNajB3ZHR3alhqZE5jWUt5YmFSTlJVWWhIY2tIcWtZNHZDcW40b0tjR0RXUklFazQ4S1hBSGdCbmZ6RVJobmw4UFdHSjRCa2FvN2MwLUQ2MlUxSVFzNG5JQms1aTlXNS1TaVFqOXh1QmNxdjF0X25JRXh1anNqenVqLXZQUzZhSnBvVngwcWdzcFV5eXR6R1czcGR3clRVVExJVFZLS0diUUtvNE9JYnhabURtalBZUnozSQ?oc=5",
-   "type": null,
-   "time": "2026-11-19T00:43:39Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "trump-xi-and-putin-set-to-hold-historic-meeting-",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "World",
-   "headline": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines",
-   "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines."
+     "text": "Two PTI-affiliated Pakistanis detained in UAE over 'state security' cases, LHC told."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "What's the situation now?"
     },
     {
      "role": "ANALYST",
-     "text": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
-   "type": null,
-   "time": "2026-11-19T00:27:21Z",
-   "countries": [
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "us-defence-secretary-hegseth-reveals-military-pa",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-   "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVpVT2JaUVctT0M1WllBRWVnMVFxQV9hVGxDQmltRkNnZ0c1NDJiaUwyeWwwMFBxUEdJM2lDOHlkSmRrOVU0SmNDSkY1RkcycjNRbzZNUjFLNTVWZWhVdjZQZ1lpVFU1SkxFTzJJQXlPdXh0bWo5X2VuWG1vQjVvbnY4U2VHMDIzMEIxd29XWndwc2pqa0VaMmVFeUZINlM3OHBITXhIdnFCUUZjaV9aQVhZQUHSAboBQVVfeXFMTzFBMld4VWhzLXVxRU9OV1N6Qy1QN0l5THVkWGxJYWhrWkNNa1QyX3ZQRVN4eHBfY2F6OGpCT2RFZzBvbl9CazR2bUI3NGRlYmpyYktXSFZrMjR5cy1STFlsNVE3dGswU2pxYjBKMnFJV3lubEw2dWcyRERxYlA5VEJkVU1hTDlHMjE2cms2NFFkTkl1LVZQRU11aEdLaThwQmY0b01ndThIS3ZKeVVhbGFBTWY2MWUtYmVR?oc=5",
-   "type": null,
-   "time": "2026-11-18T21:04:19Z",
-   "countries": [
-    "United States of America",
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "icj-report-sees-judicial-capture-in-pakistan-aft",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
-   "summary": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "How serious is it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan."
+     "text": "LAHORE: The Ministry of Foreign Affairs (MoFA) has informed the Lahore High Court (LHC) that two Pakistani citizens affiliated with the PTI and detained at Abu Dhabi’s Al-Wathba Jail are being held in connection with cases relating to “state security”."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
+   "url": "https://www.dawn.com/news/2045659/two-pti-affiliated-pakistanis-detained-in-uae-over-state-security-cases-lhc-told",
    "type": null,
-   "time": "2026-11-18T16:18:54Z",
+   "time": "2026-11-19T08:36:52Z",
    "countries": [
+    "United Arab Emirates",
     "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-lands-in-china-for-trade-talks-and-high-st",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
-   "summary": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin."
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T23:55:44Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "amid-setbacks-saudi-arabia-braces-for-yemen-war-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor",
-   "summary": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor."
-    }
-   ],
-   "source": "Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTQ5cjNMR045bkViZTA5YVZ3dlpyRm9vcXlFaEdtR1BFa1l2b1A1R3lqXzRqd2J3dkhXRXRXbXpRZV9PWHZURVJEaThXZGlPeEF3NkxFS29CQUJONE1RMFA2UC1OcTVWdG12bmw0VEF4OHlSdWlyTzhmcTF2TVZFSkxkc1hfX1Z5V1ZvZk0tZUxCbHZaTmIwTzZDbjI0N1VrYlJtQVBCOGtKcVRB?oc=5",
-   "type": null,
-   "time": "2026-11-18T19:35:06Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
    ]
   }
  ]
