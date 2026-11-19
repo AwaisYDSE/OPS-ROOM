@@ -1,77 +1,7 @@
 {
- "updated": "2026-11-18T20:39:01.776966Z",
+ "updated": "2026-11-19T02:03:22.498471Z",
  "generator": "rss",
  "stories": [
-  {
-   "id": "trump-shakes-hands-with-putin-and-xi-ahead-of-hi",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "watch",
-   "category": "World",
-   "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump shakes hands with Putin and Xi ahead of historic talks in China."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the impact?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FNVg3ME1zb05FTlVhMmw5SXQ4eGlxRF9hYUo3bGhVNlMyTjEyeFBMT29tMDM1WjY4QUxONVVjSkp4VFVlZFZrNkNxU0ZDR0c1LWU3cmE1c0lDeTQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T16:10:44Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "iran-attacks-us-air-base-in-kuwait",
-   "country": "Kuwait",
-   "label": "KUWAIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran attacks US air base in Kuwait",
-   "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran attacks US air base in Kuwait."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iranian attacks on the Gulf countries draw condemnation from across the region."
-    }
-   ],
-   "source": "The Hill",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHpmSHlDSi1ndFFSVmhoMnFfM3RrZVpxa0JLOWFWbTZTUEItT2ozT0ZuRW9rNkU3cUZOenJldm91cEhUcEI5cHhiWTQ4VDZvcDY1WndHRGJxRWFfUGF6MVl0V05Fam05eHp1Uk4zVXVtZlVoMFg4OHlyRk5STmpFb9IBhgFBVV95cUxQaVJDY0RQY0VHOENNQ0FSdV9MU2lIaUNWanFDSGFZMHV0SlJBV3h3N3d6akRqVWFxdzRhanExcXRZOWhBSVVjX25SRlFfZGpzd3VUclZseWJiQ1N1WUR2THFuazZQYVVybUdVa1psRm1fYVMwS18wSUFPTGR2eVNadlFGbXBEQQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T16:24:00Z",
-   "countries": [
-    "Kuwait",
-    "Iran",
-    "United States of America"
-   ]
-  },
   {
    "id": "pakistan-tighten-grip-on-second-test-as-sri-lank",
    "country": "Pakistan",
@@ -90,7 +20,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -124,7 +54,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
@@ -140,28 +70,63 @@
    ]
   },
   {
-   "id": "us-oil-inventories-on-the-rise",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "US Oil Inventories On the Rise",
-   "summary": "US Oil Inventories On the Rise",
+   "id": "iran-war-updates-gulf-states-and-tankers-under-f",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
+   "summary": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US Oil Inventories On the Rise."
+     "text": "Iran War Updates: Gulf states and tankers under fire as U.S. and Iran ramp back up tit-for-tat strikes."
     }
    ],
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWkRraUlSN25NODR4M2Y1VVJNQnJHM3U5U1ZFWi1PSWs0ZE5oRVNfS2ZaMV94M2xXSGotX0pUMGRsV3RSUWRMNlMxMG0zM3pfdF93b2tMdjAzOGptY3cteDdJTGJSS3J6LU9Rc3l4ZEZwTnhHclZqLXlsbWpiUdIBgwFBVV95cUxNakhPSk43QUpWNDdWZ24tcG1pVXowUko1RVhFTWhOdXlhQVhjVDVDcmVCcnRwMmZRZHNybDd2dzFLUVZZLV81bEtlUy1nNWstNzBGUEFJdEcyTWt5QkRRZjRHLXRQVUhGY2J5eGlrWkF6alJuNFRIakljODBfQ2pwSzhDcw?oc=5",
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5",
    "type": null,
-   "time": "2026-11-18T15:39:53Z",
+   "time": "2026-11-18T23:29:00Z",
    "countries": [
+    "Iran",
     "United States of America"
+   ]
+  },
+  {
+   "id": "what-the-crimean-bridge-attack-means-for-russia",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "What the Crimean bridge attack means for Russia",
+   "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What the Crimean bridge attack means for Russia."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan."
+    }
+   ],
+   "source": "DW.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWNJeU52cmNIWXVxYXloM1RVdm5SQWdTd3pFWUd6QzhXYmhNeWx4enlkSjNENHBLcnBDY240aV96SEdiTnFVOUtuTWJ4ZmVIUHYySmJaczR6NzJLXzQwc2p0Y1lfSnpNaUdfOEdHLUwyZDdGVkVFODZFZjRtVVVXUjNVdWl5REXSAYcBQVVfeXFMTWR5dF9IVHRBaVhOc2RKbGpGR193aDhrRHRwSFRDZzVLeV9EdnloLTFHRU9CRi01TU5VV09iSXJ0V2VBTGJndFo0R3BSdDhmcXpraFhlSllSREJLVEZYcDVfT3NDQXRLTVdyWEpRNEw3YUY1TVJQT09KWEowOHVWSkFMeHlRVVhB?oc=5",
+   "type": null,
+   "time": "2026-11-18T21:12:40Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
    ]
   },
   {
@@ -184,7 +149,7 @@
    "source": "The National",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
    "type": "LIVE",
-   "time": "2026-11-18T19:20:14Z",
+   "time": "2026-11-19T01:13:44Z",
    "countries": [
     "Bahrain",
     "Iran",
@@ -192,28 +157,84 @@
    ]
   },
   {
-   "id": "oil-prices-fall-as-higher-us-crude-stocks-temper",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil prices fall as higher US crude stocks temper supply risks",
-   "summary": "Oil prices fall as higher US crude stocks temper supply risks",
+   "id": "iran-attacks-kuwait-and-bahrain-further-escalati",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
+   "summary": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Oil prices fall as higher US crude stocks temper supply risks."
+     "text": "Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait."
     }
    ],
-   "source": "American Journal of Transportation",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYmZIS2ZQVmR4N0pyRUFkc2JBNDFSbFRETHB6SThBdnZpVTc4VUgyOGQzYWdKckJpU2RfWnc5YThTUEtUaF95VFRORVduQ05kdmViYktNSUJ1aUtVT2RpbEg4Q1l2bmJ4T0MtS1hueDFwZ3pRdTBjcnFUNEpOQVJTYTdPTU10LXpmMDlsOVJvY28?oc=5",
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
    "type": null,
-   "time": "2026-11-18T17:31:00Z",
+   "time": "2026-11-18T14:56:00Z",
    "countries": [
+    "Iran",
+    "Kuwait",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "iran-and-us-trade-tit-for-tat-strikes-as-wild-vi",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker",
+   "summary": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran and US trade tit-for-tat strikes as wild video shows strike on UAE oil tanker."
+    }
+   ],
+   "source": "New York Post",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkhUSmRtQzRXeWN5V3RxdzJvMnAweVRQdDJtQkQxRGRubmV6T19VYnhVVzZXWDhxSF9Sd0FjUXI2Q3RFX3RqYzQ0eGxfOVhXVnlBSHZaZVYzYVBwRHBuam5TVHJkOVNhV0dOdDlQRHJsbV9IQUJPMGpJbjFmWk8zYkhWWWRxVnlOUEJ6MHRlV3N0anpTdkVuU2xTNDZSREZ0RFQ0dTZ1aw?oc=5",
+   "type": null,
+   "time": "2026-11-18T23:11:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "Iran",
     "United States of America"
+   ]
+  },
+  {
+   "id": "trump-meets-xi-and-putin-in-china-with-nuclear-a",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "high",
+   "category": "World",
+   "headline": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com",
+   "summary": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump meets Xi and Putin in China with nuclear arms and two wars on the table | World News | 2news.com."
+    }
+   ],
+   "source": "KTVN",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN192VnNFV1JOMEJQa3NKeVJTVUN5MFZTRlpOSGlfbUZfYUxiR2Y0RVpueDRuRjlzTGl2VzNmcEtJRGh1V3BqZlphbzk5enZxNkhyUjlwTThGR05YNWYyTEZEdHpycFNZNG9UMk1HS25DQ283X2NnVG5MLUFkenRMblM4bk5nSW5MLTlCYXVGQnBjQjhRd2ZoSUZpNW80TDVZREhOTld5ZHRTTWxxVzFfNjlaaVU3WE9XTnVkRzc3c2V6Y0FEekVCaFYzM0RkQl9aOUhVTzFqXzhaSE9DTHIxTHBTQVNBQVE?oc=5",
+   "type": null,
+   "time": "2026-11-19T01:00:20Z",
+   "countries": [
+    "China",
+    "United States of America",
+    "Russia"
    ]
   },
   {
@@ -236,205 +257,27 @@
    "source": "The New York Times",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
    "type": null,
-   "time": "2026-11-18T17:15:08Z",
+   "time": "2026-11-19T01:23:01Z",
    "countries": [
     "Iran",
     "United States of America"
    ]
   },
   {
-   "id": "pakistan-and-turkmenistan-sign-three-agreements-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue",
-   "summary": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan and Turkmenistan sign three agreements as TAPI talks continue."
-    }
-   ],
-   "source": "Operativ Məlumat Mərkəzi",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDFjMWxXY2djMllKX0F3U3NiRGVGVE84S2p5aUY5a1c3UlVJNGowNmphaGZiaFJhTXNGR0JSVTE2d3RoTV8zWlV6b3E5T1FMTWFlM3hqX19faDNfeURJVTJyc21sRFJWSERISVRRVFEzRllGSlFkWWR0WEpUajlJN09QTTVFRXdUN0R2Zm5vMFAtZG81TUphZHZvWGh0R3Z1TWV1TzhtM2pEUQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T18:00:25Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "four-killed-as-russian-strikes-hit-ukraine-s-ode",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Four killed as Russian strikes hit Ukraine’s Odesa",
-   "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Four killed as Russian strikes hit Ukraine’s Odesa."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-18T19:31:31Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-intercepted-2-houthi",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia",
-   "summary": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-led coalition says it intercepted 2 Houthi drones in Saudi Arabia."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3FQeFV3N2tXLUl2bmJCWGY4RG1yaFVBbThIb0RsYno5N0RLUm1ReUh5TDhhcnJKYldjWURJSXJkT1dzOUZOczJNdXpxZGVHTEZPeHZUZzlTbElNYTFtZE1JQmQ4UUpuTTAycVBiTTNETUVOVjVoQU1uWHZfc0tpMGRJVmJPcjBnUDNrRzU1NkZVYXRuYlVEVVlVRFRvSXV6eEhOQzhGa0FaN2tMVWVUa2ZKdkxsWXM?oc=5",
-   "type": null,
-   "time": "2026-11-18T17:33:33Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "inside-the-old-gas-pipeline-where-ukraine-is-fig",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "crimean-bridge-attacked-again-russian-official-s",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war",
-   "summary": "The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+   "headline": "Crimean Bridge attacked again, Russian official says",
+   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Inside the old gas pipeline where Ukraine is fighting an underground war."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05ai12U3Bxc0M5OGhGV1puSjZGdXBlZG13VjBQUkwxTER2ck5GclNjQXRzVHEzYWN1aDBnY093VWpJODdoU1FxRno4RUM2VFNhYmg5cURDVUpJQUU?oc=5",
-   "type": null,
-   "time": "2026-11-18T17:00:04Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "dubai-s-city-ai-agent-initiative-to-transform-go",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "Dubai's 'City AI Agent' initiative to transform government operations",
-   "summary": "Dubai's 'City AI Agent' initiative to transform government operations",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dubai's 'City AI Agent' initiative to transform government operations."
-    }
-   ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTJyU01kenFZNlpYTGVuSmltWkowR3M4cVRJc1JDdDFUcHA1NzJOZ3ZGVTFzQkNQdFZlZlBQbEZvMEhGRmhTUEJCX2FBeVBKYncwMHVkbnVJNHlmaTFPYXFCcU1WZFk1dTBadUhPNXlsVl90enlZUC1CeXlYY05WS0tBZjNrYUVUUDkxWWFuMmRZQS1NZTZBNnR4ZzJGbUVncWV1OWRVdy1RZ2M?oc=5",
-   "type": null,
-   "time": "2026-11-18T19:42:33Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "russian-attacks-on-ukraine-kill-at-least-five-pe",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian attacks on Ukraine kill at least five people",
-   "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian attacks on Ukraine kill at least five people."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-18T15:32:01Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "indian-air-force-s-rafale-fleet-down-to-32-aviat",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets",
-   "summary": "The Indian Air Force (IAF) has 32 French-made Rafale fighter jets in service, down from 36 before the May 2025 conflict with Pakistan, according to estimates published by British aviation magazine Flight International.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Indian Air Force’s Rafale fleet down to 32, aviation publication says, backing Pakistan’s claim of downing four jets."
+     "text": "Crimean Bridge attacked again, Russian official says."
     },
     {
      "role": "COMMANDER",
@@ -442,85 +285,188 @@
     },
     {
      "role": "ANALYST",
-     "text": "The Indian Air Force (IAF) has 32 French-made Rafale fighter jets in service, down from 36 before the May 2025 conflict with Pakistan, according to estimates published by British aviation magazine Flight International."
+     "text": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045399/indian-air-forces-rafale-fleet-down-to-32-aviation-publication-says-backing-pakistans-claim-of-downing-four-jets",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-18T09:53:06Z",
+   "time": "2026-11-19T01:05:03Z",
    "countries": [
-    "India",
-    "Pakistan",
-    "France",
-    "United Kingdom"
+    "Russia"
    ]
   },
   {
-   "id": "rory-mcilroy-s-historic-race-to-dubai-record-und",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return",
-   "summary": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rory McIlroy’s Historic Race To Dubai Record Under Threat As Bryson DeChambeau Leads LIV Stars’ Return."
-    }
-   ],
-   "source": "NDTV Sports",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTmxxRVhGU2xtNmpLS2JJeGFtNEp2MXIwSDMxRFRtRVNaendWUi1yeWJ4MHFaLTFPNDBKQTBrNUl1aDhFMWVMU3BPU0oyZGxlSEFBMEpfbGluNmdwQ3Y2b1ZaUlI3Zl92VV9rYjdzajBualh1Vmd5SlZXRFVvdFozNTdSQ3ktRGJYNFpDRHlROEtCRkJRcENVelNleC1TeVFCUUhDY2pLcnR4U3FNeGZldy04N3RuWE9zTmpMTnp6cXg5LXU0TGtZYTdYX3ExQ3hNQnp4VGdmazZPZw?oc=5",
-   "type": null,
-   "time": "2026-11-18T17:31:28Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "dr-gargash-criticises-somali-president-s-attack-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Dr Gargash criticises Somali President's 'attack on the UAE'",
-   "summary": "Dr Gargash criticises Somali President's 'attack on the UAE'",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dr Gargash criticises Somali President's 'attack on the UAE'."
-    }
-   ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeHJLcHVkUWxPUWRKMzNjbXQ3YkZ2R1loTlVSWng2WWdacFRhcnIwdGtHblo4TFdlRldKWExnSm14Sl91cWlRSTkzN2U1a0JxUGdPLVdJUXBteTE1VjVTeWpMaWE4QkVoSVVwdGJKUUhYdDhIQVk4bUhYcUl6WVNHN3FoSExpS1ZlTGs3d2xxanZSRW9sUlIybThiRlBqZnM?oc=5",
-   "type": null,
-   "time": "2026-11-18T17:22:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "un-nuclear-watchdog-says-us-saudi-nuclear-agreem",
+   "id": "us-steps-up-pressure-on-iran-backed-hezbollah-wi",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
    "severity": "high",
-   "category": "Tech",
-   "headline": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'",
-   "summary": "UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a deal between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme.",
+   "category": "World",
+   "headline": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UN nuclear watchdog says US-Saudi nuclear agreement 'satisfactory'."
+     "text": "US steps up pressure on Iran-backed Hezbollah with new sanctions."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the situation now?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-18T22:56:19Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Lebanon"
+   ]
+  },
+  {
+   "id": "uae-expresses-solidarity-with-jordan-after-milit",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "UAE expresses solidarity with Jordan after military helicopter crash",
+   "summary": "UAE expresses solidarity with Jordan after military helicopter crash",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE expresses solidarity with Jordan after military helicopter crash."
+    }
+   ],
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3dQWUlDaDZRaHJfN3RPaVBsT1dyeG51UWRCYlEzTjdXSVBwOHJfWXRGZFJ5cFQwdUlEaWtzVlNONzItX2EyWmRTaUJoU0ZJamxKWnowcmhRSlBJeHd2Sm01cHhvdXhEckVINUk4Q3E5anROak1GYTl2bExRR01maWpzbExkQ21RdDNvbDRzREdHYngwTlJIUlhHYmwwOGc1a3VOSDJpM29sUVdCVVE?oc=5",
+   "type": null,
+   "time": "2026-11-19T01:23:39Z",
+   "countries": [
+    "United Arab Emirates",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "ukraine-s-zelenskyy-reacts-to-trump-meeting-puti",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
+   "summary": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ukraine's Zelenskyy reacts to Trump meeting Putin amid ongoing war in Ukraine."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUlNajB3ZHR3alhqZE5jWUt5YmFSTlJVWWhIY2tIcWtZNHZDcW40b0tjR0RXUklFazQ4S1hBSGdCbmZ6RVJobmw4UFdHSjRCa2FvN2MwLUQ2MlUxSVFzNG5JQms1aTlXNS1TaVFqOXh1QmNxdjF0X25JRXh1anNqenVqLXZQUzZhSnBvVngwcWdzcFV5eXR6R1czcGR3clRVVExJVFZLS0diUUtvNE9JYnhabURtalBZUnozSQ?oc=5",
+   "type": null,
+   "time": "2026-11-19T00:43:39Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "trump-xi-and-putin-set-to-hold-historic-meeting-",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "World",
+   "headline": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines",
+   "summary": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump, Xi and Putin set to hold historic meeting on Apec sidelines."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
+   "type": null,
+   "time": "2026-11-19T00:27:21Z",
+   "countries": [
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "us-defence-secretary-hegseth-reveals-military-pa",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+   "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVpVT2JaUVctT0M1WllBRWVnMVFxQV9hVGxDQmltRkNnZ0c1NDJiaUwyeWwwMFBxUEdJM2lDOHlkSmRrOVU0SmNDSkY1RkcycjNRbzZNUjFLNTVWZWhVdjZQZ1lpVFU1SkxFTzJJQXlPdXh0bWo5X2VuWG1vQjVvbnY4U2VHMDIzMEIxd29XWndwc2pqa0VaMmVFeUZINlM3OHBITXhIdnFCUUZjaV9aQVhZQUHSAboBQVVfeXFMTzFBMld4VWhzLXVxRU9OV1N6Qy1QN0l5THVkWGxJYWhrWkNNa1QyX3ZQRVN4eHBfY2F6OGpCT2RFZzBvbl9CazR2bUI3NGRlYmpyYktXSFZrMjR5cy1STFlsNVE3dGswU2pxYjBKMnFJV3lubEw2dWcyRERxYlA5VEJkVU1hTDlHMjE2cms2NFFkTkl1LVZQRU11aEdLaThwQmY0b01ndThIS3ZKeVVhbGFBTWY2MWUtYmVR?oc=5",
+   "type": null,
+   "time": "2026-11-18T21:04:19Z",
+   "countries": [
+    "United States of America",
+    "Venezuela"
+   ]
+  },
+  {
+   "id": "icj-report-sees-judicial-capture-in-pakistan-aft",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments",
+   "summary": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ICJ report sees 'judicial capture' in Pakistan after 26th, 27th Constitutional Amendments."
     },
     {
      "role": "COMMANDER",
@@ -528,16 +474,68 @@
     },
     {
      "role": "ANALYST",
-     "text": "UN nuclear watchdog head Rafael Grossi on Wednesday welcomed a deal between the United States and Saudi Arabia on equipping the kingdom with a civilian nuclear programme."
+     "text": "A report released by the International Commission of Jurists (ICJ) on Wednesday said that the 26th and 27th Constitutional Amendments led to a “systemic judicial capture” in Pakistan."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory",
+   "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
    "type": null,
-   "time": "2026-11-18T13:13:10Z",
+   "time": "2026-11-18T16:18:54Z",
    "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "trump-lands-in-china-for-trade-talks-and-high-st",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+   "summary": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump lands in China for trade talks and high-stakes summit with Xi and Putin."
+    }
+   ],
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
+   "type": null,
+   "time": "2026-11-18T23:55:44Z",
+   "countries": [
+    "China",
     "United States of America",
-    "Saudi Arabia"
+    "Russia"
+   ]
+  },
+  {
+   "id": "amid-setbacks-saudi-arabia-braces-for-yemen-war-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor",
+   "summary": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Amid setbacks, Saudi Arabia braces for Yemen war to stretch into 2027: Report - Al-Monitor."
+    }
+   ],
+   "source": "Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTQ5cjNMR045bkViZTA5YVZ3dlpyRm9vcXlFaEdtR1BFa1l2b1A1R3lqXzRqd2J3dkhXRXRXbXpRZV9PWHZURVJEaThXZGlPeEF3NkxFS29CQUJONE1RMFA2UC1OcTVWdG12bmw0VEF4OHlSdWlyTzhmcTF2TVZFSkxkc1hfX1Z5V1ZvZk0tZUxCbHZaTmIwTzZDbjI0N1VrYlJtQVBCOGtKcVRB?oc=5",
+   "type": null,
+   "time": "2026-11-18T19:35:06Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   }
  ]
