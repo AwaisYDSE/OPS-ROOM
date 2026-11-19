@@ -1,520 +1,10 @@
 {
- "updated": "2026-11-19T02:03:22.498471Z",
+ "updated": "2026-11-19T19:11:46.852594Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "pakistan-tighten-grip-on-second-test-as-sri-lank",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Пакистан ужесточает контроль над вторым тестом, а Шри-Ланка спотыкается до 74-3",
-   "summary": "Пакистан усилил свою хватку во втором тесте в среду, вырвавшись вперед в первом подаче с 227 пробегами, а затем сократил счет Шри-Ланки до 74–3 на пнях во второй день на крикетном стадионе Равалпинди.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан ужесточает контроль над вторым тестом, а Шри-Ланка спотыкается до 74-3."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистан усилил свою хватку во втором тесте в среду, вырвавшись вперед в первом подаче с 227 пробегами, а затем сократил счет Шри-Ланки до 74–3 на пнях во второй день на крикетном стадионе Равалпинди."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
-   "type": null,
-   "time": "2026-11-18T12:37:58Z",
-   "countries": [
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-conducts-successful-launch-of-fatah-3-s",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Пакистан провел успешный пуск сверхзвуковой крылатой ракеты «Фатх-3»: ISPR",
-   "summary": "Пакистанская армия в среду успешно запустила сверхзвуковую крылатую ракету «Фатх-3», по данным военных СМИ.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан проводит успешный пуск сверхзвуковой крылатой ракеты Фатх-3: ISPR."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Понял. Продолжать."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистанская армия в среду успешно запустила сверхзвуковую крылатую ракету «Фатх-3», по данным военных СМИ."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
-   "type": null,
-   "time": "2026-11-18T15:35:41Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-updates-gulf-states-and-tankers-under-f",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Новости о войне в Иране: государства Персидского залива и танкеры под огнем, в то время как США и Иран наращивают ответные удары",
-   "summary": "Новости о войне в Иране: государства Персидского залива и танкеры под огнем, в то время как США и Иран наращивают ответные удары",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Новости о войне в Иране: государства Персидского залива и танкеры под огнем, в то время как США и Иран наращивают ответные удары."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNczRzemtDSHlJLXZIOHl1WHVMYUZkLTFMd1Z4TDJHNWhDa2E3djdWWnM4MXlwbXpnYjNyUU9TcXR6YjhsOWRVS29ub25Dd0pLVWNZRFZWR25CdnNxeTQ4VDRYX2g1dlFqZmQ1N1o1WWowQk5XRTJvSnhwWENzaXlBSF83RW5kbE5FelFKa0J2dnlhQVJJTkE?oc=5",
-   "type": null,
-   "time": "2026-11-18T23:29:00Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "what-the-crimean-bridge-attack-means-for-russia",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Что означает атака на Крымский мост для России",
-   "summary": "Украина заявляет, что на планирование ракетной и беспилотной атаки на стратегический мост в аннексированном Россией Крыму ушли недели.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Что означает атака на Крымский мост для России."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Украина заявляет, что на планирование ракетной и беспилотной атаки на стратегический мост в аннексированном Россией Крыму ушли недели."
-    }
-   ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVWNJeU52cmNIWXVxYXloM1RVdm5SQWdTd3pFWUd6QzhXYmhNeWx4enlkSjNENHBLcnBDY240aV96SEdiTnFVOUtuTWJ4ZmVIUHYySmJaczR6NzJLXzQwc2p0Y1lfSnpNaUdfOEdHLUwyZDdGVkVFODZFZjRtVVVXUjNVdWl5REXSAYcBQVVfeXFMTWR5dF9IVHRBaVhOc2RKbGpGR193aDhrRHRwSFRDZzVLeV9EdnloLTFHRU9CRi01TU5VV09iSXJ0V2VBTGJndFo0R3BSdDhmcXpraFhlSllSREJLVEZYcDVfT3NDQXRLTVdyWEpRNEw3YUY1TVJQT09KWEowOHVWSkFMeHlRVVhB?oc=5",
-   "type": null,
-   "time": "2026-11-18T21:12:40Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "gulf-nations-condemn-hostile-iranian-attacks-on-",
-   "country": "Bahrain",
-   "label": "БАХРЕЙН",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Страны Персидского залива осуждают «враждебные» нападения Ирана на Бахрейн и Кувейт",
-   "summary": "Страны Персидского залива осуждают «враждебные» нападения Ирана на Бахрейн и Кувейт",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Страны Персидского залива осуждают «враждебные» нападения Ирана на Бахрейн и Кувейт."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTdScFFjTlhtU25LQmJvdEp1Vk5qZ3FtTFE3RkdXUzVDZFgtSnY3MkhTeW82UW9QTWVibnVQb2Nyb1RVYWlFTlpyd3JCdjIzVnV1QmVxUEUyTDhzWXdrZUhPN0N6aUxrYWN3NXdWcVNQeUtFVnFPMHRvSURyTFpMY0tvWmxoZ014aS1iWjVsMnRCVHFDeVhjcllvYw?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-19T01:13:44Z",
-   "countries": [
-    "Bahrain",
-    "Iran",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "iran-attacks-kuwait-and-bahrain-further-escalati",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Иран атакует Кувейт и Бахрейн, что приводит к дальнейшей эскалации борьбы за пролив",
-   "summary": "Иран атакует Кувейт и Бахрейн, что приводит к дальнейшей эскалации борьбы за пролив",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран нападает на Кувейт и Бахрейн, что приводит к дальнейшей эскалации борьбы за пролив."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5",
-   "type": null,
-   "time": "2026-11-18T14:56:00Z",
-   "countries": [
-    "Iran",
-    "Kuwait",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "iran-and-us-trade-tit-for-tat-strikes-as-wild-vi",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Иран и США обмениваются ударами «око за око», поскольку дикое видео показывает удар по нефтяному танкеру ОАЭ",
-   "summary": "Иран и США обмениваются ударами «око за око», поскольку дикое видео показывает удар по нефтяному танкеру ОАЭ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран и США обмениваются ударами друг за друга, поскольку дикое видео показывает удар по нефтяному танкеру ОАЭ."
-    }
-   ],
-   "source": "New York Post",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZkhUSmRtQzRXeWN5V3RxdzJvMnAweVRQdDJtQkQxRGRubmV6T19VYnhVVzZXWDhxSF9Sd0FjUXI2Q3RFX3RqYzQ0eGxfOVhXVnlBSHZaZVYzYVBwRHBuam5TVHJkOVNhV0dOdDlQRHJsbV9IQUJPMGpJbjFmWk8zYkhWWWRxVnlOUEJ6MHRlV3N0anpTdkVuU2xTNDZSREZ0RFQ0dTZ1aw?oc=5",
-   "type": null,
-   "time": "2026-11-18T23:11:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "trump-meets-xi-and-putin-in-china-with-nuclear-a",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "high",
-   "category": "World",
-   "headline": "Трамп встречается с Си и Путиным в Китае с ядерным оружием и двумя войнами на столе | Мировые новости | 2news.com",
-   "summary": "Трамп встречается с Си и Путиным в Китае с ядерным оружием и двумя войнами на столе | Мировые новости | 2news.com",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп встречается с Си и Путиным в Китае с ядерным оружием и двумя войнами на столе | Мировые новости | 2news.com."
-    }
-   ],
-   "source": "KTVN",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN192VnNFV1JOMEJQa3NKeVJTVUN5MFZTRlpOSGlfbUZfYUxiR2Y0RVpueDRuRjlzTGl2VzNmcEtJRGh1V3BqZlphbzk5enZxNkhyUjlwTThGR05YNWYyTEZEdHpycFNZNG9UMk1HS25DQ283X2NnVG5MLUFkenRMblM4bk5nSW5MLTlCYXVGQnBjQjhRd2ZoSUZpNW80TDVZREhOTld5ZHRTTWxxVzFfNjlaaVU3WE9XTnVkRzc3c2V6Y0FEekVCaFYzM0RkQl9aOUhVTzFqXzhaSE9DTHIxTHBTQVNBQVE?oc=5",
-   "type": null,
-   "time": "2026-11-19T01:00:20Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "trump-grows-frustrated-with-vance-over-iran-war-",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Трамп расстраивается из-за критики Вэнсом войны с Ираном",
-   "summary": "Трамп расстраивается из-за критики Вэнсом войны с Ираном",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп все больше разочаровывается в критике Вэнсом войны с Ираном."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3B0SDctTm9DMGNCbXNLM2VOd2prWE1aZTZfT242MVNtUGRVeWRUemVHRWZMSVhGM0J0S2xxMC1XRWRvMVB6XzN3VGJfTDdDSGtGMTlSMFpVTlM2ZGotaW1JZjBaWWNQZmZseEFFUFBxa3hnRDQyYnB1bzVUWXdPcDJnZU5jLTUzVUZJYWRsX1d4Zw?oc=5",
-   "type": null,
-   "time": "2026-11-19T01:23:01Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "crimean-bridge-attacked-again-russian-official-s",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Крымский мост снова атакован, заявил российский чиновник",
-   "summary": "Глава Крыма заявил, что движение было приостановлено после очередного нападения на сообщение между Россией и оккупированной территорией.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Крымский мост снова атакован, заявил российский чиновник."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Глава Крыма заявил, что движение было приостановлено после очередного нападения на сообщение между Россией и оккупированной территорией."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-19T01:05:03Z",
-   "countries": [
-    "Russia"
-   ]
-  },
-  {
-   "id": "us-steps-up-pressure-on-iran-backed-hezbollah-wi",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "США усиливают давление на поддерживаемую Ираном Хезболлу новыми санкциями",
-   "summary": "Министерство финансов США обвинило \"Хезболлу\" в использовании благотворительных организаций в качестве \"прикрытия\" для сбора средств.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "США усиливают давление на поддерживаемую Ираном Хезболлу новыми санкциями."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Какова ситуация сейчас?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Министерство финансов США обвинило \"Хезболлу\" в использовании благотворительных организаций в качестве \"прикрытия\" для сбора средств."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-18T22:56:19Z",
-   "countries": [
-    "United States of America",
-    "Iran",
-    "Lebanon"
-   ]
-  },
-  {
-   "id": "uae-expresses-solidarity-with-jordan-after-milit",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "ОАЭ выражают солидарность с Иорданией после крушения военного вертолета",
-   "summary": "ОАЭ выражают солидарность с Иорданией после крушения военного вертолета",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ОАЭ выражают солидарность с Иорданией после крушения военного вертолета."
-    }
-   ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3dQWUlDaDZRaHJfN3RPaVBsT1dyeG51UWRCYlEzTjdXSVBwOHJfWXRGZFJ5cFQwdUlEaWtzVlNONzItX2EyWmRTaUJoU0ZJamxKWnowcmhRSlBJeHd2Sm01cHhvdXhEckVINUk4Q3E5anROak1GYTl2bExRR01maWpzbExkQ21RdDNvbDRzREdHYngwTlJIUlhHYmwwOGc1a3VOSDJpM29sUVdCVVE?oc=5",
-   "type": null,
-   "time": "2026-11-19T01:23:39Z",
-   "countries": [
-    "United Arab Emirates",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "ukraine-s-zelenskyy-reacts-to-trump-meeting-puti",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Зеленский отреагировал на встречу Трампа с Путиным на фоне продолжающейся войны в Украине",
-   "summary": "Зеленский отреагировал на встречу Трампа с Путиным на фоне продолжающейся войны в Украине",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Зеленский на Украине отреагировал на встречу Трампа с Путиным на фоне продолжающейся войны в Украине."
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeUlNajB3ZHR3alhqZE5jWUt5YmFSTlJVWWhIY2tIcWtZNHZDcW40b0tjR0RXUklFazQ4S1hBSGdCbmZ6RVJobmw4UFdHSjRCa2FvN2MwLUQ2MlUxSVFzNG5JQms1aTlXNS1TaVFqOXh1QmNxdjF0X25JRXh1anNqenVqLXZQUzZhSnBvVngwcWdzcFV5eXR6R1czcGR3clRVVExJVFZLS0diUUtvNE9JYnhabURtalBZUnozSQ?oc=5",
-   "type": null,
-   "time": "2026-11-19T00:43:39Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "trump-xi-and-putin-set-to-hold-historic-meeting-",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "World",
-   "headline": "Трамп, Си Цзиньпин и Путин собираются провести историческую встречу на полях АТЭС",
-   "summary": "Корреспонденты BBC Лаура Бикер, Стив Розенберг и Нада Тауфик объясняют все, что вам нужно знать в преддверии беспрецедентной трехсторонней встречи.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп, Си Цзиньпин и Путин собираются провести историческую встречу на полях АТЭС."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Хорошо, что еще?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Корреспонденты BBC Лаура Бикер, Стив Розенберг и Нада Тауфик объясняют все, что вам нужно знать в преддверии беспрецедентной трехсторонней встречи."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB?oc=5",
-   "type": null,
-   "time": "2026-11-19T00:27:21Z",
-   "countries": [
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "us-defence-secretary-hegseth-reveals-military-pa",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "Министр обороны США Хегсет рассказал о военном партнерстве во время поездки в Венесуэлу",
-   "summary": "Пит Хегсет представил новую военную сделку с Венесуэлой во время своего первого визита после захвата США Николаса Мадуро.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Министр обороны США Хегсет рассказал о военном партнерстве во время поездки в Венесуэлу."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Дайте мне подробности."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пит Хегсет представил новую военную сделку с Венесуэлой во время своего первого визита после захвата США Николаса Мадуро."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOVpVT2JaUVctT0M1WllBRWVnMVFxQV9hVGxDQmltRkNnZ0c1NDJiaUwyeWwwMFBxUEdJM2lDOHlkSmRrOVU0SmNDSkY1RkcycjNRbzZNUjFLNTVWZWhVdjZQZ1lpVFU1SkxFTzJJQXlPdXh0bWo5X2VuWG1vQjVvbnY4U2VHMDIzMEIxd29XWndwc2pqa0VaMmVFeUZINlM3OHBITXhIdnFCUUZjaV9aQVhZQUHSAboBQVVfeXFMTzFBMld4VWhzLXVxRU9OV1N6Qy1QN0l5THVkWGxJYWhrWkNNa1QyX3ZQRVN4eHBfY2F6OGpCT2RFZzBvbl9CazR2bUI3NGRlYmpyYktXSFZrMjR5cy1STFlsNVE3dGswU2pxYjBKMnFJV3lubEw2dWcyRERxYlA5VEJkVU1hTDlHMjE2cms2NFFkTkl1LVZQRU11aEdLaThwQmY0b01ndThIS3ZKeVVhbGFBTWY2MWUtYmVR?oc=5",
-   "type": null,
-   "time": "2026-11-18T21:04:19Z",
-   "countries": [
-    "United States of America",
-    "Venezuela"
-   ]
-  },
-  {
-   "id": "icj-report-sees-judicial-capture-in-pakistan-aft",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "В докладе Международного Суда говорится о «судебном захвате» в Пакистане после 26-й и 27-й поправок к конституции",
-   "summary": "В докладе, опубликованном Международной комиссией юристов (МКЮ) в среду, говорится, что 26-я и 27-я поправки к Конституции привели к «систематическому судебному захвату» в Пакистане.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В докладе Международного Суда говорится о «судебном захвате» в Пакистане после 26-й и 27-й поправок к конституции."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Насколько это серьезно?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "В докладе, опубликованном Международной комиссией юристов (МКЮ) в среду, говорится, что 26-я и 27-я поправки к Конституции привели к «систематическому судебному захвату» в Пакистане."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments",
-   "type": null,
-   "time": "2026-11-18T16:18:54Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-lands-in-china-for-trade-talks-and-high-st",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Трамп приземляется в Китае для торговых переговоров и саммита с высокими ставками с Си и Путиным",
-   "summary": "Трамп приземляется в Китае для торговых переговоров и саммита с высокими ставками с Си и Путиным",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп приземляется в Китае для торговых переговоров и саммита с Си Цзиньпином и Путиным, где ставки высоки."
-    }
-   ],
-   "source": "PBS",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0cyRko0OEN1RlRLT0VFTjBfeU1zZWllR193RFc3WVl4T2h1NmFJQjl4UEZJcWdKUmFuOWVXUTl1Qi1uaERobk1iZGpIR20ycjlNcl9lVDY3MzIxbmhJblA1ejlQOGE5Yi1iZUpZMkhEemo4RGFrMVIwSzJjMW5OY0RURDFrRWRUaFBweFZlS3BwWUg2WUhhWDY1Sno4QVV1eTU5cjRyT1VCZkZ5ZExvRQ?oc=5",
-   "type": null,
-   "time": "2026-11-18T23:55:44Z",
-   "countries": [
-    "China",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "amid-setbacks-saudi-arabia-braces-for-yemen-war-",
+   "id": "headquarters-of-saudi-sovereign-fund-damaged-as-",
    "country": "Saudi Arabia",
    "label": "САУДОВСКАЯ АРАВИЯ",
    "lat": 24.7,
@@ -522,21 +12,524 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "На фоне неудач Саудовская Аравия готовится к тому, что война в Йемене продлится до 2027 года: доклад - Al-Monitor",
-   "summary": "На фоне неудач Саудовская Аравия готовится к тому, что война в Йемене продлится до 2027 года: доклад - Al-Monitor",
+   "headline": "Штаб-квартира Саудовского суверенного фонда пострадала в результате нападения хуситов на Эр-Рияд",
+   "summary": "Штаб-квартира Саудовского суверенного фонда пострадала в результате нападения хуситов на Эр-Рияд",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "На фоне неудач Саудовская Аравия готовится к тому, что война в Йемене продлится до 2027 года: отчет – Al-Monitor."
+     "text": "Штаб-квартира Саудовского суверенного фонда повреждена в результате нападения хуситов на Эр-Рияд."
     }
    ],
-   "source": "Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNTQ5cjNMR045bkViZTA5YVZ3dlpyRm9vcXlFaEdtR1BFa1l2b1A1R3lqXzRqd2J3dkhXRXRXbXpRZV9PWHZURVJEaThXZGlPeEF3NkxFS29CQUJONE1RMFA2UC1OcTVWdG12bmw0VEF4OHlSdWlyTzhmcTF2TVZFSkxkc1hfX1Z5V1ZvZk0tZUxCbHZaTmIwTzZDbjI0N1VrYlJtQVBCOGtKcVRB?oc=5",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUt2S1FLQ01XdnQwd3NpX3U1Skg0UFAyVWxkWDViVXNWS0V2YWt4LU00WWZmbDZEZk9hb2QzLWpXY3RqTEhHZ255bnNOTEdvWnloUlI1bmszYkNaZlFIZGJlckxjSVk0aHduY0R3OXA3MW14OWRFTFo3V2RlakRvQjFhZW9Oemo1SnJPTzd4RGN5M0xGRzk5SXV3?oc=5",
    "type": null,
-   "time": "2026-11-18T19:35:06Z",
+   "time": "2026-11-19T16:17:54Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "factbox-houthi-attacks-on-saudi-arabia-al-monito",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Факты: Нападения хуситов на Саудовскую Аравию - Al-Monitor",
+   "summary": "Факты: Нападения хуситов на Саудовскую Аравию - Al-Monitor",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Факты: Нападения хуситов на Саудовскую Аравию - Al-Monitor."
+    }
+   ],
+   "source": "Al-Monitor",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjRuNEVVTzFOWkRSYzhyRVVTWk10LVZscy1jX3JjdFVmYWdIVDJLeDk0SElOOVoyUC1CeVY3WmVHYmRCYTRBeGRtVjExMFpPTWVYdjJlNUZqYzV6MmZzNlRtSGFpZDAwcTZaeUNERDcyU3VERkVDeERTUHBpMVUwX1V2ZnFBZnc?oc=5",
+   "type": null,
+   "time": "2026-11-19T16:20:12Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "houthi-attack-damages-saudi-capital-s-tallest-to",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Атака хуситов повредила самую высокую башню столицы Саудовской Аравии",
+   "summary": "Атака хуситов повредила самую высокую башню столицы Саудовской Аравии",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Атака хуситов повредила самую высокую башню столицы Саудовской Аравии."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
+   "type": null,
+   "time": "2026-11-19T15:32:00Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "trump-putin-and-xi-release-peace-declaration-aft",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "World",
+   "headline": "Трамп, Путин и Си опубликовали «мирную декларацию» после исторической встречи",
+   "summary": "Хотя президенты ранее встречались один на один, это их первая трехсторонняя дискуссия.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Трамп, Путин и Си опубликовали «мирную декларацию» после исторической встречи."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Хотя президенты ранее встречались один на один, это их первая трехсторонняя дискуссия."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
+   "type": null,
+   "time": "2026-11-19T17:38:22Z",
+   "countries": [
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "pakistan-inch-closer-to-victory-in-second-test-d",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Пакистан на шаг ближе к победе во втором тесте, несмотря на сопротивление Шри-Ланки",
+   "summary": "Шри-Ланка собрала решительный арьергард, чтобы предотвратить поражение в подаче и расстроить Пакистан на третий день второго и последнего теста, достигнув 309-9 на стадионе для крикета Равалпинди в четверг.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан на шаг приблизился к победе во втором тесте, несмотря на сопротивление Шри-Ланки."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Шри-Ланка собрала решительный арьергард, чтобы предотвратить поражение в подаче и расстроить Пакистан на третий день второго и последнего теста, достигнув 309-9 на стадионе для крикета Равалпинди в четверг."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045665/pakistan-inch-closer-to-victory-in-second-test-despite-sri-lanka-fightback",
+   "type": null,
+   "time": "2026-11-19T13:10:42Z",
+   "countries": [
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "yalta-in-shenzhen-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Ялта в Шэньчжэне?",
+   "summary": "Шэньчжэнь — технологический центр Китая принимает ежегодную встречу 21 члена Азиатско-Тихоокеанского экономического сотрудничества (АТЭС).",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ялта в Шэньчжэне?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Шэньчжэнь — технологический центр Китая принимает ежегодную встречу 21 члена Азиатско-Тихоокеанского экономического сотрудничества (АТЭС)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045656/yalta-in-shenzhen",
+   "type": null,
+   "time": "2026-11-19T07:31:26Z",
+   "countries": [
+    "Iran",
+    "China"
+   ]
+  },
+  {
+   "id": "asean-pakistan-vow-to-deepen-ties-expand-trade-s",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности",
+   "summary": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности."
+    }
+   ],
+   "source": "Bernama",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VZFFXc1REVWh0NTk0SThtMUhyLWZqQlJTdDU1aFpGb1NUVWtJOUZ0ZmhSeVk0SmhYSjdrV1A4TzNta2VzUko3TGV6MUlHTWVtLUZYUnZ2M29HWVBSMDZDd1Fn?oc=5",
+   "type": null,
+   "time": "2026-11-19T18:11:52Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "ukraine-strikes-putin-s-prized-crimean-bridge-fo",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Украина в третий раз за неделю ударила по ценному Крымскому мосту Путина",
+   "summary": "Мост – символ российской оккупации Крымского полуострова – серьезно пострадал в результате комбинированного нападения Украины в начале этой недели.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Украина наносит удар по ценному Крымскому мосту Путина в третий раз за неделю."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Мост – символ российской оккупации Крымского полуострова – серьезно пострадал в результате комбинированного нападения Украины в начале этой недели."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
+   "type": null,
+   "time": "2026-11-19T15:00:08Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "airspace-ban-on-indian-aircraft-extended-till-de",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Запрет на полеты индийских самолетов продлен до 24 декабря",
+   "summary": "Пакистан продлил запрет на использование воздушного пространства для индийских самолетов до 24 декабря, согласно Уведомлению для летчиков (Notam), выпущенному Управлением аэропортов Пакистана (PAA). Срок предыдущего продления запрета истекал 24 ноября.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Запрет на полеты индийских самолетов в воздушном пространстве продлен до 24 декабря."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Пакистан продлил запрет на использование воздушного пространства для индийских самолетов до 24 декабря, согласно Уведомлению для летчиков (Notam), выпущенному Управлением аэропортов Пакистана (PAA). Срок предыдущего продления запрета истекал 24 ноября."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045680/airspace-ban-on-indian-aircraft-extended-till-dec-24",
+   "type": null,
+   "time": "2026-11-19T14:00:07Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "why-oil-prices-are-falling-despite-strait-of-hor",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Почему цены на нефть падают, несмотря на риски Ормузского пролива",
+   "summary": "Почему цены на нефть падают, несмотря на риски Ормузского пролива",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Почему цены на нефть падают, несмотря на риски Ормузского пролива."
+    }
+   ],
+   "source": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU8xTURDaWtPMEtkQ3pvMlNRU1hYVndlbjAyTm51QUV1X1hBSldnMmpGRkRrQVRkZFlFaURvUHVoOHRSdVN3TDVPbFkxMGZnalc1eGpTNG5STVJ4SVk0MmdVZGE5aWt0QlNXVXhnY3RTbHVXd2w5VWR4dUUteEZ6YjBVSDdHZjJqMGw3MzRWaFdncVRncktkNEthWmkzY2tMSlNrRjZPWGhQTjUxb291WURaMmk3ZnVxd3dYNFNB?oc=5",
+   "type": null,
+   "time": "2026-11-19T15:26:18Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "somalia-expels-uae-ambassador-accuses-abu-dhabi-",
+   "country": "Somalia",
+   "label": "СОМАЛИЯ",
+   "lat": 5.2,
+   "lon": 46.2,
+   "flag": "🇸🇴",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Сомали высылает посла ОАЭ и обвиняет Абу-Даби в нарушении суверенитета",
+   "summary": "Сомали заявляет, что ОАЭ вмешиваются в ее внутренние дела, совершая действия, которые можно приравнять к «открытому вторжению».",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Сомали высылает посла ОАЭ и обвиняет Абу-Даби в нарушении суверенитета."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Сомали заявляет, что ОАЭ вмешиваются в ее внутренние дела, совершая действия, которые можно приравнять к «открытому вторжению»."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-19T14:34:22Z",
+   "countries": [
+    "Somalia",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "bus-crashes-into-a-fuel-truck-in-southwestern-pa",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Автобус врезался в бензовоз на юго-западе Пакистана, погибли по меньшей мере 10 человек - ABC News",
+   "summary": "Автобус врезался в бензовоз на юго-западе Пакистана, погибли по меньшей мере 10 человек - ABC News",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Автобус врезался в бензовоз на юго-западе Пакистана, погибли по меньшей мере 10 человек - ABC News."
+    }
+   ],
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEg3MEk2UVVuc0pvNkk0UWFrTmxYWFY3YmdpTkpCZzI0R1hTbU95QTRHRHRSUjlWc29FTllRMW5EVjM2b0NRNTZ6enJvdFVlWEU1R0JManF1anZOcm5PMFNlZ2dTbnNmZ0hlN3NhUVBILWRITUxSUXdQMDZPOTl0UktxdFRWQmxteEdjM1FoYmgzclpULUJhV2RSczQwRTJ4eXY0YU1IZGpCSG9K0gGyAUFVX3lxTE1mbHBUTGR4Y0V2Y2kwRGJOWHVzNUJMcnBmRzJ1bXZWNXlvalRfWGJZWEg0NHVNeWItV3B6U2JXOTRoWG5IVDVROVB4R294alJjc05sdmlNcnh3d0RIaG9UemVQQ0JfT2UtT3E1NDRwNVNKdU9DbWlXOUQtMjNzWFdGaW5SdXd5SVdqVzlGbXhRNlU2Tmctam9WcUpLUExvLUZFVTlUSEhBa1dJTDBEaDF0aUE?oc=5",
+   "type": null,
+   "time": "2026-11-19T12:36:17Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "dpm-dar-asean-secretary-general-agree-to-enhance",
+   "country": "Palestine",
+   "label": "ПАЛЕСТИНА",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "ДПМ Дар и генеральный секретарь АСЕАН согласились расширить сотрудничество для решения «нетрадиционных» проблем безопасности",
+   "summary": "Заместитель премьер-министра и министр иностранных дел Исхак Дар и генеральный секретарь Ассоциации государств Юго-Восточной Азии (АСЕАН) д-р Као Ким Хурн договорились расширять сотрудничество в решении «нетрадиционных» проблем безопасности в четверг.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ДПМ Дар, генеральный секретарь АСЕАН, согласен расширять сотрудничество для решения «нетрадиционных» проблем безопасности."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Почему этот шаг?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Заместитель премьер-министра и министр иностранных дел Исхак Дар и генеральный секретарь Ассоциации государств Юго-Восточной Азии (АСЕАН) д-р Као Ким Хурн договорились расширять сотрудничество в решении «нетрадиционных» проблем безопасности в четверг."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
+   "type": null,
+   "time": "2026-11-19T14:05:29Z",
+   "countries": [
+    "Palestine"
+   ]
+  },
+  {
+   "id": "trump-xi-putin-summit-five-things-you-need-to-kn",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Саммит Трамп-Си-Путин: пять вещей, которые вам нужно знать",
+   "summary": "Дональд Трамп, Си Цзиньпин и Владимир Путин провели свой первый трехсторонний саммит в Китае.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саммит Трамп-Си-Путин: пять вещей, которые вам нужно знать."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Каков эффект?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Дональд Трамп, Си Цзиньпин и Владимир Путин провели свой первый трехсторонний саммит в Китае."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-19T18:13:52Z",
+   "countries": [
+    "United States of America",
+    "Russia",
+    "China"
+   ]
+  },
+  {
+   "id": "saudi-arabia-rsf-and-the-shadow-of-the-yemen-war",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Саудовская Аравия, RSF и тень войны в Йемене",
+   "summary": "Саудовская Аравия, RSF и тень войны в Йемене",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саудовская Аравия, RSF и тень войны в Йемене."
+    }
+   ],
+   "source": "horn review",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdzBZc0NhUkJOUXVXdVhnV0ptQ0xab3ZDTGMzQ2hNRVlpWUg1d0FhVzZtSk5VWHYydzFkcmw2dVBpWTBjMEstR2xmYnhvOVpkWU1zQTBoNDVvVy1TTVRJNm95ZHItMlBMVjN3Rksta04wcGtsNWR0enVzRHV4MzJJb3MxZ3BJQzhkSmJj?oc=5",
+   "type": null,
+   "time": "2026-11-19T14:00:50Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-keeps-up-unrelenting-attacks-on-ships-in-th",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Иран продолжает беспощадные нападения на корабли в Ормузском проливе",
+   "summary": "Иран продолжает беспощадные нападения на корабли в Ормузском проливе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран продолжает беспощадные нападения на корабли в Ормузском проливе."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczJXN3dIbXJITGpRV1BQQzdMRlp4QVl0ZE5jZnM2Vk9SNm5tZ2ZJV1NlbXA4em01SGZxM3p3b0FQemFMS0dTNGhhdzdPZzhCdXZDVzJTRXYtRThDWHRQa3dZQzRTOGdPZWxuQThVTGo5RGVzUHluWnNVaWRmNE5XQ2VpSS1aMVZUT3IyOA?oc=5",
+   "type": null,
+   "time": "2026-11-19T15:32:51Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "crude-oil-prices-edge-higher-on-fears-of-escalat",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Цены на сырую нефть растут на фоне опасений эскалации американо-иранского конфликта",
+   "summary": "Цены на сырую нефть растут на фоне опасений эскалации американо-иранского конфликта",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Цены на сырую нефть растут на фоне опасений эскалации американо-иранского конфликта."
+    }
+   ],
+   "source": "Barchart.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVQNFFWQWc4WldBSkN0LThtZkZvejcxRDBIb3U5bGoycEJUYWNaRDJPbXlNbVdudUVZX1drX0xmSzVsOGpPWGdWbi1lMk1CV1U0S2tOYkFIZVhleU0xa0dIeWJ6aW42Zlk0X29WNU1sdXBvWF9rQkVUcllJVVF4dUtNd1JUUHpDakh1S0lvVFgzN2xZUnFUdmVRZFlxRnloZ0JXZFJmbi1NUk0zV25iWF9JamNGdw?oc=5",
+   "type": null,
+   "time": "2026-11-19T16:38:30Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "the-real-world-missile-defense-lessons-from-ukra",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Реальные уроки противоракетной обороны из Украины и Ирана — и какое значение они имеют для Китая",
+   "summary": "Реальные уроки противоракетной обороны из Украины и Ирана — и какое значение они имеют для Китая",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Реальные уроки противоракетной обороны из Украины и Ирана — и какое значение они имеют для Китая."
+    }
+   ],
+   "source": "Breaking Defense",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWlReEY1NVIxMjh6amJOckVmeGE2dlVSRGxNV0p6MVVNbmlxSmVCRXRtOWpGOWIwUVZRczlDOFRCZk1lcmdXRmVHa2N0MUNwYXZ6aTNscHJvUVZrTDBYVC1jU3gwbF82ZlM1TUpxM1h2TWhDbTRUelA2OFBrcXd2ek95LS1OdW9JaDN0UmdpV2lCRHc2S29NNWd4N2xwTXpuTFkwQVdsSTc5VE5pX2EyTjl2cndERWVmTnZ6MnUtVU1JbHM1aFE?oc=5",
+   "type": null,
+   "time": "2026-11-19T16:33:26Z",
+   "countries": [
+    "Ukraine",
+    "Iran",
+    "China"
    ]
   }
  ]
