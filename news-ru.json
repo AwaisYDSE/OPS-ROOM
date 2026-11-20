@@ -1,40 +1,133 @@
 {
- "updated": "2026-11-20T09:13:41.862790Z",
+ "updated": "2026-11-20T17:53:58.146216Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "riyadh-s-tallest-skyscraper-hit-in-houthi-strike",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "saudi-arabia-attacks-yemen-s-houthis-and-interce",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Саудовская Аравия атакует йеменских хуситов и перехватывает новые ракеты и беспилотники, а также другие новости Ближнего Востока",
+   "summary": "Саудовская Аравия атакует йеменских хуситов и перехватывает новые ракеты и беспилотники, а также другие новости Ближнего Востока",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Саудовская Аравия атакует йеменских хуситов и перехватывает новые ракеты и беспилотники, а также другие новости Ближнего Востока."
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG11c0t2cHNUVFlEZEwyWHVQRk40anlnM3ltcWtYOE1hV01IaEswQmpnRExZNEk1Z0xGRkZ0T083cWNGTUhvZUd6YUxwWjVwNjA1djJZZWZZQXh4SjI4SGRLVmtBMzN6Q0cxWVJjMFpJOW5DdUFWVlUtNEF5NW5IcU5sMHNwcmNVZTBfeXZVMWRKMk5HV1UwTGVycE1xd0c3TG9HYQ?oc=5",
+   "type": null,
+   "time": "2026-11-20T16:10:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-unequivocally-condemns-houthi-attack-on",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Business",
-   "headline": "Самый высокий небоскреб Эр-Рияда разрушен в результате удара хуситов по штаб-квартире саудовского фонда благосостояния",
+   "headline": "Пакистан «безоговорочно» осуждает нападение хуситов на самый высокий небоскреб Эр-Рияда",
    "summary": "Пакистан в пятницу «однозначно» осудил нападение хуситов на самый высокий небоскреб Эр-Рияда, который служит штаб-квартирой суверенного фонда благосостояния Саудовской Аравии.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Самый высокий небоскреб Эр-Рияда пострадал в результате удара хуситов по штаб-квартире саудовского фонда благосостояния."
+     "text": "Пакистан «безоговорочно» осуждает нападение хуситов на самый высокий небоскреб Эр-Рияда."
     },
     {
      "role": "COMMANDER",
-     "text": "Есть жертвы?"
+     "text": "Это подтверждено?"
     },
     {
      "role": "ANALYST",
      "text": "Пакистан в пятницу «однозначно» осудил нападение хуситов на самый высокий небоскреб Эр-Рияда, который служит штаб-квартирой суверенного фонда благосостояния Саудовской Аравии."
     }
    ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045872/pakistan-unequivocally-condemns-houthi-attack-on-riyadhs-tallest-skyscraper",
    "type": null,
-   "time": "2026-11-20T03:46:00Z",
+   "time": "2026-11-20T05:24:08Z",
    "countries": [
-    "Yemen",
     "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "musadik-malik-arrives-in-new-delhi-to-attend-sco",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "high",
+   "category": "World",
+   "headline": "Мусадик Малик прибыл в Нью-Дели для участия в диалоговом форуме ШОС",
+   "summary": "Министр по вопросам изменения климата и координации охраны окружающей среды д-р Мусадик Малик прибыл в пятницу в Нью-Дели для участия в Форуме цивилизационного диалога ШОС.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Мусадик Малик прибыл в Нью-Дели для участия в диалоговом форуме ШОС."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Какова ситуация сейчас?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Министр по вопросам изменения климата и координации охраны окружающей среды д-р Мусадик Малик прибыл в пятницу в Нью-Дели для участия в Форуме цивилизационного диалога ШОС."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
+   "type": null,
+   "time": "2026-11-20T12:36:01Z",
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "fo-rejects-india-s-undiplomatic-irresponsible-re",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "FO отвергает «недипломатичные и безответственные» высказывания Индии о минеральных богатствах Пакистана",
+   "summary": "Министерство иностранных дел (FO) в пятницу категорически отвергло «недипломатичные и безответственные» замечания, сделанные Индией в Организации Объединенных Наций относительно минеральных богатств страны.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "FO отвергает «недипломатичные и безответственные» высказывания Индии о минеральных богатствах Пакистана."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Министерство иностранных дел (FO) в пятницу категорически отвергло «недипломатичные и безответственные» замечания, сделанные Индией в Организации Объединенных Наций относительно минеральных богатств страны."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045921/fo-rejects-indias-undiplomatic-irresponsible-remarks-about-pakistans-mineral-wealth",
+   "type": null,
+   "time": "2026-11-20T13:42:50Z",
+   "countries": [
+    "India",
     "Pakistan"
    ]
   },
@@ -56,7 +149,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Понял. Продолжать."
+     "text": "Хорошо, что еще?"
     },
     {
      "role": "ANALYST",
@@ -73,261 +166,33 @@
    ]
   },
   {
-   "id": "europe-s-security-after-abu-dhabi",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Безопасность Европы после Абу-Даби",
-   "summary": "Безопасность Европы после Абу-Даби",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Безопасность Европы после Абу-Даби."
-    }
-   ],
-   "source": "European Council on Foreign Relations",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUVhOdzEyUkRqOUxfVEVrajJUUUFlOTREOG1fTGExbmttMEU3MUV2bnlsUDUyeUExdExrOEZHcng0R09CV0x5bHBkTzk1cERjZF9qWjRwM1lIbGNaUmMwSXRzcU1mV0czeVBQWGh6NE53R3JZ?oc=5",
-   "type": null,
-   "time": "2026-11-20T06:15:00Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-condemns-houthi-militia-attack-on-riyad",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Пакистан осудил нападение хуситов на башню финансового района Эр-Рияда",
-   "summary": "Пакистан осудил нападение хуситов на башню финансового района Эр-Рияда",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан осуждает нападение хуситов на башню финансового района Эр-Рияда."
-    }
-   ],
-   "source": "سانا",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqU1AxbDQ2VFdWQ191aGZvVm9XaFZDbDA0RmNla3JCeE1RdUswQi1EdVU1VklRdEhnS3V6MFM3Sy0wZzBlQVNrdkRIUDNjMUZa?oc=5",
-   "type": null,
-   "time": "2026-11-20T07:20:19Z",
-   "countries": [
-    "Saudi Arabia",
-    "Pakistan",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "senate-republicans-block-bid-to-rein-in-trump-on",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Республиканцы в Сенате заблокировали попытку обуздать Трампа в войне с Ираном",
-   "summary": "Республиканцы в Сенате заблокировали попытку обуздать Трампа в войне с Ираном",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Республиканцы в Сенате блокируют попытку обуздать Трампа в войне с Ираном."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
-   "type": null,
-   "time": "2026-11-19T19:46:59Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "musadik-malik-arrives-in-new-delhi-to-attend-sco",
+   "id": "india-boycott-trophy-ceremony-after-pakistan-han",
    "country": "India",
    "label": "ИНДИЯ",
    "lat": 22.0,
    "lon": 79.0,
    "flag": "🇮🇳",
-   "severity": "high",
-   "category": "World",
-   "headline": "Мусадик Малик прибыл в Нью-Дели для участия в диалоговом форуме ШОС",
-   "summary": "Федеральный министр по вопросам изменения климата и координации охраны окружающей среды д-р Мусадик Малик прибыл в пятницу в Нью-Дели для участия в Форуме цивилизационного диалога ШОС.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Мусадик Малик прибыл в Нью-Дели для участия в диалоговом форуме ШОС."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Насколько это серьезно?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Федеральный министр по вопросам изменения климата и координации охраны окружающей среды д-р Мусадик Малик прибыл в пятницу в Нью-Дели для участия в Форуме цивилизационного диалога ШОС."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
-   "type": null,
-   "time": "2026-11-20T06:23:58Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "oil-prices-gain-as-houthi-attacks-on-riyadh-rais",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на нефть растут, поскольку нападения хуситов на Эр-Рияд вызывают обеспокоенность поставками",
-   "summary": "Цены на нефть растут, поскольку нападения хуситов на Эр-Рияд вызывают обеспокоенность поставками",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Цены на нефть растут, поскольку нападения хуситов на Эр-Рияд вызывают обеспокоенность по поводу поставок."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
-   "type": null,
-   "time": "2026-11-20T02:00:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "somalia-orders-uae-ambassador-to-leave-citing-in",
-   "country": "Somalia",
-   "label": "СОМАЛИЯ",
-   "lat": 5.2,
-   "lon": 46.2,
-   "flag": "🇸🇴",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Сомали приказала послу ОАЭ покинуть страну, сославшись на «вторжение»",
-   "summary": "Сомали приказала послу ОАЭ покинуть страну, сославшись на «вторжение»",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Сомали приказала послу ОАЭ покинуть страну, сославшись на «вторжение»."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
-   "type": null,
-   "time": "2026-11-19T20:09:48Z",
-   "countries": [
-    "Somalia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-minister-makes-rare-india-visit-for-reg",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
    "severity": "info",
-   "category": "Pakistan",
-   "headline": "Министр Пакистана совершил редкий визит в Индию для участия в региональном форуме",
-   "summary": "Министр Пакистана совершил редкий визит в Индию для участия в региональном форуме",
+   "category": "Sports",
+   "headline": "Индия бойкотирует церемонию вручения трофея после того, как Пакистан вручил титул Кубка слепой Азии после поражения",
+   "summary": "Индия бойкотирует церемонию вручения трофея после того, как Пакистан вручил титул Кубка слепой Азии после поражения",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Министр Пакистана совершает редкий визит в Индию для участия в региональном форуме."
+     "text": "Индия бойкотирует церемонию вручения трофея после того, как Пакистан после поражения вручил титул Кубка слепой Азии."
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnpsMm5HWDg4Yk54aHJWcGFYelNMeGtaRmhsTDZQNkEtY080WTBldjVLZ0dONHI3MXViMVh5c28wX1dhQ005Y2xWbElTbmY5Zm8wS1JMSEdnamZPM3VzQWlkdmJXQmFXSXI3SnIxcmdsQVItUWdocFY5dGFBZGRPdTRvTUNmN2I5WERTYThDUk05VmhBcEVpSWNKaU1jQm5DRE9YaEw3bmpyZGdMS0lV?oc=5",
+   "source": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPdXQtQmNGeEhOY3NGVlhJb0tSdHJsZ2trVk5YdTN3ZFg0V2pjX2ZFejEtUTBKTl9uUmdqVXRac0szNEFaYmNRaXl4SUlkeUUzUjkwVXlIeVdfc1ZXSUlLbHZGNW1wcG5seFMxMVBicHlCZTdNdnJUMHgyUHJvR3NRR0pzM3J5TUFxMkJDbXYzc2dldXpBai1XZ3hJWGd0ei15UWNaX3JQTG0zb0RaSHN3dWdnS0dqZGNzcTVpWjMwcC1nSWItUWtNUi10Rk5iVy1IWWs0SDNDYktXeVZQYjRIN2FiMW9DdzNhMXk4X0NRdFI2NXJnVmtRTGMybVFySGhpQVHSAYcCQVVfeXFMTm02VTZnWTd6aFd6eEtwVUpucVp4TXYxb1IwWW5VZE5sZTc2MW1BZnpaM1dJMnlHY2tXY1drRk83TW9DSXBSc1FOS1FnT1dySmlPZVQzZkV5ZlBua09HRWlVNHk3cXJyOTNvNjJ6UW1zTlVFT3h6NFJKbktQMFVNckpJQ1ZWdEg2SV9rRTl1MUtQbVV2T3EyMUpsX2lTcHZrSFZ5WE9pRFMtZTYzenNNS0N0bjdKYW5ZQUc2dllVTHVVYnZEZlVSTXZoblRhTlBmSm5rRkx2cXlTQ29XU2V0QmlfVmxoSGxiOXpVcmVQZ2pqWVlzZnlhSmVPa1J4WnlOcjEzVFZlaTQ?oc=5",
    "type": null,
-   "time": "2026-11-20T04:32:00Z",
+   "time": "2026-11-20T13:56:00Z",
    "countries": [
-    "Pakistan",
-    "India"
+    "India",
+    "Pakistan"
    ]
   },
   {
-   "id": "updates-us-war-on-iran-day-267-houthi-missile-at",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ОБНОВЛЕНИЯ: Война США с Ираном, день 267 — Ракетные удары хуситов по Саудовской Аравии",
-   "summary": "ОБНОВЛЕНИЯ: Война США с Ираном, день 267 — Ракетные удары хуситов по Саудовской Аравии",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ОБНОВЛЕНИЯ: Война США с Ираном, день 267 — Ракетные удары хуситов по Саудовской Аравии."
-    }
-   ],
-   "source": "EA WorldView",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
-   "type": null,
-   "time": "2026-11-20T06:16:33Z",
-   "countries": [
-    "Saudi Arabia",
-    "United States of America",
-    "Iran",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-14-other-nations-welcome-uk-australia-s",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Пакистан и еще 14 стран приветствуют санкции Великобритании и Австралии в отношении израильских поселений",
-   "summary": "Пакистан, наряду с 14 другими странами, приветствовал введение санкций Соединенным Королевством и Австралией в ответ на поселенческую деятельность Израиля на оккупированной палестинской территории и выразил надежду, что эти решения будут стимулировать другие",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан и еще 14 стран приветствуют санкции Великобритании и Австралии в отношении израильских поселений."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистан, наряду с 14 другими странами, приветствовал введение санкций Соединенным Королевством и Австралией в ответ на поселенческую деятельность Израиля на оккупированной палестинской территории и выразил надежду, что эти решения будут стимулировать другие"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements",
-   "type": null,
-   "time": "2026-11-20T05:08:49Z",
-   "countries": [
-    "Pakistan",
-    "United Kingdom",
-    "Australia",
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "asean-pakistan-vow-to-deepen-ties-expand-trade-s",
+   "id": "gold-price-per-tola-plunges-rs15-400-in-pakistan",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
@@ -335,63 +200,37 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности",
-   "summary": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности",
+   "headline": "Цена на золото за толу в Пакистане упала на 15 400 рупий",
+   "summary": "Цена на золото за толу в Пакистане упала на 15 400 рупий",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "АСЕАН и Пакистан обещают углублять связи, расширять торговлю и сотрудничество в области безопасности."
+     "text": "Цена на золото за толу в Пакистане упала на 15 400 рупий."
     }
    ],
-   "source": "bernama",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZSXkzV0QtYmh4eTFpQ1VFSXBzUTdKN052a1FmN0Zxd3NfTlNQb2dZMkkwT3l1OGJLb1NLREpZTEZ2d2hKOVFES3NwRVZ0NFM3UER0aUw5WXU5Z0E?oc=5",
+   "source": "Business Recorder",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIV2QxdENIUzlQVVBsaXJaeVktR09IeHo4Q3h6UWpfT2Q4Ymp2Ylg1TnZzVkd1Y0lULTFuYXRWRjdyQ1o1OUZqcUh6ZDZ6Vllk0gFWQVVfeXFMUEhJUmU0dHoyU0xzNUw0bjFBeFF5SWhvbmtQUmR1XzhUbFNFYkVoR1V3RTRkYkRaV0UwTHM1TlhDN1lJdWRDbXZZT1ZJbDBxSHMwSDJYY2c?oc=5",
    "type": null,
-   "time": "2026-11-19T22:15:36Z",
+   "time": "2026-11-20T09:51:46Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "dubai-and-middle-east-flight-disruption-airlines",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Нарушение рейсов в Дубае и на Ближнем Востоке: авиакомпании продлевают приостановку маршрутов, поскольку Саудовская Аравия сталкивается с новыми нападениями",
-   "summary": "Нарушение рейсов в Дубае и на Ближнем Востоке: авиакомпании продлевают приостановку маршрутов, поскольку Саудовская Аравия сталкивается с новыми нападениями",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Нарушение рейсов в Дубае и на Ближнем Востоке: авиакомпании продлевают приостановку маршрутов, поскольку Саудовская Аравия сталкивается с новыми нападениями."
-    }
-   ],
-   "source": "Condé Nast Traveller Middle East",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9TR3lsV1J1TDZ3ZlFlUDNFZ05PdlQwbll5VS13ZGpoWEtSQ240RGdwdVpwM2w2cmlfVi1jNkJVdGp6VzlCS1c3UGc1Y3dIS0xWdzBXc0V0N0d3RDRUOTExSTc0dmxBR3ZFMWdmQndNamdfbUVXOWw4RTZfWUdnNGxjZU43RklPb0I1WmJwcHFoVnZBRmhOYk1sWUo4TkRkN1dwRFViczFYb0tYSDRENmpxTTVpdE0wZGlycEtZOTNUbVhHYmhnOUpOWGswaW1IVUFsV0pIWHh3Zy1ESUE?oc=5",
-   "type": null,
-   "time": "2026-11-20T07:24:57Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "russian-missile-barrage-damages-kyiv-bridges",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "russian-missile-hits-poland-as-ukraine-s-allies-",
+   "country": "Poland",
+   "label": "ПОЛЬША",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
    "severity": "critical",
    "category": "World",
-   "headline": "Российские ракеты повредили мосты Киева",
-   "summary": "Пять человек были убиты в результате волны ударов, последовавших за успешным нападением Украины на Крымский мост.",
+   "headline": "Российская ракета попала в Польшу во время военных учений союзников Украины, говорит Туск",
+   "summary": "Никто не пострадал и об ущербе не сообщается, однако Варшава назвала случившееся «провокацией» Москвы.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Российские ракетные обстрелы повредили киевские мосты."
+     "text": "Российская ракета поразила Польшу во время военных учений союзников Украины, говорит Туск."
     },
     {
      "role": "COMMANDER",
@@ -399,58 +238,60 @@
     },
     {
      "role": "ANALYST",
-     "text": "Пять человек были убиты в результате волны ударов, последовавших за успешным нападением Украины на Крымский мост."
+     "text": "Никто не пострадал и об ущербе не сообщается, однако Варшава назвала случившееся «провокацией» Москвы."
     }
    ],
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-20T07:03:55Z",
+   "time": "2026-11-20T16:54:29Z",
    "countries": [
+    "Poland",
     "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "gold-prices-are-falling-should-uae-residents-buy",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Цены на золото падают: стоит ли жителям ОАЭ покупать сейчас или подождать дальнейшего падения?",
-   "summary": "Цены на золото падают: стоит ли жителям ОАЭ покупать сейчас или подождать дальнейшего падения?",
+   "id": "saudi-led-coalition-targets-houthi-weapons-smugg",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Коалиция под руководством Саудовской Аравии преследует контрабанду оружия хуситов в порту Ходейда",
+   "summary": "Коалиция под руководством Саудовской Аравии преследует контрабанду оружия хуситов в порту Ходейда",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Цены на золото падают: стоит ли жителям ОАЭ покупать сейчас или подождать дальнейшего падения?"
+     "text": "Коалиция под руководством Саудовской Аравии преследует контрабанду оружия хуситов в порту Ходейда."
     }
    ],
-   "source": "Gulf Business",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3hOd2lfTE44aDhfS3BvVVR3VFUtVURkMmt2a25xbFpybnRPbW1FbzlPRnd2V1Q3QWk1bzZoaFpmVlpfRDZsMXhlRDgzQzJlbmhTVGQtbVRpdHpEVUkxanhZSTdNcjdVd0dEU2VvZVUwaDcxWXktWndCbXp5WkoxMzY5b3JZMkkwc2d4S1Y2eU1ic2NhU09rc1FwZ2Z1WFpfc2lYU2ZIU21hR2RLME0wb3QwRkNLOXVYbEE?oc=5",
-   "type": null,
-   "time": "2026-11-20T06:21:51Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV2s2d2xVNlpZamM1RXpfRURTUFM4eFhHeFBkQVp6TTlLTXZWMjB5WFEwcF8wQ2dqR3U5SDd2VUNKdm1uV2RfV256RHUzUS1ZQWZJdnNlRmJtemxFeUZLR2tLWXhza2EwOVBWUEVPeUJ2VG9aV0R0RjVSWU1wVG8zU3p4RWJQMmhDcjdKOF9XZXBMQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-20T16:30:56Z",
    "countries": [
-    "United Arab Emirates"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "putin-vows-far-more-painful-response-to-ukraine-",
-   "country": "Russia",
-   "label": "РОССИЯ",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
+   "id": "saudi-coalition-and-houthis-exchange-threats-to-",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
-   "category": "World",
-   "headline": "Путин обещает «гораздо более болезненный» ответ на удары Украины по Крымскому мосту",
-   "summary": "Мост – символ российской оккупации Крымского полуострова – серьезно пострадал в результате комбинированного нападения Украины в начале этой недели.",
+   "category": "Middle East",
+   "headline": "Саудовская коалиция и хуситы обмениваются угрозами разбомбить ключевые порты",
+   "summary": "Йеменские хуситы предупредили авиакомпании о военной активности в воздушном пространстве Саудовской Аравии в ближайшие часы.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Путин обещает «гораздо более болезненный» ответ на удары Украины по Крымскому мосту."
+     "text": "Саудовская коалиция и хуситы обмениваются угрозами разбомбить ключевые порты."
     },
     {
      "role": "COMMANDER",
@@ -458,76 +299,258 @@
     },
     {
      "role": "ANALYST",
-     "text": "Мост – символ российской оккупации Крымского полуострова – серьезно пострадал в результате комбинированного нападения Украины в начале этой недели."
+     "text": "Йеменские хуситы предупредили авиакомпании о военной активности в воздушном пространстве Саудовской Аравии в ближайшие часы."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
    "type": null,
-   "time": "2026-11-19T13:07:35Z",
+   "time": "2026-11-20T14:48:04Z",
    "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "minister-insists-referendum-on-new-provinces-wil",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Министр настаивает на том, что референдум по новым провинциям «пройдёт»",
+   "summary": "Министр по делам парламента Тарик Фазал Чаудри в пятницу заявил, что референдум о формировании новых провинций «произойдёт».",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Министр настаивает на том, что референдум по новым провинциям «произойдёт»."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Министр по делам парламента Тарик Фазал Чаудри в пятницу заявил, что референдум о формировании новых провинций «произойдёт»."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045936/minister-insists-referendum-on-new-provinces-will-happen",
+   "type": null,
+   "time": "2026-11-20T17:42:36Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-missiles-and-drone-hit-poland-during-att",
+   "country": "Poland",
+   "label": "ПОЛЬША",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Российские ракеты и беспилотники поразили Польшу во время атак на Украину",
+   "summary": "Российские ракеты и беспилотники поразили Польшу во время атак на Украину",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Российские ракеты и беспилотники поразили Польшу во время атак на Украину."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZVRXJNQ1h2Z3Q2VzhYNjRCSF9TRUQ1dlA5cnJHcGNVZVFtOExfS2tXSF91UGE0U3V3djRERGdPc1dSZXUxSmxoZEpvckxDVGFYQ2RmODJYd1BRcXBhNGV1QlllSGgtREFmTjg3VzVOTEpZRWlHQWFCTFlMU2RwZVpFaXVfV2lINlg1NjJfTDdNZU1GOEE?oc=5",
+   "type": null,
+   "time": "2026-11-20T12:34:00Z",
+   "countries": [
+    "Poland",
     "Russia",
     "Ukraine"
    ]
   },
   {
-   "id": "kushner-trump-open-to-nato-like-security-guarant",
+   "id": "turkish-vessel-begins-oil-and-gas-surveys-off-pa",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Турецкое судно начало разведку нефти и газа у берегов Пакистана",
+   "summary": "Турецкое судно начало разведку нефти и газа у берегов Пакистана",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Турецкое судно начинает разведку нефти и газа у берегов Пакистана."
+    }
+   ],
+   "source": "Turkish Minute",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2paaTY3SGdCVnFGZ0VvOUtpWG1CRnFWR01tN09TdVZPSlJWTnBNcVdWeE9RWWJLT0YyU09Yc3lFRzdEMXo1REllQnRacEQ4STQ0SFgyWnlWZUZBU0xTTkd1UnUxbGgyR1JaV1JwWkVIY1VfSnZuUXAxSE80RURsaTJtUlhrX2lnOTRNdXF1TDRTSS11VkxWdFIzMVXSAaIBQVVfeXFMT25QUzVUZ3NIdDJDYl8xRjZaY2JyVWJOa1ZsRDdhMGlaVUlZcUF0WDVSbFBtU29ZSnQ4UVo4WUZGSmZUbXdKTEhlaFZfb2o3ZnZkNFNPWnBwMV9vaWU0MllfbFFjdnVMMnZFM3R3LWoybk5yQ2dMZzgzbS1La1o0RTU3c0QwWllzeXFNTGpaMHFURzNrY3FNNF9KcTRrTmpodjZn?oc=5",
+   "type": null,
+   "time": "2026-11-20T12:21:10Z",
+   "countries": [
+    "Pakistan",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "pakistan-shaheens-begin-asia-cup-rising-stars-ti",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Пакистанские «Шахины» начали защиту титула «Восходящие звезды Кубка Азии» с победы над ОАЭ в 61 раунде",
+   "summary": "Действующие чемпионы Пакистан Шахинс начали свою кампанию «Восходящие звезды Кубка Азии» с убедительной победы с 61 раундом над Объединенными Арабскими Эмиратами (ОАЭ) в первом матче группы «B» в Дохийском университете науки и технологий в пятницу.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистанские «Шахины» начинают защиту титула «Восходящие звезды Кубка Азии» с победы над ОАЭ в 61 раунде."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Действующие чемпионы Пакистан Шахинс начали свою кампанию «Восходящие звезды Кубка Азии» с убедительной победы с 61 раундом над Объединенными Арабскими Эмиратами (ОАЭ) в первом матче группы «B» в Дохийском университете науки и технологий в пятницу."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045930/pakistan-shaheens-begin-asia-cup-rising-stars-title-defence-with-61-run-win-over-uae",
+   "type": null,
+   "time": "2026-11-20T14:59:35Z",
+   "countries": [
+    "United Arab Emirates",
+    "Pakistan",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "-full-attack-grand-final-contenders-lay-out-thei",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "«Полная атака»: участники Гранд-финала излагают свои боевые планы на рассвете гонок в Дубае",
+   "summary": "«Полная атака»: участники Гранд-финала излагают свои боевые планы на рассвете гонок в Дубае",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "«Полная атака»: участники Гранд-финала излагают свои боевые планы на рассвете гонок в Дубае."
+    }
+   ],
+   "source": "SailGP",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkozSXVVZHJwMW85QzBTOG00cTMwNkI4dl9adTBrWTlCYV9nLXFQN2YwVXdxbzAzQjhDeXRUYVRoM0JCRkoyV01VZl9kcEdHQWJaMEpOWjBwcEJaLU9NV0g1YTkwOUY5WGFCZmtZRmhJQlI3SzBEZkwyYm5IbW1vd2lBSU5YdjYxVThCYmNQMzVNWnhRX0RpRU11NVFXLXR4bW1WLQ?oc=5",
+   "type": null,
+   "time": "2026-11-20T11:35:45Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "poland-condemns-russian-provocation-after-airspa",
+   "country": "Poland",
+   "label": "ПОЛЬША",
+   "lat": 51.9,
+   "lon": 19.1,
+   "flag": "🇵🇱",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Польша осуждает российскую «провокацию» после нарушений воздушного пространства",
+   "summary": "Инциденты произошли, когда европейские войска принимали участие в послевоенных военных учениях на Украине.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Польша осуждает российскую «провокацию» после нарушений воздушного пространства."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Инциденты произошли, когда европейские войска принимали участие в послевоенных военных учениях на Украине."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-20T15:18:26Z",
+   "countries": [
+    "Poland",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "3-takeaways-from-trump-xi-and-putin-s-historic-s",
    "country": "United States of America",
    "label": "СОЕДИНЕННЫЕ ШТАТЫ",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
+   "severity": "watch",
    "category": "World",
-   "headline": "Кушнер: Трамп открыт для гарантий безопасности для Украины, подобных НАТО",
-   "summary": "Президент США Дональд Трамп готов предложить Украине гарантии безопасности, подобные НАТО, заявил посол Джаред Кушнер.",
+   "headline": "3 вывода из исторического саммита Трампа, Си Цзиньпина и Путина",
+   "summary": "Трамп, Путин и Си Цзиньпин опубликовали «совместную декларацию мира» после исторических трехсторонних переговоров, но что они получили от встречи?",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Кушнер: Трамп открыт для гарантий безопасности для Украины, подобных НАТО."
+     "text": "Три вывода из исторического саммита Трампа, Си Цзиньпина и Путина."
     },
     {
      "role": "COMMANDER",
-     "text": "Хорошо, что еще?"
+     "text": "Каков эффект?"
     },
     {
      "role": "ANALYST",
-     "text": "Президент США Дональд Трамп готов предложить Украине гарантии безопасности, подобные НАТО, заявил посол Джаред Кушнер."
+     "text": "Трамп, Путин и Си Цзиньпин опубликовали «совместную декларацию мира» после исторических трехсторонних переговоров, но что они получили от встречи?"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOUxsOWdFb2pKYzNvbzR5cklRbnhFaXdMMENBek1VVVlkLVdSazdBWmxjUWI5TWxrNGIxTmFuLUZxMjRTc0k0Wk9idWxtcEZKR2xrTTRJV05oT0xkX3laSVBzcnd6aUtud085VUNyc0VwU202SkJPN1JMOEw4Rnlfa3c3dTdTc25GM2stUVBWa3DSAZYBQVVfeXFMTmR1OXdhNFBkZEdLQ1c0VXg3MFo3c0FPV0lHV2l3WWNISFZDNF9aN0VNWG02NWJxSG9ydHVZUWY5TzdmQUNwTHRtbkJ1VU5qUWZ5bFJzVG1vOURTczVLTkFkX2phaDhra0pkbER4S20wb1pIS1NBSlAxbmZ6SnpQN19nNlNpUl95RlVVdWs0Qng3M1hlX093?oc=5",
    "type": null,
-   "time": "2026-11-20T04:44:53Z",
+   "time": "2026-11-19T22:58:31Z",
    "countries": [
     "United States of America",
-    "Ukraine"
+    "Russia"
    ]
   },
   {
-   "id": "iraqi-security-forces-to-deploy-in-iran-backed-m",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Иракские силы безопасности будут развернуты в опорном пункте поддерживаемых Ираном ополченцев, заявляют представители службы безопасности",
-   "summary": "Иракские силы безопасности будут развернуты в опорном пункте поддерживаемых Ираном ополченцев, заявляют представители службы безопасности",
+   "id": "the-new-york-times-satellite-images-reveal-the-u",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "Нью-Йорк Таймс. . Спутниковые снимки показывают, что ОАЭ превратили гражданские аэропорты в отколовшихся регионах Сомали в крупные военные объекты. Данные отслеживания рейсов показывают, что США совершали визиты. Объясняет репортер наших визуальных расследований Кристоф Кеттл.",
+   "summary": "Нью-Йорк Таймс. . Спутниковые снимки показывают, что ОАЭ превратили гражданские аэропорты в отколовшихся регионах Сомали в крупные военные объекты. Данные отслеживания рейсов показывают, что США совершали визиты. Объясняет репортер наших визуальных расследований Кристоф Кеттл.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Иракские силы безопасности будут развернуты в опорном пункте поддерживаемых Ираном ополченцев, заявляют представители службы безопасности."
+     "text": "Нью-Йорк Таймс. . Спутниковые снимки показывают, что ОАЭ превратили гражданские аэропорты в отколовшихся регионах Сомали в крупные военные объекты. Данные отслеживания рейсов показывают, что США совершали визиты. Репортер наших визуальных расследований Кристоф Кеттл объясняет.."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3p3ekUySC1lT1U3N1A5azB2VFVYbjVEcTIwcG1SdE9RXzU1QVBTb29YTDhreFJaUXkxaEtCbzlIazZaazVQNW15QnNocUU5SE5FSXBDc0lpTk9hQlhuM0o4TlMzVHhyemRRR2hWQUhIYUJXRkFBVzc0czQxOTl5RHloZkx5Y2VnX2xScGpwU0pnMGo5RHZCWHVGUUw2UHB3cXAtbTdfRDBrNGkzbG5LakF3MXBuNjdVZy13RWJJWHFUN3NaRGlFVzY3Q2k?oc=5",
+   "source": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObjluT1BXeVh5WXN3dHBpVnBnc2E1QVpiVVpqYkRmbGJza05nbmlEaDkwZjNrZ20yYW1xTjBZTHlQQ3hDcXFYbmFYbDFkdi1nWFM5eUxGMS1rejZMNlkza0w2VGZjQjh0SHh3RjY0eHNzQm1DcnFOcTU0dENfRGo4dkVyZVBkMm8zR29YdVZwNnFRR3FMcVY1c0o5c1JUUG1pRXEySmpPQ2tYa3Q3MHJsSzlMaTVMYzNWY2NQZDlLRUZOMDY3?oc=5",
    "type": null,
-   "time": "2026-11-20T07:31:00Z",
+   "time": "2026-11-20T17:40:14Z",
    "countries": [
-    "Iran",
-    "Iraq"
+    "United Arab Emirates",
+    "Somalia",
+    "United States of America"
    ]
   }
  ]
