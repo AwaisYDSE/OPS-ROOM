@@ -1,135 +1,23 @@
 {
- "updated": "2026-11-19T19:11:46.852594Z",
+ "updated": "2026-11-20T09:13:41.862790Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "headquarters-of-saudi-sovereign-fund-damaged-as-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Le siège du Fonds souverain saoudien endommagé lors de l'attaque des Houthis à Riyad",
-   "summary": "Le siège du Fonds souverain saoudien endommagé lors de l'attaque des Houthis à Riyad",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le siège du Fonds souverain saoudien endommagé lors de l'attaque des Houthis à Riyad."
-    }
-   ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUt2S1FLQ01XdnQwd3NpX3U1Skg0UFAyVWxkWDViVXNWS0V2YWt4LU00WWZmbDZEZk9hb2QzLWpXY3RqTEhHZ255bnNOTEdvWnloUlI1bmszYkNaZlFIZGJlckxjSVk0aHduY0R3OXA3MW14OWRFTFo3V2RlakRvQjFhZW9Oemo1SnJPTzd4RGN5M0xGRzk5SXV3?oc=5",
-   "type": null,
-   "time": "2026-11-19T16:17:54Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "factbox-houthi-attacks-on-saudi-arabia-al-monito",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Factbox-Attaques des Houthis contre l'Arabie Saoudite - Al-Monitor",
-   "summary": "Factbox-Attaques des Houthis contre l'Arabie Saoudite - Al-Monitor",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Factbox-Attaques Houthis contre l'Arabie Saoudite - Al-Monitor."
-    }
-   ],
-   "source": "Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTjRuNEVVTzFOWkRSYzhyRVVTWk10LVZscy1jX3JjdFVmYWdIVDJLeDk0SElOOVoyUC1CeVY3WmVHYmRCYTRBeGRtVjExMFpPTWVYdjJlNUZqYzV6MmZzNlRtSGFpZDAwcTZaeUNERDcyU3VERkVDeERTUHBpMVUwX1V2ZnFBZnc?oc=5",
-   "type": null,
-   "time": "2026-11-19T16:20:12Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "houthi-attack-damages-saudi-capital-s-tallest-to",
+   "id": "riyadh-s-tallest-skyscraper-hit-in-houthi-strike",
    "country": "Yemen",
    "label": "YÉMEN",
    "lat": 15.5,
    "lon": 48.0,
    "flag": "🇾🇪",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Une attaque des Houthis endommage la plus haute tour de la capitale saoudienne",
-   "summary": "Une attaque des Houthis endommage la plus haute tour de la capitale saoudienne",
+   "category": "Business",
+   "headline": "Le plus haut gratte-ciel de Riyad touché lors d'une frappe des Houthis contre le siège d'un fonds saoudien",
+   "summary": "Le Pakistan a condamné vendredi « sans équivoque » une attaque des Houthis contre le plus haut gratte-ciel de Riyad, qui sert de siège au fonds souverain de l’Arabie saoudite.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L’attaque des Houthis endommage la plus haute tour de la capitale saoudienne."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0hZSmpRQXJwM2pNbUxHY01JZUd1TkdjdU5YNGZYd1hqMmNES3RoTWRCVm9GYjMwX0x5NkMwb2FicHNjWkhMZ1dQUVNsUW1hblVuQjVLVkhlVUZZRDFiMlcxdWNweTV0NjR6TG43MmFYMjczckZ1SmhzSlZtOFdtZVVsNHZpSk1UVWdRZ0phakNPT05NRUxmOFFmNGtMZw?oc=5",
-   "type": null,
-   "time": "2026-11-19T15:32:00Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "trump-putin-and-xi-release-peace-declaration-aft",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "World",
-   "headline": "Trump, Poutine et Xi publient une « déclaration de paix » après une réunion historique",
-   "summary": "Même si les présidents se sont déjà rencontrés en tête-à-tête, il s'agit de leur première discussion trilatérale.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump, Poutine et Xi publient une « déclaration de paix » après une réunion historique."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Compris. Continue."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Bien que les présidents se soient déjà rencontrés en tête-à-tête, il s'agit de leur première discussion trilatérale."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BblY0ODJpaUlrOGdtV1g4YjAyQzhZLS1TaFIxTDRRSUQ1X0lpcGgyZ18tMDVrZG0zNHJhSmMwampkaG1YNmh2dlRQN3kwM3lzbGtNMEtRYWVYZk0?oc=5",
-   "type": null,
-   "time": "2026-11-19T17:38:22Z",
-   "countries": [
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "pakistan-inch-closer-to-victory-in-second-test-d",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Le Pakistan se rapproche de la victoire lors du deuxième test malgré la riposte du Sri Lanka",
-   "summary": "Le Sri Lanka a monté une arrière-garde déterminée pour éviter une défaite en manche et frustrer le Pakistan lors de la troisième journée du deuxième et dernier test, atteignant 309-9 aux souches du stade de cricket de Rawalpindi jeudi.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan se rapproche de la victoire lors du deuxième test malgré la riposte du Sri Lanka."
+     "text": "Le plus haut gratte-ciel de Riyad a été touché lors de l'attaque des Houthis contre le siège d'un fonds saoudien."
     },
     {
      "role": "COMMANDER",
@@ -137,50 +25,305 @@
     },
     {
      "role": "ANALYST",
-     "text": "Le Sri Lanka a monté une arrière-garde déterminée pour éviter une défaite en manche et frustrer le Pakistan lors de la troisième journée du deuxième et dernier test, atteignant 309-9 aux souches du stade de cricket de Rawalpindi jeudi."
+     "text": "Le Pakistan a condamné vendredi « sans équivoque » une attaque des Houthis contre le plus haut gratte-ciel de Riyad, qui sert de siège au fonds souverain de l’Arabie saoudite."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045665/pakistan-inch-closer-to-victory-in-second-test-despite-sri-lanka-fightback",
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93?oc=5",
    "type": null,
-   "time": "2026-11-19T13:10:42Z",
+   "time": "2026-11-20T03:46:00Z",
    "countries": [
-    "Pakistan",
-    "Sri Lanka"
+    "Yemen",
+    "Saudi Arabia",
+    "Pakistan"
    ]
   },
   {
-   "id": "yalta-in-shenzhen-",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Yalta à Shenzhen ?",
-   "summary": "Shenzhen — Le pôle technologique chinois accueille le rassemblement annuel des 21 membres de la Coopération économique Asie-Pacifique (APEC).",
+   "id": "pakistan-cruise-to-eight-wicket-win-over-sri-lan",
+   "country": "Sri Lanka",
+   "label": "SRI-LANKA",
+   "lat": 7.9,
+   "lon": 80.8,
+   "flag": "🇱🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Le Pakistan remporte une victoire de huit guichets contre le Sri Lanka pour sceller la série de tests 1-0",
+   "summary": "Le Pakistan a remporté une victoire de huit guichets contre le Sri Lanka lors du deuxième et dernier test, poursuivant un objectif de 90 en seulement 13 overs pour sceller la série de deux matches 1-0 vendredi.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Yalta à Shenzhen ?."
+     "text": "Le Pakistan se dirige vers une victoire de huit guichets contre le Sri Lanka pour sceller la série de tests 1-0."
     },
     {
      "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
+     "text": "Compris. Continue."
     },
     {
      "role": "ANALYST",
-     "text": "Shenzhen — Le pôle technologique chinois accueille le rassemblement annuel des 21 membres de la Coopération économique Asie-Pacifique (APEC)."
+     "text": "Le Pakistan a remporté une victoire de huit guichets contre le Sri Lanka lors du deuxième et dernier test, poursuivant un objectif de 90 en seulement 13 overs pour sceller la série de deux matches 1-0 vendredi."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045656/yalta-in-shenzhen",
+   "url": "https://www.dawn.com/news/2045883/pakistan-cruise-to-eight-wicket-win-over-sri-lanka-to-seal-test-series-1-0",
    "type": null,
-   "time": "2026-11-19T07:31:26Z",
+   "time": "2026-11-20T06:30:04Z",
    "countries": [
+    "Sri Lanka",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "europe-s-security-after-abu-dhabi",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "La sécurité de l’Europe après Abou Dhabi",
+   "summary": "La sécurité de l’Europe après Abou Dhabi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La sécurité de l’Europe après Abu Dhabi."
+    }
+   ],
+   "source": "European Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUVhOdzEyUkRqOUxfVEVrajJUUUFlOTREOG1fTGExbmttMEU3MUV2bnlsUDUyeUExdExrOEZHcng0R09CV0x5bHBkTzk1cERjZF9qWjRwM1lIbGNaUmMwSXRzcU1mV0czeVBQWGh6NE53R3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:15:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-condemns-houthi-militia-attack-on-riyad",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Le Pakistan condamne l'attaque des milices Houthis contre la tour du quartier financier de Riyad",
+   "summary": "Le Pakistan condamne l'attaque des milices Houthis contre la tour du quartier financier de Riyad",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan condamne l'attaque des milices Houthis contre la tour du quartier financier de Riyad."
+    }
+   ],
+   "source": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqU1AxbDQ2VFdWQ191aGZvVm9XaFZDbDA0RmNla3JCeE1RdUswQi1EdVU1VklRdEhnS3V6MFM3Sy0wZzBlQVNrdkRIUDNjMUZa?oc=5",
+   "type": null,
+   "time": "2026-11-20T07:20:19Z",
+   "countries": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "senate-republicans-block-bid-to-rein-in-trump-on",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Les Républicains du Sénat bloquent la tentative de freiner Trump sur la guerre en Iran",
+   "summary": "Les Républicains du Sénat bloquent la tentative de freiner Trump sur la guerre en Iran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les Républicains du Sénat bloquent la tentative de freiner Trump sur la guerre en Iran."
+    }
+   ],
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
+   "type": null,
+   "time": "2026-11-19T19:46:59Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "musadik-malik-arrives-in-new-delhi-to-attend-sco",
+   "country": "India",
+   "label": "INDE",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "high",
+   "category": "World",
+   "headline": "Musadik Malik arrive à New Delhi pour participer au forum de dialogue de l'OCS",
+   "summary": "Le ministre fédéral du Changement climatique et de la Coordination environnementale, Musadik Malik, est arrivé vendredi à New Delhi pour participer au Forum de dialogue civilisationnel de l'OCS.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Musadik Malik arrive à New Delhi pour assister au forum de dialogue de l'OCS."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce grave ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le ministre fédéral du Changement climatique et de la Coordination environnementale, Musadik Malik, est arrivé vendredi à New Delhi pour participer au Forum de dialogue civilisationnel de l'OCS."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
+   "type": null,
+   "time": "2026-11-20T06:23:58Z",
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "oil-prices-gain-as-houthi-attacks-on-riyadh-rais",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix du pétrole augmentent alors que les attaques des Houthis contre Riyad suscitent des inquiétudes en matière d'approvisionnement",
+   "summary": "Les prix du pétrole augmentent alors que les attaques des Houthis contre Riyad suscitent des inquiétudes en matière d'approvisionnement",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les prix du pétrole augmentent alors que les attaques des Houthis contre Riyad suscitent des inquiétudes en matière d’approvisionnement."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+   "type": null,
+   "time": "2026-11-20T02:00:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "somalia-orders-uae-ambassador-to-leave-citing-in",
+   "country": "Somalia",
+   "label": "SOMALIE",
+   "lat": 5.2,
+   "lon": 46.2,
+   "flag": "🇸🇴",
+   "severity": "critical",
+   "category": "World",
+   "headline": "La Somalie ordonne à l'ambassadeur des Émirats arabes unis de partir, invoquant une « invasion »",
+   "summary": "La Somalie ordonne à l'ambassadeur des Émirats arabes unis de partir, invoquant une « invasion »",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La Somalie ordonne à l'ambassadeur des Émirats arabes unis de partir, invoquant une « invasion »."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEg3aWNsUnlnMDBWSmdjZGtyWjJrMXROTHFNMXlycC15MU14bzV1UjUwVVJzR1JFek53RDVnV05DSkdtZnVzLUpQdFEyMGFLbDdpZEc0MlNUNzFFVHV2YkxLMnlHd2hBUVA2M1BlaW5OT041Y0s1OERhT1o3YTRXZ2d6aUl4NGs2cFVyRnQ0VmhLOXJUMkRCQWpmZ3FYODMwTU1iekNoelc?oc=5",
+   "type": null,
+   "time": "2026-11-19T20:09:48Z",
+   "countries": [
+    "Somalia",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-minister-makes-rare-india-visit-for-reg",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Le ministre pakistanais effectue une rare visite en Inde pour un forum régional",
+   "summary": "Le ministre pakistanais effectue une rare visite en Inde pour un forum régional",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le ministre pakistanais effectue une rare visite en Inde pour un forum régional."
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnpsMm5HWDg4Yk54aHJWcGFYelNMeGtaRmhsTDZQNkEtY080WTBldjVLZ0dONHI3MXViMVh5c28wX1dhQ005Y2xWbElTbmY5Zm8wS1JMSEdnamZPM3VzQWlkdmJXQmFXSXI3SnIxcmdsQVItUWdocFY5dGFBZGRPdTRvTUNmN2I5WERTYThDUk05VmhBcEVpSWNKaU1jQm5DRE9YaEw3bmpyZGdMS0lV?oc=5",
+   "type": null,
+   "time": "2026-11-20T04:32:00Z",
+   "countries": [
+    "Pakistan",
+    "India"
+   ]
+  },
+  {
+   "id": "updates-us-war-on-iran-day-267-houthi-missile-at",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "MISES À JOUR : Guerre américaine contre l'Iran, jour 267 – Attaques de missiles Houthis contre l'Arabie saoudite",
+   "summary": "MISES À JOUR : Guerre américaine contre l'Iran, jour 267 – Attaques de missiles Houthis contre l'Arabie saoudite",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "MISES À JOUR : Guerre américaine contre l'Iran, jour 267 – Attaques de missiles Houthis contre l'Arabie saoudite."
+    }
+   ],
+   "source": "EA WorldView",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:16:33Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
     "Iran",
-    "China"
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-14-other-nations-welcome-uk-australia-s",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Le Pakistan et 14 autres pays accueillent favorablement les sanctions du Royaume-Uni et de l'Australie contre les colonies israéliennes",
+   "summary": "Le Pakistan, ainsi que 14 autres pays, a salué l'imposition de sanctions par le Royaume-Uni et l'Australie en réponse aux activités de colonisation israéliennes dans le territoire palestinien occupé et a exprimé l'espoir que ces décisions encourageraient d'autres",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan et 14 autres pays saluent les sanctions du Royaume-Uni et de l’Australie contre les colonies israéliennes."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le Pakistan, ainsi que 14 autres pays, a salué l'imposition de sanctions par le Royaume-Uni et l'Australie en réponse aux activités de colonisation israéliennes dans le territoire palestinien occupé et a exprimé l'espoir que ces décisions encourageraient d'autres"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements",
+   "type": null,
+   "time": "2026-11-20T05:08:49Z",
+   "countries": [
+    "Pakistan",
+    "United Kingdom",
+    "Australia",
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -200,29 +343,114 @@
      "text": "L'ASEAN et le Pakistan s'engagent à renforcer leurs liens, à élargir leur coopération commerciale et en matière de sécurité."
     }
    ],
-   "source": "Bernama",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VZFFXc1REVWh0NTk0SThtMUhyLWZqQlJTdDU1aFpGb1NUVWtJOUZ0ZmhSeVk0SmhYSjdrV1A4TzNta2VzUko3TGV6MUlHTWVtLUZYUnZ2M29HWVBSMDZDd1Fn?oc=5",
+   "source": "bernama",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZSXkzV0QtYmh4eTFpQ1VFSXBzUTdKN052a1FmN0Zxd3NfTlNQb2dZMkkwT3l1OGJLb1NLREpZTEZ2d2hKOVFES3NwRVZ0NFM3UER0aUw5WXU5Z0E?oc=5",
    "type": null,
-   "time": "2026-11-19T18:11:52Z",
+   "time": "2026-11-19T22:15:36Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "ukraine-strikes-putin-s-prized-crimean-bridge-fo",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "dubai-and-middle-east-flight-disruption-airlines",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Perturbation des vols à Dubaï et au Moyen-Orient : les compagnies aériennes prolongent les suspensions de liaisons alors que l'Arabie saoudite fait face à de nouvelles attaques",
+   "summary": "Perturbation des vols à Dubaï et au Moyen-Orient : les compagnies aériennes prolongent les suspensions de liaisons alors que l'Arabie saoudite fait face à de nouvelles attaques",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Perturbation des vols à Dubaï et au Moyen-Orient : les compagnies aériennes prolongent la suspension de leurs liaisons alors que l'Arabie saoudite fait face à de nouvelles attaques."
+    }
+   ],
+   "source": "Condé Nast Traveller Middle East",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9TR3lsV1J1TDZ3ZlFlUDNFZ05PdlQwbll5VS13ZGpoWEtSQ240RGdwdVpwM2w2cmlfVi1jNkJVdGp6VzlCS1c3UGc1Y3dIS0xWdzBXc0V0N0d3RDRUOTExSTc0dmxBR3ZFMWdmQndNamdfbUVXOWw4RTZfWUdnNGxjZU43RklPb0I1WmJwcHFoVnZBRmhOYk1sWUo4TkRkN1dwRFViczFYb0tYSDRENmpxTTVpdE0wZGlycEtZOTNUbVhHYmhnOUpOWGswaW1IVUFsV0pIWHh3Zy1ESUE?oc=5",
+   "type": null,
+   "time": "2026-11-20T07:24:57Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "russian-missile-barrage-damages-kyiv-bridges",
+   "country": "Russia",
+   "label": "RUSSIE",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "L’Ukraine frappe le précieux pont de Crimée de Poutine pour la troisième fois en une semaine",
+   "headline": "Un barrage de missiles russes endommage des ponts à Kyiv",
+   "summary": "Cinq personnes ont été tuées dans une vague de frappes qui ont suivi le ciblage réussi par l'Ukraine du pont de Crimée.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Un barrage de missiles russes endommage les ponts de Kyiv."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Cinq personnes ont été tuées dans une vague de frappes qui ont suivi le ciblage réussi par l'Ukraine du pont de Crimée."
+    }
+   ],
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
+   "type": null,
+   "time": "2026-11-20T07:03:55Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gold-prices-are-falling-should-uae-residents-buy",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Les prix de l’or sont en baisse : les résidents des Émirats arabes unis doivent-ils acheter maintenant ou attendre une nouvelle baisse ?",
+   "summary": "Les prix de l’or sont en baisse : les résidents des Émirats arabes unis doivent-ils acheter maintenant ou attendre une nouvelle baisse ?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les prix de l’or sont en baisse : les résidents des Émirats arabes unis doivent-ils acheter maintenant ou attendre une nouvelle baisse ?."
+    }
+   ],
+   "source": "Gulf Business",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3hOd2lfTE44aDhfS3BvVVR3VFUtVURkMmt2a25xbFpybnRPbW1FbzlPRnd2V1Q3QWk1bzZoaFpmVlpfRDZsMXhlRDgzQzJlbmhTVGQtbVRpdHpEVUkxanhZSTdNcjdVd0dEU2VvZVUwaDcxWXktWndCbXp5WkoxMzY5b3JZMkkwc2d4S1Y2eU1ic2NhU09rc1FwZ2Z1WFpfc2lYU2ZIU21hR2RLME0wb3QwRkNLOXVYbEE?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:21:51Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "putin-vows-far-more-painful-response-to-ukraine-",
+   "country": "Russia",
+   "label": "RUSSIE",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Poutine promet une réponse « bien plus douloureuse » aux frappes ukrainiennes sur le pont de Crimée",
    "summary": "Le pont, symbole de l'occupation russe de la péninsule de Crimée, a subi d'importants dommages à la suite d'une attaque conjointe de l'Ukraine en début de semaine.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L’Ukraine frappe le précieux pont de Crimée de Poutine pour la troisième fois en une semaine."
+     "text": "Poutine promet une réponse « bien plus douloureuse » aux frappes ukrainiennes sur le pont de Crimée."
     },
     {
      "role": "COMMANDER",
@@ -233,303 +461,73 @@
      "text": "Le pont, symbole de l'occupation russe de la péninsule de Crimée, a subi d'importants dommages à la suite d'une attaque conjointe de l'Ukraine en début de semaine."
     }
    ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLW9vN21QMXRyQm9yLWM5Y181eS1Va3R6RThxNjdRS3NKVzU4QnRNSTE5ZnBJRTBnUzVYUzhvVElnTW1aTGplYVJjbGtHTjZuYXYwVzJHS0dCUUsyM1hzai0zTTUtV1NyZHVDbXRMTnJJWVE1N3d0U0pJOEV3enFpV0VnaFVNWXp4MDlrdkh5NFg1dEpQN2FkSzRvMXBRbFhtZS1QOFpXcGcyRW4y?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-19T15:00:08Z",
+   "time": "2026-11-19T13:07:35Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Russia",
+    "Ukraine"
    ]
   },
   {
-   "id": "airspace-ban-on-indian-aircraft-extended-till-de",
-   "country": "India",
-   "label": "INDE",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "L'interdiction de l'espace aérien imposé aux avions indiens est prolongée jusqu'au 24 décembre",
-   "summary": "Le Pakistan a prolongé son interdiction de l'espace aérien sur les avions indiens jusqu'au 24 décembre, selon un avis aux aviateurs (Notam) publié par l'Autorité aéroportuaire du Pakistan (PAA). La précédente prolongation de l’interdiction devait expirer le 24 novembre.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'interdiction de l'espace aérien imposé aux avions indiens est prolongée jusqu'au 24 décembre."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le Pakistan a prolongé son interdiction de l'espace aérien sur les avions indiens jusqu'au 24 décembre, selon un avis aux aviateurs (Notam) publié par l'Autorité aéroportuaire du Pakistan (PAA). La précédente prolongation de l’interdiction devait expirer le 24 novembre."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045680/airspace-ban-on-indian-aircraft-extended-till-dec-24",
-   "type": null,
-   "time": "2026-11-19T14:00:07Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "why-oil-prices-are-falling-despite-strait-of-hor",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pourquoi les prix du pétrole baissent malgré les risques liés au détroit d'Ormuz",
-   "summary": "Pourquoi les prix du pétrole baissent malgré les risques liés au détroit d'Ormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pourquoi les prix du pétrole baissent malgré les risques liés au détroit d’Ormuz."
-    }
-   ],
-   "source": "Forbes",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTU8xTURDaWtPMEtkQ3pvMlNRU1hYVndlbjAyTm51QUV1X1hBSldnMmpGRkRrQVRkZFlFaURvUHVoOHRSdVN3TDVPbFkxMGZnalc1eGpTNG5STVJ4SVk0MmdVZGE5aWt0QlNXVXhnY3RTbHVXd2w5VWR4dUUteEZ6YjBVSDdHZjJqMGw3MzRWaFdncVRncktkNEthWmkzY2tMSlNrRjZPWGhQTjUxb291WURaMmk3ZnVxd3dYNFNB?oc=5",
-   "type": null,
-   "time": "2026-11-19T15:26:18Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "somalia-expels-uae-ambassador-accuses-abu-dhabi-",
-   "country": "Somalia",
-   "label": "SOMALIE",
-   "lat": 5.2,
-   "lon": 46.2,
-   "flag": "🇸🇴",
-   "severity": "critical",
-   "category": "World",
-   "headline": "La Somalie expulse l'ambassadeur des Émirats arabes unis et accuse Abou Dhabi de violer sa souveraineté",
-   "summary": "La Somalie affirme que les Émirats arabes unis s'ingèrent dans leurs affaires intérieures par des actions qui s'apparentent à une « invasion ouverte ».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Somalie expulse l'ambassadeur des Émirats arabes unis et accuse Abou Dhabi de violer sa souveraineté."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "La Somalie affirme que les Émirats arabes unis s'ingèrent dans leurs affaires intérieures par des actions qui s'apparentent à une « invasion ouverte »."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-19T14:34:22Z",
-   "countries": [
-    "Somalia",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "bus-crashes-into-a-fuel-truck-in-southwestern-pa",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Un bus s'écrase sur un camion-citerne dans le sud-ouest du Pakistan et au moins 10 personnes sont tuées - ABC News",
-   "summary": "Un bus s'écrase sur un camion-citerne dans le sud-ouest du Pakistan et au moins 10 personnes sont tuées - ABC News",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Un bus percute un camion-citerne dans le sud-ouest du Pakistan et au moins 10 personnes sont tuées - ABC News."
-    }
-   ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEg3MEk2UVVuc0pvNkk0UWFrTmxYWFY3YmdpTkpCZzI0R1hTbU95QTRHRHRSUjlWc29FTllRMW5EVjM2b0NRNTZ6enJvdFVlWEU1R0JManF1anZOcm5PMFNlZ2dTbnNmZ0hlN3NhUVBILWRITUxSUXdQMDZPOTl0UktxdFRWQmxteEdjM1FoYmgzclpULUJhV2RSczQwRTJ4eXY0YU1IZGpCSG9K0gGyAUFVX3lxTE1mbHBUTGR4Y0V2Y2kwRGJOWHVzNUJMcnBmRzJ1bXZWNXlvalRfWGJZWEg0NHVNeWItV3B6U2JXOTRoWG5IVDVROVB4R294alJjc05sdmlNcnh3d0RIaG9UemVQQ0JfT2UtT3E1NDRwNVNKdU9DbWlXOUQtMjNzWFdGaW5SdXd5SVdqVzlGbXhRNlU2Tmctam9WcUpLUExvLUZFVTlUSEhBa1dJTDBEaDF0aUE?oc=5",
-   "type": null,
-   "time": "2026-11-19T12:36:17Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dpm-dar-asean-secretary-general-agree-to-enhance",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Le DPM Dar et le secrétaire général de l'Asean conviennent de renforcer leur coopération pour relever les défis de sécurité « non traditionnels »",
-   "summary": "Le vice-Premier ministre et ministre des Affaires étrangères Ishaq Dar et le secrétaire général de l’Association des nations de l’Asie du Sud-Est (Asean), le Dr Kao Kim Hourn, ont convenu jeudi de renforcer la coopération pour relever les défis de sécurité « non traditionnels ».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le DPM Dar et le secrétaire général de l’Asean conviennent de renforcer la coopération pour relever les défis de sécurité « non traditionnels »."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Pourquoi ce déménagement ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le vice-Premier ministre et ministre des Affaires étrangères Ishaq Dar et le secrétaire général de l’Association des nations de l’Asie du Sud-Est (Asean), le Dr Kao Kim Hourn, ont convenu jeudi de renforcer la coopération pour relever les défis de sécurité « non traditionnels »."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
-   "type": null,
-   "time": "2026-11-19T14:05:29Z",
-   "countries": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "trump-xi-putin-summit-five-things-you-need-to-kn",
+   "id": "kushner-trump-open-to-nato-like-security-guarant",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "watch",
+   "severity": "info",
    "category": "World",
-   "headline": "Sommet Trump-Xi-Poutine : cinq choses à savoir",
-   "summary": "Donald Trump, Xi Jinping et Vladimir Poutine ont tenu leur premier sommet trilatéral en Chine.",
+   "headline": "Kushner : Trump ouvert aux garanties de sécurité de type OTAN pour l'Ukraine",
+   "summary": "Le président américain Donald Trump est prêt à offrir à l’Ukraine des garanties de sécurité similaires à celles de l’OTAN, a déclaré l’envoyé Jared Kushner.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Sommet Trump-Xi-Poutine : cinq choses à savoir."
+     "text": "Kushner : Trump est ouvert aux garanties de sécurité de type OTAN pour l’Ukraine."
     },
     {
      "role": "COMMANDER",
-     "text": "Quel est l'impact ?"
+     "text": "D'accord, quoi d'autre ?"
     },
     {
      "role": "ANALYST",
-     "text": "Donald Trump, Xi Jinping et Vladimir Poutine ont tenu leur premier sommet trilatéral en Chine."
+     "text": "Le président américain Donald Trump est prêt à offrir à l’Ukraine des garanties de sécurité similaires à celles de l’OTAN, a déclaré l’envoyé Jared Kushner."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
    "type": null,
-   "time": "2026-11-19T18:13:52Z",
+   "time": "2026-11-20T04:44:53Z",
    "countries": [
     "United States of America",
-    "Russia",
-    "China"
+    "Ukraine"
    ]
   },
   {
-   "id": "saudi-arabia-rsf-and-the-shadow-of-the-yemen-war",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "L’Arabie saoudite, RSF et l’ombre de la guerre au Yémen",
-   "summary": "L’Arabie saoudite, RSF et l’ombre de la guerre au Yémen",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Arabie saoudite, RSF et l’ombre de la guerre au Yémen."
-    }
-   ],
-   "source": "horn review",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdzBZc0NhUkJOUXVXdVhnV0ptQ0xab3ZDTGMzQ2hNRVlpWUg1d0FhVzZtSk5VWHYydzFkcmw2dVBpWTBjMEstR2xmYnhvOVpkWU1zQTBoNDVvVy1TTVRJNm95ZHItMlBMVjN3Rksta04wcGtsNWR0enVzRHV4MzJJb3MxZ3BJQzhkSmJj?oc=5",
-   "type": null,
-   "time": "2026-11-19T14:00:50Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "iran-keeps-up-unrelenting-attacks-on-ships-in-th",
+   "id": "iraqi-security-forces-to-deploy-in-iran-backed-m",
    "country": "Iran",
    "label": "L'IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "critical",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "L’Iran poursuit ses attaques incessantes contre des navires dans le détroit d’Ormuz",
-   "summary": "L’Iran poursuit ses attaques incessantes contre des navires dans le détroit d’Ormuz",
+   "headline": "Les forces de sécurité irakiennes vont se déployer dans un bastion des milices soutenues par l'Iran, selon des responsables de la sécurité",
+   "summary": "Les forces de sécurité irakiennes vont se déployer dans un bastion des milices soutenues par l'Iran, selon des responsables de la sécurité",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L’Iran poursuit ses attaques incessantes contre les navires dans le détroit d’Ormuz."
+     "text": "Les forces de sécurité irakiennes vont se déployer dans le bastion des milices soutenues par l'Iran, selon des responsables de la sécurité."
     }
    ],
-   "source": "The New York Times",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczJXN3dIbXJITGpRV1BQQzdMRlp4QVl0ZE5jZnM2Vk9SNm5tZ2ZJV1NlbXA4em01SGZxM3p3b0FQemFMS0dTNGhhdzdPZzhCdXZDVzJTRXYtRThDWHRQa3dZQzRTOGdPZWxuQThVTGo5RGVzUHluWnNVaWRmNE5XQ2VpSS1aMVZUT3IyOA?oc=5",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3p3ekUySC1lT1U3N1A5azB2VFVYbjVEcTIwcG1SdE9RXzU1QVBTb29YTDhreFJaUXkxaEtCbzlIazZaazVQNW15QnNocUU5SE5FSXBDc0lpTk9hQlhuM0o4TlMzVHhyemRRR2hWQUhIYUJXRkFBVzc0czQxOTl5RHloZkx5Y2VnX2xScGpwU0pnMGo5RHZCWHVGUUw2UHB3cXAtbTdfRDBrNGkzbG5LakF3MXBuNjdVZy13RWJJWHFUN3NaRGlFVzY3Q2k?oc=5",
    "type": null,
-   "time": "2026-11-19T15:32:51Z",
+   "time": "2026-11-20T07:31:00Z",
    "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "crude-oil-prices-edge-higher-on-fears-of-escalat",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les prix du pétrole brut augmentent en raison des craintes d’une escalade du conflit américano-iranien",
-   "summary": "Les prix du pétrole brut augmentent en raison des craintes d’une escalade du conflit américano-iranien",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les prix du pétrole brut augmentent en raison des craintes d’une escalade du conflit américano-iranien."
-    }
-   ],
-   "source": "Barchart.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakVQNFFWQWc4WldBSkN0LThtZkZvejcxRDBIb3U5bGoycEJUYWNaRDJPbXlNbVdudUVZX1drX0xmSzVsOGpPWGdWbi1lMk1CV1U0S2tOYkFIZVhleU0xa0dIeWJ6aW42Zlk0X29WNU1sdXBvWF9rQkVUcllJVVF4dUtNd1JUUHpDakh1S0lvVFgzN2xZUnFUdmVRZFlxRnloZ0JXZFJmbi1NUk0zV25iWF9JamNGdw?oc=5",
-   "type": null,
-   "time": "2026-11-19T16:38:30Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "the-real-world-missile-defense-lessons-from-ukra",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Les leçons concrètes de l’Ukraine et de l’Iran en matière de défense antimissile – et leur importance pour la Chine",
-   "summary": "Les leçons concrètes de l’Ukraine et de l’Iran en matière de défense antimissile – et leur importance pour la Chine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les leçons concrètes de l’Ukraine et de l’Iran en matière de défense antimissile – et leur importance pour la Chine."
-    }
-   ],
-   "source": "Breaking Defense",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWlReEY1NVIxMjh6amJOckVmeGE2dlVSRGxNV0p6MVVNbmlxSmVCRXRtOWpGOWIwUVZRczlDOFRCZk1lcmdXRmVHa2N0MUNwYXZ6aTNscHJvUVZrTDBYVC1jU3gwbF82ZlM1TUpxM1h2TWhDbTRUelA2OFBrcXd2ek95LS1OdW9JaDN0UmdpV2lCRHc2S29NNWd4N2xwTXpuTFkwQVdsSTc5VE5pX2EyTjl2cndERWVmTnZ6MnUtVU1JbHM1aFE?oc=5",
-   "type": null,
-   "time": "2026-11-19T16:33:26Z",
-   "countries": [
-    "Ukraine",
     "Iran",
-    "China"
+    "Iraq"
    ]
   }
  ]

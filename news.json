@@ -1,9 +1,103 @@
 {
- "updated": "2026-11-20T01:19:21.037212Z",
+ "updated": "2026-11-20T09:13:41.862790Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "saudi-arabia-says-houthi-attack-damaged-riyadh-t",
+   "id": "riyadh-s-tallest-skyscraper-hit-in-houthi-strike",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+   "summary": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan on Friday “unequivocally” condemned a Houthi attack on Riyadh’s tallest skyscraper, which serves as the headquarters of Saudi Arabia’s sovereign wealth fund."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93?oc=5",
+   "type": null,
+   "time": "2026-11-20T03:46:00Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "pakistan-cruise-to-eight-wicket-win-over-sri-lan",
+   "country": "Sri Lanka",
+   "label": "SRI LANKA",
+   "lat": 7.9,
+   "lon": 80.8,
+   "flag": "🇱🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Pakistan cruise to eight-wicket win over Sri Lanka to seal Test series 1-0",
+   "summary": "Pakistan wrapped up an eight-wicket victory over Sri Lanka in the second and final Test, chasing down a target of 90 in just 13 overs to seal the two-match series 1-0 on Friday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan cruise to eight-wicket win over Sri Lanka to seal Test series 1-0."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan wrapped up an eight-wicket victory over Sri Lanka in the second and final Test, chasing down a target of 90 in just 13 overs to seal the two-match series 1-0 on Friday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045883/pakistan-cruise-to-eight-wicket-win-over-sri-lanka-to-seal-test-series-1-0",
+   "type": null,
+   "time": "2026-11-20T06:30:04Z",
+   "countries": [
+    "Sri Lanka",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "europe-s-security-after-abu-dhabi",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Europe’s security after Abu Dhabi",
+   "summary": "Europe’s security after Abu Dhabi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Europe’s security after Abu Dhabi."
+    }
+   ],
+   "source": "European Council on Foreign Relations",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CUVhOdzEyUkRqOUxfVEVrajJUUUFlOTREOG1fTGExbmttMEU3MUV2bnlsUDUyeUExdExrOEZHcng0R09CV0x5bHBkTzk1cERjZF9qWjRwM1lIbGNaUmMwSXRzcU1mV0czeVBQWGh6NE53R3JZ?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:15:00Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-condemns-houthi-militia-attack-on-riyad",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
@@ -11,25 +105,26 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Saudi Arabia says Houthi attack damaged Riyadh tower",
-   "summary": "Saudi Arabia says Houthi attack damaged Riyadh tower",
+   "headline": "Pakistan condemns Houthi militia attack on Riyadh financial district tower",
+   "summary": "Pakistan condemns Houthi militia attack on Riyadh financial district tower",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia says Houthi attack damaged Riyadh tower."
+     "text": "Pakistan condemns Houthi militia attack on Riyadh financial district tower."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2dSRXcyNzdIa2VEZW4zd1NlS2pyb2gwaTkzVUw1aDQ5VDVsdjJDeFJfekYtekhlNFgzRHE0VnNxVXN6dC1ZNUoxaXA1SDZ5VW9QLUl2REU0d3VDdEpFSXNCWDJIaWZtMUJKanU4amNhWExFY29pZzE0RXpnQmVhbFQySl90STgxdkFzTzllTkNUYnBlWWhGSXdOaWRmS0hQUVFVZkw5S0dNbXpZSXpBd184Yll6QdIBuwFBVV95cUxQYmoxb3ZGV0R2YVcycm1LM3phc2FRaWJoTXhMc19TVjhISWJ1ZERTNE9Ra2Exbjg3QjNuZEJMcGltNWZ6Y2N2cHJ4bUcxcWw0aU04Y1RPV3l4dEh6cXVLRDlxSGJubGloeGVSbGZrUTRJcjk2YlRiWGVTT1Znb19xdmgyYlZHYVZua2NvcXlfNW1TdHJ3YmhEOHRzOVpKMkpObTh4Qkw3RUp5OHBlMDRIZ1ZYTVo0X1dxa2s0?oc=5",
+   "source": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqU1AxbDQ2VFdWQ191aGZvVm9XaFZDbDA0RmNla3JCeE1RdUswQi1EdVU1VklRdEhnS3V6MFM3Sy0wZzBlQVNrdkRIUDNjMUZa?oc=5",
    "type": null,
-   "time": "2026-11-19T20:14:23Z",
+   "time": "2026-11-20T07:20:19Z",
    "countries": [
     "Saudi Arabia",
+    "Pakistan",
     "Yemen"
    ]
   },
   {
-   "id": "senate-republicans-in-us-reject-measure-to-limit",
+   "id": "senate-republicans-block-bid-to-rein-in-trump-on",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -37,29 +132,80 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
-   "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
+   "headline": "Senate Republicans Block Bid to Rein in Trump on Iran War",
+   "summary": "Senate Republicans Block Bid to Rein in Trump on Iran War",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure."
+     "text": "Senate Republicans Block Bid to Rein in Trump on Iran War."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0lwWVdqMlEzMDB1SGhlNjZ6cWNDejdBOWtyLVZtalRBcEp4REZEQVdBN0lTVmd1RThCVnFtUzM4OER6SDhGcWNmOEpqdlQ4SDlBZFkzYUR2ZkZBNThQZDNVRkU0U0J0TG9GdUFaZWk0TGFwTGlta1JrbzY5dDNaeGwybjR4c3M?oc=5",
    "type": null,
-   "time": "2026-11-19T20:30:54Z",
+   "time": "2026-11-19T19:46:59Z",
    "countries": [
     "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "musadik-malik-arrives-in-new-delhi-to-attend-sco",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "high",
+   "category": "World",
+   "headline": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum",
+   "summary": "Federal Minister for Climate Change and Environmental Coordination Dr Musadik Malik arrived in New Delhi on Friday to attend the SCO Civilisational Dialogue Forum.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "How serious is it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Federal Minister for Climate Change and Environmental Coordination Dr Musadik Malik arrived in New Delhi on Friday to attend the SCO Civilisational Dialogue Forum."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
+   "type": null,
+   "time": "2026-11-20T06:23:58Z",
+   "countries": [
+    "India"
+   ]
+  },
+  {
+   "id": "oil-prices-gain-as-houthi-attacks-on-riyadh-rais",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns",
+   "summary": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3pQREZDSHE2RmNHdDdGdExDUXhYeWljc2VualVoQ09oQV90WnFQQlZkYW1rWnl5ODJ6N2haaVBDVUY4VmFvRmtLSlZKbU5kR1lHNklrUUR3X3JGc181OHZCUHpXalZFUllBZXVEczJPUUdZZUt1MmpsTEN0MkJGSDNCVHhoa25pZFBSb1lldS1US0VJNVNBWWN1U2VwQmd0WmlQR1RKWmgyS2lyUDVfNHdWeWhzaFhmZ1E?oc=5",
+   "type": null,
+   "time": "2026-11-20T02:00:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -89,68 +235,61 @@
    ]
   },
   {
-   "id": "uae-condemns-houthi-attempt-to-target-areas-in-s",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "UAE Condemns Houthi Attempt to Target Areas in Saudi Arabia",
-   "summary": "UAE Condemns Houthi Attempt to Target Areas in Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE Condemns Houthi Attempt to Target Areas in Saudi Arabia."
-    }
-   ],
-   "source": "Yemen Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wY3JBaFM0Nms3VUFTdXFfQnQ4VTlnalZXZ3k3dTNDZEZ0dnE3UWRleVp0a3l2WkllTGU5TkxUeFgyR05UaGtvanFQTXFCV1B0c3c?oc=5",
-   "type": null,
-   "time": "2026-11-20T01:00:34Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Arab Emirates",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "pakistan-inch-closer-to-victory-in-second-test-d",
+   "id": "pakistan-minister-makes-rare-india-visit-for-reg",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Pakistan inch closer to victory in second Test despite Sri Lanka fightback",
-   "summary": "Sri Lanka mounted a determined rearguard to stave off an innings defeat and frustrate Pakistan on the third day of the second and final Test, reaching 309-9 at stumps at the Rawalpindi Cricket Stadium on Thursday.",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Pakistan Minister Makes Rare India Visit for Regional Forum",
+   "summary": "Pakistan Minister Makes Rare India Visit for Regional Forum",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan inch closer to victory in second Test despite Sri Lanka fightback."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Sri Lanka mounted a determined rearguard to stave off an innings defeat and frustrate Pakistan on the third day of the second and final Test, reaching 309-9 at stumps at the Rawalpindi Cricket Stadium on Thursday."
+     "text": "Pakistan Minister Makes Rare India Visit for Regional Forum."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045665/pakistan-inch-closer-to-victory-in-second-test-despite-sri-lanka-fightback",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnpsMm5HWDg4Yk54aHJWcGFYelNMeGtaRmhsTDZQNkEtY080WTBldjVLZ0dONHI3MXViMVh5c28wX1dhQ005Y2xWbElTbmY5Zm8wS1JMSEdnamZPM3VzQWlkdmJXQmFXSXI3SnIxcmdsQVItUWdocFY5dGFBZGRPdTRvTUNmN2I5WERTYThDUk05VmhBcEVpSWNKaU1jQm5DRE9YaEw3bmpyZGdMS0lV?oc=5",
    "type": null,
-   "time": "2026-11-19T13:10:42Z",
+   "time": "2026-11-20T04:32:00Z",
    "countries": [
     "Pakistan",
-    "Sri Lanka"
+    "India"
    ]
   },
   {
-   "id": "ten-killed-in-pakistan-as-bus-crashes-into-gas-t",
+   "id": "updates-us-war-on-iran-day-267-houthi-missile-at",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
+   "summary": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UPDATES: US War on Iran, Day 267 — Houthi Missile Attacks on Saudi Arabia."
+    }
+   ],
+   "source": "EA WorldView",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2RrVEhkLTl5UDFBVUdjZ1NZTXN2RzgzSnhUUGZ3enFsWVA1ZllBbUc2QU9UNVpkcDN3UUFiMlpfVHZVVzBjYUtScVg1UDFMYmFNLXhjLVc5aG1xSjhRQ0J2ZXpNVHRYbEx2NmxrTXRlZ09BUHdqZ2tuTms2a3pNWGtR?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:16:33Z",
+   "countries": [
+    "Saudi Arabia",
+    "United States of America",
+    "Iran",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pakistan-14-other-nations-welcome-uk-australia-s",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -158,63 +297,32 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Ten killed in Pakistan as bus crashes into gas tanker",
-   "summary": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan.",
+   "headline": "Pakistan, 14 other nations welcome UK, Australia sanctions on Israeli settlements",
+   "summary": "Pakistan, along with 14 other countries, has welcomed the imposition of sanctions by the United Kingdom and Australia in response to Israeli settlement activities in the occupied Palestinian territory and expressed hope that the decisions would encourage other",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ten killed in Pakistan as bus crashes into gas tanker."
+     "text": "Pakistan, 14 other nations welcome UK, Australia sanctions on Israeli settlements."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
-     "text": "Ten people were killed and at least 27 more injured after a passenger bus collided with an LPG tanker in Pakistan."
+     "text": "Pakistan, along with 14 other countries, has welcomed the imposition of sanctions by the United Kingdom and Australia in response to Israeli settlement activities in the occupied Palestinian territory and expressed hope that the decisions would encourage other"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/ten-killed-in-pakistan-as-bus-crashes-into-gas-tanker?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2045854/pakistan-14-other-nations-welcome-uk-australia-sanctions-on-israeli-settlements",
    "type": null,
-   "time": "2026-11-19T21:09:24Z",
+   "time": "2026-11-20T05:08:49Z",
    "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-live-houthis-escalate-attacks-on-saudi-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Houthis escalate attacks on Saudi capital",
-   "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Houthis escalate attacks on Saudi capital."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-19T23:58:40Z",
-   "countries": [
-    "Saudi Arabia",
-    "Iran",
-    "Yemen"
+    "Pakistan",
+    "United Kingdom",
+    "Australia",
+    "Israel",
+    "Palestine"
    ]
   },
   {
@@ -243,37 +351,88 @@
    ]
   },
   {
-   "id": "us-signed-off-on-sales-of-nearly-900-000-ai-chip",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "US signed off on sales of nearly 900,000 AI chips to China in six months",
-   "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+   "id": "dubai-and-middle-east-flight-disruption-airlines",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dubai and Middle East flight disruption: airlines extend route suspensions as Saudi Arabia faces fresh attacks",
+   "summary": "Dubai and Middle East flight disruption: airlines extend route suspensions as Saudi Arabia faces fresh attacks",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US signed off on sales of nearly 900,000 AI chips to China in six months."
+     "text": "Dubai and Middle East flight disruption: airlines extend route suspensions as Saudi Arabia faces fresh attacks."
+    }
+   ],
+   "source": "Condé Nast Traveller Middle East",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORW9TR3lsV1J1TDZ3ZlFlUDNFZ05PdlQwbll5VS13ZGpoWEtSQ240RGdwdVpwM2w2cmlfVi1jNkJVdGp6VzlCS1c3UGc1Y3dIS0xWdzBXc0V0N0d3RDRUOTExSTc0dmxBR3ZFMWdmQndNamdfbUVXOWw4RTZfWUdnNGxjZU43RklPb0I1WmJwcHFoVnZBRmhOYk1sWUo4TkRkN1dwRFViczFYb0tYSDRENmpxTTVpdE0wZGlycEtZOTNUbVhHYmhnOUpOWGswaW1IVUFsV0pIWHh3Zy1ESUE?oc=5",
+   "type": null,
+   "time": "2026-11-20T07:24:57Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "russian-missile-barrage-damages-kyiv-bridges",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian missile barrage damages Kyiv bridges",
+   "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian missile barrage damages Kyiv bridges."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy."
+     "text": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months?traffic_source=rss",
+   "source": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPakxZczdFZVhaTF9WM2h1S3BmckFybXp6ZWdLN3o0R01vY1dJU00yVjBReHAyZWI5Z2pyenBTLTBRTkdlWnBmZkhPNGNWaVJ5emdJOWk0QkowY1hLbkYyS3lCTnM5ZW1GbUN6ZjAyTHpGU1g3WkExYVRZYUdyNzg4NFJ1Mnk?oc=5",
    "type": null,
-   "time": "2026-11-19T21:58:27Z",
+   "time": "2026-11-20T07:03:55Z",
    "countries": [
-    "United States of America",
-    "China"
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "gold-prices-are-falling-should-uae-residents-buy",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Gold prices are falling: Should UAE residents buy now or wait for a further drop?",
+   "summary": "Gold prices are falling: Should UAE residents buy now or wait for a further drop?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Gold prices are falling: Should UAE residents buy now or wait for a further drop?."
+    }
+   ],
+   "source": "Gulf Business",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3hOd2lfTE44aDhfS3BvVVR3VFUtVURkMmt2a25xbFpybnRPbW1FbzlPRnd2V1Q3QWk1bzZoaFpmVlpfRDZsMXhlRDgzQzJlbmhTVGQtbVRpdHpEVUkxanhZSTdNcjdVd0dEU2VvZVUwaDcxWXktWndCbXp5WkoxMzY5b3JZMkkwc2d4S1Y2eU1ic2NhU09rc1FwZ2Z1WFpfc2lYU2ZIU21hR2RLME0wb3QwRkNLOXVYbEE?oc=5",
+   "type": null,
+   "time": "2026-11-20T06:21:51Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   },
   {
@@ -294,7 +453,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -311,183 +470,20 @@
    ]
   },
   {
-   "id": "kushner-says-russia-comfortable-with-nato-like-g",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-   "summary": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-19T19:40:23Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "Germany",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "europe-ready-for-talks-with-russia-on-ending-war",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-20T00:50:24Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "Germany"
-   ]
-  },
-  {
-   "id": "dpm-dar-asean-secretary-general-agree-to-enhance",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges",
-   "summary": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Secretary General of the Association of Southeast Asian Nations (Asean) Dr Kao Kim Hourn agreed to enhance cooperation in addressing “non-traditional” security challenges on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "DPM Dar, Asean secretary general agree to enhance cooperation to address ‘non-traditional’ security challenges."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Deputy Prime Minister and Foreign Minister Ishaq Dar and Secretary General of the Association of Southeast Asian Nations (Asean) Dr Kao Kim Hourn agreed to enhance cooperation in addressing “non-traditional” security challenges on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045678/dpm-dar-asean-secretary-general-agree-to-enhance-cooperation-to-address-non-traditional-security-challenges",
-   "type": null,
-   "time": "2026-11-19T14:05:29Z",
-   "countries": [
-    "Palestine"
-   ]
-  },
-  {
-   "id": "today-in-africa-nov-19-2026-study-estimates-uae-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Today in Africa — Nov. 19, 2026: Study Estimates UAE Imported $56.7 Billion in Undeclared African Gold; Kenyan Marathon Champion Peres Jepchirchir Gets Doping Ban",
-   "summary": "Today in Africa — Nov. 19, 2026: Study Estimates UAE Imported $56.7 Billion in Undeclared African Gold; Kenyan Marathon Champion Peres Jepchirchir Gets Doping Ban",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Today in Africa — Nov. 19, 2026: Study Estimates UAE Imported $56.7 Billion in Undeclared African Gold; Kenyan Marathon Champion Peres Jepchirchir Gets Doping Ban."
-    }
-   ],
-   "source": "OkayAfrica",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNMFEyVlZGZjM5SjA5eFU4ZmgtcGxPS2xPRGVHMWw3Mm9WVnpVZXhqQmRSVV8yZDlPLVFnV2t4RlBNd0xfXzgxM0pBVXJrZjhoRWU2LW9Ra2Vuel8tOEt3VjJ3YkUwREVmcS1kZkdZQlh3R3NaWkpaam1wbUxwb2tXTjhlTDNha3ZITzU5dlZDM2V6UkZJc3JZNVBxY2tmdWVPR3BucVV6M29RVFNIM1d1WUNXZTJhU3RDR2VUZEtad0pCakJDUFhSOTVub29QbXdxUVI0SnNlcmRnc0Y1blFJaHhydm1yQ0RfTS1OY0duTEtHR0t1QWl2MU9hNEtaQ3BpdWJCd2VYeDA4VjFkNWpyNlAtc2JnYjZS?oc=5",
-   "type": null,
-   "time": "2026-11-19T19:04:48Z",
-   "countries": [
-    "United Arab Emirates",
-    "Kenya"
-   ]
-  },
-  {
-   "id": "six-killed-in-suspected-gas-explosion-at-georgia",
-   "country": "Georgia",
-   "label": "GEORGIA",
-   "lat": 42.3,
-   "lon": 43.4,
-   "flag": "🇬🇪",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Six killed in suspected gas explosion at Georgia apartment building",
-   "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Six killed in suspected gas explosion at Georgia apartment building."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-19T23:09:48Z",
-   "countries": [
-    "Georgia"
-   ]
-  },
-  {
-   "id": "california-targets-nvidia-in-china-ai-chip-probe",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
+   "id": "kushner-trump-open-to-nato-like-security-guarant",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "info",
-   "category": "Tech",
-   "headline": "California targets Nvidia in China AI chip probe",
-   "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "category": "World",
+   "headline": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
+   "summary": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "California targets Nvidia in China AI chip probe."
+     "text": "Kushner: Trump open to NATO-like security guarantees for Ukraine."
     },
     {
      "role": "COMMANDER",
@@ -495,66 +491,42 @@
     },
     {
      "role": "ANALYST",
-     "text": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+     "text": "US President Donald Trump is open to offering NATO-like security guarantees to Ukraine, envoy Jared Kushner has said."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
    "type": null,
-   "time": "2026-11-19T23:04:30Z",
+   "time": "2026-11-20T04:44:53Z",
    "countries": [
-    "China"
+    "United States of America",
+    "Ukraine"
    ]
   },
   {
-   "id": "houthi-strike-damages-riyadh-s-tallest-skyscrape",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
+   "id": "iraqi-security-forces-to-deploy-in-iran-backed-m",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Houthi strike damages Riyadh’s tallest skyscraper",
-   "summary": "Houthi strike damages Riyadh’s tallest skyscraper",
+   "headline": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
+   "summary": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthi strike damages Riyadh’s tallest skyscraper."
+     "text": "Iraqi security forces to deploy in Iran-backed militia stronghold, security officials say."
     }
    ],
    "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlellNcl9iOFk5YURTaUJXSTRKZkVTWk13NUhyS3ptX3VUOVMzVkV4VFdGQjZpQU9DMFdkNUNXMUZuNWl5SWxxdTZUcXIyNE1NM3VaOHBGWG41RThNQjJ3WjA1Tm0zU28?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3p3ekUySC1lT1U3N1A5azB2VFVYbjVEcTIwcG1SdE9RXzU1QVBTb29YTDhreFJaUXkxaEtCbzlIazZaazVQNW15QnNocUU5SE5FSXBDc0lpTk9hQlhuM0o4TlMzVHhyemRRR2hWQUhIYUJXRkFBVzc0czQxOTl5RHloZkx5Y2VnX2xScGpwU0pnMGo5RHZCWHVGUUw2UHB3cXAtbTdfRDBrNGkzbG5LakF3MXBuNjdVZy13RWJJWHFUN3NaRGlFVzY3Q2k?oc=5",
    "type": null,
-   "time": "2026-11-19T21:43:38Z",
+   "time": "2026-11-20T07:31:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "press-release-emirates-unveils-new-first-class-l",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Press Release: Emirates unveils new First Class Lounge in Dubai",
-   "summary": "Press Release: Emirates unveils new First Class Lounge in Dubai",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Press Release: Emirates unveils new First Class Lounge in Dubai."
-    }
-   ],
-   "source": "Runway Girl",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1ctN3pVeklDTEt5bVlpM3RHYVA3QUF0VHZkdFNRZmJVRmRVeXdXWG9QcmUtVUJKNUhfTXZEV0FPWFNUYXllTFptNFhTekxIbXE3bDQ1VzN1N3NaRU5fQ3ExTXMxdDFsVG0tRVFla0RLcERDcTdaelplYUZlTVNFRHZrOUFFUFQ0WlNQcDBIcWg?oc=5",
-   "type": null,
-   "time": "2026-11-19T16:06:28Z",
-   "countries": [
-    "United Arab Emirates"
+    "Iran",
+    "Iraq"
    ]
   }
  ]
