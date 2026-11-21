@@ -1,42 +1,7 @@
 {
- "updated": "2026-11-21T15:39:21.101638Z",
+ "updated": "2026-11-21T21:13:06.432127Z",
  "generator": "rss",
  "stories": [
-  {
-   "id": "tankers-hit-in-strait-of-hormuz-as-iran-tightens",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-21T15:01:18Z",
-   "countries": [
-    "Iran",
-    "United Kingdom",
-    "Oman"
-   ]
-  },
   {
    "id": "saudi-led-coalition-intercepts-three-houthi-miss",
    "country": "Saudi Arabia",
@@ -57,10 +22,69 @@
    "source": "Al Jazeera",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
    "type": null,
-   "time": "2026-11-21T04:40:12Z",
+   "time": "2026-11-21T16:32:53Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
+   ]
+  },
+  {
+   "id": "russia-bound-ship-attacked-in-gulf-of-finland",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russia-bound ship attacked in Gulf of Finland",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russia-bound ship attacked in Gulf of Finland."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+   "type": null,
+   "time": "2026-11-21T18:22:09Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "endurance-athlete-swims-strait-of-hormuz-to-high",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Endurance athlete swims Strait of Hormuz to highlight Iran war’s impact on wildlife",
+   "summary": "Endurance athlete swims Strait of Hormuz to highlight Iran war’s impact on wildlife",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Endurance athlete swims Strait of Hormuz to highlight Iran war’s impact on wildlife."
+    }
+   ],
+   "source": "Anchorage Daily News",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORm1OUi1faV9IQVROYU82LU9hUklEcm1Ta0NFVEtIWE1oZlowbjdodURHdm52QVNXeXNEMHB6ZERCSW9kQi0wa0cxTndyaGZiS3l1Z05nb1Bqbm9rWkVPU2dKR2NwX181Snc2Mkh3bXU1T0pVMjZlamRhNEE1bEtQTVoyUlNrUS1hSTZ5SHU3LWl6cC1CaTk4Yndma2w5Vms5X1ljUmNESXJ6Z3M0Tmpna2MxaWVHTUI2UmlNTEszeUxMMkRKQnc?oc=5",
+   "type": null,
+   "time": "2026-11-21T20:31:46Z",
+   "countries": [
+    "Iran"
    ]
   },
   {
@@ -91,36 +115,72 @@
    ]
   },
   {
-   "id": "deadly-fire-engulfs-power-station-in-southern-ir",
-   "country": "Iraq",
-   "label": "IRAQ",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
+   "id": "tankers-hit-in-strait-of-hormuz-as-iran-tightens",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Deadly fire engulfs power station in southern Iraq",
-   "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+   "category": "Business",
+   "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Deadly fire engulfs power station in southern Iraq."
+     "text": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
-     "text": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex."
+     "text": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T11:02:29Z",
+   "time": "2026-11-21T15:01:18Z",
    "countries": [
-    "Iraq"
+    "Iran",
+    "United Kingdom",
+    "Oman"
+   ]
+  },
+  {
+   "id": "trump-says-he-wants-permanent-deal-with-iran-war",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+   "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the situation now?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-21T18:00:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -149,126 +209,164 @@
    ]
   },
   {
-   "id": "trump-says-iran-wants-a-deal-saudi-arabia-and-ye",
+   "id": "uae-president-u-s-homeland-security-secretary-di",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "UAE President, U.S. Homeland Security Secretary discuss regional developments",
+   "summary": "UAE President, U.S. Homeland Security Secretary discuss regional developments",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE President, U.S. Homeland Security Secretary discuss regional developments."
+    }
+   ],
+   "source": "سانا",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2X1liWUpfQWU0YmE3RFZlRTBNdkFrNVpPWEJyeFJQYWl1dk5GQ1VqOGc2a2VDcGl0NWZSUUlzcmZINEJtek44Z21xSTAyN2h0?oc=5",
+   "type": null,
+   "time": "2026-11-21T20:28:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "us-denies-iranian-account-that-missile-damaged-j",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and other Mideast news",
-   "summary": "Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and other Mideast news",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US denies Iranian account that missile damaged jet over Gulf",
+   "summary": "US denies Iranian account that missile damaged jet over Gulf",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump says Iran wants a deal, Saudi Arabia and Yemen's Houthis exchange fire and other Mideast news."
+     "text": "US denies Iranian account that missile damaged jet over Gulf."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWG11c0t2cHNUVFlEZEwyWHVQRk40anlnM3ltcWtYOE1hV01IaEswQmpnRExZNEk1Z0xGRkZ0T083cWNGTUhvZUd6YUxwWjVwNjA1djJZZWZZQXh4SjI4SGRLVmtBMzN6Q0cxWVJjMFpJOW5DdUFWVlUtNEF5NW5IcU5sMHNwcmNVZTBfeXZVMWRKMk5HV1UwTGVycE1xd0c3TG9HYQ?oc=5",
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzNFRloyeHFlSzVDdlhfM2JGRmktWTdJdW94OWFOMW1kVHVoU1lYQTB0dlk5TDMxSHhFYTdlaGdaSDV2TXJGZzNVdkt2N204Y2JBaV8xcUlVdWNUQXJ5Q0xRdjFRUXVQeURYNTJ0V3NVOVRQZEt5WFV5UkV0NHFwa0tfZy1XUy1TaUtKaUwzN3BteFBkbFhyZDNESXNHWUFpaWhMUkNKV1ZJa0hEZkVz?oc=5",
    "type": null,
-   "time": "2026-11-20T20:46:00Z",
+   "time": "2026-11-21T15:57:24Z",
    "countries": [
     "United States of America",
-    "Iran",
-    "Saudi Arabia",
-    "Yemen"
+    "Iran"
    ]
   },
   {
-   "id": "pakistan-drop-rizwan-and-masood-but-back-babar-a",
+   "id": "somalia-uae-rift-72-hour-deadline-ends-as-gcc-ba",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Somalia UAE rift: 72-hour deadline ends as GCC backs UAE",
+   "summary": "Somalia UAE rift: 72-hour deadline ends as GCC backs UAE",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Somalia UAE rift: 72-hour deadline ends as GCC backs UAE."
+    }
+   ],
+   "source": "DNE Africa",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNDFZajRUVFF0T2NLZXRSMU9vWjc5Wngwd3lkSzZOUGhTWmNGamxKTkw3c1hhUl9RM3hLYnBaTUFoWGxOM3JOdFVwRTI2aDEzTjFfLV9VWVlXNlRGaFd3dg?oc=5",
+   "type": null,
+   "time": "2026-11-21T17:50:00Z",
+   "countries": [
+    "United Arab Emirates",
+    "Somalia"
+   ]
+  },
+  {
+   "id": "security-forces-kill-15-terrorists-in-balochista",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
+   "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
-   "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
+   "headline": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "summary": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul."
+     "text": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
-     "text": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed."
+     "text": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
    "type": null,
-   "time": "2026-11-21T11:35:42Z",
+   "time": "2026-11-21T17:17:00Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "china-pakistan-military-ties-could-pose-two-fron",
+   "id": "sweden-pakistan-hold-talks-to-modernize-bilatera",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "high",
+   "severity": "watch",
    "category": "Pakistan",
-   "headline": "China-Pakistan military ties could pose two-front challenge for India, US commission warns",
-   "summary": "China-Pakistan military ties could pose two-front challenge for India, US commission warns",
+   "headline": "Sweden, Pakistan hold talks to modernize bilateral investment treaty",
+   "summary": "Sweden, Pakistan hold talks to modernize bilateral investment treaty",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "China-Pakistan military ties could pose two-front challenge for India, US commission warns."
+     "text": "Sweden, Pakistan hold talks to modernize bilateral investment treaty."
     }
    ],
-   "source": "The Federal",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkdKdVhsMUR1ajQtM0JPUDZXb2lNVF9zSHJITFozdDdTcmFRLWJuS3NnWHZqQjc2NElpTGxjd2V3TkMtZXFPdHpEaHVfQXU2MkROb244Y0pHX2FpQ0xjYWtmaWNMMVppNWlsVGlxLUN5Uk9nMmZ3N19FV1UzR0Y1Nmg2aHlraE9NLXhKYThjOFV4VDRHOTc3VlRpeHJrTkx0dV9mdnBpTjNzVlV6M0RBZGVNNVQwM3ZrQi1RNmlObVpDd2I1cjJMaWcxb3RLdw?oc=5",
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWZuTHhDZU1hb0tfWVBGc3pOeVlSekY5MUliUlZTWl81WGQzS0E3SmctVzNVcldWNzhQS0JMUnF1ckxGOXpjT2NDVUpsMFVlbEctWE9ManRPM2RsNmtCLThvSV9lWDVaV0tzVzJmVmJUNjFraWlDWmhRc1NZWC1DcjI3NjZPZG1FdGNqMUFxNzRRMDFBYjFxVXFDbHl6Qzc4UVZqSzByWVlxYXBB?oc=5",
    "type": null,
-   "time": "2026-11-21T10:50:09Z",
+   "time": "2026-11-21T07:42:59Z",
    "countries": [
-    "Pakistan",
-    "China",
-    "India",
-    "United States of America"
+    "Pakistan"
    ]
   },
   {
-   "id": "iran-says-it-downed-us-drones-over-hormuz-as-bid",
+   "id": "iran-says-oil-tanker-catches-fire-after-hitting-",
    "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-   "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
+   "headline": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz",
+   "summary": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran says it downed US drones over Hormuz as bid to end war remains stalled."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'."
+     "text": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2w5djk4dFoyN3FVV0p0NVJlQzNmZjh2cFlDbTRMUHRMclRfaHpDNzZEUlo0Y0xxX0hYWVpHWmpXQ1lPUzc1cTZQdENTUnVtX2FoZnFxZUhaS3d2Z28zd0tkMkcyaUdCVjIzYndDMUpyM0txOThEYVkxSGRUU2VzVmZjaEpKR1AtaFRDYm42ZzFScG9RUWk4MEpYUWtnWjFyWFlzXzROZkI2VFhqdXBOMkd3cw?oc=5",
    "type": null,
-   "time": "2026-11-21T09:30:24Z",
+   "time": "2026-11-21T14:59:56Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Iran"
    ]
   },
   {
@@ -306,226 +404,20 @@
    ]
   },
   {
-   "id": "dw-news-a-british-endurance-athlete-swam-in-the-",
-   "country": "United Kingdom",
-   "label": "UNITED KINGDOM",
-   "lat": 52.5,
-   "lon": -1.5,
-   "flag": "🇬🇧",
+   "id": "israeli-strike-hits-food-aid-vehicle-in-gaza-kil",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
    "severity": "critical",
-   "category": "World",
-   "headline": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while",
-   "summary": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while."
-    }
-   ],
-   "source": "Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb2R3NGQ3VXdzWWxJTmVUeXNHdjMycmFZWmxjbE5sQTFteFVfUFNpSlFSVTZDaXFUSTR0QUhyUGE5ZkJrSXJYRF9PS0J3VHUyaE5HOFp4QV85MmNqM3NIYjRfckJXWlZhZ0FGc04wREdaSmhMUDVzbUF4dDFfSjBzdlBfdndPNmxjblBIVDhPYnhXOVRDcEFUVkxYU3gwVU5RS3F3c1JPLTJGNExYSnBYVTFJQ2FkUFNfUkZFSTFHTmpqaGNGWklCWWhVUnlrMFFkU0tNLWY2VmdwSERHVndiaFR3?oc=5",
-   "type": null,
-   "time": "2026-11-21T13:30:12Z",
-   "countries": [
-    "United Kingdom",
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-strikes-3-tankers-as-it-shows-off-missile-l",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
    "category": "Middle East",
-   "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
-   "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+   "headline": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news."
-    }
-   ],
-   "source": "ClickOnDetroit | WDIV Local 4",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEpMQUc2azBPMGhYSjc2Q2RtcHdReHA5bjBSUTk3VzFlYTZNNDFwaEZtTHZVTGFKYVZBRkFYYVFxMWlLbnkwajlsMHJkTk9WeC04ZmRqQTFBRkN0eWdYQzNKS1E2bnBaWi1OMG9ZVkc5ZGdYb0VLaHhnZGlMQ2R3Y3dPZzcxaDRHTFBaZkZfZ2t0T0V6RUR6aG15Q1ZKVF9hLWdnN0ZaRWRvRmhwa1VTVEhNSDNocUZEbUNVdy1YZmtSOHJzdWxiZFlWRGszUQ?oc=5",
-   "type": null,
-   "time": "2026-11-21T14:43:49Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "zelensky-says-crimean-bridge-strikes-fair-respon",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-   "type": null,
-   "time": "2026-11-21T13:17:38Z",
-   "countries": [
-    "Ukraine",
-    "United Kingdom",
-    "Russia"
-   ]
-  },
-  {
-   "id": "oil-minister-uae-s-irh-discuss-partnership",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Minister, UAE’s IRH discuss partnership",
-   "summary": "Oil Minister, UAE’s IRH discuss partnership",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Minister, UAE’s IRH discuss partnership."
-    }
-   ],
-   "source": "الهيئة العامة للاستعلامات",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVVpkNk9BbndmODV6Uk0xbnJnZkx0ZVp5aThWeE5RMzk1NEtRUFJrT0RrdnI3cmZIU2tpc2hIYU9yd1VVSEttMW5USjltQWhyV3dmc1R1VmtKVi15UjdNdEJrWHVuX0JQcTF2N1RLVV9kVHdtaUlTZlBmS1ZwVzNQc1ZjM28zbU0yeUhV?oc=5",
-   "type": null,
-   "time": "2026-11-21T12:13:01Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "basilinna-on-the-new-rules-of-fintech-how-saudi-",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Basilinna on The New Rules of Fintech: How Saudi Arabia, the UAE and Egypt Are Reshaping Market Entry",
-   "summary": "Basilinna on The New Rules of Fintech: How Saudi Arabia, the UAE and Egypt Are Reshaping Market Entry",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Basilinna on The New Rules of Fintech: How Saudi Arabia, the UAE and Egypt Are Reshaping Market Entry."
-    }
-   ],
-   "source": "Pekingnology",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16dHRZOG1NamRCZ0p3cGFQLWMwelBPeDlrdDZVTjlPN3NyUGtOYktWZkNPeGxSSnd3RFpjcElGT2Uzck1OQXpfd2hyRTZTSnNyNHRWak5VTnNlUmxObFZKSFhfS3Bwc2Y0V0lwQTBGbnBFS3U4WlBJ?oc=5",
-   "type": null,
-   "time": "2026-11-21T03:11:18Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia",
-    "Egypt"
-   ]
-  },
-  {
-   "id": "russian-missiles-hit-poland-what-happened-and-co",
-   "country": "Poland",
-   "label": "POLAND",
-   "lat": 51.9,
-   "lon": 19.1,
-   "flag": "🇵🇱",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian missiles hit Poland: What happened, and could NATO respond?",
-   "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian missiles hit Poland: What happened, and could NATO respond?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-21T11:02:49Z",
-   "countries": [
-    "Poland",
-    "Russia"
-   ]
-  },
-  {
-   "id": "diallo-present-as-africa-football-boss-motsepe-r",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "Sports",
-   "headline": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
-   "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Diallo present as Africa football boss Motsepe reiterates Infantino support."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay. Details?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-21T15:20:43Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "rescue-efforts-under-way-as-drones-hit-russian-s",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Rescue efforts under way as drones hit Russian ship off Finland coast",
-   "summary": "Two drones attack a cargo ship that Finnish authorities say has links to Russia's armed forces.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rescue efforts under way as drones hit Russian ship off Finland coast."
+     "text": "Israeli strike hits food aid vehicle in Gaza, killing three."
     },
     {
      "role": "COMMANDER",
@@ -533,15 +425,104 @@
     },
     {
      "role": "ANALYST",
-     "text": "Two drones attack a cargo ship that Finnish authorities say has links to Russia's armed forces."
+     "text": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T12:45:24Z",
+   "time": "2026-11-21T17:54:19Z",
    "countries": [
-    "Russia"
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "russian-strike-kills-two-wounds-60-in-zelenskyy-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T17:20:03Z",
+   "countries": [
+    "Ukraine",
+    "Russia",
+    "Poland",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "dubai-airport-traffic-falls-but-shows-signs-of-r",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+   "summary": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War."
+    }
+   ],
+   "source": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
+   "type": null,
+   "time": "2026-11-21T19:10:08Z",
+   "countries": [
+    "United Arab Emirates",
+    "Iran"
+   ]
+  },
+  {
+   "id": "asia-cup-2026-for-blind-controversy-continues-as",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win",
+   "summary": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win."
+    }
+   ],
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRCbnFHWnh5TjBrSmpBMlBBSF9BREFSQlZsWEZrRURhS3RXaGpoWkI1YkpFdjI4X0IxeEd3RDg2eHc3YlBmdlJvQ2x5ekV1UVFTbndDMFJVQmZaSWF0YjdTRjlGVmoxckdhVUpEalZQS1BFeUlpdVZBRnk3LU9QaWtNanpoMlU?oc=5",
+   "type": null,
+   "time": "2026-11-21T17:48:01Z",
+   "countries": [
+    "India",
+    "Pakistan"
    ]
   }
  ]
