@@ -1,7 +1,42 @@
 {
- "updated": "2026-11-21T07:20:45.934686Z",
+ "updated": "2026-11-21T15:39:21.101638Z",
  "generator": "rss",
  "stories": [
+  {
+   "id": "tankers-hit-in-strait-of-hormuz-as-iran-tightens",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T15:01:18Z",
+   "countries": [
+    "Iran",
+    "United Kingdom",
+    "Oman"
+   ]
+  },
   {
    "id": "saudi-led-coalition-intercepts-three-houthi-miss",
    "country": "Saudi Arabia",
@@ -12,32 +47,84 @@
    "severity": "critical",
    "category": "Middle East",
    "headline": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-   "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+   "summary": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
    "lines": [
     {
      "role": "OPERATOR",
      "text": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3ZhbEhHbVN4RWdTZWVLWGlFQnl1UlkySGFjTEd3NEJHaHBDeXZuclpCc1ZLNy1Fa0oxSlVJQlRLVmhCV1hkdFpPUVZ6Y2JXcDlhMDExaGpIOHM1RUhHVmlOMmV2SXVydFU3UWtvdVUxalkxUHRNdXg2Q2JZVG1WN3otT1lKaU4yVGwyUUJVVnJ4QkREb0tnVGZCdG5TQTFyUk1SSWZHMEhrclVTeVlUenVR0gG3AUFVX3lxTFBVWGExdVo0WFJQdkYxTTRNRVpBaFdBSzdObGNjOWZQVDJtTVZyNW9yQUEwbGtHU092TW1BY0FSY3dBc25wZVp2QjFIZnRLOE9RMFhLMWpjY0R1TVhUUWhubENJaE44Z1JMdDBXQWJqMDlGNVhzT2pHWEpONXhZUFcwWWE0bUtRb2xZV1VkUXZVS00xVmcwa0x1eWx5dHpES2FwcUQwV043NExycnNQb0ltbWw2QlF6OA?oc=5",
    "type": null,
-   "time": "2026-11-21T04:32:07Z",
+   "time": "2026-11-21T04:40:12Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "gold-price-in-pakistan-for-today-november-21-202",
+   "id": "pakistan-backs-saudi-arabia-s-right-to-defend-it",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Pakistan backs Saudi Arabia’s right to defend itself after Houthi attacks target Riyadh",
+   "summary": "Pakistan backs Saudi Arabia’s right to defend itself after Houthi attacks target Riyadh",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan backs Saudi Arabia’s right to defend itself after Houthi attacks target Riyadh."
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTV3dFYzbDBtLWRDTEFUdmIzYWN1allncDR6VUxDem9jS2hDd2J5aVV1eW1GVTN2X1FINUx5OFluRC00SmNPMzFaSzYzRXNPdDZPVnl2bWRvcE54OFR2czVRVXRvZFFWUTk1bWxJTEUzWlQ5NlU4LThUWHVRTFgybWQ3S0paNXlxT21PYTMyaVpLc2JtWXpyZEN1M3RsTWdZeEYwb3A1LW9ORHNORDV1QTdEU3N5bTdERFVCX0ZPaUhzM2lWVEE?oc=5",
+   "type": null,
+   "time": "2026-11-21T07:48:57Z",
+   "countries": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "deadly-fire-engulfs-power-station-in-southern-ir",
+   "country": "Iraq",
+   "label": "IRAQ",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Deadly fire engulfs power station in southern Iraq",
+   "summary": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Deadly fire engulfs power station in southern Iraq."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T11:02:29Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "gold-price-drops-by-rs3-500-per-tola-in-pakistan",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -45,107 +132,20 @@
    "flag": "🇵🇰",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Gold price in Pakistan for today, November 21, 2026",
-   "summary": "Gold price in Pakistan for today, November 21, 2026",
+   "headline": "Gold price drops by Rs3,500 per tola in Pakistan",
+   "summary": "Gold price drops by Rs3,500 per tola in Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gold price in Pakistan for today, November 21, 2026."
+     "text": "Gold price drops by Rs3,500 per tola in Pakistan."
     }
    ],
    "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVW1aY2JxQzRwWk5DRWdfLU0xTlEtSXNjd0RzVlJXVl85c3hiZnprN0cwS2xFMkZJUTZQVG1PdS1VQjJiMEVyTUZuMHoxZFluR1VfUUZNYUczUDJRd1poc0F6UGJLWHdEQ0JTRmxkN0dkd00xZ2IyNTVLUEhEcGtBRWw0Rnh5X3VPaU10d0FNYy00OVBUZkRF?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEZDMmdrWVJHT1VHWHlCUTdXOTNCdDZTSnhxRmlEYTktMjNXODQzcE9vbUhxek9lamxySUJHcU5jSDg0Sl9vbU9VM1pPZktTNjFIS1hOZWIwUVJ3UG1Md2tJa2lybUJMZnRXcFd6UmlVVEFueTJQX1ZpVHJqUll6V3pWYkhWRUtWNHVuWWRtQ00xSkZ5Snc?oc=5",
    "type": null,
-   "time": "2026-11-21T04:08:47Z",
+   "time": "2026-11-21T13:24:08Z",
    "countries": [
     "Pakistan"
-   ]
-  },
-  {
-   "id": "satellite-images-reveal-the-uae-transformed-civi",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "UAE",
-   "headline": "Satellite images reveal the UAE transformed civilian airports in breakaway regions of Somalia into large military facilities. Flight tracking data shows the U.S. has made visits. Our visual investigations reporter Christoph Koettl explains.",
-   "summary": "Satellite images reveal the UAE transformed civilian airports in breakaway regions of Somalia into large military facilities. Flight tracking data shows the U.S. has made visits. Our visual investigations reporter Christoph Koettl explains.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Satellite images reveal the UAE transformed civilian airports in breakaway regions of Somalia into large military facilities. Flight tracking data shows the U.S. has made visits. Our visual investigations reporter Christoph Koettl explains.."
-    }
-   ],
-   "source": "Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSkVVVTdoVmJmUkdfMXY4UFpIcHRQMnpNdUpmWGp0c2FVbnREcFU5V2lBWTlFWVMyUmdkOVJZa2NHZUt6SWdOc0NOU1ZIZndibk1yRldtTGhHM0U1Z1JGeHJYMloxbkFfUVJ5aVNtZWZZbWNWUkJXRmJWbUo5SHFjektYbDVOeERIMm1NY3kybXRFdHBNVDNqOFlfY0p4dF9FX1lJYTVWelNscFhnaHVGeEZ2R0FQX1dsdVdvTFBnNjhJdjc3QmJaMnZ2eFJVT3VDdVRr?oc=5",
-   "type": null,
-   "time": "2026-11-21T07:10:55Z",
-   "countries": [
-    "United Arab Emirates",
-    "Somalia",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-launch-strikes-after-saudi-coali",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
-   "summary": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
-   "type": null,
-   "time": "2026-11-21T06:31:47Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "vance-declines-to-say-iran-war-was-worth-it-but-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Vance declines to say Iran war was worth it, but says he supports Trump",
-   "summary": "Vance declines to say Iran war was worth it, but says he supports Trump",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Vance declines to say Iran war was worth it, but says he supports Trump."
-    }
-   ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUEJKV1RqaEVxeGhmZ1VGeE9HaGl4d0liN19ndWtxZDFYSzhxSXZuRF92X1NkOVVoeXZzZXNGcm94WU5iaWk2VGlyaUI2NFZIdHJNLWtYZVpWNTZNQlZvNUJnd0U3cGZWbXpuUktMZDl3Vm1oUUlrUHZlZks5TjFDdFBBZzcyRElGWmZwRHFaUDNkVWpxWmRybDNVbVRiRkJoekFKYTcxaGxjOXhiUmxXYkh5c09kT1E5eFZPRjVyZy1lTzQ?oc=5",
-   "type": null,
-   "time": "2026-11-21T06:09:32Z",
-   "countries": [
-    "Iran",
-    "United States of America"
    ]
   },
   {
@@ -177,59 +177,68 @@
    ]
   },
   {
-   "id": "pakistan-romps-to-eight-wicket-win-over-sri-lank",
-   "country": "Sri Lanka",
-   "label": "SRI LANKA",
-   "lat": 7.9,
-   "lon": 80.8,
-   "flag": "🇱🇰",
+   "id": "pakistan-drop-rizwan-and-masood-but-back-babar-a",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "info",
-   "category": "Sports",
-   "headline": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years",
-   "summary": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years",
+   "category": "Pakistan",
+   "headline": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul",
+   "summary": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan romps to eight-wicket win over Sri Lanka for its first test cricket series win in 2 years."
+     "text": "Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Former captains Mohammad Rizwan and Shan Masood lose Pakistan central contracts, but Babar Azam and Salman Agha backed."
     }
    ],
-   "source": "CTPost",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdlhfTzRIVWNwZmR1SHJ0VW5yb25OZ3B0SHF3bnRBVWRKcENxNWtTdUp6QzFnbnM0S180SmJkSVhXcmloLVpEejRJVWpZbW9McFJIOVNEcHhBcS1Gck1WdmdvdjVQTU5sSHNzZDZCcExGcnkxZ0xQVTE0a2h1WFZZMXR6RE93cnkzdHpsbmtzWXJhN2VhMzVtN1V3R2tBZU4wdnc?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/pakistan-drop-rizwan-and-masood-but-babar-and-agha-backed-in-overhaul?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T05:14:15Z",
+   "time": "2026-11-21T11:35:42Z",
    "countries": [
-    "Sri Lanka",
     "Pakistan"
    ]
   },
   {
-   "id": "iran-says-it-has-shot-down-58th-us-mq-9-drone-ov",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran Says It Has Shot Down 58th US MQ-9 Drone Over Strait of Hormuz",
-   "summary": "Iran Says It Has Shot Down 58th US MQ-9 Drone Over Strait of Hormuz",
+   "id": "china-pakistan-military-ties-could-pose-two-fron",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "China-Pakistan military ties could pose two-front challenge for India, US commission warns",
+   "summary": "China-Pakistan military ties could pose two-front challenge for India, US commission warns",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran Says It Has Shot Down 58th US MQ-9 Drone Over Strait of Hormuz."
+     "text": "China-Pakistan military ties could pose two-front challenge for India, US commission warns."
     }
    ],
-   "source": "WANA News Agency",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbkVnMmhKV2NfLUlzcDVBUmVzMWVzY1hUbV8yaHV4SVRTaDcta0pLZ0VOdlJyNG9mRFZBVmgzd21xVS1CZjNUQTlhdEtBMWFMazF4bHUwcTlTTUxEekFLbl9NZUZzUXZKUXoxYWtYVlpIaG9jcGM3Z1pFZ1lZS01vblh1X281VlZ3bzhwcWRpWjc?oc=5",
+   "source": "The Federal",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkdKdVhsMUR1ajQtM0JPUDZXb2lNVF9zSHJITFozdDdTcmFRLWJuS3NnWHZqQjc2NElpTGxjd2V3TkMtZXFPdHpEaHVfQXU2MkROb244Y0pHX2FpQ0xjYWtmaWNMMVppNWlsVGlxLUN5Uk9nMmZ3N19FV1UzR0Y1Nmg2aHlraE9NLXhKYThjOFV4VDRHOTc3VlRpeHJrTkx0dV9mdnBpTjNzVlV6M0RBZGVNNVQwM3ZrQi1RNmlObVpDd2I1cjJMaWcxb3RLdw?oc=5",
    "type": null,
-   "time": "2026-11-21T07:16:13Z",
+   "time": "2026-11-21T10:50:09Z",
    "countries": [
-    "Iran",
+    "Pakistan",
+    "China",
+    "India",
     "United States of America"
    ]
   },
   {
-   "id": "endurance-athlete-swims-in-strait-of-hormuz-to-h",
+   "id": "iran-says-it-downed-us-drones-over-hormuz-as-bid",
    "country": "Iran",
    "label": "STRAIT OF HORMUZ",
    "lat": 26.6,
@@ -237,102 +246,173 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
-   "summary": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife",
+   "headline": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+   "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Endurance athlete swims in Strait of Hormuz to highlight Iran war’s impact on wildlife."
+     "text": "Iran says it downed US drones over Hormuz as bid to end war remains stalled."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'."
     }
    ],
-   "source": "The Seattle Times",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTkwtYWVTTG92c1UxSW82RExidWNFVWdoUFBsOVQtTTE3NGxSUjdwRVF2cTR6bndVeGE0UDdVYXBiQmwzaFB0NTdtdW5IdzlWVklzNXZtU0NuUmZSbGhiWHQ0QjdXYzQ2NkhWaUVfWFhySzcwQWo5ekc5MzNHWlkySVpacGM3a1FxWmU1OHlNTU12UTNZbUV3UDE4MmZWdmhhNkxuYVE2Um1TT3ZrMEVVYkxIWk9aQmFFdmk1ekE3R0FpaXp6Qnlz?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T05:11:05Z",
+   "time": "2026-11-21T09:30:24Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "yemen-s-houthis-launch-strikes-after-saudi-coali",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+   "summary": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
+   "type": null,
+   "time": "2026-11-21T06:31:47Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "dw-news-a-british-endurance-athlete-swam-in-the-",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "critical",
+   "category": "World",
+   "headline": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while",
+   "summary": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "DW News. . A British endurance athlete swam in the Strait of Hormuz to highlight the impact the US-Iran war is having on wildlife. Lewis Pugh, a United Nations Patron of the Oceans, said he heard several loud explosions and smelled pungent chemicals while."
+    }
+   ],
+   "source": "Facebook",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb2R3NGQ3VXdzWWxJTmVUeXNHdjMycmFZWmxjbE5sQTFteFVfUFNpSlFSVTZDaXFUSTR0QUhyUGE5ZkJrSXJYRF9PS0J3VHUyaE5HOFp4QV85MmNqM3NIYjRfckJXWlZhZ0FGc04wREdaSmhMUDVzbUF4dDFfSjBzdlBfdndPNmxjblBIVDhPYnhXOVRDcEFUVkxYU3gwVU5RS3F3c1JPLTJGNExYSnBYVTFJQ2FkUFNfUkZFSTFHTmpqaGNGWklCWWhVUnlrMFFkU0tNLWY2VmdwSERHVndiaFR3?oc=5",
+   "type": null,
+   "time": "2026-11-21T13:30:12Z",
+   "countries": [
+    "United Kingdom",
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-strikes-3-tankers-as-it-shows-off-missile-l",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+   "summary": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran strikes 3 tankers as it shows off missile launchers, and other Mideast news."
+    }
+   ],
+   "source": "ClickOnDetroit | WDIV Local 4",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEpMQUc2azBPMGhYSjc2Q2RtcHdReHA5bjBSUTk3VzFlYTZNNDFwaEZtTHZVTGFKYVZBRkFYYVFxMWlLbnkwajlsMHJkTk9WeC04ZmRqQTFBRkN0eWdYQzNKS1E2bnBaWi1OMG9ZVkc5ZGdYb0VLaHhnZGlMQ2R3Y3dPZzcxaDRHTFBaZkZfZ2t0T0V6RUR6aG15Q1ZKVF9hLWdnN0ZaRWRvRmhwa1VTVEhNSDNocUZEbUNVdy1YZmtSOHJzdWxiZFlWRGszUQ?oc=5",
+   "type": null,
+   "time": "2026-11-21T14:43:49Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "nia-seeks-uae-help-in-probe-of-flydubai-mid-air-",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
+   "id": "zelensky-says-crimean-bridge-strikes-fair-respon",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "NIA Seeks UAE Help In Probe Of FlyDubai Mid-Air Attack On Indian Pilot",
-   "summary": "NIA Seeks UAE Help In Probe Of FlyDubai Mid-Air Attack On Indian Pilot",
+   "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "NIA Seeks UAE Help In Probe Of FlyDubai Mid-Air Attack On Indian Pilot."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWhIbHUxc0VCMXdRczhaYWhtMmpSTl9fbmlpYnlZLUpPZzd0Y0ZRU3Qzcnk1TDBvRWJmdU9tREstSXI2RXhEUU5JRVl5TmlESF9EVFkwUWllcV8wZnY2X2YtZWRhU0JEcjJVM1dGRlA4M01CSTEtWVFiSlhCR05RVWF4RjVWNTZjR3UzQWJDYlc0UG5VZnphVzBKTGdlYXR4bEE3QkhlbWY?oc=5",
-   "type": "VIDEO",
-   "time": "2026-11-21T05:09:46Z",
-   "countries": [
-    "India",
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "trump-threatens-tremendous-penalties-for-us-tech",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-   "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad."
+     "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting."
     },
     {
      "role": "COMMANDER",
-     "text": "How serious is it?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad."
+     "text": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjBqVnVQelBOMS1QWFU4R0t4dEl2UFc0Q2lndlMybUhOcUlnaURLZnNlS2JPV18wckFEWXUtTjZkS1otMURicUFVd3RVX1dEZldsaVZZME1OTzFWTzBJZWtZTDhnNUgxRTJrUFR0Q1dDNXk3OS1pa3Q3Z3VOZnlfODRCTQ?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
    "type": null,
-   "time": "2026-11-21T00:08:00Z",
+   "time": "2026-11-21T13:17:38Z",
    "countries": [
-    "United States of America"
+    "Ukraine",
+    "United Kingdom",
+    "Russia"
    ]
   },
   {
-   "id": "middle-east-war-6-key-updates-uae-residents-need",
+   "id": "oil-minister-uae-s-irh-discuss-partnership",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Middle East war: 6 key updates UAE residents need to know this evening, November 20",
-   "summary": "Middle East war: 6 key updates UAE residents need to know this evening, November 20",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil Minister, UAE’s IRH discuss partnership",
+   "summary": "Oil Minister, UAE’s IRH discuss partnership",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Middle East war: 6 key updates UAE residents need to know this evening, November 20."
+     "text": "Oil Minister, UAE’s IRH discuss partnership."
     }
    ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3NYR0FfSVdqTXI3R1ZESHFkMjl0eTF2MUg1bjhkRUtrV3JlcHM2bXJET3g3ZmdTdUI5U1pLYnA0T0kzVjNaUlJPdlBmOS0xMUwzNHlIYTd1RHlGbEc3ekdZTGc0T1luaEFfbFdiMW9hLUtodWRhbzVncHVjUTN6QUtRWmY3OUU2ZjkxMzYwUnJRYTZGVnNna2xWV1czVVBqcEUyZWtmcTJzaVVkZjFEdF9QcW9vQ2hPRy1JUzFZcklpY0XSAdYBQVVfeXFMTm1TcmgtaS1kVS16ZDRCLTNWMzhZalVjQlEwQUs4bHM2a3RaeVM4OXVtdGJvdUY4T1dwaVhQQy1xb01SZ1kyU3laNy1nZzJrSTgtcUdNX0tOTmw0Wm13ZHVVTDVvN01SWG9DYlNxN3VtVmlILThFbEJrZzBOb2lQdHpKb3dfbjJYdTh3LV9hWGhlVGVpRGdKbEJkelFfdXhDdzZRcGdGeGN1X1hLLXhHdF9SQVJDWlU4SlZQU3lLdVN0UmtCalYyYTFOcmF3X0ZPcWFRaEsyUQ?oc=5",
+   "source": "الهيئة العامة للاستعلامات",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVVpkNk9BbndmODV6Uk0xbnJnZkx0ZVp5aThWeE5RMzk1NEtRUFJrT0RrdnI3cmZIU2tpc2hIYU9yd1VVSEttMW5USjltQWhyV3dmc1R1VmtKVi15UjdNdEJrWHVuX0JQcTF2N1RLVV9kVHdtaUlTZlBmS1ZwVzNQc1ZjM28zbU0yeUhV?oc=5",
    "type": null,
-   "time": "2026-11-20T16:39:44Z",
+   "time": "2026-11-21T12:13:01Z",
    "countries": [
     "United Arab Emirates"
    ]
@@ -365,7 +445,7 @@
    ]
   },
   {
-   "id": "ukraine-war-briefing-european-leaders-react-with",
+   "id": "russian-missiles-hit-poland-what-happened-and-co",
    "country": "Poland",
    "label": "POLAND",
    "lat": 51.9,
@@ -373,125 +453,12 @@
    "flag": "🇵🇱",
    "severity": "critical",
    "category": "World",
-   "headline": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
-   "summary": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland",
+   "headline": "Russian missiles hit Poland: What happened, and could NATO respond?",
+   "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQV3ZsTlVPVEN2STFrWVYtZFA1eWpCd3BxdHhwU1U5Zm5JeFdTVXJmUXYyamFEZklBdGZxVE1rN3VtSDZLWDhzNGVnT294RkxVbGEwc1lVc1ViZ3Q3QVJYMG53bVNaeVNSbEVscnh1di1vNDBDQ0h1TkpGek00Y1BjeUJ2YVktZkYxcDdyVGZyalhkUkNob0FOejNCM0laNy04Mm1BUmtjR2dZa1dkdnBjRVEyZXRmdWNYODU2bnNkUnZNNndCb3N1NGpSNTEwRHR1VmN4dWs0ZDRhTDZvM3Bwak85Zw?oc=5",
-   "type": null,
-   "time": "2026-11-21T02:41:00Z",
-   "countries": [
-    "Poland",
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "fo-rejects-india-s-undiplomatic-irresponsible-re",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
-   "summary": "The Foreign Office (FO) on Friday categorically rejected the “undiplomatic and irresponsible” remarks made by India at the United Nations regarding the country’s mineral wealth.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Foreign Office (FO) on Friday categorically rejected the “undiplomatic and irresponsible” remarks made by India at the United Nations regarding the country’s mineral wealth."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2045921/fo-rejects-indias-undiplomatic-irresponsible-remarks-about-pakistans-mineral-wealth",
-   "type": null,
-   "time": "2026-11-20T13:42:50Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-faces-over-9-4-million-cyberattacks-in-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Pakistan faces over 9.4 million cyberattacks in one year, backdoor threats surge 50%: report",
-   "summary": "Pakistan faces over 9.4 million cyberattacks in one year, backdoor threats surge 50%: report",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan faces over 9.4 million cyberattacks in one year, backdoor threats surge 50%: report."
-    }
-   ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSUM4SThuOXdhdTZaTm1vWHp5VHczck51blZWcWwzelFPSWpWZDZ4Z2g1SFBrblM4NVk1N0tLTUtvUk1BSXdFNTRXaGlWZzVvbjdGZUNxbEZFZjh6ekNQOGdKdi1VZ3YyeDV3a0xsLVlpQzR6bnBPc0IzSVB1WlFqRlZOM1VpdER4emNjUXhiczRRRmh0UEYxbnBJSk5nSzJySFdxWGNCWS1TTHpENGZtZ3JZWG42YzJqcHVKSHhndkQ5T0QzZ2pIVVQ3d0Q?oc=5",
-   "type": null,
-   "time": "2026-11-21T04:30:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "us-israel-weigh-strikes-bessent-says-iran-may-ne",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold",
-   "summary": "US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US, Israel weigh strikes, Bessent says Iran may never be paid for oil already sold."
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-21T04:02:06Z",
-   "countries": [
-    "United States of America",
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "nearly-600-women-killed-in-south-africa-within-t",
-   "country": "South Africa",
-   "label": "SOUTH AFRICA",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Nearly 600 women killed in South Africa within three months",
-   "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Nearly 600 women killed in South Africa within three months."
+     "text": "Russian missiles hit Poland: What happened, and could NATO respond?."
     },
     {
      "role": "COMMANDER",
@@ -499,15 +466,82 @@
     },
     {
      "role": "ANALYST",
-     "text": "Police officials called for \"greater efforts to prevent... violence\" against women and children."
+     "text": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
    "type": null,
-   "time": "2026-11-20T15:55:16Z",
+   "time": "2026-11-21T11:02:49Z",
    "countries": [
-    "South Africa"
+    "Poland",
+    "Russia"
+   ]
+  },
+  {
+   "id": "diallo-present-as-africa-football-boss-motsepe-r",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "Sports",
+   "headline": "Diallo present as Africa football boss Motsepe reiterates Infantino support",
+   "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Diallo present as Africa football boss Motsepe reiterates Infantino support."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay. Details?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T15:20:43Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "rescue-efforts-under-way-as-drones-hit-russian-s",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+   "summary": "Two drones attack a cargo ship that Finnish authorities say has links to Russia's armed forces.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rescue efforts under way as drones hit Russian ship off Finland coast."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Two drones attack a cargo ship that Finnish authorities say has links to Russia's armed forces."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T12:45:24Z",
+   "countries": [
+    "Russia"
    ]
   }
  ]
