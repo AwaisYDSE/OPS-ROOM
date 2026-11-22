@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:13:06.432127Z",
+ "updated": "2026-11-22T01:24:52.875095Z",
  "generator": "rss",
  "stories": [
   {
@@ -29,6 +29,75 @@
    ]
   },
   {
+   "id": "bahrain-says-iranian-attack-hits-industrial-faci",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Bahrain says Iranian attack hits industrial facility",
+   "summary": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Bahrain says Iranian attack hits industrial facility."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-21T22:02:03Z",
+   "countries": [
+    "Bahrain",
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "trump-says-he-wants-permanent-deal-with-iran-war",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
+   "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the situation now?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-21T20:29:00Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
    "id": "russia-bound-ship-attacked-in-gulf-of-finland",
    "country": "Russia",
    "label": "RUSSIA",
@@ -46,17 +115,17 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
      "text": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-21T18:22:09Z",
+   "time": "2026-11-21T19:20:22Z",
    "countries": [
     "Russia",
     "Ukraine"
@@ -115,97 +184,91 @@
    ]
   },
   {
-   "id": "tankers-hit-in-strait-of-hormuz-as-iran-tightens",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
+   "id": "russian-strike-kills-two-wounds-60-in-zelenskyy-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "Business",
-   "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+   "category": "World",
+   "headline": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping."
+     "text": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
+     "text": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T15:01:18Z",
+   "time": "2026-11-21T17:20:03Z",
    "countries": [
-    "Iran",
-    "United Kingdom",
-    "Oman"
+    "Ukraine",
+    "Russia",
+    "Poland",
+    "United States of America"
    ]
   },
   {
-   "id": "trump-says-he-wants-permanent-deal-with-iran-war",
+   "id": "saudi-led-coalition-says-it-intercepted-houthi-b",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
+   "summary": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region."
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb0lSLWR5WkJPeXZ1MXZERHZKd051VFlUa0JzZUpiSHdFdWxPZ2ltS2VPZUxZTDIxWW9OODdTREI5WDZqb29KXzVjQjEweDhfcmdKeDdicTFzY3FmQ0ExTVNXT2c2bkp4N3dwWW9tZXJ3Z2d0R1hpdDN5MmhRd0tHOVF5VDlTWlA1WXpDOHUzUHBfVGVScVViZmhaVkhlVk5CVmRYckFaNkhMYzRoM3FfNUVzaVd6UWxhVlg2LWpWOUs?oc=5",
+   "type": null,
+   "time": "2026-11-21T22:50:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "us-denies-iranian-account-that-missile-damaged-j",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027",
-   "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+   "severity": "critical",
+   "category": "World",
+   "headline": "US denies Iranian account that missile damaged jet over Gulf",
+   "summary": "US denies Iranian account that missile damaged jet over Gulf",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons."
+     "text": "US denies Iranian account that missile damaged jet over Gulf."
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGgwZTZaQWNtSzNpRDhQajRHRHFFTDhiVXczZmUtaFJiMVdTMFcwN1dWV053c1lGY2hiUnJrNnc3X1JoREFHLWNYTG52bVk5cXhMSDlCU2NkcDVCeWhQamZsX3JXdVBYdzJSdWQ1NDlKaTE4ZzIxc3U1SE1lcnhjdm45TmtHVzBMTmI4?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-21T18:00:00Z",
+   "source": "Dubai Eye 103.8",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzNFRloyeHFlSzVDdlhfM2JGRmktWTdJdW94OWFOMW1kVHVoU1lYQTB0dlk5TDMxSHhFYTdlaGdaSDV2TXJGZzNVdkt2N204Y2JBaV8xcUlVdWNUQXJ5Q0xRdjFRUXVQeURYNTJ0V3NVOVRQZEt5WFV5UkV0NHFwa0tfZy1XUy1TaUtKaUwzN3BteFBkbFhyZDNESXNHWUFpaWhMUkNKV1ZJa0hEZkVz?oc=5",
+   "type": null,
+   "time": "2026-11-21T21:07:18Z",
    "countries": [
     "United States of America",
     "Iran"
-   ]
-  },
-  {
-   "id": "gold-price-drops-by-rs3-500-per-tola-in-pakistan",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Gold price drops by Rs3,500 per tola in Pakistan",
-   "summary": "Gold price drops by Rs3,500 per tola in Pakistan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Gold price drops by Rs3,500 per tola in Pakistan."
-    }
-   ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEZDMmdrWVJHT1VHWHlCUTdXOTNCdDZTSnhxRmlEYTktMjNXODQzcE9vbUhxek9lamxySUJHcU5jSDg0Sl9vbU9VM1pPZktTNjFIS1hOZWIwUVJ3UG1Md2tJa2lybUJMZnRXcFd6UmlVVEFueTJQX1ZpVHJqUll6V3pWYkhWRUtWNHVuWWRtQ00xSkZ5Snc?oc=5",
-   "type": null,
-   "time": "2026-11-21T13:24:08Z",
-   "countries": [
-    "Pakistan"
    ]
   },
   {
@@ -235,29 +298,112 @@
    ]
   },
   {
-   "id": "us-denies-iranian-account-that-missile-damaged-j",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "iran-faces-a-silent-economic-war-says-iranian-pr",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "World",
-   "headline": "US denies Iranian account that missile damaged jet over Gulf",
-   "summary": "US denies Iranian account that missile damaged jet over Gulf",
+   "category": "Middle East",
+   "headline": "Iran faces a ‘silent economic war’, says Iranian president",
+   "summary": "Iran faces a ‘silent economic war’, says Iranian president",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US denies Iranian account that missile damaged jet over Gulf."
+     "text": "Iran faces a ‘silent economic war’, says Iranian president."
     }
    ],
-   "source": "Dubai Eye 103.8",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzNFRloyeHFlSzVDdlhfM2JGRmktWTdJdW94OWFOMW1kVHVoU1lYQTB0dlk5TDMxSHhFYTdlaGdaSDV2TXJGZzNVdkt2N204Y2JBaV8xcUlVdWNUQXJ5Q0xRdjFRUXVQeURYNTJ0V3NVOVRQZEt5WFV5UkV0NHFwa0tfZy1XUy1TaUtKaUwzN3BteFBkbFhyZDNESXNHWUFpaWhMUkNKV1ZJa0hEZkVz?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
    "type": null,
-   "time": "2026-11-21T15:57:24Z",
+   "time": "2026-11-21T23:18:14Z",
    "countries": [
-    "United States of America",
     "Iran"
+   ]
+  },
+  {
+   "id": "security-forces-kill-15-terrorists-in-balochista",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "summary": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+   "type": null,
+   "time": "2026-11-21T17:17:00Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-cargo-ship-ablaze-in-baltic-sea-after-dr",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+   "summary": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+   "type": null,
+   "time": "2026-11-21T21:01:49Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "somalia-accuses-uae-of-invasion-expels-ambassado",
+   "country": "Somalia",
+   "label": "SOMALIA",
+   "lat": 5.2,
+   "lon": 46.2,
+   "flag": "🇸🇴",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Somalia accuses UAE of ‘invasion’, expels ambassador",
+   "summary": "Somalia accuses UAE of ‘invasion’, expels ambassador",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Somalia accuses UAE of ‘invasion’, expels ambassador."
+    }
+   ],
+   "source": "St. Lucia Times",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMW9nTWhiV095VHNoNWNDYktvMjlBN2QyZ1BhSS1iSkQ5b1pqOENJTTVkX2ZpYkt3eDFhUHppM2c1Rkp0X19FbEJGUzY0YVU1c2NEcU1NbTdkVTc2TjVLb0VKbzBySThvWXhLRkJjUTZtRHpBVE9KNHVyVll5Rml1SnBXUzRTaXBoTF9JWkNmbUVGSTdu?oc=5",
+   "type": null,
+   "time": "2026-11-22T00:28:21Z",
+   "countries": [
+    "Somalia",
+    "United Arab Emirates"
    ]
   },
   {
@@ -280,127 +426,35 @@
    "source": "DNE Africa",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNDFZajRUVFF0T2NLZXRSMU9vWjc5Wngwd3lkSzZOUGhTWmNGamxKTkw3c1hhUl9RM3hLYnBaTUFoWGxOM3JOdFVwRTI2aDEzTjFfLV9VWVlXNlRGaFd3dg?oc=5",
    "type": null,
-   "time": "2026-11-21T17:50:00Z",
+   "time": "2026-11-21T23:05:00Z",
    "countries": [
     "United Arab Emirates",
     "Somalia"
    ]
   },
   {
-   "id": "security-forces-kill-15-terrorists-in-balochista",
+   "id": "-two-rulers-one-fort-pakistan-minister-invokes-h",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
-   "summary": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
-   "type": null,
-   "time": "2026-11-21T17:17:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "sweden-pakistan-hold-talks-to-modernize-bilatera",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Sweden, Pakistan hold talks to modernize bilateral investment treaty",
-   "summary": "Sweden, Pakistan hold talks to modernize bilateral investment treaty",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Sweden, Pakistan hold talks to modernize bilateral investment treaty."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWZuTHhDZU1hb0tfWVBGc3pOeVlSekY5MUliUlZTWl81WGQzS0E3SmctVzNVcldWNzhQS0JMUnF1ckxGOXpjT2NDVUpsMFVlbEctWE9ManRPM2RsNmtCLThvSV9lWDVaV0tzVzJmVmJUNjFraWlDWmhRc1NZWC1DcjI3NjZPZG1FdGNqMUFxNzRRMDFBYjFxVXFDbHl6Qzc4UVZqSzByWVlxYXBB?oc=5",
-   "type": null,
-   "time": "2026-11-21T07:42:59Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-says-oil-tanker-catches-fire-after-hitting-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz",
-   "summary": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says oil tanker catches fire after hitting mine in Strait of Hormuz."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2w5djk4dFoyN3FVV0p0NVJlQzNmZjh2cFlDbTRMUHRMclRfaHpDNzZEUlo0Y0xxX0hYWVpHWmpXQ1lPUzc1cTZQdENTUnVtX2FoZnFxZUhaS3d2Z28zd0tkMkcyaUdCVjIzYndDMUpyM0txOThEYVkxSGRUU2VzVmZjaEpKR1AtaFRDYm42ZzFScG9RUWk4MEpYUWtnWjFyWFlzXzROZkI2VFhqdXBOMkd3cw?oc=5",
-   "type": null,
-   "time": "2026-11-21T14:59:56Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-launch-strikes-after-saudi-coali",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
    "severity": "info",
-   "category": "Business",
-   "headline": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
-   "summary": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
+   "category": "Pakistan",
+   "headline": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
+   "summary": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Understood. Go on."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them."
+     "text": "‘Two rulers, one fort’: Pakistan Minister invokes Humayun, Sher Shah at SCO Civilisational Forum."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
+   "source": "The Hindu",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM3lSRExrUUE1UXdxN3RqV09SbmpCSmRBZzlOaVVocUN5WDZfQVhLOW43clYwckpGT21ycmQ3ZkRKblRablN6aHh1WHpYN0dlTVNkZjJiTDJ1eGhxWi15TGRHTTB6MmpsZWFwYzQ3WkpiZ2lfM1NlZFZRcmEySlJVLVhQaS1QNThvOTU5V1IyMWZfNm5VMUtBdjN2M1d1UmdQU1JxTHlhNVZ2RUNLa1ZZbnBucGprdUl6MldRZVlGaGUyWktleW1FS2lLdGtIR3lPVGxvMzVvQWZtQWJjRmdQbW5fRXYzM3lwUUFF0gHyAUFVX3lxTFBmUkJacTMwTF9rUUpDUHpHal9sOVRSSkxvdGY4d2hIN0dtUzFGVV9OaDNTQTZrQnVhcC1ldkJEai01cmdqNGktOHlyN1BLdURLZUVBN29IcXhfY2RPVUItVlRBQnE2dnp6UDRQYWpLRjRpRjJlQ2l5ZXBkS0hOT0Jla2l5bE1mVmxnZ0FzTVVnSjJFZnN1ZFNvbU45T1o4dDZic21wdGt0TTluaGQ4aG1XWU5DbGNFVnlYTEc4cG9QRVQtZGEzSmJrVzRhR1FhX1IzcjFzQkQzUi1iZDd4NllxV2tYMUNyZzBMcjliV1pobllB?oc=5",
    "type": null,
-   "time": "2026-11-21T06:31:47Z",
+   "time": "2026-11-21T22:35:40Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Pakistan"
    ]
   },
   {
@@ -421,7 +475,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Who is behind it?"
     },
     {
      "role": "ANALYST",
@@ -438,90 +492,27 @@
    ]
   },
   {
-   "id": "russian-strike-kills-two-wounds-60-in-zelenskyy-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-21T17:20:03Z",
-   "countries": [
-    "Ukraine",
-    "Russia",
-    "Poland",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "dubai-airport-traffic-falls-but-shows-signs-of-r",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
-   "summary": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dubai Airport Traffic Falls But Shows Signs of Recovery Amid Iran War."
-    }
-   ],
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLVd5WHpYWkp6em1GSHRQSlBIang3ZmVGckJDNFladmRUa1I0dDlOeEdVakxzcXVFOGx4M2Z2ZXo3Zk9NZ1FhaUYzU1Ffd0NPdTg4aVoxM3Y1WXliUklPMXBPeDBNMHZ6X25pdjd5RkF0RThERVQ1Q0tneU5PdkJEU09KWHZ6TkZwWDR0YmFOVnh1azJ0dXR0Tko1dlhBUDJkZnJ1Xy01eGxBQnhzTDdFQXpEY0Y4OVk?oc=5",
-   "type": null,
-   "time": "2026-11-21T19:10:08Z",
-   "countries": [
-    "United Arab Emirates",
-    "Iran"
-   ]
-  },
-  {
-   "id": "asia-cup-2026-for-blind-controversy-continues-as",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
+   "id": "dar-reviews-pakistan-s-gsp-plus-status-with-eu",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "info",
-   "category": "Sports",
-   "headline": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win",
-   "summary": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win",
+   "category": "Pakistan",
+   "headline": "Dar reviews Pakistan’s GSP Plus status with EU",
+   "summary": "Dar reviews Pakistan’s GSP Plus status with EU",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Asia Cup 2026 for blind: Controversy continues as Team India now alleges umpire celebrated with Pakistan after title win."
+     "text": "Dar reviews Pakistan’s GSP Plus status with EU."
     }
    ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFRCbnFHWnh5TjBrSmpBMlBBSF9BREFSQlZsWEZrRURhS3RXaGpoWkI1YkpFdjI4X0IxeEd3RDg2eHc3YlBmdlJvQ2x5ekV1UVFTbndDMFJVQmZaSWF0YjdTRjlGVmoxckdhVUpEalZQS1BFeUlpdVZBRnk3LU9QaWtNanpoMlU?oc=5",
+   "source": "Business Recorder",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBteVAwYVluQWx1QlFGVmZYZTRoUXlQVnY5OFpIZWxoN2tpU3NyQ2NFUllIYmV3dFgzekk5T3BDaGFqU2g2MGp3Mk41cUphd3NU0gFWQVVfeXFMT2txeUJGTWhkVlFRYXBfT2RKZUdQZjlvdVRfS1RHNUpnaExVcDJOYnFkTkJSeGc3UTZ5Q2FiYjdIZHdnUldlNEpJaklfUjM3d2MxMk5DNHc?oc=5",
    "type": null,
-   "time": "2026-11-21T17:48:01Z",
+   "time": "2026-11-21T21:23:59Z",
    "countries": [
-    "India",
     "Pakistan"
    ]
   }
