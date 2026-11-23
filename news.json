@@ -1,278 +1,22 @@
 {
- "updated": "2026-11-23T03:12:11.443380Z",
+ "updated": "2026-11-23T13:03:52.395846Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "drilling-for-oil",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Drilling for oil",
-   "summary": "PAKISTAN’S renewed effort to explore oil and gas reserves in its offshore waters, this time in partnership with Turkiye, calls for cautious optimism. We have been here before. Successive governments have pursued offshore exploration.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Drilling for oil."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "PAKISTAN’S renewed effort to explore oil and gas reserves in its offshore waters, this time in partnership with Turkiye, calls for cautious optimism. We have been here before. Successive governments have pursued offshore exploration."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046470/drilling-for-oil",
-   "type": null,
-   "time": "2026-11-23T02:52:26Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash",
-   "summary": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
-   "type": null,
-   "time": "2026-11-22T19:14:50Z",
-   "countries": [
-    "Pakistan",
-    "India",
-    "Qatar"
-   ]
-  },
-  {
-   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Portuguese foreign minister arrives in Pakistan for official visit: FO",
-   "summary": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Portuguese foreign minister arrives in Pakistan for official visit: FO."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
-   "type": null,
-   "time": "2026-11-22T16:27:27Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oman-to-supply-petroleum-products-200m-credit-fa",
-   "country": "Oman",
-   "label": "OMAN",
-   "lat": 21.5,
-   "lon": 57.0,
-   "flag": "🇴🇲",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
-   "summary": "ISLAMABAD: Pakistan and Oman on Sunday signed an agreement under which the Gulf country’s state-owned OQ Trading would supply petroleum products, as well as a $200 million credit line, to the Pakistan State Oil (PSO).",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: Pakistan and Oman on Sunday signed an agreement under which the Gulf country’s state-owned OQ Trading would supply petroleum products, as well as a $200 million credit line, to the Pakistan State Oil (PSO)."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
-   "type": null,
-   "time": "2026-11-22T15:27:28Z",
-   "countries": [
-    "Oman",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-houthi-drone-destroyed-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia",
-   "summary": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia."
-    }
-   ],
-   "source": "Yemen Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV0NfMFN4UGd2XzVkSmZLV2VtcnpjU0ZnUHNLTXpBbVVzeWdFYThPRHZmYlAwNmd6c1B0WndlQzEwWVVnZ1RINmwyc09vY0lleUE?oc=5",
-   "type": null,
-   "time": "2026-11-22T20:25:48Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "trump-eyes-iran-strikes-after-new-year-threatens",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Trump eyes Iran strikes after new year, threatens to sink blockade runners",
-   "summary": "Trump eyes Iran strikes after new year, threatens to sink blockade runners",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump eyes Iran strikes after new year, threatens to sink blockade runners."
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-22T19:53:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-bound-ship-towed-away-after-it-was-attack",
+   "id": "ukraine-shares-video-of-strikes-on-russian-ships",
    "country": "Russia",
    "label": "RUSSIA",
    "lat": 55.75,
    "lon": 37.6,
    "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-   "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-22T17:18:26Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistani-among-two-injured-in-iranian-attacks-b",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Pakistani among two injured in Iranian attacks, Bahrain says",
-   "summary": "A Pakistani citizen was among two injured in last night’s Iranian attacks on Bahrain, authorities in the kingdom said on Sunday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistani among two injured in Iranian attacks, Bahrain says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A Pakistani citizen was among two injured in last night’s Iranian attacks on Bahrain, authorities in the kingdom said on Sunday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
-   "type": null,
-   "time": "2026-11-22T12:12:04Z",
-   "countries": [
-    "Iran",
-    "Pakistan",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "rice-exports-up-by-0-35m-tonnes-in-four-months",
-   "country": "Thailand",
-   "label": "THAILAND",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Rice exports up by 0.35m tonnes in four months",
-   "summary": "LAHORE: Pakistan’s total rice exports surged by 353,000 tonnes to reach 1,351,000 tonnes during the first four months (July-October) of the current fiscal year 2026-27.",
+   "headline": "Ukraine shares video of strikes on Russian ships off Libya",
+   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Rice exports up by 0.35m tonnes in four months."
+     "text": "Ukraine shares video of strikes on Russian ships off Libya."
     },
     {
      "role": "COMMANDER",
@@ -280,47 +24,48 @@
     },
     {
      "role": "ANALYST",
-     "text": "LAHORE: Pakistan’s total rice exports surged by 353,000 tonnes to reach 1,351,000 tonnes during the first four months (July-October) of the current fiscal year 2026-27."
+     "text": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-23T00:04:49Z",
+   "time": "2026-11-23T11:34:10Z",
    "countries": [
-    "Thailand",
-    "Pakistan"
+    "Russia",
+    "Ukraine",
+    "Libya"
    ]
   },
   {
-   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
+   "id": "russian-warship-hit-by-ukrainian-drones-in-libya",
    "country": "Libya",
    "label": "LIBYA",
    "lat": 27.0,
    "lon": 17.0,
    "flag": "🇱🇾",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+   "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port."
+     "text": "Russian warship hit by Ukrainian drones in Libya, Zelensky says."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay, what else?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
-     "text": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+     "text": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
    "type": null,
-   "time": "2026-11-22T22:14:33Z",
+   "time": "2026-11-23T11:40:01Z",
    "countries": [
     "Libya",
     "Russia",
@@ -328,122 +73,241 @@
    ]
   },
   {
-   "id": "iran-war-live-tankers-set-ablaze-in-hormuz-as-ir",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-   "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+   "id": "gold-price-rises-by-rs7-800-per-tola-in-pakistan",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Gold price rises by Rs7,800 per tola in Pakistan",
+   "summary": "Gold price rises by Rs7,800 per tola in Pakistan",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest."
+     "text": "Gold price rises by Rs7,800 per tola in Pakistan."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "source": "Investify",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObll4Y1NubVhPRmVpV1Nyc3BCLXNJd3B3UEphelU1MExkeWZpUTdka0gtRHhmQ2ZpczNvaUZqQklLd0d4Q29FcDJCRjJvSkZpSTdKZ2hqcHc4dElMdUctSTV3RWxqRDJHT2FLdm1tNDd2NUJITXN5eXNrbHBoLUFWX3o3X2ZSMkNrSFVYSHEtSlRpeTBsZkE?oc=5",
    "type": null,
-   "time": "2026-11-22T23:59:22Z",
+   "time": "2026-11-23T10:57:26Z",
    "countries": [
-    "Iran"
+    "Pakistan"
    ]
   },
   {
-   "id": "uae-s-eci-and-kazakhexport-renew-partnership-to-",
+   "id": "portugal-eyes-deeper-trade-investment-ties-with-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Portugal eyes deeper trade, investment ties with Pakistan",
+   "summary": "Portugal eyes deeper trade, investment ties with Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Portugal eyes deeper trade, investment ties with Pakistan."
+    }
+   ],
+   "source": "Mettis Global",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzRhNlFCamY4Q2RXZEg1Z3VqbFdsUGFIUk5tRHF2eHJFVjQzaE5ReFZXSFBDSVlacC1rV2tjYkxKaHZPUFNJeDFKQUVjWEVsOE5HcmRFVmdOREtadzlSUGVQdHF6MnhFS2ZNOFFRZkZpR0ZQempZRG4ySWV5bHJUQWVCd0dldVNXc2tEX3JYS0pWUQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T08:06:00Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "yemen-s-houthis-claim-attacks-on-saudi-oil-refin",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+   "summary": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5",
+   "type": null,
+   "time": "2026-11-23T03:40:00Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "dubai-and-middle-east-flight-disruption-flight-c",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties",
-   "summary": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks",
+   "summary": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties."
+     "text": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks."
     }
    ],
-   "source": "Qazinform",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlQRm5qRTRtU091SjZBYndDS3dtcmVkVVlxbDd6c09yb0MwVklqcGpXek1maFl2UFpRdGNGQTlhalhqYWlSNzZQRUxXTE9nRkQxbThwUWJsaVFqWWJ3WkdxVHBXUEl2LUZ4dWtBUktSOVRfZ3hxS0cwem53cGVFTnhfbElIV2JNTTJsT2lPOXdxYWs0bmNoaEc3QzdvYTItRXRpVE1tVzQ5WGJ4b2pYODVjTdIBswFBVV95cUxNNHRDU2xYMlJYejB6a29QWHhhN0VFNFBzeGFsUkF1NnhKZnBCbnVNYlJyb0E0ZG5hdzEtYV84SzNONEJJYUJ5TXhlSS1PTFhvZjhmZ0dVSmF4LWFPbG9fbXJXX3J4RnlpajFUOG1JR0NtX2ViTVRDc2tsWTJLaTlDTnI2dFpNbXFZdUFzOUQ2bFlaa1czT2xQVTNQcDhEWjJWcWk4empyaDV3S1ZrS29GMFZjWQ?oc=5",
+   "source": "Condé Nast Traveller Middle East",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMUI1MUhsMXNhMmFvZ3RaMmxWbFYzcjhLcmtCRmU4RjRMdHktcXlvQ2hiOThXMTE5czJQUkpWdk5reU1TRVk2X241OExBOXJISXUxdG1lU0ZyU21DMXBaQ2I2QWJPdGFqZE84NVhYZ3c5YWlXSUx2WVdCN1dUOW1UdkpjNHRPX2JFbV9GUmtidXlNcldoU053eEV1R1hsSTg1NW9YcFBuRmM4ZzY1TkNwZ1NGMElVOWdETlVRWjhmNEU0MEZ2ZVpRN0xoRndhOEJwWjYzOFgwZVZ4S2FsX0REaVV5Sm52YUxxeTVwRWdRMXpHaHJV?oc=5",
    "type": null,
-   "time": "2026-11-23T02:49:50Z",
+   "time": "2026-11-23T07:59:19Z",
    "countries": [
-    "United Arab Emirates",
-    "Kazakhstan"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "us-intelligence-chief-defends-trump-s-comments-c",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-   "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+   "id": "adb-invests-in-pakistan-based-b2b-fintech-compan",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "ADB invests in Pakistan-based B2B fintech company Neem",
+   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Monday said it invested an undisclosed amount in Neem, a Pakistan-based B2B fintech company that helps businesses receive, manage, and pay out money digitally.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’."
+     "text": "ADB invests in Pakistan-based B2B fintech company Neem."
     },
     {
      "role": "COMMANDER",
-     "text": "Okay. Details?"
+     "text": "Understood. Go on."
     },
     {
      "role": "ANALYST",
-     "text": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit."
+     "text": "ISLAMABAD: The Asian Development Bank (ADB) on Monday said it invested an undisclosed amount in Neem, a Pakistan-based B2B fintech company that helps businesses receive, manage, and pay out money digitally."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046518/adb-invests-in-pakistan-based-b2b-fintech-company-neem",
    "type": null,
-   "time": "2026-11-23T02:23:13Z",
+   "time": "2026-11-23T07:12:17Z",
    "countries": [
-    "United States of America",
-    "Russia"
+    "Pakistan"
    ]
   },
   {
-   "id": "major-escalations-in-iran-and-ukraine-conflicts",
+   "id": "white-friday-2026-ai-shopping-agents-threaten-tr",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia",
+   "summary": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia."
+    }
+   ],
+   "source": "Gulf Business",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzROUlpDeVcyTV9uU2t0eTN3RDZPWEM1SmUwX1owX3Noc2dMd3g1dWpLaG1ySWhscERjYXVVb1M5R2xvRWd0VnZiWVBoaVdveTFsVWEtRk4yS01ZeG9GSUZZRjBMMWdaZm9ucy1sMUJtRWVGclFKeGJtaEJJYk5ianYycjFvLXZ5RFpFd1lGd0V0UGwwSXRJcy1ZOWlJbTBKeUdsTUNuTGhuV2toZEc4bjJJMFI5dFU4dFhqazFNaFdqQlA4YlFmT0x0SWY3elpuVG8zbQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T09:40:46Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "iranian-attacks-on-ships-near-strait-of-hormuz-h",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
    "lon": 53.7,
    "flag": "🇮🇷",
-   "severity": "info",
+   "severity": "critical",
    "category": "Middle East",
-   "headline": "Major escalations in Iran and Ukraine conflicts",
-   "summary": "Major escalations in Iran and Ukraine conflicts",
+   "headline": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows",
+   "summary": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Major escalations in Iran and Ukraine conflicts."
+     "text": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows."
     }
    ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlNPMFBmRDQ5Q1lzVXp1d3B2SW01QTROc1V3dUFZdkI3QkNpdDN5amdRSGl0WnZVMkIwTjJXT09lWlJfVWRNUndMN3Bmd3BaU2VSQ1hadllPQ1R4UC1DUVEya05QR3VoTUNjOXdDZEVGSkxHSVhNdFItaXJobmJucFpuak1jMWZOTWdLMnhMVm1PdXc2NUZNUm9LUkNodw?oc=5",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWDJ3dGtDQ1RaWjFnbXZ5VEdJZVR3T1IwSW5RaUpqSDdJOW5KN3h3QXFKY3Q3UW1IVUhEOXBienRvRlZLUDREaXlGSC1PM2N0aWc2eXEzMGdVS2xGeUFoX1ZSY09yUzhENmc?oc=5",
    "type": null,
-   "time": "2026-11-23T01:58:59Z",
+   "time": "2026-11-23T10:49:41Z",
    "countries": [
-    "Iran",
-    "Ukraine"
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-arabia-strongly-condemns-drone-attacks-on-",
+   "country": "Sudan",
+   "label": "SUDAN",
+   "lat": 15.5,
+   "lon": 30.2,
+   "flag": "🇸🇩",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English",
+   "summary": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English."
+    }
+   ],
+   "source": "ASHARQ AL-AWSAT English",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORU5hX2hhOHhxNS03UUNTaENVbUtIdDItcWRoRWE3clF2Slh5WTF1M2xIOG9ZWXFoR3ZKS3RRUjB6R19ZMHc4aURkVXZsalNqYWcwZ0lFZHdoZFFRRzgyczlLNWxURVJXLVRjY3o4UWVhN1JlcXZaTzlkdS1fUXBqdVZHenRnZUJjTEU3VUJjSkdpMGR4UkN6eQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T10:43:49Z",
+   "countries": [
+    "Sudan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "houthi-media-says-saudi-strike-kills-10-in-yemen",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida",
+   "summary": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida."
+    }
+   ],
+   "source": "Kurdistan24",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3N0NTNmRUh3b3M3N0xlOU5lV3N1Uzk4M0VkY0JhT2JCLXhXMFdWd1lpRzdReG4tUldsTmZ3cHBnTm10S0dVbjY4WkZna2xsX1FrVTVIX3gyQmxUcnMzUG5mTldhdjR2ZXBSbFF0MmlHY040ZXpEeU5YM3NlZGdEUldhNjVBU3JkcWRnMEVTdnBhc1RzYlhMTzAyMlZzV1hQdHRJ?oc=5",
+   "type": null,
+   "time": "2026-11-23T10:26:00Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
@@ -464,7 +328,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "What do we know so far?"
     },
     {
      "role": "ANALYST",
@@ -474,14 +338,99 @@
    "source": "dawn.com",
    "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
    "type": null,
-   "time": "2026-11-22T19:22:47Z",
+   "time": "2026-11-23T05:22:46Z",
    "countries": [
     "India",
     "Pakistan"
    ]
   },
   {
-   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
+   "id": "iran-threatens-response-to-any-attack-amid-naval",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran threatens response to any attack amid naval blockade",
+   "summary": "Iran threatens response to any attack amid naval blockade",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran threatens response to any attack amid naval blockade."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-23T12:25:24Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "israeli-attacks-have-turned-gaza-into-toxic-wast",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-23T11:57:33Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "new-attacks-have-failed-claims-trump-as-iran-imp",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "New attacks have failed, claims Trump, as Iran imposes power cuts",
+   "summary": "New attacks have failed, claims Trump, as Iran imposes power cuts",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "New attacks have failed, claims Trump, as Iran imposes power cuts."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-23T09:55:02Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "at-least-15-killed-in-ukraine-s-kyiv-region-as-r",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -489,84 +438,87 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "headline": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+   "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes."
+     "text": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks."
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+     "text": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
    "type": null,
-   "time": "2026-11-22T22:37:43Z",
+   "time": "2026-11-23T09:34:25Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "uae-condemns-iranian-attack-on-bahrain",
-   "country": "Bahrain",
-   "label": "BAHRAIN",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "UAE condemns Iranian attack on Bahrain",
-   "summary": "UAE condemns Iranian attack on Bahrain",
+   "id": "trump-hosts-private-dinner-for-largest-owners-of",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Sports",
+   "headline": "Trump hosts private dinner for largest owners of his meme coin",
+   "summary": "US President Donald Trump has made hundreds of millions from his $TRUMP meme coin, but at a Sunday dinner for the token’s biggest holders, he said his motive for supporting the cryptocurrency was to boost the economic competitiveness of the United States.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UAE condemns Iranian attack on Bahrain."
+     "text": "Trump hosts private dinner for largest owners of his meme coin."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "US President Donald Trump has made hundreds of millions from his $TRUMP meme coin, but at a Sunday dinner for the token’s biggest holders, he said his motive for supporting the cryptocurrency was to boost the economic competitiveness of the United States."
     }
    ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXprZlBmWXhtZnNNSUp4Mmk1TTU1bHR5ai1FTzdiUlFDUlpOYWtySEJyM2dxbURSOTZuTWZiR2o0a0l2cWNwNlNwRWoyMlFxWHQ2SnM3THpTWW5PNE85WVFkTF8tTzJaYzdYMXplWU1lZTJOaEF1Y2wzUVVPaDNFSGpwUGMtWXZwVjF0QmxzMlpNR0lya1l3?oc=5",
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXVidE4wWjBSODFQSG5weXZmek5Nb3c2YnNHZEUzb21yMjhNZkhKeFJqeDBHVzNJd2VFTDJnNHJZZndYeFhnRXo1dGYwRHBlZlBCUmg5a1Buc0kzQnVlVEQwVk1rS3hIOHZKZ0dFTG84VXBIV29qQ0hBSFpOWTl5MWRxQ0pKdk9qbnFDbzdLaXkyMV9FTi1SYmJzZnkwcndpZ2dFeGJ3WXA2d9IBrwFBVV95cUxOY0NnVnZEaGVETUk3NEJPT0NSU0w2bUpseXF0ZVpwR1NDYW5BZ2NYN19YLWxPdkt3U190VTBMR3VOSWJNSXFVQkhjRjBpMm1iUEc2ZkxwWWJrb0puMzhxVV9OZlpHZUR0bjlyNGJmRVI3bFI5U2tGTkdpNk9oSnBlSC1sZ19LY2Y4d0h6WDJueTVBVzh5VFZrWHZYcTlzNWlFN0hVZFJldkI4NmVlSjFF?oc=5",
    "type": null,
-   "time": "2026-11-22T09:53:00Z",
+   "time": "2026-11-23T08:04:59Z",
    "countries": [
-    "Bahrain",
-    "United Arab Emirates",
-    "Iran"
+    "United States of America"
    ]
   },
   {
-   "id": "saudi-arabia-bahrain-report-new-attacks-as-iran-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "irgc-claims-2-supertankers-hit-mines-in-hormuz-i",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
    "severity": "critical",
-   "category": "Business",
-   "headline": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-   "summary": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+   "category": "Middle East",
+   "headline": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
+   "summary": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.."
+     "text": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days."
     }
    ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
+   "source": "houseofsaud.com",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTFJzc0VSX0NQYmxHZE5POGI1bHlUcjFDQ0pvTGQ4XzhfcnJybmdQbXhvM21TRWoxRjM5OHVjQVdLdVFVajk2OVNFNFU4LW1YUW96cE1wZ21JSklIQk1HU1llamhXR2VGVjlQVA?oc=5",
    "type": null,
-   "time": "2026-11-22T13:25:47Z",
+   "time": "2026-11-23T11:47:07Z",
    "countries": [
-    "Saudi Arabia",
-    "Bahrain",
-    "Iran",
-    "United States of America"
+    "Iran"
    ]
   }
  ]
