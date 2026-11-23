@@ -1,82 +1,90 @@
 {
- "updated": "2026-11-22T22:31:40.976314Z",
+ "updated": "2026-11-23T03:12:11.443380Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "ap-top-25-poll-ucla-indiana-slide-texas-moves-in",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
-   "summary": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
+   "id": "drilling-for-oil",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Drilling for oil",
+   "summary": "PAKISTAN’S renewed effort to explore oil and gas reserves in its offshore waters, this time in partnership with Turkiye, calls for cautious optimism. We have been here before. Successive governments have pursued offshore exploration.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings."
-    }
-   ],
-   "source": "CBS Sports",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTdfamw5b2tBRWd0RFVlNHVfQzBmeFEwU1U2M2JPamRVNW83aUliTUEzOU0zOUtNSExIdXl2cG92QS1uaDdDcmRuSE9UWFhBRDhUU3VZLTBkZ0F6UC1sUGlFRTc4ck1rTzhoZkd2TVpPTVllSVV3N1IyaktNVElETG1MN3VZYl9YZERyanRBYTlkUDhxbzRNWGJyVWRBT2xXOEF4RWlzSG9pemRvYnlMRGpLSEtfMlU?oc=5",
-   "type": null,
-   "time": "2026-11-22T19:23:00Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
-   "country": "Libya",
-   "label": "LIBYA",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
-   "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port."
+     "text": "Drilling for oil."
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "What does it mean for prices?"
     },
     {
      "role": "ANALYST",
-     "text": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack."
+     "text": "PAKISTAN’S renewed effort to explore oil and gas reserves in its offshore waters, this time in partnership with Turkiye, calls for cautious optimism. We have been here before. Successive governments have pursued offshore exploration."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046470/drilling-for-oil",
    "type": null,
-   "time": "2026-11-22T17:12:48Z",
+   "time": "2026-11-23T02:52:26Z",
    "countries": [
-    "Libya",
-    "Russia",
-    "Ukraine"
+    "Pakistan"
    ]
   },
   {
-   "id": "russia-bound-ship-towed-away-after-it-was-attack",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-   "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash",
+   "summary": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland."
+     "text": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
+   "type": null,
+   "time": "2026-11-22T19:14:50Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Portuguese foreign minister arrives in Pakistan for official visit: FO",
+   "summary": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Portuguese foreign minister arrives in Pakistan for official visit: FO."
     },
     {
      "role": "COMMANDER",
@@ -84,75 +92,75 @@
     },
     {
      "role": "ANALYST",
-     "text": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
+     "text": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFODE1OHY1cFcwSGdUUGhHdVVsdVc2NU1YVHk0eEVRT2xyLUUyR2phMkpMYmR5ZC1uTk5PSnJKTDVtUkRaU0xzdUFlVGRXRmhkUU53UnM2czBrVGc?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
    "type": null,
-   "time": "2026-11-22T17:18:26Z",
+   "time": "2026-11-22T16:27:27Z",
    "countries": [
-    "Russia",
-    "Ukraine"
+    "Pakistan"
    ]
   },
   {
-   "id": "libya-s-eastern-government-suspects-drone-attack",
-   "country": "Libya",
-   "label": "LIBYA",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
-   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "id": "oman-to-supply-petroleum-products-200m-credit-fa",
+   "country": "Oman",
+   "label": "OMAN",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement",
+   "summary": "ISLAMABAD: Pakistan and Oman on Sunday signed an agreement under which the Gulf country’s state-owned OQ Trading would supply petroleum products, as well as a $200 million credit line, to the Pakistan State Oil (PSO).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Libya's eastern government suspects drone attack caused explosion on Russian ship."
+     "text": "Oman to supply petroleum products, $200m credit facility to PSO under new agreement."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "What does it mean for prices?"
     },
     {
      "role": "ANALYST",
-     "text": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+     "text": "ISLAMABAD: Pakistan and Oman on Sunday signed an agreement under which the Gulf country’s state-owned OQ Trading would supply petroleum products, as well as a $200 million credit line, to the Pakistan State Oil (PSO)."
     }
    ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
    "type": null,
-   "time": "2026-11-22T21:44:25Z",
+   "time": "2026-11-22T15:27:28Z",
    "countries": [
-    "Libya",
-    "Russia"
+    "Oman",
+    "Pakistan"
    ]
   },
   {
-   "id": "briton-swims-length-of-strait-of-hormuz-to-highl",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-led-coalition-says-houthi-drone-destroyed-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-   "summary": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "headline": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia",
+   "summary": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Briton swims length of strait of Hormuz to highlight environmental cost of war."
+     "text": "Saudi-Led Coalition Says Houthi Drone Destroyed Over Southern Saudi Arabia."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbEhGa045V054T0pYTUNZTHMyZFFuYmkxM2w5V0dYOFFYZHVlbzcyel96TGc0Yzh4c3hUMnhtOC04QkotYVhpV2pzOW8xZEFnbTR1dHh6cmtFS3dHcFhFaEQ5aVVhQlplR2YwRTREREYtcjR5Rk85dFFVVEdjN2EzZUNRdHZnSFJmbmxZTFhKTkM1MVUxZmNqWW5ZNk1vQk9RaEx3Zw?oc=5",
+   "source": "Yemen Online",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV0NfMFN4UGd2XzVkSmZLV2VtcnpjU0ZnUHNLTXpBbVVzeWdFYThPRHZmYlAwNmd6c1B0WndlQzEwWVVnZ1RINmwyc09vY0lleUE?oc=5",
    "type": null,
-   "time": "2026-11-22T20:10:00Z",
+   "time": "2026-11-22T20:25:48Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
@@ -175,27 +183,61 @@
    "source": "Iran International",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
    "type": "LIVE",
-   "time": "2026-11-22T20:50:06Z",
+   "time": "2026-11-22T19:53:43Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "russia-bound-ship-towed-away-after-it-was-attack",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
    "severity": "critical",
    "category": "World",
-   "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+   "headline": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes."
+     "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-22T17:18:26Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "pakistani-among-two-injured-in-iranian-attacks-b",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Pakistani among two injured in Iranian attacks, Bahrain says",
+   "summary": "A Pakistani citizen was among two injured in last night’s Iranian attacks on Bahrain, authorities in the kingdom said on Sunday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistani among two injured in Iranian attacks, Bahrain says."
     },
     {
      "role": "COMMANDER",
@@ -203,16 +245,205 @@
     },
     {
      "role": "ANALYST",
-     "text": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+     "text": "A Pakistani citizen was among two injured in last night’s Iranian attacks on Bahrain, authorities in the kingdom said on Sunday."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
    "type": null,
-   "time": "2026-11-22T17:57:43Z",
+   "time": "2026-11-22T12:12:04Z",
    "countries": [
-    "Ukraine",
+    "Iran",
+    "Pakistan",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "rice-exports-up-by-0-35m-tonnes-in-four-months",
+   "country": "Thailand",
+   "label": "THAILAND",
+   "lat": 15.9,
+   "lon": 100.9,
+   "flag": "🇹🇭",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Rice exports up by 0.35m tonnes in four months",
+   "summary": "LAHORE: Pakistan’s total rice exports surged by 353,000 tonnes to reach 1,351,000 tonnes during the first four months (July-October) of the current fiscal year 2026-27.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rice exports up by 0.35m tonnes in four months."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Why the move?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "LAHORE: Pakistan’s total rice exports surged by 353,000 tonnes to reach 1,351,000 tonnes during the first four months (July-October) of the current fiscal year 2026-27."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
+   "type": null,
+   "time": "2026-11-23T00:04:49Z",
+   "countries": [
+    "Thailand",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
+   "country": "Libya",
+   "label": "LIBYA",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay, what else?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+   "type": null,
+   "time": "2026-11-22T22:14:33Z",
+   "countries": [
+    "Libya",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "iran-war-live-tankers-set-ablaze-in-hormuz-as-ir",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+   "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-22T23:59:22Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-s-eci-and-kazakhexport-renew-partnership-to-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties",
+   "summary": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE’s ECI and KazakhExport renew partnership to expand trade and investment ties."
+    }
+   ],
+   "source": "Qazinform",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlQRm5qRTRtU091SjZBYndDS3dtcmVkVVlxbDd6c09yb0MwVklqcGpXek1maFl2UFpRdGNGQTlhalhqYWlSNzZQRUxXTE9nRkQxbThwUWJsaVFqWWJ3WkdxVHBXUEl2LUZ4dWtBUktSOVRfZ3hxS0cwem53cGVFTnhfbElIV2JNTTJsT2lPOXdxYWs0bmNoaEc3QzdvYTItRXRpVE1tVzQ5WGJ4b2pYODVjTdIBswFBVV95cUxNNHRDU2xYMlJYejB6a29QWHhhN0VFNFBzeGFsUkF1NnhKZnBCbnVNYlJyb0E0ZG5hdzEtYV84SzNONEJJYUJ5TXhlSS1PTFhvZjhmZ0dVSmF4LWFPbG9fbXJXX3J4RnlpajFUOG1JR0NtX2ViTVRDc2tsWTJLaTlDTnI2dFpNbXFZdUFzOUQ2bFlaa1czT2xQVTNQcDhEWjJWcWk4empyaDV3S1ZrS29GMFZjWQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T02:49:50Z",
+   "countries": [
+    "United Arab Emirates",
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "us-intelligence-chief-defends-trump-s-comments-c",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
+   "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Okay. Details?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-23T02:23:13Z",
+   "countries": [
+    "United States of America",
     "Russia"
+   ]
+  },
+  {
+   "id": "major-escalations-in-iran-and-ukraine-conflicts",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Major escalations in Iran and Ukraine conflicts",
+   "summary": "Major escalations in Iran and Ukraine conflicts",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Major escalations in Iran and Ukraine conflicts."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlNPMFBmRDQ5Q1lzVXp1d3B2SW01QTROc1V3dUFZdkI3QkNpdDN5amdRSGl0WnZVMkIwTjJXT09lWlJfVWRNUndMN3Bmd3BaU2VSQ1hadllPQ1R4UC1DUVEya05QR3VoTUNjOXdDZEVGSkxHSVhNdFItaXJobmJucFpuak1jMWZOTWdLMnhMVm1PdXc2NUZNUm9LUkNodw?oc=5",
+   "type": null,
+   "time": "2026-11-23T01:58:59Z",
+   "countries": [
+    "Iran",
+    "Ukraine"
    ]
   },
   {
@@ -233,7 +464,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -250,253 +481,20 @@
    ]
   },
   {
-   "id": "second-ship-targeted-in-series-of-naval-drone-at",
-   "country": "Libya",
-   "label": "LIBYA",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Second ship targeted in series of naval drone attacks off Libyan coast",
-   "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
+   "headline": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Second ship targeted in series of naval drone attacks off Libyan coast."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T22:01:48Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "lewis-pugh-completes-15km-strait-of-hormuz-swim-",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared",
-   "summary": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Lewis Pugh Completes 15km Strait of Hormuz Swim Highlighting Iran War’s Wildlife Impact: 14 outlets compared."
-    }
-   ],
-   "source": "NewsCord",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajJZdTJIeTdIZHNpdVdmRzdvV3VXZkVEczZKamhxS01uMWtTWmNadE1zU2JlejVrOFFaTUJId1B3WUE4OW5aMk4tUkxGQXJZaWxsdzJCSHZBUjE2ZUJITTdSMFlRbk85bGhSNTh4VjkwV0dHazhhSmFuYUNMeXhUbWZab0owVmxjR0kySmlCSDRkaVZvWThubzJCdUNCVGJ6TU4ySmd1QXh2WTlFdUR2RGZhWmIzakVxV2E3MDhmT2dFTlFCM1BCWURPYURHcjczNjJJTnh4U0M1dC15b1NOVQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T17:38:09Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-2-supertankers-struck-naval-mines-near",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says 2 supertankers struck naval mines near Strait of Hormuz",
-   "summary": "Iran says 2 supertankers struck naval mines near Strait of Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says 2 supertankers struck naval mines near Strait of Hormuz."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFhqV2wzWDlORHFmRFE1cW1KZ0R6Z2M1Q3FjTXI1c3RORHNGQmlweEVJZE5iODVJRGpRNU1QRkxHdFE0WjZFNHVXX083Tnp1MnVUYklMaWFBbFBMamVLWEZEcjdjRnQ4OUowX1k0bVRjRF94UWJsek5hN0pybmV2OUtJbURTcU1weE9ETXRfSFphN2RIWU9UYm1MM2ZnUDBiWFBuV1V4M2hMQQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T17:14:15Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Portuguese foreign minister arrives in Pakistan for official visit: FO",
-   "summary": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Portuguese foreign minister arrives in Pakistan for official visit: FO."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on Sunday for an official visit, the Foreign Office (FO) said."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
-   "type": null,
-   "time": "2026-11-22T16:27:27Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "civilians-killed-in-rsf-drone-strikes-in-sudan",
-   "country": "Sudan",
-   "label": "SUDAN",
-   "lat": 15.5,
-   "lon": 30.2,
-   "flag": "🇸🇩",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Civilians killed in RSF drone strikes in Sudan",
-   "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Civilians killed in RSF drone strikes in Sudan."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T18:12:07Z",
-   "countries": [
-    "Sudan"
-   ]
-  },
-  {
-   "id": "dalal-street-week-ahead-us-gdp-fiis-mood-oil-pri",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Dalal Street Week Ahead: US GDP, FIIs mood, oil prices, PMI flash numbers among 10 key factors to watch",
-   "summary": "Dalal Street Week Ahead: US GDP, FIIs mood, oil prices, PMI flash numbers among 10 key factors to watch",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dalal Street Week Ahead: US GDP, FIIs mood, oil prices, PMI flash numbers among 10 key factors to watch."
-    }
-   ],
-   "source": "Moneycontrol.com",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSzR6VzNLbnVxS2RQb3NZOWhrTGs2NzE5N1M3VVctRGpWQlRVbTJBSHZaQ0RaUHZtUlFTMDNtSW9zTDlZUlo2elA4bzJUNnZwc1lTam9nZmt6eF9jZG9TNllRQmN2WklhbU54VHlrdTNaUTExdENkUnZjOWg2emo3QkNLemFaX2Jyc0lMRldxazhPZzlybUxWMGhwV0NtRF9XU19lSzE0cTE0NFhzLXdNcl9oX09MQ1J6THNpdk9VZm9XMFhpSTM2VFZGaUtUVTg0aEx3SUtrZ05xZURkaDd5OWV2UklEOFZmMmhudXdyY3ZZSVMtRi000gH8AUFVX3lxTFB5Ukhfb1VXWTNGOGNCU2FHcTBCUG9nRjdLYk1IREJ0OHdEX2RnaWQzdmp4TEFQS2dkQl93cEFNdmJVYlRDZ25OS2tPQ1BCUVJNSW90TWtBWVAzSjl4VFVXSU96dFVSTTkzY2I0SUp4dER6VW90MjdMaDMwSDlTcDE4TXVrUFgxb1BNZ01wY0dPV3RncS1aRVdiOUdlaThkaTNtSzVpbzJ2TnRvSG5MSldJTWc3X3c4Rk80MmJPU2ZxemdJSXdUdE1CR3BTN3Z0RnMyRmcwOUFLN3hodlZoaWFvWFZYTjgzeEp0SzB3eEk0c2NxSWw5T1laUl9CRQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T17:16:39Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "india-s-oil-gas-import-bill-jumps-60-in-oct-as-b",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "India's Oil, Gas Import Bill Jumps 60% in Oct as Brent Crude Nearly Doubles",
-   "summary": "India's Oil, Gas Import Bill Jumps 60% in Oct as Brent Crude Nearly Doubles",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "India's Oil, Gas Import Bill Jumps 60% in Oct as Brent Crude Nearly Doubles."
-    }
-   ],
-   "source": "Rediff",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1UzQzhOb1FCUUU4TUl4RllTWXk5WjBHM2cya09kU0UtbHF4M1pBV3hJZ3JVVXk5NTZfZjJMSXdpSFlnTTNuRmMzVzV1cHZwSUR3b2JjdkhScGRWNTU0WlFHajd4Y1dXa3lHalV6eklrNkgyUWVvR2xUS0RrZDVNYlQySEFHaGNUOFdJZmtCMmh0YzVHSzdSN3VrUm1wUW9SSklVdWRmODlLUUc2d053d0VzdU41R1BEZUJEdU83bnZndw?oc=5",
-   "type": null,
-   "time": "2026-11-22T09:11:47Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "israeli-settlers-attack-multiple-palestinian-vil",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
-   "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israeli settlers attack multiple Palestinian villages as pogroms surge."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T16:50:48Z",
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "dozens-drown-as-boat-capsizes-in-nigeria-en-rout",
-   "country": "Nigeria",
-   "label": "NIGERIA",
-   "lat": 9.1,
-   "lon": 8.7,
-   "flag": "🇳🇬",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-   "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dozens drown as boat capsizes in Nigeria en route to funeral."
+     "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes."
     },
     {
      "role": "COMMANDER",
@@ -504,50 +502,71 @@
     },
     {
      "role": "ANALYST",
-     "text": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria."
+     "text": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-22T15:24:20Z",
+   "time": "2026-11-22T22:37:43Z",
    "countries": [
-    "Nigeria"
+    "Ukraine",
+    "Russia"
    ]
   },
   {
-   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Sports",
-   "headline": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash",
-   "summary": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare.",
+   "id": "uae-condemns-iranian-attack-on-bahrain",
+   "country": "Bahrain",
+   "label": "BAHRAIN",
+   "lat": 26.1,
+   "lon": 50.6,
+   "flag": "🇧🇭",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "UAE condemns Iranian attack on Bahrain",
+   "summary": "UAE condemns Iranian attack on Bahrain",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Varma century in vain as Pakistan Shaheens down India A in Asia Cup Rising Stars clash."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan Shaheens overcame a late challenge from Tilak Varma to beat India A by 48 runs in their Asia Cup Rising Stars match in Doha on Sunday, defending a total of 313 after bowling out their opponents with five balls to spare."
+     "text": "UAE condemns Iranian attack on Bahrain."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXprZlBmWXhtZnNNSUp4Mmk1TTU1bHR5ai1FTzdiUlFDUlpOYWtySEJyM2dxbURSOTZuTWZiR2o0a0l2cWNwNlNwRWoyMlFxWHQ2SnM3THpTWW5PNE85WVFkTF8tTzJaYzdYMXplWU1lZTJOaEF1Y2wzUVVPaDNFSGpwUGMtWXZwVjF0QmxzMlpNR0lya1l3?oc=5",
    "type": null,
-   "time": "2026-11-22T19:14:50Z",
+   "time": "2026-11-22T09:53:00Z",
    "countries": [
-    "Pakistan",
-    "India",
-    "Qatar"
+    "Bahrain",
+    "United Arab Emirates",
+    "Iran"
+   ]
+  },
+  {
+   "id": "saudi-arabia-bahrain-report-new-attacks-as-iran-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+   "summary": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.."
+    }
+   ],
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
+   "type": null,
+   "time": "2026-11-22T13:25:47Z",
+   "countries": [
+    "Saudi Arabia",
+    "Bahrain",
+    "Iran",
+    "United States of America"
    ]
   }
  ]

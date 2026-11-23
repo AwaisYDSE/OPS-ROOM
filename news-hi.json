@@ -1,8 +1,520 @@
 {
- "updated": "2026-11-22T17:13:00.784530Z",
+ "updated": "2026-11-23T03:12:11.443380Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
+  {
+   "id": "drilling-for-oil",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "तेल के लिए ड्रिलिंग",
+   "summary": "अपने अपतटीय जल में तेल और गैस भंडार का पता लगाने के लिए पाकिस्तान के नए प्रयास, इस बार तुर्किये के साथ साझेदारी में, सतर्क आशावाद की मांग करते हैं। हम पहले भी यहां आ चुके हैं. एक के बाद एक आने वाली सरकारों ने अपतटीय अन्वेषण को आगे बढ़ाया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "तेल के लिए ड्रिलिंग."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अपने अपतटीय जल में तेल और गैस भंडार का पता लगाने के लिए पाकिस्तान के नए प्रयास, इस बार तुर्किये के साथ साझेदारी में, सतर्क आशावाद की मांग करते हैं। हम पहले भी यहां आ चुके हैं. एक के बाद एक आने वाली सरकारों ने अपतटीय अन्वेषण को आगे बढ़ाया है।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046470/drilling-for-oil",
+   "type": null,
+   "time": "2026-11-23T02:52:26Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Sports",
+   "headline": "वर्मा का शतक व्यर्थ, एशिया कप राइजिंग स्टार्स के मुकाबले में पाकिस्तान शाहीन ने भारत ए को हराया",
+   "summary": "रविवार को दोहा में एशिया कप राइजिंग स्टार्स मैच में पाकिस्तान शाहीन्स ने तिलक वर्मा की देर से मिली चुनौती पर काबू पाते हुए भारत ए को 48 रनों से हरा दिया, और पांच गेंद शेष रहते अपने विरोधियों को आउट करने के बाद कुल 313 रनों का बचाव किया।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "वर्मा का शतक व्यर्थ, एशिया कप राइजिंग स्टार्स के मुकाबले में पाकिस्तान शाहीन ने भारत ए को हराया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "मुझे विवरण दीजिए."
+    },
+    {
+     "role": "ANALYST",
+     "text": "रविवार को दोहा में एशिया कप राइजिंग स्टार्स मैच में पाकिस्तान शाहीन्स ने तिलक वर्मा की देर से मिली चुनौती पर काबू पाते हुए भारत ए को 48 रनों से हरा दिया, और पांच गेंद शेष रहते अपने विरोधियों को आउट करने के बाद कुल 313 रनों का बचाव किया।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
+   "type": null,
+   "time": "2026-11-22T19:14:50Z",
+   "countries": [
+    "Pakistan",
+    "India",
+    "Qatar"
+   ]
+  },
+  {
+   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "पुर्तगाली विदेश मंत्री आधिकारिक यात्रा पर पाकिस्तान पहुंचे: एफओ",
+   "summary": "विदेश कार्यालय (एफओ) ने कहा कि पुर्तगाल के राज्य और विदेश मंत्री पाउलो रंगेल रविवार को आधिकारिक यात्रा के लिए पाकिस्तान पहुंचे।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पुर्तगाली विदेश मंत्री आधिकारिक यात्रा पर पाकिस्तान पहुंचे: एफओ."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "विदेश कार्यालय (एफओ) ने कहा कि पुर्तगाल के राज्य और विदेश मंत्री पाउलो रंगेल रविवार को आधिकारिक यात्रा के लिए पाकिस्तान पहुंचे।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
+   "type": null,
+   "time": "2026-11-22T16:27:27Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oman-to-supply-petroleum-products-200m-credit-fa",
+   "country": "Oman",
+   "label": "ओमान",
+   "lat": 21.5,
+   "lon": 57.0,
+   "flag": "🇴🇲",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "नए समझौते के तहत ओमान पेट्रोलियम उत्पादों की आपूर्ति करेगा, पीएसओ को 200 मिलियन डॉलर की ऋण सुविधा",
+   "summary": "इस्लामाबाद: पाकिस्तान और ओमान ने रविवार को एक समझौते पर हस्ताक्षर किए, जिसके तहत खाड़ी देश की सरकारी स्वामित्व वाली ओक्यू ट्रेडिंग पेट्रोलियम उत्पादों की आपूर्ति करेगी, साथ ही पाकिस्तान स्टेट ऑयल (पीएसओ) को 200 मिलियन डॉलर की क्रेडिट लाइन भी देगी।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "नए समझौते के तहत ओमान पेट्रोलियम उत्पादों की आपूर्ति करेगा, पीएसओ को 200 मिलियन डॉलर की ऋण सुविधा।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "इस्लामाबाद: पाकिस्तान और ओमान ने रविवार को एक समझौते पर हस्ताक्षर किए, जिसके तहत खाड़ी देश की सरकारी स्वामित्व वाली ओक्यू ट्रेडिंग पेट्रोलियम उत्पादों की आपूर्ति करेगी, साथ ही पाकिस्तान स्टेट ऑयल (पीएसओ) को 200 मिलियन डॉलर की क्रेडिट लाइन भी देगी।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
+   "type": null,
+   "time": "2026-11-22T15:27:28Z",
+   "countries": [
+    "Oman",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-says-houthi-drone-destroyed-",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि दक्षिणी सऊदी अरब में हौथी ड्रोन को नष्ट कर दिया गया",
+   "summary": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि दक्षिणी सऊदी अरब में हौथी ड्रोन को नष्ट कर दिया गया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि दक्षिणी सऊदी अरब में हौथी ड्रोन को नष्ट कर दिया गया।"
+    }
+   ],
+   "source": "Yemen Online",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV0NfMFN4UGd2XzVkSmZLV2VtcnpjU0ZnUHNLTXpBbVVzeWdFYThPRHZmYlAwNmd6c1B0WndlQzEwWVVnZ1RINmwyc09vY0lleUE?oc=5",
+   "type": null,
+   "time": "2026-11-22T20:25:48Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "trump-eyes-iran-strikes-after-new-year-threatens",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "नए साल के बाद ईरान पर हमले पर ट्रंप की नजर, नाकाबंदी चलाने वालों को डुबाने की धमकी",
+   "summary": "नए साल के बाद ईरान पर हमले पर ट्रंप की नजर, नाकाबंदी चलाने वालों को डुबाने की धमकी",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "नए साल के बाद ईरान पर हमले पर ट्रंप की नजर, नाकाबंदी चलाने वालों को डुबाने की धमकी"
+    }
+   ],
+   "source": "Iran International",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-22T19:53:43Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-bound-ship-towed-away-after-it-was-attack",
+   "country": "Russia",
+   "label": "रूस",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "World",
+   "headline": "फिनलैंड की खाड़ी में हमले के बाद रूस जा रहे जहाज को खींच लिया गया",
+   "summary": "फिनिश रक्षा बलों का कहना है कि शनिवार को हुए ड्रोन हमले के पीछे संभवतः यूक्रेन का हाथ था। कीव ने अभी तक कोई टिप्पणी नहीं की है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "फिनलैंड की खाड़ी में हमले के बाद रूस जा रहे जहाज को खींच लिया गया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "फिनिश रक्षा बलों का कहना है कि शनिवार को हुए ड्रोन हमले के पीछे संभवतः यूक्रेन का हाथ था। कीव ने अभी तक कोई टिप्पणी नहीं की है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-22T17:18:26Z",
+   "countries": [
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "pakistani-among-two-injured-in-iranian-attacks-b",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "बहरीन का कहना है कि ईरानी हमलों में दो पाकिस्तानी घायल हुए हैं",
+   "summary": "राज्य के अधिकारियों ने रविवार को कहा कि बहरीन पर कल रात हुए ईरानी हमलों में घायल हुए दो लोगों में एक पाकिस्तानी नागरिक भी शामिल है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "बहरीन का कहना है कि ईरानी हमलों में दो पाकिस्तानी घायल हुए हैं।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "राज्य के अधिकारियों ने रविवार को कहा कि बहरीन पर कल रात हुए ईरानी हमलों में घायल हुए दो लोगों में एक पाकिस्तानी नागरिक भी शामिल है।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+   "type": null,
+   "time": "2026-11-22T12:12:04Z",
+   "countries": [
+    "Iran",
+    "Pakistan",
+    "Bahrain"
+   ]
+  },
+  {
+   "id": "rice-exports-up-by-0-35m-tonnes-in-four-months",
+   "country": "Thailand",
+   "label": "थाईलैंड",
+   "lat": 15.9,
+   "lon": 100.9,
+   "flag": "🇹🇭",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "चार महीनों में चावल का निर्यात 0.35 मिलियन टन बढ़ा",
+   "summary": "लाहौर: चालू वित्त वर्ष 2026-27 के पहले चार महीनों (जुलाई-अक्टूबर) के दौरान पाकिस्तान का कुल चावल निर्यात 353,000 टन बढ़कर 1,351,000 टन तक पहुंच गया।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "चार महीनों में चावल का निर्यात 0.35 मिलियन टन बढ़ा।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "यह कदम क्यों?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "लाहौर: चालू वित्त वर्ष 2026-27 के पहले चार महीनों (जुलाई-अक्टूबर) के दौरान पाकिस्तान का कुल चावल निर्यात 353,000 टन बढ़कर 1,351,000 टन तक पहुंच गया।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
+   "type": null,
+   "time": "2026-11-23T00:04:49Z",
+   "countries": [
+    "Thailand",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
+   "country": "Libya",
+   "label": "लीबिया",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "info",
+   "category": "Business",
+   "headline": "लीबिया के बेंगाजी बंदरगाह पर रूसी जहाज को संदिग्ध यूक्रेनी ड्रोन ने टक्कर मार दी",
+   "summary": "लीबिया की पूर्वी सरकार का कहना है कि जहाज रूस लौटते समय ईंधन और आपूर्ति के लिए रुका था।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "लीबिया के बेंगाजी बंदरगाह पर रूसी जहाज को संदिग्ध यूक्रेनी ड्रोन ने टक्कर मार दी।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ठीक है, और क्या?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "लीबिया की पूर्वी सरकार का कहना है कि जहाज रूस लौटते समय ईंधन और आपूर्ति के लिए रुका था।"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+   "type": null,
+   "time": "2026-11-22T22:14:33Z",
+   "countries": [
+    "Libya",
+    "Russia",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "iran-war-live-tankers-set-ablaze-in-hormuz-as-ir",
+   "country": "Iran",
+   "label": "होर्मुज़ जलडमरूमध्य",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान युद्ध लाइव: आईआरजीसी ने अशांति के खतरे की चेतावनी दी तो होर्मुज में टैंकरों में आग लगा दी गई",
+   "summary": "ईरान की नौसेना का दावा है कि उसके नियमों का उल्लंघन करने वाले टैंकरों को आग लगा दी गई, जबकि आईआरजीसी ने कहा कि 'दुश्मनों' ने अशांति फैलाने की कोशिश की।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान युद्ध लाइव: आईआरजीसी ने अशांति के खतरे की चेतावनी दी तो होर्मुज में टैंकरों में आग लगा दी गई।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ईरान की नौसेना का दावा है कि उसके नियमों का उल्लंघन करने वाले टैंकरों को आग लगा दी गई, जबकि आईआरजीसी ने कहा कि 'दुश्मनों' ने अशांति फैलाने की कोशिश की।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-22T23:59:22Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "uae-s-eci-and-kazakhexport-renew-partnership-to-",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "यूएई के ईसीआई और कज़ाखएक्सपोर्ट ने व्यापार और निवेश संबंधों का विस्तार करने के लिए साझेदारी को नवीनीकृत किया",
+   "summary": "यूएई के ईसीआई और कज़ाखएक्सपोर्ट ने व्यापार और निवेश संबंधों का विस्तार करने के लिए साझेदारी को नवीनीकृत किया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यूएई के ईसीआई और कज़ाखएक्सपोर्ट ने व्यापार और निवेश संबंधों का विस्तार करने के लिए साझेदारी को नवीनीकृत किया।"
+    }
+   ],
+   "source": "Qazinform",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlQRm5qRTRtU091SjZBYndDS3dtcmVkVVlxbDd6c09yb0MwVklqcGpXek1maFl2UFpRdGNGQTlhalhqYWlSNzZQRUxXTE9nRkQxbThwUWJsaVFqWWJ3WkdxVHBXUEl2LUZ4dWtBUktSOVRfZ3hxS0cwem53cGVFTnhfbElIV2JNTTJsT2lPOXdxYWs0bmNoaEc3QzdvYTItRXRpVE1tVzQ5WGJ4b2pYODVjTdIBswFBVV95cUxNNHRDU2xYMlJYejB6a29QWHhhN0VFNFBzeGFsUkF1NnhKZnBCbnVNYlJyb0E0ZG5hdzEtYV84SzNONEJJYUJ5TXhlSS1PTFhvZjhmZ0dVSmF4LWFPbG9fbXJXX3J4RnlpajFUOG1JR0NtX2ViTVRDc2tsWTJLaTlDTnI2dFpNbXFZdUFzOUQ2bFlaa1czT2xQVTNQcDhEWjJWcWk4empyaDV3S1ZrS29GMFZjWQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T02:49:50Z",
+   "countries": [
+    "United Arab Emirates",
+    "Kazakhstan"
+   ]
+  },
+  {
+   "id": "us-intelligence-chief-defends-trump-s-comments-c",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "watch",
+   "category": "World",
+   "headline": "अमेरिकी खुफिया प्रमुख ने पुतिन को अपना 'दोस्त' बताने वाली ट्रंप की टिप्पणी का बचाव किया",
+   "summary": "अमेरिकी राष्ट्रीय खुफिया निदेशक जे क्लेटन का कहना है कि शिखर सम्मेलन के संदर्भ में ट्रम्प की टिप्पणियाँ 'पूरी तरह से उचित' थीं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अमेरिकी खुफिया प्रमुख ने पुतिन को अपना 'दोस्त' बताने वाली ट्रंप की टिप्पणियों का बचाव किया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ठीक है। विवरण?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अमेरिकी राष्ट्रीय खुफिया निदेशक जे क्लेटन का कहना है कि शिखर सम्मेलन के संदर्भ में ट्रम्प की टिप्पणियाँ 'पूरी तरह से उचित' थीं।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-23T02:23:13Z",
+   "countries": [
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "major-escalations-in-iran-and-ukraine-conflicts",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "ईरान और यूक्रेन संघर्ष में प्रमुख वृद्धि",
+   "summary": "ईरान और यूक्रेन संघर्ष में प्रमुख वृद्धि",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान और यूक्रेन संघर्ष में प्रमुख वृद्धि।"
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlNPMFBmRDQ5Q1lzVXp1d3B2SW01QTROc1V3dUFZdkI3QkNpdDN5amdRSGl0WnZVMkIwTjJXT09lWlJfVWRNUndMN3Bmd3BaU2VSQ1hadllPQ1R4UC1DUVEya05QR3VoTUNjOXdDZEVGSkxHSVhNdFItaXJobmJucFpuak1jMWZOTWdLMnhMVm1PdXc2NUZNUm9LUkNodw?oc=5",
+   "type": null,
+   "time": "2026-11-23T01:58:59Z",
+   "countries": [
+    "Iran",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "any-talks-with-india-on-terrorism-must-be-eviden",
+   "country": "India",
+   "label": "भारत",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "मुसादिक मलिक का कहना है कि आतंकवाद पर भारत के साथ कोई भी बातचीत 'साक्ष्य-आधारित' होनी चाहिए",
+   "summary": "संघीय मंत्री मुसादिक मलिक ने रविवार को कहा कि आतंकवाद पर पाकिस्तान और भारत के बीच कोई भी बातचीत \"साक्ष्य पर आधारित\" होनी चाहिए।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "मुसादिक मलिक का कहना है कि आतंकवाद पर भारत के साथ कोई भी बातचीत 'साक्ष्य-आधारित' होनी चाहिए।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "संघीय मंत्री मुसादिक मलिक ने रविवार को कहा कि आतंकवाद पर पाकिस्तान और भारत के बीच कोई भी बातचीत \"साक्ष्य पर आधारित\" होनी चाहिए।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
+   "type": null,
+   "time": "2026-11-22T19:22:47Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "'खतरा हर समय बड़ा लगता है': यूक्रेनियन रूसी हमलों के बाद लापता लोगों की तलाश कर रहे हैं",
+   "summary": "बीबीसी की सारा रेन्सफ़ोर्ड यूक्रेन के कीव क्षेत्र में एक ढह गई आवासीय इमारत के दृश्य से रिपोर्ट करती है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "'खतरा हर समय बड़ा लगता है': यूक्रेनियन रूसी हमलों के बाद लापता लोगों की तलाश कर रहे हैं।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "बीबीसी की सारा रेन्सफ़ोर्ड यूक्रेन के कीव क्षेत्र में एक ढह गई आवासीय इमारत के दृश्य से रिपोर्ट करती है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-22T22:37:43Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
   {
    "id": "uae-condemns-iranian-attack-on-bahrain",
    "country": "Bahrain",
@@ -31,508 +543,29 @@
    ]
   },
   {
-   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "पुर्तगाली विदेश मंत्री आधिकारिक यात्रा पर पाकिस्तान पहुंचे: एफओ",
-   "summary": "पुर्तगाली विदेश मंत्री आधिकारिक यात्रा पर पाकिस्तान पहुंचे: एफओ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पुर्तगाली विदेश मंत्री आधिकारिक यात्रा पर पाकिस्तान पहुंचे: एफओ."
-    }
-   ],
-   "source": "Dawn",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KcVpLakY5MFp2UW9GZUZmUHA2Ukc0ZWthemNHbmc2a0N4UVRRSHlQZmM3UW9xckNtbjNaNVlxOGhtRmlmOFAtSQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T06:15:34Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-arabia-intercepts-drone-missile-as-houthis",
-   "country": "Yemen",
-   "label": "यमन",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "सना पर हौथिस के हमले की रिपोर्ट के बीच सऊदी अरब ने ड्रोन, मिसाइल को रोका",
-   "summary": "हौथी मीडिया का कहना है कि एक तेल कंपनी पर हमले में कई लोग घायल हो गए क्योंकि सऊदी हवाई सुरक्षा ने एक ड्रोन को मार गिराया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सना पर हौथिस के हमले की रिपोर्ट के बीच सऊदी अरब ने ड्रोन, मिसाइल को रोका।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "हौथी मीडिया का कहना है कि एक तेल कंपनी पर हमले में कई लोग घायल हो गए क्योंकि सऊदी हवाई सुरक्षा ने एक ड्रोन को मार गिराया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T13:16:45Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "russian-cargo-ship-still-on-fire-off-finland-aft",
-   "country": "Russia",
-   "label": "रूस",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ड्रोन हमले के बाद फिनलैंड में रूसी मालवाहक जहाज में अभी भी आग लगी हुई है",
-   "summary": "फिनिश रक्षा बलों का कहना है कि जहाज पर ड्रोन हमले के पीछे यूक्रेन का हाथ होने की संभावना है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ड्रोन हमले के बाद फिनलैंड में रूसी मालवाहक जहाज में अभी भी आग लगी हुई है।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "फिनिश रक्षा बलों का कहना है कि जहाज पर ड्रोन हमले के पीछे यूक्रेन का हाथ होने की संभावना है।"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
-   "type": null,
-   "time": "2026-11-22T10:45:26Z",
-   "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-it-intercepted-houthi-d",
+   "id": "saudi-arabia-bahrain-report-new-attacks-as-iran-",
    "country": "Saudi Arabia",
    "label": "सऊदी अरब",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद क्षेत्र को निशाना बनाने वाले हौथी ड्रोन को रोका",
-   "summary": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद क्षेत्र को निशाना बनाने वाले हौथी ड्रोन को रोका",
+   "category": "Business",
+   "headline": "सऊदी अरब, बहरीन ने नए हमलों की रिपोर्ट दी है जबकि ईरान का कहना है कि वह अमेरिका के साथ समझौते के लिए तैयार है।",
+   "summary": "सऊदी अरब, बहरीन ने नए हमलों की रिपोर्ट दी है जबकि ईरान का कहना है कि वह अमेरिका के साथ समझौते के लिए तैयार है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "सऊदी नेतृत्व वाले गठबंधन का कहना है कि उसने रियाद क्षेत्र को निशाना बनाने वाले हौथी ड्रोन को रोका।"
+     "text": "सऊदी अरब, बहरीन ने नए हमलों की रिपोर्ट दी है जबकि ईरान का कहना है कि वह अमेरिका के साथ समझौते के लिए तैयार है।"
     }
    ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXZhSkpXTU5LQzhFczI5b1RRZVVSZVkzdndMT296dnhsNXhZU3NFSGVCRTM2bEViZGlIZnA5V0FLVURzLUdSaXlpZXE4QUtvNFVJRm5XZUdoYjdIVTJncGlfRVRidE5XUk9RZVZMblNmUFRNT01STjNuaFhvMEVKSFF6WWM0WUhLSGwxUkoweDduRnBkSWU1bXdGSzY3ZkhMUGpKeXk1RTRtUXFsVnlJUXRpd2pZU3Jf?oc=5",
+   "source": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
    "type": null,
-   "time": "2026-11-22T10:19:04Z",
+   "time": "2026-11-22T13:25:47Z",
    "countries": [
     "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "india-s-oil-gas-import-bill-jumps-60-in-oct-as-b",
-   "country": "India",
-   "label": "भारत",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "भारत का तेल, गैस आयात बिल अक्टूबर में 60% बढ़ गया क्योंकि ब्रेंट क्रूड लगभग दोगुना हो गया",
-   "summary": "भारत का तेल, गैस आयात बिल अक्टूबर में 60% बढ़ गया क्योंकि ब्रेंट क्रूड लगभग दोगुना हो गया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "भारत का तेल, गैस आयात बिल अक्टूबर में 60% बढ़ गया क्योंकि ब्रेंट क्रूड लगभग दोगुना हो गया।"
-    }
-   ],
-   "source": "Rediff",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1UzQzhOb1FCUUU4TUl4RllTWXk5WjBHM2cya09kU0UtbHF4M1pBV3hJZ3JVVXk5NTZfZjJMSXdpSFlnTTNuRmMzVzV1cHZwSUR3b2JjdkhScGRWNTU0WlFHajd4Y1dXa3lHalV6eklrNkgyUWVvR2xUS0RrZDVNYlQySEFHaGNUOFdJZmtCMmh0YzVHSzdSN3VrUm1wUW9SSklVdWRmODlLUUc2d053d0VzdU41R1BEZUJEdU83bnZndw?oc=5",
-   "type": null,
-   "time": "2026-11-22T09:11:47Z",
-   "countries": [
-    "India"
-   ]
-  },
-  {
-   "id": "asia-cup-rising-stars-nepal-registers-impressive",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "एशिया कप उभरते सितारे: नेपाल ने यूएई के खिलाफ प्रभावशाली जीत दर्ज की",
-   "summary": "एशिया कप उभरते सितारे: नेपाल ने यूएई के खिलाफ प्रभावशाली जीत दर्ज की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "एशिया कप उभरते सितारे: नेपाल ने यूएई के खिलाफ प्रभावशाली जीत दर्ज की।"
-    }
-   ],
-   "source": "The Rising Nepal",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPazJpU1dlTktiTlV1WWd4R1NYVEZ2a1A3cER5cU5iWWxnRnBEc1gwcVJXcF94R2pnY29nUVd6VjR4ZVd0VTlWWTU3c0MzX2Zj?oc=5",
-   "type": null,
-   "time": "2026-11-22T13:02:17Z",
-   "countries": [
-    "United Arab Emirates",
-    "Nepal"
-   ]
-  },
-  {
-   "id": "saudi-arabia-warns-iran-of-consequences-after-at",
-   "country": "Bahrain",
-   "label": "बहरीन",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "बहरीन पर हमले में दो लोगों के घायल होने के बाद सऊदी अरब ने ईरान को परिणाम भुगतने की चेतावनी दी",
-   "summary": "बहरीन पर हमले में दो लोगों के घायल होने के बाद सऊदी अरब ने ईरान को परिणाम भुगतने की चेतावनी दी",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "बहरीन पर हमले में दो लोगों के घायल होने के बाद सऊदी अरब ने ईरान को परिणाम भुगतने की चेतावनी दी।"
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-22T15:28:55Z",
-   "countries": [
     "Bahrain",
-    "Saudi Arabia",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russian-attack-near-ukraine-s-capital-strikes-ap",
-   "country": "Ukraine",
-   "label": "यूक्रेन",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "यूक्रेन की राजधानी के पास रूसी हमले में अपार्टमेंट इमारत पर हमला हुआ, जिसमें 2 की मौत हो गई और 4 अन्य घायल हो गए",
-   "summary": "यूक्रेन की राजधानी के पास रूसी हमले में अपार्टमेंट इमारत पर हमला हुआ, जिसमें 2 की मौत हो गई और 4 अन्य घायल हो गए",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यूक्रेन की राजधानी के पास रूसी हमले में अपार्टमेंट इमारत पर हमला हुआ, जिसमें 2 की मौत हो गई और 4 अन्य घायल हो गए।"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
-   "type": null,
-   "time": "2026-11-22T14:10:00Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "athlete-swims-strait-of-hormuz-to-raise-awarenes",
-   "country": "Iran",
-   "label": "होर्मुज़ जलडमरूमध्य",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ईरान युद्ध के कारण वन्यजीवों पर पड़ने वाले प्रभाव के बारे में जागरूकता बढ़ाने के लिए एथलीट ने होर्मुज जलडमरूमध्य में तैराकी की",
-   "summary": "ईरान युद्ध के कारण वन्यजीवों पर पड़ने वाले प्रभाव के बारे में जागरूकता बढ़ाने के लिए एथलीट ने होर्मुज जलडमरूमध्य में तैराकी की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान युद्ध के कारण वन्यजीवों पर पड़ने वाले प्रभाव के बारे में जागरूकता बढ़ाने के लिए एथलीट ने होर्मुज जलडमरूमध्य में तैराकी की।"
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzJ5Mkk0bVR3U0FIeVVxV0xfNVJSSVVGbE0xMmlEdGFmUE02bXV3TDRsZlVMZ080Ump0eFpnNjJkcHRpUmItSWN6V2x0YV9CODRSV0JKSWZHZEttMlhpazkwMTZCOW05d3RwbnpkTUV6NDg2QlU1RzFtbkM3TUk2SExmemU?oc=5",
-   "type": null,
-   "time": "2026-11-22T01:30:53Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "us-congress-helped-end-the-vietnam-war-can-it-st",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "अमेरिकी कांग्रेस ने वियतनाम युद्ध को समाप्त करने में मदद की। क्या यह ईरान युद्ध रोक सकता है?",
-   "summary": "कांग्रेस ने वियतनाम युद्ध के लिए वित्त पोषण पर रोक लगा दी, जिससे साइगॉन में दक्षिण वियतनामी सरकार के पतन में योगदान हुआ।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिकी कांग्रेस ने वियतनाम युद्ध को समाप्त करने में मदद की। क्या यह ईरान युद्ध रोक सकता है?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "कांग्रेस ने वियतनाम युद्ध के लिए वित्त पोषण पर रोक लगा दी, जिससे साइगॉन में दक्षिण वियतनामी सरकार के पतन में योगदान हुआ।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T12:31:30Z",
-   "countries": [
-    "United States of America",
-    "Vietnam",
-    "Iran"
-   ]
-  },
-  {
-   "id": "-china-backed-pakistan-during-operation-sindoor-",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "'भारत के उत्थान को रोकने के लिए ऑपरेशन सिन्दूर के दौरान चीन ने पाकिस्तान का समर्थन किया': अमेरिकी पैनल",
-   "summary": "'भारत के उत्थान को रोकने के लिए ऑपरेशन सिन्दूर के दौरान चीन ने पाकिस्तान का समर्थन किया': अमेरिकी पैनल",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "'भारत के उत्थान को रोकने के लिए ऑपरेशन सिन्दूर के दौरान चीन ने पाकिस्तान का समर्थन किया': अमेरिकी पैनल।"
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEQyQ2QtUEo2a3dtR2VyUm9Na1dxaFkxUjhpNEh4MVk4VkQ1MXZGbXNjVzdCY2VYNWwzXzVobm43U3dYSWQxdUVVUXRvVl9PS3Y3ZmNUbGdRVG5pT256SlJQaTFOTnE5QVJIRDRLNzR0MHNldmpKMlNzRG9IMU1ndExGM191Q3M5c0ZHN3J6VVVWVzVQY3MzYlFhVGNCdVJLMVlpaFA1NEVYUkUtZUhfOA?oc=5",
-   "type": null,
-   "time": "2026-11-22T16:05:26Z",
-   "countries": [
-    "Pakistan",
-    "China",
-    "India",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "what-s-behind-iran-s-escalation-of-attacks-in-th",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "खाड़ी में ईरान के बढ़ते हमलों के पीछे क्या है?",
-   "summary": "तेहरान ने हमले तेज कर दिए हैं क्योंकि अमेरिकी नौसैनिक नाकेबंदी और प्रतिबंध अभियान ने देश को आर्थिक रूप से नुकसान पहुंचाया है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "खाड़ी में ईरान के बढ़ते हमलों के पीछे क्या है?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "तेहरान ने हमले तेज कर दिए हैं क्योंकि अमेरिकी नौसैनिक नाकेबंदी और प्रतिबंध अभियान ने देश को आर्थिक रूप से नुकसान पहुंचाया है।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T11:46:42Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "middle-east-war-what-uae-residents-need-to-know-",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "मध्य पूर्व युद्ध: संयुक्त अरब अमीरात के निवासियों को आज शाम, 22 नवंबर को क्या जानना चाहिए",
-   "summary": "मध्य पूर्व युद्ध: संयुक्त अरब अमीरात के निवासियों को आज शाम, 22 नवंबर को क्या जानना चाहिए",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "मध्य पूर्व युद्ध: संयुक्त अरब अमीरात के निवासियों को आज शाम, 22 नवंबर को क्या जानना चाहिए।"
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaVRkUnE1dDAwQ1VnOUFXX3VyZkVJSWhhUExrLXpubXlMaFlmeFVxeTl6U1FGcGxNcmlKUzBqQ0JaSV9CWVVlUkFzWmFGSVBLVTM5bGxNQlgzVkM3RTVhQjdGbGVZR2lqc3VHU2o0VFhHazl6WUFKUDloNjJtWDhKSzgtMWFpRjZqYk1Id0lEX2ZZTXplUlB3SHI2ZUtjUFpqd2tVRFg0bnp6dHZqZjl5MFZ5Xy16azjSAcoBQVVfeXFMTlRMODM4RUU3TXhIdU9icWhWSFZiUjc0cHh2UkYwWEM3ZEh3Y0JIQmpKWlpyc1Y1MF9nSUlfeFNURm9qSlhwWklUeXpkc0lYaElvTlNNemlKTWZnTHRfQy1IamJlN3pHVF9TLWRtQzd3OGwtZDBCWkVjSTdyOXJSWXEydU1XLTIxdkl1Z2RnTHA0QTJFYTJ2LTk4UnBoX0JWa0JybUtCajNYSHE1d2lGWHFLMnV3REFhaEZtdGZCbzdTNERrZm5hY1dEUQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T15:31:20Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "explosion-on-russian-ship-at-libya-port-caused-b",
-   "country": "Libya",
-   "label": "लीबिया",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "अधिकारियों का कहना है कि लीबिया बंदरगाह पर रूसी जहाज़ पर संदिग्ध ड्रोन हमले के कारण विस्फोट हुआ",
-   "summary": "लीबिया की पूर्वी सरकार का कहना है कि जहाज़ रूस लौटते समय ईंधन और आपूर्ति के लिए रुका था।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अधिकारियों का कहना है कि लीबिया बंदरगाह पर रूसी जहाज़ पर संदिग्ध ड्रोन हमले के कारण विस्फोट हुआ।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "लीबिया की पूर्वी सरकार का कहना है कि जहाज़ रूस लौटते समय ईंधन और आपूर्ति के लिए रुका था।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-22T17:12:01Z",
-   "countries": [
-    "Libya",
-    "Russia"
-   ]
-  },
-  {
-   "id": "israeli-settlers-attack-multiple-palestinian-vil",
-   "country": "Israel",
-   "label": "इजराइल",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "नरसंहार बढ़ने पर इजरायली निवासियों ने कई फिलिस्तीनी गांवों पर हमला किया",
-   "summary": "इजरायली निवासियों ने रविवार को कब्जे वाले वेस्ट बैंक में कई फिलिस्तीनी कस्बों और गांवों पर हमला किया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "नरसंहार बढ़ने पर इजरायली निवासियों ने कई फिलिस्तीनी गांवों पर हमला किया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "कोई हताहत?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "इजरायली निवासियों ने रविवार को कब्जे वाले वेस्ट बैंक में कई फिलिस्तीनी कस्बों और गांवों पर हमला किया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T16:50:48Z",
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "zelenskyy-urges-us-to-release-patriot-missiles-a",
-   "country": "Ukraine",
-   "label": "यूक्रेन",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ज़ेलेंस्की ने अमेरिका से पैट्रियट मिसाइलें छोड़ने का आग्रह किया क्योंकि रूस ने यूक्रेन में 5 लोगों को मार डाला",
-   "summary": "कीव के पास दो रूसी हमलों में कम से कम चार लोगों की मौत हो गई, जबकि ज़ापोरिज़िया में रूसी गोलाबारी में एक की मौत हो गई।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ज़ेलेंस्की ने अमेरिका से पैट्रियट मिसाइलें छोड़ने का आग्रह किया क्योंकि रूस ने यूक्रेन में 5 लोगों को मार डाला।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "कीव के पास दो रूसी हमलों में कम से कम चार लोगों की मौत हो गई, जबकि ज़ापोरिज़िया में रूसी गोलाबारी में एक की मौत हो गई।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T14:48:50Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "iran-unveils-dual-missile-launcher-new-missile-c",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "ईरान ने दोहरे मिसाइल लांचर, नए 'मिसाइल शहर' का अनावरण किया: क्या जानें",
-   "summary": "अमेरिकी हमलों के बावजूद सैन्य क्षमताओं का प्रदर्शन करने के लिए सैन्य अधिकारियों ने भूमिगत सुविधा का दौरा किया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान ने दोहरे मिसाइल लांचर, नए 'मिसाइल शहर' का अनावरण किया: क्या जानें।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "समझा। जारी रखें।"
-    },
-    {
-     "role": "ANALYST",
-     "text": "अमेरिकी हमलों के बावजूद सैन्य क्षमताओं का प्रदर्शन करने के लिए सैन्य अधिकारियों ने भूमिगत सुविधा का दौरा किया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T14:20:41Z",
-   "countries": [
     "Iran",
     "United States of America"
    ]
