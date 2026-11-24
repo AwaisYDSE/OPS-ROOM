@@ -1,7 +1,32 @@
 {
- "updated": "2026-11-23T13:03:52.395846Z",
+ "updated": "2026-11-24T00:59:22.657409Z",
  "generator": "rss",
  "stories": [
+  {
+   "id": "pakistan-portugal-agree-to-expand-political-ties",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Pakistan, Portugal agree to expand political ties, trade, investment",
+   "summary": "Pakistan, Portugal agree to expand political ties, trade, investment",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Portugal agree to expand political ties, trade, investment."
+    }
+   ],
+   "source": "US Muslims",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHVsR3JiZWNsUmZQU3BnVEc0cDFPT0tKTWlDOG9tMDhVQ3lMSlVpckRqQ2tpLWIzWGh2R2gzb0g1ZG5CcDJRR0ZjOWlJNW5MTXpXSF9LZ2xRUENWSzFCQXVQY1JpR1JlczBJTjdKY2FfaC1ZSXdVdG02ck5nQjNUWUtDaDdtWENyWGhQUjNxamNYcTRsc2Y5ZWhtbzMta3ZZWVlab3BCOVdSb1BfQmsxM0dyR3NqUdIBtgFBVV95cUxOdHVsR3JiZWNsUmZQU3BnVEc0cDFPT0tKTWlDOG9tMDhVQ3lMSlVpckRqQ2tpLWIzWGh2R2gzb0g1ZG5CcDJRR0ZjOWlJNW5MTXpXSF9LZ2xRUENWSzFCQXVQY1JpR1JlczBJTjdKY2FfaC1ZSXdVdG02ck5nQjNUWUtDaDdtWENyWGhQUjNxamNYcTRsc2Y5ZWhtbzMta3ZZWVlab3BCOVdSb1BfQmsxM0dyR3NqUQ?oc=5",
+   "type": null,
+   "time": "2026-11-23T12:59:51Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
   {
    "id": "ukraine-shares-video-of-strikes-on-russian-ships",
    "country": "Russia",
@@ -38,6 +63,75 @@
    ]
   },
   {
+   "id": "us-escalates-sanctions-on-iran-targets-shadow-ba",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+   "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US escalates sanctions on Iran, targets ‘shadow banking’ networks."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-23T21:30:40Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "what-strike-on-russian-ship-in-libya-says-about-",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "What strike on Russian ship in Libya says about spread of Ukraine war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
+    }
+   ],
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Nkh0dF9ndTRBVjktYnQtQWh4clVUZVlwcmtIdjFLa0dfeW5Wb3NFVlhuYXJ4d0Y0c2ZLZG5zaTd0TEdnNHFFVzhUV3VYS1lXWnYyZHFzSjUzdTg?oc=5",
+   "type": null,
+   "time": "2026-11-23T20:48:35Z",
+   "countries": [
+    "Russia",
+    "Libya",
+    "Ukraine"
+   ]
+  },
+  {
    "id": "russian-warship-hit-by-ukrainian-drones-in-libya",
    "country": "Libya",
    "label": "LIBYA",
@@ -62,10 +156,10 @@
      "text": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
     }
    ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RYTdJa3FLUUotRjRtWmFYcWsyT29UT0FCVDUycVp4MmlCMUkzUVR3cVJUVTJWNDlQX0JLbk01S29SZEtLM0lXZHdzX2U4N2JBVDdhVjN2TEdlczg?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-23T11:40:01Z",
+   "time": "2026-11-23T15:41:23Z",
    "countries": [
     "Libya",
     "Russia",
@@ -73,168 +167,33 @@
    ]
   },
   {
-   "id": "gold-price-rises-by-rs7-800-per-tola-in-pakistan",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "oil-falls-as-trump-signals-iran-talks",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Gold price rises by Rs7,800 per tola in Pakistan",
-   "summary": "Gold price rises by Rs7,800 per tola in Pakistan",
+   "headline": "Oil Falls as Trump Signals Iran Talks",
+   "summary": "Oil Falls as Trump Signals Iran Talks",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Gold price rises by Rs7,800 per tola in Pakistan."
+     "text": "Oil Falls as Trump Signals Iran Talks."
     }
    ],
-   "source": "Investify",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObll4Y1NubVhPRmVpV1Nyc3BCLXNJd3B3UEphelU1MExkeWZpUTdka0gtRHhmQ2ZpczNvaUZqQklLd0d4Q29FcDJCRjJvSkZpSTdKZ2hqcHc4dElMdUctSTV3RWxqRDJHT2FLdm1tNDd2NUJITXN5eXNrbHBoLUFWX3o3X2ZSMkNrSFVYSHEtSlRpeTBsZkE?oc=5",
+   "source": "Rigzone",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVJYY3pCTWZaU2xmc3VMQXdJbkFGWVVScUV3Q1JjaC1tWWRJdGlHalFfRms1MUhzRllrSXJCMlZoWFNsX3RXVGlpWWxRUlhBYnhNR1VDdTR0enZVcURIWUZXVXlKZjNjRktGZ18ycVIxRXh6aGd2RkJlZ0NhSTQ2bWRvUC05Tk0xcGpDV3N3aHJwRW5ULTdNUmltZVpjVVlO?oc=5",
    "type": null,
-   "time": "2026-11-23T10:57:26Z",
+   "time": "2026-11-23T21:30:00Z",
    "countries": [
-    "Pakistan"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "portugal-eyes-deeper-trade-investment-ties-with-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Portugal eyes deeper trade, investment ties with Pakistan",
-   "summary": "Portugal eyes deeper trade, investment ties with Pakistan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Portugal eyes deeper trade, investment ties with Pakistan."
-    }
-   ],
-   "source": "Mettis Global",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzRhNlFCamY4Q2RXZEg1Z3VqbFdsUGFIUk5tRHF2eHJFVjQzaE5ReFZXSFBDSVlacC1rV2tjYkxKaHZPUFNJeDFKQUVjWEVsOE5HcmRFVmdOREtadzlSUGVQdHF6MnhFS2ZNOFFRZkZpR0ZQempZRG4ySWV5bHJUQWVCd0dldVNXc2tEX3JYS0pWUQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T08:06:00Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "yemen-s-houthis-claim-attacks-on-saudi-oil-refin",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-   "summary": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year."
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YeVVuSzlMa1Vza0JNYXpXbGw2emp5RndTVHplTzB1QllobEw0SW5Dc3VyTFhwMFJnMkpRSEJEZnhPOFFZYWZhckZXaUlKdTZPRzNyOGNzLWp0YUZDOHM4N0xZQWZHVm9zOHRPbXp1a040YUHSAXhBVV95cUxNcG02RV9VeGk3SG90SjhQdWEyTGd3RVdNRmw4YkZreEZmY2JHUU5nVGNBQklaSmFES0ppelA3UmZFVFVUdVF0RzlzdVBtWWF1emF1U3o1N0x4T25VRDVTMS1Od3BWZnhTVERFN0hJd1Bud1hHdkk3MnA?oc=5",
-   "type": null,
-   "time": "2026-11-23T03:40:00Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "dubai-and-middle-east-flight-disruption-flight-c",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks",
-   "summary": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Dubai and Middle East flight disruption: flight cancellations and route suspensions continue as Gulf states report more attacks."
-    }
-   ],
-   "source": "Condé Nast Traveller Middle East",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQMUI1MUhsMXNhMmFvZ3RaMmxWbFYzcjhLcmtCRmU4RjRMdHktcXlvQ2hiOThXMTE5czJQUkpWdk5reU1TRVk2X241OExBOXJISXUxdG1lU0ZyU21DMXBaQ2I2QWJPdGFqZE84NVhYZ3c5YWlXSUx2WVdCN1dUOW1UdkpjNHRPX2JFbV9GUmtidXlNcldoU053eEV1R1hsSTg1NW9YcFBuRmM4ZzY1TkNwZ1NGMElVOWdETlVRWjhmNEU0MEZ2ZVpRN0xoRndhOEJwWjYzOFgwZVZ4S2FsX0REaVV5Sm52YUxxeTVwRWdRMXpHaHJV?oc=5",
-   "type": null,
-   "time": "2026-11-23T07:59:19Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "adb-invests-in-pakistan-based-b2b-fintech-compan",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Tech",
-   "headline": "ADB invests in Pakistan-based B2B fintech company Neem",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Monday said it invested an undisclosed amount in Neem, a Pakistan-based B2B fintech company that helps businesses receive, manage, and pay out money digitally.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ADB invests in Pakistan-based B2B fintech company Neem."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Understood. Go on."
-    },
-    {
-     "role": "ANALYST",
-     "text": "ISLAMABAD: The Asian Development Bank (ADB) on Monday said it invested an undisclosed amount in Neem, a Pakistan-based B2B fintech company that helps businesses receive, manage, and pay out money digitally."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046518/adb-invests-in-pakistan-based-b2b-fintech-company-neem",
-   "type": null,
-   "time": "2026-11-23T07:12:17Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "white-friday-2026-ai-shopping-agents-threaten-tr",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia",
-   "summary": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "White Friday 2026: AI shopping agents threaten traditional brand loyalty in UAE, Saudi Arabia."
-    }
-   ],
-   "source": "Gulf Business",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzROUlpDeVcyTV9uU2t0eTN3RDZPWEM1SmUwX1owX3Noc2dMd3g1dWpLaG1ySWhscERjYXVVb1M5R2xvRWd0VnZiWVBoaVdveTFsVWEtRk4yS01ZeG9GSUZZRjBMMWdaZm9ucy1sMUJtRWVGclFKeGJtaEJJYk5ianYycjFvLXZ5RFpFd1lGd0V0UGwwSXRJcy1ZOWlJbTBKeUdsTUNuTGhuV2toZEc4bjJJMFI5dFU4dFhqazFNaFdqQlA4YlFmT0x0SWY3elpuVG8zbQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T09:40:46Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "iranian-attacks-on-ships-near-strait-of-hormuz-h",
+   "id": "iran-war-live-iran-says-three-ships-catch-fire-a",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -242,18 +201,26 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows",
-   "summary": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows",
+   "headline": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+   "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iranian attacks on ships near Strait of Hormuz hit highest level since war began, data shows."
+     "text": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz."
     }
    ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSWDJ3dGtDQ1RaWjFnbXZ5VEdJZVR3T1IwSW5RaUpqSDdJOW5KN3h3QXFKY3Q3UW1IVUhEOXBienRvRlZLUDREaXlGSC1PM2N0aWc2eXEzMGdVS2xGeUFoX1ZSY09yUzhENmc?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
    "type": null,
-   "time": "2026-11-23T10:49:41Z",
+   "time": "2026-11-24T00:00:00Z",
    "countries": [
     "Iran"
    ]
@@ -278,53 +245,145 @@
    "source": "ASHARQ AL-AWSAT English",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORU5hX2hhOHhxNS03UUNTaENVbUtIdDItcWRoRWE3clF2Slh5WTF1M2xIOG9ZWXFoR3ZKS3RRUjB6R19ZMHc4aURkVXZsalNqYWcwZ0lFZHdoZFFRRzgyczlLNWxURVJXLVRjY3o4UWVhN1JlcXZaTzlkdS1fUXBqdVZHenRnZUJjTEU3VUJjSkdpMGR4UkN6eQ?oc=5",
    "type": null,
-   "time": "2026-11-23T10:43:49Z",
+   "time": "2026-11-23T16:46:28Z",
    "countries": [
     "Sudan",
     "Saudi Arabia"
    ]
   },
   {
-   "id": "houthi-media-says-saudi-strike-kills-10-in-yemen",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
+   "id": "eisenkot-says-no-immediate-iran-threat-requiring",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
    "category": "Middle East",
-   "headline": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida",
-   "summary": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida",
+   "headline": "Eisenkot says no immediate Iran threat requiring Israeli military action",
+   "summary": "Eisenkot says no immediate Iran threat requiring Israeli military action",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthi Media Says Saudi Strike Kills 10 in Yemen's Hodeida."
+     "text": "Eisenkot says no immediate Iran threat requiring Israeli military action."
     }
    ],
-   "source": "Kurdistan24",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb3N0NTNmRUh3b3M3N0xlOU5lV3N1Uzk4M0VkY0JhT2JCLXhXMFdWd1lpRzdReG4tUldsTmZ3cHBnTm10S0dVbjY4WkZna2xsX1FrVTVIX3gyQmxUcnMzUG5mTldhdjR2ZXBSbFF0MmlHY040ZXpEeU5YM3NlZGdEUldhNjVBU3JkcWRnMEVTdnBhc1RzYlhMTzAyMlZzV1hQdHRJ?oc=5",
-   "type": null,
-   "time": "2026-11-23T10:26:00Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-23T23:01:56Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Iran",
+    "Israel"
    ]
   },
   {
-   "id": "any-talks-with-india-on-terrorism-must-be-eviden",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Any talks with India on terrorism must be 'evidence-based', says Musadik Malik",
-   "summary": "Federal minister Musadik Malik said on Sunday that any dialogue between Pakistan and India on terrorism must be “based on evidence”.",
+   "id": "iran-flogs-singer-parastoo-ahmadi-for-performing",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+   "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Any talks with India on terrorism must be 'evidence-based', says Musadik Malik."
+     "text": "Iran flogs singer Parastoo Ahmadi for performing without headscarf."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ahmadi and four production team members also face two-year bans on travel and artistic activity."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2VvLXJGZDFZYWtNRWkwbEhtblRjNTFWRWRlbEE5NjJmZ2pTT1RDZnRwYkpnbEQxc2RXOHZ5SEdFcndfR0ZOalNkOVFlRVBoRWFTblR0WjR6VUNpZ21pQlV2dGZEUzFnVTFvV0RPODJ5UDRvaUtpNWpBZXE0X2k3QTVtalVoZ2JYeU5mQnVCMUZjVnRuNGRvUGRFaTRTTXBUYUZPTFBuTllkbWJQ0gGyAUFVX3lxTE9PblczbUswY09GZnJGTjRHVVlndFlmWVBmNHllNG1pTGtDUXNuTVBiQzcyRi15Sm1TQ2dhQmRsa0JCdmVvc0dUMlZ0eE54dlJyUUlrNUlOTmxFSk92MjBhZHZTSWVKTk5ENW1SbDRHRW1DS3NSUnA2WlNaUjQtVzQwT0h3UExiN21CYjhtVTFzUXBjZnZ4UUFibHdaSmZlMWZzQWx2OEcwazhVbXIteERma1E?oc=5",
+   "type": null,
+   "time": "2026-11-23T20:50:20Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "eu-plans-sports-ban-in-sweeping-new-russia-sanct",
+   "country": "Russia",
+   "label": "RUSSIA",
+   "lat": 55.75,
+   "lon": 37.6,
+   "flag": "🇷🇺",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "EU plans sports ban in sweeping new Russia sanctions proposal",
+   "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "EU plans sports ban in sweeping new Russia sanctions proposal."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the situation now?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-23T23:26:16Z",
+   "countries": [
+    "Russia"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-intercepts-houthi-drone-targ",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia",
+   "summary": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGNkeUFwUks2OTJ3MVhodzhfWERpUUc0SlpycFdpRWUtMWd4bHVXenlTVHJ4WC1hbUQ2ZzhNQkNDOWcyejZxS29tWjcxdm1PVExjR1RlQTV1S2ZQT0s4V2NwZ0YzTUhWSVlmNW1hNDZNRV9jVkxQSTJxWm8wa0dyaWdITmI2aHJoUllRTFZHYWk2cTY2cHkzTnZMOXVncWN0cmpKcU94OWdLLURRVGdNZG95dGl4aU95OTJWYg?oc=5",
+   "type": null,
+   "time": "2026-11-23T23:18:51Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "iran-hits-us-bases-and-civilian-sites-in-the-gul",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Iran hits US bases and civilian sites in the Gulf after a lull",
+   "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran hits US bases and civilian sites in the Gulf after a lull."
     },
     {
      "role": "COMMANDER",
@@ -332,193 +391,150 @@
     },
     {
      "role": "ANALYST",
-     "text": "Federal minister Musadik Malik said on Sunday that any dialogue between Pakistan and India on terrorism must be “based on evidence”."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
-   "type": null,
-   "time": "2026-11-23T05:22:46Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-threatens-response-to-any-attack-amid-naval",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran threatens response to any attack amid naval blockade",
-   "summary": "Iran threatens response to any attack amid naval blockade",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran threatens response to any attack amid naval blockade."
+     "text": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
    "type": null,
-   "time": "2026-11-23T12:25:24Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "israeli-attacks-have-turned-gaza-into-toxic-wast",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-   "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-23T11:57:33Z",
-   "countries": [
-    "Israel",
-    "Palestine"
-   ]
-  },
-  {
-   "id": "new-attacks-have-failed-claims-trump-as-iran-imp",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "New attacks have failed, claims Trump, as Iran imposes power cuts",
-   "summary": "New attacks have failed, claims Trump, as Iran imposes power cuts",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "New attacks have failed, claims Trump, as Iran imposes power cuts."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-23T09:55:02Z",
+   "time": "2026-11-23T20:26:40Z",
    "countries": [
     "United States of America",
     "Iran"
    ]
   },
   {
-   "id": "at-least-15-killed-in-ukraine-s-kyiv-region-as-r",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "islam-makhachev-says-usman-nurmagomedov-did-noth",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
    "severity": "critical",
-   "category": "World",
-   "headline": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
-   "summary": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+   "category": "UAE",
+   "headline": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
+   "summary": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks."
+     "text": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdThVT3d4Z0ZlZEktMV85YW1SR1hpX1h1VWE4a0lRSldQdmtDYmx3emY4bU1HOWcwU2FsREFaVGgwSDJ0Yl9xeVhoeE5zb1NocVFQTzB3TS1zSklTdl9aZVhQaG5oTGxaN0E1MmxJa2plMU9SeFJ5MnRSOUk0emRENG5jVEI4Z2hETHhHX1loanZyRjFUNEZfMklFUnY5SHhHWTN2WFpvbU9DSWYxbmd4WTZRNG1Kc1VCRUtXWmxySFpxWHR0WEJaV0d4MVNFVnRaTlRTbzJVYk9faENQVHFBcGdRbERPdjNCN19sNUpn?oc=5",
    "type": null,
-   "time": "2026-11-23T09:34:25Z",
+   "time": "2026-11-23T18:58:14Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "United Arab Emirates"
    ]
   },
   {
-   "id": "trump-hosts-private-dinner-for-largest-owners-of",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "-no-national-security-risk-nvidia-reinstates-jen",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
    "severity": "markets",
-   "category": "Sports",
-   "headline": "Trump hosts private dinner for largest owners of his meme coin",
-   "summary": "US President Donald Trump has made hundreds of millions from his $TRUMP meme coin, but at a Sunday dinner for the token’s biggest holders, he said his motive for supporting the cryptocurrency was to boost the economic competitiveness of the United States.",
+   "category": "Tech",
+   "headline": "'No national security risk': Nvidia reinstates Jensen Huang as CEO after affair scandal",
+   "summary": "Nvidia on Monday reinstated Jensen Huang as chief executive after input from senior US government officials left its board confident he posed no national security risk, less than two weeks after the co-founder resigned due to an alleged spy scandal.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump hosts private dinner for largest owners of his meme coin."
+     "text": "'No national security risk': Nvidia reinstates Jensen Huang as CEO after affair scandal."
     },
     {
      "role": "COMMANDER",
-     "text": "What does it mean for prices?"
+     "text": "Why the move?"
     },
     {
      "role": "ANALYST",
-     "text": "US President Donald Trump has made hundreds of millions from his $TRUMP meme coin, but at a Sunday dinner for the token’s biggest holders, he said his motive for supporting the cryptocurrency was to boost the economic competitiveness of the United States."
+     "text": "Nvidia on Monday reinstated Jensen Huang as chief executive after input from senior US government officials left its board confident he posed no national security risk, less than two weeks after the co-founder resigned due to an alleged spy scandal."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXVidE4wWjBSODFQSG5weXZmek5Nb3c2YnNHZEUzb21yMjhNZkhKeFJqeDBHVzNJd2VFTDJnNHJZZndYeFhnRXo1dGYwRHBlZlBCUmg5a1Buc0kzQnVlVEQwVk1rS3hIOHZKZ0dFTG84VXBIV29qQ0hBSFpOWTl5MWRxQ0pKdk9qbnFDbzdLaXkyMV9FTi1SYmJzZnkwcndpZ2dFeGJ3WXA2d9IBrwFBVV95cUxOY0NnVnZEaGVETUk3NEJPT0NSU0w2bUpseXF0ZVpwR1NDYW5BZ2NYN19YLWxPdkt3U190VTBMR3VOSWJNSXFVQkhjRjBpMm1iUEc2ZkxwWWJrb0puMzhxVV9OZlpHZUR0bjlyNGJmRVI3bFI5U2tGTkdpNk9oSnBlSC1sZ19LY2Y4d0h6WDJueTVBVzh5VFZrWHZYcTlzNWlFN0hVZFJldkI4NmVlSjFF?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046556/no-national-security-risk-nvidia-reinstates-jensen-huang-as-ceo-after-affair-scandal",
    "type": null,
-   "time": "2026-11-23T08:04:59Z",
+   "time": "2026-11-23T16:55:16Z",
    "countries": [
+    "China",
     "United States of America"
    ]
   },
   {
-   "id": "irgc-claims-2-supertankers-hit-mines-in-hormuz-i",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
-   "summary": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days",
+   "id": "md5-al-ain-fc-uae-1-1-esteghlal-fc-irn-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)",
+   "summary": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "IRGC Claims 2 Supertankers Hit Mines in Hormuz, Iran Toll Reaches 6 in 4 Days."
+     "text": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)."
     }
    ],
-   "source": "houseofsaud.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTFJzc0VSX0NQYmxHZE5POGI1bHlUcjFDQ0pvTGQ4XzhfcnJybmdQbXhvM21TRWoxRjM5OHVjQVdLdVFVajk2OVNFNFU4LW1YUW96cE1wZ21JSklIQk1HU1llamhXR2VGVjlQVA?oc=5",
+   "source": "The AFC",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm9RVjBGN2g5bVF2bmd3WmxkZnRFbnRleE1HSTV4NTBjcHRkMzEtWVBNS01DYVV3eWZqZ0FEck5id1lyaW9GWENDalo0OHlxSHlWMGxQYlVkZDJocTgyUjlIRlBRNG94UU5lUEpKUDNFYU9ITi1IM1NRM0FJa1lrbms1eWJwVURTYVlhOVVnRmFjdG5lNzUxOEpaOVQ0U1RMTk9Nalk5WVlLcmc?oc=5",
    "type": null,
-   "time": "2026-11-23T11:47:07Z",
+   "time": "2026-11-23T18:08:41Z",
    "countries": [
-    "Iran"
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "un-water-summit-to-be-held-every-three-years-aft",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "UN water summit to be held every three years after next month's UAE talks",
+   "summary": "UN water summit to be held every three years after next month's UAE talks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UN water summit to be held every three years after next month's UAE talks."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0dDTXhEdDBtMlpHY1Bha2ZjalFXNHFRZXV5OVM1cWVESXEzajMxY0wwTk5UUWRUVTV5NWRlQmhueHViTEdZZW96Y3lENm5aNXdTQ2JuODdOcDNlMEZWWHY5THc2YVlPenBlVXZoVzBmWWl6TjhtczJaYzZKNlY5d2txc0taQWx5VlItaDQ2bXptakJ0LVpoY19JTm5HclNFQjgyTXNRaDkwRmRJOWZEdjRB?oc=5",
+   "type": null,
+   "time": "2026-11-23T17:28:35Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-suspends-8-officials-for-deadly-fire-ou",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital",
+   "summary": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital."
+    }
+   ],
+   "source": "https://dailyasianage.com/",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTdVd3cxbnc1RjlGbTloa2dyUnFGX1AwQzlqVFZZdnM3RXNtdHpLWVVuWm12azhObnRLekEyRXh6aDFUTjhYbDVLUmxseDItcnBTSVFyMl9tX013TE9xMHFQcWJ6SklqMGRXUmJtYWptc1BSeFNSdE9KY3Q1UlJ5UXVZcmhLNnA0MzJPcktMU1JVSDZGZnRMWGZsYlFBajY1dGtPa21rOA?oc=5",
+   "type": null,
+   "time": "2026-11-24T00:55:09Z",
+   "countries": [
+    "Pakistan"
    ]
   }
  ]
