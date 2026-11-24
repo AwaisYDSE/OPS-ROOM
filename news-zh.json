@@ -1,56 +1,480 @@
 {
- "updated": "2026-11-23T03:12:11.443380Z",
+ "updated": "2026-11-24T11:03:57.209365Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "drilling-for-oil",
+   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "石油钻探",
-   "summary": "巴基斯坦再次努力在其近海水域勘探石油和天然气储备，这次是与土耳其合作，这需要谨慎乐观。我们以前来过这里。历届政府都致力于近海勘探。",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "巴基斯坦的泽山·阿里将进行历史性的飞往中国空间站的飞行",
+   "summary": "巴基斯坦空军飞行员将在天宫号上度过大约一周的时间，与中国机组人员进行实验。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "钻探石油。"
+     "text": "巴基斯坦的泽尚·阿里 (Zeeshan Ali) 开始了历史性的飞往中国空间站的飞行。"
     },
     {
      "role": "COMMANDER",
-     "text": "这对价格意味着什么？"
+     "text": "有什么影响？"
     },
     {
      "role": "ANALYST",
-     "text": "巴基斯坦再次努力在其近海水域勘探石油和天然气储备，这次是与土耳其合作，这需要谨慎乐观。我们以前来过这里。历届政府都致力于近海勘探。"
+     "text": "巴基斯坦空军飞行员将在天宫号上度过大约一周的时间，与中国机组人员进行实验。"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046470/drilling-for-oil",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
    "type": null,
-   "time": "2026-11-23T02:52:26Z",
+   "time": "2026-11-24T07:55:18Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "china-unveils-new-space-mission-crew-with-a-paki",
+   "country": "China",
+   "label": "中国",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "中国公布新的太空任务人员，一名巴基斯坦宇航员将登上其空间站",
+   "summary": "中国公布新的太空任务人员，一名巴基斯坦宇航员将登上其空间站",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中国公布了新的太空任务机组人员，一名巴基斯坦宇航员将登上其空间站。"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
+   "type": null,
+   "time": "2026-11-24T05:51:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-touches-three-month-lows-as-rising-supply-of",
+   "country": "Iran",
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "供应增加抵消霍尔木兹威胁 油价触及三个月低点",
+   "summary": "供应增加抵消霍尔木兹威胁 油价触及三个月低点",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于供应增加抵消了霍尔木兹威胁，石油触及三个月低点。"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:56:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "阿联酋哈伊马角巴士与卡车相撞事故造成 11 人死亡",
+   "summary": "阿联酋哈伊马角巴士与卡车相撞事故造成 11 人死亡",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋哈伊马角发生公共汽车和卡车相撞事故，造成 11 人死亡。"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
+   "type": null,
+   "time": "2026-11-24T07:20:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "伊朗坚持在七项条件得到满足之前不会与美国进行谈判，以及其他中东新闻",
+   "summary": "伊朗坚持在七项条件得到满足之前不会与美国进行谈判，以及其他中东新闻",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗坚持在其七项条件和其他中东新闻得到满足之前不会与美国进行谈判。"
+    }
+   ],
+   "source": "WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:40:56Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "伊朗海军称两艘油轮在霍尔木兹海峡起火",
+   "summary": "伊朗海军称两艘油轮在霍尔木兹海峡起火",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗海军称两艘油轮在霍尔木兹海峡起火。"
+    }
+   ],
+   "source": "thenationalnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-24T10:52:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
+   "country": "Libya",
+   "label": "利比亚",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "critical",
+   "category": "World",
+   "headline": "乌克兰证实使用海军无人机袭击了利比亚附近的两艘俄罗斯船只",
+   "summary": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "乌克兰证实使用海军无人机袭击了利比亚附近的两艘俄罗斯船只。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。"
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:30:00Z",
+   "countries": [
+    "Libya",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "israeli-minister-approves-return-of-flydubai-fli",
+   "country": "Israel",
+   "label": "以色列",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "以色列部长批准迪拜航空航班返回特拉维夫",
+   "summary": "最终恢复迪拜和特拉维夫之间的航线取决于以色列安全部门的批准。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以色列部长批准迪拜航空航班返回特拉维夫。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有什么影响？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "最终恢复迪拜和特拉维夫之间的航线取决于以色列安全部门的批准。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T01:09:51Z",
+   "countries": [
+    "Israel",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "阿联酋和沙特阿拉伯投资新设施，2026 年 MEBAA 展将公务航空 MRO 成为焦点 - Avi-Go",
+   "summary": "阿联酋和沙特阿拉伯投资新设施，2026 年 MEBAA 展将公务航空 MRO 成为焦点 - Avi-Go",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着阿联酋和沙特阿拉伯投资新设施 - Avi-Go，2026 年 MEBAA 展会将公务航空 MRO 成为焦点。"
+    }
+   ],
+   "source": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:47:09Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "散货船在阿联酋附近被不明弹丸击中",
+   "summary": "散货船在阿联酋附近被不明弹丸击中",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "散货船在阿联酋附近被不明弹丸击中。"
+    }
+   ],
+   "source": "Ship & Bunker",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:08:07Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "country": "China",
+   "label": "中国",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "中国航天计划将成为第一位外国人驾驶巴基斯坦飞行员",
+   "summary": "中国航天计划将成为第一位外国人驾驶巴基斯坦飞行员",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中国航天计划将作为第一位外国人驾驶巴基斯坦飞行员。"
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:09:31Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
+   "country": "Libya",
+   "label": "利比亚",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应",
+   "summary": "布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "随着布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应。"
+    }
+   ],
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:55:00Z",
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "外国贷款人规则沙特阿拉伯：2026 年指南",
+   "summary": "外国贷款人规则沙特阿拉伯：2026 年指南",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "外国贷款人规则沙特阿拉伯：2026 年指南。"
+    }
+   ],
+   "source": "Global Advisory Experts",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "type": null,
+   "time": "2026-11-24T06:28:42Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "葡萄牙与巴基斯坦签署投资保护协议以促进商业联系",
+   "summary": "葡萄牙与巴基斯坦签署投资保护协议以促进商业联系",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "葡萄牙和巴基斯坦签署投资保护协议以促进商业联系。"
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "type": null,
+   "time": "2026-11-24T07:05:18Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
+   "id": "america-serves-up-football-on-thanksgiving",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "美国感恩节举办橄榄球活动",
+   "summary": "美国感恩节举办橄榄球活动",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国在感恩节举办橄榄球比赛。"
+    }
+   ],
+   "source": "U.S. Embassy & Consulates in Russia (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:17:54Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "胡塞武装媒体称也门荷台达空袭已造成17人死亡",
+   "summary": "胡塞武装媒体称也门荷台达空袭已造成17人死亡",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "胡塞武装媒体称，也门荷台达空袭造成17人死亡。"
+    }
+   ],
+   "source": "巴士的報",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:47:19Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "thousands-protest-in-karachi-against-asim-munir-",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "high",
-   "category": "Sports",
-   "headline": "巴基斯坦沙欣队在亚洲杯新星交锋中击败印度A队，瓦尔马世纪徒劳无功",
-   "summary": "周日在多哈举行的亚洲杯新星赛中，巴基斯坦沙欣队克服了蒂拉克·瓦尔马最后时刻的挑战，以 48 分的优势击败印度 A 队，在还剩 5 个球的情况下击败了对手，总共防守了 313 分。",
+   "category": "Pakistan",
+   "headline": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博",
+   "summary": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦沙欣队在亚洲杯新星比赛中击败印度甲级联赛，瓦尔马世纪徒劳无功。"
+     "text": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博。"
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:57:09Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
+   "country": "South Africa",
+   "label": "南非",
+   "lat": -30.6,
+   "lon": 22.9,
+   "flag": "🇿🇦",
+   "severity": "high",
+   "category": "World",
+   "headline": "刚果民主共和国称军用飞机失踪，叛军声称击落飞机",
+   "summary": "据报道，被击落飞机上有一名南非战斗机飞行员和一名乌干达军官。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "刚果民主共和国称，叛军声称击落了军用飞机，导致其失踪。"
     },
     {
      "role": "COMMANDER",
@@ -58,516 +482,15 @@
     },
     {
      "role": "ANALYST",
-     "text": "周日在多哈举行的亚洲杯新星赛中，巴基斯坦沙欣队克服了蒂拉克·瓦尔马最后时刻的挑战，以 48 分的优势击败印度 A 队，在还剩 5 个球的情况下击败了对手，总共防守了 313 分。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
-   "type": null,
-   "time": "2026-11-22T19:14:50Z",
-   "countries": [
-    "Pakistan",
-    "India",
-    "Qatar"
-   ]
-  },
-  {
-   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "葡萄牙外交部长抵达巴基斯坦进行正式访问：FO",
-   "summary": "外交部称，葡萄牙国务兼外交部长保罗·兰赫尔周日抵达巴基斯坦进行正式访问。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "葡萄牙外交部长抵达巴基斯坦进行正式访问：FO。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "外交部称，葡萄牙国务兼外交部长保罗·兰赫尔周日抵达巴基斯坦进行正式访问。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
-   "type": null,
-   "time": "2026-11-22T16:27:27Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oman-to-supply-petroleum-products-200m-credit-fa",
-   "country": "Oman",
-   "label": "阿曼",
-   "lat": 21.5,
-   "lon": 57.0,
-   "flag": "🇴🇲",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "阿曼将根据新协议向PSO供应石油产品和2亿美元信贷额度",
-   "summary": "伊斯兰堡：巴基斯坦和阿曼周日签署了一项协议，根据该协议，海湾国家国有的 OQ Trading 将向巴基斯坦国家石油公司 (PSO) 供应石油产品以及 2 亿美元的信贷额度。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿曼将根据新协议向 PSO 供应石油产品和 2 亿美元信贷额度。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "这对价格意味着什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "伊斯兰堡：巴基斯坦和阿曼周日签署了一项协议，根据该协议，海湾国家国有的 OQ Trading 将向巴基斯坦国家石油公司 (PSO) 供应石油产品以及 2 亿美元的信贷额度。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
-   "type": null,
-   "time": "2026-11-22T15:27:28Z",
-   "countries": [
-    "Oman",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-houthi-drone-destroyed-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "沙特领导的联盟称胡塞武装无人机在沙特阿拉伯南部被摧毁",
-   "summary": "沙特领导的联盟称胡塞武装无人机在沙特阿拉伯南部被摧毁",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特领导的联盟称胡塞武装无人机在沙特阿拉伯南部地区被摧毁。"
-    }
-   ],
-   "source": "Yemen Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV0NfMFN4UGd2XzVkSmZLV2VtcnpjU0ZnUHNLTXpBbVVzeWdFYThPRHZmYlAwNmd6c1B0WndlQzEwWVVnZ1RINmwyc09vY0lleUE?oc=5",
-   "type": null,
-   "time": "2026-11-22T20:25:48Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "trump-eyes-iran-strikes-after-new-year-threatens",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "特朗普着眼新年后对伊朗发动袭击，威胁击沉封锁者",
-   "summary": "特朗普着眼新年后对伊朗发动袭击，威胁击沉封锁者",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "特朗普着眼于新年后对伊朗发动袭击，威胁要击沉封锁者。"
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-22T19:53:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-bound-ship-towed-away-after-it-was-attack",
-   "country": "Russia",
-   "label": "俄罗斯",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "前往俄罗斯的船只在芬兰湾遭到袭击后被拖走",
-   "summary": "芬兰国防军表示，乌克兰很可能是周六无人机袭击的幕后黑手。基辅尚未发表评论。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "前往俄罗斯的船只在芬兰湾遭到袭击后被拖走。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "芬兰国防军表示，乌克兰很可能是周六无人机袭击的幕后黑手。基辅尚未发表评论。"
+     "text": "据报道，被击落飞机上有一名南非战斗机飞行员和一名乌干达军官。"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-22T17:18:26Z",
+   "time": "2026-11-24T10:48:27Z",
    "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistani-among-two-injured-in-iranian-attacks-b",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "巴林称，伊朗袭击中有两人受伤，其中包括巴基斯坦人",
-   "summary": "沙特当局周日表示，伊朗昨晚对巴林发动袭击，造成两人受伤，其中包括一名巴基斯坦公民。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴林称，伊朗袭击中有两人受伤，其中包括巴基斯坦人。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "有人员伤亡吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "沙特当局周日表示，伊朗昨晚对巴林发动袭击，造成两人受伤，其中包括一名巴基斯坦公民。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
-   "type": null,
-   "time": "2026-11-22T12:12:04Z",
-   "countries": [
-    "Iran",
-    "Pakistan",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "rice-exports-up-by-0-35m-tonnes-in-four-months",
-   "country": "Thailand",
-   "label": "泰国",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "四个月大米出口量增加35万吨",
-   "summary": "拉合尔：2026-27 财年的前四个月（7 月至 10 月），巴基斯坦大米出口总量激增 353,000 吨，达到 1,351,000 吨。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "四个月内大米出口增加35万吨。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "拉合尔：2026-27 财年的前四个月（7 月至 10 月），巴基斯坦大米出口总量激增 353,000 吨，达到 1,351,000 吨。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
-   "type": null,
-   "time": "2026-11-23T00:04:49Z",
-   "countries": [
-    "Thailand",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
-   "country": "Libya",
-   "label": "利比亚",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "info",
-   "category": "Business",
-   "headline": "俄罗斯船只在利比亚班加西港被疑似乌克兰无人机击中",
-   "summary": "利比亚东部政府表示，这艘船在返回俄罗斯的途中停下来补充燃料和补给。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "俄罗斯船只在利比亚班加西港被疑似乌克兰无人机击中。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好吧，还有什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "利比亚东部政府表示，这艘船在返回俄罗斯的途中停下来补充燃料和补给。"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
-   "type": null,
-   "time": "2026-11-22T22:14:33Z",
-   "countries": [
-    "Libya",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "iran-war-live-tankers-set-ablaze-in-hormuz-as-ir",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗战争直播：伊朗革命卫队警告骚乱威胁，油轮在霍尔木兹纵火",
-   "summary": "伊朗海军声称违反其规定的油轮被纵火，而伊朗革命卫队则表示“敌人”试图煽动骚乱。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗战争直播：伊朗革命卫队警告骚乱威胁，油轮在霍尔木兹纵火。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "伊朗海军声称违反其规定的油轮被纵火，而伊朗革命卫队则表示“敌人”试图煽动骚乱。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T23:59:22Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "uae-s-eci-and-kazakhexport-renew-partnership-to-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "阿联酋 ECI 和哈萨克斯坦出口公司续签合作伙伴关系，以扩大贸易和投资联系",
-   "summary": "阿联酋 ECI 和哈萨克斯坦出口公司续签合作伙伴关系，以扩大贸易和投资联系",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋 ECI 和哈萨克斯坦出口公司续签合作伙伴关系，以扩大贸易和投资联系。"
-    }
-   ],
-   "source": "Qazinform",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlQRm5qRTRtU091SjZBYndDS3dtcmVkVVlxbDd6c09yb0MwVklqcGpXek1maFl2UFpRdGNGQTlhalhqYWlSNzZQRUxXTE9nRkQxbThwUWJsaVFqWWJ3WkdxVHBXUEl2LUZ4dWtBUktSOVRfZ3hxS0cwem53cGVFTnhfbElIV2JNTTJsT2lPOXdxYWs0bmNoaEc3QzdvYTItRXRpVE1tVzQ5WGJ4b2pYODVjTdIBswFBVV95cUxNNHRDU2xYMlJYejB6a29QWHhhN0VFNFBzeGFsUkF1NnhKZnBCbnVNYlJyb0E0ZG5hdzEtYV84SzNONEJJYUJ5TXhlSS1PTFhvZjhmZ0dVSmF4LWFPbG9fbXJXX3J4RnlpajFUOG1JR0NtX2ViTVRDc2tsWTJLaTlDTnI2dFpNbXFZdUFzOUQ2bFlaa1czT2xQVTNQcDhEWjJWcWk4empyaDV3S1ZrS29GMFZjWQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T02:49:50Z",
-   "countries": [
-    "United Arab Emirates",
-    "Kazakhstan"
-   ]
-  },
-  {
-   "id": "us-intelligence-chief-defends-trump-s-comments-c",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "美国情报局长为特朗普称普京为“朋友”的言论进行辩护",
-   "summary": "美国国家情报总监杰伊·克莱顿表示，特朗普的言论在峰会背景下“完全恰当”。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国情报局长为特朗普称普京为“朋友”的言论进行辩护。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好的。细节？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "美国国家情报总监杰伊·克莱顿表示，特朗普的言论在峰会背景下“完全恰当”。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-23T02:23:13Z",
-   "countries": [
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "major-escalations-in-iran-and-ukraine-conflicts",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "伊朗和乌克兰冲突严重升级",
-   "summary": "伊朗和乌克兰冲突严重升级",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗和乌克兰冲突大幅升级。"
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlNPMFBmRDQ5Q1lzVXp1d3B2SW01QTROc1V3dUFZdkI3QkNpdDN5amdRSGl0WnZVMkIwTjJXT09lWlJfVWRNUndMN3Bmd3BaU2VSQ1hadllPQ1R4UC1DUVEya05QR3VoTUNjOXdDZEVGSkxHSVhNdFItaXJobmJucFpuak1jMWZOTWdLMnhMVm1PdXc2NUZNUm9LUkNodw?oc=5",
-   "type": null,
-   "time": "2026-11-23T01:58:59Z",
-   "countries": [
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "any-talks-with-india-on-terrorism-must-be-eviden",
-   "country": "India",
-   "label": "印度",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "穆萨迪克·马利克表示，与印度就恐怖主义进行的任何谈判都必须“以证据为基础”",
-   "summary": "联邦部长穆萨迪克·马利克周日表示，巴基斯坦和印度之间关于恐怖主义的任何对话都必须“基于证据”。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "穆萨迪克·马利克表示，与印度就恐怖主义问题进行的任何谈判都必须“以证据为基础”。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "联邦部长穆萨迪克·马利克周日表示，巴基斯坦和印度之间关于恐怖主义的任何对话都必须“基于证据”。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
-   "type": null,
-   "time": "2026-11-22T19:22:47Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "“危险似乎一直更大”：乌克兰人在俄罗斯袭击后寻找失踪人员",
-   "summary": "英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在乌克兰基辅地区一栋倒塌的住宅楼现场进行报道。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "“危险似乎一直更大”：乌克兰人在俄罗斯袭击后寻找失踪人员。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "背后是谁？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "英国广播公司 (BBC) 的莎拉·雷恩斯福德 (Sarah Rainsford) 在乌克兰基辅地区一栋倒塌的住宅楼现场进行报道。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-22T22:37:43Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "uae-condemns-iranian-attack-on-bahrain",
-   "country": "Bahrain",
-   "label": "巴林",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "阿联酋谴责伊朗对巴林的袭击",
-   "summary": "阿联酋谴责伊朗对巴林的袭击",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋谴责伊朗对巴林的袭击。"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXprZlBmWXhtZnNNSUp4Mmk1TTU1bHR5ai1FTzdiUlFDUlpOYWtySEJyM2dxbURSOTZuTWZiR2o0a0l2cWNwNlNwRWoyMlFxWHQ2SnM3THpTWW5PNE85WVFkTF8tTzJaYzdYMXplWU1lZTJOaEF1Y2wzUVVPaDNFSGpwUGMtWXZwVjF0QmxzMlpNR0lya1l3?oc=5",
-   "type": null,
-   "time": "2026-11-22T09:53:00Z",
-   "countries": [
-    "Bahrain",
-    "United Arab Emirates",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-arabia-bahrain-report-new-attacks-as-iran-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "沙特阿拉伯和巴林报告发生新的袭击事件，伊朗表示仍对与美国达成协议持开放态度",
-   "summary": "沙特阿拉伯和巴林报告发生新的袭击事件，伊朗表示仍对与美国达成协议持开放态度",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "沙特阿拉伯和巴林报告发生新的袭击事件，而伊朗表示仍对与美国达成协议持开放态度。"
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T13:25:47Z",
-   "countries": [
-    "Saudi Arabia",
-    "Bahrain",
-    "Iran",
-    "United States of America"
+    "South Africa"
    ]
   }
  ]

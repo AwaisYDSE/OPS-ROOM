@@ -1,297 +1,22 @@
 {
- "updated": "2026-11-24T00:59:22.657409Z",
+ "updated": "2026-11-24T11:03:57.209365Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "pakistan-portugal-agree-to-expand-political-ties",
+   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Pakistan, Portugal agree to expand political ties, trade, investment",
-   "summary": "Pakistan, Portugal agree to expand political ties, trade, investment",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan, Portugal agree to expand political ties, trade, investment."
-    }
-   ],
-   "source": "US Muslims",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHVsR3JiZWNsUmZQU3BnVEc0cDFPT0tKTWlDOG9tMDhVQ3lMSlVpckRqQ2tpLWIzWGh2R2gzb0g1ZG5CcDJRR0ZjOWlJNW5MTXpXSF9LZ2xRUENWSzFCQXVQY1JpR1JlczBJTjdKY2FfaC1ZSXdVdG02ck5nQjNUWUtDaDdtWENyWGhQUjNxamNYcTRsc2Y5ZWhtbzMta3ZZWVlab3BCOVdSb1BfQmsxM0dyR3NqUdIBtgFBVV95cUxOdHVsR3JiZWNsUmZQU3BnVEc0cDFPT0tKTWlDOG9tMDhVQ3lMSlVpckRqQ2tpLWIzWGh2R2gzb0g1ZG5CcDJRR0ZjOWlJNW5MTXpXSF9LZ2xRUENWSzFCQXVQY1JpR1JlczBJTjdKY2FfaC1ZSXdVdG02ck5nQjNUWUtDaDdtWENyWGhQUjNxamNYcTRsc2Y5ZWhtbzMta3ZZWVlab3BCOVdSb1BfQmsxM0dyR3NqUQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T12:59:51Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "ukraine-shares-video-of-strikes-on-russian-ships",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Ukraine shares video of strikes on Russian ships off Libya",
-   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine shares video of strikes on Russian ships off Libya."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-23T11:34:10Z",
-   "countries": [
-    "Russia",
-    "Ukraine",
-    "Libya"
-   ]
-  },
-  {
-   "id": "us-escalates-sanctions-on-iran-targets-shadow-ba",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-   "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US escalates sanctions on Iran, targets ‘shadow banking’ networks."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-23T21:30:40Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "what-strike-on-russian-ship-in-libya-says-about-",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "What strike on Russian ship in Libya says about spread of Ukraine war."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner."
-    }
-   ],
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Nkh0dF9ndTRBVjktYnQtQWh4clVUZVlwcmtIdjFLa0dfeW5Wb3NFVlhuYXJ4d0Y0c2ZLZG5zaTd0TEdnNHFFVzhUV3VYS1lXWnYyZHFzSjUzdTg?oc=5",
-   "type": null,
-   "time": "2026-11-23T20:48:35Z",
-   "countries": [
-    "Russia",
-    "Libya",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "russian-warship-hit-by-ukrainian-drones-in-libya",
-   "country": "Libya",
-   "label": "LIBYA",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-   "summary": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian warship hit by Ukrainian drones in Libya, Zelensky says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-23T15:41:23Z",
-   "countries": [
-    "Libya",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "oil-falls-as-trump-signals-iran-talks",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Oil Falls as Trump Signals Iran Talks",
-   "summary": "Oil Falls as Trump Signals Iran Talks",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil Falls as Trump Signals Iran Talks."
-    }
-   ],
-   "source": "Rigzone",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQVJYY3pCTWZaU2xmc3VMQXdJbkFGWVVScUV3Q1JjaC1tWWRJdGlHalFfRms1MUhzRllrSXJCMlZoWFNsX3RXVGlpWWxRUlhBYnhNR1VDdTR0enZVcURIWUZXVXlKZjNjRktGZ18ycVIxRXh6aGd2RkJlZ0NhSTQ2bWRvUC05Tk0xcGpDV3N3aHJwRW5ULTdNUmltZVpjVVlO?oc=5",
-   "type": null,
-   "time": "2026-11-23T21:30:00Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-war-live-iran-says-three-ships-catch-fire-a",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-   "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-24T00:00:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-arabia-strongly-condemns-drone-attacks-on-",
-   "country": "Sudan",
-   "label": "SUDAN",
-   "lat": 15.5,
-   "lon": 30.2,
-   "flag": "🇸🇩",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English",
-   "summary": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia Strongly Condemns Drone Attacks on Khartoum - ASHARQ AL-AWSAT English."
-    }
-   ],
-   "source": "ASHARQ AL-AWSAT English",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORU5hX2hhOHhxNS03UUNTaENVbUtIdDItcWRoRWE3clF2Slh5WTF1M2xIOG9ZWXFoR3ZKS3RRUjB6R19ZMHc4aURkVXZsalNqYWcwZ0lFZHdoZFFRRzgyczlLNWxURVJXLVRjY3o4UWVhN1JlcXZaTzlkdS1fUXBqdVZHenRnZUJjTEU3VUJjSkdpMGR4UkN6eQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T16:46:28Z",
-   "countries": [
-    "Sudan",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "eisenkot-says-no-immediate-iran-threat-requiring",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "Eisenkot says no immediate Iran threat requiring Israeli military action",
-   "summary": "Eisenkot says no immediate Iran threat requiring Israeli military action",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Eisenkot says no immediate Iran threat requiring Israeli military action."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDlXbXpiU2cwRGZTckR6TUc1RXMyUlBoS1hGd0NBdmEzYTZOQ3hLdElPbkVlU1lfX2g3RGJ4UnZVOFRCY3drMURtdGRBU1FCcDdRVm1RVkNZRS1GRlVUOHhqYmxPRXlvM1FIUzk2ejU4N0xrRW5VOWVZVUVmVFUwTEp3?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-23T23:01:56Z",
-   "countries": [
-    "Iran",
-    "Israel"
-   ]
-  },
-  {
-   "id": "iran-flogs-singer-parastoo-ahmadi-for-performing",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
    "severity": "watch",
-   "category": "Middle East",
-   "headline": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
-   "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+   "category": "Pakistan",
+   "headline": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+   "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran flogs singer Parastoo Ahmadi for performing without headscarf."
+     "text": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station."
     },
     {
      "role": "COMMANDER",
@@ -299,112 +24,71 @@
     },
     {
      "role": "ANALYST",
-     "text": "Ahmadi and four production team members also face two-year bans on travel and artistic activity."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc2VvLXJGZDFZYWtNRWkwbEhtblRjNTFWRWRlbEE5NjJmZ2pTT1RDZnRwYkpnbEQxc2RXOHZ5SEdFcndfR0ZOalNkOVFlRVBoRWFTblR0WjR6VUNpZ21pQlV2dGZEUzFnVTFvV0RPODJ5UDRvaUtpNWpBZXE0X2k3QTVtalVoZ2JYeU5mQnVCMUZjVnRuNGRvUGRFaTRTTXBUYUZPTFBuTllkbWJQ0gGyAUFVX3lxTE9PblczbUswY09GZnJGTjRHVVlndFlmWVBmNHllNG1pTGtDUXNuTVBiQzcyRi15Sm1TQ2dhQmRsa0JCdmVvc0dUMlZ0eE54dlJyUUlrNUlOTmxFSk92MjBhZHZTSWVKTk5ENW1SbDRHRW1DS3NSUnA2WlNaUjQtVzQwT0h3UExiN21CYjhtVTFzUXBjZnZ4UUFibHdaSmZlMWZzQWx2OEcwazhVbXIteERma1E?oc=5",
-   "type": null,
-   "time": "2026-11-23T20:50:20Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "eu-plans-sports-ban-in-sweeping-new-russia-sanct",
-   "country": "Russia",
-   "label": "RUSSIA",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "EU plans sports ban in sweeping new Russia sanctions proposal",
-   "summary": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "EU plans sports ban in sweeping new Russia sanctions proposal."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Proposed sanctions aim to curb Russian crypto financing and 'propaganda' in sports."
+     "text": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
    "type": null,
-   "time": "2026-11-23T23:26:16Z",
+   "time": "2026-11-24T07:55:18Z",
    "countries": [
-    "Russia"
+    "Pakistan",
+    "China"
    ]
   },
   {
-   "id": "saudi-led-coalition-intercepts-houthi-drone-targ",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia",
-   "summary": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGNkeUFwUks2OTJ3MVhodzhfWERpUUc0SlpycFdpRWUtMWd4bHVXenlTVHJ4WC1hbUQ2ZzhNQkNDOWcyejZxS29tWjcxdm1PVExjR1RlQTV1S2ZQT0s4V2NwZ0YzTUhWSVlmNW1hNDZNRV9jVkxQSTJxWm8wa0dyaWdITmI2aHJoUllRTFZHYWk2cTY2cHkzTnZMOXVncWN0cmpKcU94OWdLLURRVGdNZG95dGl4aU95OTJWYg?oc=5",
-   "type": null,
-   "time": "2026-11-23T23:18:51Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "iran-hits-us-bases-and-civilian-sites-in-the-gul",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
+   "id": "china-unveils-new-space-mission-crew-with-a-paki",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
    "category": "World",
-   "headline": "Iran hits US bases and civilian sites in the Gulf after a lull",
-   "summary": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country.",
+   "headline": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
+   "summary": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran hits US bases and civilian sites in the Gulf after a lull."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Tehran has ramped up attacks in recent days as the US naval blockade and sanctions campaign hurt the country."
+     "text": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
    "type": null,
-   "time": "2026-11-23T20:26:40Z",
+   "time": "2026-11-24T05:51:00Z",
    "countries": [
-    "United States of America",
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-touches-three-month-lows-as-rising-supply-of",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil touches three-month lows as rising supply offsets Hormuz threat",
+   "summary": "Oil touches three-month lows as rising supply offsets Hormuz threat",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil touches three-month lows as rising supply offsets Hormuz threat."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:56:00Z",
+   "countries": [
     "Iran"
    ]
   },
   {
-   "id": "islam-makhachev-says-usman-nurmagomedov-did-noth",
+   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -412,58 +96,144 @@
    "flag": "🇦🇪",
    "severity": "critical",
    "category": "UAE",
-   "headline": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
-   "summary": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'",
+   "headline": "Bus and truck collision kills 11 in UAE’s Ras Al Khaimah",
+   "summary": "Bus and truck collision kills 11 in UAE’s Ras Al Khaimah",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Islam Makhachev says Usman Nurmagomedov did nothing wrong in Abu Dhabi attack: 'Merab behaved disgracefully'."
+     "text": "Bus and truck collision kills 11 in UAE’s Ras Al Khaimah."
     }
    ],
-   "source": "Yahoo Sports",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdThVT3d4Z0ZlZEktMV85YW1SR1hpX1h1VWE4a0lRSldQdmtDYmx3emY4bU1HOWcwU2FsREFaVGgwSDJ0Yl9xeVhoeE5zb1NocVFQTzB3TS1zSklTdl9aZVhQaG5oTGxaN0E1MmxJa2plMU9SeFJ5MnRSOUk0emRENG5jVEI4Z2hETHhHX1loanZyRjFUNEZfMklFUnY5SHhHWTN2WFpvbU9DSWYxbmd4WTZRNG1Kc1VCRUtXWmxySFpxWHR0WEJaV0d4MVNFVnRaTlRTbzJVYk9faENQVHFBcGdRbERPdjNCN19sNUpn?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
    "type": null,
-   "time": "2026-11-23T18:58:14Z",
+   "time": "2026-11-24T07:20:46Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "-no-national-security-risk-nvidia-reinstates-jen",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "'No national security risk': Nvidia reinstates Jensen Huang as CEO after affair scandal",
-   "summary": "Nvidia on Monday reinstated Jensen Huang as chief executive after input from senior US government officials left its board confident he posed no national security risk, less than two weeks after the co-founder resigned due to an alleged spy scandal.",
+   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
+   "summary": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "'No national security risk': Nvidia reinstates Jensen Huang as CEO after affair scandal."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Why the move?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Nvidia on Monday reinstated Jensen Huang as chief executive after input from senior US government officials left its board confident he posed no national security risk, less than two weeks after the co-founder resigned due to an alleged spy scandal."
+     "text": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046556/no-national-security-risk-nvidia-reinstates-jensen-huang-as-ceo-after-affair-scandal",
+   "source": "WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
    "type": null,
-   "time": "2026-11-23T16:55:16Z",
+   "time": "2026-11-24T10:40:56Z",
    "countries": [
-    "China",
+    "Iran",
     "United States of America"
    ]
   },
   {
-   "id": "md5-al-ain-fc-uae-1-1-esteghlal-fc-irn-",
+   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Iran navy says two tankers ablaze in Strait of Hormuz",
+   "summary": "Iran navy says two tankers ablaze in Strait of Hormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran navy says two tankers ablaze in Strait of Hormuz."
+    }
+   ],
+   "source": "thenationalnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-24T10:52:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
+   "country": "Libya",
+   "label": "LIBYA",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+   "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ukraine confirms it used naval drones to strike two Russian ships off Libya."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:30:00Z",
+   "countries": [
+    "Libya",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "israeli-minister-approves-return-of-flydubai-fli",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "Israeli minister approves return of Flydubai flights to Tel Aviv",
+   "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Israeli minister approves return of Flydubai flights to Tel Aviv."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What's the impact?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T01:09:51Z",
+   "countries": [
+    "Israel",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -471,70 +241,255 @@
    "flag": "🇦🇪",
    "severity": "info",
    "category": "UAE",
-   "headline": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)",
-   "summary": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)",
+   "headline": "MEBAA Show 2026 to Put Business Aviation MRO in Focus as UAE and Saudi Arabia Invest in New Facilities - Avi-Go",
+   "summary": "MEBAA Show 2026 to Put Business Aviation MRO in Focus as UAE and Saudi Arabia Invest in New Facilities - Avi-Go",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "MD5: Al Ain FC (UAE) 1-1 Esteghlal FC (IRN)."
+     "text": "MEBAA Show 2026 to Put Business Aviation MRO in Focus as UAE and Saudi Arabia Invest in New Facilities - Avi-Go."
     }
    ],
-   "source": "The AFC",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm9RVjBGN2g5bVF2bmd3WmxkZnRFbnRleE1HSTV4NTBjcHRkMzEtWVBNS01DYVV3eWZqZ0FEck5id1lyaW9GWENDalo0OHlxSHlWMGxQYlVkZDJocTgyUjlIRlBRNG94UU5lUEpKUDNFYU9ITi1IM1NRM0FJa1lrbms1eWJwVURTYVlhOVVnRmFjdG5lNzUxOEpaOVQ0U1RMTk9Nalk5WVlLcmc?oc=5",
+   "source": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
    "type": null,
-   "time": "2026-11-23T18:08:41Z",
+   "time": "2026-11-24T10:47:09Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "un-water-summit-to-be-held-every-three-years-aft",
+   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "watch",
+   "severity": "info",
    "category": "UAE",
-   "headline": "UN water summit to be held every three years after next month's UAE talks",
-   "summary": "UN water summit to be held every three years after next month's UAE talks",
+   "headline": "Bulk Carrier Hit by Unknown Projectile off UAE",
+   "summary": "Bulk Carrier Hit by Unknown Projectile off UAE",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "UN water summit to be held every three years after next month's UAE talks."
+     "text": "Bulk Carrier Hit by Unknown Projectile off UAE."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0dDTXhEdDBtMlpHY1Bha2ZjalFXNHFRZXV5OVM1cWVESXEzajMxY0wwTk5UUWRUVTV5NWRlQmhueHViTEdZZW96Y3lENm5aNXdTQ2JuODdOcDNlMEZWWHY5THc2YVlPenBlVXZoVzBmWWl6TjhtczJaYzZKNlY5d2txc0taQWx5VlItaDQ2bXptakJ0LVpoY19JTm5HclNFQjgyTXNRaDkwRmRJOWZEdjRB?oc=5",
+   "source": "Ship & Bunker",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
    "type": null,
-   "time": "2026-11-23T17:28:35Z",
+   "time": "2026-11-24T10:08:07Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "pakistan-suspends-8-officials-for-deadly-fire-ou",
+   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "China Space Program to Fly Pakistan Pilot as its First Foreigner",
+   "summary": "China Space Program to Fly Pakistan Pilot as its First Foreigner",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "China Space Program to Fly Pakistan Pilot as its First Foreigner."
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:09:31Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
+   "country": "Libya",
+   "label": "LIBYA",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Libya Pipeline Restores Oil Flow as Brent Crude Falls Below $90 to Three-Month Low",
+   "summary": "Libya Pipeline Restores Oil Flow as Brent Crude Falls Below $90 to Three-Month Low",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Libya Pipeline Restores Oil Flow as Brent Crude Falls Below $90 to Three-Month Low."
+    }
+   ],
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:55:00Z",
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Foreign Lender Rules Saudi Arabia: 2026 Guide",
+   "summary": "Foreign Lender Rules Saudi Arabia: 2026 Guide",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Foreign Lender Rules Saudi Arabia: 2026 Guide."
+    }
+   ],
+   "source": "Global Advisory Experts",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "type": null,
+   "time": "2026-11-24T06:28:42Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "portugal-pakistan-sign-investment-protection-agr",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "critical",
+   "severity": "info",
    "category": "Pakistan",
-   "headline": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital",
-   "summary": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital",
+   "headline": "Portugal, Pakistan sign investment protection agreement to boost business ties",
+   "summary": "Portugal, Pakistan sign investment protection agreement to boost business ties",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan Suspends 8 Officials for Deadly Fire Outbreak in Hospital."
+     "text": "Portugal, Pakistan sign investment protection agreement to boost business ties."
     }
    ],
-   "source": "https://dailyasianage.com/",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTdVd3cxbnc1RjlGbTloa2dyUnFGX1AwQzlqVFZZdnM3RXNtdHpLWVVuWm12azhObnRLekEyRXh6aDFUTjhYbDVLUmxseDItcnBTSVFyMl9tX013TE9xMHFQcWJ6SklqMGRXUmJtYWptc1BSeFNSdE9KY3Q1UlJ5UXVZcmhLNnA0MzJPcktMU1JVSDZGZnRMWGZsYlFBajY1dGtPa21rOA?oc=5",
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
    "type": null,
-   "time": "2026-11-24T00:55:09Z",
+   "time": "2026-11-24T07:05:18Z",
    "countries": [
     "Pakistan"
+   ]
+  },
+  {
+   "id": "america-serves-up-football-on-thanksgiving",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "America serves up football on Thanksgiving",
+   "summary": "America serves up football on Thanksgiving",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "America serves up football on Thanksgiving."
+    }
+   ],
+   "source": "U.S. Embassy & Consulates in Russia (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:17:54Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "17 killed in airstrikes on Yemen's Hodeidah: Houthi media",
+   "summary": "17 killed in airstrikes on Yemen's Hodeidah: Houthi media",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "17 killed in airstrikes on Yemen's Hodeidah: Houthi media."
+    }
+   ],
+   "source": "巴士的報",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:47:19Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "thousands-protest-in-karachi-against-asim-munir-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Pakistan",
+   "headline": "Thousands Protest In Karachi Against Asim Munir's Gamble To Redraw Pakistan",
+   "summary": "Thousands Protest In Karachi Against Asim Munir's Gamble To Redraw Pakistan",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Thousands Protest In Karachi Against Asim Munir's Gamble To Redraw Pakistan."
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:57:09Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
+   "country": "South Africa",
+   "label": "SOUTH AFRICA",
+   "lat": -30.6,
+   "lon": 22.9,
+   "flag": "🇿🇦",
+   "severity": "high",
+   "category": "World",
+   "headline": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+   "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "DR Congo says military aircraft missing as rebels claim to shoot down plane."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T10:48:27Z",
+   "countries": [
+    "South Africa"
    ]
   }
  ]

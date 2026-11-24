@@ -1,56 +1,480 @@
 {
- "updated": "2026-11-23T03:12:11.443380Z",
+ "updated": "2026-11-24T11:03:57.209365Z",
  "generator": "rss",
  "lang": "ur",
  "stories": [
   {
-   "id": "drilling-for-oil",
+   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
    "country": "Pakistan",
    "label": "پاکستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "تیل کے لیے سوراخ کرنا",
-   "summary": "اس بار ترکی کے ساتھ شراکت داری میں اپنے سمندر کے کنارے تیل اور گیس کے ذخائر کو تلاش کرنے کے لیے پاکستان کی نئی کوشش، محتاط امید پرستی کا مطالبہ کرتی ہے۔ ہم پہلے بھی یہاں آ چکے ہیں۔ یکے بعد دیگرے آنے والی حکومتوں نے سمندر کی تلاش کو آگے بڑھایا ہے۔",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "پاکستان کے ذیشان علی چین کے خلائی اسٹیشن کے لیے تاریخی پرواز کے لیے تیار ہیں۔",
+   "summary": "پاک فضائیہ کا پائلٹ تقریباً ایک ہفتہ تیانگونگ جہاز پر گزارے گا اور چین کے عملے کے ساتھ تجربات کرے گا۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "تیل کے لیے سوراخ کرنا۔"
+     "text": "پاکستان کے ذیشان علی چین کے خلائی اسٹیشن کے لیے تاریخی پرواز کے لیے تیار ہیں۔"
     },
     {
      "role": "COMMANDER",
-     "text": "قیمتوں کا کیا مطلب ہے؟"
+     "text": "اثر کیا ہے؟"
     },
     {
      "role": "ANALYST",
-     "text": "اس بار ترکی کے ساتھ شراکت داری میں اپنے سمندر کے کنارے تیل اور گیس کے ذخائر کو تلاش کرنے کے لیے پاکستان کی نئی کوشش، محتاط امید پرستی کا مطالبہ کرتی ہے۔ ہم پہلے بھی یہاں آ چکے ہیں۔ یکے بعد دیگرے آنے والی حکومتوں نے سمندر کی تلاش کو آگے بڑھایا ہے۔"
+     "text": "پاک فضائیہ کا پائلٹ تقریباً ایک ہفتہ تیانگونگ جہاز پر گزارے گا اور چین کے عملے کے ساتھ تجربات کرے گا۔"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046470/drilling-for-oil",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
    "type": null,
-   "time": "2026-11-23T02:52:26Z",
+   "time": "2026-11-24T07:55:18Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "china-unveils-new-space-mission-crew-with-a-paki",
+   "country": "China",
+   "label": "چین",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "چین نے نئے خلائی مشن کے عملے کی نقاب کشائی کی، ایک پاکستانی خلاباز اس کے خلائی اسٹیشن پر سوار ہونے کے لیے تیار ہے۔",
+   "summary": "چین نے نئے خلائی مشن کے عملے کی نقاب کشائی کی، ایک پاکستانی خلاباز اس کے خلائی اسٹیشن پر سوار ہونے کے لیے تیار ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "چین نے نئے خلائی مشن کے عملے کی نقاب کشائی کی، ایک پاکستانی خلاباز اس کے خلائی اسٹیشن پر سوار ہونے کے لیے تیار ہے۔"
+    }
+   ],
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
+   "type": null,
+   "time": "2026-11-24T05:51:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "oil-touches-three-month-lows-as-rising-supply-of",
+   "country": "Iran",
+   "label": "آبنائے ہرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "تیل تین ماہ کی کم ترین سطح کو چھو رہا ہے کیونکہ بڑھتی ہوئی سپلائی ہرمز کے خطرے کو دور کرتی ہے۔",
+   "summary": "تیل تین ماہ کی کم ترین سطح کو چھو رہا ہے کیونکہ بڑھتی ہوئی سپلائی ہرمز کے خطرے کو دور کرتی ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تیل تین ماہ کی کم ترین سطح کو چھو رہا ہے کیونکہ بڑھتی ہوئی سپلائی ہرمز کے خطرے کو دور کرتی ہے۔"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:56:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "متحدہ عرب امارات کے شہر راس الخیمہ میں بس اور ٹرک میں تصادم کے نتیجے میں 11 افراد ہلاک ہوگئے۔",
+   "summary": "متحدہ عرب امارات کے شہر راس الخیمہ میں بس اور ٹرک میں تصادم کے نتیجے میں 11 افراد ہلاک ہوگئے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "متحدہ عرب امارات کے شہر راس الخیمہ میں بس اور ٹرک میں تصادم کے نتیجے میں 11 افراد ہلاک ہوگئے۔"
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
+   "type": null,
+   "time": "2026-11-24T07:20:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "ایران کا اصرار ہے کہ جب تک اس کی 7 شرائط پوری نہیں ہو جاتیں اور مشرق وسطیٰ کی دیگر خبریں امریکہ کے ساتھ کوئی بات چیت نہیں کرے گی۔",
+   "summary": "ایران کا اصرار ہے کہ جب تک اس کی 7 شرائط پوری نہیں ہو جاتیں اور مشرق وسطیٰ کی دیگر خبریں امریکہ کے ساتھ کوئی بات چیت نہیں کرے گی۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایران کا اصرار ہے کہ جب تک اس کی 7 شرائط پوری نہیں ہو جاتیں اور مشرق وسطیٰ کی دیگر خبریں امریکہ کے ساتھ کوئی بات چیت نہیں کرے گی۔"
+    }
+   ],
+   "source": "WTOP News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:40:56Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "ایرانی بحریہ کا کہنا ہے کہ آبنائے ہرمز میں دو ٹینکروں کو آگ لگ گئی۔",
+   "summary": "ایرانی بحریہ کا کہنا ہے کہ آبنائے ہرمز میں دو ٹینکر آگ لگ گئے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایرانی بحریہ کا کہنا ہے کہ آبنائے ہرمز میں دو ٹینکروں کو آگ لگ گئی۔"
+    }
+   ],
+   "source": "thenationalnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-24T10:52:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
+   "country": "Libya",
+   "label": "لیبیا",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "critical",
+   "category": "World",
+   "headline": "یوکرین نے تصدیق کی ہے کہ اس نے لیبیا کے قریب دو روسی بحری جہازوں کو نشانہ بنانے کے لیے بحری ڈرون کا استعمال کیا۔",
+   "summary": "صدر زیلنسکی نے کہا کہ روس کا ایک جنگی جہاز ڈوب گیا، اس کے ساتھ ایک روسی کارگو جہاز بھی مارا گیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "یوکرین نے تصدیق کی ہے کہ اس نے لیبیا کے قریب دو روسی جہازوں کو نشانہ بنانے کے لیے بحری ڈرون کا استعمال کیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "اس کے پیچھے کون ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "صدر زیلنسکی نے کہا کہ روس کا ایک جنگی جہاز ڈوب گیا، اس کے ساتھ ایک روسی کارگو جہاز بھی مارا گیا۔"
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "type": null,
+   "time": "2026-11-24T02:30:00Z",
+   "countries": [
+    "Libya",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "israeli-minister-approves-return-of-flydubai-fli",
+   "country": "Israel",
+   "label": "اسرائیل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "watch",
+   "category": "Middle East",
+   "headline": "اسرائیلی وزیر نے فلائی دبئی کی پروازوں کی تل ابیب کے لیے واپسی کی منظوری دے دی۔",
+   "summary": "دبئی اور تل ابیب کے درمیان کیریئر کے راستے کی حتمی بحالی کا انحصار اسرائیلی سیکیورٹی حکام کی منظوری پر ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "اسرائیلی وزیر نے فلائی دبئی کی پروازوں کی تل ابیب واپسی کی منظوری دے دی۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "اثر کیا ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "دبئی اور تل ابیب کے درمیان کیریئر کے راستے کی حتمی بحالی کا انحصار اسرائیلی سیکیورٹی حکام کی منظوری پر ہے۔"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T01:09:51Z",
+   "countries": [
+    "Israel",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "ایم ای بی اے اے شو 2026 بزنس ایوی ایشن ایم آر او کو فوکس میں رکھتا ہے کیونکہ متحدہ عرب امارات اور سعودی عرب نئی سہولیات میں سرمایہ کاری کرتے ہیں - Avi-Go",
+   "summary": "ایم ای بی اے اے شو 2026 بزنس ایوی ایشن ایم آر او کو فوکس میں رکھتا ہے کیونکہ متحدہ عرب امارات اور سعودی عرب نئی سہولیات میں سرمایہ کاری کرتے ہیں - Avi-Go",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایم ای بی اے اے شو 2026 میں بزنس ایوی ایشن MRO کو فوکس کرنے کے لیے UAE اور سعودی عرب نئی سہولیات میں سرمایہ کاری کرتے ہیں - Avi-Go۔"
+    }
+   ],
+   "source": "Avi-Go",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:47:09Z",
+   "countries": [
+    "United Arab Emirates",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "بلک کیریئر کو متحدہ عرب امارات سے دور نامعلوم پروجیکٹائل نے نشانہ بنایا",
+   "summary": "بلک کیریئر کو متحدہ عرب امارات سے دور نامعلوم پروجیکٹائل نے نشانہ بنایا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "بلک کیریئر کو متحدہ عرب امارات سے دور نامعلوم پروجیکٹائل نے نشانہ بنایا۔"
+    }
+   ],
+   "source": "Ship & Bunker",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:08:07Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "country": "China",
+   "label": "چین",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "چین کا خلائی پروگرام پاکستان کے پائلٹ کو اپنے پہلے غیر ملکی کے طور پر اڑائے گا۔",
+   "summary": "چین کا خلائی پروگرام پاکستان کے پائلٹ کو اپنے پہلے غیر ملکی کے طور پر اڑائے گا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "چین کا خلائی پروگرام پاکستان کے پائلٹ کو اپنے پہلے غیر ملکی کے طور پر اڑائے گا۔"
+    }
+   ],
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:09:31Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
+   "country": "Libya",
+   "label": "لیبیا",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "لیبیا کی پائپ لائن نے تیل کے بہاؤ کو بحال کیا کیونکہ برینٹ کروڈ 90 ڈالر سے تین ماہ کی کم ترین سطح پر گر گیا",
+   "summary": "لیبیا کی پائپ لائن نے تیل کے بہاؤ کو بحال کیا کیونکہ برینٹ کروڈ 90 ڈالر سے تین ماہ کی کم ترین سطح پر گر گیا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "لیبیا کی پائپ لائن نے تیل کے بہاؤ کو بحال کیا کیونکہ برینٹ کروڈ $90 سے تین ماہ کی کم ترین سطح پر گرتا ہے۔"
+    }
+   ],
+   "source": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
+   "type": null,
+   "time": "2026-11-24T08:55:00Z",
+   "countries": [
+    "Libya"
+   ]
+  },
+  {
+   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "غیر ملکی قرض دہندہ کے قوانین سعودی عرب: 2026 گائیڈ",
+   "summary": "غیر ملکی قرض دہندہ کے قوانین سعودی عرب: 2026 گائیڈ",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "غیر ملکی قرض دہندہ کے قوانین سعودی عرب: 2026 گائیڈ۔"
+    }
+   ],
+   "source": "Global Advisory Experts",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "type": null,
+   "time": "2026-11-24T06:28:42Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "پرتگال اور پاکستان کے درمیان کاروباری تعلقات کو فروغ دینے کے لیے سرمایہ کاری کے تحفظ کے معاہدے پر دستخط",
+   "summary": "پرتگال اور پاکستان کے درمیان کاروباری تعلقات کو فروغ دینے کے لیے سرمایہ کاری کے تحفظ کے معاہدے پر دستخط",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "پرتگال اور پاکستان کے درمیان کاروباری تعلقات کو فروغ دینے کے لیے سرمایہ کاری کے تحفظ کے معاہدے پر دستخط"
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "type": null,
+   "time": "2026-11-24T07:05:18Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "varma-century-in-vain-as-pakistan-shaheens-down-",
+   "id": "america-serves-up-football-on-thanksgiving",
+   "country": "United States of America",
+   "label": "ریاستہائے متحدہ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "امریکہ تھینکس گیونگ پر فٹ بال پیش کرتا ہے۔",
+   "summary": "امریکہ تھینکس گیونگ پر فٹ بال پیش کرتا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "امریکہ تھینکس گیونگ پر فٹ بال پیش کرتا ہے۔"
+    }
+   ],
+   "source": "U.S. Embassy & Consulates in Russia (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "type": null,
+   "time": "2026-11-24T10:17:54Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
+   "country": "Yemen",
+   "label": "یمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "یمن کے الحدیدہ پر فضائی حملے میں 17 ہلاک: حوثی میڈیا",
+   "summary": "یمن کے الحدیدہ پر فضائی حملے میں 17 ہلاک: حوثی میڈیا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "یمن کے الحدیدہ پر فضائی حملے میں 17 ہلاک: حوثی میڈیا"
+    }
+   ],
+   "source": "巴士的報",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:47:19Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "thousands-protest-in-karachi-against-asim-munir-",
    "country": "Pakistan",
    "label": "پاکستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "high",
-   "category": "Sports",
-   "headline": "ایشیا کپ رائزنگ اسٹارز کے تصادم میں پاکستان شاہینز نے انڈیا اے کو شکست دیتے ہوئے ورما کی سنچری بے سود",
-   "summary": "پاکستان شاہینز نے اتوار کو دوحہ میں ہونے والے اپنے ایشیا کپ رائزنگ سٹارز کے میچ میں بھارت اے کو 48 رنز سے شکست دینے کے لیے تلک ورما کے دیر سے چیلنج پر قابو پاتے ہوئے، اپنے حریف کو پانچ گیندیں باقی رکھنے کے بعد 313 کے مجموعی اسکور کا دفاع کیا۔",
+   "category": "Pakistan",
+   "headline": "کراچی میں عاصم منیر کے پاکستان کو دوبارہ بنانے کے جوئے کے خلاف ہزاروں افراد کا احتجاج",
+   "summary": "کراچی میں عاصم منیر کے پاکستان کو دوبارہ بنانے کے جوئے کے خلاف ہزاروں افراد کا احتجاج",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ایشیا کپ رائزنگ اسٹارز کے تصادم میں پاکستان شاہینز نے انڈیا اے کو شکست دیتے ہوئے ورما کی سنچری بے سود۔"
+     "text": "کراچی میں عاصم منیر کے پاکستان کو دوبارہ بنانے کے جوئے کے خلاف ہزاروں افراد کا احتجاج۔"
+    }
+   ],
+   "source": "NDTV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
+   "type": null,
+   "time": "2026-11-24T09:57:09Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
+   "country": "South Africa",
+   "label": "جنوبی افریقہ",
+   "lat": -30.6,
+   "lon": 22.9,
+   "flag": "🇿🇦",
+   "severity": "high",
+   "category": "World",
+   "headline": "ڈی آر کانگو کا کہنا ہے کہ باغیوں کا طیارہ مار گرانے کا دعویٰ کرتے ہوئے فوجی طیارہ لاپتہ ہے۔",
+   "summary": "مبینہ طور پر تباہ ہونے والے طیارے میں سوار افراد میں جنوبی افریقہ کا ایک فائٹر پائلٹ اور یوگنڈا کا ایک افسر بھی شامل ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ڈی آر کانگو کا کہنا ہے کہ باغیوں کا طیارہ مار گرانے کا دعویٰ کرتے ہوئے فوجی طیارہ لاپتہ ہے۔"
     },
     {
      "role": "COMMANDER",
@@ -58,516 +482,15 @@
     },
     {
      "role": "ANALYST",
-     "text": "پاکستان شاہینز نے اتوار کو دوحہ میں ہونے والے اپنے ایشیا کپ رائزنگ سٹارز کے میچ میں بھارت اے کو 48 رنز سے شکست دینے کے لیے تلک ورما کے دیر سے چیلنج پر قابو پاتے ہوئے، اپنے حریف کو پانچ گیندیں باقی رکھنے کے بعد 313 کے مجموعی اسکور کا دفاع کیا۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046331/varma-century-in-vain-as-pakistan-shaheens-down-india-a-in-asia-cup-rising-stars-clash",
-   "type": null,
-   "time": "2026-11-22T19:14:50Z",
-   "countries": [
-    "Pakistan",
-    "India",
-    "Qatar"
-   ]
-  },
-  {
-   "id": "portuguese-foreign-minister-arrives-in-pakistan-",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "پرتگال کے وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے، ایف او",
-   "summary": "دفتر خارجہ (ایف او) نے بتایا کہ پرتگال کے وزیر مملکت اور امور خارجہ پالو رینگل اتوار کو سرکاری دورے پر پاکستان پہنچے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "پرتگال کے وزیر خارجہ سرکاری دورے پر پاکستان پہنچ گئے، ایف او"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "دفتر خارجہ (ایف او) نے بتایا کہ پرتگال کے وزیر مملکت اور امور خارجہ پالو رینگل اتوار کو سرکاری دورے پر پاکستان پہنچے۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo",
-   "type": null,
-   "time": "2026-11-22T16:27:27Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "oman-to-supply-petroleum-products-200m-credit-fa",
-   "country": "Oman",
-   "label": "عمان",
-   "lat": 21.5,
-   "lon": 57.0,
-   "flag": "🇴🇲",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "عمان نئے معاہدے کے تحت پی ایس او کو پیٹرولیم مصنوعات، 200 ملین ڈالر کی کریڈٹ سہولت فراہم کرے گا۔",
-   "summary": "اسلام آباد: پاکستان اور عمان نے اتوار کو ایک معاہدے پر دستخط کیے جس کے تحت خلیجی ملک کی سرکاری OQ ٹریڈنگ پاکستان اسٹیٹ آئل (PSO) کو پیٹرولیم مصنوعات کے ساتھ ساتھ 200 ملین ڈالر کی کریڈٹ لائن فراہم کرے گی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "عمان نئے معاہدے کے تحت پی ایس او کو پیٹرولیم مصنوعات، 200 ملین ڈالر کی کریڈٹ سہولت فراہم کرے گا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "قیمتوں کا کیا مطلب ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "اسلام آباد: پاکستان اور عمان نے اتوار کو ایک معاہدے پر دستخط کیے جس کے تحت خلیجی ملک کی سرکاری OQ ٹریڈنگ پاکستان اسٹیٹ آئل (PSO) کو پیٹرولیم مصنوعات کے ساتھ ساتھ 200 ملین ڈالر کی کریڈٹ لائن فراہم کرے گی۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement",
-   "type": null,
-   "time": "2026-11-22T15:27:28Z",
-   "countries": [
-    "Oman",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "saudi-led-coalition-says-houthi-drone-destroyed-",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "سعودی زیرقیادت اتحاد کا کہنا ہے کہ حوثی ڈرون جنوبی سعودی عرب میں تباہ کر دیا گیا۔",
-   "summary": "سعودی زیرقیادت اتحاد کا کہنا ہے کہ حوثیوں کا ڈرون جنوبی سعودی عرب میں تباہ کر دیا گیا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "سعودی زیرقیادت اتحاد کا کہنا ہے کہ حوثی ڈرون جنوبی سعودی عرب میں تباہ کر دیا گیا۔"
-    }
-   ],
-   "source": "Yemen Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZV0NfMFN4UGd2XzVkSmZLV2VtcnpjU0ZnUHNLTXpBbVVzeWdFYThPRHZmYlAwNmd6c1B0WndlQzEwWVVnZ1RINmwyc09vY0lleUE?oc=5",
-   "type": null,
-   "time": "2026-11-22T20:25:48Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "trump-eyes-iran-strikes-after-new-year-threatens",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "ٹرمپ کی نظریں نئے سال کے بعد ایران کے حملوں پر، ناکہ بندی کرنے والوں کو ڈوبنے کی دھمکی",
-   "summary": "ٹرمپ کی نظریں نئے سال کے بعد ایران کے حملوں پر، ناکہ بندی کرنے والوں کو ڈوبنے کی دھمکی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ٹرمپ کی نظریں نئے سال کے بعد ایران کے حملوں پر، ناکہ بندی کرنے والوں کو ڈوبنے کی دھمکی۔"
-    }
-   ],
-   "source": "Iran International",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QSGNMZThLWmFoay1wNWFqWEZVdjRnOVAtQ2RmSFJVallkTWFxWE5oVWlXUF93MHByYlYyWWFMZEpTdEJkT2hpWm9GblNFdGpnU1lpaGF5Rl9RcFlMX1E?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-22T19:53:43Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-bound-ship-towed-away-after-it-was-attack",
-   "country": "Russia",
-   "label": "روس",
-   "lat": 55.75,
-   "lon": 37.6,
-   "flag": "🇷🇺",
-   "severity": "critical",
-   "category": "World",
-   "headline": "خلیج فن لینڈ میں روس جانے والے بحری جہاز پر حملے کے بعد اسے ہٹا دیا گیا۔",
-   "summary": "فن لینڈ کی دفاعی افواج کا کہنا ہے کہ ہفتے کے روز ہونے والے ڈرون حملے کے پیچھے ممکنہ طور پر یوکرین کا ہاتھ تھا۔ کیف نے ابھی تک کوئی تبصرہ نہیں کیا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "خلیج فن لینڈ میں روس جانے والے بحری جہاز پر حملے کے بعد اسے ہٹا دیا گیا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اس کے پیچھے کون ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "فن لینڈ کی دفاعی افواج کا کہنا ہے کہ ہفتے کے روز ہونے والے ڈرون حملے کے پیچھے ممکنہ طور پر یوکرین کا ہاتھ تھا۔ کیف نے ابھی تک کوئی تبصرہ نہیں کیا ہے۔"
+     "text": "مبینہ طور پر تباہ ہونے والے طیارے میں سوار افراد میں جنوبی افریقہ کا ایک فائٹر پائلٹ اور یوگنڈا کا ایک افسر بھی شامل ہے۔"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-22T17:18:26Z",
+   "time": "2026-11-24T10:48:27Z",
    "countries": [
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistani-among-two-injured-in-iranian-attacks-b",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "بحرین کا کہنا ہے کہ ایرانی حملوں میں زخمی ہونے والوں میں دو پاکستانی بھی شامل ہیں۔",
-   "summary": "اتوار کے روز مملکت میں حکام نے بتایا کہ بحرین پر گزشتہ رات کے ایرانی حملوں میں ایک پاکستانی شہری دو زخمیوں میں شامل تھا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "بحرین کا کہنا ہے کہ ایرانی حملوں میں زخمی ہونے والوں میں دو پاکستانی بھی شامل ہیں۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کوئی جانی نقصان؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "اتوار کے روز مملکت کے حکام نے بتایا کہ بحرین پر گزشتہ رات کے ایرانی حملوں میں زخمی ہونے والے دو افراد میں ایک پاکستانی شہری بھی شامل ہے۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
-   "type": null,
-   "time": "2026-11-22T12:12:04Z",
-   "countries": [
-    "Iran",
-    "Pakistan",
-    "Bahrain"
-   ]
-  },
-  {
-   "id": "rice-exports-up-by-0-35m-tonnes-in-four-months",
-   "country": "Thailand",
-   "label": "تھائی لینڈ",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "چار ماہ میں چاول کی برآمدات میں 0.35 ملین ٹن کا اضافہ ہوا۔",
-   "summary": "لاہور: پاکستان کی کل چاول کی برآمدات رواں مالی سال 2026-27 کے پہلے چار ماہ (جولائی تا اکتوبر) کے دوران 353,000 ٹن اضافے سے 1,351,000 ٹن تک پہنچ گئیں۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "چار ماہ میں چاول کی برآمدات میں 0.35 ملین ٹن کا اضافہ ہوا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اقدام کیوں؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "لاہور: پاکستان کی کل چاول کی برآمدات رواں مالی سال 2026-27 کے پہلے چار ماہ (جولائی تا اکتوبر) کے دوران 353,000 ٹن اضافے سے 1,351,000 ٹن تک پہنچ گئیں۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046421/rice-exports-up-by-035m-tonnes-in-four-months",
-   "type": null,
-   "time": "2026-11-23T00:04:49Z",
-   "countries": [
-    "Thailand",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "russian-vessel-hit-by-suspected-ukrainian-drone-",
-   "country": "Libya",
-   "label": "لیبیا",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "info",
-   "category": "Business",
-   "headline": "لیبیا کی بن غازی بندرگاہ پر مشتبہ یوکرین کے ڈرون نے روسی جہاز کو نشانہ بنایا",
-   "summary": "لیبیا کی مشرقی حکومت کا کہنا ہے کہ جہاز روس واپسی پر ایندھن اور رسد کے لیے رک گیا تھا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "لیبیا کی بن غازی بندرگاہ پر مشتبہ یوکرین کے ڈرون نے روسی جہاز کو نشانہ بنایا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ٹھیک ہے، اور کیا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "لیبیا کی مشرقی حکومت کا کہنا ہے کہ جہاز روس واپسی پر ایندھن اور رسد کے لیے رک گیا تھا۔"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
-   "type": null,
-   "time": "2026-11-22T22:14:33Z",
-   "countries": [
-    "Libya",
-    "Russia",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "iran-war-live-tankers-set-ablaze-in-hormuz-as-ir",
-   "country": "Iran",
-   "label": "آبنائے ہرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ایران جنگ لائیو: ہرمز میں ٹینکروں کو آگ لگا دی گئی کیونکہ IRGC نے بدامنی کے خطرے سے خبردار کیا ہے۔",
-   "summary": "ایران کی بحریہ کا دعویٰ ہے کہ اس کے قوانین کی خلاف ورزی کرنے والے ٹینکروں کو آگ لگا دی گئی، جب کہ آئی آر جی سی نے کہا کہ 'دشمنوں' نے بدامنی پھیلانے کی کوشش کی۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایران جنگ لائیو: ہرمز میں ٹینکروں کو آگ لگا دی گئی کیونکہ IRGC نے بدامنی کے خطرے سے خبردار کیا ہے۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اس کے پیچھے کون ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ایران کی بحریہ کا دعویٰ ہے کہ اس کے قوانین کی خلاف ورزی کرنے والے ٹینکروں کو آگ لگا دی گئی، جب کہ آئی آر جی سی نے کہا کہ 'دشمنوں' نے بدامنی پھیلانے کی کوشش کی۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-22T23:59:22Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "uae-s-eci-and-kazakhexport-renew-partnership-to-",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "UAE کی ECI اور KazakhExport نے تجارتی اور سرمایہ کاری کے تعلقات کو وسعت دینے کے لیے شراکت کی تجدید کی",
-   "summary": "UAE کی ECI اور KazakhExport نے تجارتی اور سرمایہ کاری کے تعلقات کو وسعت دینے کے لیے شراکت کی تجدید کی",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE کی ECI اور KazakhExport نے تجارتی اور سرمایہ کاری کے تعلقات کو وسعت دینے کے لیے شراکت داری کی تجدید کی۔"
-    }
-   ],
-   "source": "Qazinform",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTjlQRm5qRTRtU091SjZBYndDS3dtcmVkVVlxbDd6c09yb0MwVklqcGpXek1maFl2UFpRdGNGQTlhalhqYWlSNzZQRUxXTE9nRkQxbThwUWJsaVFqWWJ3WkdxVHBXUEl2LUZ4dWtBUktSOVRfZ3hxS0cwem53cGVFTnhfbElIV2JNTTJsT2lPOXdxYWs0bmNoaEc3QzdvYTItRXRpVE1tVzQ5WGJ4b2pYODVjTdIBswFBVV95cUxNNHRDU2xYMlJYejB6a29QWHhhN0VFNFBzeGFsUkF1NnhKZnBCbnVNYlJyb0E0ZG5hdzEtYV84SzNONEJJYUJ5TXhlSS1PTFhvZjhmZ0dVSmF4LWFPbG9fbXJXX3J4RnlpajFUOG1JR0NtX2ViTVRDc2tsWTJLaTlDTnI2dFpNbXFZdUFzOUQ2bFlaa1czT2xQVTNQcDhEWjJWcWk4empyaDV3S1ZrS29GMFZjWQ?oc=5",
-   "type": null,
-   "time": "2026-11-23T02:49:50Z",
-   "countries": [
-    "United Arab Emirates",
-    "Kazakhstan"
-   ]
-  },
-  {
-   "id": "us-intelligence-chief-defends-trump-s-comments-c",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "watch",
-   "category": "World",
-   "headline": "امریکی انٹیلی جنس چیف نے پوتن کو اپنا دوست کہنے والے ٹرمپ کے تبصرے کا دفاع کیا",
-   "summary": "امریکی ڈائریکٹر آف نیشنل انٹیلی جنس جے کلیٹن کا کہنا ہے کہ سربراہی اجلاس کے تناظر میں ٹرمپ کے تبصرے 'بالکل مناسب' تھے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "امریکی انٹیلی جنس سربراہ نے پوتن کو اپنا دوست قرار دینے کے ٹرمپ کے تبصرے کا دفاع کیا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ٹھیک ہے۔ تفصیلات؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "امریکی ڈائریکٹر آف نیشنل انٹیلی جنس جے کلیٹن کا کہنا ہے کہ سربراہی اجلاس کے تناظر میں ٹرمپ کے تبصرے 'بالکل مناسب' تھے۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-23T02:23:13Z",
-   "countries": [
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "major-escalations-in-iran-and-ukraine-conflicts",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "ایران اور یوکرین کے تنازعات میں بڑے پیمانے پر اضافہ",
-   "summary": "ایران اور یوکرین کے تنازعات میں بڑے پیمانے پر اضافہ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایران اور یوکرین کے تنازعات میں بڑے پیمانے پر اضافہ۔"
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlNPMFBmRDQ5Q1lzVXp1d3B2SW01QTROc1V3dUFZdkI3QkNpdDN5amdRSGl0WnZVMkIwTjJXT09lWlJfVWRNUndMN3Bmd3BaU2VSQ1hadllPQ1R4UC1DUVEya05QR3VoTUNjOXdDZEVGSkxHSVhNdFItaXJobmJucFpuak1jMWZOTWdLMnhMVm1PdXc2NUZNUm9LUkNodw?oc=5",
-   "type": null,
-   "time": "2026-11-23T01:58:59Z",
-   "countries": [
-    "Iran",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "any-talks-with-india-on-terrorism-must-be-eviden",
-   "country": "India",
-   "label": "انڈیا",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "مصدق ملک کا کہنا ہے کہ دہشت گردی پر بھارت کے ساتھ کوئی بھی بات چیت 'ثبوت پر مبنی' ہونی چاہیے۔",
-   "summary": "وفاقی وزیر مصدق ملک نے اتوار کے روز کہا کہ پاکستان اور بھارت کے درمیان دہشت گردی پر کوئی بھی بات چیت ’’ثبوت کی بنیاد پر‘‘ ہونی چاہیے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "مصدق ملک کا کہنا ہے کہ دہشت گردی پر بھارت کے ساتھ کوئی بھی بات چیت 'ثبوت پر مبنی' ہونی چاہیے۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وفاقی وزیر مصدق ملک نے اتوار کے روز کہا کہ پاکستان اور بھارت کے درمیان دہشت گردی پر کوئی بھی بات چیت ’’ثبوت کی بنیاد پر‘‘ ہونی چاہیے۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik",
-   "type": null,
-   "time": "2026-11-22T19:22:47Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "-danger-seems-greater-all-the-time-ukrainians-se",
-   "country": "Ukraine",
-   "label": "یوکرین",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "'خطرہ ہر وقت زیادہ لگتا ہے': یوکرین کے باشندے روسی حملوں کے بعد لاپتہ ہونے کی تلاش کر رہے ہیں۔",
-   "summary": "بی بی سی کی سارہ رینس فورڈ یوکرین کے علاقے کیف میں منہدم ہونے والی رہائشی عمارت کے منظر سے رپورٹ کر رہی ہیں۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "'خطرہ ہر وقت زیادہ لگتا ہے': یوکرین کے باشندے روسی حملوں کے بعد لاپتہ ہونے کی تلاش کر رہے ہیں۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اس کے پیچھے کون ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "بی بی سی کی سارہ رینس فورڈ یوکرین کے علاقے کیف میں منہدم ہونے والی رہائشی عمارت کے منظر سے رپورٹ کر رہی ہیں۔"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-22T22:37:43Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "uae-condemns-iranian-attack-on-bahrain",
-   "country": "Bahrain",
-   "label": "بحرین",
-   "lat": 26.1,
-   "lon": 50.6,
-   "flag": "🇧🇭",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "متحدہ عرب امارات نے بحرین پر ایرانی حملے کی مذمت کی ہے۔",
-   "summary": "متحدہ عرب امارات نے بحرین پر ایرانی حملے کی مذمت کی ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "متحدہ عرب امارات نے بحرین پر ایرانی حملے کی مذمت کی ہے۔"
-    }
-   ],
-   "source": "Middle East Eye",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSXprZlBmWXhtZnNNSUp4Mmk1TTU1bHR5ai1FTzdiUlFDUlpOYWtySEJyM2dxbURSOTZuTWZiR2o0a0l2cWNwNlNwRWoyMlFxWHQ2SnM3THpTWW5PNE85WVFkTF8tTzJaYzdYMXplWU1lZTJOaEF1Y2wzUVVPaDNFSGpwUGMtWXZwVjF0QmxzMlpNR0lya1l3?oc=5",
-   "type": null,
-   "time": "2026-11-22T09:53:00Z",
-   "countries": [
-    "Bahrain",
-    "United Arab Emirates",
-    "Iran"
-   ]
-  },
-  {
-   "id": "saudi-arabia-bahrain-report-new-attacks-as-iran-",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "سعودی عرب، بحرین نے نئے حملوں کی اطلاع دی ہے کیونکہ ایران کا کہنا ہے کہ وہ امریکہ کے ساتھ معاہدے کے لیے کھلا ہے۔",
-   "summary": "سعودی عرب، بحرین نے نئے حملوں کی اطلاع دی ہے کیونکہ ایران کا کہنا ہے کہ وہ امریکہ کے ساتھ معاہدے کے لیے کھلا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "سعودی عرب، بحرین نے نئے حملوں کی اطلاع دی ہے کیونکہ ایران کا کہنا ہے کہ وہ امریکہ کے ساتھ معاہدے کے لیے کھلا ہے۔"
-    }
-   ],
-   "source": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWExRdGJVYklFVlRzdFJXOWVHb3NjWFQwYTJTeU1CN1h1YkJ1ckswc29IQ28ydHBtWkhFOV83WEJ6V09RZWk3TkRIbnNYdmVnR3l4OXA4WDFLQnI5bUVzNU5RYnlIZnNQNU4yOXNDT3BVSzgxNlplYWhBaGp2YWVLZ0x6MXJOWm1OZVdVTlN30gGTAUFVX3lxTE04Qy1NVGc0RndjU2tZbS1ubW5uWDBSSUZ5NTQzTFZ5MGtCSk52SFg4YWdVTjVOWmN4S1FzMXFQZFJNekptTi1PVmhVY1dHaDVwZHkzTUxvZnhyaHlQVXNzWno0aVFFdjJMcjdIcGV2dnlvMFlhcHp4WVVZYnJMcWFfdzhNVmdfbjY0SU1sS0MtdXUyTQ?oc=5",
-   "type": null,
-   "time": "2026-11-22T13:25:47Z",
-   "countries": [
-    "Saudi Arabia",
-    "Bahrain",
-    "Iran",
-    "United States of America"
+    "South Africa"
    ]
   }
  ]
