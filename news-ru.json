@@ -1,8 +1,299 @@
 {
- "updated": "2026-11-25T15:01:48.563006Z",
+ "updated": "2026-11-25T23:40:18.282993Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
+  {
+   "id": "yemen-s-houthis-claim-attack-on-major-saudi-oil-",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Йеменские хуситы заявили о нападении на крупный саудовский нефтеперерабатывающий завод",
+   "summary": "Йеменские хуситы заявили о нападении на крупный саудовский нефтеперерабатывающий завод",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Йеменские хуситы заявили о нападении на крупный нефтеперерабатывающий завод Саудовской Аравии."
+    }
+   ],
+   "source": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10XzNGbllicGZQM29nWlVLYk5rRXozbVVtZktuQW9zQmdPWG91UUhoYnliRXZVNXZjSzlzX0VHVEFVMFFOZUxfcnhPS0t4bVBieE1UREh0ZUpsV1BmRjFpYVEwdTlONWVvVkhyVnhvUFNLNk95NDF1dzFvQXE2UQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T19:56:01Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "trump-proposing-new-tariffs-on-14-partners-inclu",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Трамп предлагает новые тарифы для 14 партнеров, включая Китай и ЕС",
+   "summary": "Новые сборы ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Трамп предлагает новые тарифы для 14 партнеров, включая Китай и ЕС."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Новые сборы ударят по многим крупнейшим торговым партнерам Америки, включая Китай и ЕС."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T21:15:00Z",
+   "countries": [
+    "United States of America",
+    "China"
+   ]
+  },
+  {
+   "id": "oil-up-as-hormuz-attacks-counter-recovery-in-sup",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Нефть растет, поскольку Ормуз атакует, противодействуя восстановлению поставок",
+   "summary": "Нефть растет, поскольку Ормуз атакует, противодействуя восстановлению поставок",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Нефть растет, поскольку Ормуз атакует, противодействуя восстановлению поставок."
+    }
+   ],
+   "source": "Rigzone",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2VXUmo1NGpPbVNNOXZPZjh6bmJLRDMtT0NaRVF2OHBpNUhwWWZFRUJKSlA4RFZ1bEpXYVlXQ1MxUTdGTDRzNzVyaHdRTVluWVlJVGVNYnIycmJMdWVpTlFGSVpLcWlXWW5VSGRITWZQWDZONnBFejkxd0dCa2xURWdPbFVxVkcxaGxIbExnTElrTEowMVhaTWpfRklzV01aZ29QRzBXbXV1bENiekxlMmNMdw?oc=5",
+   "type": null,
+   "time": "2026-11-25T21:16:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "trump-says-iran-war-funded-through-january-as-is",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Трамп заявил, что война с Ираном будет финансироваться до января, поскольку Израиль предупреждает о разработке химического оружия",
+   "summary": "Трамп заявил, что война с Ираном будет финансироваться до января, поскольку Израиль предупреждает о разработке химического оружия",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Трамп говорит, что война с Ираном будет финансироваться до января, поскольку Израиль предупреждает о разработке химического оружия."
+    }
+   ],
+   "source": "KEYE",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFZIQk94d3BqMTh3Z1EwZk45TWRUb0xEWm1MXzZhMTIyWmUzSnNuZmduRkozRG9RS2xqOXFiMjBSdk0tTHVZUEFNVXZ4dFlkengyWmN4WW9hMHctOEtuYmp1bEJyc205SmxhOXRSM2NjLTQxVzV0THdOOUpWVi16Ml9CR3dzdDVCTVFmTnJvU2ZOd1ZCNnpleUhaV0dXT3gtYk9aMm5uOWRDdVZ4bjUyeFZrRG1SVkxVUmFlRE9fQ3pKY2RHUXJsVFBNd3NvQjh3bk1BT1NfUnRFWjVR?oc=5",
+   "type": null,
+   "time": "2026-11-25T20:25:33Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун",
+   "summary": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T16:13:29Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "rubio-condemns-houthi-attacks-after-a-third-stri",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Рубио осуждает нападения хуситов после того, как третий удар нанесен по финансовому району Эр-Рияда менее чем за три недели",
+   "summary": "Рубио осуждает нападения хуситов после того, как третий удар нанесен по финансовому району Эр-Рияда менее чем за три недели",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Рубио осуждает нападения хуситов после того, как третий удар нанесен по финансовому району Эр-Рияда менее чем за три недели."
+    }
+   ],
+   "source": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3IwdGxRRjN6Y2VsdjZnRVRfOGJCVzQ0M2pxdV9WdGVnX1JVNHk1TVdXelh0UnF2a090ZEJMU2ZFdW1OcjFELWcwS3ktQ1JsclFDSnUtNDJvVlV4RlpfbTRWcURhYVRkQUNwMUxhUnJYcTNmTW1CdWdYSlpoc284WTN3?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:08:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-intercepts-2-houthi-ballisti",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Коалиция под руководством Саудовской Аравии перехватила две баллистические ракеты хуситов, запущенные в сторону Эр-Рияда",
+   "summary": "Коалиция под руководством Саудовской Аравии перехватила две баллистические ракеты хуситов, запущенные в сторону Эр-Рияда",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Коалиция под руководством Саудовской Аравии перехватила две баллистические ракеты хуситов, запущенные в сторону Эр-Рияда."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3U4ZTVSSG5aVzZIZ3N1T2JLcmlCU0R2WFRXWm83cDlxd1VENkJEREtNUFNMYS1lQ09vQ1FHeGx1YXF2eDROYVhEUEd2eXh0WkJtZW4xNzd4ZEN6c0lNOGZTdGFGWUdZSEtua0Uxb3dNc051bHc0UkFZQ1NpcnVMUTJfM3ItZm1ZY1k1ek1fM0lmbXRENnNkMDNkZTBnRVVyMU1LWkJMWElQdFlxZlFMRWlWenZJRGozYjdvQUlKckZTekxp?oc=5",
+   "type": null,
+   "time": "2026-11-25T22:04:13Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "houthis-target-saudi-arabia-s-red-sea-ports-as-s",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Хуситы атакуют порты Саудовской Аравии на Красном море, поскольку удары усиливаются",
+   "summary": "Хуситы атакуют порты Саудовской Аравии на Красном море, поскольку удары усиливаются",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Хуситы атакуют порты Саудовской Аравии на Красном море по мере эскалации ударов."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxhOFVRbGV4VWljWVZrRGUzSlRFN2dkQVc3dkVHWHZQdUlOYmVpbEpKdVdtYkdXRFVQVG11QlJleUZOeXZyVUdCRVg0UWw1YmVNUS02WlREdUJnVnBnRlF2TUJJM2hrUlNUSHUxRmF0YzRqM2QtR01kUUhvSHZHX25XeWRNZjdrMFF0VkRlVnMxbjNQOU1YcTl0cjJCNlZueGlOeXZIONIBrAFBVV95cUxPdEhLc01XWU5iX2xIa2VMdlBiZG1icV9TR1JsTGJJTl85Vkg2N25sY2JQYTJpb0tqYnhVRENFSUN5NkQxM3NBbG45WUQwdzk5UFB1LUFLRGUyeEExUkxlcW9UdUVBU2pteWVwdV9LMDhxbWZsb2lEVExfS0JmU0s5MVVrMVFaSHpoVnpSQTlTN0lSeEROZzFQMl9DemV6MFgxRkp0V1M2M0NoQm5J?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:35:02Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pia-passengers-in-uk-left-distressed-as-2-flight",
+   "country": "United Kingdom",
+   "label": "ВЕЛИКОБРИТАНИЯ",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Пассажиры PIA в Великобритании расстроены: два рейса отменены из-за внезапной приостановки работы Norse Atlantic",
+   "summary": "Пакистанские международные авиалинии (PIA) заявили в среду, что с 26 ноября переведут свои операции в Великобритании на собственный парк Boeing 777 после того, как партнер по аренде с обслуживанием Norse Atlantic Airways внезапно приостановила операции, что вынудило отменить два рейса из Лондона и",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пассажиры PIA в Великобритании были расстроены: два рейса были отменены из-за внезапной приостановки полетов Norse Atlantic."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Почему этот шаг?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Пакистанские международные авиалинии (PIA) заявили в среду, что с 26 ноября переведут свои операции в Великобритании на собственный парк Boeing 777 после того, как партнер по аренде с обслуживанием Norse Atlantic Airways внезапно приостановила операции, что вынудило отменить два рейса из Лондона и"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047053/pia-passengers-in-uk-left-distressed-as-2-flights-cancelled-due-to-abrupt-norse-atlantic-suspension",
+   "type": null,
+   "time": "2026-11-25T21:58:07Z",
+   "countries": [
+    "United Kingdom",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iraq-s-top-court-rules-government-can-take-over-",
+   "country": "Iraq",
+   "label": "ИРАК",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Верховный суд Ирака постановил, что правительство может захватить курдские границы и нефтяные месторождения",
+   "summary": "Решение было принято на следующий день после того, как курдские власти обвинили Багдад в «посягательстве» на конституционные права региона.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Верховный суд Ирака постановил, что правительство может захватить курдские границы и нефтяные месторождения."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Решение было принято на следующий день после того, как курдские власти обвинили Багдад в «посягательстве» на конституционные права региона."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T17:29:51Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -38,140 +329,20 @@
    ]
   },
   {
-   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Трамп нацелился на Китай и ЕС в новом раунде тарифов",
-   "summary": "Трамп нацелился на Китай и ЕС в новом раунде тарифов",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп нацелился на Китай и ЕС в новом раунде тарифов."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
-   "type": null,
-   "time": "2026-11-25T13:14:55Z",
-   "countries": [
-    "China",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "США обнародовали предлагаемые тарифы для основных партнеров, включая ЕС, Китай и Индию",
-   "summary": "Соединенные Штаты в среду обнародовали предлагаемые тарифы для 14 экономик, включая Европейский Союз, Китай и Индию, после многомесячного расследования предполагаемого избыточного производства — последний шаг президента США Дональда Трампа по изменению торговых отношений Вашингтона.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "США обнародовали предлагаемые тарифы для основных партнеров, включая ЕС, Китай и Индию."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что это значит для цен?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Соединенные Штаты в среду обнародовали предлагаемые тарифы для 14 экономик, включая Европейский Союз, Китай и Индию, после многомесячного расследования предполагаемого избыточного производства — последний шаг президента США Дональда Трампа по изменению торговых отношений Вашингтона."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
-   "type": null,
-   "time": "2026-11-25T13:40:45Z",
-   "countries": [
-    "United States of America",
-    "China",
-    "India"
-   ]
-  },
-  {
-   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун",
-   "summary": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Понял. Продолжать."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
-   "type": null,
-   "time": "2026-11-25T13:17:57Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "discover-the-best-installations-at-sharjah-archi",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года.",
-   "summary": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года."
-    }
-   ],
-   "source": "Wallpaper*",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:39:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-calls-for-human-control-over-decisions-",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "dozens-killed-in-egypt-vehicle-fire",
+   "country": "Egypt",
+   "label": "ЕГИПЕТ",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
    "severity": "critical",
-   "category": "Tech",
-   "headline": "Пакистан призывает к человеческому контролю над решениями по использованию ядерного оружия",
-   "summary": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Пакистан призвал держать решения по использованию ядерного оружия под контролем человека и предупредил, что системы искусственного интеллекта (ИИ) никогда не должны использоваться для нанесения ударов по системам ядерного командования, контроля и связи.",
+   "category": "Middle East",
+   "headline": "Десятки человек погибли при пожаре автомобиля в Египте",
+   "summary": "По меньшей мере 30 человек погибли и 15 получили ранения в результате возгорания автомобиля с нефтепродуктами в Египте.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пакистан призывает к человеческому контролю над решениями по использованию ядерного оружия."
+     "text": "Десятки человек погибли в результате пожара в автомобиле в Египте."
     },
     {
      "role": "COMMANDER",
@@ -179,100 +350,42 @@
     },
     {
      "role": "ANALYST",
-     "text": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Пакистан призвал держать решения по использованию ядерного оружия под контролем человека и предупредил, что системы искусственного интеллекта (ИИ) никогда не должны использоваться для нанесения ударов по системам ядерного командования, контроля и связи."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
-   "type": null,
-   "time": "2026-11-25T06:09:19Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-says-iran-war-funded-through-january-sugge",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Трамп говорит, что война с Ираном «финансировалась» до января, что предполагает ограниченное окно для новых операций",
-   "summary": "Трамп говорит, что война с Ираном «финансировалась» до января, что предполагает ограниченное окно для новых операций",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Трамп говорит, что война с Ираном «финансировалась» до января, предполагая ограниченное время для новых операций."
-    }
-   ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T09:00:30Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "china-sends-first-pakistani-astronaut-into-space",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "Китай отправил в космос первого пакистанского космонавта",
-   "summary": "Китай отправил в космос первого пакистанского космонавта",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Китай отправил в космос первого пакистанского космонавта."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
-   "type": null,
-   "time": "2026-11-25T14:31:00Z",
-   "countries": [
-    "China",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "bangladesh-garment-workers-protest-over-new-wage",
-   "country": "Bangladesh",
-   "label": "БАНГЛАДЕШ",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "high",
-   "category": "World",
-   "headline": "Рабочие швейной промышленности Бангладеш протестуют против новых зарплат",
-   "summary": "Бангладеш повысил минимальную ежемесячную заработную плату для работников швейной промышленности на 36% до 17 000 така, около 138 долларов.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Рабочие швейной промышленности Бангладеш протестуют против новых зарплат."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Какова ситуация сейчас?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Бангладеш повысил минимальную ежемесячную заработную плату для работников швейной промышленности на 36% до 17 000 така, около 138 долларов."
+     "text": "По меньшей мере 30 человек погибли и 15 получили ранения в результате возгорания автомобиля с нефтепродуктами в Египте."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T12:23:41Z",
+   "time": "2026-11-25T19:41:14Z",
    "countries": [
-    "Bangladesh"
+    "Egypt"
+   ]
+  },
+  {
+   "id": "etihad-flight-from-abu-dhabi-to-tel-aviv-turns-b",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Рейс Etihad из Абу-Даби в Тель-Авив вернулся обратно, по-видимому, из-за атак Ирана в Персидском заливе",
+   "summary": "Рейс Etihad из Абу-Даби в Тель-Авив вернулся обратно, по-видимому, из-за атак Ирана в Персидском заливе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Рейс Etihad из Абу-Даби в Тель-Авив повернул обратно, по-видимому, из-за атак Ирана в Персидском заливе."
+    }
+   ],
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSy1mSzhJeUVuMzRYTGctaWtkc2t2ZHgwTHBDZ3BaTHRGWjRLR05RYlZVWGw5Y1pONnY0b1BWUWFHXzc3ekJhWkk3VzltaTJ0SldlLUFsRlFEVVd2a2lIYXo5SzVxQmdVbEJoQkF3WGxBbmR0a2pqcFlfYlVrOG1ERFFIZjMtbllidkpfWTFkN3JzMTBORU54U2FrMXRBa3d3MjUtTjhwVkRxV3dZVHgzQkxjY9IBuAFBVV95cUxOR0hxbHRNQmM3dXFxQmI5cWN2N1hwQl92VlRqM2R1eDhzRVZrdDhRMnEyNi01dkpWNkpuZHV6VHRaa1pYWXZ1ckNTOUQ2TUtaSnZxTktTblk3YkJNY28wSVk0ZFJyUC1acXM1cnJydmFYSHdpdF9uMXdQZnlYeDB0T3BBRTZwTkNsbDFCMzEwMU1aNWFKNWoyWlZFeTFuMTBRa2swNmxHSGxmcGJ6cExVbWpPMUNnbEJS?oc=5",
+   "type": null,
+   "time": "2026-11-25T08:10:30Z",
+   "countries": [
+    "United Arab Emirates",
+    "Israel",
+    "Iran"
    ]
   },
   {
@@ -293,7 +406,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Это подтверждено?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
@@ -310,7 +423,58 @@
    ]
   },
   {
-   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "id": "explosion-reported-near-tanker-west-of-dubai-uk-",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Сообщается о взрыве возле танкера к западу от Дубая: морское агентство Великобритании",
+   "summary": "Сообщается о взрыве возле танкера к западу от Дубая: морское агентство Великобритании",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Сообщается о взрыве возле танкера к западу от Дубая: морское агентство Великобритании."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSndVNG5EMmZWV2lZWXdzb2UxM3hicTZ1U0x2SklsXzY5aURNUFVaZVlTYkNtdGZxN25Tby05T1cwanlQbzJITloyUHRkTUNfNS1oUTN5aFlqdHZnaTBjWURhLVJKT25kSG1WS3NWTHN6eGQ4cU9XYkVMb2NCWkNMcnNnZDFjWmoweFZ2RzJxLTA0dFk1bXg1Yld0NkVMa2FpaGNPUnYwU2xJWmRM?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:35:51Z",
+   "countries": [
+    "United Arab Emirates",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "projectile-explodes-near-tanker-50-nautical-mile",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Снаряд взорвался возле танкера в 50 морских милях от Дубая из-за нарастания атак на суда в Персидском заливе",
+   "summary": "Снаряд взорвался возле танкера в 50 морских милях от Дубая из-за нарастания атак на суда в Персидском заливе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Снаряд взорвался возле танкера в 50 морских милях от Дубая во время нарастания атак судов в Персидском заливе."
+    }
+   ],
+   "source": "investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNld3dzlaWmFJR1VwdnlUcVY5RjUxOEIwTXVMY3B4bE5JOHJZOVlHeXEzOEFVWVEzTlhVa29jamlaek1DdFdZalZDbExNdmE4ZHJPVWpDRkdpakVkdW4zbUx1Z1k2cTFTc0thREp1QmZuY1l4RUliZFJvc1BYTUZONHhSOEVONjBBWWJsdXlnSkxQVTN5M2huTURyd1BvYm9CQkJGS0ozeEtWd0RFZnBRcUh2ZHVBUERsbmFJWS1nQS01R3VtcnZueQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:30:16Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ukrainian-laser-downs-russian-jet-powered-drone-",
    "country": "Ukraine",
    "label": "УКРАИНА",
    "lat": 49.0,
@@ -318,12 +482,12 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Удары России по Украине убили пятерых человек и вызвали отключения электроэнергии в пяти регионах",
-   "summary": "Украинский чиновник заявил, что нападения на Запорожскую и Днепропетровскую области повредили ряд энергетических объектов.",
+   "headline": "Украинский лазер впервые в мире сбил российский беспилотник с реактивным двигателем",
+   "summary": "Украина заявляет, что ее лазерная система Blysk впервые перехватила в бою российский реактивный беспилотник",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "В результате ударов России по Украине погибло пять человек, а в пяти регионах произошли отключения электроэнергии."
+     "text": "Украинский лазер впервые в мире сбил российский беспилотник с реактивным двигателем."
     },
     {
      "role": "COMMANDER",
@@ -331,220 +495,49 @@
     },
     {
      "role": "ANALYST",
-     "text": "Украинский чиновник заявил, что нападения на Запорожскую и Днепропетровскую области повредили ряд энергетических объектов."
+     "text": "Украина заявляет, что ее лазерная система Blysk впервые перехватила в бою российский реактивный беспилотник"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T12:19:17Z",
+   "time": "2026-11-25T19:16:15Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
+   "id": "could-renewed-strikes-on-hodeidah-port-worsen-ye",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Третий танкер подорвался на мине в Ормузском проливе, заявил Иран",
-   "summary": "Третий танкер подорвался на мине в Ормузском проливе, заявил Иран",
+   "category": "Business",
+   "headline": "Могут ли новые удары по порту Ходейда усугубить гуманитарный кризис в Йемене?",
+   "summary": "Эксперты по гуманитарным вопросам предупреждают, что сбои в работе крупнейшего морского порта Йемена могут усугубить трудности миллионов йеменцев.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Третий танкер подорвался на мине в Ормузском проливе, сообщает Иран."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T14:45:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "АБР одобрил кредит в размере $250 млн для укрепления системы государственно-частного партнерства Пакистана",
-   "summary": "ИСЛАМАБАД: Азиатский банк развития (АБР) в среду одобрил кредит в размере 250 миллионов долларов США, основанный на политике, чтобы помочь Пакистану укрепить свою систему государственно-частного партнерства (ГЧП) и продвинуть ряд рентабельных и устойчивых проектов, которые могут привлечь частный капитал",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "АБР одобрил кредит в размере 250 миллионов долларов для укрепления системы государственно-частного партнерства Пакистана."
+     "text": "Могут ли новые удары по порту Ходейда усугубить гуманитарный кризис в Йемене?"
     },
     {
      "role": "COMMANDER",
-     "text": "Что это значит для цен?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
-     "text": "ИСЛАМАБАД: Азиатский банк развития (АБР) в среду одобрил кредит в размере 250 миллионов долларов США, основанный на политике, чтобы помочь Пакистану укрепить свою систему государственно-частного партнерства (ГЧП) и продвинуть ряд рентабельных и устойчивых проектов, которые могут привлечь частный капитал"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
-   "type": null,
-   "time": "2026-11-25T10:33:36Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "could-netanyahu-take-israel-into-another-war-wit",
-   "country": "Israel",
-   "label": "ИЗРАИЛЬ",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Может ли Нетаньяху втянуть Израиль в новую войну с Ираном, чтобы удержаться у власти?",
-   "summary": "Поскольку лидер израильской оппозиции Айзенкот собирается сформировать правительство, может ли война с Ираном сорвать переговоры и спасти Нетаньяху?",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Может ли Нетаньяху втянуть Израиль в новую войну с Ираном, чтобы удержаться у власти?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Поскольку лидер израильской оппозиции Айзенкот собирается сформировать правительство, может ли война с Ираном сорвать переговоры и спасти Нетаньяху?"
+     "text": "Эксперты по гуманитарным вопросам предупреждают, что сбои в работе крупнейшего морского порта Йемена могут усугубить трудности миллионов йеменцев."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T10:27:53Z",
+   "time": "2026-11-25T19:15:52Z",
    "countries": [
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
-   "country": "India",
-   "label": "ИНДИЯ",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Равалпиндиз обеспечил Мэтью Шорта прямым подписанием; Хайдарабад Кингсмен отказывается от участия",
-   "summary": "Равалпиндиз подтвердил подписание контракта с австралийским универсалом Мэтью Шортом в качестве главного игрока 12-й Суперлиги Пакистана (PSL), которая пройдет с 18 марта по 2 мая следующего года.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Равалпиндиз обеспечил Мэтью Шорта прямым подписанием; Хайдарабад Кингсмен отказывается от участия."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Это подтверждено?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Равалпиндиз подтвердил подписание контракта с австралийским универсалом Мэтью Шортом в качестве главного игрока 12-й Суперлиги Пакистана (PSL), которая пройдет с 18 марта по 2 мая следующего года."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
-   "type": null,
-   "time": "2026-11-25T12:19:59Z",
-   "countries": [
-    "India",
-    "Australia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "the-river-war-sees-india-build-dams-while-pakist",
-   "country": "India",
-   "label": "ИНДИЯ",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "«Речная война»: Индия строит плотины, а Пакистан возмущается",
-   "summary": "«Речная война»: Индия строит плотины, а Пакистан возмущается",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В «речной войне» Индия строит плотины, а Пакистан возмущается."
-    }
-   ],
-   "source": "IntelliNews",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:39:12Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход",
-   "summary": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:11:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "more-than-700-000-russian-soldiers-have-been-kil",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат",
-   "summary": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат."
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
-   "type": null,
-   "time": "2026-11-25T13:54:15Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
+    "Yemen"
    ]
   }
  ]

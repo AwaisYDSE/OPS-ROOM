@@ -1,7 +1,298 @@
 {
- "updated": "2026-11-25T15:01:48.563006Z",
+ "updated": "2026-11-25T23:40:18.282993Z",
  "generator": "rss",
  "stories": [
+  {
+   "id": "yemen-s-houthis-claim-attack-on-major-saudi-oil-",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Yemen's Houthis claim attack on major Saudi oil refinery",
+   "summary": "Yemen's Houthis claim attack on major Saudi oil refinery",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Yemen's Houthis claim attack on major Saudi oil refinery."
+    }
+   ],
+   "source": "CBC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10XzNGbllicGZQM29nWlVLYk5rRXozbVVtZktuQW9zQmdPWG91UUhoYnliRXZVNXZjSzlzX0VHVEFVMFFOZUxfcnhPS0t4bVBieE1UREh0ZUpsV1BmRjFpYVEwdTlONWVvVkhyVnhvUFNLNk95NDF1dzFvQXE2UQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T19:56:01Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "trump-proposing-new-tariffs-on-14-partners-inclu",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Trump proposing new tariffs on 14 partners including China and EU",
+   "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump proposing new tariffs on 14 partners including China and EU."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "The new levies would hit many of America's biggest trading partners, including China and the EU."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T21:15:00Z",
+   "countries": [
+    "United States of America",
+    "China"
+   ]
+  },
+  {
+   "id": "oil-up-as-hormuz-attacks-counter-recovery-in-sup",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Oil Up as Hormuz Attacks Counter Recovery in Supply",
+   "summary": "Oil Up as Hormuz Attacks Counter Recovery in Supply",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil Up as Hormuz Attacks Counter Recovery in Supply."
+    }
+   ],
+   "source": "Rigzone",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2VXUmo1NGpPbVNNOXZPZjh6bmJLRDMtT0NaRVF2OHBpNUhwWWZFRUJKSlA4RFZ1bEpXYVlXQ1MxUTdGTDRzNzVyaHdRTVluWVlJVGVNYnIycmJMdWVpTlFGSVpLcWlXWW5VSGRITWZQWDZONnBFejkxd0dCa2xURWdPbFVxVkcxaGxIbExnTElrTEowMVhaTWpfRklzV01aZ29QRzBXbXV1bENiekxlMmNMdw?oc=5",
+   "type": null,
+   "time": "2026-11-25T21:16:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "trump-says-iran-war-funded-through-january-as-is",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
+   "summary": "Trump says Iran war funded through January as Israel warns of chemical weapons development",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump says Iran war funded through January as Israel warns of chemical weapons development."
+    }
+   ],
+   "source": "KEYE",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOFZIQk94d3BqMTh3Z1EwZk45TWRUb0xEWm1MXzZhMTIyWmUzSnNuZmduRkozRG9RS2xqOXFiMjBSdk0tTHVZUEFNVXZ4dFlkengyWmN4WW9hMHctOEtuYmp1bEJyc205SmxhOXRSM2NjLTQxVzV0THdOOUpWVi16Ml9CR3dzdDVCTVFmTnJvU2ZOd1ZCNnpleUhaV0dXT3gtYk9aMm5uOWRDdVZ4bjUyeFZrRG1SVkxVUmFlRE9fQ3pKY2RHUXJsVFBNd3NvQjh3bk1BT1NfUnRFWjVR?oc=5",
+   "type": null,
+   "time": "2026-11-25T20:25:33Z",
+   "countries": [
+    "United States of America",
+    "Iran",
+    "Israel"
+   ]
+  },
+  {
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "summary": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T16:13:29Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "rubio-condemns-houthi-attacks-after-a-third-stri",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Rubio condemns Houthi attacks after a third strike hits Riyadh's financial district in under three weeks",
+   "summary": "Rubio condemns Houthi attacks after a third strike hits Riyadh's financial district in under three weeks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rubio condemns Houthi attacks after a third strike hits Riyadh's financial district in under three weeks."
+    }
+   ],
+   "source": "Latin Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ3IwdGxRRjN6Y2VsdjZnRVRfOGJCVzQ0M2pxdV9WdGVnX1JVNHk1TVdXelh0UnF2a090ZEJMU2ZFdW1OcjFELWcwS3ktQ1JsclFDSnUtNDJvVlV4RlpfbTRWcURhYVRkQUNwMUxhUnJYcTNmTW1CdWdYSlpoc284WTN3?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:08:17Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "saudi-led-coalition-intercepts-2-houthi-ballisti",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
+   "category": "Middle East",
+   "headline": "Saudi-led coalition intercepts 2 Houthi ballistic missiles launched toward Riyadh",
+   "summary": "Saudi-led coalition intercepts 2 Houthi ballistic missiles launched toward Riyadh",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Saudi-led coalition intercepts 2 Houthi ballistic missiles launched toward Riyadh."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3U4ZTVSSG5aVzZIZ3N1T2JLcmlCU0R2WFRXWm83cDlxd1VENkJEREtNUFNMYS1lQ09vQ1FHeGx1YXF2eDROYVhEUEd2eXh0WkJtZW4xNzd4ZEN6c0lNOGZTdGFGWUdZSEtua0Uxb3dNc051bHc0UkFZQ1NpcnVMUTJfM3ItZm1ZY1k1ek1fM0lmbXRENnNkMDNkZTBnRVVyMU1LWkJMWElQdFlxZlFMRWlWenZJRGozYjdvQUlKckZTekxp?oc=5",
+   "type": null,
+   "time": "2026-11-25T22:04:13Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "houthis-target-saudi-arabia-s-red-sea-ports-as-s",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+   "summary": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGxhOFVRbGV4VWljWVZrRGUzSlRFN2dkQVc3dkVHWHZQdUlOYmVpbEpKdVdtYkdXRFVQVG11QlJleUZOeXZyVUdCRVg0UWw1YmVNUS02WlREdUJnVnBnRlF2TUJJM2hrUlNUSHUxRmF0YzRqM2QtR01kUUhvSHZHX25XeWRNZjdrMFF0VkRlVnMxbjNQOU1YcTl0cjJCNlZueGlOeXZIONIBrAFBVV95cUxPdEhLc01XWU5iX2xIa2VMdlBiZG1icV9TR1JsTGJJTl85Vkg2N25sY2JQYTJpb0tqYnhVRENFSUN5NkQxM3NBbG45WUQwdzk5UFB1LUFLRGUyeEExUkxlcW9UdUVBU2pteWVwdV9LMDhxbWZsb2lEVExfS0JmU0s5MVVrMVFaSHpoVnpSQTlTN0lSeEROZzFQMl9DemV6MFgxRkp0V1M2M0NoQm5J?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:35:02Z",
+   "countries": [
+    "Saudi Arabia",
+    "Yemen"
+   ]
+  },
+  {
+   "id": "pia-passengers-in-uk-left-distressed-as-2-flight",
+   "country": "United Kingdom",
+   "label": "UNITED KINGDOM",
+   "lat": 52.5,
+   "lon": -1.5,
+   "flag": "🇬🇧",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension",
+   "summary": "Pakistan International Airlines (PIA) said on Wednesday it will move its UK operations to its own Boeing 777 fleet from Nov 26 after wet-lease partner Norse Atlantic Airways abruptly suspended operations, forcing the cancellation of two flights from London and",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Why the move?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan International Airlines (PIA) said on Wednesday it will move its UK operations to its own Boeing 777 fleet from Nov 26 after wet-lease partner Norse Atlantic Airways abruptly suspended operations, forcing the cancellation of two flights from London and"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047053/pia-passengers-in-uk-left-distressed-as-2-flights-cancelled-due-to-abrupt-norse-atlantic-suspension",
+   "type": null,
+   "time": "2026-11-25T21:58:07Z",
+   "countries": [
+    "United Kingdom",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iraq-s-top-court-rules-government-can-take-over-",
+   "country": "Iraq",
+   "label": "IRAQ",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+   "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iraq’s top court rules government can take over Kurdish borders, oil fields."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T17:29:51Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -37,140 +328,20 @@
    ]
   },
   {
-   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "Business",
-   "headline": "Trump targets China, EU in new round of tariffs",
-   "summary": "Trump targets China, EU in new round of tariffs",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump targets China, EU in new round of tariffs."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
-   "type": null,
-   "time": "2026-11-25T13:14:55Z",
-   "countries": [
-    "China",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "US unveils proposed tariffs on major partners, including EU, China and India",
-   "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relati",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "US unveils proposed tariffs on major partners, including EU, China and India."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relati"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
-   "type": null,
-   "time": "2026-11-25T13:40:45Z",
-   "countries": [
-    "United States of America",
-    "China",
-    "India"
-   ]
-  },
-  {
-   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
-   "summary": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Understood. Go on."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
-   "type": null,
-   "time": "2026-11-25T13:17:57Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "discover-the-best-installations-at-sharjah-archi",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Discover the best installations at Sharjah Architecture Triennial 2026",
-   "summary": "Discover the best installations at Sharjah Architecture Triennial 2026",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Discover the best installations at Sharjah Architecture Triennial 2026."
-    }
-   ],
-   "source": "Wallpaper*",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:39:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "pakistan-calls-for-human-control-over-decisions-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "dozens-killed-in-egypt-vehicle-fire",
+   "country": "Egypt",
+   "label": "EGYPT",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
    "severity": "critical",
-   "category": "Tech",
-   "headline": "Pakistan calls for human control over decisions on nuclear weapons use",
-   "summary": "UNITED NATIONS: Pakistan has called for keeping decisions on the use of nuclear weapons under human control and warned that artificial intelligence (AI) systems must never be used to target nuclear command, control and communications systems.",
+   "category": "Middle East",
+   "headline": "Dozens killed in Egypt vehicle fire",
+   "summary": "At least 30 have been ⁠killed and ⁠15 injured when a vehicle carrying ‌petroleum products caught fire in Egypt.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan calls for human control over decisions on nuclear weapons use."
+     "text": "Dozens killed in Egypt vehicle fire."
     },
     {
      "role": "COMMANDER",
@@ -178,100 +349,42 @@
     },
     {
      "role": "ANALYST",
-     "text": "UNITED NATIONS: Pakistan has called for keeping decisions on the use of nuclear weapons under human control and warned that artificial intelligence (AI) systems must never be used to target nuclear command, control and communications systems."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
-   "type": null,
-   "time": "2026-11-25T06:09:19Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "trump-says-iran-war-funded-through-january-sugge",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op",
-   "summary": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op."
-    }
-   ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T09:00:30Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "china-sends-first-pakistani-astronaut-into-space",
-   "country": "China",
-   "label": "CHINA",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "China sends first Pakistani astronaut into space",
-   "summary": "China sends first Pakistani astronaut into space",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "China sends first Pakistani astronaut into space."
-    }
-   ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
-   "type": null,
-   "time": "2026-11-25T14:31:00Z",
-   "countries": [
-    "China",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "bangladesh-garment-workers-protest-over-new-wage",
-   "country": "Bangladesh",
-   "label": "BANGLADESH",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "high",
-   "category": "World",
-   "headline": "Bangladesh garment workers protest over new wages",
-   "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Bangladesh garment workers protest over new wages."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What's the situation now?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138."
+     "text": "At least 30 have been ⁠killed and ⁠15 injured when a vehicle carrying ‌petroleum products caught fire in Egypt."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T12:23:41Z",
+   "time": "2026-11-25T19:41:14Z",
    "countries": [
-    "Bangladesh"
+    "Egypt"
+   ]
+  },
+  {
+   "id": "etihad-flight-from-abu-dhabi-to-tel-aviv-turns-b",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks in Gulf",
+   "summary": "Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks in Gulf",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Etihad flight from Abu Dhabi to Tel Aviv turns back, apparently due to Iran attacks in Gulf."
+    }
+   ],
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSy1mSzhJeUVuMzRYTGctaWtkc2t2ZHgwTHBDZ3BaTHRGWjRLR05RYlZVWGw5Y1pONnY0b1BWUWFHXzc3ekJhWkk3VzltaTJ0SldlLUFsRlFEVVd2a2lIYXo5SzVxQmdVbEJoQkF3WGxBbmR0a2pqcFlfYlVrOG1ERFFIZjMtbllidkpfWTFkN3JzMTBORU54U2FrMXRBa3d3MjUtTjhwVkRxV3dZVHgzQkxjY9IBuAFBVV95cUxOR0hxbHRNQmM3dXFxQmI5cWN2N1hwQl92VlRqM2R1eDhzRVZrdDhRMnEyNi01dkpWNkpuZHV6VHRaa1pYWXZ1ckNTOUQ2TUtaSnZxTktTblk3YkJNY28wSVk0ZFJyUC1acXM1cnJydmFYSHdpdF9uMXdQZnlYeDB0T3BBRTZwTkNsbDFCMzEwMU1aNWFKNWoyWlZFeTFuMTBRa2swNmxHSGxmcGJ6cExVbWpPMUNnbEJS?oc=5",
+   "type": null,
+   "time": "2026-11-25T08:10:30Z",
+   "countries": [
+    "United Arab Emirates",
+    "Israel",
+    "Iran"
    ]
   },
   {
@@ -292,7 +405,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Is it confirmed?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
@@ -309,7 +422,58 @@
    ]
   },
   {
-   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "id": "explosion-reported-near-tanker-west-of-dubai-uk-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Explosion reported near tanker west of Dubai: UK maritime agency",
+   "summary": "Explosion reported near tanker west of Dubai: UK maritime agency",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Explosion reported near tanker west of Dubai: UK maritime agency."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSndVNG5EMmZWV2lZWXdzb2UxM3hicTZ1U0x2SklsXzY5aURNUFVaZVlTYkNtdGZxN25Tby05T1cwanlQbzJITloyUHRkTUNfNS1oUTN5aFlqdHZnaTBjWURhLVJKT25kSG1WS3NWTHN6eGQ4cU9XYkVMb2NCWkNMcnNnZDFjWmoweFZ2RzJxLTA0dFk1bXg1Yld0NkVMa2FpaGNPUnYwU2xJWmRM?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:35:51Z",
+   "countries": [
+    "United Arab Emirates",
+    "United Kingdom"
+   ]
+  },
+  {
+   "id": "projectile-explodes-near-tanker-50-nautical-mile",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount",
+   "summary": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Projectile explodes near tanker 50 nautical miles off Dubai as Gulf shipping attacks mount."
+    }
+   ],
+   "source": "investingLive",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNld3dzlaWmFJR1VwdnlUcVY5RjUxOEIwTXVMY3B4bE5JOHJZOVlHeXEzOEFVWVEzTlhVa29jamlaek1DdFdZalZDbExNdmE4ZHJPVWpDRkdpakVkdW4zbUx1Z1k2cTFTc0thREp1QmZuY1l4RUliZFJvc1BYTUZONHhSOEVONjBBWWJsdXlnSkxQVTN5M2huTURyd1BvYm9CQkJGS0ozeEtWd0RFZnBRcUh2ZHVBUERsbmFJWS1nQS01R3VtcnZueQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T23:30:16Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "ukrainian-laser-downs-russian-jet-powered-drone-",
    "country": "Ukraine",
    "label": "UKRAINE",
    "lat": 49.0,
@@ -317,12 +481,12 @@
    "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Russian strikes on Ukraine kill five, cause power outages in five regions",
-   "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
+   "headline": "Ukrainian laser downs Russian jet-powered drone in world first",
+   "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Russian strikes on Ukraine kill five, cause power outages in five regions."
+     "text": "Ukrainian laser downs Russian jet-powered drone in world first."
     },
     {
      "role": "COMMANDER",
@@ -330,220 +494,49 @@
     },
     {
      "role": "ANALYST",
-     "text": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites."
+     "text": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T12:19:17Z",
+   "time": "2026-11-25T19:16:15Z",
    "countries": [
     "Ukraine",
     "Russia"
    ]
   },
   {
-   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
+   "id": "could-renewed-strikes-on-hodeidah-port-worsen-ye",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Third tanker hits mine in Strait of Hormuz, Iran says",
-   "summary": "Third tanker hits mine in Strait of Hormuz, Iran says",
+   "category": "Business",
+   "headline": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+   "summary": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Third tanker hits mine in Strait of Hormuz, Iran says."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T14:45:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system",
-   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and advance a pipeline of bankable and sustainable projects that can attract private capi",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system."
+     "text": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?."
     },
     {
      "role": "COMMANDER",
-     "text": "What does it mean for prices?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and advance a pipeline of bankable and sustainable projects that can attract private capi"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
-   "type": null,
-   "time": "2026-11-25T10:33:36Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "could-netanyahu-take-israel-into-another-war-wit",
-   "country": "Israel",
-   "label": "ISRAEL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-   "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Could Netanyahu take Israel into another war with Iran to cling to power?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?"
+     "text": "Disruptions at Yemen's largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T10:27:53Z",
+   "time": "2026-11-25T19:15:52Z",
    "countries": [
-    "Israel",
-    "Iran"
-   ]
-  },
-  {
-   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
-   "summary": "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
-   "type": null,
-   "time": "2026-11-25T12:19:59Z",
-   "countries": [
-    "India",
-    "Australia",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "the-river-war-sees-india-build-dams-while-pakist",
-   "country": "India",
-   "label": "INDIA",
-   "lat": 22.0,
-   "lon": 79.0,
-   "flag": "🇮🇳",
-   "severity": "critical",
-   "category": "World",
-   "headline": "The 'River War' sees India build dams while Pakistan cries foul",
-   "summary": "The 'River War' sees India build dams while Pakistan cries foul",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "The 'River War' sees India build dams while Pakistan cries foul."
-    }
-   ],
-   "source": "IntelliNews",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:39:12Z",
-   "countries": [
-    "India",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
-   "country": "Iran",
-   "label": "STRAIT OF HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
-   "summary": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
-   "type": null,
-   "time": "2026-11-25T10:11:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "more-than-700-000-russian-soldiers-have-been-kil",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
-   "summary": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests."
-    }
-   ],
-   "source": "NBC News",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
-   "type": null,
-   "time": "2026-11-25T13:54:15Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
+    "Yemen"
    ]
   }
  ]
