@@ -1,209 +1,7 @@
 {
- "updated": "2026-11-25T04:38:59.858114Z",
+ "updated": "2026-11-25T15:01:48.563006Z",
  "generator": "rss",
  "stories": [
-  {
-   "id": "cashless-divide",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Cashless divide",
-   "summary": "IMAGINE a woman in Islamabad arriving at a government office to pay a fee. She has the money, but no bank account and no smartphone of her own. The counter no longer accepts cash. The official points her towards a QR code.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Cashless divide."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "IMAGINE a woman in Islamabad arriving at a government office to pay a fee. She has the money, but no bank account and no smartphone of her own. The counter no longer accepts cash. The official points her towards a QR code."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046934/cashless-divide",
-   "type": null,
-   "time": "2026-11-25T04:12:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "poll-finds-us-voters-want-government-to-end-iran",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Poll finds US voters want government to end Iran war regardless of terms",
-   "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Poll finds US voters want government to end Iran war regardless of terms."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T01:14:22Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russia's own figures show almost 500,000 deaths in war in Ukraine."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:56:51Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "My family died in Ukraine. My mum blamed Zelensky's troops",
-   "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "My family died in Ukraine. My mum blamed Zelensky's troops."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war."
-    }
-   ],
-   "source": "the truth is complicated",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:54:13Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
-   "summary": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tuesday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Collectorate of Customs (CoC) (airports) in Karachi foiled a narcotics smuggling attempt and seized 900 grams of marijuana during routine scanning at the International Mail Office (IMO), Pakistan Customs said on Tuesday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-   "type": null,
-   "time": "2026-11-24T20:02:11Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
-   "summary": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -239,87 +37,46 @@
    ]
   },
   {
-   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
    "country": "China",
    "label": "CHINA",
    "lat": 35.0,
    "lon": 104.0,
    "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
-   "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Trump targets China, EU in new round of tariffs",
+   "summary": "Trump targets China, EU in new round of tariffs",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen."
+     "text": "Trump targets China, EU in new round of tariffs."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
    "type": null,
-   "time": "2026-11-24T23:05:11Z",
+   "time": "2026-11-25T13:14:55Z",
    "countries": [
     "China",
-    "Taiwan"
+    "United States of America"
    ]
   },
   {
-   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12",
-   "summary": "Islamabad United have signed New Zealand fast bowler Matt Henry, while Karachi Kings have secured the services of England leg-spinner Adil Rashid as their marquee direct signings for the 12th edition of the Pakistan Super League (PSL).",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Islamabad United have signed New Zealand fast bowler Matt Henry, while Karachi Kings have secured the services of England leg-spinner Adil Rashid as their marquee direct signings for the 12th edition of the Pakistan Super League (PSL)."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
-   "type": null,
-   "time": "2026-11-24T17:50:48Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
-   "country": "Iraq",
-   "label": "IRAQ",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
+   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
-   "summary": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+   "category": "Tech",
+   "headline": "US unveils proposed tariffs on major partners, including EU, China and India",
+   "summary": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relati",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iraq targets oil smugglers, orders Kurdish oilfield takeover."
+     "text": "US unveils proposed tariffs on major partners, including EU, China and India."
     },
     {
      "role": "COMMANDER",
@@ -327,32 +84,93 @@
     },
     {
      "role": "ANALYST",
-     "text": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas."
+     "text": "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relati"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
    "type": null,
-   "time": "2026-11-24T20:18:19Z",
+   "time": "2026-11-25T13:40:45Z",
    "countries": [
-    "Iraq"
+    "United States of America",
+    "China",
+    "India"
    ]
   },
   {
-   "id": "turkish-military-helicopter-crash-kills-five-in-",
-   "country": "Turkey",
-   "label": "TURKEY",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Turkish military helicopter crash kills five in western Turkiye",
-   "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "summary": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Turkish military helicopter crash kills five in western Turkiye."
+     "text": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T13:17:57Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "discover-the-best-installations-at-sharjah-archi",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Discover the best installations at Sharjah Architecture Triennial 2026",
+   "summary": "Discover the best installations at Sharjah Architecture Triennial 2026",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Discover the best installations at Sharjah Architecture Triennial 2026."
+    }
+   ],
+   "source": "Wallpaper*",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-human-control-over-decisions-",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Pakistan calls for human control over decisions on nuclear weapons use",
+   "summary": "UNITED NATIONS: Pakistan has called for keeping decisions on the use of nuclear weapons under human control and warned that artificial intelligence (AI) systems must never be used to target nuclear command, control and communications systems.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan calls for human control over decisions on nuclear weapons use."
     },
     {
      "role": "COMMANDER",
@@ -360,19 +178,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident."
+     "text": "UNITED NATIONS: Pakistan has called for keeping decisions on the use of nuclear weapons under human control and warned that artificial intelligence (AI) systems must never be used to target nuclear command, control and communications systems."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
    "type": null,
-   "time": "2026-11-24T19:52:21Z",
+   "time": "2026-11-25T06:09:19Z",
    "countries": [
-    "Turkey"
+    "Pakistan"
    ]
   },
   {
-   "id": "five-women-killed-each-hour-by-relatives-in-2025",
+   "id": "trump-says-iran-war-funded-through-january-sugge",
    "country": "United States of America",
    "label": "UNITED STATES",
    "lat": 39.0,
@@ -380,45 +198,64 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Five women killed each hour by relatives in 2025: UN",
-   "summary": "UNITED NATIONS: More than 47,000 women and girls, or around five per hour, were killed by relatives around the world in 2025, a figure broadly unchanged from previous years, according to a UN report published on Tuesday.",
+   "headline": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op",
+   "summary": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Five women killed each hour by relatives in 2025: UN."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "UNITED NATIONS: More than 47,000 women and girls, or around five per hour, were killed by relatives around the world in 2025, a figure broadly unchanged from previous years, according to a UN report published on Tuesday."
+     "text": "Trump says Iran war ‘funded’ through January, suggesting limited window for new op."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
    "type": null,
-   "time": "2026-11-25T01:41:20Z",
+   "time": "2026-11-25T09:00:30Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
+   "id": "china-sends-first-pakistani-astronaut-into-space",
+   "country": "China",
+   "label": "CHINA",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
    "category": "World",
-   "headline": "Thomas Markle indicted in US for possessing child sex abuse images",
-   "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+   "headline": "China sends first Pakistani astronaut into space",
+   "summary": "China sends first Pakistani astronaut into space",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Thomas Markle indicted in US for possessing child sex abuse images."
+     "text": "China sends first Pakistani astronaut into space."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:31:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "bangladesh-garment-workers-protest-over-new-wage",
+   "country": "Bangladesh",
+   "label": "BANGLADESH",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "high",
+   "category": "World",
+   "headline": "Bangladesh garment workers protest over new wages",
+   "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Bangladesh garment workers protest over new wages."
     },
     {
      "role": "COMMANDER",
@@ -426,134 +263,66 @@
     },
     {
      "role": "ANALYST",
-     "text": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T01:40:42Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "clashing-political-visions-reflect-a-divided-spa",
-   "country": "Spain",
-   "label": "SPAIN",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "Clashing political visions reflect a divided Spain ahead of election",
-   "summary": "Sunday’s election could see a far-right party enter the Spanish government for first time.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Clashing political visions reflect a divided Spain ahead of election."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Give me the details."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Sunday’s election could see a far-right party enter the Spanish government for first time."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:58:34Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-air-strike-kills-hamas-internal-security",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
-   "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Israeli air strike kills Hamas internal security chief in Gaza."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:35:53Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
-   "country": "Japan",
-   "label": "JAPAN",
-   "lat": 36.2,
-   "lon": 138.3,
-   "flag": "🇯🇵",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Asia’s stock markets dive as doubts swirl over AI boom",
-   "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Asia’s stock markets dive as doubts swirl over AI boom."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off."
+     "text": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T03:31:59Z",
+   "time": "2026-11-25T12:23:41Z",
    "countries": [
-    "Japan",
-    "South Korea",
-    "Taiwan"
+    "Bangladesh"
    ]
   },
   {
-   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
-   "country": "Syria",
-   "label": "SYRIA",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "russia-s-own-figures-show-it-has-lost-nearly-500",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Land mine casualties soar in Syria, two years after war",
-   "summary": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show.",
+   "category": "World",
+   "headline": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+   "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Land mine casualties soar in Syria, two years after war."
+     "text": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T12:21:49Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Russian strikes on Ukraine kill five, cause power outages in five regions",
+   "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Russian strikes on Ukraine kill five, cause power outages in five regions."
     },
     {
      "role": "COMMANDER",
@@ -561,48 +330,219 @@
     },
     {
      "role": "ANALYST",
-     "text": "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:17:28Z",
-   "countries": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
-   "country": "South Korea",
-   "label": "SOUTH KOREA",
-   "lat": 36.5,
-   "lon": 127.8,
-   "flag": "🇰🇷",
-   "severity": "high",
-   "category": "World",
-   "headline": "Russian jets spark air raid alert in South Korea",
-   "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Russian jets spark air raid alert in South Korea."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "How serious is it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday."
+     "text": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T21:14:57Z",
+   "time": "2026-11-25T12:19:17Z",
    "countries": [
-    "South Korea",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Third tanker hits mine in Strait of Hormuz, Iran says",
+   "summary": "Third tanker hits mine in Strait of Hormuz, Iran says",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Third tanker hits mine in Strait of Hormuz, Iran says."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:45:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system",
+   "summary": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and advance a pipeline of bankable and sustainable projects that can attract private capi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ADB okays $250m loan to strengthen Pakistan’s public-private partnership system."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and advance a pipeline of bankable and sustainable projects that can attract private capi"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "type": null,
+   "time": "2026-11-25T10:33:36Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "could-netanyahu-take-israel-into-another-war-wit",
+   "country": "Israel",
+   "label": "ISRAEL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+   "summary": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Could Netanyahu take Israel into another war with Iran to cling to power?."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Who is behind it?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T10:27:53Z",
+   "countries": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
+   "summary": "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "type": null,
+   "time": "2026-11-25T12:19:59Z",
+   "countries": [
+    "India",
+    "Australia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "the-river-war-sees-india-build-dams-while-pakist",
+   "country": "India",
+   "label": "INDIA",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "The 'River War' sees India build dams while Pakistan cries foul",
+   "summary": "The 'River War' sees India build dams while Pakistan cries foul",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "The 'River War' sees India build dams while Pakistan cries foul."
+    }
+   ],
+   "source": "IntelliNews",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:12Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
+   "country": "Iran",
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
+   "summary": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran says ships hit mines in Hormuz, warns vessels to coordinate passage."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:11:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "more-than-700-000-russian-soldiers-have-been-kil",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
+   "summary": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "More than 700,000 Russian soldiers have been killed in the Ukraine war, new estimate suggests."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
+   "type": null,
+   "time": "2026-11-25T13:54:15Z",
+   "countries": [
+    "Ukraine",
     "Russia"
    ]
   }

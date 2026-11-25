@@ -1,210 +1,8 @@
 {
- "updated": "2026-11-25T04:38:59.858114Z",
+ "updated": "2026-11-25T15:01:48.563006Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
-  {
-   "id": "cashless-divide",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "تقسيم غير نقدي",
-   "summary": "تخيل امرأة في إسلام أباد تصل إلى مكتب حكومي لدفع الرسوم. لديها المال، ولكن ليس لديها حساب مصرفي ولا هاتف ذكي خاص بها. العداد لم يعد يقبل النقد. يوجهها المسؤول نحو رمز الاستجابة السريعة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تقسيم غير نقدي."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "تخيل امرأة في إسلام أباد تصل إلى مكتب حكومي لدفع الرسوم. لديها المال، ولكن ليس لديها حساب مصرفي ولا هاتف ذكي خاص بها. العداد لم يعد يقبل النقد. يوجهها المسؤول نحو رمز الاستجابة السريعة."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046934/cashless-divide",
-   "type": null,
-   "time": "2026-11-25T04:12:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "poll-finds-us-voters-want-government-to-end-iran",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "أظهر الاستطلاع أن الناخبين الأمريكيين يريدون من الحكومة إنهاء حرب إيران بغض النظر عن الشروط",
-   "summary": "ووجد استطلاع جديد أن 55% من الناخبين، بما في ذلك 80% من الديمقراطيين، يريدون إنهاء الحرب على الفور.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أظهر الاستطلاع أن الناخبين الأمريكيين يريدون من الحكومة إنهاء حرب إيران بغض النظر عن الشروط."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ووجد استطلاع جديد أن 55% من الناخبين، بما في ذلك 80% من الديمقراطيين، يريدون إنهاء الحرب على الفور."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T01:14:22Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
-   "country": "Ukraine",
-   "label": "أوكرانيا",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "وتشير الأرقام الروسية الخاصة إلى مقتل ما يقرب من 500 ألف شخص في الحرب في أوكرانيا",
-   "summary": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وتشير الأرقام الروسية إلى مقتل ما يقرب من 500 ألف شخص في الحرب في أوكرانيا."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:56:51Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
-   "country": "Ukraine",
-   "label": "أوكرانيا",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "لقد ماتت عائلتي في أوكرانيا. ألقت أمي اللوم على قوات زيلينسكي",
-   "summary": "الصحفية في بي بي سي أناستاسيا غريبانوفا تحقق فيمن قتل والدها وأجدادها في الحرب.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "لقد ماتت عائلتي في أوكرانيا. ألقت أمي اللوم على قوات زيلينسكي."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "الصحفية في بي بي سي أناستاسيا غريبانوفا تحقق فيمن قتل والدها وأجدادها في الحرب."
-    }
-   ],
-   "source": "the truth is complicated",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:54:13Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "الجمارك الباكستانية تضبط ما يقرب من كيلوغرام من الماريجوانا \"المتجهة إلى ملتان\" في كراتشي",
-   "summary": "قالت الجمارك الباكستانية يوم الثلاثاء إن مجمع الجمارك (المطارات) في كراتشي أحبط محاولة تهريب مخدرات وضبط 900 جرام من الماريجوانا أثناء المسح الروتيني في مكتب البريد الدولي (IMO).",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الجمارك الباكستانية تضبط ما يقرب من كيلوغرام من الماريجوانا \"المتجهة إلى ملتان\" في كراتشي."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل هناك ضحايا؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "قالت الجمارك الباكستانية يوم الثلاثاء إن مجمع الجمارك (المطارات) في كراتشي أحبط محاولة تهريب مخدرات وضبط 900 جرام من الماريجوانا أثناء المسح الروتيني في مكتب البريد الدولي (IMO)."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-   "type": null,
-   "time": "2026-11-24T20:02:11Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "حرب إيران على الهواء مباشرة: التحالف الذي تقوده السعودية يضرب ميناء الحديدة اليمني",
-   "summary": "ويقول التحالف السعودي إن قواته استهدفت القدرات العملياتية في ميناء الحديدة وضربت مواقع في شمال اليمن.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "حرب إيران على الهواء مباشرة: التحالف الذي تقوده السعودية يضرب ميناء الحديدة اليمني."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ويقول التحالف السعودي إن قواته استهدفت القدرات العملياتية في ميناء الحديدة وضربت مواقع في شمال اليمن."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -240,54 +38,140 @@
    ]
   },
   {
-   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
    "country": "China",
    "label": "الصين",
    "lat": 35.0,
    "lon": 104.0,
    "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "شبكة مرتبطة بالصين تستخدم الذكاء الاصطناعي المزيف لتشويه سمعة المرشحين لانتخابات تايوان، حسبما وجدت بي بي سي تحقق",
-   "summary": "وهاجمت الشبكة شخصيات رئيسية في الحزب الديمقراطي التقدمي الحاكم، بما في ذلك الرئيس لاي والمرشح لمنصب رئيس البلدية شين.",
+   "severity": "info",
+   "category": "Business",
+   "headline": "ترامب يستهدف الصين والاتحاد الأوروبي في جولة جديدة من الرسوم الجمركية",
+   "summary": "ترامب يستهدف الصين والاتحاد الأوروبي في جولة جديدة من الرسوم الجمركية",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "شبكة مرتبطة بالصين تستخدم الذكاء الاصطناعي المزيف لتشويه سمعة مرشحي انتخابات تايوان، حسبما وجدت بي بي سي تحقق."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وهاجمت الشبكة شخصيات رئيسية في الحزب الديمقراطي التقدمي الحاكم، بما في ذلك الرئيس لاي والمرشح لمنصب رئيس البلدية شين."
+     "text": "ترامب يستهدف الصين والاتحاد الأوروبي في جولة جديدة من الرسوم الجمركية."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
    "type": null,
-   "time": "2026-11-24T23:05:11Z",
+   "time": "2026-11-25T13:14:55Z",
    "countries": [
     "China",
-    "Taiwan"
+    "United States of America"
    ]
   },
   {
-   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
+   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "الولايات المتحدة تكشف عن التعريفات الجمركية المقترحة على الشركاء الرئيسيين، بما في ذلك الاتحاد الأوروبي والصين والهند",
+   "summary": "كشفت الولايات المتحدة يوم الأربعاء النقاب عن تعريفات جمركية مقترحة على 14 اقتصادا، بما في ذلك الاتحاد الأوروبي والصين والهند، بعد تحقيق استمر أشهر في الإنتاج الزائد المزعوم – وهي أحدث خطوة من جانب الرئيس الأمريكي دونالد ترامب لإعادة صياغة العلاقات التجارية لواشنطن.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الولايات المتحدة تكشف عن التعريفات الجمركية المقترحة على الشركاء الرئيسيين، بما في ذلك الاتحاد الأوروبي والصين والهند."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "كشفت الولايات المتحدة يوم الأربعاء النقاب عن تعريفات جمركية مقترحة على 14 اقتصادا، بما في ذلك الاتحاد الأوروبي والصين والهند، بعد تحقيق استمر أشهر في الإنتاج الزائد المزعوم – وهي أحدث خطوة من جانب الرئيس الأمريكي دونالد ترامب لإعادة صياغة العلاقات التجارية لواشنطن."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
+   "type": null,
+   "time": "2026-11-25T13:40:45Z",
+   "countries": [
+    "United States of America",
+    "China",
+    "India"
+   ]
+  },
+  {
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "\"بداية حقبة جديدة\": الباكستاني زيشان علي يصبح أول أجنبي يصعد على متن محطة تيانجونج الفضائية الصينية",
+   "summary": "أصبح الباكستاني زيشان علي يوم الأربعاء أول رائد فضاء أجنبي يصعد على متن محطة تيانجونج الفضائية الصينية، مما يمثل لحظة تاريخية لطموحات بلاده العلمية وجهود بكين لتوسيع دبلوماسيتها الفضائية.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "\"بدء عصر جديد\": أصبح الباكستاني زيشان علي أول أجنبي يصعد على متن محطة تيانجونج الفضائية الصينية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "مفهوم. استمر."
+    },
+    {
+     "role": "ANALYST",
+     "text": "أصبح الباكستاني زيشان علي يوم الأربعاء أول رائد فضاء أجنبي يصعد على متن محطة تيانجونج الفضائية الصينية، مما يمثل لحظة تاريخية لطموحات بلاده العلمية وجهود بكين لتوسيع دبلوماسيتها الفضائية."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T13:17:57Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "discover-the-best-installations-at-sharjah-archi",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "اكتشف أفضل المنشآت في ترينالي الشارقة للعمارة 2026",
+   "summary": "اكتشف أفضل المنشآت في ترينالي الشارقة للعمارة 2026",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "اكتشف أفضل المنشآت في ترينالي الشارقة للعمارة 2026."
+    }
+   ],
+   "source": "Wallpaper*",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-human-control-over-decisions-",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
    "severity": "critical",
-   "category": "Sports",
-   "headline": "إسلام أباد يونايتد يستحوذ على مات هنري، ويؤمن كراتشي كينغز عادل رشيد كتعاقدات مباشرة لـ PSL 12",
-   "summary": "تعاقد إسلام أباد يونايتد مع لاعب البولينغ النيوزيلندي السريع مات هنري، في حين حصل فريق كراتشي كينغز على خدمات اللاعب الإنجليزي عادل رشيد باعتباره توقيعهم المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL).",
+   "category": "Tech",
+   "headline": "وتدعو باكستان إلى فرض سيطرة بشرية على القرارات المتعلقة باستخدام الأسلحة النووية",
+   "summary": "الأمم المتحدة: دعت باكستان إلى إبقاء القرارات المتعلقة باستخدام الأسلحة النووية تحت السيطرة البشرية وحذرت من أنه لا ينبغي أبدًا استخدام أنظمة الذكاء الاصطناعي لاستهداف أنظمة القيادة والتحكم والاتصالات النووية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "إسلام أباد يونايتد يستحوذ على مات هنري، ويؤمن كراتشي كينغز عادل رشيد كتعاقدات مباشرة لـ PSL 12."
+     "text": "وتدعو باكستان إلى فرض سيطرة بشرية على القرارات المتعلقة باستخدام الأسلحة النووية."
     },
     {
      "role": "COMMANDER",
@@ -295,85 +179,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "تعاقد إسلام أباد يونايتد مع لاعب البولينغ النيوزيلندي السريع مات هنري، في حين حصل فريق كراتشي كينغز على خدمات اللاعب الإنجليزي عادل رشيد باعتباره توقيعهم المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL)."
+     "text": "الأمم المتحدة: دعت باكستان إلى إبقاء القرارات المتعلقة باستخدام الأسلحة النووية تحت السيطرة البشرية وحذرت من أنه لا ينبغي أبدًا استخدام أنظمة الذكاء الاصطناعي لاستهداف أنظمة القيادة والتحكم والاتصالات النووية."
     }
    ],
    "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
+   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
    "type": null,
-   "time": "2026-11-24T17:50:48Z",
+   "time": "2026-11-25T06:09:19Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
-   "country": "Iraq",
-   "label": "العراق",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "العراق يستهدف مهربي النفط ويأمر بالاستيلاء على حقل نفط كردي",
-   "summary": "أمر رئيس الوزراء العراقي علي الزيدي القوات الاتحادية بالسيطرة على حقول النفط في المناطق التي يسيطر عليها الأكراد.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "العراق يستهدف مهربي النفط ويأمر بالاستيلاء على حقل نفط كردي"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا يعني بالنسبة للأسعار؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "أمر رئيس الوزراء العراقي علي الزيدي القوات الاتحادية بالسيطرة على حقول النفط في المناطق التي يسيطر عليها الأكراد."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-24T20:18:19Z",
-   "countries": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "turkish-military-helicopter-crash-kills-five-in-",
-   "country": "Turkey",
-   "label": "تركيا",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "مقتل خمسة أشخاص في تحطم مروحية عسكرية تركية غربي تركيا",
-   "summary": "ولم توضح وزارة الدفاع سبب الحادث، بعد أيام من حادث مروحية عسكرية مميت آخر.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "مقتل خمسة أشخاص في تحطم مروحية عسكرية تركية غربي تركيا."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ولم توضح وزارة الدفاع سبب الحادث، بعد أيام من حادث مروحية عسكرية مميت آخر."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-24T19:52:21Z",
-   "countries": [
-    "Turkey"
-   ]
-  },
-  {
-   "id": "five-women-killed-each-hour-by-relatives-in-2025",
+   "id": "trump-says-iran-war-funded-through-january-sugge",
    "country": "United States of America",
    "label": "الولايات المتحدة",
    "lat": 39.0,
@@ -381,45 +199,64 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "الأمم المتحدة: خمس نساء يقتلن كل ساعة على يد أقاربهن في عام 2025",
-   "summary": "الأمم المتحدة: قُتلت أكثر من 47 ألف امرأة وفتاة، أي حوالي خمس نساء وفتاة في الساعة، على أيدي أقاربهن في جميع أنحاء العالم في عام 2025، وهو رقم لم يتغير إلى حد كبير عن السنوات السابقة، وفقًا لتقرير للأمم المتحدة نُشر يوم الثلاثاء.",
+   "headline": "يقول ترامب إن حرب إيران \"تم تمويلها\" حتى يناير، مما يشير إلى وجود نافذة محدودة لعملية جديدة",
+   "summary": "يقول ترامب إن حرب إيران \"تم تمويلها\" حتى يناير، مما يشير إلى وجود نافذة محدودة لعملية جديدة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الأمم المتحدة: خمس نساء يقتلن كل ساعة على يد أقاربهن في عام 2025"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "من يقف وراء ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "الأمم المتحدة: قُتلت أكثر من 47 ألف امرأة وفتاة، أي حوالي خمس نساء وفتاة في الساعة، على أيدي أقاربهن في جميع أنحاء العالم في عام 2025، وهو رقم لم يتغير إلى حد كبير عن السنوات السابقة، وفقًا لتقرير للأمم المتحدة نُشر يوم الثلاثاء."
+     "text": "يقول ترامب إن حرب إيران \"تم تمويلها\" حتى يناير، مما يشير إلى وجود نافذة محدودة لعملية جديدة."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
    "type": null,
-   "time": "2026-11-25T01:41:20Z",
+   "time": "2026-11-25T09:00:30Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "china-sends-first-pakistani-astronaut-into-space",
+   "country": "China",
+   "label": "الصين",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "الصين ترسل أول رائد فضاء باكستاني إلى الفضاء",
+   "summary": "الصين ترسل أول رائد فضاء باكستاني إلى الفضاء",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الصين ترسل أول رائد فضاء باكستاني إلى الفضاء."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:31:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "bangladesh-garment-workers-protest-over-new-wage",
+   "country": "Bangladesh",
+   "label": "بنجلاديش",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
    "severity": "high",
    "category": "World",
-   "headline": "اتهام توماس ماركل في الولايات المتحدة بحيازة صور اعتداء جنسي على أطفال",
-   "summary": "اعتقل مكتب التحقيقات الفيدرالي ماركل في 6 نوفمبر بعد أن كشف تفتيش وحدة تخزين زُعم أنه استأجرها في لوس أنجلوس عن مواد إساءة الاستخدام.",
+   "headline": "عمال الملابس في بنجلاديش يحتجون على الأجور الجديدة",
+   "summary": "ورفعت بنجلاديش الحد الأدنى للأجور الشهري لعمال صناعة الملابس بنسبة 36% إلى 17 ألف تاكا، أي حوالي 138 دولارًا.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "اتهام توماس ماركل في الولايات المتحدة بحيازة صور اعتداء جنسي على أطفال."
+     "text": "عمال الملابس في بنجلاديش يحتجون على الأجور الجديدة."
     },
     {
      "role": "COMMANDER",
@@ -427,134 +264,66 @@
     },
     {
      "role": "ANALYST",
-     "text": "اعتقل مكتب التحقيقات الفيدرالي ماركل في 6 نوفمبر بعد أن كشف تفتيش وحدة تخزين زُعم أنه استأجرها في لوس أنجلوس عن مواد إساءة الاستخدام."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T01:40:42Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "clashing-political-visions-reflect-a-divided-spa",
-   "country": "Spain",
-   "label": "اسبانيا",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "تعكس الرؤى السياسية المتضاربة انقسام إسبانيا قبل الانتخابات",
-   "summary": "وقد تشهد انتخابات الأحد دخول حزب يميني متطرف إلى الحكومة الإسبانية للمرة الأولى.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تعكس الرؤى السياسية المتضاربة انقسام إسبانيا قبل الانتخابات."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "أعطني التفاصيل."
-    },
-    {
-     "role": "ANALYST",
-     "text": "وقد تشهد انتخابات الأحد دخول حزب يميني متطرف إلى الحكومة الإسبانية للمرة الأولى."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:58:34Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-air-strike-kills-hamas-internal-security",
-   "country": "Palestine",
-   "label": "فلسطين",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "غارة جوية إسرائيلية تقتل رئيس الأمن الداخلي لحماس في غزة",
-   "summary": "وكان نعيم أبو نحل، الذي ظل في المنصب لمدة شهرين، من بين سبعة فلسطينيين قُتلوا في الغارات الإسرائيلية يوم الثلاثاء.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "غارة جوية إسرائيلية تقتل رئيس الأمن الداخلي لحماس في غزة."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا نعرف حتى الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وكان نعيم أبو نحل، الذي ظل في المنصب لمدة شهرين، من بين سبعة فلسطينيين قُتلوا في الغارات الإسرائيلية يوم الثلاثاء."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:35:53Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
-   "country": "Japan",
-   "label": "اليابان",
-   "lat": 36.2,
-   "lon": 138.3,
-   "flag": "🇯🇵",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "أسواق الأسهم الآسيوية تتراجع مع تزايد الشكوك حول ازدهار الذكاء الاصطناعي",
-   "summary": "انخفضت الأسواق بشكل حاد في اليابان وكوريا الجنوبية وتايوان في أحدث عمليات البيع التي تقودها التكنولوجيا.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "أسواق الأسهم الآسيوية تتراجع مع تزايد الشكوك حول ازدهار الذكاء الاصطناعي"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ماذا يعني بالنسبة للأسعار؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "انخفضت الأسواق بشكل حاد في اليابان وكوريا الجنوبية وتايوان في أحدث عمليات البيع التي تقودها التكنولوجيا."
+     "text": "ورفعت بنجلاديش الحد الأدنى للأجور الشهري لعمال صناعة الملابس بنسبة 36% إلى 17 ألف تاكا، أي حوالي 138 دولارًا."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T03:31:59Z",
+   "time": "2026-11-25T12:23:41Z",
    "countries": [
-    "Japan",
-    "South Korea",
-    "Taiwan"
+    "Bangladesh"
    ]
   },
   {
-   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
-   "country": "Syria",
-   "label": "سوريا",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "russia-s-own-figures-show-it-has-lost-nearly-500",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "ارتفاع ضحايا الألغام الأرضية في سوريا بعد عامين من الحرب",
-   "summary": "وتظهر الأرقام أن ما يقرب من 1000 طفل من بين القتلى والجرحى بسبب المتفجرات التي خلفتها الصراع.",
+   "category": "World",
+   "headline": "وتظهر الأرقام الروسية نفسها أنها فقدت ما يقرب من 500 ألف شخص في حرب أوكرانيا",
+   "summary": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ارتفاع ضحايا الألغام الأرضية في سوريا بعد عامين من الحرب."
+     "text": "وتظهر الأرقام الروسية نفسها أنها فقدت ما يقرب من 500 ألف شخص في حرب أوكرانيا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T12:21:49Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "الضربات الروسية على أوكرانيا تقتل خمسة أشخاص، وتتسبب في انقطاع التيار الكهربائي في خمس مناطق",
+   "summary": "قال مسؤول أوكراني إن الهجمات على منطقتي زابوريزهيا ودنيبروبتروفسك ألحقت أضرارًا بعدد من مواقع الطاقة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الضربات الروسية على أوكرانيا تقتل خمسة أشخاص، وتتسبب في انقطاع التيار الكهربائي في خمس مناطق."
     },
     {
      "role": "COMMANDER",
@@ -562,48 +331,219 @@
     },
     {
      "role": "ANALYST",
-     "text": "وتظهر الأرقام أن ما يقرب من 1000 طفل من بين القتلى والجرحى بسبب المتفجرات التي خلفتها الصراع."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:17:28Z",
-   "countries": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
-   "country": "South Korea",
-   "label": "كوريا الجنوبية",
-   "lat": 36.5,
-   "lon": 127.8,
-   "flag": "🇰🇷",
-   "severity": "high",
-   "category": "World",
-   "headline": "الطائرات الروسية تطلق إنذارا بغارة جوية في كوريا الجنوبية",
-   "summary": "تم حث سكان كوريا الجنوبية على البحث عن مأوى مع اقتراب الطائرات العسكرية الروسية من مجالها الجوي يوم الثلاثاء.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الطائرات الروسية تطلق إنذارا بغارة جوية في كوريا الجنوبية."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ما مدى جدية الأمر؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "تم حث سكان كوريا الجنوبية على البحث عن مأوى مع اقتراب الطائرات العسكرية الروسية من مجالها الجوي يوم الثلاثاء."
+     "text": "قال مسؤول أوكراني إن الهجمات على منطقتي زابوريزهيا ودنيبروبتروفسك ألحقت أضرارًا بعدد من مواقع الطاقة."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T21:14:57Z",
+   "time": "2026-11-25T12:19:17Z",
    "countries": [
-    "South Korea",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
+   "country": "Iran",
+   "label": "مضيق هرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "إيران تقول إن ناقلة ثالثة اصطدمت بلغم في مضيق هرمز",
+   "summary": "إيران تقول إن ناقلة ثالثة اصطدمت بلغم في مضيق هرمز",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "إيران تقول إن ناقلة ثالثة اصطدمت بلغم في مضيق هرمز."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:45:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "بنك التنمية الآسيوي يوافق على قرض بقيمة 250 مليون دولار لتعزيز نظام الشراكة بين القطاعين العام والخاص في باكستان",
+   "summary": "إسلام آباد: وافق بنك التنمية الآسيوي (ADB) يوم الأربعاء على قرض قائم على السياسات بقيمة 250 مليون دولار لمساعدة باكستان على تعزيز نظام الشراكة بين القطاعين العام والخاص (PPP) وتعزيز مجموعة من المشاريع القابلة للتمويل والمستدامة التي يمكنها جذب رؤوس الأموال الخاصة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "بنك التنمية الآسيوي يوافق على قرض بقيمة 250 مليون دولار لتعزيز نظام الشراكة بين القطاعين العام والخاص في باكستان"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا يعني بالنسبة للأسعار؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "إسلام آباد: وافق بنك التنمية الآسيوي (ADB) يوم الأربعاء على قرض قائم على السياسات بقيمة 250 مليون دولار لمساعدة باكستان على تعزيز نظام الشراكة بين القطاعين العام والخاص (PPP) وتعزيز مجموعة من المشاريع القابلة للتمويل والمستدامة التي يمكنها جذب رؤوس الأموال الخاصة."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "type": null,
+   "time": "2026-11-25T10:33:36Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "could-netanyahu-take-israel-into-another-war-wit",
+   "country": "Israel",
+   "label": "إسرائيل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "هل يستطيع نتنياهو أن يأخذ إسرائيل إلى حرب أخرى مع إيران من أجل التشبث بالسلطة؟",
+   "summary": "في الوقت الذي يتحرك فيه زعيم المعارضة الإسرائيلية آيزنكوت لتشكيل حكومة، هل يمكن للحرب مع إيران أن تعرقل المحادثات وتنقذ نتنياهو؟",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "هل يستطيع نتنياهو أن يدخل إسرائيل في حرب أخرى مع إيران من أجل التشبث بالسلطة؟."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "في الوقت الذي يتحرك فيه زعيم المعارضة الإسرائيلية آيزنكوت لتشكيل حكومة، هل يمكن للحرب مع إيران أن تعرقل المحادثات وتنقذ نتنياهو؟"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T10:27:53Z",
+   "countries": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
+   "country": "India",
+   "label": "الهند",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "روالبنديز يؤمن ماثيو شورت كتوقيع مباشر. حيدر أباد كينغسمين الانسحاب",
+   "summary": "أكد نادي روالبنديز تعاقده مع اللاعب الأسترالي متعدد المستويات ماثيو شورت باعتباره التوقيع المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL)، والذي من المقرر أن يستمر في الفترة من 18 مارس إلى 2 مايو من العام المقبل.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "روالبنديز يؤمن ماثيو شورت كتوقيع مباشر. حيدر أباد كينغسمين الانسحاب."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "أكد نادي روالبنديز تعاقده مع اللاعب الأسترالي متعدد المستويات ماثيو شورت باعتباره التوقيع المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL)، والذي من المقرر أن يستمر في الفترة من 18 مارس إلى 2 مايو من العام المقبل."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "type": null,
+   "time": "2026-11-25T12:19:59Z",
+   "countries": [
+    "India",
+    "Australia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "the-river-war-sees-india-build-dams-while-pakist",
+   "country": "India",
+   "label": "الهند",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "تشهد \"حرب النهر\" قيام الهند ببناء السدود بينما تعترض باكستان على ذلك",
+   "summary": "تشهد \"حرب النهر\" قيام الهند ببناء السدود بينما تعترض باكستان على ذلك",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تشهد \"حرب النهر\" قيام الهند ببناء السدود بينما تعترض باكستان على ذلك."
+    }
+   ],
+   "source": "IntelliNews",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:12Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
+   "country": "Iran",
+   "label": "مضيق هرمز",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "وتقول إيران إن السفن ضربت ألغاما في هرمز، وتحذر السفن من تنسيق المرور",
+   "summary": "وتقول إيران إن السفن ضربت ألغاما في هرمز، وتحذر السفن من تنسيق المرور",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "وتقول إيران إن السفن ضربت ألغاما في هرمز، وتحذر السفن من تنسيق المرور."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:11:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "more-than-700-000-russian-soldiers-have-been-kil",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "تشير تقديرات جديدة إلى أن أكثر من 700 ألف جندي روسي قتلوا في حرب أوكرانيا",
+   "summary": "تشير تقديرات جديدة إلى أن أكثر من 700 ألف جندي روسي قتلوا في حرب أوكرانيا",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تشير تقديرات جديدة إلى أن أكثر من 700 ألف جندي روسي قتلوا في حرب أوكرانيا."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
+   "type": null,
+   "time": "2026-11-25T13:54:15Z",
+   "countries": [
+    "Ukraine",
     "Russia"
    ]
   }

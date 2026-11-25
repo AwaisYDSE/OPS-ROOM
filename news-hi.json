@@ -1,210 +1,8 @@
 {
- "updated": "2026-11-25T04:38:59.858114Z",
+ "updated": "2026-11-25T15:01:48.563006Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
-  {
-   "id": "cashless-divide",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "कैशलेस बंटवारा",
-   "summary": "कल्पना कीजिए कि इस्लामाबाद में एक महिला शुल्क का भुगतान करने के लिए एक सरकारी कार्यालय में पहुँच रही है। उसके पास पैसे हैं, लेकिन कोई बैंक खाता नहीं है और न ही उसका अपना कोई स्मार्टफोन है। काउंटर अब नकदी स्वीकार नहीं करता. अधिकारी उसे एक क्यूआर कोड की ओर इशारा करता है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "कैशलेस बंटवारा."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "कोई हताहत?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "कल्पना कीजिए कि इस्लामाबाद में एक महिला शुल्क का भुगतान करने के लिए एक सरकारी कार्यालय में पहुँच रही है। उसके पास पैसे हैं, लेकिन कोई बैंक खाता नहीं है और न ही उसका अपना कोई स्मार्टफोन है। काउंटर अब नकदी स्वीकार नहीं करता. अधिकारी उसे एक क्यूआर कोड की ओर इशारा करता है।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046934/cashless-divide",
-   "type": null,
-   "time": "2026-11-25T04:12:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "poll-finds-us-voters-want-government-to-end-iran",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "सर्वेक्षण में पाया गया कि अमेरिकी मतदाता चाहते हैं कि सरकार शर्तों की परवाह किए बिना ईरान युद्ध समाप्त करे",
-   "summary": "नए सर्वेक्षण से पता चलता है कि 80 प्रतिशत डेमोक्रेट सहित 55 प्रतिशत मतदाता चाहते हैं कि युद्ध तुरंत समाप्त हो।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सर्वेक्षण में पाया गया कि अमेरिकी मतदाता चाहते हैं कि सरकार शर्तों की परवाह किए बिना ईरान युद्ध समाप्त करे।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "नए सर्वेक्षण से पता चलता है कि 80 प्रतिशत डेमोक्रेट सहित 55 प्रतिशत मतदाता चाहते हैं कि युद्ध तुरंत समाप्त हो।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T01:14:22Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
-   "country": "Ukraine",
-   "label": "यूक्रेन",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "रूस के अपने आंकड़े बताते हैं कि यूक्रेन में युद्ध में लगभग 500,000 मौतें हुईं",
-   "summary": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रूस के अपने आंकड़े बताते हैं कि यूक्रेन में युद्ध में लगभग 500,000 मौतें हुईं।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:56:51Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
-   "country": "Ukraine",
-   "label": "यूक्रेन",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "मेरे परिवार की यूक्रेन में मृत्यु हो गई। मेरी माँ ने ज़ेलेंस्की की सेना को दोषी ठहराया",
-   "summary": "बीबीसी पत्रकार अनास्तासिया ग्रिबानोवा ने जांच की कि युद्ध में उसके पिता और दादा-दादी को किसने मारा।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "मेरे परिवार की यूक्रेन में मृत्यु हो गई। मेरी माँ ने ज़ेलेंस्की की सेना को दोषी ठहराया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "बीबीसी पत्रकार अनास्तासिया ग्रिबानोवा ने जांच की कि युद्ध में उसके पिता और दादा-दादी को किसने मारा।"
-    }
-   ],
-   "source": "the truth is complicated",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:54:13Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान सीमा शुल्क ने कराची में लगभग 1 किलोग्राम 'मुल्तान-बाउंड' मारिजुआना जब्त किया",
-   "summary": "पाकिस्तान सीमा शुल्क ने मंगलवार को कहा कि कराची में सीमा शुल्क कार्यालय (सीओसी) (हवाई अड्डों) ने नशीले पदार्थों की तस्करी के प्रयास को विफल कर दिया और अंतर्राष्ट्रीय मेल कार्यालय (आईएमओ) में नियमित स्कैनिंग के दौरान 900 ग्राम मारिजुआना जब्त किया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान सीमा शुल्क ने कराची में लगभग 1 किलोग्राम 'मुल्तान-बाउंड' मारिजुआना जब्त किया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "कोई हताहत?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "पाकिस्तान सीमा शुल्क ने मंगलवार को कहा कि कराची में सीमा शुल्क कार्यालय (सीओसी) (हवाई अड्डों) ने नशीले पदार्थों की तस्करी के प्रयास को विफल कर दिया और अंतर्राष्ट्रीय मेल कार्यालय (आईएमओ) में नियमित स्कैनिंग के दौरान 900 ग्राम मारिजुआना जब्त किया।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-   "type": null,
-   "time": "2026-11-24T20:02:11Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "ईरान युद्ध लाइव: सऊदी नेतृत्व वाले गठबंधन ने यमन के होदेइदाह बंदरगाह पर हमला किया",
-   "summary": "सऊदी गठबंधन का कहना है कि उसकी सेनाओं ने होदेइदाह बंदरगाह पर परिचालन क्षमताओं को निशाना बनाया और उत्तरी यमन में साइटों को निशाना बनाया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान युद्ध लाइव: सऊदी नेतृत्व वाले गठबंधन ने यमन के होदेइदाह बंदरगाह पर हमला किया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "सऊदी गठबंधन का कहना है कि उसकी सेनाओं ने होदेइदाह बंदरगाह पर परिचालन क्षमताओं को निशाना बनाया और उत्तरी यमन में साइटों को निशाना बनाया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -240,87 +38,46 @@
    ]
   },
   {
-   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
    "country": "China",
    "label": "चीन",
    "lat": 35.0,
    "lon": 104.0,
    "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "बीबीसी वेरिफाई ने पाया कि चीन से जुड़ा नेटवर्क ताइवान के चुनाव उम्मीदवारों को बदनाम करने के लिए एआई का फर्जी इस्तेमाल कर रहा है",
-   "summary": "नेटवर्क ने राष्ट्रपति लाई और मेयर पद के उम्मीदवार शेन सहित सत्तारूढ़ डीपीपी के प्रमुख लोगों पर हमला किया।",
+   "severity": "info",
+   "category": "Business",
+   "headline": "ट्रम्प ने टैरिफ के नए दौर में चीन, ईयू पर निशाना साधा",
+   "summary": "ट्रम्प ने टैरिफ के नए दौर में चीन, ईयू पर निशाना साधा",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "बीबीसी वेरिफाई ने पाया कि चीन से जुड़ा नेटवर्क ताइवान के चुनाव उम्मीदवारों को बदनाम करने के लिए एआई का फर्जीवाड़ा कर रहा है।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "नेटवर्क ने राष्ट्रपति लाई और मेयर पद के उम्मीदवार शेन सहित सत्तारूढ़ डीपीपी के प्रमुख लोगों पर हमला किया।"
+     "text": "ट्रम्प ने टैरिफ के नए दौर में चीन, ईयू पर निशाना साधा।"
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
    "type": null,
-   "time": "2026-11-24T23:05:11Z",
+   "time": "2026-11-25T13:14:55Z",
    "countries": [
     "China",
-    "Taiwan"
+    "United States of America"
    ]
   },
   {
-   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "इस्लामाबाद यूनाइटेड ने मैट हेनरी को चुना, कराची किंग्स ने आदिल राशिद को पीएसएल 12 के लिए सीधे अनुबंध के रूप में सुरक्षित किया",
-   "summary": "इस्लामाबाद यूनाइटेड ने न्यूजीलैंड के तेज गेंदबाज मैट हेनरी के साथ अनुबंध किया है, जबकि कराची किंग्स ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने प्रमुख प्रत्यक्ष अनुबंध के रूप में इंग्लैंड के लेग स्पिनर आदिल राशिद की सेवाएं हासिल की हैं।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "इस्लामाबाद यूनाइटेड ने मैट हेनरी को चुना, कराची किंग्स ने आदिल राशिद को पीएसएल 12 के लिए सीधे अनुबंध के रूप में सुरक्षित किया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "इस्लामाबाद यूनाइटेड ने न्यूजीलैंड के तेज गेंदबाज मैट हेनरी के साथ अनुबंध किया है, जबकि कराची किंग्स ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने प्रमुख प्रत्यक्ष अनुबंध के रूप में इंग्लैंड के लेग स्पिनर आदिल राशिद की सेवाएं हासिल की हैं।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
-   "type": null,
-   "time": "2026-11-24T17:50:48Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
-   "country": "Iraq",
-   "label": "इराक",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
+   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "इराक ने तेल तस्करों को निशाना बनाया, कुर्दिश तेल क्षेत्र पर कब्ज़ा करने का आदेश दिया",
-   "summary": "इराक के प्रधान मंत्री अली अल-जैदी ने संघीय बलों को कुर्द-नियंत्रित क्षेत्रों में तेल क्षेत्रों पर नियंत्रण लेने का आदेश दिया है।",
+   "category": "Tech",
+   "headline": "अमेरिका ने यूरोपीय संघ, चीन और भारत सहित प्रमुख साझेदारों पर प्रस्तावित टैरिफ का खुलासा किया",
+   "summary": "संयुक्त राज्य अमेरिका ने कथित अतिरिक्त उत्पादन की एक महीने की लंबी जांच के बाद बुधवार को यूरोपीय संघ, चीन और भारत सहित 14 अर्थव्यवस्थाओं पर प्रस्तावित टैरिफ का अनावरण किया - वाशिंगटन के व्यापार संबंध को फिर से बनाने के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प का नवीनतम कदम",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "इराक ने तेल तस्करों को निशाना बनाया, कुर्दिश तेल क्षेत्र पर कब्ज़ा करने का आदेश दिया।"
+     "text": "अमेरिका ने यूरोपीय संघ, चीन और भारत सहित प्रमुख साझेदारों पर प्रस्तावित टैरिफ का खुलासा किया।"
     },
     {
      "role": "COMMANDER",
@@ -328,32 +85,93 @@
     },
     {
      "role": "ANALYST",
-     "text": "इराक के प्रधान मंत्री अली अल-जैदी ने संघीय बलों को कुर्द-नियंत्रित क्षेत्रों में तेल क्षेत्रों पर नियंत्रण लेने का आदेश दिया है।"
+     "text": "संयुक्त राज्य अमेरिका ने कथित अतिरिक्त उत्पादन की एक महीने की लंबी जांच के बाद बुधवार को यूरोपीय संघ, चीन और भारत सहित 14 अर्थव्यवस्थाओं पर प्रस्तावित टैरिफ का अनावरण किया - वाशिंगटन के व्यापार संबंध को फिर से बनाने के लिए अमेरिकी राष्ट्रपति डोनाल्ड ट्रम्प का नवीनतम कदम"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
    "type": null,
-   "time": "2026-11-24T20:18:19Z",
+   "time": "2026-11-25T13:40:45Z",
    "countries": [
-    "Iraq"
+    "United States of America",
+    "China",
+    "India"
    ]
   },
   {
-   "id": "turkish-military-helicopter-crash-kills-five-in-",
-   "country": "Turkey",
-   "label": "टर्की",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "पश्चिमी तुर्किये में तुर्की सैन्य हेलीकॉप्टर दुर्घटना में पांच की मौत",
-   "summary": "सेना के एक और घातक हेलीकॉप्टर दुर्घटना के कुछ दिनों बाद रक्षा मंत्रालय ने दुर्घटना के कारण के बारे में विस्तार से नहीं बताया।",
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "'एक नए युग की शुरुआत': पाकिस्तान के जीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर चढ़ने वाले पहले विदेशी बने",
+   "summary": "पाकिस्तान के जीशान अली बुधवार को चीन के तियांगोंग अंतरिक्ष स्टेशन पर चढ़ने वाले पहले विदेशी अंतरिक्ष यात्री बन गए, जो उनके देश की विज्ञान महत्वाकांक्षाओं और बीजिंग के अपनी अंतरिक्ष कूटनीति का विस्तार करने के प्रयासों के लिए एक ऐतिहासिक क्षण है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पश्चिमी तुर्किये में तुर्की सैन्य हेलीकॉप्टर दुर्घटना में पांच की मौत।"
+     "text": "'एक नए युग की शुरुआत': पाकिस्तान के जीशान अली चीन के तियांगोंग अंतरिक्ष स्टेशन पर चढ़ने वाले पहले विदेशी बने।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "समझा। जारी रखें।"
+    },
+    {
+     "role": "ANALYST",
+     "text": "पाकिस्तान के जीशान अली बुधवार को चीन के तियांगोंग अंतरिक्ष स्टेशन पर चढ़ने वाले पहले विदेशी अंतरिक्ष यात्री बन गए, जो उनके देश की विज्ञान महत्वाकांक्षाओं और बीजिंग के अपनी अंतरिक्ष कूटनीति का विस्तार करने के प्रयासों के लिए एक ऐतिहासिक क्षण है।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T13:17:57Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "discover-the-best-installations-at-sharjah-archi",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "शारजाह आर्किटेक्चर त्रिवार्षिक 2026 में सर्वश्रेष्ठ इंस्टॉलेशन की खोज करें",
+   "summary": "शारजाह आर्किटेक्चर त्रिवार्षिक 2026 में सर्वश्रेष्ठ इंस्टॉलेशन की खोज करें",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "शारजाह आर्किटेक्चर त्रिवार्षिक 2026 में सर्वश्रेष्ठ इंस्टॉलेशन की खोज करें।"
+    }
+   ],
+   "source": "Wallpaper*",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-human-control-over-decisions-",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "पाकिस्तान परमाणु हथियारों के उपयोग पर निर्णयों पर मानव नियंत्रण का आह्वान करता है",
+   "summary": "संयुक्त राष्ट्र: पाकिस्तान ने परमाणु हथियारों के उपयोग पर निर्णय मानव नियंत्रण में रखने का आह्वान किया है और चेतावनी दी है कि परमाणु कमांड, नियंत्रण और संचार प्रणालियों को लक्षित करने के लिए कृत्रिम बुद्धिमत्ता (एआई) प्रणालियों का उपयोग कभी नहीं किया जाना चाहिए।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पाकिस्तान परमाणु हथियारों के उपयोग पर निर्णयों पर मानव नियंत्रण का आह्वान करता है।"
     },
     {
      "role": "COMMANDER",
@@ -361,19 +179,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "सेना के एक और घातक हेलीकॉप्टर दुर्घटना के कुछ दिनों बाद रक्षा मंत्रालय ने दुर्घटना के कारण के बारे में विस्तार से नहीं बताया।"
+     "text": "संयुक्त राष्ट्र: पाकिस्तान ने परमाणु हथियारों के उपयोग पर निर्णय मानव नियंत्रण में रखने का आह्वान किया है और चेतावनी दी है कि परमाणु कमांड, नियंत्रण और संचार प्रणालियों को लक्षित करने के लिए कृत्रिम बुद्धिमत्ता (एआई) प्रणालियों का उपयोग कभी नहीं किया जाना चाहिए।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
    "type": null,
-   "time": "2026-11-24T19:52:21Z",
+   "time": "2026-11-25T06:09:19Z",
    "countries": [
-    "Turkey"
+    "Pakistan"
    ]
   },
   {
-   "id": "five-women-killed-each-hour-by-relatives-in-2025",
+   "id": "trump-says-iran-war-funded-through-january-sugge",
    "country": "United States of America",
    "label": "संयुक्त राज्य अमेरिका",
    "lat": 39.0,
@@ -381,45 +199,64 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "2025 में रिश्तेदारों द्वारा हर घंटे पांच महिलाओं की हत्या: संयुक्त राष्ट्र",
-   "summary": "संयुक्त राष्ट्र: मंगलवार को प्रकाशित संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, 2025 में दुनिया भर में रिश्तेदारों द्वारा 47,000 से अधिक महिलाओं और लड़कियों, या प्रति घंटे लगभग पांच, की हत्या कर दी गई, यह आंकड़ा पिछले वर्षों की तुलना में मोटे तौर पर अपरिवर्तित है।",
+   "headline": "ट्रम्प का कहना है कि जनवरी तक ईरान युद्ध को 'वित्तपोषित' किया गया, उन्होंने नए ऑपरेशन के लिए सीमित अवसर का सुझाव दिया",
+   "summary": "ट्रम्प का कहना है कि जनवरी तक ईरान युद्ध को 'वित्तपोषित' किया गया, उन्होंने नए ऑपरेशन के लिए सीमित अवसर का सुझाव दिया",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "2025 में रिश्तेदारों द्वारा हर घंटे पांच महिलाओं की हत्या: संयुक्त राष्ट्र।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "इसके पीछे कौन है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "संयुक्त राष्ट्र: मंगलवार को प्रकाशित संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, 2025 में दुनिया भर में रिश्तेदारों द्वारा 47,000 से अधिक महिलाओं और लड़कियों, या प्रति घंटे लगभग पांच, की हत्या कर दी गई, यह आंकड़ा पिछले वर्षों की तुलना में मोटे तौर पर अपरिवर्तित है।"
+     "text": "ट्रम्प का कहना है कि जनवरी तक ईरान युद्ध को 'वित्तपोषित' किया गया, उन्होंने नए ऑपरेशन के लिए सीमित अवसर का सुझाव दिया।"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
    "type": null,
-   "time": "2026-11-25T01:41:20Z",
+   "time": "2026-11-25T09:00:30Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
+   "id": "china-sends-first-pakistani-astronaut-into-space",
+   "country": "China",
+   "label": "चीन",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
    "category": "World",
-   "headline": "थॉमस मार्कल पर अमेरिका में बाल यौन शोषण की तस्वीरें रखने का आरोप लगाया गया",
-   "summary": "लॉस एंजिल्स में कथित तौर पर किराए पर ली गई एक भंडारण इकाई की तलाशी के बाद दुरुपयोग सामग्री का खुलासा होने के बाद एफबीआई ने 6 नवंबर को मार्कल को गिरफ्तार कर लिया।",
+   "headline": "चीन ने पहले पाकिस्तानी अंतरिक्ष यात्री को अंतरिक्ष में भेजा",
+   "summary": "चीन ने पहले पाकिस्तानी अंतरिक्ष यात्री को अंतरिक्ष में भेजा",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "थॉमस मार्कल पर अमेरिका में बाल यौन शोषण की तस्वीरें रखने का आरोप लगाया गया।"
+     "text": "चीन ने पहले पाकिस्तानी अंतरिक्ष यात्री को अंतरिक्ष में भेजा।"
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:31:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "bangladesh-garment-workers-protest-over-new-wage",
+   "country": "Bangladesh",
+   "label": "बांग्लादेश",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "high",
+   "category": "World",
+   "headline": "बांग्लादेश के कपड़ा श्रमिकों ने नई मजदूरी को लेकर विरोध प्रदर्शन किया",
+   "summary": "बांग्लादेश ने कपड़ा श्रमिकों के लिए न्यूनतम मासिक वेतन 36% बढ़ाकर 17,000 टका, लगभग 138 डॉलर कर दिया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "बांग्लादेश के कपड़ा श्रमिकों ने नई मजदूरी को लेकर विरोध प्रदर्शन किया।"
     },
     {
      "role": "COMMANDER",
@@ -427,134 +264,66 @@
     },
     {
      "role": "ANALYST",
-     "text": "लॉस एंजिल्स में कथित तौर पर किराए पर ली गई एक भंडारण इकाई की तलाशी के बाद दुरुपयोग सामग्री का खुलासा होने के बाद एफबीआई ने 6 नवंबर को मार्कल को गिरफ्तार कर लिया।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T01:40:42Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "clashing-political-visions-reflect-a-divided-spa",
-   "country": "Spain",
-   "label": "स्पेन",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "परस्पर विरोधी राजनीतिक दृष्टिकोण चुनाव से पहले विभाजित स्पेन को दर्शाते हैं",
-   "summary": "रविवार के चुनाव में पहली बार किसी धुर दक्षिणपंथी पार्टी को स्पेन की सरकार में शामिल होते देखा जा सकता है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "परस्पर विरोधी राजनीतिक दृष्टिकोण चुनाव से पहले विभाजित स्पेन को दर्शाते हैं।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "मुझे विवरण दीजिए."
-    },
-    {
-     "role": "ANALYST",
-     "text": "रविवार के चुनाव में पहली बार किसी धुर दक्षिणपंथी पार्टी को स्पेन की सरकार में शामिल होते देखा जा सकता है।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:58:34Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-air-strike-kills-hamas-internal-security",
-   "country": "Palestine",
-   "label": "फ़िलिस्तीन",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "गाजा में इजरायली हवाई हमले में हमास के आंतरिक सुरक्षा प्रमुख की मौत",
-   "summary": "नईम अबू नाहेल, जो दो महीने से इस पद पर थे, मंगलवार को कथित तौर पर इजरायली हमलों में मारे गए सात फिलिस्तीनियों में से एक हैं।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "गाजा में इजरायली हवाई हमले में हमास के आंतरिक सुरक्षा प्रमुख की मौत।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "हम अब तक क्या जानते हैं?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "नईम अबू नाहेल, जो दो महीने से इस पद पर थे, मंगलवार को कथित तौर पर इजरायली हमलों में मारे गए सात फिलिस्तीनियों में से एक हैं।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:35:53Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
-   "country": "Japan",
-   "label": "जापान",
-   "lat": 36.2,
-   "lon": 138.3,
-   "flag": "🇯🇵",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "एआई बूम पर संदेह मंडराने से एशिया के शेयर बाजारों में गिरावट आई",
-   "summary": "नवीनतम तकनीक आधारित बिकवाली के कारण जापान, दक्षिण कोरिया और ताइवान में बाज़ारों में भारी गिरावट आई है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "एआई बूम पर संदेह मंडराने से एशिया के शेयर बाजारों में गिरावट आई।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "कीमतों के लिए इसका क्या मतलब है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "नवीनतम तकनीक आधारित बिकवाली के कारण जापान, दक्षिण कोरिया और ताइवान में बाज़ारों में भारी गिरावट आई है।"
+     "text": "बांग्लादेश ने कपड़ा श्रमिकों के लिए न्यूनतम मासिक वेतन 36% बढ़ाकर 17,000 टका, लगभग 138 डॉलर कर दिया है।"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T03:31:59Z",
+   "time": "2026-11-25T12:23:41Z",
    "countries": [
-    "Japan",
-    "South Korea",
-    "Taiwan"
+    "Bangladesh"
    ]
   },
   {
-   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
-   "country": "Syria",
-   "label": "सीरिया",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "russia-s-own-figures-show-it-has-lost-nearly-500",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "युद्ध के दो साल बाद सीरिया में बारूदी सुरंगों से हताहतों की संख्या बढ़ी",
-   "summary": "आंकड़ों से पता चलता है कि संघर्ष के दौरान बचे विस्फोटकों से मारे गए या घायल हुए लोगों में लगभग 1,000 बच्चे शामिल हैं।",
+   "category": "World",
+   "headline": "रूस के अपने आंकड़े बताते हैं कि उसने यूक्रेन युद्ध में लगभग 500,000 लोगों को खो दिया है",
+   "summary": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "युद्ध के दो साल बाद सीरिया में बारूदी सुरंगों से हताहतों की संख्या बढ़ी।"
+     "text": "रूस के अपने आंकड़े बताते हैं कि उसने यूक्रेन युद्ध में लगभग 500,000 लोगों को खो दिया है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T12:21:49Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "यूक्रेन पर रूसी हमले में पांच लोग मारे गए, पांच क्षेत्रों में बिजली गुल हो गई",
+   "summary": "एक यूक्रेनी अधिकारी का कहना है कि ज़ापोरिज़िया और निप्रॉपेट्रोस क्षेत्रों पर हमलों ने कई ऊर्जा स्थलों को नुकसान पहुँचाया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "यूक्रेन पर रूसी हमले में पांच लोग मारे गए, पांच क्षेत्रों में बिजली गुल हो गई।"
     },
     {
      "role": "COMMANDER",
@@ -562,48 +331,219 @@
     },
     {
      "role": "ANALYST",
-     "text": "आंकड़ों से पता चलता है कि संघर्ष के दौरान बचे विस्फोटकों से मारे गए या घायल हुए लोगों में लगभग 1,000 बच्चे शामिल हैं।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:17:28Z",
-   "countries": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
-   "country": "South Korea",
-   "label": "दक्षिण कोरिया",
-   "lat": 36.5,
-   "lon": 127.8,
-   "flag": "🇰🇷",
-   "severity": "high",
-   "category": "World",
-   "headline": "रूसी जेट विमानों ने दक्षिण कोरिया में हवाई हमले की चेतावनी दी",
-   "summary": "दक्षिण कोरिया के निवासियों से आश्रय लेने का आग्रह किया गया क्योंकि मंगलवार को रूसी सैन्य जेट उसके हवाई क्षेत्र के पास पहुंचे।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "रूसी जेट विमानों ने दक्षिण कोरिया में हवाई हमले की चेतावनी दी।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "यह कितना गंभीर है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "दक्षिण कोरिया के निवासियों से आश्रय लेने का आग्रह किया गया क्योंकि मंगलवार को रूसी सैन्य जेट उसके हवाई क्षेत्र के पास पहुंचे।"
+     "text": "एक यूक्रेनी अधिकारी का कहना है कि ज़ापोरिज़िया और निप्रॉपेट्रोस क्षेत्रों पर हमलों ने कई ऊर्जा स्थलों को नुकसान पहुँचाया है।"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T21:14:57Z",
+   "time": "2026-11-25T12:19:17Z",
    "countries": [
-    "South Korea",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
+   "country": "Iran",
+   "label": "होर्मुज़ जलडमरूमध्य",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान का कहना है कि होर्मुज जलडमरूमध्य में तीसरा टैंकर खदान से टकराया",
+   "summary": "ईरान का कहना है कि होर्मुज जलडमरूमध्य में तीसरा टैंकर खदान से टकराया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान का कहना है कि होर्मुज जलडमरूमध्य में तीसरा टैंकर खदान से टकराया।"
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:45:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "ADB ने पाकिस्तान की सार्वजनिक-निजी भागीदारी प्रणाली को मजबूत करने के लिए $250m ऋण को मंजूरी दी",
+   "summary": "इस्लामाबाद: एशियाई विकास बैंक (एडीबी) ने बुधवार को पाकिस्तान को अपनी सार्वजनिक-निजी भागीदारी (पीपीपी) प्रणाली को मजबूत करने और बैंक योग्य और टिकाऊ परियोजनाओं की एक पाइपलाइन को आगे बढ़ाने में मदद करने के लिए 250 मिलियन डॉलर के नीति-आधारित ऋण को मंजूरी दे दी, जो निजी पूंजी को आकर्षित कर सकते हैं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ADB ने पाकिस्तान की सार्वजनिक-निजी भागीदारी प्रणाली को मजबूत करने के लिए $250m ऋण को मंजूरी दी।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "इस्लामाबाद: एशियाई विकास बैंक (एडीबी) ने बुधवार को पाकिस्तान को अपनी सार्वजनिक-निजी भागीदारी (पीपीपी) प्रणाली को मजबूत करने और बैंक योग्य और टिकाऊ परियोजनाओं की एक पाइपलाइन को आगे बढ़ाने में मदद करने के लिए 250 मिलियन डॉलर के नीति-आधारित ऋण को मंजूरी दे दी, जो निजी पूंजी को आकर्षित कर सकते हैं।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "type": null,
+   "time": "2026-11-25T10:33:36Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "could-netanyahu-take-israel-into-another-war-wit",
+   "country": "Israel",
+   "label": "इजराइल",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "क्या नेतन्याहू सत्ता पर बने रहने के लिए इज़राइल को ईरान के साथ एक और युद्ध में ले जा सकते हैं?",
+   "summary": "जैसा कि इज़रायली विपक्षी नेता ईसेनकोट सरकार बनाने के लिए आगे बढ़ रहे हैं, क्या ईरान के साथ युद्ध वार्ता को पटरी से उतार सकता है और नेतन्याहू को बचा सकता है?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "क्या नेतन्याहू सत्ता पर बने रहने के लिए इजराइल को ईरान के साथ एक और युद्ध में ले जा सकते हैं?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "जैसा कि इज़रायली विपक्षी नेता ईसेनकोट सरकार बनाने के लिए आगे बढ़ रहे हैं, क्या ईरान के साथ युद्ध वार्ता को पटरी से उतार सकता है और नेतन्याहू को बचा सकता है?"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T10:27:53Z",
+   "countries": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
+   "country": "India",
+   "label": "भारत",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "रावलपिंडिज़ ने सीधे हस्ताक्षर के रूप में मैथ्यू शॉर्ट को सुरक्षित किया; हैदराबाद किंग्समैन बाहर निकल गए",
+   "summary": "रावलपिंडिज़ ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने मार्की डायरेक्ट साइनिंग के रूप में ऑस्ट्रेलियाई ऑलराउंडर मैथ्यू शॉर्ट के हस्ताक्षर की पुष्टि की है, जो अगले साल 18 मार्च से 2 मई तक चलने वाला है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "रावलपिंडिज़ ने सीधे हस्ताक्षर के रूप में मैथ्यू शॉर्ट को सुरक्षित किया; हैदराबाद किंग्समैन बाहर निकल गए।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "रावलपिंडिज़ ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने मार्की डायरेक्ट साइनिंग के रूप में ऑस्ट्रेलियाई ऑलराउंडर मैथ्यू शॉर्ट के हस्ताक्षर की पुष्टि की है, जो अगले साल 18 मार्च से 2 मई तक चलने वाला है।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "type": null,
+   "time": "2026-11-25T12:19:59Z",
+   "countries": [
+    "India",
+    "Australia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "the-river-war-sees-india-build-dams-while-pakist",
+   "country": "India",
+   "label": "भारत",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "'नदी युद्ध' में भारत बांध बनाता है जबकि पाकिस्तान रोता है",
+   "summary": "'नदी युद्ध' में भारत बांध बनाता है जबकि पाकिस्तान रोता है",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "'नदी युद्ध' में भारत बांध बनाता है जबकि पाकिस्तान रोता है।"
+    }
+   ],
+   "source": "IntelliNews",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:12Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
+   "country": "Iran",
+   "label": "होर्मुज़ जलडमरूमध्य",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान का कहना है कि जहाजों ने होर्मुज में खदानों को निशाना बनाया, जहाजों को समन्वित मार्ग अपनाने की चेतावनी दी",
+   "summary": "ईरान का कहना है कि जहाजों ने होर्मुज में खदानों को निशाना बनाया, जहाजों को समन्वित मार्ग अपनाने की चेतावनी दी",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान का कहना है कि जहाजों ने होर्मुज में खदानों को निशाना बनाया, जहाजों को समन्वित मार्ग अपनाने की चेतावनी दी।"
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:11:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "more-than-700-000-russian-soldiers-have-been-kil",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "नए अनुमान से पता चलता है कि यूक्रेन युद्ध में 700,000 से अधिक रूसी सैनिक मारे गए हैं",
+   "summary": "नए अनुमान से पता चलता है कि यूक्रेन युद्ध में 700,000 से अधिक रूसी सैनिक मारे गए हैं",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "नए अनुमान से पता चलता है कि यूक्रेन युद्ध में 700,000 से अधिक रूसी सैनिक मारे गए हैं।"
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
+   "type": null,
+   "time": "2026-11-25T13:54:15Z",
+   "countries": [
+    "Ukraine",
     "Russia"
    ]
   }

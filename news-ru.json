@@ -1,210 +1,8 @@
 {
- "updated": "2026-11-25T04:38:59.858114Z",
+ "updated": "2026-11-25T15:01:48.563006Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
-  {
-   "id": "cashless-divide",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Безналичное деление",
-   "summary": "ПРЕДСТАВЬТЕ женщину из Исламабада, пришедшую в правительственное учреждение, чтобы заплатить пошлину. У нее есть деньги, но нет банковского счета и собственного смартфона. Касса больше не принимает наличные. Чиновник указывает ей на QR-код.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Безналичное деление."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ПРЕДСТАВЬТЕ женщину из Исламабада, пришедшую в правительственное учреждение, чтобы заплатить пошлину. У нее есть деньги, но нет банковского счета и собственного смартфона. Касса больше не принимает наличные. Чиновник указывает ей на QR-код."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046934/cashless-divide",
-   "type": null,
-   "time": "2026-11-25T04:12:44Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "poll-finds-us-voters-want-government-to-end-iran",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Опрос показал, что избиратели США хотят, чтобы правительство положило конец войне с Ираном независимо от условий",
-   "summary": "Новое исследование показало, что 55 процентов избирателей, в том числе 80 процентов демократов, хотят немедленного прекращения войны.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Опрос показал, что избиратели США хотят, чтобы правительство положило конец войне с Ираном независимо от условий."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Новое исследование показало, что 55 процентов избирателей, в том числе 80 процентов демократов, хотят немедленного прекращения войны."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T01:14:22Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "По данным России, в войне на Украине погибло почти 500 000 человек.",
-   "summary": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "По данным России, в войне на Украине погибло почти 500 000 человек."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Это подтверждено?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:56:51Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Моя семья умерла в Украине. Моя мама винила в этом войска Зеленского",
-   "summary": "Журналист BBC Анастасия Грибанова расследует, кто убил ее отца, бабушку и дедушку на войне.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Моя семья умерла в Украине. Моя мама винила в этом войска Зеленского."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Журналист BBC Анастасия Грибанова расследует, кто убил ее отца, бабушку и дедушку на войне."
-    }
-   ],
-   "source": "the truth is complicated",
-   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:54:13Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Таможня Пакистана изъяла в Карачи почти 1 кг марихуаны, предназначенной для перевозки в Мултан",
-   "summary": "Таможенное управление (CoC) (аэропортов) в Карачи предотвратило попытку контрабанды наркотиков и изъяло 900 граммов марихуаны во время планового сканирования в Международном почтовом отделении (IMO), сообщила во вторник таможня Пакистана.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Таможня Пакистана изъяла в Карачи почти 1 кг марихуаны, предназначенной для перевозки в Мултан."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Таможенное управление (CoC) (аэропортов) в Карачи предотвратило попытку контрабанды наркотиков и изъяло 900 граммов марихуаны во время планового сканирования в Международном почтовом отделении (IMO), сообщила во вторник таможня Пакистана."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
-   "type": null,
-   "time": "2026-11-24T20:02:11Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Война в Иране в прямом эфире: возглавляемая Саудовской Аравией коалиция нанесла удар по йеменскому порту Ходейда",
-   "summary": "Саудовская коалиция заявляет, что ее силы нанесли удары по оперативным объектам в порту Ходейда и объектам на севере Йемена.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Война в Иране в прямом эфире: возглавляемая Саудовской Аравией коалиция наносит удар по йеменскому порту Ходейда."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Саудовская коалиция заявляет, что ее силы нанесли удары по оперативным объектам в порту Ходейда и объектам на севере Йемена."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-25T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
   {
    "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
@@ -240,87 +38,46 @@
    ]
   },
   {
-   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "id": "trump-targets-china-eu-in-new-round-of-tariffs",
    "country": "China",
    "label": "КИТАЙ",
    "lat": 35.0,
    "lon": 104.0,
    "flag": "🇨🇳",
-   "severity": "critical",
-   "category": "Tech",
-   "headline": "Связанная с Китаем сеть использует фейки искусственного интеллекта для очернения тайваньских кандидатов на выборах, обнаруживает BBC Verify",
-   "summary": "Сеть атаковала ключевых фигур правящей ДПП, в том числе президента Лая и кандидата в мэры Шэня.",
+   "severity": "info",
+   "category": "Business",
+   "headline": "Трамп нацелился на Китай и ЕС в новом раунде тарифов",
+   "summary": "Трамп нацелился на Китай и ЕС в новом раунде тарифов",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Связанная с Китаем сеть использует фейки искусственного интеллекта для очернения тайваньских кандидатов на выборах, как обнаружила BBC Verify."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Сеть атаковала ключевых фигур правящей ДПП, в том числе президента Лая и кандидата в мэры Шэня."
+     "text": "Трамп нацелился на Китай и ЕС в новом раунде тарифов."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
    "type": null,
-   "time": "2026-11-24T23:05:11Z",
+   "time": "2026-11-25T13:14:55Z",
    "countries": [
     "China",
-    "Taiwan"
+    "United States of America"
    ]
   },
   {
-   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Sports",
-   "headline": "«Исламабад Юнайтед» приобрел Мэтта Генри, «Карачи Кингз» заключил контракт с Адилем Рашидом в качестве прямых подписчиков на PSL 12",
-   "summary": "«Исламабад Юнайтед» подписал новозеландского быстрого боулера Мэтта Генри, а «Карачи Кингз» заручились услугами игрока из Англии Адиля Рашида в качестве своего главного прямого игрока на 12-м чемпионате Пакистанской Суперлиги (PSL).",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "«Исламабад Юнайтед» приобрел Мэтта Генри, «Карачи Кингз» заключил контракт с Адилем Рашидом в качестве прямого контракта на PSL 12."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "«Исламабад Юнайтед» подписал новозеландского быстрого боулера Мэтта Генри, а «Карачи Кингз» заручились услугами игрока из Англии Адиля Рашида в качестве своего главного прямого игрока на 12-м чемпионате Пакистанской Суперлиги (PSL)."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
-   "type": null,
-   "time": "2026-11-24T17:50:48Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
-   "country": "Iraq",
-   "label": "ИРАК",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
+   "id": "us-unveils-proposed-tariffs-on-major-partners-in",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "markets",
-   "category": "Markets",
-   "headline": "Ирак преследует контрабандистов нефти и приказывает курдам захватить нефтяные месторождения",
-   "summary": "Премьер-министр Ирака Али аль-Заиди приказал федеральным силам взять под контроль нефтяные месторождения на территориях, контролируемых курдами.",
+   "category": "Tech",
+   "headline": "США обнародовали предлагаемые тарифы для основных партнеров, включая ЕС, Китай и Индию",
+   "summary": "Соединенные Штаты в среду обнародовали предлагаемые тарифы для 14 экономик, включая Европейский Союз, Китай и Индию, после многомесячного расследования предполагаемого избыточного производства — последний шаг президента США Дональда Трампа по изменению торговых отношений Вашингтона.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ирак преследует контрабандистов нефти и приказывает курдам захватить нефтяные месторождения."
+     "text": "США обнародовали предлагаемые тарифы для основных партнеров, включая ЕС, Китай и Индию."
     },
     {
      "role": "COMMANDER",
@@ -328,32 +85,93 @@
     },
     {
      "role": "ANALYST",
-     "text": "Премьер-министр Ирака Али аль-Заиди приказал федеральным силам взять под контроль нефтяные месторождения на территориях, контролируемых курдами."
+     "text": "Соединенные Штаты в среду обнародовали предлагаемые тарифы для 14 экономик, включая Европейский Союз, Китай и Индию, после многомесячного расследования предполагаемого избыточного производства — последний шаг президента США Дональда Трампа по изменению торговых отношений Вашингтона."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
    "type": null,
-   "time": "2026-11-24T20:18:19Z",
+   "time": "2026-11-25T13:40:45Z",
    "countries": [
-    "Iraq"
+    "United States of America",
+    "China",
+    "India"
    ]
   },
   {
-   "id": "turkish-military-helicopter-crash-kills-five-in-",
-   "country": "Turkey",
-   "label": "ТУРЦИЯ",
-   "lat": 39.0,
-   "lon": 35.2,
-   "flag": "🇹🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "В результате крушения турецкого военного вертолета на западе Турции погибли пять человек",
-   "summary": "Министерство обороны не уточнило причину крушения спустя несколько дней после еще одного смертельного крушения армейского вертолета.",
+   "id": "-a-new-era-begins-pakistan-s-zeeshan-ali-becomes",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун",
+   "summary": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "В результате крушения турецкого военного вертолета на западе Турции погибли пять человек."
+     "text": "«Начинается новая эра»: Зишан Али из Пакистана становится первым иностранцем, побывавшим на борту китайской космической станции Тяньгун."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Понял. Продолжать."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Зишан Али из Пакистана в среду стал первым иностранным астронавтом, поднявшимся на борт китайской космической станции Тяньгун, что ознаменовало исторический момент для научных амбиций его страны и усилий Пекина по расширению своей космической дипломатии."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "type": null,
+   "time": "2026-11-25T13:17:57Z",
+   "countries": [
+    "Pakistan",
+    "China"
+   ]
+  },
+  {
+   "id": "discover-the-best-installations-at-sharjah-archi",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года.",
+   "summary": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Откройте для себя лучшие инсталляции на Триеннале архитектуры в Шардже 2026 года."
+    }
+   ],
+   "source": "Wallpaper*",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbm1ZNHFfbzVUSFJLb2JrcDJTb2l3S0EwODJheEljcnFQZmJnOHl4a1lOaXJpd2k5MUhXbHpoUkN6cEZCaHhqcjE0bEd0cklia0tTeEY1UkxuOW1vbXRUSHY1eVFEX1d1enR4QzV1UG03ZnZYUVNxTlV6OU9icFBBMTYxQ0xmdlJ5N1M1a28wb0VfN1JMR2ROWVhR?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:46Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "pakistan-calls-for-human-control-over-decisions-",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Пакистан призывает к человеческому контролю над решениями по использованию ядерного оружия",
+   "summary": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Пакистан призвал держать решения по использованию ядерного оружия под контролем человека и предупредил, что системы искусственного интеллекта (ИИ) никогда не должны использоваться для нанесения ударов по системам ядерного командования, контроля и связи.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан призывает к человеческому контролю над решениями по использованию ядерного оружия."
     },
     {
      "role": "COMMANDER",
@@ -361,19 +179,19 @@
     },
     {
      "role": "ANALYST",
-     "text": "Министерство обороны не уточнило причину крушения спустя несколько дней после еще одного смертельного крушения армейского вертолета."
+     "text": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Пакистан призвал держать решения по использованию ядерного оружия под контролем человека и предупредил, что системы искусственного интеллекта (ИИ) никогда не должны использоваться для нанесения ударов по системам ядерного командования, контроля и связи."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046970/pakistan-calls-for-human-control-over-decisions-on-nuclear-weapons-use",
    "type": null,
-   "time": "2026-11-24T19:52:21Z",
+   "time": "2026-11-25T06:09:19Z",
    "countries": [
-    "Turkey"
+    "Pakistan"
    ]
   },
   {
-   "id": "five-women-killed-each-hour-by-relatives-in-2025",
+   "id": "trump-says-iran-war-funded-through-january-sugge",
    "country": "United States of America",
    "label": "СОЕДИНЕННЫЕ ШТАТЫ",
    "lat": 39.0,
@@ -381,45 +199,64 @@
    "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Пять женщин, убитых родственниками каждый час в 2025 году: ООН",
-   "summary": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Согласно докладу ООН, опубликованному во вторник, в 2025 году по всему миру родственниками были убиты более 47 000 женщин и девочек, или около пяти в час, и эта цифра практически не изменилась по сравнению с предыдущими годами.",
+   "headline": "Трамп говорит, что война с Ираном «финансировалась» до января, что предполагает ограниченное окно для новых операций",
+   "summary": "Трамп говорит, что война с Ираном «финансировалась» до января, что предполагает ограниченное окно для новых операций",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пять женщин, убитых родственниками каждый час в 2025 году: ООН."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Согласно докладу ООН, опубликованному во вторник, в 2025 году по всему миру родственниками были убиты более 47 000 женщин и девочек, или около пяти в час, и эта цифра практически не изменилась по сравнению с предыдущими годами."
+     "text": "Трамп говорит, что война с Ираном «финансировалась» до января, предполагая ограниченное время для новых операций."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk52RC04R2NiU2JhVmhoTWN0aUdFSHdPOWFmMXI3NXJHeU1JZ2gxbk9EVmxJc3BHZDV2UTkxUmdfLW1QUWFickwxSUtfRWlxYm43cl8yQjlybFZCOEt5RWtQcXgxUF9JY0M2a3hDbk1MTVBhTjdsSUduWGFQT21Fdm1jLXQ2OXEyLTBYSjJ5WldDVVN2cTU4dDRySHowVmZGcE9GcG1vVmRBV2hqNFhz0gG0AUFVX3lxTE5SdDgwNUlTeVJpVnJiTkNLSjRESGtoaUtzSG1VelpNVkppODFudHNmNHZDaUQzYmM2VFNoajVFNDljRm5qNW10dXh3OGJPWXBIakl5QkFfTHRONHVDNXFNZFA2bTBPWXhFclZmUWczUzhpdlhZMS1LUjhpSHA1NjJ1OC1qY0FrX09sbXVtMTJBS3BFZ2tJbkxOdF9MWXhoMkh6X1U5Wl80ZmtnZmw4WFBSWGk0eQ?oc=5",
    "type": null,
-   "time": "2026-11-25T01:41:20Z",
+   "time": "2026-11-25T09:00:30Z",
    "countries": [
-    "United States of America"
+    "United States of America",
+    "Iran"
    ]
   },
   {
-   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
+   "id": "china-sends-first-pakistani-astronaut-into-space",
+   "country": "China",
+   "label": "КИТАЙ",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
    "category": "World",
-   "headline": "В США Томасу Марклу предъявлено обвинение в хранении изображений сексуального насилия над детьми",
-   "summary": "ФБР арестовало Маркла 6 ноября после того, как при обыске складского помещения, которое он предположительно арендовал в Лос-Анджелесе, были обнаружены материалы оскорбительного содержания.",
+   "headline": "Китай отправил в космос первого пакистанского космонавта",
+   "summary": "Китай отправил в космос первого пакистанского космонавта",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "В США Томасу Марклу предъявлено обвинение в хранении изображений сексуального насилия над детьми."
+     "text": "Китай отправил в космос первого пакистанского космонавта."
+    }
+   ],
+   "source": "The Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOclcxM205aDZ6bnRXOG1UYzRKaFZ1NVJESmV2cEZ4UEw4cmdoN3JkUk9BY1IzbFdDR3ZMck5PTUtVSnpmblpqQ0p5QndRVmRnRWpaQ0pRX3ktekVuZUNaU2xnVHdPckVjVENkZGZ6ZU1meHpjN25YOTFJTzJ4c280VzJhbTVKUUNjcC1ZUVRmNVcxZnNibWplWUJlcGk?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:31:00Z",
+   "countries": [
+    "China",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "bangladesh-garment-workers-protest-over-new-wage",
+   "country": "Bangladesh",
+   "label": "БАНГЛАДЕШ",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "high",
+   "category": "World",
+   "headline": "Рабочие швейной промышленности Бангладеш протестуют против новых зарплат",
+   "summary": "Бангладеш повысил минимальную ежемесячную заработную плату для работников швейной промышленности на 36% до 17 000 така, около 138 долларов.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Рабочие швейной промышленности Бангладеш протестуют против новых зарплат."
     },
     {
      "role": "COMMANDER",
@@ -427,134 +264,66 @@
     },
     {
      "role": "ANALYST",
-     "text": "ФБР арестовало Маркла 6 ноября после того, как при обыске складского помещения, которое он предположительно арендовал в Лос-Анджелесе, были обнаружены материалы оскорбительного содержания."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T01:40:42Z",
-   "countries": [
-    "United States of America"
-   ]
-  },
-  {
-   "id": "clashing-political-visions-reflect-a-divided-spa",
-   "country": "Spain",
-   "label": "ИСПАНИЯ",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "high",
-   "category": "World",
-   "headline": "Столкновение политических взглядов отражает раскол Испании перед выборами",
-   "summary": "На воскресных выборах крайне правая партия может впервые войти в правительство Испании.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Столкновение политических взглядов отражает раскол Испании перед выборами."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Дайте мне подробности."
-    },
-    {
-     "role": "ANALYST",
-     "text": "На воскресных выборах крайне правая партия может впервые войти в правительство Испании."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-25T00:58:34Z",
-   "countries": [
-    "Spain"
-   ]
-  },
-  {
-   "id": "israeli-air-strike-kills-hamas-internal-security",
-   "country": "Palestine",
-   "label": "ПАЛЕСТИНА",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "В результате авиаудара Израиля в Газе погиб глава внутренней безопасности ХАМАС",
-   "summary": "Наим Абу Нахель, который находился на этом посту в течение двух месяцев, входит в число семи палестинцев, которые, как сообщается, были убиты в результате израильских ударов во вторник.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В результате авиаудара Израиля в секторе Газа погиб глава внутренней безопасности ХАМАС."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Наим Абу Нахель, который находился на этом посту в течение двух месяцев, входит в число семи палестинцев, которые, как сообщается, были убиты в результате израильских ударов во вторник."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:35:53Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
-   "country": "Japan",
-   "label": "ЯПОНИЯ",
-   "lat": 36.2,
-   "lon": 138.3,
-   "flag": "🇯🇵",
-   "severity": "markets",
-   "category": "Tech",
-   "headline": "Фондовые рынки Азии падают из-за сомнений по поводу бума искусственного интеллекта",
-   "summary": "Рынки резко упали в Японии, Южной Корее и Тайване в результате последней распродажи, вызванной развитием технологий.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Фондовые рынки Азии падают из-за сомнений по поводу бума искусственного интеллекта."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что это значит для цен?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Рынки резко упали в Японии, Южной Корее и Тайване в результате последней распродажи, вызванной развитием технологий."
+     "text": "Бангладеш повысил минимальную ежемесячную заработную плату для работников швейной промышленности на 36% до 17 000 така, около 138 долларов."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
    "type": null,
-   "time": "2026-11-25T03:31:59Z",
+   "time": "2026-11-25T12:23:41Z",
    "countries": [
-    "Japan",
-    "South Korea",
-    "Taiwan"
+    "Bangladesh"
    ]
   },
   {
-   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
-   "country": "Syria",
-   "label": "СИРИЯ",
-   "lat": 35.0,
-   "lon": 38.5,
-   "flag": "🇸🇾",
+   "id": "russia-s-own-figures-show-it-has-lost-nearly-500",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Число жертв наземных мин в Сирии резко возросло спустя два года после войны",
-   "summary": "По данным данных, среди погибших или раненых взрывчатыми веществами, оставшимися после конфликта, около 1000 детей.",
+   "category": "World",
+   "headline": "Собственные данные России показывают, что она потеряла почти 500 000 человек в войне на Украине.",
+   "summary": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Через два года после войны в Сирии резко возросло число жертв наземных мин."
+     "text": "Собственные данные России показывают, что она потеряла почти 500 000 человек в войне на Украине."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T12:21:49Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "russian-strikes-on-ukraine-kill-five-cause-power",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Удары России по Украине убили пятерых человек и вызвали отключения электроэнергии в пяти регионах",
+   "summary": "Украинский чиновник заявил, что нападения на Запорожскую и Днепропетровскую области повредили ряд энергетических объектов.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В результате ударов России по Украине погибло пять человек, а в пяти регионах произошли отключения электроэнергии."
     },
     {
      "role": "COMMANDER",
@@ -562,48 +331,219 @@
     },
     {
      "role": "ANALYST",
-     "text": "По данным данных, среди погибших или раненых взрывчатыми веществами, оставшимися после конфликта, около 1000 детей."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-24T15:17:28Z",
-   "countries": [
-    "Syria"
-   ]
-  },
-  {
-   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
-   "country": "South Korea",
-   "label": "ЮЖНАЯ КОРЕЯ",
-   "lat": 36.5,
-   "lon": 127.8,
-   "flag": "🇰🇷",
-   "severity": "high",
-   "category": "World",
-   "headline": "Российские самолеты вызвали воздушную тревогу в Южной Корее",
-   "summary": "Жителей Южной Кореи призвали искать убежища, поскольку во вторник российские военные самолеты приблизились к ее воздушному пространству.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Российские самолеты вызвали воздушную тревогу в Южной Корее."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Насколько это серьезно?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Жителей Южной Кореи призвали искать убежища, поскольку во вторник российские военные самолеты приблизились к ее воздушному пространству."
+     "text": "Украинский чиновник заявил, что нападения на Запорожскую и Днепропетровскую области повредили ряд энергетических объектов."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T21:14:57Z",
+   "time": "2026-11-25T12:19:17Z",
    "countries": [
-    "South Korea",
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "third-tanker-hits-mine-in-strait-of-hormuz-iran-",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Третий танкер подорвался на мине в Ормузском проливе, заявил Иран",
+   "summary": "Третий танкер подорвался на мине в Ормузском проливе, заявил Иран",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Третий танкер подорвался на мине в Ормузском проливе, сообщает Иран."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3JyYXNPRlpYREYwS3BoZ3YxWWlteUFYbmc2WWtsUGRzQVU0OVA2U3ZxbUpSMVVhMXZCMzJCOFduU0FTQy1pM0dNdXhGaXh2YnU5Vjh2YWVtcmRJZkNIclFtZnpYdmR0cnhQZ3BuR0RxQmpaekxFdzRDWjdOdFFEYXk4dWc1NnRlOGFuOE0tSVQ2MS12bzY1WnIzRXByQQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T14:45:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "adb-okays-250m-loan-to-strengthen-pakistan-s-pub",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "АБР одобрил кредит в размере $250 млн для укрепления системы государственно-частного партнерства Пакистана",
+   "summary": "ИСЛАМАБАД: Азиатский банк развития (АБР) в среду одобрил кредит в размере 250 миллионов долларов США, основанный на политике, чтобы помочь Пакистану укрепить свою систему государственно-частного партнерства (ГЧП) и продвинуть ряд рентабельных и устойчивых проектов, которые могут привлечь частный капитал",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "АБР одобрил кредит в размере 250 миллионов долларов для укрепления системы государственно-частного партнерства Пакистана."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ИСЛАМАБАД: Азиатский банк развития (АБР) в среду одобрил кредит в размере 250 миллионов долларов США, основанный на политике, чтобы помочь Пакистану укрепить свою систему государственно-частного партнерства (ГЧП) и продвинуть ряд рентабельных и устойчивых проектов, которые могут привлечь частный капитал"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+   "type": null,
+   "time": "2026-11-25T10:33:36Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "could-netanyahu-take-israel-into-another-war-wit",
+   "country": "Israel",
+   "label": "ИЗРАИЛЬ",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Может ли Нетаньяху втянуть Израиль в новую войну с Ираном, чтобы удержаться у власти?",
+   "summary": "Поскольку лидер израильской оппозиции Айзенкот собирается сформировать правительство, может ли война с Ираном сорвать переговоры и спасти Нетаньяху?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Может ли Нетаньяху втянуть Израиль в новую войну с Ираном, чтобы удержаться у власти?"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Поскольку лидер израильской оппозиции Айзенкот собирается сформировать правительство, может ли война с Ираном сорвать переговоры и спасти Нетаньяху?"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T10:27:53Z",
+   "countries": [
+    "Israel",
+    "Iran"
+   ]
+  },
+  {
+   "id": "rawalpindiz-secure-matthew-short-as-direct-signi",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Равалпиндиз обеспечил Мэтью Шорта прямым подписанием; Хайдарабад Кингсмен отказывается от участия",
+   "summary": "Равалпиндиз подтвердил подписание контракта с австралийским универсалом Мэтью Шортом в качестве главного игрока 12-й Суперлиги Пакистана (PSL), которая пройдет с 18 марта по 2 мая следующего года.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Равалпиндиз обеспечил Мэтью Шорта прямым подписанием; Хайдарабад Кингсмен отказывается от участия."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Равалпиндиз подтвердил подписание контракта с австралийским универсалом Мэтью Шортом в качестве главного игрока 12-й Суперлиги Пакистана (PSL), которая пройдет с 18 марта по 2 мая следующего года."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "type": null,
+   "time": "2026-11-25T12:19:59Z",
+   "countries": [
+    "India",
+    "Australia",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "the-river-war-sees-india-build-dams-while-pakist",
+   "country": "India",
+   "label": "ИНДИЯ",
+   "lat": 22.0,
+   "lon": 79.0,
+   "flag": "🇮🇳",
+   "severity": "critical",
+   "category": "World",
+   "headline": "«Речная война»: Индия строит плотины, а Пакистан возмущается",
+   "summary": "«Речная война»: Индия строит плотины, а Пакистан возмущается",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В «речной войне» Индия строит плотины, а Пакистан возмущается."
+    }
+   ],
+   "source": "IntelliNews",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWF6Y00xdzl5VmNwWEJ1YW9FRktKa0gtYjZELVRGZENPeHE1RnpkeVo5Zm4yOUc1TUhvZzFqMkxzT21Xb093TmxWY3JUbzc2WXJ2SWQ0bEhNNkR4VTlWcUR0VWVVYmdZbkxQbE80RmM1SFNRSXNLbjRhQlRTTVZvRWNBcEJ3ZUh6dG1LWTZJTHpYVEEzanRTV0VuejJRUQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:39:12Z",
+   "countries": [
+    "India",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-says-ships-hit-mines-in-hormuz-warns-vessel",
+   "country": "Iran",
+   "label": "ОРМУЗСКИЙ ПРОЛИВ",
+   "lat": 26.6,
+   "lon": 56.4,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход",
+   "summary": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран заявляет, что корабли подорвали мины в Ормузе, и предупреждает суда о необходимости координировать проход."
+    }
+   ],
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmFmdlRJUnlMaVRFNERwb2YxLVVObG9leTlORFRtOTAyd2pvMTNuOGM5d0diMzNUb1NHaDVWOGlTeWg3bmcwU21BdHRHZlB6a0VDeXlNcUtYMDBiZUpyVFRyMkhIQjlpemZIeGVQNEdXb2hCOHZwYW5VZUt4V3MySnpZWUViYTA5MEp2eDlBbGNoVjB5dk5CcHdZR3NyUjZIVlV3d0s2Z3BUMTQ?oc=5",
+   "type": null,
+   "time": "2026-11-25T10:11:44Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "more-than-700-000-russian-soldiers-have-been-kil",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат",
+   "summary": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "По новым оценкам, в войне на Украине погибло более 700 000 российских солдат."
+    }
+   ],
+   "source": "NBC News",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGNmcUJzRjV4UVpZYkV4dzdCR25rZ3pLODVLbEJ1eVh2aVM3QU5YTkM4TFptTmNLQzI0cTJwdEZfeHk1TXhkWTYxVXFHU2lTTEZwaDgyRk1pNkJtTEYyVFpndU9BVWFZb3ZvV3hrUmhTbkRUM1k2SVlzbkoyd3JGRVBsdzhTaFc4MHdYVlFJaUF4c252bGxtTnE2SWJXMkoweHZ0WUU0MGFnYzhSTkF2ZVl3?oc=5",
+   "type": null,
+   "time": "2026-11-25T13:54:15Z",
+   "countries": [
+    "Ukraine",
     "Russia"
    ]
   }
