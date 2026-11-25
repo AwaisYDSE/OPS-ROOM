@@ -1,184 +1,124 @@
 {
- "updated": "2026-11-24T11:03:57.209365Z",
+ "updated": "2026-11-25T04:38:59.858114Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
+   "id": "cashless-divide",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "巴基斯坦的泽山·阿里将进行历史性的飞往中国空间站的飞行",
-   "summary": "巴基斯坦空军飞行员将在天宫号上度过大约一周的时间，与中国机组人员进行实验。",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "无现金红利",
+   "summary": "想象一下伊斯兰堡的一名妇女来到政府办公室支付费用。她有钱，但没有银行账户，也没有自己的智能手机。柜台不再接受现金。官员将她指向一个二维码。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦的泽尚·阿里 (Zeeshan Ali) 开始了历史性的飞往中国空间站的飞行。"
+     "text": "无现金鸿沟。"
     },
     {
      "role": "COMMANDER",
-     "text": "有什么影响？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "巴基斯坦空军飞行员将在天宫号上度过大约一周的时间，与中国机组人员进行实验。"
+     "text": "想象一下伊斯兰堡的一名妇女来到政府办公室支付费用。她有钱，但没有银行账户，也没有自己的智能手机。柜台不再接受现金。官员将她指向一个二维码。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046934/cashless-divide",
    "type": null,
-   "time": "2026-11-24T07:55:18Z",
+   "time": "2026-11-25T04:12:44Z",
    "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "china-unveils-new-space-mission-crew-with-a-paki",
-   "country": "China",
-   "label": "中国",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "中国公布新的太空任务人员，一名巴基斯坦宇航员将登上其空间站",
-   "summary": "中国公布新的太空任务人员，一名巴基斯坦宇航员将登上其空间站",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "中国公布了新的太空任务机组人员，一名巴基斯坦宇航员将登上其空间站。"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
-   "type": null,
-   "time": "2026-11-24T05:51:00Z",
-   "countries": [
-    "China",
     "Pakistan"
    ]
   },
   {
-   "id": "oil-touches-three-month-lows-as-rising-supply-of",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "供应增加抵消霍尔木兹威胁 油价触及三个月低点",
-   "summary": "供应增加抵消霍尔木兹威胁 油价触及三个月低点",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "由于供应增加抵消了霍尔木兹威胁，石油触及三个月低点。"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-   "type": null,
-   "time": "2026-11-24T02:56:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "阿联酋哈伊马角巴士与卡车相撞事故造成 11 人死亡",
-   "summary": "阿联酋哈伊马角巴士与卡车相撞事故造成 11 人死亡",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋哈伊马角发生公共汽车和卡车相撞事故，造成 11 人死亡。"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
-   "type": null,
-   "time": "2026-11-24T07:20:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "伊朗坚持在七项条件得到满足之前不会与美国进行谈判，以及其他中东新闻",
-   "summary": "伊朗坚持在七项条件得到满足之前不会与美国进行谈判，以及其他中东新闻",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗坚持在其七项条件和其他中东新闻得到满足之前不会与美国进行谈判。"
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:40:56Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "伊朗海军称两艘油轮在霍尔木兹海峡起火",
-   "summary": "伊朗海军称两艘油轮在霍尔木兹海峡起火",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗海军称两艘油轮在霍尔木兹海峡起火。"
-    }
-   ],
-   "source": "thenationalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-24T10:52:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
-   "country": "Libya",
-   "label": "利比亚",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "poll-finds-us-voters-want-government-to-end-iran",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "乌克兰证实使用海军无人机袭击了利比亚附近的两艘俄罗斯船只",
-   "summary": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。",
+   "headline": "民意调查发现美国选民希望政府无论条件如何都结束伊朗战争",
+   "summary": "新调查发现，55% 的选民（包括 80% 的民主党人）希望立即结束战争。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "乌克兰证实使用海军无人机袭击了利比亚附近的两艘俄罗斯船只。"
+     "text": "民意调查发现，美国选民希望政府无论条款如何，都结束伊朗战争。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "新调查发现，55% 的选民（包括 80% 的民主党人）希望立即结束战争。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T01:14:22Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "俄罗斯自己的数据显示近50万人在乌克兰战争中死亡",
+   "summary": "泄露的数据揭示了对乌克兰的全面入侵如何从根本上改变了俄罗斯的死亡率模式。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "俄罗斯自己的数据显示，乌克兰战争中有近50万人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "泄露的数据揭示了对乌克兰的全面入侵如何从根本上改变了俄罗斯的死亡率模式。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T00:56:51Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
+   "country": "Ukraine",
+   "label": "乌克兰",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "我的家人在乌克兰去世了。我妈妈指责泽连斯基的军队",
+   "summary": "BBC 记者阿纳斯塔西娅·格里巴诺娃 (Anastasiya Gribanova) 调查谁在战争中杀害了她的父亲和祖父母。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "我的家人在乌克兰去世了。我妈妈指责泽连斯基的军队。"
     },
     {
      "role": "COMMANDER",
@@ -186,106 +126,87 @@
     },
     {
      "role": "ANALYST",
-     "text": "泽连斯基总统表示，一艘俄罗斯军舰被击沉，一艘俄罗斯货船也被击沉。"
+     "text": "BBC 记者阿纳斯塔西娅·格里巴诺娃 (Anastasiya Gribanova) 调查谁在战争中杀害了她的父亲和祖父母。"
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "source": "the truth is complicated",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T02:30:00Z",
+   "time": "2026-11-25T00:54:13Z",
    "countries": [
-    "Libya",
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   },
   {
-   "id": "israeli-minister-approves-return-of-flydubai-fli",
-   "country": "Israel",
-   "label": "以色列",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "以色列部长批准迪拜航空航班返回特拉维夫",
-   "summary": "最终恢复迪拜和特拉维夫之间的航线取决于以色列安全部门的批准。",
+   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "巴基斯坦海关在卡拉奇查获近1公斤“运往木尔坦”大麻",
+   "summary": "巴基斯坦海关周二表示，卡拉奇海关总署（CoC）（机场）挫败了一起毒品走私企图，并在国际邮政局（IMO）的例行扫描中查获了 900 克大麻。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "以色列部长批准迪拜航空航班返回特拉维夫。"
+     "text": "巴基斯坦海关在卡拉奇查获近 1 公斤“运往木尔坦”的大麻。"
     },
     {
      "role": "COMMANDER",
-     "text": "有什么影响？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "最终恢复迪拜和特拉维夫之间的航线取决于以色列安全部门的批准。"
+     "text": "巴基斯坦海关周二表示，卡拉奇海关总署（CoC）（机场）挫败了一起毒品走私企图，并在国际邮政局（IMO）的例行扫描中查获了 900 克大麻。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+   "type": null,
+   "time": "2026-11-24T20:02:11Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "伊朗战争现场：沙特领导的联军袭击也门荷台达港",
+   "summary": "沙特联军表示，其部队瞄准了荷台达港的作战能力，并袭击了也门北部的地点。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗战争现场：沙特领导的联军袭击也门荷台达港。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "沙特联军表示，其部队瞄准了荷台达港的作战能力，并袭击了也门北部的地点。"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T01:09:51Z",
+   "time": "2026-11-25T00:00:00Z",
    "countries": [
-    "Israel",
-    "United Arab Emirates"
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "阿联酋和沙特阿拉伯投资新设施，2026 年 MEBAA 展将公务航空 MRO 成为焦点 - Avi-Go",
-   "summary": "阿联酋和沙特阿拉伯投资新设施，2026 年 MEBAA 展将公务航空 MRO 成为焦点 - Avi-Go",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "随着阿联酋和沙特阿拉伯投资新设施 - Avi-Go，2026 年 MEBAA 展会将公务航空 MRO 成为焦点。"
-    }
-   ],
-   "source": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:47:09Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "散货船在阿联酋附近被不明弹丸击中",
-   "summary": "散货船在阿联酋附近被不明弹丸击中",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "散货船在阿联酋附近被不明弹丸击中。"
-    }
-   ],
-   "source": "Ship & Bunker",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:08:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
    "label": "中国",
    "lat": 35.0,
@@ -293,188 +214,245 @@
    "flag": "🇨🇳",
    "severity": "info",
    "category": "World",
-   "headline": "中国航天计划将成为第一位外国人驾驶巴基斯坦飞行员",
-   "summary": "中国航天计划将成为第一位外国人驾驶巴基斯坦飞行员",
+   "headline": "中国航天任务升空，首位巴基斯坦宇航员登上太空",
+   "summary": "中国发射了神舟二十四号航天飞行任务，将三名宇航员送往天宫空间站。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "中国航天计划将作为第一位外国人驾驶巴基斯坦飞行员。"
+     "text": "中国太空任务升空，第一位巴基斯坦宇航员登上了太空。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "好吧，还有什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "中国发射了神舟二十四号航天飞行任务，将三名宇航员送往天宫空间站。"
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T08:09:31Z",
+   "time": "2026-11-25T03:28:37Z",
    "countries": [
     "China",
     "Pakistan"
    ]
   },
   {
-   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
-   "country": "Libya",
-   "label": "利比亚",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应",
-   "summary": "布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应",
+   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "country": "China",
+   "label": "中国",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "BBC verify 发现与中国有关的网络使用人工智能造假来抹黑台湾选举候选人",
+   "summary": "该网络攻击了执政的民进党的关键人物，包括赖主席和市长候选人沉。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "随着布伦特原油跌破 90 美元至三个月低点，利比亚管道恢复石油供应。"
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
-   "type": null,
-   "time": "2026-11-24T08:55:00Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "外国贷款人规则沙特阿拉伯：2026 年指南",
-   "summary": "外国贷款人规则沙特阿拉伯：2026 年指南",
-   "lines": [
+     "text": "BBC verify 发现，与中国相关的网络使用人工智能造假来抹黑台湾选举候选人。"
+    },
     {
-     "role": "OPERATOR",
-     "text": "外国贷款人规则沙特阿拉伯：2026 年指南。"
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "该网络攻击了执政的民进党的关键人物，包括赖主席和市长候选人沉。"
     }
    ],
-   "source": "Global Advisory Experts",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T06:28:42Z",
+   "time": "2026-11-24T23:05:11Z",
    "countries": [
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
-   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "葡萄牙与巴基斯坦签署投资保护协议以促进商业联系",
-   "summary": "葡萄牙与巴基斯坦签署投资保护协议以促进商业联系",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "伊斯兰堡联队抢购马特·亨利，卡拉奇国王队确保阿迪尔·拉希德成为 PSL 12 的直接签约",
+   "summary": "伊斯兰堡联队签下了新西兰快速投球手马特·亨利，而卡拉奇国王队则签下了英格兰旋转腿选手阿迪尔·拉希德，作为他们第 12 届巴基斯坦超级联赛 (PSL) 的直接签约球员。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "葡萄牙和巴基斯坦签署投资保护协议以促进商业联系。"
+     "text": "伊斯兰堡联队抢购马特·亨利，卡拉奇国王队签下阿迪尔·拉希德作为 PSL 12 的直接签约。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "伊斯兰堡联队签下了新西兰快速投球手马特·亨利，而卡拉奇国王队则签下了英格兰旋转腿选手阿迪尔·拉希德，作为他们第 12 届巴基斯坦超级联赛 (PSL) 的直接签约球员。"
     }
    ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
    "type": null,
-   "time": "2026-11-24T07:05:18Z",
+   "time": "2026-11-24T17:50:48Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "america-serves-up-football-on-thanksgiving",
+   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
+   "country": "Iraq",
+   "label": "伊拉克",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "伊拉克瞄准石油走私者，命令库尔德油田接管",
+   "summary": "伊拉克总理阿里·扎伊迪已命令联邦军队控制库尔德人控制地区的油田。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊拉克瞄准石油走私者，下令库尔德人接管油田。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "伊拉克总理阿里·扎伊迪已命令联邦军队控制库尔德人控制地区的油田。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T20:18:19Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "turkish-military-helicopter-crash-kills-five-in-",
+   "country": "Turkey",
+   "label": "土耳其",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "土耳其军用直升机在土耳其西部坠毁，造成五人死亡",
+   "summary": "在另一起致命的军用直升机事故发生几天后，国防部没有详细说明坠机原因。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "土耳其军用直升机在土耳其西部坠毁，造成五人死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "在另一起致命的军用直升机事故发生几天后，国防部没有详细说明坠机原因。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T19:52:21Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "five-women-killed-each-hour-by-relatives-in-2025",
    "country": "United States of America",
    "label": "美国",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "美国感恩节举办橄榄球活动",
-   "summary": "美国感恩节举办橄榄球活动",
+   "severity": "critical",
+   "category": "World",
+   "headline": "联合国：2025 年每小时有 5 名妇女被亲属杀害",
+   "summary": "联合国：根据联合国周二发布的一份报告，到 2025 年，世界各地将有超过 47,000 名妇女和女童（即每小时约 5 名）被亲属杀害，这一数字与前几年基本持平。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "美国在感恩节举办橄榄球比赛。"
+     "text": "联合国：2025 年每小时有 5 名妇女被亲属杀害。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "联合国：根据联合国周二发布的一份报告，到 2025 年，世界各地将有超过 47,000 名妇女和女童（即每小时约 5 名）被亲属杀害，这一数字与前几年基本持平。"
     }
    ],
-   "source": "U.S. Embassy & Consulates in Russia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
    "type": null,
-   "time": "2026-11-24T10:17:54Z",
+   "time": "2026-11-25T01:41:20Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "胡塞武装媒体称也门荷台达空袭已造成17人死亡",
-   "summary": "胡塞武装媒体称也门荷台达空袭已造成17人死亡",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "胡塞武装媒体称，也门荷台达空袭造成17人死亡。"
-    }
-   ],
-   "source": "巴士的報",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:47:19Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "thousands-protest-in-karachi-against-asim-munir-",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博",
-   "summary": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "卡拉奇数千人抗议阿西姆·穆尼尔重新划定巴基斯坦的赌博。"
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:57:09Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
-   "country": "South Africa",
-   "label": "南非",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "刚果民主共和国称军用飞机失踪，叛军声称击落飞机",
-   "summary": "据报道，被击落飞机上有一名南非战斗机飞行员和一名乌干达军官。",
+   "headline": "托马斯·马克尔因持有儿童性虐待图片而在美国被起诉",
+   "summary": "联邦调查局 (FBI) 于 11 月 6 日逮捕了马克尔，原因是在搜查马克尔据称在洛杉矶租用的一个储藏室时，发现了这些虐待材料。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "刚果民主共和国称，叛军声称击落了军用飞机，导致其失踪。"
+     "text": "托马斯·马克尔因持有儿童性虐待图片而在美国被起诉。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "现在情况如何？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "联邦调查局 (FBI) 于 11 月 6 日逮捕了马克尔，原因是在搜查马克尔据称在洛杉矶租用的一个储藏室时，发现了这些虐待材料。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T01:40:42Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "clashing-political-visions-reflect-a-divided-spa",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "政治愿景的冲突反映出西班牙大选前的分裂",
+   "summary": "周日的选举可能会导致极右翼政党首次进入西班牙政府。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "相互冲突的政治愿景反映出选举前西班牙的分裂。"
     },
     {
      "role": "COMMANDER",
@@ -482,15 +460,151 @@
     },
     {
      "role": "ANALYST",
-     "text": "据报道，被击落飞机上有一名南非战斗机飞行员和一名乌干达军官。"
+     "text": "周日的选举可能会导致极右翼政党首次进入西班牙政府。"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T10:48:27Z",
+   "time": "2026-11-25T00:58:34Z",
    "countries": [
-    "South Africa"
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-air-strike-kills-hamas-internal-security",
+   "country": "Palestine",
+   "label": "巴勒斯坦",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "以色列空袭杀死加沙哈马斯内部安全负责人",
+   "summary": "已经任职两个月的纳伊姆·阿布·纳赫勒是据报道在周二以色列袭击中丧生的七名巴勒斯坦人之一。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以色列空袭杀死加沙哈马斯内部安全负责人。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "已经任职两个月的纳伊姆·阿布·纳赫勒是据报道在周二以色列袭击中丧生的七名巴勒斯坦人之一。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:35:53Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
+   "country": "Japan",
+   "label": "日本",
+   "lat": 36.2,
+   "lon": 138.3,
+   "flag": "🇯🇵",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "由于对人工智能繁荣的疑虑，亚洲股市暴跌",
+   "summary": "日本、韩国和台湾市场在最新的科技股主导的抛售中大幅下跌。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "由于对人工智能繁荣的质疑不断，亚洲股市暴跌。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "这对价格意味着什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "日本、韩国和台湾市场在最新的科技股主导的抛售中大幅下跌。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T03:31:59Z",
+   "countries": [
+    "Japan",
+    "South Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
+   "country": "Syria",
+   "label": "叙利亚",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "战后两年，叙利亚地雷伤亡人数激增",
+   "summary": "数据显示，近 1000 名儿童被冲突遗留爆炸物炸死或炸伤。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "战争结束两年后，叙利亚的地雷伤亡人数激增。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "背后是谁？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "数据显示，近 1000 名儿童被冲突遗留爆炸物炸死或炸伤。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:17:28Z",
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
+   "country": "South Korea",
+   "label": "韩国",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "high",
+   "category": "World",
+   "headline": "俄罗斯战机在韩国引发空袭警报",
+   "summary": "周二，当俄罗斯军机接近韩国领空时，韩国居民被敦促寻求庇护。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "俄罗斯战机在韩国引发空袭警报。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有多严重？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周二，当俄罗斯军机接近韩国领空时，韩国居民被敦促寻求庇护。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T21:14:57Z",
+   "countries": [
+    "South Korea",
+    "Russia"
    ]
   }
  ]

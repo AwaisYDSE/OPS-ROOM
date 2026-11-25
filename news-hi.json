@@ -1,184 +1,124 @@
 {
- "updated": "2026-11-24T11:03:57.209365Z",
+ "updated": "2026-11-25T04:38:59.858114Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
   {
-   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
+   "id": "cashless-divide",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान के जीशान अली चीन के अंतरिक्ष स्टेशन के लिए ऐतिहासिक उड़ान के लिए तैयार",
-   "summary": "पाकिस्तान वायु सेना के पायलट चीन के चालक दल के साथ प्रयोग करते हुए तियांगोंग पर लगभग एक सप्ताह बिताएंगे।",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "कैशलेस बंटवारा",
+   "summary": "कल्पना कीजिए कि इस्लामाबाद में एक महिला शुल्क का भुगतान करने के लिए एक सरकारी कार्यालय में पहुँच रही है। उसके पास पैसे हैं, लेकिन कोई बैंक खाता नहीं है और न ही उसका अपना कोई स्मार्टफोन है। काउंटर अब नकदी स्वीकार नहीं करता. अधिकारी उसे एक क्यूआर कोड की ओर इशारा करता है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान के जीशान अली चीन के अंतरिक्ष स्टेशन के लिए ऐतिहासिक उड़ान के लिए तैयार।"
+     "text": "कैशलेस बंटवारा."
     },
     {
      "role": "COMMANDER",
-     "text": "क्या असर है?"
+     "text": "कोई हताहत?"
     },
     {
      "role": "ANALYST",
-     "text": "पाकिस्तान वायु सेना के पायलट चीन के चालक दल के साथ प्रयोग करते हुए तियांगोंग पर लगभग एक सप्ताह बिताएंगे।"
+     "text": "कल्पना कीजिए कि इस्लामाबाद में एक महिला शुल्क का भुगतान करने के लिए एक सरकारी कार्यालय में पहुँच रही है। उसके पास पैसे हैं, लेकिन कोई बैंक खाता नहीं है और न ही उसका अपना कोई स्मार्टफोन है। काउंटर अब नकदी स्वीकार नहीं करता. अधिकारी उसे एक क्यूआर कोड की ओर इशारा करता है।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046934/cashless-divide",
    "type": null,
-   "time": "2026-11-24T07:55:18Z",
+   "time": "2026-11-25T04:12:44Z",
    "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "china-unveils-new-space-mission-crew-with-a-paki",
-   "country": "China",
-   "label": "चीन",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "चीन ने नए अंतरिक्ष मिशन दल का अनावरण किया, जिसमें एक पाकिस्तानी अंतरिक्ष यात्री उसके अंतरिक्ष स्टेशन पर चढ़ने के लिए तैयार है",
-   "summary": "चीन ने नए अंतरिक्ष मिशन दल का अनावरण किया, जिसमें एक पाकिस्तानी अंतरिक्ष यात्री उसके अंतरिक्ष स्टेशन पर चढ़ने के लिए तैयार है",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "चीन ने नए अंतरिक्ष मिशन दल का अनावरण किया, जिसमें एक पाकिस्तानी अंतरिक्ष यात्री उसके अंतरिक्ष स्टेशन पर चढ़ने के लिए तैयार है।"
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
-   "type": null,
-   "time": "2026-11-24T05:51:00Z",
-   "countries": [
-    "China",
     "Pakistan"
    ]
   },
   {
-   "id": "oil-touches-three-month-lows-as-rising-supply-of",
-   "country": "Iran",
-   "label": "होर्मुज़ जलडमरूमध्य",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "आपूर्ति बढ़ने से होर्मुज का खतरा कम होने से तेल तीन महीने के निचले स्तर पर पहुंच गया",
-   "summary": "आपूर्ति बढ़ने से होर्मुज का खतरा कम होने से तेल तीन महीने के निचले स्तर पर पहुंच गया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "आपूर्ति बढ़ने से होर्मुज का खतरा कम होने से तेल तीन महीने के निचले स्तर पर पहुंच गया।"
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-   "type": null,
-   "time": "2026-11-24T02:56:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "संयुक्त अरब अमीरात के रास अल खैमा में बस और ट्रक की टक्कर में 11 लोगों की मौत",
-   "summary": "संयुक्त अरब अमीरात के रास अल खैमा में बस और ट्रक की टक्कर में 11 लोगों की मौत",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "संयुक्त अरब अमीरात के रास अल खैमा में बस और ट्रक की टक्कर में 11 लोगों की मौत।"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
-   "type": null,
-   "time": "2026-11-24T07:20:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "ईरान का कहना है कि जब तक उसकी सात शर्तें पूरी नहीं हो जातीं, तब तक अमेरिका के साथ कोई बातचीत नहीं होगी और अन्य मध्यपूर्व समाचार",
-   "summary": "ईरान का कहना है कि जब तक उसकी सात शर्तें पूरी नहीं हो जातीं, तब तक अमेरिका के साथ कोई बातचीत नहीं होगी और अन्य मध्यपूर्व समाचार",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान का कहना है कि जब तक उसकी सात शर्तें पूरी नहीं हो जातीं, तब तक अमेरिका के साथ कोई बातचीत नहीं होगी और अन्य मध्यपूर्व समाचार।"
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:40:56Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ईरान की नौसेना का कहना है कि होर्मुज जलडमरूमध्य में दो टैंकरों में आग लगा दी गई",
-   "summary": "ईरान की नौसेना का कहना है कि होर्मुज जलडमरूमध्य में दो टैंकरों में आग लगा दी गई",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान की नौसेना का कहना है कि होर्मुज जलडमरूमध्य में दो टैंकरों में आग लगा दी गई।"
-    }
-   ],
-   "source": "thenationalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-24T10:52:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
-   "country": "Libya",
-   "label": "लीबिया",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "poll-finds-us-voters-want-government-to-end-iran",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "यूक्रेन ने पुष्टि की है कि उसने लीबिया के पास दो रूसी जहाजों पर हमला करने के लिए नौसैनिक ड्रोन का इस्तेमाल किया था",
-   "summary": "राष्ट्रपति ज़ेलेंस्की ने कहा कि रूस का एक युद्धपोत डूब गया, साथ ही एक रूसी मालवाहक जहाज भी इसकी चपेट में आ गया।",
+   "headline": "सर्वेक्षण में पाया गया कि अमेरिकी मतदाता चाहते हैं कि सरकार शर्तों की परवाह किए बिना ईरान युद्ध समाप्त करे",
+   "summary": "नए सर्वेक्षण से पता चलता है कि 80 प्रतिशत डेमोक्रेट सहित 55 प्रतिशत मतदाता चाहते हैं कि युद्ध तुरंत समाप्त हो।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "यूक्रेन ने पुष्टि की है कि उसने लीबिया के पास दो रूसी जहाजों पर हमला करने के लिए नौसैनिक ड्रोन का इस्तेमाल किया था।"
+     "text": "सर्वेक्षण में पाया गया कि अमेरिकी मतदाता चाहते हैं कि सरकार शर्तों की परवाह किए बिना ईरान युद्ध समाप्त करे।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "नए सर्वेक्षण से पता चलता है कि 80 प्रतिशत डेमोक्रेट सहित 55 प्रतिशत मतदाता चाहते हैं कि युद्ध तुरंत समाप्त हो।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T01:14:22Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "रूस के अपने आंकड़े बताते हैं कि यूक्रेन में युद्ध में लगभग 500,000 मौतें हुईं",
+   "summary": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "रूस के अपने आंकड़े बताते हैं कि यूक्रेन में युद्ध में लगभग 500,000 मौतें हुईं।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "लीक हुए आंकड़ों से पता चलता है कि कैसे यूक्रेन पर पूर्ण पैमाने पर आक्रमण ने रूस में मृत्यु दर के पैटर्न को मौलिक रूप से बदल दिया है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T00:56:51Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
+   "country": "Ukraine",
+   "label": "यूक्रेन",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "मेरे परिवार की यूक्रेन में मृत्यु हो गई। मेरी माँ ने ज़ेलेंस्की की सेना को दोषी ठहराया",
+   "summary": "बीबीसी पत्रकार अनास्तासिया ग्रिबानोवा ने जांच की कि युद्ध में उसके पिता और दादा-दादी को किसने मारा।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "मेरे परिवार की यूक्रेन में मृत्यु हो गई। मेरी माँ ने ज़ेलेंस्की की सेना को दोषी ठहराया।"
     },
     {
      "role": "COMMANDER",
@@ -186,106 +126,87 @@
     },
     {
      "role": "ANALYST",
-     "text": "राष्ट्रपति ज़ेलेंस्की ने कहा कि रूस का एक युद्धपोत डूब गया, साथ ही एक रूसी मालवाहक जहाज भी इसकी चपेट में आ गया।"
+     "text": "बीबीसी पत्रकार अनास्तासिया ग्रिबानोवा ने जांच की कि युद्ध में उसके पिता और दादा-दादी को किसने मारा।"
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "source": "the truth is complicated",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T02:30:00Z",
+   "time": "2026-11-25T00:54:13Z",
    "countries": [
-    "Libya",
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   },
   {
-   "id": "israeli-minister-approves-return-of-flydubai-fli",
-   "country": "Israel",
-   "label": "इजराइल",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "इजरायली मंत्री ने तेल अवीव के लिए फ्लाईदुबई उड़ानों की वापसी को मंजूरी दी",
-   "summary": "दुबई और तेल अवीव के बीच वाहक के मार्ग की अंतिम बहाली इजरायली सुरक्षा अधिकारियों की मंजूरी पर निर्भर करती है।",
+   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "पाकिस्तान सीमा शुल्क ने कराची में लगभग 1 किलोग्राम 'मुल्तान-बाउंड' मारिजुआना जब्त किया",
+   "summary": "पाकिस्तान सीमा शुल्क ने मंगलवार को कहा कि कराची में सीमा शुल्क कार्यालय (सीओसी) (हवाई अड्डों) ने नशीले पदार्थों की तस्करी के प्रयास को विफल कर दिया और अंतर्राष्ट्रीय मेल कार्यालय (आईएमओ) में नियमित स्कैनिंग के दौरान 900 ग्राम मारिजुआना जब्त किया।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "इजरायली मंत्री ने तेल अवीव के लिए फ्लाईदुबई उड़ानों की वापसी को मंजूरी दी।"
+     "text": "पाकिस्तान सीमा शुल्क ने कराची में लगभग 1 किलोग्राम 'मुल्तान-बाउंड' मारिजुआना जब्त किया।"
     },
     {
      "role": "COMMANDER",
-     "text": "क्या असर है?"
+     "text": "कोई हताहत?"
     },
     {
      "role": "ANALYST",
-     "text": "दुबई और तेल अवीव के बीच वाहक के मार्ग की अंतिम बहाली इजरायली सुरक्षा अधिकारियों की मंजूरी पर निर्भर करती है।"
+     "text": "पाकिस्तान सीमा शुल्क ने मंगलवार को कहा कि कराची में सीमा शुल्क कार्यालय (सीओसी) (हवाई अड्डों) ने नशीले पदार्थों की तस्करी के प्रयास को विफल कर दिया और अंतर्राष्ट्रीय मेल कार्यालय (आईएमओ) में नियमित स्कैनिंग के दौरान 900 ग्राम मारिजुआना जब्त किया।"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+   "type": null,
+   "time": "2026-11-24T20:02:11Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "ईरान युद्ध लाइव: सऊदी नेतृत्व वाले गठबंधन ने यमन के होदेइदाह बंदरगाह पर हमला किया",
+   "summary": "सऊदी गठबंधन का कहना है कि उसकी सेनाओं ने होदेइदाह बंदरगाह पर परिचालन क्षमताओं को निशाना बनाया और उत्तरी यमन में साइटों को निशाना बनाया।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान युद्ध लाइव: सऊदी नेतृत्व वाले गठबंधन ने यमन के होदेइदाह बंदरगाह पर हमला किया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "सऊदी गठबंधन का कहना है कि उसकी सेनाओं ने होदेइदाह बंदरगाह पर परिचालन क्षमताओं को निशाना बनाया और उत्तरी यमन में साइटों को निशाना बनाया।"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T01:09:51Z",
+   "time": "2026-11-25T00:00:00Z",
    "countries": [
-    "Israel",
-    "United Arab Emirates"
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "एमईबीएए शो 2026 बिजनेस एविएशन एमआरओ को फोकस में रखेगा क्योंकि यूएई और सऊदी अरब नई सुविधाओं में निवेश करेंगे - एवी-गो",
-   "summary": "एमईबीएए शो 2026 बिजनेस एविएशन एमआरओ को फोकस में रखेगा क्योंकि यूएई और सऊदी अरब नई सुविधाओं में निवेश करेंगे - एवी-गो",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "एमईबीएए शो 2026 बिजनेस एविएशन एमआरओ को फोकस में रखेगा क्योंकि यूएई और सऊदी अरब नई सुविधाओं में निवेश करेंगे - एवी-गो।"
-    }
-   ],
-   "source": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:47:09Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "संयुक्त अरब अमीरात के पास अज्ञात प्रक्षेप्य की चपेट में आया थोक वाहक",
-   "summary": "संयुक्त अरब अमीरात के पास अज्ञात प्रक्षेप्य की चपेट में आया थोक वाहक",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "संयुक्त अरब अमीरात के पास अज्ञात प्रक्षेप्य की चपेट में आया थोक वाहक।"
-    }
-   ],
-   "source": "Ship & Bunker",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:08:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
    "label": "चीन",
    "lat": 35.0,
@@ -293,188 +214,245 @@
    "flag": "🇨🇳",
    "severity": "info",
    "category": "World",
-   "headline": "चीन अंतरिक्ष कार्यक्रम अपने पहले विदेशी नागरिक के रूप में पाकिस्तानी पायलट को उड़ाएगा",
-   "summary": "चीन अंतरिक्ष कार्यक्रम अपने पहले विदेशी नागरिक के रूप में पाकिस्तानी पायलट को उड़ाएगा",
+   "headline": "जिस क्षण चीनी अंतरिक्ष मिशन पहले पाकिस्तानी अंतरिक्ष यात्री के साथ रवाना हुआ",
+   "summary": "चीन ने अपने तियांगोंग अंतरिक्ष स्टेशन पर तीन अंतरिक्ष यात्रियों को लाने के लिए अपना शेनझोउ-24 अंतरिक्ष मिशन शुरू किया।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "चीन अंतरिक्ष कार्यक्रम अपने पहले विदेशी नागरिक के रूप में पाकिस्तानी पायलट को उड़ाएगा।"
+     "text": "जिस क्षण चीनी अंतरिक्ष मिशन पहले पाकिस्तानी अंतरिक्ष यात्री के साथ रवाना हुआ।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ठीक है, और क्या?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "चीन ने अपने तियांगोंग अंतरिक्ष स्टेशन पर तीन अंतरिक्ष यात्रियों को लाने के लिए अपना शेनझोउ-24 अंतरिक्ष मिशन शुरू किया।"
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T08:09:31Z",
+   "time": "2026-11-25T03:28:37Z",
    "countries": [
     "China",
     "Pakistan"
    ]
   },
   {
-   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
-   "country": "Libya",
-   "label": "लीबिया",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ब्रेंट क्रूड 90 डॉलर से तीन महीने के निचले स्तर पर गिरने से लीबिया पाइपलाइन ने तेल प्रवाह बहाल किया",
-   "summary": "ब्रेंट क्रूड 90 डॉलर से तीन महीने के निचले स्तर पर गिरने से लीबिया पाइपलाइन ने तेल प्रवाह बहाल किया",
+   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "country": "China",
+   "label": "चीन",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "बीबीसी वेरिफाई ने पाया कि चीन से जुड़ा नेटवर्क ताइवान के चुनाव उम्मीदवारों को बदनाम करने के लिए एआई का फर्जी इस्तेमाल कर रहा है",
+   "summary": "नेटवर्क ने राष्ट्रपति लाई और मेयर पद के उम्मीदवार शेन सहित सत्तारूढ़ डीपीपी के प्रमुख लोगों पर हमला किया।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ब्रेंट क्रूड के 90 डॉलर से तीन महीने के निचले स्तर पर गिरने से लीबिया पाइपलाइन ने तेल प्रवाह बहाल किया।"
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
-   "type": null,
-   "time": "2026-11-24T08:55:00Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "विदेशी ऋणदाता नियम सऊदी अरब: 2026 गाइड",
-   "summary": "विदेशी ऋणदाता नियम सऊदी अरब: 2026 गाइड",
-   "lines": [
+     "text": "बीबीसी वेरिफाई ने पाया कि चीन से जुड़ा नेटवर्क ताइवान के चुनाव उम्मीदवारों को बदनाम करने के लिए एआई का फर्जीवाड़ा कर रहा है।"
+    },
     {
-     "role": "OPERATOR",
-     "text": "विदेशी ऋणदाता नियम सऊदी अरब: 2026 गाइड।"
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "नेटवर्क ने राष्ट्रपति लाई और मेयर पद के उम्मीदवार शेन सहित सत्तारूढ़ डीपीपी के प्रमुख लोगों पर हमला किया।"
     }
    ],
-   "source": "Global Advisory Experts",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T06:28:42Z",
+   "time": "2026-11-24T23:05:11Z",
    "countries": [
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
-   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "पुर्तगाल, पाकिस्तान ने व्यापारिक संबंधों को बढ़ावा देने के लिए निवेश संरक्षण समझौते पर हस्ताक्षर किए",
-   "summary": "पुर्तगाल, पाकिस्तान ने व्यापारिक संबंधों को बढ़ावा देने के लिए निवेश संरक्षण समझौते पर हस्ताक्षर किए",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "इस्लामाबाद यूनाइटेड ने मैट हेनरी को चुना, कराची किंग्स ने आदिल राशिद को पीएसएल 12 के लिए सीधे अनुबंध के रूप में सुरक्षित किया",
+   "summary": "इस्लामाबाद यूनाइटेड ने न्यूजीलैंड के तेज गेंदबाज मैट हेनरी के साथ अनुबंध किया है, जबकि कराची किंग्स ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने प्रमुख प्रत्यक्ष अनुबंध के रूप में इंग्लैंड के लेग स्पिनर आदिल राशिद की सेवाएं हासिल की हैं।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पुर्तगाल, पाकिस्तान ने व्यापारिक संबंधों को बढ़ावा देने के लिए निवेश संरक्षण समझौते पर हस्ताक्षर किए।"
+     "text": "इस्लामाबाद यूनाइटेड ने मैट हेनरी को चुना, कराची किंग्स ने आदिल राशिद को पीएसएल 12 के लिए सीधे अनुबंध के रूप में सुरक्षित किया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "इस्लामाबाद यूनाइटेड ने न्यूजीलैंड के तेज गेंदबाज मैट हेनरी के साथ अनुबंध किया है, जबकि कराची किंग्स ने पाकिस्तान सुपर लीग (पीएसएल) के 12वें संस्करण के लिए अपने प्रमुख प्रत्यक्ष अनुबंध के रूप में इंग्लैंड के लेग स्पिनर आदिल राशिद की सेवाएं हासिल की हैं।"
     }
    ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
    "type": null,
-   "time": "2026-11-24T07:05:18Z",
+   "time": "2026-11-24T17:50:48Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "america-serves-up-football-on-thanksgiving",
+   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
+   "country": "Iraq",
+   "label": "इराक",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "इराक ने तेल तस्करों को निशाना बनाया, कुर्दिश तेल क्षेत्र पर कब्ज़ा करने का आदेश दिया",
+   "summary": "इराक के प्रधान मंत्री अली अल-जैदी ने संघीय बलों को कुर्द-नियंत्रित क्षेत्रों में तेल क्षेत्रों पर नियंत्रण लेने का आदेश दिया है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "इराक ने तेल तस्करों को निशाना बनाया, कुर्दिश तेल क्षेत्र पर कब्ज़ा करने का आदेश दिया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "इराक के प्रधान मंत्री अली अल-जैदी ने संघीय बलों को कुर्द-नियंत्रित क्षेत्रों में तेल क्षेत्रों पर नियंत्रण लेने का आदेश दिया है।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T20:18:19Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "turkish-military-helicopter-crash-kills-five-in-",
+   "country": "Turkey",
+   "label": "टर्की",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "पश्चिमी तुर्किये में तुर्की सैन्य हेलीकॉप्टर दुर्घटना में पांच की मौत",
+   "summary": "सेना के एक और घातक हेलीकॉप्टर दुर्घटना के कुछ दिनों बाद रक्षा मंत्रालय ने दुर्घटना के कारण के बारे में विस्तार से नहीं बताया।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पश्चिमी तुर्किये में तुर्की सैन्य हेलीकॉप्टर दुर्घटना में पांच की मौत।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "सेना के एक और घातक हेलीकॉप्टर दुर्घटना के कुछ दिनों बाद रक्षा मंत्रालय ने दुर्घटना के कारण के बारे में विस्तार से नहीं बताया।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T19:52:21Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "five-women-killed-each-hour-by-relatives-in-2025",
    "country": "United States of America",
    "label": "संयुक्त राज्य अमेरिका",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "अमेरिका थैंक्सगिविंग पर फुटबॉल परोसता है",
-   "summary": "अमेरिका थैंक्सगिविंग पर फुटबॉल परोसता है",
+   "severity": "critical",
+   "category": "World",
+   "headline": "2025 में रिश्तेदारों द्वारा हर घंटे पांच महिलाओं की हत्या: संयुक्त राष्ट्र",
+   "summary": "संयुक्त राष्ट्र: मंगलवार को प्रकाशित संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, 2025 में दुनिया भर में रिश्तेदारों द्वारा 47,000 से अधिक महिलाओं और लड़कियों, या प्रति घंटे लगभग पांच, की हत्या कर दी गई, यह आंकड़ा पिछले वर्षों की तुलना में मोटे तौर पर अपरिवर्तित है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "अमेरिका थैंक्सगिविंग पर फुटबॉल परोसता है।"
+     "text": "2025 में रिश्तेदारों द्वारा हर घंटे पांच महिलाओं की हत्या: संयुक्त राष्ट्र।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "संयुक्त राष्ट्र: मंगलवार को प्रकाशित संयुक्त राष्ट्र की एक रिपोर्ट के अनुसार, 2025 में दुनिया भर में रिश्तेदारों द्वारा 47,000 से अधिक महिलाओं और लड़कियों, या प्रति घंटे लगभग पांच, की हत्या कर दी गई, यह आंकड़ा पिछले वर्षों की तुलना में मोटे तौर पर अपरिवर्तित है।"
     }
    ],
-   "source": "U.S. Embassy & Consulates in Russia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
    "type": null,
-   "time": "2026-11-24T10:17:54Z",
+   "time": "2026-11-25T01:41:20Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
-   "country": "Yemen",
-   "label": "यमन",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "यमन के होदेइदाह पर हवाई हमले में 17 की मौत: हौथी मीडिया",
-   "summary": "यमन के होदेइदाह पर हवाई हमले में 17 की मौत: हौथी मीडिया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "यमन के होदेइदाह पर हवाई हमले में 17 की मौत: हौथी मीडिया।"
-    }
-   ],
-   "source": "巴士的報",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:47:19Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "thousands-protest-in-karachi-against-asim-munir-",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान को फिर से बनाने के असीम मुनीर के दांव के खिलाफ कराची में हजारों लोगों ने विरोध प्रदर्शन किया",
-   "summary": "पाकिस्तान को फिर से बनाने के असीम मुनीर के दांव के खिलाफ कराची में हजारों लोगों ने विरोध प्रदर्शन किया",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान को फिर से बनाने के असीम मुनीर के दांव के खिलाफ कराची में हजारों लोगों ने विरोध प्रदर्शन किया।"
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:57:09Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
-   "country": "South Africa",
-   "label": "दक्षिण अफ़्रीका",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
+   "country": "United States of America",
+   "label": "संयुक्त राज्य अमेरिका",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "डीआर कांगो का कहना है कि सैन्य विमान लापता है क्योंकि विद्रोहियों ने विमान को मार गिराने का दावा किया है",
-   "summary": "कथित तौर पर गिराए गए विमान में सवार लोगों में एक दक्षिण अफ़्रीकी लड़ाकू पायलट और एक युगांडा अधिकारी भी शामिल हैं।",
+   "headline": "थॉमस मार्कल पर अमेरिका में बाल यौन शोषण की तस्वीरें रखने का आरोप लगाया गया",
+   "summary": "लॉस एंजिल्स में कथित तौर पर किराए पर ली गई एक भंडारण इकाई की तलाशी के बाद दुरुपयोग सामग्री का खुलासा होने के बाद एफबीआई ने 6 नवंबर को मार्कल को गिरफ्तार कर लिया।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "डीआर कांगो का कहना है कि सैन्य विमान लापता है क्योंकि विद्रोहियों ने विमान को मार गिराने का दावा किया है।"
+     "text": "थॉमस मार्कल पर अमेरिका में बाल यौन शोषण की तस्वीरें रखने का आरोप लगाया गया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "अब क्या स्थिति है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "लॉस एंजिल्स में कथित तौर पर किराए पर ली गई एक भंडारण इकाई की तलाशी के बाद दुरुपयोग सामग्री का खुलासा होने के बाद एफबीआई ने 6 नवंबर को मार्कल को गिरफ्तार कर लिया।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T01:40:42Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "clashing-political-visions-reflect-a-divided-spa",
+   "country": "Spain",
+   "label": "स्पेन",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "परस्पर विरोधी राजनीतिक दृष्टिकोण चुनाव से पहले विभाजित स्पेन को दर्शाते हैं",
+   "summary": "रविवार के चुनाव में पहली बार किसी धुर दक्षिणपंथी पार्टी को स्पेन की सरकार में शामिल होते देखा जा सकता है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "परस्पर विरोधी राजनीतिक दृष्टिकोण चुनाव से पहले विभाजित स्पेन को दर्शाते हैं।"
     },
     {
      "role": "COMMANDER",
@@ -482,15 +460,151 @@
     },
     {
      "role": "ANALYST",
-     "text": "कथित तौर पर गिराए गए विमान में सवार लोगों में एक दक्षिण अफ़्रीकी लड़ाकू पायलट और एक युगांडा अधिकारी भी शामिल हैं।"
+     "text": "रविवार के चुनाव में पहली बार किसी धुर दक्षिणपंथी पार्टी को स्पेन की सरकार में शामिल होते देखा जा सकता है।"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T10:48:27Z",
+   "time": "2026-11-25T00:58:34Z",
    "countries": [
-    "South Africa"
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-air-strike-kills-hamas-internal-security",
+   "country": "Palestine",
+   "label": "फ़िलिस्तीन",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "गाजा में इजरायली हवाई हमले में हमास के आंतरिक सुरक्षा प्रमुख की मौत",
+   "summary": "नईम अबू नाहेल, जो दो महीने से इस पद पर थे, मंगलवार को कथित तौर पर इजरायली हमलों में मारे गए सात फिलिस्तीनियों में से एक हैं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "गाजा में इजरायली हवाई हमले में हमास के आंतरिक सुरक्षा प्रमुख की मौत।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "नईम अबू नाहेल, जो दो महीने से इस पद पर थे, मंगलवार को कथित तौर पर इजरायली हमलों में मारे गए सात फिलिस्तीनियों में से एक हैं।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:35:53Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
+   "country": "Japan",
+   "label": "जापान",
+   "lat": 36.2,
+   "lon": 138.3,
+   "flag": "🇯🇵",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "एआई बूम पर संदेह मंडराने से एशिया के शेयर बाजारों में गिरावट आई",
+   "summary": "नवीनतम तकनीक आधारित बिकवाली के कारण जापान, दक्षिण कोरिया और ताइवान में बाज़ारों में भारी गिरावट आई है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "एआई बूम पर संदेह मंडराने से एशिया के शेयर बाजारों में गिरावट आई।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कीमतों के लिए इसका क्या मतलब है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "नवीनतम तकनीक आधारित बिकवाली के कारण जापान, दक्षिण कोरिया और ताइवान में बाज़ारों में भारी गिरावट आई है।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T03:31:59Z",
+   "countries": [
+    "Japan",
+    "South Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
+   "country": "Syria",
+   "label": "सीरिया",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "युद्ध के दो साल बाद सीरिया में बारूदी सुरंगों से हताहतों की संख्या बढ़ी",
+   "summary": "आंकड़ों से पता चलता है कि संघर्ष के दौरान बचे विस्फोटकों से मारे गए या घायल हुए लोगों में लगभग 1,000 बच्चे शामिल हैं।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "युद्ध के दो साल बाद सीरिया में बारूदी सुरंगों से हताहतों की संख्या बढ़ी।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "इसके पीछे कौन है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "आंकड़ों से पता चलता है कि संघर्ष के दौरान बचे विस्फोटकों से मारे गए या घायल हुए लोगों में लगभग 1,000 बच्चे शामिल हैं।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:17:28Z",
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
+   "country": "South Korea",
+   "label": "दक्षिण कोरिया",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "high",
+   "category": "World",
+   "headline": "रूसी जेट विमानों ने दक्षिण कोरिया में हवाई हमले की चेतावनी दी",
+   "summary": "दक्षिण कोरिया के निवासियों से आश्रय लेने का आग्रह किया गया क्योंकि मंगलवार को रूसी सैन्य जेट उसके हवाई क्षेत्र के पास पहुंचे।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "रूसी जेट विमानों ने दक्षिण कोरिया में हवाई हमले की चेतावनी दी।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "यह कितना गंभीर है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "दक्षिण कोरिया के निवासियों से आश्रय लेने का आग्रह किया गया क्योंकि मंगलवार को रूसी सैन्य जेट उसके हवाई क्षेत्र के पास पहुंचे।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T21:14:57Z",
+   "countries": [
+    "South Korea",
+    "Russia"
    ]
   }
  ]

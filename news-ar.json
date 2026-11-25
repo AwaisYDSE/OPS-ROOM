@@ -1,184 +1,124 @@
 {
- "updated": "2026-11-24T11:03:57.209365Z",
+ "updated": "2026-11-25T04:38:59.858114Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
+   "id": "cashless-divide",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "الباكستاني زيشان علي يستعد لرحلة تاريخية إلى محطة الفضاء الصينية",
-   "summary": "وسيقضي طيار القوات الجوية الباكستانية حوالي أسبوع على متن السفينة تيانجونج، لإجراء تجارب مع الطاقم الصيني.",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "تقسيم غير نقدي",
+   "summary": "تخيل امرأة في إسلام أباد تصل إلى مكتب حكومي لدفع الرسوم. لديها المال، ولكن ليس لديها حساب مصرفي ولا هاتف ذكي خاص بها. العداد لم يعد يقبل النقد. يوجهها المسؤول نحو رمز الاستجابة السريعة.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الباكستاني زيشان علي يستعد لرحلة تاريخية إلى محطة الفضاء الصينية."
+     "text": "تقسيم غير نقدي."
     },
     {
      "role": "COMMANDER",
-     "text": "ما هو التأثير؟"
+     "text": "هل هناك ضحايا؟"
     },
     {
      "role": "ANALYST",
-     "text": "وسيقضي طيار القوات الجوية الباكستانية حوالي أسبوع على متن السفينة تيانجونج، لإجراء تجارب مع الطاقم الصيني."
+     "text": "تخيل امرأة في إسلام أباد تصل إلى مكتب حكومي لدفع الرسوم. لديها المال، ولكن ليس لديها حساب مصرفي ولا هاتف ذكي خاص بها. العداد لم يعد يقبل النقد. يوجهها المسؤول نحو رمز الاستجابة السريعة."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046934/cashless-divide",
    "type": null,
-   "time": "2026-11-24T07:55:18Z",
+   "time": "2026-11-25T04:12:44Z",
    "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "china-unveils-new-space-mission-crew-with-a-paki",
-   "country": "China",
-   "label": "الصين",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "كشفت الصين النقاب عن طاقم مهمة فضائية جديد، ومن المقرر أن يصعد رائد فضاء باكستاني إلى محطتها الفضائية",
-   "summary": "كشفت الصين النقاب عن طاقم مهمة فضائية جديد، ومن المقرر أن يصعد رائد فضاء باكستاني إلى محطتها الفضائية",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الصين تكشف عن طاقم مهمة فضائية جديد، ومن المقرر أن يصعد رائد فضاء باكستاني إلى محطتها الفضائية."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
-   "type": null,
-   "time": "2026-11-24T05:51:00Z",
-   "countries": [
-    "China",
     "Pakistan"
    ]
   },
   {
-   "id": "oil-touches-three-month-lows-as-rising-supply-of",
-   "country": "Iran",
-   "label": "مضيق هرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "النفط يلامس أدنى مستوياته في ثلاثة أشهر حيث يعوض ارتفاع العرض تهديد هرمز",
-   "summary": "النفط يلامس أدنى مستوياته في ثلاثة أشهر حيث يعوض ارتفاع العرض تهديد هرمز",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "النفط يلامس أدنى مستوياته في ثلاثة أشهر حيث يعوض ارتفاع العرض تهديد هرمز."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-   "type": null,
-   "time": "2026-11-24T02:56:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "مقتل 11 شخصا في حادث تصادم حافلة وشاحنة في رأس الخيمة بالإمارات",
-   "summary": "مقتل 11 شخصا في حادث تصادم حافلة وشاحنة في رأس الخيمة بالإمارات",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "مقتل 11 شخصا في حادث تصادم حافلة وشاحنة في رأس الخيمة بالإمارات."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
-   "type": null,
-   "time": "2026-11-24T07:20:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "وتصر إيران على عدم إجراء محادثات مع الولايات المتحدة حتى يتم استيفاء شروطها السبعة، وغيرها من أخبار الشرق الأوسط",
-   "summary": "وتصر إيران على عدم إجراء محادثات مع الولايات المتحدة حتى يتم استيفاء شروطها السبعة، وغيرها من أخبار الشرق الأوسط",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تصر إيران على عدم إجراء محادثات مع الولايات المتحدة حتى يتم استيفاء شروطها السبعة، وغيرها من أخبار الشرق الأوسط."
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:40:56Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "البحرية الإيرانية تقول إن ناقلتين اشتعلتا في مضيق هرمز",
-   "summary": "البحرية الإيرانية تقول إن ناقلتين اشتعلتا في مضيق هرمز",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "البحرية الإيرانية تقول إن ناقلتين اشتعلتا في مضيق هرمز."
-    }
-   ],
-   "source": "thenationalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-24T10:52:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
-   "country": "Libya",
-   "label": "ليبيا",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "poll-finds-us-voters-want-government-to-end-iran",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "أكدت أوكرانيا أنها استخدمت طائرات بحرية بدون طيار لضرب سفينتين روسيتين قبالة ليبيا",
-   "summary": "وقال الرئيس زيلينسكي إن سفينة حربية روسية غرقت، كما أصيبت سفينة شحن روسية.",
+   "headline": "أظهر الاستطلاع أن الناخبين الأمريكيين يريدون من الحكومة إنهاء حرب إيران بغض النظر عن الشروط",
+   "summary": "ووجد استطلاع جديد أن 55% من الناخبين، بما في ذلك 80% من الديمقراطيين، يريدون إنهاء الحرب على الفور.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أوكرانيا تؤكد أنها استخدمت طائرات بحرية بدون طيار لضرب سفينتين روسيتين قبالة ليبيا."
+     "text": "أظهر الاستطلاع أن الناخبين الأمريكيين يريدون من الحكومة إنهاء حرب إيران بغض النظر عن الشروط."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ووجد استطلاع جديد أن 55% من الناخبين، بما في ذلك 80% من الديمقراطيين، يريدون إنهاء الحرب على الفور."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T01:14:22Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "وتشير الأرقام الروسية الخاصة إلى مقتل ما يقرب من 500 ألف شخص في الحرب في أوكرانيا",
+   "summary": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "وتشير الأرقام الروسية إلى مقتل ما يقرب من 500 ألف شخص في الحرب في أوكرانيا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تكشف البيانات المسربة كيف أدى الغزو واسع النطاق لأوكرانيا إلى تغيير جذري في أنماط الوفيات في روسيا."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T00:56:51Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
+   "country": "Ukraine",
+   "label": "أوكرانيا",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "لقد ماتت عائلتي في أوكرانيا. ألقت أمي اللوم على قوات زيلينسكي",
+   "summary": "الصحفية في بي بي سي أناستاسيا غريبانوفا تحقق فيمن قتل والدها وأجدادها في الحرب.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "لقد ماتت عائلتي في أوكرانيا. ألقت أمي اللوم على قوات زيلينسكي."
     },
     {
      "role": "COMMANDER",
@@ -186,106 +126,87 @@
     },
     {
      "role": "ANALYST",
-     "text": "وقال الرئيس زيلينسكي إن سفينة حربية روسية غرقت، كما أصيبت سفينة شحن روسية."
+     "text": "الصحفية في بي بي سي أناستاسيا غريبانوفا تحقق فيمن قتل والدها وأجدادها في الحرب."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "source": "the truth is complicated",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T02:30:00Z",
+   "time": "2026-11-25T00:54:13Z",
    "countries": [
-    "Libya",
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   },
   {
-   "id": "israeli-minister-approves-return-of-flydubai-fli",
-   "country": "Israel",
-   "label": "إسرائيل",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "وزير إسرائيلي يوافق على عودة رحلات فلاي دبي إلى تل أبيب",
-   "summary": "ويعتمد الاستئناف النهائي لخط الناقل بين دبي وتل أبيب على موافقة السلطات الأمنية الإسرائيلية.",
+   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "الجمارك الباكستانية تضبط ما يقرب من كيلوغرام من الماريجوانا \"المتجهة إلى ملتان\" في كراتشي",
+   "summary": "قالت الجمارك الباكستانية يوم الثلاثاء إن مجمع الجمارك (المطارات) في كراتشي أحبط محاولة تهريب مخدرات وضبط 900 جرام من الماريجوانا أثناء المسح الروتيني في مكتب البريد الدولي (IMO).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "وزير إسرائيلي يوافق على عودة رحلات فلاي دبي إلى تل أبيب."
+     "text": "الجمارك الباكستانية تضبط ما يقرب من كيلوغرام من الماريجوانا \"المتجهة إلى ملتان\" في كراتشي."
     },
     {
      "role": "COMMANDER",
-     "text": "ما هو التأثير؟"
+     "text": "هل هناك ضحايا؟"
     },
     {
      "role": "ANALYST",
-     "text": "ويعتمد الاستئناف النهائي لخط الناقل بين دبي وتل أبيب على موافقة السلطات الأمنية الإسرائيلية."
+     "text": "قالت الجمارك الباكستانية يوم الثلاثاء إن مجمع الجمارك (المطارات) في كراتشي أحبط محاولة تهريب مخدرات وضبط 900 جرام من الماريجوانا أثناء المسح الروتيني في مكتب البريد الدولي (IMO)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+   "type": null,
+   "time": "2026-11-24T20:02:11Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "حرب إيران على الهواء مباشرة: التحالف الذي تقوده السعودية يضرب ميناء الحديدة اليمني",
+   "summary": "ويقول التحالف السعودي إن قواته استهدفت القدرات العملياتية في ميناء الحديدة وضربت مواقع في شمال اليمن.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "حرب إيران على الهواء مباشرة: التحالف الذي تقوده السعودية يضرب ميناء الحديدة اليمني."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويقول التحالف السعودي إن قواته استهدفت القدرات العملياتية في ميناء الحديدة وضربت مواقع في شمال اليمن."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T01:09:51Z",
+   "time": "2026-11-25T00:00:00Z",
    "countries": [
-    "Israel",
-    "United Arab Emirates"
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "معرض MEBAA 2026 يركز على الصيانة والإصلاح والعمرة لطيران الأعمال بينما تستثمر الإمارات العربية المتحدة والمملكة العربية السعودية في مرافق جديدة - Avi-Go",
-   "summary": "معرض MEBAA 2026 يركز على الصيانة والإصلاح والعمرة لطيران الأعمال بينما تستثمر الإمارات العربية المتحدة والمملكة العربية السعودية في مرافق جديدة - Avi-Go",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "معرض MEBAA 2026 يركز على الصيانة والإصلاح والعمرة لطيران الأعمال بينما تستثمر الإمارات العربية المتحدة والمملكة العربية السعودية في مرافق جديدة - Avi-Go."
-    }
-   ],
-   "source": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:47:09Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "إصابة ناقلة ضخمة بقذيفة مجهولة قبالة الإمارات",
-   "summary": "إصابة ناقلة ضخمة بقذيفة مجهولة قبالة الإمارات",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "إصابة ناقلة ضخمة بقذيفة مجهولة قبالة الإمارات."
-    }
-   ],
-   "source": "Ship & Bunker",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:08:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
    "label": "الصين",
    "lat": 35.0,
@@ -293,188 +214,245 @@
    "flag": "🇨🇳",
    "severity": "info",
    "category": "World",
-   "headline": "برنامج الفضاء الصيني سيطير بطيار باكستاني كأول أجنبي له",
-   "summary": "برنامج الفضاء الصيني سيطير بطيار باكستاني كأول أجنبي له",
+   "headline": "لحظة انطلاق مهمة فضائية صينية وعلى متنها أول رائد فضاء باكستاني",
+   "summary": "أطلقت الصين مهمتها الفضائية شنتشو-24 لإحضار ثلاثة رواد فضاء إلى محطة تيانجونج الفضائية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "برنامج الفضاء الصيني سيطير بطيار باكستاني كأول أجنبي له."
+     "text": "لحظة انطلاق مهمة فضائية صينية وعلى متنها أول رائد فضاء باكستاني."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "حسنًا، ماذا أيضًا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "أطلقت الصين مهمتها الفضائية شنتشو-24 لإحضار ثلاثة رواد فضاء إلى محطة تيانجونج الفضائية."
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T08:09:31Z",
+   "time": "2026-11-25T03:28:37Z",
    "countries": [
     "China",
     "Pakistan"
    ]
   },
   {
-   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
-   "country": "Libya",
-   "label": "ليبيا",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "خط أنابيب ليبيا يستعيد تدفق النفط مع انخفاض خام برنت إلى أقل من 90 دولارًا إلى أدنى مستوى له في ثلاثة أشهر",
-   "summary": "خط أنابيب ليبيا يستعيد تدفق النفط مع انخفاض خام برنت إلى أقل من 90 دولارًا إلى أدنى مستوى له في ثلاثة أشهر",
+   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "country": "China",
+   "label": "الصين",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "شبكة مرتبطة بالصين تستخدم الذكاء الاصطناعي المزيف لتشويه سمعة المرشحين لانتخابات تايوان، حسبما وجدت بي بي سي تحقق",
+   "summary": "وهاجمت الشبكة شخصيات رئيسية في الحزب الديمقراطي التقدمي الحاكم، بما في ذلك الرئيس لاي والمرشح لمنصب رئيس البلدية شين.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "خط أنابيب ليبيا يستعيد تدفق النفط مع انخفاض خام برنت إلى أقل من 90 دولارًا إلى أدنى مستوى له في ثلاثة أشهر."
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
-   "type": null,
-   "time": "2026-11-24T08:55:00Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "قواعد المقرضين الأجانب في المملكة العربية السعودية: دليل 2026",
-   "summary": "قواعد المقرضين الأجانب في المملكة العربية السعودية: دليل 2026",
-   "lines": [
+     "text": "شبكة مرتبطة بالصين تستخدم الذكاء الاصطناعي المزيف لتشويه سمعة مرشحي انتخابات تايوان، حسبما وجدت بي بي سي تحقق."
+    },
     {
-     "role": "OPERATOR",
-     "text": "قواعد المقرضين الأجانب في المملكة العربية السعودية: دليل 2026."
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وهاجمت الشبكة شخصيات رئيسية في الحزب الديمقراطي التقدمي الحاكم، بما في ذلك الرئيس لاي والمرشح لمنصب رئيس البلدية شين."
     }
    ],
-   "source": "Global Advisory Experts",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T06:28:42Z",
+   "time": "2026-11-24T23:05:11Z",
    "countries": [
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
-   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "البرتغال وباكستان توقعان اتفاقية حماية الاستثمار لتعزيز العلاقات التجارية",
-   "summary": "البرتغال وباكستان توقعان اتفاقية حماية الاستثمار لتعزيز العلاقات التجارية",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "إسلام أباد يونايتد يستحوذ على مات هنري، ويؤمن كراتشي كينغز عادل رشيد كتعاقدات مباشرة لـ PSL 12",
+   "summary": "تعاقد إسلام أباد يونايتد مع لاعب البولينغ النيوزيلندي السريع مات هنري، في حين حصل فريق كراتشي كينغز على خدمات اللاعب الإنجليزي عادل رشيد باعتباره توقيعهم المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "البرتغال وباكستان توقعان اتفاقية حماية الاستثمار لتعزيز العلاقات التجارية."
+     "text": "إسلام أباد يونايتد يستحوذ على مات هنري، ويؤمن كراتشي كينغز عادل رشيد كتعاقدات مباشرة لـ PSL 12."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تعاقد إسلام أباد يونايتد مع لاعب البولينغ النيوزيلندي السريع مات هنري، في حين حصل فريق كراتشي كينغز على خدمات اللاعب الإنجليزي عادل رشيد باعتباره توقيعهم المباشر للنسخة الثانية عشرة من الدوري الباكستاني الممتاز (PSL)."
     }
    ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
    "type": null,
-   "time": "2026-11-24T07:05:18Z",
+   "time": "2026-11-24T17:50:48Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "america-serves-up-football-on-thanksgiving",
+   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
+   "country": "Iraq",
+   "label": "العراق",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "العراق يستهدف مهربي النفط ويأمر بالاستيلاء على حقل نفط كردي",
+   "summary": "أمر رئيس الوزراء العراقي علي الزيدي القوات الاتحادية بالسيطرة على حقول النفط في المناطق التي يسيطر عليها الأكراد.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "العراق يستهدف مهربي النفط ويأمر بالاستيلاء على حقل نفط كردي"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا يعني بالنسبة للأسعار؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "أمر رئيس الوزراء العراقي علي الزيدي القوات الاتحادية بالسيطرة على حقول النفط في المناطق التي يسيطر عليها الأكراد."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T20:18:19Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "turkish-military-helicopter-crash-kills-five-in-",
+   "country": "Turkey",
+   "label": "تركيا",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "مقتل خمسة أشخاص في تحطم مروحية عسكرية تركية غربي تركيا",
+   "summary": "ولم توضح وزارة الدفاع سبب الحادث، بعد أيام من حادث مروحية عسكرية مميت آخر.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مقتل خمسة أشخاص في تحطم مروحية عسكرية تركية غربي تركيا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ولم توضح وزارة الدفاع سبب الحادث، بعد أيام من حادث مروحية عسكرية مميت آخر."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T19:52:21Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "five-women-killed-each-hour-by-relatives-in-2025",
    "country": "United States of America",
    "label": "الولايات المتحدة",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "أمريكا تخدم كرة القدم في عيد الشكر",
-   "summary": "أمريكا تخدم كرة القدم في عيد الشكر",
+   "severity": "critical",
+   "category": "World",
+   "headline": "الأمم المتحدة: خمس نساء يقتلن كل ساعة على يد أقاربهن في عام 2025",
+   "summary": "الأمم المتحدة: قُتلت أكثر من 47 ألف امرأة وفتاة، أي حوالي خمس نساء وفتاة في الساعة، على أيدي أقاربهن في جميع أنحاء العالم في عام 2025، وهو رقم لم يتغير إلى حد كبير عن السنوات السابقة، وفقًا لتقرير للأمم المتحدة نُشر يوم الثلاثاء.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أمريكا تخدم كرة القدم في عيد الشكر."
+     "text": "الأمم المتحدة: خمس نساء يقتلن كل ساعة على يد أقاربهن في عام 2025"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "الأمم المتحدة: قُتلت أكثر من 47 ألف امرأة وفتاة، أي حوالي خمس نساء وفتاة في الساعة، على أيدي أقاربهن في جميع أنحاء العالم في عام 2025، وهو رقم لم يتغير إلى حد كبير عن السنوات السابقة، وفقًا لتقرير للأمم المتحدة نُشر يوم الثلاثاء."
     }
    ],
-   "source": "U.S. Embassy & Consulates in Russia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
    "type": null,
-   "time": "2026-11-24T10:17:54Z",
+   "time": "2026-11-25T01:41:20Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "إعلام الحوثي: مقتل 17 شخصا في غارات جوية على الحديدة باليمن",
-   "summary": "إعلام الحوثي: مقتل 17 شخصا في غارات جوية على الحديدة باليمن",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "إعلام الحوثي: مقتل 17 شخصا في غارات جوية على الحديدة باليمن"
-    }
-   ],
-   "source": "巴士的報",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:47:19Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "thousands-protest-in-karachi-against-asim-munir-",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "الآلاف يتظاهرون في كراتشي ضد مقامرة عاصم منير لإعادة رسم باكستان",
-   "summary": "الآلاف يتظاهرون في كراتشي ضد مقامرة عاصم منير لإعادة رسم باكستان",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الآلاف يتظاهرون في كراتشي ضد مقامرة عاصم منير لإعادة رسم باكستان."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:57:09Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
-   "country": "South Africa",
-   "label": "جنوب أفريقيا",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
+   "country": "United States of America",
+   "label": "الولايات المتحدة",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "الكونغو الديمقراطية تقول إن طائرة عسكرية فقدت بينما أعلن المتمردون إسقاط الطائرة",
-   "summary": "وبحسب ما ورد كان طيار مقاتل من جنوب إفريقيا وضابط أوغندي من بين من كانوا على متن الطائرة التي أسقطت.",
+   "headline": "اتهام توماس ماركل في الولايات المتحدة بحيازة صور اعتداء جنسي على أطفال",
+   "summary": "اعتقل مكتب التحقيقات الفيدرالي ماركل في 6 نوفمبر بعد أن كشف تفتيش وحدة تخزين زُعم أنه استأجرها في لوس أنجلوس عن مواد إساءة الاستخدام.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الكونغو الديمقراطية تقول إن طائرة عسكرية فقدت بينما أعلن المتمردون أنهم أسقطوا الطائرة."
+     "text": "اتهام توماس ماركل في الولايات المتحدة بحيازة صور اعتداء جنسي على أطفال."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو الوضع الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "اعتقل مكتب التحقيقات الفيدرالي ماركل في 6 نوفمبر بعد أن كشف تفتيش وحدة تخزين زُعم أنه استأجرها في لوس أنجلوس عن مواد إساءة الاستخدام."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T01:40:42Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "clashing-political-visions-reflect-a-divided-spa",
+   "country": "Spain",
+   "label": "اسبانيا",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "تعكس الرؤى السياسية المتضاربة انقسام إسبانيا قبل الانتخابات",
+   "summary": "وقد تشهد انتخابات الأحد دخول حزب يميني متطرف إلى الحكومة الإسبانية للمرة الأولى.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "تعكس الرؤى السياسية المتضاربة انقسام إسبانيا قبل الانتخابات."
     },
     {
      "role": "COMMANDER",
@@ -482,15 +460,151 @@
     },
     {
      "role": "ANALYST",
-     "text": "وبحسب ما ورد كان طيار مقاتل من جنوب إفريقيا وضابط أوغندي من بين من كانوا على متن الطائرة التي أسقطت."
+     "text": "وقد تشهد انتخابات الأحد دخول حزب يميني متطرف إلى الحكومة الإسبانية للمرة الأولى."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T10:48:27Z",
+   "time": "2026-11-25T00:58:34Z",
    "countries": [
-    "South Africa"
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-air-strike-kills-hamas-internal-security",
+   "country": "Palestine",
+   "label": "فلسطين",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "غارة جوية إسرائيلية تقتل رئيس الأمن الداخلي لحماس في غزة",
+   "summary": "وكان نعيم أبو نحل، الذي ظل في المنصب لمدة شهرين، من بين سبعة فلسطينيين قُتلوا في الغارات الإسرائيلية يوم الثلاثاء.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "غارة جوية إسرائيلية تقتل رئيس الأمن الداخلي لحماس في غزة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وكان نعيم أبو نحل، الذي ظل في المنصب لمدة شهرين، من بين سبعة فلسطينيين قُتلوا في الغارات الإسرائيلية يوم الثلاثاء."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:35:53Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
+   "country": "Japan",
+   "label": "اليابان",
+   "lat": 36.2,
+   "lon": 138.3,
+   "flag": "🇯🇵",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "أسواق الأسهم الآسيوية تتراجع مع تزايد الشكوك حول ازدهار الذكاء الاصطناعي",
+   "summary": "انخفضت الأسواق بشكل حاد في اليابان وكوريا الجنوبية وتايوان في أحدث عمليات البيع التي تقودها التكنولوجيا.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "أسواق الأسهم الآسيوية تتراجع مع تزايد الشكوك حول ازدهار الذكاء الاصطناعي"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا يعني بالنسبة للأسعار؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "انخفضت الأسواق بشكل حاد في اليابان وكوريا الجنوبية وتايوان في أحدث عمليات البيع التي تقودها التكنولوجيا."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T03:31:59Z",
+   "countries": [
+    "Japan",
+    "South Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
+   "country": "Syria",
+   "label": "سوريا",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ارتفاع ضحايا الألغام الأرضية في سوريا بعد عامين من الحرب",
+   "summary": "وتظهر الأرقام أن ما يقرب من 1000 طفل من بين القتلى والجرحى بسبب المتفجرات التي خلفتها الصراع.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ارتفاع ضحايا الألغام الأرضية في سوريا بعد عامين من الحرب."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "من يقف وراء ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وتظهر الأرقام أن ما يقرب من 1000 طفل من بين القتلى والجرحى بسبب المتفجرات التي خلفتها الصراع."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:17:28Z",
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
+   "country": "South Korea",
+   "label": "كوريا الجنوبية",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "high",
+   "category": "World",
+   "headline": "الطائرات الروسية تطلق إنذارا بغارة جوية في كوريا الجنوبية",
+   "summary": "تم حث سكان كوريا الجنوبية على البحث عن مأوى مع اقتراب الطائرات العسكرية الروسية من مجالها الجوي يوم الثلاثاء.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الطائرات الروسية تطلق إنذارا بغارة جوية في كوريا الجنوبية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما مدى جدية الأمر؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تم حث سكان كوريا الجنوبية على البحث عن مأوى مع اقتراب الطائرات العسكرية الروسية من مجالها الجوي يوم الثلاثاء."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T21:14:57Z",
+   "countries": [
+    "South Korea",
+    "Russia"
    ]
   }
  ]

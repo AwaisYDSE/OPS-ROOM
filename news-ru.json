@@ -1,184 +1,124 @@
 {
- "updated": "2026-11-24T11:03:57.209365Z",
+ "updated": "2026-11-25T04:38:59.858114Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
+   "id": "cashless-divide",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Пакистанец Зишан Али отправился в исторический полет на китайскую космическую станцию",
-   "summary": "Пилот ВВС Пакистана проведет на борту «Тяньгуна» около недели, проводя эксперименты с китайским экипажем.",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Безналичное деление",
+   "summary": "ПРЕДСТАВЬТЕ женщину из Исламабада, пришедшую в правительственное учреждение, чтобы заплатить пошлину. У нее есть деньги, но нет банковского счета и собственного смартфона. Касса больше не принимает наличные. Чиновник указывает ей на QR-код.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Зишан Али из Пакистана отправился в исторический полет на китайскую космическую станцию."
+     "text": "Безналичное деление."
     },
     {
      "role": "COMMANDER",
-     "text": "Каков эффект?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
-     "text": "Пилот ВВС Пакистана проведет на борту «Тяньгуна» около недели, проводя эксперименты с китайским экипажем."
+     "text": "ПРЕДСТАВЬТЕ женщину из Исламабада, пришедшую в правительственное учреждение, чтобы заплатить пошлину. У нее есть деньги, но нет банковского счета и собственного смартфона. Касса больше не принимает наличные. Чиновник указывает ей на QR-код."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046934/cashless-divide",
    "type": null,
-   "time": "2026-11-24T07:55:18Z",
+   "time": "2026-11-25T04:12:44Z",
    "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "china-unveils-new-space-mission-crew-with-a-paki",
-   "country": "China",
-   "label": "КИТАЙ",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "Китай представил новый экипаж космической миссии с пакистанским астронавтом на борту его космической станции",
-   "summary": "Китай представил новый экипаж космической миссии с пакистанским астронавтом на борту его космической станции",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Китай представляет новый экипаж космической миссии, на борт его космической станции собирается пакистанский астронавт."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
-   "type": null,
-   "time": "2026-11-24T05:51:00Z",
-   "countries": [
-    "China",
     "Pakistan"
    ]
   },
   {
-   "id": "oil-touches-three-month-lows-as-rising-supply-of",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Нефть достигла трехмесячного минимума, поскольку рост предложения компенсирует угрозу Ормуза",
-   "summary": "Нефть достигла трехмесячного минимума, поскольку рост предложения компенсирует угрозу Ормуза",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Нефть достигла трехмесячного минимума, поскольку рост предложения компенсирует угрозу Ормуза."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-   "type": null,
-   "time": "2026-11-24T02:56:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "В результате столкновения автобуса и грузовика в Рас-эль-Хайме в ОАЭ погибли 11 человек.",
-   "summary": "В результате столкновения автобуса и грузовика в Рас-эль-Хайме в ОАЭ погибли 11 человек.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В результате столкновения автобуса и грузовика в Рас-эль-Хайме в ОАЭ погибли 11 человек."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
-   "type": null,
-   "time": "2026-11-24T07:20:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "Иран настаивает на отсутствии переговоров с США до тех пор, пока не будут выполнены его 7 условий, и другие новости Ближнего Востока",
-   "summary": "Иран настаивает на отсутствии переговоров с США до тех пор, пока не будут выполнены его 7 условий, и другие новости Ближнего Востока",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Иран настаивает на том, чтобы не вести переговоры с США до тех пор, пока не будут выполнены его семь условий, а также другие новости Ближнего Востока."
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:40:56Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "ВМС Ирана заявили, что в Ормузском проливе загорелись два танкера",
-   "summary": "ВМС Ирана заявили, что в Ормузском проливе загорелись два танкера",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ВМС Ирана заявили, что в Ормузском проливе загорелись два танкера."
-    }
-   ],
-   "source": "thenationalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-24T10:52:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
-   "country": "Libya",
-   "label": "ЛИВИЯ",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "poll-finds-us-voters-want-government-to-end-iran",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "Украина подтверждает, что использовала военно-морские беспилотники для удара по двум российским кораблям у берегов Ливии",
-   "summary": "Президент Зеленский заявил, что российский военный корабль был потоплен, а также пострадал российский грузовой корабль.",
+   "headline": "Опрос показал, что избиратели США хотят, чтобы правительство положило конец войне с Ираном независимо от условий",
+   "summary": "Новое исследование показало, что 55 процентов избирателей, в том числе 80 процентов демократов, хотят немедленного прекращения войны.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Украина подтверждает, что использовала военно-морские беспилотники для нанесения удара по двум российским кораблям у берегов Ливии."
+     "text": "Опрос показал, что избиратели США хотят, чтобы правительство положило конец войне с Ираном независимо от условий."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Новое исследование показало, что 55 процентов избирателей, в том числе 80 процентов демократов, хотят немедленного прекращения войны."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T01:14:22Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "По данным России, в войне на Украине погибло почти 500 000 человек.",
+   "summary": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "По данным России, в войне на Украине погибло почти 500 000 человек."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Утечка данных показывает, как полномасштабное вторжение на Украину фундаментально изменило структуру смертности в России."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T00:56:51Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Моя семья умерла в Украине. Моя мама винила в этом войска Зеленского",
+   "summary": "Журналист BBC Анастасия Грибанова расследует, кто убил ее отца, бабушку и дедушку на войне.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Моя семья умерла в Украине. Моя мама винила в этом войска Зеленского."
     },
     {
      "role": "COMMANDER",
@@ -186,106 +126,87 @@
     },
     {
      "role": "ANALYST",
-     "text": "Президент Зеленский заявил, что российский военный корабль был потоплен, а также пострадал российский грузовой корабль."
+     "text": "Журналист BBC Анастасия Грибанова расследует, кто убил ее отца, бабушку и дедушку на войне."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "source": "the truth is complicated",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T02:30:00Z",
+   "time": "2026-11-25T00:54:13Z",
    "countries": [
-    "Libya",
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   },
   {
-   "id": "israeli-minister-approves-return-of-flydubai-fli",
-   "country": "Israel",
-   "label": "ИЗРАИЛЬ",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "Министр Израиля одобрил возвращение рейсов Flydubai в Тель-Авив",
-   "summary": "Окончательное возобновление маршрута перевозчика между Дубаем и Тель-Авивом зависит от одобрения органов безопасности Израиля.",
+   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Таможня Пакистана изъяла в Карачи почти 1 кг марихуаны, предназначенной для перевозки в Мултан",
+   "summary": "Таможенное управление (CoC) (аэропортов) в Карачи предотвратило попытку контрабанды наркотиков и изъяло 900 граммов марихуаны во время планового сканирования в Международном почтовом отделении (IMO), сообщила во вторник таможня Пакистана.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Израильский министр одобрил возвращение рейсов Flydubai в Тель-Авив."
+     "text": "Таможня Пакистана изъяла в Карачи почти 1 кг марихуаны, предназначенной для перевозки в Мултан."
     },
     {
      "role": "COMMANDER",
-     "text": "Каков эффект?"
+     "text": "Есть жертвы?"
     },
     {
      "role": "ANALYST",
-     "text": "Окончательное возобновление маршрута перевозчика между Дубаем и Тель-Авивом зависит от одобрения органов безопасности Израиля."
+     "text": "Таможенное управление (CoC) (аэропортов) в Карачи предотвратило попытку контрабанды наркотиков и изъяло 900 граммов марихуаны во время планового сканирования в Международном почтовом отделении (IMO), сообщила во вторник таможня Пакистана."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+   "type": null,
+   "time": "2026-11-24T20:02:11Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Война в Иране в прямом эфире: возглавляемая Саудовской Аравией коалиция нанесла удар по йеменскому порту Ходейда",
+   "summary": "Саудовская коалиция заявляет, что ее силы нанесли удары по оперативным объектам в порту Ходейда и объектам на севере Йемена.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Война в Иране в прямом эфире: возглавляемая Саудовской Аравией коалиция наносит удар по йеменскому порту Ходейда."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Саудовская коалиция заявляет, что ее силы нанесли удары по оперативным объектам в порту Ходейда и объектам на севере Йемена."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T01:09:51Z",
+   "time": "2026-11-25T00:00:00Z",
    "countries": [
-    "Israel",
-    "United Arab Emirates"
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Выставка MEBAA 2026 будет посвящена техническому обслуживанию и ремонту бизнес-авиации, поскольку ОАЭ и Саудовская Аравия инвестируют в новые мощности - Avi-Go",
-   "summary": "Выставка MEBAA 2026 будет посвящена техническому обслуживанию и ремонту бизнес-авиации, поскольку ОАЭ и Саудовская Аравия инвестируют в новые мощности - Avi-Go",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Выставка MEBAA 2026 будет посвящена ТОиР деловой авиации, поскольку ОАЭ и Саудовская Аравия инвестируют в новые мощности - Avi-Go."
-    }
-   ],
-   "source": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:47:09Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Балкер сбит неизвестным снарядом у берегов ОАЭ",
-   "summary": "Балкер сбит неизвестным снарядом у берегов ОАЭ",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Балкер сбит неизвестным снарядом у берегов ОАЭ."
-    }
-   ],
-   "source": "Ship & Bunker",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:08:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
    "label": "КИТАЙ",
    "lat": 35.0,
@@ -293,188 +214,245 @@
    "flag": "🇨🇳",
    "severity": "info",
    "category": "World",
-   "headline": "Китайская космическая программа полетит пакистанским пилотом в качестве своего первого иностранца",
-   "summary": "Китайская космическая программа полетит пакистанским пилотом в качестве своего первого иностранца",
+   "headline": "Момент старта китайской космической миссии с первым пакистанским космонавтом на борту",
+   "summary": "Китай запустил космическую миссию «Шэньчжоу-24», чтобы доставить трех астронавтов на свою космическую станцию «Тяньгун».",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Китайская космическая программа отправит пакистанского пилота в качестве своего первого иностранца."
+     "text": "Момент старта китайской космической миссии с первым пакистанским космонавтом на борту."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Хорошо, что еще?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Китай запустил космическую миссию «Шэньчжоу-24», чтобы доставить трех астронавтов на свою космическую станцию ​​«Тяньгун»."
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T08:09:31Z",
+   "time": "2026-11-25T03:28:37Z",
    "countries": [
     "China",
     "Pakistan"
    ]
   },
   {
-   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
-   "country": "Libya",
-   "label": "ЛИВИЯ",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Ливийский трубопровод восстанавливает поток нефти, поскольку нефть Brent упала ниже 90 долларов до трехмесячного минимума",
-   "summary": "Ливийский трубопровод восстанавливает поток нефти, поскольку нефть Brent упала ниже 90 долларов до трехмесячного минимума",
+   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "country": "China",
+   "label": "КИТАЙ",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Связанная с Китаем сеть использует фейки искусственного интеллекта для очернения тайваньских кандидатов на выборах, обнаруживает BBC Verify",
+   "summary": "Сеть атаковала ключевых фигур правящей ДПП, в том числе президента Лая и кандидата в мэры Шэня.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ливийский трубопровод восстанавливает поток нефти, поскольку нефть Brent упала ниже 90 долларов до трехмесячного минимума."
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
-   "type": null,
-   "time": "2026-11-24T08:55:00Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Правила для иностранных кредиторов Саудовская Аравия: руководство к 2026 году",
-   "summary": "Правила для иностранных кредиторов Саудовская Аравия: руководство к 2026 году",
-   "lines": [
+     "text": "Связанная с Китаем сеть использует фейки искусственного интеллекта для очернения тайваньских кандидатов на выборах, как обнаружила BBC Verify."
+    },
     {
-     "role": "OPERATOR",
-     "text": "Правила для иностранных кредиторов Саудовская Аравия: Руководство на 2026 год."
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Сеть атаковала ключевых фигур правящей ДПП, в том числе президента Лая и кандидата в мэры Шэня."
     }
    ],
-   "source": "Global Advisory Experts",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T06:28:42Z",
+   "time": "2026-11-24T23:05:11Z",
    "countries": [
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
-   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Португалия и Пакистан подписали соглашение о защите инвестиций для укрепления деловых связей",
-   "summary": "Португалия и Пакистан подписали соглашение о защите инвестиций для укрепления деловых связей",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "«Исламабад Юнайтед» приобрел Мэтта Генри, «Карачи Кингз» заключил контракт с Адилем Рашидом в качестве прямых подписчиков на PSL 12",
+   "summary": "«Исламабад Юнайтед» подписал новозеландского быстрого боулера Мэтта Генри, а «Карачи Кингз» заручились услугами игрока из Англии Адиля Рашида в качестве своего главного прямого игрока на 12-м чемпионате Пакистанской Суперлиги (PSL).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Португалия и Пакистан подписывают соглашение о защите инвестиций для укрепления деловых связей."
+     "text": "«Исламабад Юнайтед» приобрел Мэтта Генри, «Карачи Кингз» заключил контракт с Адилем Рашидом в качестве прямого контракта на PSL 12."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "«Исламабад Юнайтед» подписал новозеландского быстрого боулера Мэтта Генри, а «Карачи Кингз» заручились услугами игрока из Англии Адиля Рашида в качестве своего главного прямого игрока на 12-м чемпионате Пакистанской Суперлиги (PSL)."
     }
    ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
    "type": null,
-   "time": "2026-11-24T07:05:18Z",
+   "time": "2026-11-24T17:50:48Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "america-serves-up-football-on-thanksgiving",
+   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
+   "country": "Iraq",
+   "label": "ИРАК",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Ирак преследует контрабандистов нефти и приказывает курдам захватить нефтяные месторождения",
+   "summary": "Премьер-министр Ирака Али аль-Заиди приказал федеральным силам взять под контроль нефтяные месторождения на территориях, контролируемых курдами.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ирак преследует контрабандистов нефти и приказывает курдам захватить нефтяные месторождения."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Премьер-министр Ирака Али аль-Заиди приказал федеральным силам взять под контроль нефтяные месторождения на территориях, контролируемых курдами."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T20:18:19Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "turkish-military-helicopter-crash-kills-five-in-",
+   "country": "Turkey",
+   "label": "ТУРЦИЯ",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "В результате крушения турецкого военного вертолета на западе Турции погибли пять человек",
+   "summary": "Министерство обороны не уточнило причину крушения спустя несколько дней после еще одного смертельного крушения армейского вертолета.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В результате крушения турецкого военного вертолета на западе Турции погибли пять человек."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Министерство обороны не уточнило причину крушения спустя несколько дней после еще одного смертельного крушения армейского вертолета."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T19:52:21Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "five-women-killed-each-hour-by-relatives-in-2025",
    "country": "United States of America",
    "label": "СОЕДИНЕННЫЕ ШТАТЫ",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Америка подает футбол на День Благодарения",
-   "summary": "Америка подает футбол на День Благодарения",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Пять женщин, убитых родственниками каждый час в 2025 году: ООН",
+   "summary": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Согласно докладу ООН, опубликованному во вторник, в 2025 году по всему миру родственниками были убиты более 47 000 женщин и девочек, или около пяти в час, и эта цифра практически не изменилась по сравнению с предыдущими годами.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Америка подает футбол на День Благодарения."
+     "text": "Пять женщин, убитых родственниками каждый час в 2025 году: ООН."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ОРГАНИЗАЦИЯ ОБЪЕДИНЕННЫХ НАЦИЙ: Согласно докладу ООН, опубликованному во вторник, в 2025 году по всему миру родственниками были убиты более 47 000 женщин и девочек, или около пяти в час, и эта цифра практически не изменилась по сравнению с предыдущими годами."
     }
    ],
-   "source": "U.S. Embassy & Consulates in Russia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
    "type": null,
-   "time": "2026-11-24T10:17:54Z",
+   "time": "2026-11-25T01:41:20Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "17 человек погибли в результате авиаударов по йеменской Ходейде: СМИ хуситов",
-   "summary": "17 человек погибли в результате авиаударов по йеменской Ходейде: СМИ хуситов",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "17 человек погибли в результате авиаударов по йеменской Ходейде: СМИ хуситов."
-    }
-   ],
-   "source": "巴士的報",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:47:19Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "thousands-protest-in-karachi-against-asim-munir-",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "Тысячи людей протестуют в Карачи против попытки Асима Мунира перекроить Пакистан",
-   "summary": "Тысячи людей протестуют в Карачи против попытки Асима Мунира перекроить Пакистан",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Тысячи людей протестуют в Карачи против плана Асима Мунира перекроить Пакистан."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:57:09Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
-   "country": "South Africa",
-   "label": "ЮЖНАЯ АФРИКА",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "ДР Конго заявляет о пропаже военного самолета, поскольку повстанцы утверждают, что сбили самолет",
-   "summary": "Сообщается, что среди пассажиров сбитого самолета находились южноафриканский летчик-истребитель и угандийский офицер.",
+   "headline": "В США Томасу Марклу предъявлено обвинение в хранении изображений сексуального насилия над детьми",
+   "summary": "ФБР арестовало Маркла 6 ноября после того, как при обыске складского помещения, которое он предположительно арендовал в Лос-Анджелесе, были обнаружены материалы оскорбительного содержания.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ДР Конго сообщает, что военный самолет пропал, поскольку повстанцы утверждают, что сбили самолет."
+     "text": "В США Томасу Марклу предъявлено обвинение в хранении изображений сексуального насилия над детьми."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Какова ситуация сейчас?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ФБР арестовало Маркла 6 ноября после того, как при обыске складского помещения, которое он предположительно арендовал в Лос-Анджелесе, были обнаружены материалы оскорбительного содержания."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T01:40:42Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "clashing-political-visions-reflect-a-divided-spa",
+   "country": "Spain",
+   "label": "ИСПАНИЯ",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Столкновение политических взглядов отражает раскол Испании перед выборами",
+   "summary": "На воскресных выборах крайне правая партия может впервые войти в правительство Испании.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Столкновение политических взглядов отражает раскол Испании перед выборами."
     },
     {
      "role": "COMMANDER",
@@ -482,15 +460,151 @@
     },
     {
      "role": "ANALYST",
-     "text": "Сообщается, что среди пассажиров сбитого самолета находились южноафриканский летчик-истребитель и угандийский офицер."
+     "text": "На воскресных выборах крайне правая партия может впервые войти в правительство Испании."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T10:48:27Z",
+   "time": "2026-11-25T00:58:34Z",
    "countries": [
-    "South Africa"
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-air-strike-kills-hamas-internal-security",
+   "country": "Palestine",
+   "label": "ПАЛЕСТИНА",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "В результате авиаудара Израиля в Газе погиб глава внутренней безопасности ХАМАС",
+   "summary": "Наим Абу Нахель, который находился на этом посту в течение двух месяцев, входит в число семи палестинцев, которые, как сообщается, были убиты в результате израильских ударов во вторник.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В результате авиаудара Израиля в секторе Газа погиб глава внутренней безопасности ХАМАС."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Наим Абу Нахель, который находился на этом посту в течение двух месяцев, входит в число семи палестинцев, которые, как сообщается, были убиты в результате израильских ударов во вторник."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:35:53Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
+   "country": "Japan",
+   "label": "ЯПОНИЯ",
+   "lat": 36.2,
+   "lon": 138.3,
+   "flag": "🇯🇵",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Фондовые рынки Азии падают из-за сомнений по поводу бума искусственного интеллекта",
+   "summary": "Рынки резко упали в Японии, Южной Корее и Тайване в результате последней распродажи, вызванной развитием технологий.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Фондовые рынки Азии падают из-за сомнений по поводу бума искусственного интеллекта."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что это значит для цен?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Рынки резко упали в Японии, Южной Корее и Тайване в результате последней распродажи, вызванной развитием технологий."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T03:31:59Z",
+   "countries": [
+    "Japan",
+    "South Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
+   "country": "Syria",
+   "label": "СИРИЯ",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Число жертв наземных мин в Сирии резко возросло спустя два года после войны",
+   "summary": "По данным данных, среди погибших или раненых взрывчатыми веществами, оставшимися после конфликта, около 1000 детей.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Через два года после войны в Сирии резко возросло число жертв наземных мин."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "По данным данных, среди погибших или раненых взрывчатыми веществами, оставшимися после конфликта, около 1000 детей."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:17:28Z",
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
+   "country": "South Korea",
+   "label": "ЮЖНАЯ КОРЕЯ",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "high",
+   "category": "World",
+   "headline": "Российские самолеты вызвали воздушную тревогу в Южной Корее",
+   "summary": "Жителей Южной Кореи призвали искать убежища, поскольку во вторник российские военные самолеты приблизились к ее воздушному пространству.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Российские самолеты вызвали воздушную тревогу в Южной Корее."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Насколько это серьезно?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Жителей Южной Кореи призвали искать убежища, поскольку во вторник российские военные самолеты приблизились к ее воздушному пространству."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T21:14:57Z",
+   "countries": [
+    "South Korea",
+    "Russia"
    ]
   }
  ]

@@ -1,184 +1,124 @@
 {
- "updated": "2026-11-24T11:03:57.209365Z",
+ "updated": "2026-11-25T04:38:59.858114Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "pakistan-s-zeeshan-ali-set-for-historic-flight-t",
+   "id": "cashless-divide",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Le Pakistanais Zeeshan Ali s'apprête à effectuer un vol historique vers la station spatiale chinoise",
-   "summary": "Le pilote de l’armée de l’air pakistanaise passera environ une semaine à bord du Tiangong, menant des expériences avec l’équipage chinois.",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Division sans numéraire",
+   "summary": "IMAGINEZ une femme à Islamabad arrivant dans un bureau du gouvernement pour payer des frais. Elle a de l’argent, mais pas de compte bancaire ni de smartphone. Le guichet n'accepte plus les espèces. Le fonctionnaire lui indique un code QR.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Pakistanais Zeeshan Ali s’apprête à effectuer un vol historique vers la station spatiale chinoise."
+     "text": "Division sans numéraire."
     },
     {
      "role": "COMMANDER",
-     "text": "Quel est l'impact ?"
+     "text": "Des victimes ?"
     },
     {
      "role": "ANALYST",
-     "text": "Le pilote de l’armée de l’air pakistanaise passera environ une semaine à bord du Tiangong, menant des expériences avec l’équipage chinois."
+     "text": "IMAGINEZ une femme à Islamabad arrivant dans un bureau du gouvernement pour payer des frais. Elle a de l’argent, mais pas de compte bancaire ni de smartphone. Le guichet n'accepte plus les espèces. Le fonctionnaire lui indique un code QR."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046934/cashless-divide",
    "type": null,
-   "time": "2026-11-24T07:55:18Z",
+   "time": "2026-11-25T04:12:44Z",
    "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "china-unveils-new-space-mission-crew-with-a-paki",
-   "country": "China",
-   "label": "CHINE",
-   "lat": 35.0,
-   "lon": 104.0,
-   "flag": "🇨🇳",
-   "severity": "info",
-   "category": "World",
-   "headline": "La Chine dévoile le nouvel équipage de la mission spatiale, avec un astronaute pakistanais prêt à monter à bord de sa station spatiale",
-   "summary": "La Chine dévoile le nouvel équipage de la mission spatiale, avec un astronaute pakistanais prêt à monter à bord de sa station spatiale",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La Chine dévoile le nouvel équipage de la mission spatiale, avec un astronaute pakistanais prêt à monter à bord de sa station spatiale."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTno4Y1I0UnZqSU1JaG15VG5qTm1HNjhQbUpab2ZIbDQ4YTY1YTdxMkxWenVxOUFOMWhXQUlTT1NIVGZYUGJrRUdkXzdxLXZEMzFmLVlxelhRRXlWbFVQQ1JuVTlBZDhjS09RS1JuTUs1Q3RrWTRHTzBOUFNEQmZha0FXNndUY25NY2ozbTlqSEc0TFVUSUFJ?oc=5",
-   "type": null,
-   "time": "2026-11-24T05:51:00Z",
-   "countries": [
-    "China",
     "Pakistan"
    ]
   },
   {
-   "id": "oil-touches-three-month-lows-as-rising-supply-of",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le pétrole touche son plus bas niveau depuis trois mois alors que l'augmentation de l'offre compense la menace d'Ormuz",
-   "summary": "Le pétrole touche son plus bas niveau depuis trois mois alors que l'augmentation de l'offre compense la menace d'Ormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le pétrole touche son plus bas niveau depuis trois mois alors que l’augmentation de l’offre compense la menace d’Ormuz."
-    }
-   ],
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMDQ4RU9qMFd6TWl0WkFDUGVsdk5Gb3Q1dURMcjcwbGxUV3ItdjhZUGdQUTBZOVUyZEZlRzdmSEtjM3EwQTNUam1nRVZNdXFRbmNfeHhpUnNVQjNPbjNyOGtSZHVnNEZmbnpJdC1VdVA5X25rWndhMnZqemNGVWdVU1Y5OE8ybExyT2xLelF6dnZsNkM0OU55b1dKc1NuNF9sWkVGSGZJaUNxLXc4eEdGZTl3LUtFTDFuUUE?oc=5",
-   "type": null,
-   "time": "2026-11-24T02:56:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "bus-and-truck-collision-kills-11-in-uae-s-ras-al",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Une collision entre un bus et un camion fait 11 morts à Ras Al Khaimah, aux Émirats arabes unis",
-   "summary": "Une collision entre un bus et un camion fait 11 morts à Ras Al Khaimah, aux Émirats arabes unis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Une collision entre un bus et un camion fait 11 morts à Ras Al Khaimah, aux Émirats arabes unis."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakZVeGo0TE80MG1Lc3locHk5ZUQ5SnBoajMtekUwWTE3aWJMdFJwOEx0d0FNWkVkSHFHUDhyQXZwOTRLRUY2SGxoeG5GS0hzM05SQkFuZDhsdC11bWZYY1ZQTFdmLVNZbUYzeHZTYWxRdTVmLTYtUkZfb0ZDTnJjRnpCUWNwaGhYeklNOVVma0FaUUVJUkU4c1djQ0NjZw?oc=5",
-   "type": null,
-   "time": "2026-11-24T07:20:46Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "iran-insists-no-talks-with-the-us-until-its-7-co",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "L'Iran insiste sur le fait qu'il n'y aura pas de négociations avec les États-Unis tant que ses 7 conditions ne seront pas remplies, et autres informations sur le Moyen-Orient",
-   "summary": "L'Iran insiste sur le fait qu'il n'y aura pas de négociations avec les États-Unis tant que ses 7 conditions ne seront pas remplies, et autres informations sur le Moyen-Orient",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’Iran insiste sur le fait qu’il n’y aura pas de négociations avec les États-Unis tant que ses sept conditions ne seront pas remplies, ainsi que d’autres nouvelles au Moyen-Orient."
-    }
-   ],
-   "source": "WTOP News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZWFFemZUV0lYMWxpWjZ5WHhCUHVjRVMyTHZaY0NJcWFWdmYtc1QwUVpDQjFpd1lxbTZIMWJDX2NvR1d5cW5LV2MtcEozWEhEbDBPR0Vsa2Z4V05USUVZNUt5R0JBaTVNb0l3UXVkbnljSDdtOVowREt6aS1sbl9jX21ENm5xUTZzeEZRMTZ1RE1Cejk3QkR3VGxMdDFsNlR1VHgxdzh6SzRvZkJCWGZYd2E3aXdDN293QXUtcFZHVQ?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:40:56Z",
-   "countries": [
-    "Iran",
-    "United States of America"
-   ]
-  },
-  {
-   "id": "iran-navy-says-two-tankers-ablaze-in-strait-of-h",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "high",
-   "category": "Middle East",
-   "headline": "La marine iranienne affirme que deux pétroliers ont pris feu dans le détroit d'Ormuz",
-   "summary": "La marine iranienne affirme que deux pétroliers ont pris feu dans le détroit d'Ormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La marine iranienne affirme que deux pétroliers sont en feu dans le détroit d'Ormuz."
-    }
-   ],
-   "source": "thenationalnews.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNW14YjRmMTY1a0preF9JQmJVaDFGVmZWUlNJbmRNelFCQjFqYVpfbzJMSFJPN2hwQ1diRDZYdkh3Z09LalBnb3hBZ0k1LUtZNWVpZnprZDlzMzAtVnZZZzAxNTlQYXZYcHNHdjJEZkE5Y3Nfall1Vnk0YkQ5NUpTZDctU3BLbXhz?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-24T10:52:44Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "ukraine-confirms-it-used-naval-drones-to-strike-",
-   "country": "Libya",
-   "label": "LIBYE",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
+   "id": "poll-finds-us-voters-want-government-to-end-iran",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "critical",
    "category": "World",
-   "headline": "L'Ukraine confirme avoir utilisé des drones navals pour frapper deux navires russes au large de la Libye",
-   "summary": "Le président Zelensky a déclaré qu’un navire de guerre russe avait été coulé, et qu’un cargo russe avait également été touché.",
+   "headline": "Un sondage révèle que les électeurs américains veulent que le gouvernement mette fin à la guerre en Iran, quelles que soient les conditions",
+   "summary": "Une nouvelle enquête révèle que 55 pour cent des électeurs, dont 80 pour cent des démocrates, souhaitent que la guerre prenne fin immédiatement.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'Ukraine confirme avoir utilisé des drones navals pour frapper deux navires russes au large de la Libye."
+     "text": "Un sondage révèle que les électeurs américains souhaitent que le gouvernement mette fin à la guerre en Iran, quelles que soient les conditions."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Une nouvelle enquête révèle que 55 pour cent des électeurs, dont 80 pour cent des démocrates, souhaitent que la guerre prenne fin immédiatement."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T01:14:22Z",
+   "countries": [
+    "United States of America",
+    "Iran"
+   ]
+  },
+  {
+   "id": "russia-s-own-figures-show-almost-500-000-deaths-",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Les propres chiffres de la Russie font état de près de 500 000 morts dans la guerre en Ukraine",
+   "summary": "Des données divulguées révèlent à quel point l’invasion à grande échelle de l’Ukraine a fondamentalement modifié les schémas de mortalité en Russie.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les propres chiffres de la Russie font état de près de 500 000 morts dans la guerre en Ukraine."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Des données divulguées révèlent à quel point l’invasion à grande échelle de l’Ukraine a fondamentalement modifié les schémas de mortalité en Russie."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T00:56:51Z",
+   "countries": [
+    "Ukraine",
+    "Russia"
+   ]
+  },
+  {
+   "id": "my-family-died-in-ukraine-my-mum-blamed-zelensky",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Ma famille est morte en Ukraine. Ma mère a blâmé les troupes de Zelensky",
+   "summary": "La journaliste de la BBC Anastasiya Gribanova enquête sur qui a tué son père et ses grands-parents pendant la guerre.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ma famille est morte en Ukraine. Ma mère a blâmé les troupes de Zelensky."
     },
     {
      "role": "COMMANDER",
@@ -186,106 +126,87 @@
     },
     {
      "role": "ANALYST",
-     "text": "Le président Zelensky a déclaré qu’un navire de guerre russe avait été coulé, et qu’un cargo russe avait également été touché."
+     "text": "La journaliste de la BBC Anastasiya Gribanova enquête sur qui a tué son père et ses grands-parents pendant la guerre."
     }
    ],
-   "source": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlYcEJxcWh6djFUeEhBbnR4eHJKWHdqOVNOVHhwc2ZGM3QtWGtDNUN3bHA2eUN0WEV3SkxwRVVyNXgzZzVlVHU5YXBZVm5CQmRoNUQ5ck00Rk1lOGFGc3FLRUFFelRnckhkaF9oVmplSE9UR2lEdEFQbFBNRjMya2l0WmFsTVR3bDM4SjNGS0FwOGJhblBsRmNKTQ?oc=5",
+   "source": "the truth is complicated",
+   "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T02:30:00Z",
+   "time": "2026-11-25T00:54:13Z",
    "countries": [
-    "Libya",
-    "Ukraine",
-    "Russia"
+    "Ukraine"
    ]
   },
   {
-   "id": "israeli-minister-approves-return-of-flydubai-fli",
-   "country": "Israel",
-   "label": "ISRAËL",
-   "lat": 31.4,
-   "lon": 35.0,
-   "flag": "🇮🇱",
-   "severity": "watch",
-   "category": "Middle East",
-   "headline": "Le ministre israélien approuve le retour des vols Flydubai vers Tel Aviv",
-   "summary": "La reprise définitive de la liaison du transporteur entre Dubaï et Tel Aviv dépend de l'approbation des autorités de sécurité israéliennes.",
+   "id": "pakistan-customs-seizes-nearly-1kg-of-multan-bou",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Les douanes pakistanaises saisissent près d'un kilo de marijuana « destinée à Multan » à Karachi",
+   "summary": "Le Collectorate of Customs (CoC) (aéroports) de Karachi a déjoué une tentative de contrebande de stupéfiants et a saisi 900 grammes de marijuana lors d'un contrôle de routine au Bureau du courrier international (OMI), ont annoncé mardi les douanes pakistanaises.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le ministre israélien approuve le retour des vols Flydubai vers Tel Aviv."
+     "text": "Les douanes pakistanaises saisissent près d'un kilo de marijuana « destinée à Multan » à Karachi."
     },
     {
      "role": "COMMANDER",
-     "text": "Quel est l'impact ?"
+     "text": "Des victimes ?"
     },
     {
      "role": "ANALYST",
-     "text": "La reprise définitive de la liaison du transporteur entre Dubaï et Tel Aviv dépend de l'approbation des autorités de sécurité israéliennes."
+     "text": "Le Collectorate of Customs (CoC) (aéroports) de Karachi a déjoué une tentative de contrebande de stupéfiants et a saisi 900 grammes de marijuana lors d'un contrôle de routine au Bureau du courrier international (OMI), ont annoncé mardi les douanes pakistanaises."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
+   "type": null,
+   "time": "2026-11-24T20:02:11Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "iran-war-live-saudi-led-coalition-strikes-yemen-",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "La guerre en Iran est en direct : la coalition dirigée par l’Arabie saoudite frappe le port de Hodeidah au Yémen",
+   "summary": "La coalition saoudienne affirme que ses forces ont ciblé les capacités opérationnelles du port de Hodeidah et ont frappé des sites dans le nord du Yémen.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La guerre en Iran est en direct : la coalition dirigée par l’Arabie saoudite frappe le port de Hodeidah au Yémen."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "La coalition saoudienne affirme que ses forces ont ciblé les capacités opérationnelles du port de Hodeidah et ont frappé des sites dans le nord du Yémen."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
    "type": null,
-   "time": "2026-11-24T01:09:51Z",
+   "time": "2026-11-25T00:00:00Z",
    "countries": [
-    "Israel",
-    "United Arab Emirates"
+    "Iran",
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "mebaa-show-2026-to-put-business-aviation-mro-in-",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Le salon MEBAA 2026 mettra l'accent sur le MRO de l'aviation d'affaires alors que les Émirats arabes unis et l'Arabie saoudite investissent dans de nouvelles installations - Avi-Go",
-   "summary": "Le salon MEBAA 2026 mettra l'accent sur le MRO de l'aviation d'affaires alors que les Émirats arabes unis et l'Arabie saoudite investissent dans de nouvelles installations - Avi-Go",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le MEBAA Show 2026 mettra l'accent sur le MRO de l'aviation d'affaires alors que les Émirats arabes unis et l'Arabie saoudite investissent dans de nouvelles installations - Avi-Go."
-    }
-   ],
-   "source": "Avi-Go",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQYmlpdmZVbElsWDNoOEFZTjkyNmVaRmNyNTNiZjY5S3h2cTYydWwwc2pPTk5NZ1BaNm1VSF83ckVjeEtiUDkzeFA2Y0IyUnNFYTd4dVNjTkZqYlpUblVuREhucTdkZWZlakRYdUdDQlgzNkk?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:47:09Z",
-   "countries": [
-    "United Arab Emirates",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "bulk-carrier-hit-by-unknown-projectile-off-uae",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "Un vraquier touché par un projectile inconnu au large des Émirats arabes unis",
-   "summary": "Un vraquier touché par un projectile inconnu au large des Émirats arabes unis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Un vraquier touché par un projectile inconnu au large des Émirats arabes unis."
-    }
-   ],
-   "source": "Ship & Bunker",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNVRjcGdiOFlUOW84bHdBSGE4b2NIUHNoZDdBV09nUFk0UE1vdmw5Ym5QTl9Dak1MOXlGaXk4RDFOZ0RsV1N5alExX05Kdm9samdWMkNibGppczU2T3BpRWhfUVQ5Y2ZnZDFCRklwX0ZWbk5MU1l0WGJFRTdfMGRRZnNUbGYycWlUaUFDN1pROGtuV1U?oc=5",
-   "type": null,
-   "time": "2026-11-24T10:08:07Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "china-space-program-to-fly-pakistan-pilot-as-its",
+   "id": "moment-chinese-space-mission-lifts-off-with-firs",
    "country": "China",
    "label": "CHINE",
    "lat": 35.0,
@@ -293,188 +214,245 @@
    "flag": "🇨🇳",
    "severity": "info",
    "category": "World",
-   "headline": "Le programme spatial chinois va piloter un pilote pakistanais en tant que premier étranger",
-   "summary": "Le programme spatial chinois va piloter un pilote pakistanais en tant que premier étranger",
+   "headline": "La mission spatiale chinoise décolle avec le premier astronaute pakistanais à son bord",
+   "summary": "La Chine a lancé sa mission spatiale Shenzhou-24 pour amener trois astronautes à sa station spatiale Tiangong.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le programme spatial chinois pilotera le Pakistan en tant que premier étranger."
+     "text": "La mission spatiale chinoise décolle avec le premier astronaute pakistanais à son bord."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "D'accord, quoi d'autre ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "La Chine a lancé sa mission spatiale Shenzhou-24 pour amener trois astronautes à sa station spatiale Tiangong."
     }
    ],
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEdLdW51bWxKbUxtdm1hbFdFQVlJbkFHdHdjaS1CQ25tMGFITEhialNKS213aC1lOFpnaU9ORVZOcDMzbURwX1FYWjExNmNpbE9Xc2k1R2tJSEpqNGJSX1lMMzdxYWhETkw1ZVZmajJWaF9mdWtqcVR1bnYtUk94dDI0bWY0d1VBVFVDRE5uYWV2c2E1dXVwcFNFcXUwWC1zRHN6VUJNRW5TN2ltSUpmTU1uaEV1dw?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T08:09:31Z",
+   "time": "2026-11-25T03:28:37Z",
    "countries": [
     "China",
     "Pakistan"
    ]
   },
   {
-   "id": "libya-pipeline-restores-oil-flow-as-brent-crude-",
-   "country": "Libya",
-   "label": "LIBYE",
-   "lat": 27.0,
-   "lon": 17.0,
-   "flag": "🇱🇾",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le pipeline libyen rétablit le flux de pétrole alors que le brut Brent tombe en dessous de 90 dollars, au plus bas depuis trois mois",
-   "summary": "Le pipeline libyen rétablit le flux de pétrole alors que le brut Brent tombe en dessous de 90 dollars, au plus bas depuis trois mois",
+   "id": "china-linked-network-using-ai-fakes-to-smear-tai",
+   "country": "China",
+   "label": "CHINE",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "critical",
+   "category": "Tech",
+   "headline": "Un réseau lié à la Chine utilise des fausses IA pour diffamer les candidats aux élections taïwanaises, selon BBC Verify",
+   "summary": "Le réseau a attaqué des personnalités clés du DPP au pouvoir, notamment le président Lai et le candidat à la mairie Shen.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le pipeline libyen rétablit le flux de pétrole alors que le brut Brent tombe en dessous de 90 dollars, au plus bas depuis trois mois."
-    }
-   ],
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12cUlKX1AyYnYyam5Gd1dSaHBicU1TaGd2ZWcyYzZSVHRiRDZxdUVrYUREc3paaWFmdVpyczNvRGEtMlJaY2RzVGYwSnplZ3RVQkxZeDJ6a3F1bGdRMEI3XzlzQ2xPRzIyWTJtZWtDSGRmNDFSZFE?oc=5",
-   "type": null,
-   "time": "2026-11-24T08:55:00Z",
-   "countries": [
-    "Libya"
-   ]
-  },
-  {
-   "id": "foreign-lender-rules-saudi-arabia-2026-guide",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Règles des prêteurs étrangers en Arabie Saoudite : Guide 2026",
-   "summary": "Règles des prêteurs étrangers en Arabie Saoudite : Guide 2026",
-   "lines": [
+     "text": "Un réseau lié à la Chine utilise des fausses IA pour diffamer les candidats aux élections taïwanaises, selon BBC Verify."
+    },
     {
-     "role": "OPERATOR",
-     "text": "Règles des prêteurs étrangers en Arabie Saoudite : Guide 2026."
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le réseau a attaqué des personnalités clés du DPP au pouvoir, notamment le président Lai et le candidat à la mairie Shen."
     }
    ],
-   "source": "Global Advisory Experts",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzNhUEdfQ3FNOFlEZVZ5cm5XUk1zT284SU55eWozVThKS3Ntd2RGOWhrWE5WRFpVQkJySXZSRFpxMHRReTNfOWVuS0YzU3pZeFNmWkpzVlJTbjA4bXV6N2JhaVJfU0dJV0tQVGZNM3hkV0ozRWZBYWoxc3d6VHdxbTFuLVNBX1pYVkc2VmVuLVlRR0RLY1ZN?oc=5",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T06:28:42Z",
+   "time": "2026-11-24T23:05:11Z",
    "countries": [
-    "Saudi Arabia"
+    "China",
+    "Taiwan"
    ]
   },
   {
-   "id": "portugal-pakistan-sign-investment-protection-agr",
+   "id": "islamabad-united-snap-up-matt-henry-karachi-king",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
    "lon": 69.3,
    "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Pakistan",
-   "headline": "Le Portugal et le Pakistan signent un accord de protection des investissements pour renforcer leurs relations commerciales",
-   "summary": "Le Portugal et le Pakistan signent un accord de protection des investissements pour renforcer leurs relations commerciales",
+   "severity": "critical",
+   "category": "Sports",
+   "headline": "Islamabad United recrute Matt Henry et les Karachi Kings obtiennent Adil Rashid comme signature directe pour PSL 12",
+   "summary": "Islamabad United a recruté le lanceur rapide néo-zélandais Matt Henry, tandis que les Karachi Kings ont obtenu les services du joueur de jambe anglais Adil Rashid comme signature directe de marque pour la 12e édition de la Super League pakistanaise (PSL).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Portugal et le Pakistan signent un accord de protection des investissements pour renforcer leurs relations commerciales."
+     "text": "Islamabad United recrute Matt Henry, les Karachi Kings obtiennent Adil Rashid comme signature directe pour PSL 12."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Islamabad United a recruté le lanceur rapide néo-zélandais Matt Henry, tandis que les Karachi Kings ont obtenu les services du joueur de jambe anglais Adil Rashid comme signature directe de marque pour la 12e édition de la Super League pakistanaise (PSL)."
     }
    ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXFZR2Q4YXBURjVXbkxjTzgwYlN4ekQtMDZPVWM1c3hUcU94UTYweG13LUdPQ3VHbFdxa29yc0E5M0NMUThfMFB5RU5jVVhFLTg5aEJKRlh1TXJpaVVDUXhKTTM0UEVSc082d0o4RUc4MDdMR1NpVzVpNERVSklKUm15UnVBRk92eGlVRDlVamRZNFhqcW9lMzk4Q2YwTWVITzljRDV1MU5IQXY2dXFnRHlOeFdobzZpMUE?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
    "type": null,
-   "time": "2026-11-24T07:05:18Z",
+   "time": "2026-11-24T17:50:48Z",
    "countries": [
     "Pakistan"
    ]
   },
   {
-   "id": "america-serves-up-football-on-thanksgiving",
+   "id": "iraq-targets-oil-smugglers-orders-kurdish-oilfie",
+   "country": "Iraq",
+   "label": "IRAK",
+   "lat": 33.2,
+   "lon": 43.7,
+   "flag": "🇮🇶",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "L'Irak cible les trafiquants de pétrole et ordonne le rachat d'un champ pétrolier kurde",
+   "summary": "Le Premier ministre irakien Ali al-Zaidi a ordonné aux forces fédérales de prendre le contrôle des champs pétroliers dans les zones contrôlées par les Kurdes.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Irak cible les trafiquants de pétrole et ordonne le rachat des champs pétrolifères kurdes."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qu'est-ce que cela signifie pour les prix ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le Premier ministre irakien Ali al-Zaidi a ordonné aux forces fédérales de prendre le contrôle des champs pétroliers dans les zones contrôlées par les Kurdes."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T20:18:19Z",
+   "countries": [
+    "Iraq"
+   ]
+  },
+  {
+   "id": "turkish-military-helicopter-crash-kills-five-in-",
+   "country": "Turkey",
+   "label": "TURQUIE",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Le crash d'un hélicoptère militaire turc fait cinq morts dans l'ouest de la Turquie",
+   "summary": "Le ministère de la Défense n'a pas donné de précisions sur les causes de l'accident, quelques jours après un autre accident mortel d'hélicoptère de l'armée.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le crash d'un hélicoptère militaire turc fait cinq morts dans l'ouest de la Turquie."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le ministère de la Défense n'a pas donné de précisions sur les causes de l'accident, quelques jours après un autre accident mortel d'hélicoptère de l'armée."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T19:52:21Z",
+   "countries": [
+    "Turkey"
+   ]
+  },
+  {
+   "id": "five-women-killed-each-hour-by-relatives-in-2025",
    "country": "United States of America",
    "label": "ÉTATS-UNIS",
    "lat": 39.0,
    "lon": -98.0,
    "flag": "🇺🇸",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "L'Amérique sert du football à Thanksgiving",
-   "summary": "L'Amérique sert du football à Thanksgiving",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Cinq femmes tuées chaque heure par des proches en 2025 (ONU)",
+   "summary": "NATIONS UNIES : Plus de 47 000 femmes et filles, soit environ cinq par heure, ont été tuées par des proches dans le monde en 2025, un chiffre globalement inchangé par rapport aux années précédentes, selon un rapport de l'ONU publié mardi.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "L'Amérique sert du football à Thanksgiving."
+     "text": "Cinq femmes tuées chaque heure par des proches en 2025 : ONU."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "NATIONS UNIES : Plus de 47 000 femmes et filles, soit environ cinq par heure, ont été tuées par des proches dans le monde en 2025, un chiffre globalement inchangé par rapport aux années précédentes, selon un rapport de l'ONU publié mardi."
     }
    ],
-   "source": "U.S. Embassy & Consulates in Russia (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kRDJqSVlZLU9Gbmx2Rk15SVRrNm4zTk9Na3J0NmR3dG43c2E4dURJUEtybWZrdzZEREs5SVAxc1c3NkM0Vl95TUpJaVhNZXE5LVNKcGpSa0FsZjI0UGtoUlJJSnMzZnU4UXY0bC15OGdsVXdFNF9R?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
    "type": null,
-   "time": "2026-11-24T10:17:54Z",
+   "time": "2026-11-25T01:41:20Z",
    "countries": [
     "United States of America"
    ]
   },
   {
-   "id": "17-killed-in-airstrikes-on-yemen-s-hodeidah-hout",
-   "country": "Yemen",
-   "label": "YÉMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "17 morts dans des frappes aériennes sur Hodeidah au Yémen (médias houthis)",
-   "summary": "17 morts dans des frappes aériennes sur Hodeidah au Yémen (médias houthis)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "17 morts dans des frappes aériennes sur Hodeidah au Yémen : médias houthis."
-    }
-   ],
-   "source": "巴士的報",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWmg4S1BXVHJlNUptUGgzWWVhaW10TS1iSkw0WWdmS2c0QWpFV1pwNTZwSE8zc2NmSVBMUXFCWC1leFFJV3VKVjlnZVlraGhvc2J2NEpHbUxPbmREN2lGZkdMQzlYSG45ZW5RMW5RTi05Si03c0gtLTFjMHZRN1JPSF9LQ01KZDNnUFZ4elVkNV9aN0VTUXVKWUxtcE4wNG1tRzVCNGhUQlRlams?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:47:19Z",
-   "countries": [
-    "Yemen"
-   ]
-  },
-  {
-   "id": "thousands-protest-in-karachi-against-asim-munir-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "high",
-   "category": "Pakistan",
-   "headline": "Des milliers de personnes manifestent à Karachi contre le pari d'Asim Munir de redessiner le Pakistan",
-   "summary": "Des milliers de personnes manifestent à Karachi contre le pari d'Asim Munir de redessiner le Pakistan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Des milliers de personnes manifestent à Karachi contre le pari d'Asim Munir de redessiner le Pakistan."
-    }
-   ],
-   "source": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDNWVm13dUM5T3pwdGpRRE1TaXpzVnpBUnhLZkZrcVljNU5KR2RRdWo1LUZjS2VlcEZxR003amczOXMzZzhBWElHckMxVUxUR0ZVOUtDTDhkQnJWdWdtNkxpLWZBaHQ2Mi11WlFaeDBqX25Wcnk4UVNuWFdMOUxXVGlhX0VCalF0LUo1dllEYXdzSnk3WFRvSHEzdmhKUlVyZUFYRzlycHU0dEx4RWhNRnlCRlE1Z9IBvgFBVV95cUxOQTFFS2lENHUyNm5aQmtQTnljNEVKLUFabVFhdE5KRTBxR1dxWU5jLUJfcmptOGNqVW1CNW1FZlAyOE1FS2J5akRlamlHaFkxZnRQNkM3aFo0Nll0a3RJb05RUTd0WlNodWxzaXpPT3JFRzFkUkRiU2JWVnNRVGxOdG9leWg3LWlOeXJLamlVcjB5b1NvdVh3aEdLbVc0ODVWeGpHeWVYbWpMOFF6aldiZTUxVmN1WTNpMzNiWjNn?oc=5",
-   "type": null,
-   "time": "2026-11-24T09:57:09Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "dr-congo-says-military-aircraft-missing-as-rebel",
-   "country": "South Africa",
-   "label": "AFRIQUE DU SUD",
-   "lat": -30.6,
-   "lon": 22.9,
-   "flag": "🇿🇦",
+   "id": "thomas-markle-indicted-in-us-for-possessing-chil",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
    "severity": "high",
    "category": "World",
-   "headline": "La RD Congo affirme qu'un avion militaire a disparu alors que les rebelles prétendent avoir abattu un avion",
-   "summary": "Un pilote de chasse sud-africain et un officier ougandais feraient partie des personnes à bord de l'avion abattu.",
+   "headline": "Thomas Markle inculpé aux États-Unis pour possession d'images d'abus sexuels sur des enfants",
+   "summary": "Le FBI a arrêté Markle le 6 novembre après qu'une perquisition dans une unité de stockage qu'il aurait loué à Los Angeles ait révélé le matériel abusif.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "La RD Congo affirme que des avions militaires ont disparu alors que les rebelles prétendent avoir abattu un avion."
+     "text": "Thomas Markle inculpé aux États-Unis pour possession d'images d'abus sexuels sur des enfants."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quelle est la situation maintenant ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le FBI a arrêté Markle le 6 novembre après qu'une perquisition dans une unité de stockage qu'il aurait loué à Los Angeles ait révélé le matériel abusif."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-25T01:40:42Z",
+   "countries": [
+    "United States of America"
+   ]
+  },
+  {
+   "id": "clashing-political-visions-reflect-a-divided-spa",
+   "country": "Spain",
+   "label": "ESPAGNE",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "high",
+   "category": "World",
+   "headline": "Des visions politiques contradictoires reflètent une Espagne divisée avant les élections",
+   "summary": "Les élections de dimanche pourraient voir un parti d’extrême droite entrer pour la première fois au gouvernement espagnol.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Des visions politiques contradictoires reflètent une Espagne divisée à l’approche des élections."
     },
     {
      "role": "COMMANDER",
@@ -482,15 +460,151 @@
     },
     {
      "role": "ANALYST",
-     "text": "Un pilote de chasse sud-africain et un officier ougandais feraient partie des personnes à bord de l'avion abattu."
+     "text": "Les élections de dimanche pourraient voir un parti d’extrême droite entrer pour la première fois au gouvernement espagnol."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-24T10:48:27Z",
+   "time": "2026-11-25T00:58:34Z",
    "countries": [
-    "South Africa"
+    "Spain"
+   ]
+  },
+  {
+   "id": "israeli-air-strike-kills-hamas-internal-security",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Une frappe aérienne israélienne tue le chef de la sécurité intérieure du Hamas à Gaza",
+   "summary": "Naeem Abu Nahel, qui occupait ce poste depuis deux mois, fait partie des sept Palestiniens qui auraient été tués mardi dans les frappes israéliennes.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Une frappe aérienne israélienne tue le chef de la sécurité intérieure du Hamas à Gaza."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Naeem Abu Nahel, qui occupait ce poste depuis deux mois, fait partie des sept Palestiniens qui auraient été tués mardi dans les frappes israéliennes."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:35:53Z",
+   "countries": [
+    "Palestine",
+    "Israel"
+   ]
+  },
+  {
+   "id": "asia-s-stock-markets-dive-as-doubts-swirl-over-a",
+   "country": "Japan",
+   "label": "JAPON",
+   "lat": 36.2,
+   "lon": 138.3,
+   "flag": "🇯🇵",
+   "severity": "markets",
+   "category": "Tech",
+   "headline": "Les marchés boursiers asiatiques plongent alors que les doutes tourbillonnent sur le boom de l’IA",
+   "summary": "Les marchés chutent fortement au Japon, en Corée du Sud et à Taiwan lors des dernières ventes massives liées à la technologie.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les marchés boursiers asiatiques plongent alors que les doutes tourbillonnent autour du boom de l’IA."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qu'est-ce que cela signifie pour les prix ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les marchés chutent fortement au Japon, en Corée du Sud et à Taiwan lors des dernières ventes massives liées à la technologie."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-25T03:31:59Z",
+   "countries": [
+    "Japan",
+    "South Korea",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "land-mine-casualties-soar-in-syria-two-years-aft",
+   "country": "Syria",
+   "label": "SYRIE",
+   "lat": 35.0,
+   "lon": 38.5,
+   "flag": "🇸🇾",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Les victimes des mines terrestres augmentent en Syrie, deux ans après la guerre",
+   "summary": "Près de 1 000 enfants figurent parmi les personnes tuées ou blessées par les explosifs laissés par le conflit, selon les chiffres.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les victimes des mines terrestres augmentent en Syrie, deux ans après la guerre."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Près de 1 000 enfants figurent parmi les personnes tuées ou blessées par les explosifs laissés par le conflit, selon les chiffres."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-24T15:17:28Z",
+   "countries": [
+    "Syria"
+   ]
+  },
+  {
+   "id": "russian-jets-spark-air-raid-alert-in-south-korea",
+   "country": "South Korea",
+   "label": "CORÉE DU SUD",
+   "lat": 36.5,
+   "lon": 127.8,
+   "flag": "🇰🇷",
+   "severity": "high",
+   "category": "World",
+   "headline": "Des avions russes déclenchent une alerte à un raid aérien en Corée du Sud",
+   "summary": "Les habitants de la Corée du Sud ont été invités à se réfugier mardi alors que des avions militaires russes approchaient de son espace aérien.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Des avions russes déclenchent une alerte aux raids aériens en Corée du Sud."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce grave ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les habitants de la Corée du Sud ont été invités à se réfugier mardi alors que des avions militaires russes approchaient de son espace aérien."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-24T21:14:57Z",
+   "countries": [
+    "South Korea",
+    "Russia"
    ]
   }
  ]
