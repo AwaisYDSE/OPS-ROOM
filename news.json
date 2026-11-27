@@ -1,31 +1,75 @@
 {
- "updated": "2026-11-26T15:50:16.294629Z",
+ "updated": "2026-11-27T00:39:15.784271Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "houthi-attack-targets-oil-refinery-in-southweste",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "two-italians-killed-in-kuwait-as-a-strained-iran",
+   "country": "Kuwait",
+   "label": "KUWAIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
-   "summary": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
+   "category": "Tech",
+   "headline": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+   "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition."
+     "text": "Two Italians killed in Kuwait as a strained Iran ramps up attacks."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
     }
    ],
-   "source": "Middle East Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDRtbmd0dkVXbU5qRjFhRXJfWElrMGZsSHBzTVpJUkhCaUJ5akVjbVZYQkVhbE82X3BzRkpMZWRzNS1Gck9YUF96NjBxTkJjR3pvU1JBQnN4V0pnMERKdGtYaU9PNlJTSFRXNmJDMktvR2h5YlJSS3FMUVR4RWlVYVBvMWJHdF96dUFCUDJFRnpraTRiNkFqaFU1VExVY1cxYk10QkZrQWlvSk9uREdmRExvUVJ5blZv0gG-AUFVX3lxTE9sc25oeUhiSUZhcTFnbWNuU1NXQlZZRmh3MXN3Q2YxLWRoQlpqTXFrZUZ5MzZ5RFlva1oxRUxBSkFiZGM0TmVsdmI3VEZ2aG1TVXNlS1BCZGRGS3VuR042LXN5dVpKczFpVkFXaEN0QWZ0MnFUT2NHMldBWUR2TkN5ZmplOGxjUmNrcTExQlRzLW5GRzFoVGVQWWFSU2h6YW9LdzliUVN4LXlRSVY4NTdxVXVTS3hqNjNIR0dkTlE?oc=5",
+   "source": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5",
    "type": null,
-   "time": "2026-11-26T15:29:00Z",
+   "time": "2026-11-27T00:17:14Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Kuwait",
+    "Iran",
+    "Germany",
+    "Italy"
+   ]
+  },
+  {
+   "id": "attack-on-saudi-s-jazan-refinery-kills-one-perso",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+   "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-26T20:34:34Z",
+   "countries": [
+    "Saudi Arabia",
+    "Nepal"
    ]
   },
   {
@@ -46,7 +90,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -64,144 +108,33 @@
    ]
   },
   {
-   "id": "saudi-arabia-s-jazan-refinery-attacked-by-houthi",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Saudi Arabia’s Jazan refinery attacked by Houthis, coalition destroys missile launch platform",
-   "summary": "Saudi Arabia’s Jazan refinery attacked by Houthis, coalition destroys missile launch platform",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi Arabia’s Jazan refinery attacked by Houthis, coalition destroys missile launch platform."
-    }
-   ],
-   "source": "Gulf Business",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTDl5cXNKaDF3M1BtVHQ2d2NfTFRRVXBYU3VGMGw1NlNKNmxUbUhxU1lzZnR6XzlESFlUanM1R1JJelhjb2dydlQ0dFVuVnotVFRPQkdIOG5UZXVKY2xlX2JEcF9UOURpdEV2SFJSLWcxa1Nlb2dMV1djUU5MN3pydTlrVmE1SlllUmZsanhucWFMNnItbDUxVDVWTThDRFpCbk1XZ0lIZ3dLQWpfeGtoVldPOEJ4enFqQlFOWE43NXlSc1JuallWQ0J4M3p1dXFkaFFDdg?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:22:01Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "building-collapse-in-pakistan-kills-4-with-17-st",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Building collapse in Pakistan kills 4, with 17 still missing",
-   "summary": "Building collapse in Pakistan kills 4, with 17 still missing",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Building collapse in Pakistan kills 4, with 17 still missing."
-    }
-   ],
-   "source": "myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0RhRzRCVTlvaWpvN2JDZ3lnTWVaamJqVDhCVjBPVUJQeXhCQ256QUVZZGgwd2pJYU1xM1JxTHlZTTE5MDlFTDdybmxlS04xZDdkOEprY3VJQmx5a3NXbWZhU1FCcGhLdVdwLVNDVS1oQjdFd1pqYW5jeG1NNG03blVpSXpNNWcwWEdqU0NWeHBwbDRUakR2T3Y0MGdpZGNXTFhWTW84SmtzeUNuTUNqMWRB0gGyAUFVX3lxTE9TRGFHNEJVOW9pam83YkNneWdNZVpqYmpUOEJWME9VQlB5eEJDbnpBRVlkaDB3aklhTXEzUnFMeVlNMTkwOUVMN3JubGVLTjFkN2Q4SmtjdUlCbHlrc1dtZmFTUUJwaEt1V3AtU0NVLWhCN0V3WmphbmN4bU00bTduVWlJek01ZzBYR2pTQ1Z4cHBsNFRqRHZPdjQwZ2lkY1dMWFZNbzhKa3N5Q25NQ2oxZEE?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:58:07Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-congratulates-china-on-flight-that-carr",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Pakistan congratulates China on flight that carried a Pakistani astronaut to space station",
-   "summary": "Pakistan congratulates China on flight that carried a Pakistani astronaut to space station",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan congratulates China on flight that carried a Pakistani astronaut to space station."
-    }
-   ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWktkYnY5NmlFTHBBcUxmbmFKdlg3ajdxSmVTQnJlWHd6Qm1wUUJ2VGtGN29zOFM0RlNZeWlJV1kybjVFVS1RNU5TQkY3cUEycURLaXEwTUExRjJMUkpKTXNUZVpvQXo1TGNpSVEwR3daQ0QyU2RTbzJ6N1hUS09PcGhmNlhkYlNXcUM5VDdTVXlNaThHaEtuaHVSVGxYeTg?oc=5",
-   "type": null,
-   "time": "2026-11-26T10:58:00Z",
-   "countries": [
-    "Pakistan",
-    "China"
-   ]
-  },
-  {
-   "id": "huge-plume-of-black-smoke-seen-from-space-after-",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
+   "id": "houthi-attack-targets-oil-refinery-in-southweste",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Huge plume of black smoke seen from space after Houthis claim strike on Saudi’s biggest oil refinery",
-   "summary": "Huge plume of black smoke seen from space after Houthis claim strike on Saudi’s biggest oil refinery",
+   "headline": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
+   "summary": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Huge plume of black smoke seen from space after Houthis claim strike on Saudi’s biggest oil refinery."
+     "text": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition."
     }
    ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5",
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWlNcGtjdkk2QzYwdVJzRjJIQUx2LXVIWFJrZUtwU0tYTXpSUVR2UEZ3T1RYV2lCMXpBa3hKblloWDNEUWIza21pNHZzRG13bm94VGZmV05UQ0xOZEVkblA5TGg1S2NzZnNpc2VXckt1VUt6NnlwTkFtb1dLVFlMbGhsRFlYNEhUY1JaWXhMNVhjampKOFVSYXpmYTZUaUEzOWNVbEhCZTU4ek1VZjFTWlV3YkZ4TlNpSUE?oc=5",
    "type": null,
-   "time": "2026-11-26T12:23:29Z",
+   "time": "2026-11-26T15:11:23Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "can-trump-continue-with-iran-war-despite-funding",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Can Trump continue with Iran war despite funding restrictions?",
-   "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Can Trump continue with Iran war despite funding restrictions?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T14:17:21Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "two-italians-killed-in-iranian-drone-attack-in-k",
+   "id": "oil-rises-on-supply-concerns-as-iran-claims-mine",
    "country": "Iran",
    "label": "IRAN",
    "lat": 32.4,
@@ -209,51 +142,204 @@
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Two Italians killed in Iranian drone attack in Kuwait",
-   "summary": "Two Italians killed in Iranian drone attack in Kuwait",
+   "headline": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+   "summary": "Oil rises on supply concerns as Iran claims mine strikes on ships",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Two Italians killed in Iranian drone attack in Kuwait."
+     "text": "Oil rises on supply concerns as Iran claims mine strikes on ships."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-26T14:10:38Z",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3lnVzA4RlRaOGkxUDRSNWlyR096S2xXd1IxV0dPMGRWLWFBX1dMbE5Xc2VQSFVXZ1NIalh3VFd2UWtkdV9tVExpWTBCWG5ZNGo5cEF2Y2ZrMEl1eWgwT3Y0M2EyaGl2dERpbG5ST1BnTHV5T25wNFo4Z3Z5WWJyOE9CM2Y4V2xYYXE4SlRadGs?oc=5",
+   "type": null,
+   "time": "2026-11-26T03:08:00Z",
+   "countries": [
+    "Iran"
+   ]
+  },
+  {
+   "id": "trump-diverges-from-nato-statement-emphasizing-u",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
+   "summary": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war."
+    }
+   ],
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
+   "type": null,
+   "time": "2026-11-26T20:40:00Z",
+   "countries": [
+    "United States of America",
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "ireland-men-set-for-maiden-tour-of-pakistan-in-j",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Ireland men set for maiden tour of Pakistan in January, to play three ODIs",
+   "summary": "The Ireland men’s team will tour Pakistan in January for the first time to play three One-day Internationals against the hosts, the cricket boards of both countries announced on Thursday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Ireland men set for maiden tour of Pakistan in January, to play three ODIs."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Ireland men’s team will tour Pakistan in January for the first time to play three One-day Internationals against the hosts, the cricket boards of both countries announced on Thursday."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047197/ireland-men-set-for-maiden-tour-of-pakistan-in-january-to-play-three-odis",
+   "type": null,
+   "time": "2026-11-26T14:45:19Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "houthis-strike-saudi-oil-infrastructure-as-riyad",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
+   "summary": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen."
+    }
+   ],
+   "source": "CNN",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5",
+   "type": null,
+   "time": "2026-11-26T12:23:29Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "iran-war-live-iran-s-araghchi-calls-deadly-kuwai",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+   "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T00:00:00Z",
    "countries": [
     "Iran",
     "Kuwait"
    ]
   },
   {
-   "id": "ukraine-says-it-has-intercepted-a-russian-jet-po",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "pakistan-saudi-arabia-and-t-rkiye-to-discuss-hou",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time",
-   "summary": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time",
+   "category": "Pakistan",
+   "headline": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad",
+   "summary": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Ukraine says it has intercepted a Russian jet-powered drone with a laser for the first time."
+     "text": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad."
     }
    ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVSaWFRWm5vY1pIZ2R5RFVxSjRwVjBNN3dWcTh0Z3VFR0o0Xzc0TWhMTHJQX0RHWG54RWI2dWhxenZmbGo1RFJsZ2Q3TC1aSmwyTzBRZWc3S3lDT2tNVGlQVWQzbmVyYTJ6U1pUcm9jcG5rQngtb3Q4R2JoXzBxSW1XWkZYZVV6SWt6YTNQbHBDejBFSzJ0Zy1OX0RVTVJY?oc=5",
+   "source": "وكالة الانباء العراقية (واع)",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRWJXRGdwSFFjM0R0X08zVjl2VmZqem9FUXh0bUJpWnZVcVRFVkM3V1QxNHNwVEpDRHVmdUVrXzFoRnJaM0dGcnB3T1V1T2dLMXJRODV4UnYtMElHaUdTUmEtaDVRWmFLZUNDYXpZYnptWnV0NzBwa2M4NC1WMkRfTWxlUlE4M1MyT0xmLXdwcmFGdHY4U05uLVlCYXYtVXFlN2pVZVZpUTAzYWgxZDUweE1vN3VVS0M1OFZNczZOQ0V0OE95SzFaLW9zb2dWWVdHQzJzWmR5NUZ4WlJBRnVmM3dwdzFKZmdZ?oc=5",
    "type": null,
-   "time": "2026-11-26T12:02:53Z",
+   "time": "2026-11-26T17:51:25Z",
    "countries": [
-    "Ukraine",
-    "Russia"
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey",
+    "Yemen"
    ]
   },
   {
-   "id": "seven-injured-four-critically-after-bangkok-oil-",
+   "id": "egypt-detains-driver-over-cairo-fuel-tanker-fire",
+   "country": "Egypt",
+   "label": "EGYPT",
+   "lat": 26.8,
+   "lon": 30.8,
+   "flag": "🇪🇬",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+   "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Egypt detains driver over Cairo fuel tanker fire that killed 31."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVlnZUw4RDlTOHozeE16S3Y2ZkZtSmx1MURPMHhHNTNSUmZ5UnhzR0RtbXBzM1NiTDlXejI2YjBiYm5fQzBsNkNkOGxQSllwQ3JJUWsxdUNRMTFjRnBiVzR4YlVaM0FoTDRGRkJJYVl5dnB1Wmw3NmM3bnJnTDlIZ0RiandFckZOTzluRjB0VGIwdEFEejd3WEgyeWY2dmRuY0JiaVRyZ2LSAa4BQVVfeXFMT2JzRFExbl8xU0JKX0VBT2dRNDU1LVlXalk0YndDc0F6OFdOSW02RmVsc3JZNmNXMnB6aHA2R1RYTzFsbk9UeS1ob0ZpYXdlWEJvMnR2OXhLeS1nTDJwRXU3VEp2cmRFUUF4dFMzdGVtZThDRXFtRGhuU21rdGhmMzF3R0RLbTNvM1plSmcwSngyTFRtZTBRemNndklEY1k5b05qbGdGeVl4RTdyQ3p3?oc=5",
+   "type": null,
+   "time": "2026-11-26T21:10:50Z",
+   "countries": [
+    "Egypt"
+   ]
+  },
+  {
+   "id": "nine-injured-three-critically-after-bangkok-oil-",
    "country": "Thailand",
    "label": "THAILAND",
    "lat": 15.9,
@@ -261,12 +347,12 @@
    "flag": "🇹🇭",
    "severity": "critical",
    "category": "World",
-   "headline": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
    "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Seven injured, four critically, after Bangkok oil refinery explosion."
+     "text": "Nine injured, three critically, after Bangkok oil refinery explosion."
     },
     {
      "role": "COMMANDER",
@@ -280,46 +366,92 @@
    "source": "bbc.co.uk",
    "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T11:21:50Z",
+   "time": "2026-11-26T16:21:19Z",
    "countries": [
     "Thailand"
    ]
   },
   {
-   "id": "egypt-at-least-31-people-died-after-fuel-truck-o",
-   "country": "Egypt",
-   "label": "EGYPT",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
+   "id": "iran-attack-on-kuwait-kills-two-italian-rheinmet",
+   "country": "Kuwait",
+   "label": "KUWAIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
    "severity": "critical",
-   "category": "Business",
-   "headline": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo",
-   "summary": "A fire erupted in Egyptian capital Cairo on Wednesday killing at least 31 people, the health ministry said, after a fuel truck reportedly overturned on a packed highway.",
+   "category": "Middle East",
+   "headline": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers",
+   "summary": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Egypt: At least 31 people died after fuel truck overturns on Giza highway near Cairo."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "A fire erupted in Egyptian capital Cairo on Wednesday killing at least 31 people, the health ministry said, after a fuel truck reportedly overturned on a packed highway."
+     "text": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers."
     }
    ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzQta0htOVBwQy01aUdEVTZ6N3N4dTRlQU1xUEFmYVgzeEdDbFJBNHFDX0RtVUgyTTBBNmY2RnNRS190dllaWHlIMmhCa0ZHV25UeHVSbFdkdUJrMjJBS2RNYzV5TkJBLVA1THk3ekJSOUdTVnJ5RURCQ1RFMHFyWWt0M0lyazVpYTdwczVYVnhjZkdnSTBRZNIBmAFBVV95cUxQOUVZU2p2RGxzblpMSENLTU5YSFY4cnF4NThDU1piUWtFeEo0NWxXUFFkMnJZaXkwWHBteWVKOG5FQTNXZlYwc0ZhbXhlVGhVVTdMU2REbUxQOWtHeE5EdEtUcVhxTzRpazNWNHAyWm53UnNtdno2RFJ6N3I4Wm5VVHd3Y0N0dG5WRERFV0xLQjA1SGFmOG13Qg?oc=5",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVE9yWG9JenZCTFpSOFJUeGxZcDVXTXE1eXRUOTdkRW5nelVQcU9DU2RfNmQzTlBWWnZXdlFoWmpGNktHUnJBTjdaV0w0M2tZUlFjZzA2SEljMzlHVklrOU80R09oenRVRG9FT2puQWVhcjVFNjV6dDlvRmhta1NCMWF4c3ZUbFBSMzlaMU5Vd2syOHozTzNCQ0VMc1JCdjA5NW9kTjdkQ1F4Q0Q5cXRF?oc=5",
    "type": null,
-   "time": "2026-11-26T10:02:06Z",
+   "time": "2026-11-26T17:33:36Z",
    "countries": [
-    "Egypt"
+    "Kuwait",
+    "Iran",
+    "Italy"
    ]
   },
   {
-   "id": "-symbolic-why-did-uk-sanction-yemen-s-houthis-am",
+   "id": "india-uae-agree-to-speed-up-joint-development-of",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "India, UAE agree to speed up joint development of defence equipment",
+   "summary": "India, UAE agree to speed up joint development of defence equipment",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "India, UAE agree to speed up joint development of defence equipment."
+    }
+   ],
+   "source": "The Business Standard",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXlqYjhPRmpWQ19tbVNUUTdwRDRycXFiZ2tNczlqa0VlZEJveGlJZzY0RmFxWFV1RVQ0cVduem5PWjE5V1JHWHZrR0N4Sm5tQTdkZmpMU21Ud0JfY2NFc3JGZXlBbThWSzZNem5ucXVrbElkMFJVbWllVXRMS2FpNmxCNDUxU2IxM2w0aThXTjd1bm5iYU5hY0tPU3VUbHFDMm1oV3R3?oc=5",
+   "type": null,
+   "time": "2026-11-26T19:01:40Z",
+   "countries": [
+    "United Arab Emirates",
+    "India"
+   ]
+  },
+  {
+   "id": "body-of-jordanian-sailor-missing-after-tanker-at",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
+   "summary": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Body of Jordanian sailor missing after tanker attack found off UAE coast."
+    }
+   ],
+   "source": "Arab News",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcno5NGI2anBtYkhPT2tUaFo4dGlwUUNPb1pQLVNWczVjQTJiUEhzME9HYjJEQ3pYc1ZLOHpvazN2YkxRNnUyaUk0Zk1MdFV2NFdCRk1YWGRIWXBwek5qMy16b3hSaVFDQkJqS1RXbGdzZkIxc3VJWndkZVR1OVNRdkI1VmtRbkk3OXZHbFlJdUpmQWNHM3JpN3hOLUZBZ1FIZEdRcTc4a3NPd2lNUWlfTFFzUXN0LTU0?oc=5",
+   "type": null,
+   "time": "2026-11-26T16:51:20Z",
+   "countries": [
+    "United Arab Emirates",
+    "Jordan"
+   ]
+  },
+  {
+   "id": "saudi-coalition-says-houthis-attacked-aramco-jaz",
    "country": "Saudi Arabia",
    "label": "SAUDI ARABIA",
    "lat": 24.7,
@@ -327,198 +459,72 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-   "summary": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+   "headline": "Saudi coalition says Houthis attacked Aramco Jazan refinery",
+   "summary": "Saudi coalition says Houthis attacked Aramco Jazan refinery",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Who is behind it?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East."
+     "text": "Saudi coalition says Houthis attacked Aramco Jazan refinery."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
+   "source": "The Jerusalem Post",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EU3FJVnZUTnF1dk1zY295aktkbkprTTJ3cktIU1lfWHRBYWltV3lNeHlDRDI5RDc4bmV2V0J1dWJlZkdfV0ZNc2VoNXFIZ01scGRSWmx0NlEtRmZ4?oc=5",
    "type": null,
-   "time": "2026-11-26T12:10:49Z",
+   "time": "2026-11-26T18:58:14Z",
    "countries": [
     "Saudi Arabia",
-    "United Kingdom",
-    "Yemen",
-    "Iran"
+    "Yemen"
    ]
   },
   {
-   "id": "iran-s-attack-to-break-the-siege",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran’s attack to break the siege",
-   "summary": "Iran’s attack to break the siege",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran’s attack to break the siege."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTVdRaTdLankzQlNRMFZEUmIxOTRpRGN3U3h2eHFMSUJPSndjVlNva3BGNEN4c1NlQUJSa3FaVXZGS3o1T1cwM1h4MmlLak5MYVZUZVptU2c4U0VCMy1IY3Itd2JEZUV4RGJXN29yaDVmdmFzdGVMTlNtWU4?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:08:02Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "how-an-oil-feud-is-deepening-rift-between-baghda",
-   "country": "Iraq",
-   "label": "IRAQ",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-   "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What does it mean for prices?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T14:10:00Z",
-   "countries": [
-    "Iraq"
-   ]
-  },
-  {
-   "id": "bangladesh-speaker-meets-pakistan-president-atte",
-   "country": "Bangladesh",
-   "label": "BANGLADESH",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "World",
-   "headline": "Bangladesh Speaker meets Pakistan President, attends dinner hosted by PM",
-   "summary": "Bangladesh Speaker meets Pakistan President, attends dinner hosted by PM",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Bangladesh Speaker meets Pakistan President, attends dinner hosted by PM."
-    }
-   ],
-   "source": "The Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3N6TDdFS2lBLTNxYTRDVGFkTW0zSkFZTzdJSVVMZGk0RGJscEJJWWNFcjltNGhrbmJGR3V1UkNiZllqR3NVTHVMOWxGWHpfNzNZWmliVEtmOHJ4TjFDNjJwQk01cWJzTzlET1VuRm1WNndkdDdSZWxySXNXZmlweVpEVjZsaVNUQ0ZySW9WZnk3YnMzaUZEZ1NDMVJTMnNUTEhxLTlYUEQ2ZVB3YkN6Mw?oc=5",
-   "type": null,
-   "time": "2026-11-26T09:20:02Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "igloo-acquires-dubai-insurtech-democrance-enteri",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Igloo acquires Dubai InsurTech Democrance, entering EMEA market",
-   "summary": "Igloo acquires Dubai InsurTech Democrance, entering EMEA market",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Igloo acquires Dubai InsurTech Democrance, entering EMEA market."
-    }
-   ],
-   "source": "Reinsurance News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0RlR3dqZWcxUXFEU1ZiYlBxbXl2UDBTUEp5eWVrNEY2VXRURWJ4N1ZOdFhsVzYxVzRnYnlSRklaWS1QcnBzN0t6bVJjd0dIa0w1Sy1yRkU2UkRMd3BUVURfN1VUWVJKSldiS0hKa0NEY1pMa1o1cE9Eajl1VTZfalJteGg3d1lEZUVWUHo1TDVHc0dMYXBZ?oc=5",
-   "type": null,
-   "time": "2026-11-26T13:04:37Z",
-   "countries": [
-    "United Arab Emirates"
-   ]
-  },
-  {
-   "id": "hormuz-tanker-traffic-rises-this-month-even-as-a",
+   "id": "supply-fears-lift-global-oil-prices-after-strait",
    "country": "Iran",
    "label": "STRAIT OF HORMUZ",
    "lat": 26.6,
    "lon": 56.4,
    "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase",
-   "summary": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Supply fears lift global oil prices after Strait of Hormuz incidents",
+   "summary": "Supply fears lift global oil prices after Strait of Hormuz incidents",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Hormuz Tanker Traffic Rises This Month Even as Attacks Increase."
+     "text": "Supply fears lift global oil prices after Strait of Hormuz incidents."
     }
    ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck13clVLM3Z3YkFxWGJyYmZYQTllN3AzR3lBZzlQNm00R2RQckxMczVRRXUwU3hlWEVsNzd0dTBYQVVPNU1lWkl3WDFYNk96MEsydHBtYk4tLUNwOVJtVWJtSzZtaTdoWGxla240NjFJRWNublpNRXY3eE43Nkt4dG5xa01kSnBQbk5CSmo3NkhGYVpidGt1UW5ZNnBfNjZzbFZSa0Qyal82SHdtcUJCTjAxTWI?oc=5",
+   "source": "Baird Maritime",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMF9yaHJYdHRRcWppOUxnUzQtUVZpT2dSSWF2V24wclFENEg1anBRMEc3eWRQRFZLSDR0YmdTcUMyUWRhd3JJZDBUVkdmdXBpR1RJclg1OHRUTmpjblhZMUczbENTemVLOUFpRjEtclVzZlNrQjB4VTFFdmRtY05RaTZtQmZrN3NiUkc3VEtZWV9YWkc5MUFFX09VLWF0R3pldnZ6OTF1ZHNWaEhCZlpBMnF3U1Bad9IBwwFBVV95cUxQaUwtM2RpS0FMLXBoNENDZ0gxSXcyWWY1al81Rld3c2ZkUUlxMTdkb0xKLWw4S1Q4SlpHaklWUXpyRnMtWDVsNGh6Z0J2SXdOVjFfRTFzc0VfaC1WZ0VoelZRQl9NZU9aaG1ZZFgxSTVsckdRUmhrXzFaWkNmcTdhVzh4M2tPbkRqUFJCbDZIYWhGYk9CT1hGY001a3RCNlluUFJyLU1PNjA5OU0wOE1SUnU4Skt4eTNWbUxhTXdFaHFaSGc?oc=5",
    "type": null,
-   "time": "2026-11-26T07:59:00Z",
+   "time": "2026-11-26T17:54:33Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "thirteen-dead-as-mine-disaster-highlights-illega",
-   "country": "Indonesia",
-   "label": "INDONESIA",
-   "lat": -0.8,
-   "lon": 113.9,
-   "flag": "🇮🇩",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Thirteen dead as mine disaster highlights illegal hunt for gold",
-   "summary": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.",
+   "id": "the-uae-expresses-solidarity-with-turkey-offers-",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "high",
+   "category": "UAE",
+   "headline": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash",
+   "summary": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Thirteen dead as mine disaster highlights illegal hunt for gold."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Any casualties?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday."
+     "text": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash."
     }
    ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "source": "Yemen Online",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWDNGb2cyUXNLakY4M081N0h4emdKWFFaSS1La0FUSDdzTmtLX3FraVlXZVVKMWwyd2xOV3pubHlBRE1ZcVdwbDBhck44dUhMeEE?oc=5",
    "type": null,
-   "time": "2026-11-26T07:31:24Z",
+   "time": "2026-11-26T20:46:10Z",
    "countries": [
-    "Indonesia"
+    "United Arab Emirates",
+    "Turkey"
    ]
   }
  ]
