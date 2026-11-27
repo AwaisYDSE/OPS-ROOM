@@ -1,263 +1,110 @@
 {
- "updated": "2026-11-27T00:39:15.784271Z",
+ "updated": "2026-11-27T09:08:32.879813Z",
  "generator": "rss",
  "stories": [
   {
-   "id": "two-italians-killed-in-kuwait-as-a-strained-iran",
-   "country": "Kuwait",
-   "label": "KUWAIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
+   "id": "pakistan-set-to-host-talks-with-saudi-arabia-and",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "watch",
+   "category": "Pakistan",
+   "headline": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+   "summary": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact."
+    }
+   ],
+   "source": "News4JAX",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRkxyY3pvc0xXT3BLT2prNTBGYVM4ekZVcjZQQThmaXJyYUVCREhQdHhNZ3hzRHJ2aDB4S0paOFdXWWJncXJTZ0FhT2g2ZTlRZVdXcFlUamZ2czRSWHdoY0xSYzdvNzE1ZFJac3hRT2lhc3htQnQ3MHdzd0NPT1RNTUF0V3Qwb2VjQ1owREVIdDdVZWRlVl9Xa2NVRmszSFYxRTVCa3V6Mk9VMUlaWVBqcUc3OEVUWTZkajVBdjl0dTBjY3pSZk5vZFdKVWZZdw?oc=5",
+   "type": null,
+   "time": "2026-11-27T07:55:42Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "oil-prices-rise-as-an-attack-on-saudi-arabia-s-j",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Oil prices rise as an attack on Saudi Arabia's Jazan refinery kills a worker",
+   "summary": "Oil prices rise as an attack on Saudi Arabia's Jazan refinery kills a worker",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Oil prices rise as an attack on Saudi Arabia's Jazan refinery kills a worker."
+    }
+   ],
+   "source": "Startup Fortune",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0pLbDZjUEk0YW5sMnhXTXAzLVdqcEltZXVYNFFsdVBiODJuU1lSMUR6ZzJnSlRzRkhLczVSTFdHWEktM2FkSENNTldyZkRBUnJ1SlRLYlpsNmxVTW1PMy0zVVRRY1dmdjV6dWxhTnYzbjFxeHZ3ODIweXhKUkFPbU9scHFKbVlqTEdrdmtYODZ4ZU1SdlA4cTJ6Y3J3WnhFdFdYa2Jn?oc=5",
+   "type": null,
+   "time": "2026-11-26T23:43:56Z",
+   "countries": [
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "two-italians-killed-in-iranian-drone-attack-on-k",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
    "severity": "critical",
    "category": "Tech",
-   "headline": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+   "headline": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
    "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Two Italians killed in Kuwait as a strained Iran ramps up attacks."
+     "text": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say."
     },
     {
      "role": "COMMANDER",
-     "text": "Any casualties?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
      "text": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry."
     }
    ],
-   "source": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzFiWi01aU5HaTlZaHd0THlxMFB6RTdtR1hpUGh1RHVuclpWOGxwNVJEdXFDXzN1LWpBOUpuWmEzR3c5VGp0SGYwajFLYm90eU9OM29VVkFWWlUtQWh4eUZiUHJQN2s4STBELUZfNVhOZHVfRVltRjZsVDloTFdwVUlTU0QyVmFBTHVfQzBBYV80aXhxREh0MzVydXcydw?oc=5",
    "type": null,
-   "time": "2026-11-27T00:17:14Z",
+   "time": "2026-11-26T19:33:06Z",
    "countries": [
-    "Kuwait",
     "Iran",
+    "Kuwait",
     "Germany",
     "Italy"
    ]
   },
   {
-   "id": "attack-on-saudi-s-jazan-refinery-kills-one-perso",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-   "summary": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "What do we know so far?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The attack killed a Nepali national, injured several people and sparked a fire, Saudi Energy Ministry says."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T20:34:34Z",
-   "countries": [
-    "Saudi Arabia",
-    "Nepal"
-   ]
-  },
-  {
-   "id": "makkah-pact-nations-to-discuss-conflict-between-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says",
-   "summary": "The Makkah pact nations will discuss the conflict between Saudi Arabia and Houthi fighters in Yemen when officials from the mutual defence agreement meet in Islamabad on Thursday, Defence Minister Khawaja Asif told AFP .",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Makkah pact nations to discuss conflict between Saudi Arabia and Yemen's Houthis in Islamabad meeting, Asif says."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Makkah pact nations will discuss the conflict between Saudi Arabia and Houthi fighters in Yemen when officials from the mutual defence agreement meet in Islamabad on Thursday, Defence Minister Khawaja Asif told AFP ."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047228/makkah-pact-nations-to-discuss-conflict-between-saudi-arabia-and-yemens-houthis-in-islamabad-meeting-asif-says",
-   "type": null,
-   "time": "2026-11-26T14:13:51Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "houthi-attack-targets-oil-refinery-in-southweste",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
-   "summary": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Houthi attack targets oil refinery in southwestern Saudi Arabia: Coalition."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWlNcGtjdkk2QzYwdVJzRjJIQUx2LXVIWFJrZUtwU0tYTXpSUVR2UEZ3T1RYV2lCMXpBa3hKblloWDNEUWIza21pNHZzRG13bm94VGZmV05UQ0xOZEVkblA5TGg1S2NzZnNpc2VXckt1VUt6NnlwTkFtb1dLVFlMbGhsRFlYNEhUY1JaWXhMNVhjampKOFVSYXpmYTZUaUEzOWNVbEhCZTU4ek1VZjFTWlV3YkZ4TlNpSUE?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:11:23Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "oil-rises-on-supply-concerns-as-iran-claims-mine",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Oil rises on supply concerns as Iran claims mine strikes on ships",
-   "summary": "Oil rises on supply concerns as Iran claims mine strikes on ships",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Oil rises on supply concerns as Iran claims mine strikes on ships."
-    }
-   ],
-   "source": "Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ3lnVzA4RlRaOGkxUDRSNWlyR096S2xXd1IxV0dPMGRWLWFBX1dMbE5Xc2VQSFVXZ1NIalh3VFd2UWtkdV9tVExpWTBCWG5ZNGo5cEF2Y2ZrMEl1eWgwT3Y0M2EyaGl2dERpbG5ST1BnTHV5T25wNFo4Z3Z5WWJyOE9CM2Y4V2xYYXE4SlRadGs?oc=5",
-   "type": null,
-   "time": "2026-11-26T03:08:00Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "trump-diverges-from-nato-statement-emphasizing-u",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
+   "id": "zelenskyy-warns-of-major-russian-attack-as-trump",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
    "severity": "critical",
    "category": "World",
-   "headline": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
-   "summary": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war",
+   "headline": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+   "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump diverges from NATO statement, emphasizing Ukraine mustn’t expand war."
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWg1NTJPR0x6RXN2T0JIOXd6OUI0cGdkcUh2clZJbWZBUGZVdTZkX3plemh4NEtOLUxIRHctM3dCbUFzMHBWb2Rya3Y2UDZKUXhab2plWG9HZUNxN3ZJMF90d2p1djNQaW5QbThDeW00NVJ4MXNBSnowaUxWeVBzT0paSTZaTGdqN2wzbEdaSzNGUVQwVGRuUHlYTllBZGhLWXFVb1gtaERxblNnQVFscVR3?oc=5",
-   "type": null,
-   "time": "2026-11-26T20:40:00Z",
-   "countries": [
-    "United States of America",
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "ireland-men-set-for-maiden-tour-of-pakistan-in-j",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Ireland men set for maiden tour of Pakistan in January, to play three ODIs",
-   "summary": "The Ireland men’s team will tour Pakistan in January for the first time to play three One-day Internationals against the hosts, the cricket boards of both countries announced on Thursday.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ireland men set for maiden tour of Pakistan in January, to play three ODIs."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Understood. Go on."
-    },
-    {
-     "role": "ANALYST",
-     "text": "The Ireland men’s team will tour Pakistan in January for the first time to play three One-day Internationals against the hosts, the cricket boards of both countries announced on Thursday."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047197/ireland-men-set-for-maiden-tour-of-pakistan-in-january-to-play-three-odis",
-   "type": null,
-   "time": "2026-11-26T14:45:19Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "houthis-strike-saudi-oil-infrastructure-as-riyad",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
-   "summary": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:23:29Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "iran-war-live-iran-s-araghchi-calls-deadly-kuwai",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-   "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’."
+     "text": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’."
     },
     {
      "role": "COMMANDER",
@@ -265,20 +112,50 @@
     },
     {
      "role": "ANALYST",
-     "text": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war."
+     "text": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T00:00:00Z",
+   "time": "2026-11-27T02:14:25Z",
    "countries": [
-    "Iran",
-    "Kuwait"
+    "Ukraine",
+    "Russia",
+    "United States of America"
    ]
   },
   {
-   "id": "pakistan-saudi-arabia-and-t-rkiye-to-discuss-hou",
+   "id": "uae-residents-update-us-iran-tensions-kuwait-att",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions",
+   "summary": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
+   "type": null,
+   "time": "2026-11-27T07:46:11Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Iran",
+    "Kuwait",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "can-the-mecca-pact-turn-its-collective-defence-p",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -286,73 +163,12 @@
    "flag": "🇵🇰",
    "severity": "critical",
    "category": "Pakistan",
-   "headline": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad",
-   "summary": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad",
+   "headline": "Can the Mecca pact turn its collective defence promise into real support?",
+   "summary": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan, Saudi Arabia, and Türkiye to Discuss Houthi Attacks, Activation of Joint Defense Agreement in Islamabad."
-    }
-   ],
-   "source": "وكالة الانباء العراقية (واع)",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRWJXRGdwSFFjM0R0X08zVjl2VmZqem9FUXh0bUJpWnZVcVRFVkM3V1QxNHNwVEpDRHVmdUVrXzFoRnJaM0dGcnB3T1V1T2dLMXJRODV4UnYtMElHaUdTUmEtaDVRWmFLZUNDYXpZYnptWnV0NzBwa2M4NC1WMkRfTWxlUlE4M1MyT0xmLXdwcmFGdHY4U05uLVlCYXYtVXFlN2pVZVZpUTAzYWgxZDUweE1vN3VVS0M1OFZNczZOQ0V0OE95SzFaLW9zb2dWWVdHQzJzWmR5NUZ4WlJBRnVmM3dwdzFKZmdZ?oc=5",
-   "type": null,
-   "time": "2026-11-26T17:51:25Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "egypt-detains-driver-over-cairo-fuel-tanker-fire",
-   "country": "Egypt",
-   "label": "EGYPT",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-   "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Egypt detains driver over Cairo fuel tanker fire that killed 31."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVlnZUw4RDlTOHozeE16S3Y2ZkZtSmx1MURPMHhHNTNSUmZ5UnhzR0RtbXBzM1NiTDlXejI2YjBiYm5fQzBsNkNkOGxQSllwQ3JJUWsxdUNRMTFjRnBiVzR4YlVaM0FoTDRGRkJJYVl5dnB1Wmw3NmM3bnJnTDlIZ0RiandFckZOTzluRjB0VGIwdEFEejd3WEgyeWY2dmRuY0JiaVRyZ2LSAa4BQVVfeXFMT2JzRFExbl8xU0JKX0VBT2dRNDU1LVlXalk0YndDc0F6OFdOSW02RmVsc3JZNmNXMnB6aHA2R1RYTzFsbk9UeS1ob0ZpYXdlWEJvMnR2OXhLeS1nTDJwRXU3VEp2cmRFUUF4dFMzdGVtZThDRXFtRGhuU21rdGhmMzF3R0RLbTNvM1plSmcwSngyTFRtZTBRemNndklEY1k5b05qbGdGeVl4RTdyQ3p3?oc=5",
-   "type": null,
-   "time": "2026-11-26T21:10:50Z",
-   "countries": [
-    "Egypt"
-   ]
-  },
-  {
-   "id": "nine-injured-three-critically-after-bangkok-oil-",
-   "country": "Thailand",
-   "label": "THAILAND",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Nine injured, three critically, after Bangkok oil refinery explosion",
-   "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Nine injured, three critically, after Bangkok oil refinery explosion."
+     "text": "Can the Mecca pact turn its collective defence promise into real support?."
     },
     {
      "role": "COMMANDER",
@@ -360,124 +176,128 @@
     },
     {
      "role": "ANALYST",
-     "text": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area."
+     "text": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T07:16:30Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Yemen",
+    "Iran"
+   ]
+  },
+  {
+   "id": "houthi-attacks-test-saudi-arabia-s-image-of-secu",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Houthi attacks test Saudi Arabia's image of security",
+   "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Houthi attacks test Saudi Arabia's image of security."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What does it mean for prices?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T16:21:19Z",
+   "time": "2026-11-27T06:04:51Z",
    "countries": [
-    "Thailand"
+    "Yemen",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "iran-attack-on-kuwait-kills-two-italian-rheinmet",
-   "country": "Kuwait",
-   "label": "KUWAIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
+   "id": "erdogan-completes-turkiye-s-ratification-of-makk",
+   "country": "Turkey",
+   "label": "TURKEY",
+   "lat": 39.0,
+   "lon": 35.2,
+   "flag": "🇹🇷",
    "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers",
-   "summary": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers",
+   "category": "Business",
+   "headline": "Erdogan completes Turkiye's ratification of Makkah defence pact",
+   "summary": "President Tayyip Erdogan has formally approved the Makkah Joint Defence Agreement with Pakistan and Saudi Arabia, the country’s Official Gazette said on Friday, completing Turkiye’s ratification after parliament ratified it earlier this month.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers."
+     "text": "Erdogan completes Turkiye's ratification of Makkah defence pact."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "President Tayyip Erdogan has formally approved the Makkah Joint Defence Agreement with Pakistan and Saudi Arabia, the country’s Official Gazette said on Friday, completing Turkiye’s ratification after parliament ratified it earlier this month."
     }
    ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVE9yWG9JenZCTFpSOFJUeGxZcDVXTXE1eXRUOTdkRW5nelVQcU9DU2RfNmQzTlBWWnZXdlFoWmpGNktHUnJBTjdaV0w0M2tZUlFjZzA2SEljMzlHVklrOU80R09oenRVRG9FT2puQWVhcjVFNjV6dDlvRmhta1NCMWF4c3ZUbFBSMzlaMU5Vd2syOHozTzNCQ0VMc1JCdjA5NW9kTjdkQ1F4Q0Q5cXRF?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047450/erdogan-completes-turkiyes-ratification-of-makkah-defence-pact",
    "type": null,
-   "time": "2026-11-26T17:33:36Z",
+   "time": "2026-11-27T07:50:55Z",
    "countries": [
-    "Kuwait",
+    "Turkey",
+    "Pakistan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "trump-downplays-russia-china-support-for-iran-du",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Trump downplays Russia, China support for Iran during talks with US troops",
+   "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump downplays Russia, China support for Iran during talks with US troops."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T03:49:08Z",
+   "countries": [
+    "United States of America",
+    "Russia",
+    "China",
     "Iran",
-    "Italy"
+    "Israel"
    ]
   },
   {
-   "id": "india-uae-agree-to-speed-up-joint-development-of",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "info",
-   "category": "UAE",
-   "headline": "India, UAE agree to speed up joint development of defence equipment",
-   "summary": "India, UAE agree to speed up joint development of defence equipment",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "India, UAE agree to speed up joint development of defence equipment."
-    }
-   ],
-   "source": "The Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXlqYjhPRmpWQ19tbVNUUTdwRDRycXFiZ2tNczlqa0VlZEJveGlJZzY0RmFxWFV1RVQ0cVduem5PWjE5V1JHWHZrR0N4Sm5tQTdkZmpMU21Ud0JfY2NFc3JGZXlBbThWSzZNem5ucXVrbElkMFJVbWllVXRMS2FpNmxCNDUxU2IxM2w0aThXTjd1bm5iYU5hY0tPU3VUbHFDMm1oV3R3?oc=5",
-   "type": null,
-   "time": "2026-11-26T19:01:40Z",
-   "countries": [
-    "United Arab Emirates",
-    "India"
-   ]
-  },
-  {
-   "id": "body-of-jordanian-sailor-missing-after-tanker-at",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
-   "summary": "Body of Jordanian sailor missing after tanker attack found off UAE coast",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Body of Jordanian sailor missing after tanker attack found off UAE coast."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcno5NGI2anBtYkhPT2tUaFo4dGlwUUNPb1pQLVNWczVjQTJiUEhzME9HYjJEQ3pYc1ZLOHpvazN2YkxRNnUyaUk0Zk1MdFV2NFdCRk1YWGRIWXBwek5qMy16b3hSaVFDQkJqS1RXbGdzZkIxc3VJWndkZVR1OVNRdkI1VmtRbkk3OXZHbFlJdUpmQWNHM3JpN3hOLUZBZ1FIZEdRcTc4a3NPd2lNUWlfTFFzUXN0LTU0?oc=5",
-   "type": null,
-   "time": "2026-11-26T16:51:20Z",
-   "countries": [
-    "United Arab Emirates",
-    "Jordan"
-   ]
-  },
-  {
-   "id": "saudi-coalition-says-houthis-attacked-aramco-jaz",
-   "country": "Saudi Arabia",
-   "label": "SAUDI ARABIA",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Saudi coalition says Houthis attacked Aramco Jazan refinery",
-   "summary": "Saudi coalition says Houthis attacked Aramco Jazan refinery",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Saudi coalition says Houthis attacked Aramco Jazan refinery."
-    }
-   ],
-   "source": "The Jerusalem Post",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EU3FJVnZUTnF1dk1zY295aktkbkprTTJ3cktIU1lfWHRBYWltV3lNeHlDRDI5RDc4bmV2V0J1dWJlZkdfV0ZNc2VoNXFIZ01scGRSWmx0NlEtRmZ4?oc=5",
-   "type": null,
-   "time": "2026-11-26T18:58:14Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "supply-fears-lift-global-oil-prices-after-strait",
+   "id": "oil-prices-rise-after-tankers-hit-mines-in-strai",
    "country": "Iran",
    "label": "STRAIT OF HORMUZ",
    "lat": 26.6,
@@ -485,46 +305,252 @@
    "flag": "🇮🇷",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Supply fears lift global oil prices after Strait of Hormuz incidents",
-   "summary": "Supply fears lift global oil prices after Strait of Hormuz incidents",
+   "headline": "Oil prices rise after tankers hit mines in Strait of Hormuz",
+   "summary": "Oil prices rise after tankers hit mines in Strait of Hormuz",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Supply fears lift global oil prices after Strait of Hormuz incidents."
+     "text": "Oil prices rise after tankers hit mines in Strait of Hormuz."
     }
    ],
-   "source": "Baird Maritime",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMF9yaHJYdHRRcWppOUxnUzQtUVZpT2dSSWF2V24wclFENEg1anBRMEc3eWRQRFZLSDR0YmdTcUMyUWRhd3JJZDBUVkdmdXBpR1RJclg1OHRUTmpjblhZMUczbENTemVLOUFpRjEtclVzZlNrQjB4VTFFdmRtY05RaTZtQmZrN3NiUkc3VEtZWV9YWkc5MUFFX09VLWF0R3pldnZ6OTF1ZHNWaEhCZlpBMnF3U1Bad9IBwwFBVV95cUxQaUwtM2RpS0FMLXBoNENDZ0gxSXcyWWY1al81Rld3c2ZkUUlxMTdkb0xKLWw4S1Q4SlpHaklWUXpyRnMtWDVsNGh6Z0J2SXdOVjFfRTFzc0VfaC1WZ0VoelZRQl9NZU9aaG1ZZFgxSTVsckdRUmhrXzFaWkNmcTdhVzh4M2tPbkRqUFJCbDZIYWhGYk9CT1hGY001a3RCNlluUFJyLU1PNjA5OU0wOE1SUnU4Skt4eTNWbUxhTXdFaHFaSGc?oc=5",
+   "source": "Middle East Monitor",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2hhSTBzMENLWDVFMGIwSTdHalRucUFLSmJBb1pSS2tVN1I1ZUh4T2NRVlg4aEtrM3Y0UW1nTEQ2akV6S2lHbG9VMnZERUtWcnZHMjJaRDRrV09LaVd3cHpFZXo2b0JxUmhXUU9pblotaGFSeEUwQjJrQlk2RFNjNFNXaDV6emNLUmhTbkVlMUFOWjRVMi1QOGVLcm8zaHpqcEpwTGR30gGrAUFVX3lxTE5SWUJZbE5uVW9FSFNLSXpWWGIwdVhua3BiRFVadUg5RjBBYlgtN3UzQlBWM2VkeGxPUVdXS0tRR1dYLWVTY2hzQnBOWEhwVWt6NlF4SGpYdjk0Vlp5cWs1QnF2ZThDOUFtQTVHSGZmVkNhLW9VNllyQkxJdVdsT0NWZWhZTWlLcFhQaWl3TWxTdWF0a1RzTjBheEVOWTFYQUtlbmVpLWZFcXZpdw?oc=5",
    "type": null,
-   "time": "2026-11-26T17:54:33Z",
+   "time": "2026-11-27T08:15:00Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "the-uae-expresses-solidarity-with-turkey-offers-",
+   "id": "fo-says-reported-capsizing-of-boat-with-pakistan",
+   "country": "Libya",
+   "label": "LIBYA",
+   "lat": 27.0,
+   "lon": 17.0,
+   "flag": "🇱🇾",
+   "severity": "critical",
+   "category": "World",
+   "headline": "FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued",
+   "summary": "The Foreign Office said on Friday that there had been no “independent verification” of the reports of a boat carrying Pakistani migrants capsizing off the coast of Libya and that Pakistan’s embassy in Libya was “actively pursuing the matter” to ascertain facts",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "FO says reported capsizing of boat with Pakistani migrants off Libya yet to be verified, matter being pursued."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Any casualties?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "The Foreign Office said on Friday that there had been no “independent verification” of the reports of a boat carrying Pakistani migrants capsizing off the coast of Libya and that Pakistan’s embassy in Libya was “actively pursuing the matter” to ascertain facts"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047463/fo-says-reported-capsizing-of-boat-with-pakistani-migrants-off-libya-yet-to-be-verified-matter-being-pursued",
+   "type": null,
+   "time": "2026-11-27T08:48:47Z",
+   "countries": [
+    "Libya",
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "islamabad-set-to-host-makkah-defence-alliance-me",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "critical",
+   "category": "Pakistan",
+   "headline": "Islamabad set to host Makkah Defence Alliance meeting today; Yemen conflict also on agenda",
+   "summary": "Pakistan is set to host a two-day meeting of the tripartite Makkah Defence Alliance’s top decision-making body from today, with discussions also expected to feature the conflict between Saudi Arabia and Houthi fighters in Yemen.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Islamabad set to host Makkah Defence Alliance meeting today; Yemen conflict also on agenda."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "What do we know so far?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan is set to host a two-day meeting of the tripartite Makkah Defence Alliance’s top decision-making body from today, with discussions also expected to feature the conflict between Saudi Arabia and Houthi fighters in Yemen."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/islamabad-set-to-host-makkah-defence-alliance-meeting-today-yemen-conflict-also-on-agenda",
+   "type": null,
+   "time": "2026-11-27T08:48:35Z",
+   "countries": [
+    "Pakistan",
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "zelensky-criticises-strange-trump-putin-friendsh",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-27T09:07:48Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "uae-sees-potential-7-8-growth-next-year",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "high",
+   "severity": "info",
    "category": "UAE",
-   "headline": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash",
-   "summary": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash",
+   "headline": "UAE Sees Potential 7-8% Growth Next Year",
+   "summary": "UAE Sees Potential 7-8% Growth Next Year",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "The UAE expresses solidarity with Turkey , offers condolences for the victims of the military helicopter crash."
+     "text": "UAE Sees Potential 7-8% Growth Next Year."
     }
    ],
-   "source": "Yemen Online",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWDNGb2cyUXNLakY4M081N0h4emdKWFFaSS1La0FUSDdzTmtLX3FraVlXZVVKMWwyd2xOV3pubHlBRE1ZcVdwbDBhck44dUhMeEE?oc=5",
+   "source": "Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1QwOG5ySHdfLUNNWGJOTXNodWJpQk5VeWdLTUJscFRvMF9lWW1tYnJyWTdvSkJGaUVlamlhTXNUMWNhemxKV2o5eUVlRTNPN25jX0NaQlktZjRsMGN0QVZWTWlXLVRtcFhVU1EyYkFEUWtmYXd0eGdOSXQzcE1YV2JCUndQV1pFUkNXd01PVlJTZw?oc=5",
    "type": null,
-   "time": "2026-11-26T20:46:10Z",
+   "time": "2026-11-27T04:48:25Z",
    "countries": [
-    "United Arab Emirates",
-    "Turkey"
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-issues-first-dirham-denominated-digital-sove",
+   "country": "United Arab Emirates",
+   "label": "UNITED ARAB EMIRATES",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "UAE issues first dirham denominated digital sovereign treasury bonds",
+   "summary": "UAE issues first dirham denominated digital sovereign treasury bonds",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE issues first dirham denominated digital sovereign treasury bonds."
+    }
+   ],
+   "source": "www.thenationalnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZms2YzAtYmhSU3QyMGpET1JIUUoyWFpPSEppTWdETmh2SVpiNTZSY0xCcm5Ycncwd3l0V19hdkw5UXVuS3ZWWlRlUERxOXVwWmJBOTdKOEVXTk5aYmxkcm80M01HeUdrMlhFNGtLVmdLZXFJamt3ci1vaWxZdWp0eFpRcExrUWxncW1QdHhsdGdwMjUyRXRodF9ucXhrbm9kVlpmYzBReTluUEVnbHZIbzdxQXdzV3g5bWFKclJjVTZIbVRJeHpsRg?oc=5",
+   "type": null,
+   "time": "2026-11-27T08:35:55Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "deadly-houthi-strike-at-jazan-refinery-halts-som",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
+   "summary": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Deadly Houthi Strike at Jazan Refinery Halts Some Operations."
+    }
+   ],
+   "source": "Rigzone",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNlZPcHJ4Si1xRElrcUtzLVVFbnJSYjVOdjR3TWxENDdQSW8wUnpjUXZORHFPR2hzMGYxSUJrd290UzVWbTJkdmhUcTNTbmxBVEc3T2ZxNVQzcy1JeVAtMlpEbXVPOVVZcmFQRldmZXhfTTRmMzFZSzNvZC1ZQ0czaGUyUGIzZzJpem9KbFA5em1va1RfdVFvS2dBZlFZa0NZZDZYcmJSYWFCUHIxVjFuRnRPLXhNc1N6VkQ5OUVWUQ?oc=5",
+   "type": null,
+   "time": "2026-11-27T08:03:00Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "is-trump-trying-to-break-opec-us-pressured-venez",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Is Trump Trying to Break OPEC? US Pressured Venezuela and Iraq to Consider Leaving Oil Group",
+   "summary": "Is Trump Trying to Break OPEC? US Pressured Venezuela and Iraq to Consider Leaving Oil Group",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Is Trump Trying to Break OPEC? US Pressured Venezuela and Iraq to Consider Leaving Oil Group."
+    }
+   ],
+   "source": "Modern Diplomacy",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOR1c4Uzk4STQweVU5YmY3YUtTMmJpcGNibDFobDFwNDFBR1FVVGh3ZjBseXFOVlBZUFdLXzZwNmJEVExLQVo2dl9JakNJNzNEaDJhVE9ETmpLT3BHT3NYU3pXM1hmM1BTZmRyd1lLWFhyNjN5YWlISkJEdnJBdzFwdk0yaXpQdjQwSlhpUVhEcENtSlh3X3pnX2g4N2xRaWF6SVVaN1JlZWVna3JPOW11UDNOSXF4Q2VaQUdBcUFzWXBOb09ubWF4dU5B?oc=5",
+   "type": null,
+   "time": "2026-11-27T06:15:55Z",
+   "countries": [
+    "United States of America",
+    "Venezuela",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "iran-warns-on-gulf-military-presence-as-south-ko",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
+   "summary": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran warns on Gulf military presence as South Korea readies expanded naval role."
+    }
+   ],
+   "source": "The Olympian",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSFo2cWVmNVpzcmV4RFkwblAwQ2l5QlZuSjdWT2RtMUxpS292MmhRclFHRFJqNTVGQVE4NWhmQ0RrNXdMUlRtSTVCZzdtUTA3bVRWVUVnUXVsb3VhdWRySXVITFZicW5UX2Q3UmkwVzhKdGZ5d3BMWDJsME5Kdw?oc=5",
+   "type": null,
+   "time": "2026-11-27T05:35:08Z",
+   "countries": [
+    "Iran",
+    "South Korea"
    ]
   }
  ]
