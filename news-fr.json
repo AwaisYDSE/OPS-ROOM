@@ -1,122 +1,10 @@
 {
- "updated": "2026-11-26T15:50:16.294629Z",
+ "updated": "2026-11-27T19:02:59.366887Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "houthi-attack-targets-oil-refinery-in-southweste",
-   "country": "Yemen",
-   "label": "YÉMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Une attaque des Houthis vise une raffinerie de pétrole dans le sud-ouest de l'Arabie saoudite (Coalition)",
-   "summary": "Une attaque des Houthis vise une raffinerie de pétrole dans le sud-ouest de l'Arabie saoudite (Coalition)",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Une attaque des Houthis cible une raffinerie de pétrole dans le sud-ouest de l’Arabie saoudite : Coalition."
-    }
-   ],
-   "source": "Middle East Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDRtbmd0dkVXbU5qRjFhRXJfWElrMGZsSHBzTVpJUkhCaUJ5akVjbVZYQkVhbE82X3BzRkpMZWRzNS1Gck9YUF96NjBxTkJjR3pvU1JBQnN4V0pnMERKdGtYaU9PNlJTSFRXNmJDMktvR2h5YlJSS3FMUVR4RWlVYVBvMWJHdF96dUFCUDJFRnpraTRiNkFqaFU1VExVY1cxYk10QkZrQWlvSk9uREdmRExvUVJ5blZv0gG-AUFVX3lxTE9sc25oeUhiSUZhcTFnbWNuU1NXQlZZRmh3MXN3Q2YxLWRoQlpqTXFrZUZ5MzZ5RFlva1oxRUxBSkFiZGM0TmVsdmI3VEZ2aG1TVXNlS1BCZGRGS3VuR042LXN5dVpKczFpVkFXaEN0QWZ0MnFUT2NHMldBWUR2TkN5ZmplOGxjUmNrcTExQlRzLW5GRzFoVGVQWWFSU2h6YW9LdzliUVN4LXlRSVY4NTdxVXVTS3hqNjNIR0dkTlE?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:29:00Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "makkah-pact-nations-to-discuss-conflict-between-",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Les pays du pacte de La Mecque discuteront du conflit entre l'Arabie saoudite et les Houthis du Yémen lors d'une réunion à Islamabad, selon Asif",
-   "summary": "Les pays du Pacte de La Mecque discuteront du conflit entre l'Arabie saoudite et les combattants houthis au Yémen lors de la réunion des responsables de l'accord de défense mutuelle jeudi à Islamabad, a déclaré à l'AFP le ministre de la Défense Khawaja Asif.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les nations du pacte de La Mecque discuteront du conflit entre l'Arabie saoudite et les Houthis du Yémen lors d'une réunion à Islamabad, a déclaré Asif."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Que savons-nous jusqu’à présent ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les pays du Pacte de La Mecque discuteront du conflit entre l'Arabie saoudite et les combattants houthis au Yémen lors de la réunion des responsables de l'accord de défense mutuelle jeudi à Islamabad, a déclaré à l'AFP le ministre de la Défense Khawaja Asif."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047228/makkah-pact-nations-to-discuss-conflict-between-saudi-arabia-and-yemens-houthis-in-islamabad-meeting-asif-says",
-   "type": null,
-   "time": "2026-11-26T14:13:51Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "saudi-arabia-s-jazan-refinery-attacked-by-houthi",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "La raffinerie saoudienne de Jazan attaquée par les Houthis, la coalition détruit une plateforme de lancement de missiles",
-   "summary": "La raffinerie saoudienne de Jazan attaquée par les Houthis, la coalition détruit une plateforme de lancement de missiles",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La raffinerie saoudienne de Jazan attaquée par les Houthis, la coalition détruit une plateforme de lancement de missiles."
-    }
-   ],
-   "source": "Gulf Business",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTDl5cXNKaDF3M1BtVHQ2d2NfTFRRVXBYU3VGMGw1NlNKNmxUbUhxU1lzZnR6XzlESFlUanM1R1JJelhjb2dydlQ0dFVuVnotVFRPQkdIOG5UZXVKY2xlX2JEcF9UOURpdEV2SFJSLWcxa1Nlb2dMV1djUU5MN3pydTlrVmE1SlllUmZsanhucWFMNnItbDUxVDVWTThDRFpCbk1XZ0lIZ3dLQWpfeGtoVldPOEJ4enFqQlFOWE43NXlSc1JuallWQ0J4M3p1dXFkaFFDdg?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:22:01Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "building-collapse-in-pakistan-kills-4-with-17-st",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "L'effondrement d'un immeuble au Pakistan fait 4 morts et 17 sont toujours portés disparus",
-   "summary": "L'effondrement d'un immeuble au Pakistan fait 4 morts et 17 sont toujours portés disparus",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'effondrement d'un immeuble au Pakistan fait 4 morts et 17 sont toujours portés disparus."
-    }
-   ],
-   "source": "myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0RhRzRCVTlvaWpvN2JDZ3lnTWVaamJqVDhCVjBPVUJQeXhCQ256QUVZZGgwd2pJYU1xM1JxTHlZTTE5MDlFTDdybmxlS04xZDdkOEprY3VJQmx5a3NXbWZhU1FCcGhLdVdwLVNDVS1oQjdFd1pqYW5jeG1NNG03blVpSXpNNWcwWEdqU0NWeHBwbDRUakR2T3Y0MGdpZGNXTFhWTW84SmtzeUNuTUNqMWRB0gGyAUFVX3lxTE9TRGFHNEJVOW9pam83YkNneWdNZVpqYmpUOEJWME9VQlB5eEJDbnpBRVlkaDB3aklhTXEzUnFMeVlNMTkwOUVMN3JubGVLTjFkN2Q4SmtjdUlCbHlrc1dtZmFTUUJwaEt1V3AtU0NVLWhCN0V3WmphbmN4bU00bTduVWlJek01ZzBYR2pTQ1Z4cHBsNFRqRHZPdjQwZ2lkY1dMWFZNbzhKa3N5Q25NQ2oxZEE?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:58:07Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-congratulates-china-on-flight-that-carr",
+   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -124,25 +12,26 @@
    "flag": "🇵🇰",
    "severity": "watch",
    "category": "Pakistan",
-   "headline": "Le Pakistan félicite la Chine pour le vol qui a transporté un astronaute pakistanais vers la station spatiale",
-   "summary": "Le Pakistan félicite la Chine pour le vol qui a transporté un astronaute pakistanais vers la station spatiale",
+   "headline": "Le Pakistan accueille des négociations de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de La Mecque",
+   "summary": "Le Pakistan accueille des négociations de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de la Mecque",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le Pakistan félicite la Chine pour le vol qui a transporté un astronaute pakistanais vers la station spatiale."
+     "text": "Le Pakistan accueille des négociations de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de La Mecque."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWktkYnY5NmlFTHBBcUxmbmFKdlg3ajdxSmVTQnJlWHd6Qm1wUUJ2VGtGN29zOFM0RlNZeWlJV1kybjVFVS1RNU5TQkY3cUEycURLaXEwTUExRjJMUkpKTXNUZVpvQXo1TGNpSVEwR3daQ0QyU2RTbzJ6N1hUS09PcGhmNlhkYlNXcUM5VDdTVXlNaThHaEtuaHVSVGxYeTg?oc=5",
+   "source": "Durango Herald",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGQwTGZwVWd3OWdya0pTMzkyckc4VWxlOThyREdtd2RJcUN1M3ZBNnRadWhneEVyOUVFT0FId2NOajdtT2lLZGdnc2dHNVhkRXcwc1JLcW1yWnlhT3ZhU21Selg4bmpsNWg4aDQxeGZnaDNVdWRGbUsta2VMVTdqbjFkUl9rTmJuM1l3TmFaTnlPX2d3ZWdVSzlGQnF0c0pnbDdmSG5YOGZIQXJ4OTN0Y0toX1AzbnVNODBkMkgxcXpwMXpLdDEzZnducUMwbUdSNFZGM3JzN1hydw?oc=5",
    "type": null,
-   "time": "2026-11-26T10:58:00Z",
+   "time": "2026-11-27T15:16:00Z",
    "countries": [
     "Pakistan",
-    "China"
+    "Saudi Arabia",
+    "Turkey"
    ]
   },
   {
-   "id": "huge-plume-of-black-smoke-seen-from-space-after-",
+   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
@@ -150,157 +39,12 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Un énorme panache de fumée noire observé depuis l'espace après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie de pétrole saoudienne",
-   "summary": "Un énorme panache de fumée noire observé depuis l'espace après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie de pétrole saoudienne",
+   "headline": "Les alliés du pacte de La Mecque condamnent les attaques « odieuses » des Houthis contre l’Arabie saoudite",
+   "summary": "Des responsables du Pakistan, de l'Arabie saoudite et de la Turquie s'engagent à protéger la sécurité du royaume lors des négociations à Islamabad.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Un énorme panache de fumée noire observé depuis l’espace après que les Houthis ont revendiqué une frappe contre la plus grande raffinerie de pétrole saoudienne."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:23:29Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "can-trump-continue-with-iran-war-despite-funding",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Trump peut-il poursuivre la guerre contre l’Iran malgré les restrictions de financement ?",
-   "summary": "Un projet de loi budgétaire du Congrès pourrait servir de moyen de pression sur Trump pour qu’il mette fin à la guerre, mais pourrait également déclencher une fermeture.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Trump peut-il poursuivre la guerre contre l’Iran malgré les restrictions de financement ?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Des victimes ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Un projet de loi budgétaire du Congrès pourrait servir de moyen de pression sur Trump pour qu’il mette fin à la guerre, mais pourrait également déclencher une fermeture."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T14:17:21Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "two-italians-killed-in-iranian-drone-attack-in-k",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Deux Italiens tués dans une attaque de drone iranien au Koweït",
-   "summary": "Deux Italiens tués dans une attaque de drone iranien au Koweït",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Deux Italiens tués dans une attaque de drone iranien au Koweït."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-26T14:10:38Z",
-   "countries": [
-    "Iran",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "ukraine-says-it-has-intercepted-a-russian-jet-po",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "L'Ukraine dit avoir intercepté pour la première fois un drone russe à réaction avec un laser",
-   "summary": "L'Ukraine dit avoir intercepté pour la première fois un drone russe à réaction avec un laser",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L'Ukraine affirme avoir intercepté pour la première fois un drone russe à réaction équipé d'un laser."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVSaWFRWm5vY1pIZ2R5RFVxSjRwVjBNN3dWcTh0Z3VFR0o0Xzc0TWhMTHJQX0RHWG54RWI2dWhxenZmbGo1RFJsZ2Q3TC1aSmwyTzBRZWc3S3lDT2tNVGlQVWQzbmVyYTJ6U1pUcm9jcG5rQngtb3Q4R2JoXzBxSW1XWkZYZVV6SWt6YTNQbHBDejBFSzJ0Zy1OX0RVTVJY?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:02:53Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "seven-injured-four-critically-after-bangkok-oil-",
-   "country": "Thailand",
-   "label": "THAÏLANDE",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Sept blessés, dont quatre grièvement, après l'explosion d'une raffinerie de pétrole à Bangkok",
-   "summary": "De la fumée noire était visible sur l'horizon de Bangkok après l'explosion, alors que les autorités exhortaient les habitants à quitter la zone.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Sept blessés, dont quatre grièvement, après l'explosion d'une raffinerie de pétrole à Bangkok."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "De la fumée noire était visible sur l'horizon de Bangkok après l'explosion, alors que les autorités exhortaient les habitants à quitter la zone."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-26T11:21:50Z",
-   "countries": [
-    "Thailand"
-   ]
-  },
-  {
-   "id": "egypt-at-least-31-people-died-after-fuel-truck-o",
-   "country": "Egypt",
-   "label": "EGYPTE",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Égypte : au moins 31 personnes sont mortes après le renversement d'un camion-citerne sur l'autoroute de Gizeh, près du Caire",
-   "summary": "Un incendie s'est déclaré mercredi au Caire, la capitale égyptienne, tuant au moins 31 personnes, a annoncé le ministère de la Santé, après qu'un camion-citerne se soit renversé sur une autoroute bondée.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Égypte : Au moins 31 personnes sont mortes après le renversement d'un camion-citerne sur l'autoroute de Gizeh, près du Caire."
+     "text": "Les alliés du Pacte de La Mecque condamnent les attaques « odieuses » des Houthis contre l’Arabie saoudite."
     },
     {
      "role": "COMMANDER",
@@ -308,139 +52,90 @@
     },
     {
      "role": "ANALYST",
-     "text": "Un incendie s'est déclaré mercredi au Caire, la capitale égyptienne, tuant au moins 31 personnes, a annoncé le ministère de la Santé, après qu'un camion-citerne se soit renversé sur une autoroute bondée."
+     "text": "Des responsables du Pakistan, de l'Arabie saoudite et de la Turquie s'engagent à protéger la sécurité du royaume lors des négociations à Islamabad."
     }
    ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzQta0htOVBwQy01aUdEVTZ6N3N4dTRlQU1xUEFmYVgzeEdDbFJBNHFDX0RtVUgyTTBBNmY2RnNRS190dllaWHlIMmhCa0ZHV25UeHVSbFdkdUJrMjJBS2RNYzV5TkJBLVA1THk3ekJSOUdTVnJ5RURCQ1RFMHFyWWt0M0lyazVpYTdwczVYVnhjZkdnSTBRZNIBmAFBVV95cUxQOUVZU2p2RGxzblpMSENLTU5YSFY4cnF4NThDU1piUWtFeEo0NWxXUFFkMnJZaXkwWHBteWVKOG5FQTNXZlYwc0ZhbXhlVGhVVTdMU2REbUxQOWtHeE5EdEtUcVhxTzRpazNWNHAyWm53UnNtdno2RFJ6N3I4Wm5VVHd3Y0N0dG5WRERFV0xLQjA1SGFmOG13Qg?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
    "type": null,
-   "time": "2026-11-26T10:02:06Z",
+   "time": "2026-11-27T17:41:24Z",
    "countries": [
-    "Egypt"
+    "Saudi Arabia",
+    "Yemen",
+    "Pakistan"
    ]
   },
   {
-   "id": "-symbolic-why-did-uk-sanction-yemen-s-houthis-am",
+   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "« Symbolique » : pourquoi le Royaume-Uni a-t-il sanctionné les Houthis du Yémen au milieu des attaques contre l’Arabie saoudite ?",
-   "summary": "Le Royaume-Uni sanctionne le groupe soutenu par l’Iran et ses dirigeants, les accusant de porter atteinte à la stabilité au Moyen-Orient.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "« Symbolique : pourquoi le Royaume-Uni a-t-il sanctionné les Houthis du Yémen au milieu des attaques contre l'Arabie saoudite ? »"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Qui est derrière tout ça ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le Royaume-Uni sanctionne le groupe soutenu par l’Iran et ses dirigeants, les accusant de porter atteinte à la stabilité au Moyen-Orient."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T12:10:49Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Kingdom",
-    "Yemen",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-s-attack-to-break-the-siege",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "L’attaque iranienne pour briser le siège",
-   "summary": "L’attaque iranienne pour briser le siège",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "L’attaque iranienne pour briser le siège."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTVdRaTdLankzQlNRMFZEUmIxOTRpRGN3U3h2eHFMSUJPSndjVlNva3BGNEN4c1NlQUJSa3FaVXZGS3o1T1cwM1h4MmlLak5MYVZUZVptU2c4U0VCMy1IY3Itd2JEZUV4RGJXN29yaDVmdmFzdGVMTlNtWU4?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:08:02Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "how-an-oil-feud-is-deepening-rift-between-baghda",
-   "country": "Iraq",
-   "label": "IRAK",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Comment une querelle pétrolière creuse le fossé entre Bagdad et la région kurde d’Irak",
-   "summary": "La décision du Premier ministre al-Zaidi de prendre le contrôle des postes frontaliers et des champs pétrolifères a suscité une vive réaction à Erbil.",
+   "headline": "En Arabie Saoudite, les attaques des Houthis mettent à l’épreuve l’image de sécurité du royaume",
+   "summary": "Malgré les grèves, les marchés et les restaurants de Riyad restent animés, les habitants exprimant leur confiance dans le gouvernement pour les protéger.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Comment une querelle pétrolière approfondit le fossé entre Bagdad et la région kurde d’Irak."
+     "text": "En Arabie saoudite, les attaques des Houthis mettent à l’épreuve l’image de sécurité du royaume."
     },
     {
      "role": "COMMANDER",
-     "text": "Qu'est-ce que cela signifie pour les prix ?"
+     "text": "Pourquoi ce déménagement ?"
     },
     {
      "role": "ANALYST",
-     "text": "La décision du Premier ministre al-Zaidi de prendre le contrôle des postes frontaliers et des champs pétrolifères a suscité une vive réaction à Erbil."
+     "text": "Malgré les grèves, les marchés et les restaurants de Riyad restent animés, les habitants exprimant leur confiance dans le gouvernement pour les protéger."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T14:10:00Z",
+   "time": "2026-11-27T06:04:51Z",
    "countries": [
-    "Iraq"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "bangladesh-speaker-meets-pakistan-president-atte",
+   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
    "country": "Bangladesh",
    "label": "BANGLADESH",
    "lat": 23.7,
    "lon": 90.4,
    "flag": "🇧🇩",
    "severity": "info",
-   "category": "World",
-   "headline": "Le président du Bangladesh rencontre le président du Pakistan et assiste au dîner offert par le Premier ministre",
-   "summary": "Le président du Bangladesh rencontre le président du Pakistan et assiste au dîner offert par le Premier ministre",
+   "category": "Sports",
+   "headline": "Les Shaheens du Pakistan se qualifient pour la finale des Rising Stars de la Coupe d'Asie avec une victoire de cinq guichets contre le Bangladesh « A »",
+   "summary": "Les Pakistan Shaheens ont remporté une victoire composée de cinq guichets contre le Bangladesh « A » lors de la deuxième demi-finale de la Coupe d'Asie Rising Stars vendredi, poursuivant un objectif de 233 avec 28 balles à perdre pour réserver leur place pour la finale de dimanche contre le Sri Lanka « A ».",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le président du Bangladesh rencontre le président du Pakistan et assiste au dîner offert par le Premier ministre."
+     "text": "Les Pakistan Shaheens se qualifient pour la finale des Rising Stars de la Coupe d'Asie avec une victoire de cinq guichets contre le Bangladesh « A »."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "D'accord, quoi d'autre ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les Pakistan Shaheens ont remporté une victoire composée de cinq guichets contre le Bangladesh « A » lors de la deuxième demi-finale de la Coupe d'Asie Rising Stars vendredi, poursuivant un objectif de 233 avec 28 balles à perdre pour réserver leur place pour la finale de dimanche contre le Sri Lanka « A »."
     }
    ],
-   "source": "The Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3N6TDdFS2lBLTNxYTRDVGFkTW0zSkFZTzdJSVVMZGk0RGJscEJJWWNFcjltNGhrbmJGR3V1UkNiZllqR3NVTHVMOWxGWHpfNzNZWmliVEtmOHJ4TjFDNjJwQk01cWJzTzlET1VuRm1WNndkdDdSZWxySXNXZmlweVpEVjZsaVNUQ0ZySW9WZnk3YnMzaUZEZ1NDMVJTMnNUTEhxLTlYUEQ2ZVB3YkN6Mw?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
    "type": null,
-   "time": "2026-11-26T09:20:02Z",
+   "time": "2026-11-27T18:56:18Z",
    "countries": [
     "Bangladesh",
-    "Pakistan"
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "igloo-acquires-dubai-insurtech-democrance-enteri",
+   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
@@ -448,78 +143,390 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Igloo acquiert Dubai InsurTech Democrance et entre sur le marché EMEA",
-   "summary": "Igloo acquiert Dubai InsurTech Democrance et entre sur le marché EMEA",
+   "headline": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie",
+   "summary": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Igloo acquiert Dubai InsurTech Democrance et entre sur le marché EMEA."
+     "text": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie."
     }
    ],
-   "source": "Reinsurance News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0RlR3dqZWcxUXFEU1ZiYlBxbXl2UDBTUEp5eWVrNEY2VXRURWJ4N1ZOdFhsVzYxVzRnYnlSRklaWS1QcnBzN0t6bVJjd0dIa0w1Sy1yRkU2UkRMd3BUVURfN1VUWVJKSldiS0hKa0NEY1pMa1o1cE9Eajl1VTZfalJteGg3d1lEZUVWUHo1TDVHc0dMYXBZ?oc=5",
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
    "type": null,
-   "time": "2026-11-26T13:04:37Z",
+   "time": "2026-11-27T11:19:00Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Philippines",
+    "Indonesia"
    ]
   },
   {
-   "id": "hormuz-tanker-traffic-rises-this-month-even-as-a",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Le trafic des pétroliers d’Ormuz augmente ce mois-ci alors même que les attaques se multiplient",
-   "summary": "Le trafic des pétroliers d’Ormuz augmente ce mois-ci alors même que les attaques se multiplient",
+   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News",
+   "summary": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le trafic des pétroliers d’Ormuz augmente ce mois-ci alors même que les attaques se multiplient."
+     "text": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News."
     }
    ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck13clVLM3Z3YkFxWGJyYmZYQTllN3AzR3lBZzlQNm00R2RQckxMczVRRXUwU3hlWEVsNzd0dTBYQVVPNU1lWkl3WDFYNk96MEsydHBtYk4tLUNwOVJtVWJtSzZtaTdoWGxla240NjFJRWNublpNRXY3eE43Nkt4dG5xa01kSnBQbk5CSmo3NkhGYVpidGt1UW5ZNnBfNjZzbFZSa0Qyal82SHdtcUJCTjAxTWI?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
    "type": null,
-   "time": "2026-11-26T07:59:00Z",
+   "time": "2026-11-27T14:21:55Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "trump-backs-iraqi-pm-s-oil-smuggling-crackdown",
+   "country": "United States of America",
+   "label": "ÉTATS-UNIS",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Trump soutient la répression du trafic de pétrole par le Premier ministre irakien",
+   "summary": "Bagdad ferme les postes frontières alors que les autorités kurdes mettent en garde contre des violations constitutionnelles et appellent à une réunion.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Trump soutient la répression de la contrebande de pétrole menée par le Premier ministre irakien."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Pourquoi ce déménagement ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Bagdad ferme les postes frontières alors que les autorités kurdes mettent en garde contre des violations constitutionnelles et appellent à une réunion."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T16:13:07Z",
+   "countries": [
+    "United States of America",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "donald-trump-tells-u-s-troops-they-ll-stay-in-ir",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Donald Trump dit aux troupes américaines qu'elles resteront dans la guerre en Iran et déclare que la victoire viendra « quand je le veux », déclenchant une réaction violente dans tout le pays",
+   "summary": "Donald Trump dit aux troupes américaines qu'elles resteront dans la guerre en Iran et déclare que la victoire viendra « quand je le veux », déclenchant une réaction violente dans tout le pays",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Donald Trump dit aux troupes américaines qu'elles resteront dans la guerre en Iran et déclare que la victoire viendra « quand je le veux », déclenchant une réaction violente dans tout le pays."
+    }
+   ],
+   "source": "Yahoo Lifestyle Canada",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jS0pDdjc1LVNQTWxxNEVNRmhGM0NMVjlUQXVUR2xOLVF0Y0VoM3JpLWhyTFJiX3FjZ3k1NDE2MnVvMEJYUGFjallVZXdqdmtQOHgtOWVicHZ1VGRNREhpdllaMVhPNnN6SjRJMzdvY0RfOHRpWlo5dw?oc=5",
+   "type": null,
+   "time": "2026-11-27T15:53:39Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "zelensky-criticises-strange-trump-putin-friendsh",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Zelensky critique \"l'étrange\" amitié Trump-Poutine dans une interview à la BBC",
+   "summary": "Le président ukrainien exprime sa frustration à l'égard des États-Unis et affirme que ceux-ci ne poussent pas assez fort la Russie dans les pourparlers de paix pour mettre fin à la guerre.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Zelensky critique « l’étrange » amitié Trump-Poutine dans une interview à la BBC."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Qui est derrière tout ça ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Le président ukrainien exprime sa frustration à l'égard des États-Unis et affirme que ceux-ci ne poussent pas assez fort la Russie dans les pourparlers de paix pour mettre fin à la guerre."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-27T18:00:40Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "italians-killed-in-kuwait-why-is-iran-denying-re",
+   "country": "Kuwait",
+   "label": "KOWEIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Italiens tués au Koweït : pourquoi l’Iran nie-t-il toute responsabilité ?",
+   "summary": "Italiens tués au Koweït : pourquoi l’Iran nie-t-il toute responsabilité ?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Italiens tués au Koweït : pourquoi l'Iran nie-t-il toute responsabilité ?"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5",
+   "type": null,
+   "time": "2026-11-27T11:55:06Z",
+   "countries": [
+    "Kuwait",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-oil-tanker-explodes-after-hitting-nava",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L'Iran affirme qu'un pétrolier a explosé après avoir heurté une mine navale dans le détroit d'Ormuz",
+   "summary": "L'Iran affirme qu'un pétrolier a explosé après avoir heurté une mine navale dans le détroit d'Ormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Iran affirme qu'un pétrolier a explosé après avoir heurté une mine navale dans le détroit d'Ormuz."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUVPUTlEQ05fLVA1MTNqa2tOejlucTkwaWZjZGxjWm9taWNneG12aFhKLXJqeEQ4QkdSWTYwcTBSX1VhcmlYclBkZXVOZnI3UFh1QThLeHJMbTBfU01Ia2FnTnRJb1NBcjg2c0pPeXRpNG1vejBUd2JoTGU2U2xTakp3UV9weHEzQy00RFZKS0M2bmUtMlpTWWUyWjF5NG1jZFloeUVnMEJrNWk1TVg4OXgydTYxLUFRZjBF?oc=5",
+   "type": null,
+   "time": "2026-11-27T11:39:59Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "thirteen-dead-as-mine-disaster-highlights-illega",
-   "country": "Indonesia",
-   "label": "INDONÉSIE",
-   "lat": -0.8,
-   "lon": 113.9,
-   "flag": "🇮🇩",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Treize morts alors que la catastrophe minière met en évidence la chasse illégale à l'or",
-   "summary": "Les autorités indonésiennes affirment que 13 autres personnes sont portées disparues dans la mine d'or illégale, inondée lundi.",
+   "id": "pakistan-seeks-deeper-cooperation-with-iaea-on-n",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Le Pakistan cherche à approfondir sa coopération avec l'AIEA en matière de sécurité nucléaire",
+   "summary": "Le Pakistan espère approfondir davantage sa coopération avec l'Agence internationale de l'énergie atomique (AIEA) et les partenaires internationaux pour soutenir une sécurité nucléaire durable, a déclaré vendredi le ministère des Affaires étrangères (FO).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Treize morts alors que la catastrophe minière met en lumière la chasse illégale à l'or."
+     "text": "Le Pakistan cherche à approfondir sa coopération avec l'AIEA en matière de sécurité nucléaire."
     },
     {
      "role": "COMMANDER",
-     "text": "Des victimes ?"
+     "text": "Quelle est la situation maintenant ?"
     },
     {
      "role": "ANALYST",
-     "text": "Les autorités indonésiennes affirment que 13 autres personnes sont portées disparues dans la mine d'or illégale, inondée lundi."
+     "text": "Le Pakistan espère approfondir davantage sa coopération avec l'Agence internationale de l'énergie atomique (AIEA) et les partenaires internationaux pour soutenir une sécurité nucléaire durable, a déclaré vendredi le ministère des Affaires étrangères (FO)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+   "type": null,
+   "time": "2026-11-27T11:14:28Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "ukraine-warns-of-a-black-sea-hormuz-as-attacks-t",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "L’Ukraine met en garde contre une « Ormuz » en mer Noire alors que les attaques menacent l’aide alimentaire à 3 pays menacés de famine",
+   "summary": "L’Ukraine met en garde contre une « Ormuz » en mer Noire alors que les attaques menacent l’aide alimentaire à 3 pays menacés de famine",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L’Ukraine met en garde contre une « Ormuz » en mer Noire alors que les attaques menacent l’aide alimentaire à 3 pays menacés de famine."
+    }
+   ],
+   "source": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUzRYNl9vWWx6emZudGJTREtUaTRINVczbzIydnF6WTBpTHEyQTZxVzhRamhzN1NxQjkxMFBhZ19mMWFNU2tVWm9rQQ?oc=5",
+   "type": null,
+   "time": "2026-11-27T16:20:48Z",
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "saudi-strike-kills-11-civilians-in-yemen-s-taiz-",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Une frappe saoudienne tue « 11 civils » à Taiz au Yémen (médias houthis)",
+   "summary": "Une frappe saoudienne tue « 11 civils » à Taiz au Yémen (médias houthis)",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Une frappe saoudienne tue « 11 civils » à Taiz au Yémen : médias houthis."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNuUFdtTUt3XzYtQXpoc0tKS1dHYzgyQ3lUVUpaOUhCQUpiZXRtOHY3VVlMMjNGdU12WWdpWk93Q0Y0dEh2T01zcTNueEJ6QVhUd2pIamllMko3SGhPYUdzS2ZkMlJEMGtuRzVzbGJkWGNQbWVTQXBtRDFvMElyS25meDlqejh6Rld0dzlRTkpJMUgtT2RJVm9reWFBVHczaUgw0gGoAUFVX3lxTFBGZmlMclJkbjEtNFgzNUtEc0V1RVJjU2F1ZTZWMFdKejhwa1h4aG5uSGlyRTdld1FhRS1kelJLeUxnUzVBQ2p1WjdYOTFKX3ZBeE5YcG5XcTNYdkVKVmN3MmpPd1RDLTRkODM3ME9qajZDd3Fpd0JPME5GRXRjVEhxZDh6T0g3c2hmZXVuNDFELXp1eTBkZlEyb2s4VVI1XzNQdWpfMkhETQ?oc=5",
+   "type": null,
+   "time": "2026-11-27T12:14:38Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "uae-residents-update-us-iran-tensions-kuwait-att",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Le point sur les résidents des Émirats arabes unis : tensions entre les États-Unis et l'Iran, attaque au Koweït, grève dans une raffinerie saoudienne et perturbations des vols",
+   "summary": "Le point sur les résidents des Émirats arabes unis : tensions entre les États-Unis et l'Iran, attaque au Koweït, grève dans une raffinerie saoudienne et perturbations des vols",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le point sur les résidents des Émirats arabes unis : tensions entre les États-Unis et l'Iran, attaque au Koweït, grève dans une raffinerie saoudienne et perturbations des vols."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
+   "type": null,
+   "time": "2026-11-27T07:46:11Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Iran",
+    "Kuwait",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "weary-of-war-but-with-no-sign-of-backing-down-ky",
+   "country": "Ukraine",
+   "label": "UKRAINE",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Lassée de la guerre mais sans aucun signe de recul, Kiev fait face à un nouvel hiver éprouvant",
+   "summary": "L’Ukraine s’installe dans un nouvel hiver dévastateur alors que les questions persistent : comment tout cela va-t-il se terminer ?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Lassée de la guerre mais sans aucun signe de recul, Kiev fait face à un nouvel hiver éprouvant."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "L’Ukraine s’installe dans un nouvel hiver dévastateur alors que les questions persistent : comment tout cela va-t-il se terminer ?"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T07:31:24Z",
+   "time": "2026-11-27T18:42:50Z",
    "countries": [
-    "Indonesia"
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "iran-accused-of-deadly-drone-attack-in-kuwait-th",
+   "country": "Kuwait",
+   "label": "KOWEIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "L’Iran accusé d’une attaque meurtrière de drone au Koweït qui suscite un appel de l’UE à intensifier la pression sur Téhéran",
+   "summary": "L’Iran accusé d’une attaque meurtrière de drone au Koweït qui suscite un appel de l’UE à intensifier la pression sur Téhéran",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'Iran est accusé d'une attaque meurtrière de drone au Koweït qui suscite un appel de l'UE à intensifier la pression sur Téhéran."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
+   "type": null,
+   "time": "2026-11-27T10:07:00Z",
+   "countries": [
+    "Kuwait",
+    "Iran"
+   ]
+  },
+  {
+   "id": "dubai-s-stock-market-rises-14-per-cent-in-novemb",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "La bourse de Dubaï augmente de 14 pour cent en novembre",
+   "summary": "La bourse de Dubaï augmente de 14 pour cent en novembre",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "La bourse de Dubaï a augmenté de 14 pour cent en novembre."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFVMGZDMUtSMzFIckdnVUViWmo5eEpVd24zanlTY2loOHRlcjNHclRkUWNkT1NIeGNKYzJKV0tLVUhXNkpLWnp0X2MwcjhPemZsMjB0WjRrOG9QSWY4aHZKbWo3d2VXcGgzODVvYS1fV0xCUGljTmdFU0g3U1lwblU1MHJmRjU3RnZLUkp3NkJqQXB2ZWg0Q2pkLUFQNXhwdThxWHJFRmdnWXUtSGJB?oc=5",
+   "type": null,
+   "time": "2026-11-27T17:15:00Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   }
  ]

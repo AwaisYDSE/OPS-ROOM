@@ -1,122 +1,10 @@
 {
- "updated": "2026-11-26T15:50:16.294629Z",
+ "updated": "2026-11-27T19:02:59.366887Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "houthi-attack-targets-oil-refinery-in-southweste",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Хуситы атаковали нефтеперерабатывающий завод на юго-западе Саудовской Аравии - Коалиция",
-   "summary": "Хуситы атаковали нефтеперерабатывающий завод на юго-западе Саудовской Аравии - Коалиция",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Нападение хуситов направлено на нефтеперерабатывающий завод на юго-западе Саудовской Аравии: Коалиция."
-    }
-   ],
-   "source": "Middle East Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSDRtbmd0dkVXbU5qRjFhRXJfWElrMGZsSHBzTVpJUkhCaUJ5akVjbVZYQkVhbE82X3BzRkpMZWRzNS1Gck9YUF96NjBxTkJjR3pvU1JBQnN4V0pnMERKdGtYaU9PNlJTSFRXNmJDMktvR2h5YlJSS3FMUVR4RWlVYVBvMWJHdF96dUFCUDJFRnpraTRiNkFqaFU1VExVY1cxYk10QkZrQWlvSk9uREdmRExvUVJ5blZv0gG-AUFVX3lxTE9sc25oeUhiSUZhcTFnbWNuU1NXQlZZRmh3MXN3Q2YxLWRoQlpqTXFrZUZ5MzZ5RFlva1oxRUxBSkFiZGM0TmVsdmI3VEZ2aG1TVXNlS1BCZGRGS3VuR042LXN5dVpKczFpVkFXaEN0QWZ0MnFUT2NHMldBWUR2TkN5ZmplOGxjUmNrcTExQlRzLW5GRzFoVGVQWWFSU2h6YW9LdzliUVN4LXlRSVY4NTdxVXVTS3hqNjNIR0dkTlE?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:29:00Z",
-   "countries": [
-    "Yemen",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "makkah-pact-nations-to-discuss-conflict-between-",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "Страны Меккского пакта обсудят конфликт между Саудовской Аравией и йеменскими хуситами на встрече в Исламабаде, говорит Асиф",
-   "summary": "Страны Меккского пакта обсудят конфликт между Саудовской Аравией и боевиками-хуситами в Йемене, когда представители соглашения о взаимной обороне встретятся в Исламабаде в четверг, сообщил агентству AFP министр обороны Хаваджа Асиф.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Страны Меккского пакта обсудят конфликт между Саудовской Аравией и йеменскими хуситами на встрече в Исламабаде, говорит Асиф."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Что мы знаем на данный момент?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Страны Меккского пакта обсудят конфликт между Саудовской Аравией и боевиками-хуситами в Йемене, когда представители соглашения о взаимной обороне встретятся в Исламабаде в четверг, сообщил агентству AFP министр обороны Хаваджа Асиф."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047228/makkah-pact-nations-to-discuss-conflict-between-saudi-arabia-and-yemens-houthis-in-islamabad-meeting-asif-says",
-   "type": null,
-   "time": "2026-11-26T14:13:51Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "saudi-arabia-s-jazan-refinery-attacked-by-houthi",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "info",
-   "category": "Middle East",
-   "headline": "Хуситы атаковали нефтеперерабатывающий завод Джазан в Саудовской Аравии, коалиция уничтожила ракетную платформу",
-   "summary": "Хуситы атаковали нефтеперерабатывающий завод Джазан в Саудовской Аравии, коалиция уничтожила ракетную платформу",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Хуситы атаковали нефтеперерабатывающий завод Джазан в Саудовской Аравии, коалиция уничтожила ракетную пусковую платформу."
-    }
-   ],
-   "source": "Gulf Business",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTDl5cXNKaDF3M1BtVHQ2d2NfTFRRVXBYU3VGMGw1NlNKNmxUbUhxU1lzZnR6XzlESFlUanM1R1JJelhjb2dydlQ0dFVuVnotVFRPQkdIOG5UZXVKY2xlX2JEcF9UOURpdEV2SFJSLWcxa1Nlb2dMV1djUU5MN3pydTlrVmE1SlllUmZsanhucWFMNnItbDUxVDVWTThDRFpCbk1XZ0lIZ3dLQWpfeGtoVldPOEJ4enFqQlFOWE43NXlSc1JuallWQ0J4M3p1dXFkaFFDdg?oc=5",
-   "type": null,
-   "time": "2026-11-26T15:22:01Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "building-collapse-in-pakistan-kills-4-with-17-st",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "critical",
-   "category": "Pakistan",
-   "headline": "В результате обрушения здания в Пакистане погибли 4 человека, 17 пропали без вести",
-   "summary": "В результате обрушения здания в Пакистане погибли 4 человека, 17 пропали без вести",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "В результате обрушения здания в Пакистане погибли 4 человека, 17 пропали без вести."
-    }
-   ],
-   "source": "myMotherLode.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU0RhRzRCVTlvaWpvN2JDZ3lnTWVaamJqVDhCVjBPVUJQeXhCQ256QUVZZGgwd2pJYU1xM1JxTHlZTTE5MDlFTDdybmxlS04xZDdkOEprY3VJQmx5a3NXbWZhU1FCcGhLdVdwLVNDVS1oQjdFd1pqYW5jeG1NNG03blVpSXpNNWcwWEdqU0NWeHBwbDRUakR2T3Y0MGdpZGNXTFhWTW84SmtzeUNuTUNqMWRB0gGyAUFVX3lxTE9TRGFHNEJVOW9pam83YkNneWdNZVpqYmpUOEJWME9VQlB5eEJDbnpBRVlkaDB3aklhTXEzUnFMeVlNMTkwOUVMN3JubGVLTjFkN2Q4SmtjdUlCbHlrc1dtZmFTUUJwaEt1V3AtU0NVLWhCN0V3WmphbmN4bU00bTduVWlJek01ZzBYR2pTQ1Z4cHBsNFRqRHZPdjQwZ2lkY1dMWFZNbzhKa3N5Q25NQ2oxZEE?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:58:07Z",
-   "countries": [
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "pakistan-congratulates-china-on-flight-that-carr",
+   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
@@ -124,25 +12,26 @@
    "flag": "🇵🇰",
    "severity": "watch",
    "category": "Pakistan",
-   "headline": "Пакистан поздравил Китай с полетом пакистанского астронавта на космическую станцию",
-   "summary": "Пакистан поздравил Китай с полетом пакистанского астронавта на космическую станцию",
+   "headline": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке",
+   "summary": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Пакистан поздравляет Китай с полетом пакистанского астронавта на космическую станцию."
+     "text": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке."
     }
    ],
-   "source": "AP News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWktkYnY5NmlFTHBBcUxmbmFKdlg3ajdxSmVTQnJlWHd6Qm1wUUJ2VGtGN29zOFM0RlNZeWlJV1kybjVFVS1RNU5TQkY3cUEycURLaXEwTUExRjJMUkpKTXNUZVpvQXo1TGNpSVEwR3daQ0QyU2RTbzJ6N1hUS09PcGhmNlhkYlNXcUM5VDdTVXlNaThHaEtuaHVSVGxYeTg?oc=5",
+   "source": "Durango Herald",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGQwTGZwVWd3OWdya0pTMzkyckc4VWxlOThyREdtd2RJcUN1M3ZBNnRadWhneEVyOUVFT0FId2NOajdtT2lLZGdnc2dHNVhkRXcwc1JLcW1yWnlhT3ZhU21Selg4bmpsNWg4aDQxeGZnaDNVdWRGbUsta2VMVTdqbjFkUl9rTmJuM1l3TmFaTnlPX2d3ZWdVSzlGQnF0c0pnbDdmSG5YOGZIQXJ4OTN0Y0toX1AzbnVNODBkMkgxcXpwMXpLdDEzZnducUMwbUdSNFZGM3JzN1hydw?oc=5",
    "type": null,
-   "time": "2026-11-26T10:58:00Z",
+   "time": "2026-11-27T15:16:00Z",
    "countries": [
     "Pakistan",
-    "China"
+    "Saudi Arabia",
+    "Turkey"
    ]
   },
   {
-   "id": "huge-plume-of-black-smoke-seen-from-space-after-",
+   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
    "country": "Saudi Arabia",
    "label": "САУДОВСКАЯ АРАВИЯ",
    "lat": 24.7,
@@ -150,157 +39,12 @@
    "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Огромный столб черного дыма виден из космоса после того, как хуситы заявили об ударе по крупнейшему нефтеперерабатывающему заводу Саудовской Аравии",
-   "summary": "Огромный столб черного дыма виден из космоса после того, как хуситы заявили об ударе по крупнейшему нефтеперерабатывающему заводу Саудовской Аравии",
+   "headline": "Союзники по Меккскому пакту осуждают «отвратительные» нападения хуситов на Саудовскую Аравию",
+   "summary": "Официальные лица Пакистана, Саудовской Аравии и Турции обещают защищать безопасность королевства во время переговоров в Исламабаде.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Огромный столб черного дыма виден из космоса после того, как хуситы заявили об ударе по крупнейшему нефтеперерабатывающему заводу Саудовской Аравии."
-    }
-   ],
-   "source": "CNN",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFJKcTlSNmZHYWt2WWZqdWxWTzhVX3Vqakhma0tlMlhBOWMtczBfOHdlMllydUdjTldlTlZwcFk3UmJNMGVqaHk3NzUyUEpKTGIzaVJOb0FZN3VBSzAtcW1hT3RCcE1hU1o4bmEwb1B6aGxpa0Q1QUFCbGJIbVdTdUpmcGhCcWZLdzl1OVlCQ0JHVHk2UzMzMl9YOGoxZw?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:23:29Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen"
-   ]
-  },
-  {
-   "id": "can-trump-continue-with-iran-war-despite-funding",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Сможет ли Трамп продолжать войну с Ираном, несмотря на ограничения финансирования?",
-   "summary": "Законопроект о бюджете Конгресса может послужить тактикой давления на Трампа с целью прекращения войны, но также может спровоцировать приостановку работы.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Сможет ли Трамп продолжать войну с Ираном, несмотря на ограничения финансирования?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Есть жертвы?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Законопроект о бюджете Конгресса может послужить тактикой давления на Трампа с целью прекращения войны, но также может спровоцировать приостановку работы."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T14:17:21Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "two-italians-killed-in-iranian-drone-attack-in-k",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Двое итальянцев погибли в результате атаки иранского беспилотника в Кувейте",
-   "summary": "Двое итальянцев погибли в результате атаки иранского беспилотника в Кувейте",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Двое итальянцев погибли в результате атаки иранского беспилотника в Кувейте."
-    }
-   ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjlZcjNRWExvSC0zaURTVmE2YjJuTHI5Z3ZQb3dxMGtCS09EMEVwNVc3T1hzTnZ5Z3czZGhqWDRNU2tNb1RTTFZOempjZHFKNE95SG54NjBGSlBHb2VqVlRqTTlwd3h0UUcyd3lGMDZuejRyamV5cmg5cVBlNlVZeVdNTDlyXzRhRjR1Qm1pbWI?oc=5",
-   "type": "LIVE",
-   "time": "2026-11-26T14:10:38Z",
-   "countries": [
-    "Iran",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "ukraine-says-it-has-intercepted-a-russian-jet-po",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Украина заявила, что впервые перехватила российский реактивный беспилотник с лазером",
-   "summary": "Украина заявила, что впервые перехватила российский реактивный беспилотник с лазером",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Украина заявляет, что впервые перехватила российский реактивный беспилотник с лазером."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVSaWFRWm5vY1pIZ2R5RFVxSjRwVjBNN3dWcTh0Z3VFR0o0Xzc0TWhMTHJQX0RHWG54RWI2dWhxenZmbGo1RFJsZ2Q3TC1aSmwyTzBRZWc3S3lDT2tNVGlQVWQzbmVyYTJ6U1pUcm9jcG5rQngtb3Q4R2JoXzBxSW1XWkZYZVV6SWt6YTNQbHBDejBFSzJ0Zy1OX0RVTVJY?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:02:53Z",
-   "countries": [
-    "Ukraine",
-    "Russia"
-   ]
-  },
-  {
-   "id": "seven-injured-four-critically-after-bangkok-oil-",
-   "country": "Thailand",
-   "label": "ТАИЛАНД",
-   "lat": 15.9,
-   "lon": 100.9,
-   "flag": "🇹🇭",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Семь ранены, четверо находятся в критическом состоянии в результате взрыва на нефтеперерабатывающем заводе в Бангкоке",
-   "summary": "После взрыва на горизонте Бангкока можно было увидеть черный дым, поскольку власти призвали жителей покинуть этот район.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Семь человек получили ранения, четверо находятся в критическом состоянии в результате взрыва на нефтеперерабатывающем заводе в Бангкоке."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "После взрыва на горизонте Бангкока можно было увидеть черный дым, поскольку власти призвали жителей покинуть этот район."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-26T11:21:50Z",
-   "countries": [
-    "Thailand"
-   ]
-  },
-  {
-   "id": "egypt-at-least-31-people-died-after-fuel-truck-o",
-   "country": "Egypt",
-   "label": "ЕГИПЕТ",
-   "lat": 26.8,
-   "lon": 30.8,
-   "flag": "🇪🇬",
-   "severity": "critical",
-   "category": "Business",
-   "headline": "Египет: по меньшей мере 31 человек погиб в результате опрокидывания бензовоза на шоссе Гиза недалеко от Каира",
-   "summary": "В столице Египта Каире в среду вспыхнул пожар, в результате которого погиб по меньшей мере 31 человек, сообщило министерство здравоохранения после того, как, как сообщается, бензовоз перевернулся на загруженном шоссе.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Египет: по меньшей мере 31 человек погиб в результате опрокидывания бензовоза на шоссе Гиза недалеко от Каира."
+     "text": "Союзники по пакту в Мекке осуждают «отвратительные» нападения хуситов на Саудовскую Аравию."
     },
     {
      "role": "COMMANDER",
@@ -308,139 +52,90 @@
     },
     {
      "role": "ANALYST",
-     "text": "В столице Египта Каире в среду вспыхнул пожар, в результате которого погиб по меньшей мере 31 человек, сообщило министерство здравоохранения после того, как, как сообщается, бензовоз перевернулся на загруженном шоссе."
+     "text": "Официальные лица Пакистана, Саудовской Аравии и Турции обещают защищать безопасность королевства во время переговоров в Исламабаде."
     }
    ],
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTzQta0htOVBwQy01aUdEVTZ6N3N4dTRlQU1xUEFmYVgzeEdDbFJBNHFDX0RtVUgyTTBBNmY2RnNRS190dllaWHlIMmhCa0ZHV25UeHVSbFdkdUJrMjJBS2RNYzV5TkJBLVA1THk3ekJSOUdTVnJ5RURCQ1RFMHFyWWt0M0lyazVpYTdwczVYVnhjZkdnSTBRZNIBmAFBVV95cUxQOUVZU2p2RGxzblpMSENLTU5YSFY4cnF4NThDU1piUWtFeEo0NWxXUFFkMnJZaXkwWHBteWVKOG5FQTNXZlYwc0ZhbXhlVGhVVTdMU2REbUxQOWtHeE5EdEtUcVhxTzRpazNWNHAyWm53UnNtdno2RFJ6N3I4Wm5VVHd3Y0N0dG5WRERFV0xLQjA1SGFmOG13Qg?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
    "type": null,
-   "time": "2026-11-26T10:02:06Z",
+   "time": "2026-11-27T17:41:24Z",
    "countries": [
-    "Egypt"
+    "Saudi Arabia",
+    "Yemen",
+    "Pakistan"
    ]
   },
   {
-   "id": "-symbolic-why-did-uk-sanction-yemen-s-houthis-am",
+   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
    "country": "Saudi Arabia",
    "label": "САУДОВСКАЯ АРАВИЯ",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "«Символично»: почему Великобритания ввела санкции против йеменских хуситов на фоне нападений на Саудовскую Аравию?",
-   "summary": "Великобритания вводит санкции против поддерживаемой Ираном группировки и ее лидеров, обвиняя их в подрыве стабильности на Ближнем Востоке.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "«Символично»: почему Великобритания ввела санкции против йеменских хуситов на фоне нападений на Саудовскую Аравию?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Кто стоит за этим?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Великобритания вводит санкции против поддерживаемой Ираном группировки и ее лидеров, обвиняя их в подрыве стабильности на Ближнем Востоке."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-26T12:10:49Z",
-   "countries": [
-    "Saudi Arabia",
-    "United Kingdom",
-    "Yemen",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-s-attack-to-break-the-siege",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Атака Ирана с целью прорвать блокаду",
-   "summary": "Атака Ирана с целью прорвать блокаду",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Атака Ирана с целью прорвать блокаду."
-    }
-   ],
-   "source": "Arab News",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTVdRaTdLankzQlNRMFZEUmIxOTRpRGN3U3h2eHFMSUJPSndjVlNva3BGNEN4c1NlQUJSa3FaVXZGS3o1T1cwM1h4MmlLak5MYVZUZVptU2c4U0VCMy1IY3Itd2JEZUV4RGJXN29yaDVmdmFzdGVMTlNtWU4?oc=5",
-   "type": null,
-   "time": "2026-11-26T12:08:02Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "how-an-oil-feud-is-deepening-rift-between-baghda",
-   "country": "Iraq",
-   "label": "ИРАК",
-   "lat": 33.2,
-   "lon": 43.7,
-   "flag": "🇮🇶",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Как нефтяная вражда усугубляет раскол между Багдадом и иракским курдским регионом",
-   "summary": "Решение премьер-министра аль-Заиди взять под контроль пограничные переходы и нефтяные месторождения вызвало резкую реакцию со стороны Эрбиля.",
+   "headline": "Нападения хуситов в Саудовской Аравии подвергают испытанию имидж безопасности королевства",
+   "summary": "Несмотря на забастовки, рынки и рестораны в Эр-Рияде остаются занятыми, поскольку жители выражают уверенность в том, что правительство их защитит.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Как нефтяная вражда усугубляет раскол между Багдадом и иракским курдским регионом."
+     "text": "Внутри Саудовской Аравии нападения хуситов подвергают испытанию имидж безопасности королевства."
     },
     {
      "role": "COMMANDER",
-     "text": "Что это значит для цен?"
+     "text": "Почему этот шаг?"
     },
     {
      "role": "ANALYST",
-     "text": "Решение премьер-министра аль-Заиди взять под контроль пограничные переходы и нефтяные месторождения вызвало резкую реакцию со стороны Эрбиля."
+     "text": "Несмотря на забастовки, рынки и рестораны в Эр-Рияде остаются занятыми, поскольку жители выражают уверенность в том, что правительство их защитит."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T14:10:00Z",
+   "time": "2026-11-27T06:04:51Z",
    "countries": [
-    "Iraq"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "bangladesh-speaker-meets-pakistan-president-atte",
+   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
    "country": "Bangladesh",
    "label": "БАНГЛАДЕШ",
    "lat": 23.7,
    "lon": 90.4,
    "flag": "🇧🇩",
    "severity": "info",
-   "category": "World",
-   "headline": "Спикер Бангладеш встретился с президентом Пакистана и присутствовал на ужине, устроенном премьер-министром",
-   "summary": "Спикер Бангладеш встретился с президентом Пакистана и присутствовал на ужине, устроенном премьер-министром",
+   "category": "Sports",
+   "headline": "Пакистанские «Шахины» вышли в финал «Восходящих звезд» Кубка Азии, победив с пятью калитками бангладешскую «А»",
+   "summary": "Пакистан Шахинс одержал сложную победу с пятью калитками над бангладешской «А» во втором полуфинале Кубка Азии «Восходящие звезды» в пятницу, преследуя цель в 233 мяча с 28 запасными мячами, чтобы забронировать себе место в воскресном финале против шри-ланкийской «А».",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Спикер Бангладеш встречается с президентом Пакистана и присутствует на ужине, устроенном премьер-министром."
+     "text": "Пакистанские «Шахины» вышли в финал «Восходящих звезд» Кубка Азии, одержав победу с пятью калитками над бангладешской командой «А»."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Хорошо, что еще?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Пакистан Шахинс одержал сложную победу с пятью калитками над бангладешской «А» во втором полуфинале Кубка Азии «Восходящие звезды» в пятницу, преследуя цель в 233 мяча с 28 запасными мячами, чтобы забронировать себе место в воскресном финале против шри-ланкийской «А»."
     }
    ],
-   "source": "The Business Standard",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3N6TDdFS2lBLTNxYTRDVGFkTW0zSkFZTzdJSVVMZGk0RGJscEJJWWNFcjltNGhrbmJGR3V1UkNiZllqR3NVTHVMOWxGWHpfNzNZWmliVEtmOHJ4TjFDNjJwQk01cWJzTzlET1VuRm1WNndkdDdSZWxySXNXZmlweVpEVjZsaVNUQ0ZySW9WZnk3YnMzaUZEZ1NDMVJTMnNUTEhxLTlYUEQ2ZVB3YkN6Mw?oc=5",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
    "type": null,
-   "time": "2026-11-26T09:20:02Z",
+   "time": "2026-11-27T18:56:18Z",
    "countries": [
     "Bangladesh",
-    "Pakistan"
+    "Pakistan",
+    "Sri Lanka"
    ]
   },
   {
-   "id": "igloo-acquires-dubai-insurtech-democrance-enteri",
+   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
@@ -448,78 +143,390 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Igloo приобретает Dubai InsurTech Democrance и выходит на рынок EMEA",
-   "summary": "Igloo приобретает Dubai InsurTech Democrance и выходит на рынок EMEA",
+   "headline": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией",
+   "summary": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Igloo приобретает Dubai InsurTech Democrance и выходит на рынок EMEA."
+     "text": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией."
     }
    ],
-   "source": "Reinsurance News",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON0RlR3dqZWcxUXFEU1ZiYlBxbXl2UDBTUEp5eWVrNEY2VXRURWJ4N1ZOdFhsVzYxVzRnYnlSRklaWS1QcnBzN0t6bVJjd0dIa0w1Sy1yRkU2UkRMd3BUVURfN1VUWVJKSldiS0hKa0NEY1pMa1o1cE9Eajl1VTZfalJteGg3d1lEZUVWUHo1TDVHc0dMYXBZ?oc=5",
+   "source": "POLITICO.eu",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
    "type": null,
-   "time": "2026-11-26T13:04:37Z",
+   "time": "2026-11-27T11:19:00Z",
    "countries": [
-    "United Arab Emirates"
+    "United Arab Emirates",
+    "Philippines",
+    "Indonesia"
    ]
   },
   {
-   "id": "hormuz-tanker-traffic-rises-this-month-even-as-a",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Движение танкеров Ормуз в этом месяце выросло, несмотря на рост числа атак",
-   "summary": "Движение танкеров Ормуз в этом месяце выросло, несмотря на рост числа атак",
+   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News",
+   "summary": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Трафик танкеров Ормуз в этом месяце растет, несмотря на увеличение количества атак."
+     "text": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News."
     }
    ],
-   "source": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQck13clVLM3Z3YkFxWGJyYmZYQTllN3AzR3lBZzlQNm00R2RQckxMczVRRXUwU3hlWEVsNzd0dTBYQVVPNU1lWkl3WDFYNk96MEsydHBtYk4tLUNwOVJtVWJtSzZtaTdoWGxla240NjFJRWNublpNRXY3eE43Nkt4dG5xa01kSnBQbk5CSmo3NkhGYVpidGt1UW5ZNnBfNjZzbFZSa0Qyal82SHdtcUJCTjAxTWI?oc=5",
+   "source": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
    "type": null,
-   "time": "2026-11-26T07:59:00Z",
+   "time": "2026-11-27T14:21:55Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "trump-backs-iraqi-pm-s-oil-smuggling-crackdown",
+   "country": "United States of America",
+   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Трамп поддержал меры премьер-министра Ирака по борьбе с контрабандой нефти",
+   "summary": "Багдад закрывает пограничные переходы, поскольку курдские власти предупреждают о нарушениях конституции и призывают к встрече.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Трамп поддерживает меры иракского премьер-министра по борьбе с контрабандой нефти."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Почему этот шаг?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Багдад закрывает пограничные переходы, поскольку курдские власти предупреждают о нарушениях конституции и призывают к встрече."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T16:13:07Z",
+   "countries": [
+    "United States of America",
+    "Iraq"
+   ]
+  },
+  {
+   "id": "donald-trump-tells-u-s-troops-they-ll-stay-in-ir",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Дональд Трамп заявил американским войскам, что они останутся в войне с Ираном, и заявил, что победа придет «всякий раз, когда я захочу», что вызвало негативную реакцию по всей стране",
+   "summary": "Дональд Трамп заявил американским войскам, что они останутся в войне с Ираном, и заявил, что победа придет «всякий раз, когда я захочу», что вызвало негативную реакцию по всей стране",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Дональд Трамп говорит американским войскам, что они останутся в войне с Ираном, и заявляет, что победа придет «всякий раз, когда я захочу», что вызвало негативную реакцию по всей стране."
+    }
+   ],
+   "source": "Yahoo Lifestyle Canada",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jS0pDdjc1LVNQTWxxNEVNRmhGM0NMVjlUQXVUR2xOLVF0Y0VoM3JpLWhyTFJiX3FjZ3k1NDE2MnVvMEJYUGFjallVZXdqdmtQOHgtOWVicHZ1VGRNREhpdllaMVhPNnN6SjRJMzdvY0RfOHRpWlo5dw?oc=5",
+   "type": null,
+   "time": "2026-11-27T15:53:39Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "zelensky-criticises-strange-trump-putin-friendsh",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Зеленский раскритиковал «странную» дружбу Трампа и Путина в интервью BBC",
+   "summary": "Президент Украины выражает разочарование по поводу США и говорит, что они недостаточно сильно подталкивают Россию на мирных переговорах, чтобы положить конец войне.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Зеленский раскритиковал «странную» дружбу Трампа и Путина в интервью BBC."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Кто стоит за этим?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Президент Украины выражает разочарование по поводу США и говорит, что они недостаточно сильно подталкивают Россию на мирных переговорах, чтобы положить конец войне."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-27T18:00:40Z",
+   "countries": [
+    "Ukraine",
+    "United States of America",
+    "Russia"
+   ]
+  },
+  {
+   "id": "italians-killed-in-kuwait-why-is-iran-denying-re",
+   "country": "Kuwait",
+   "label": "КУВЕЙТ",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "В Кувейте убиты итальянцы: почему Иран отрицает ответственность?",
+   "summary": "В Кувейте убиты итальянцы: почему Иран отрицает ответственность?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Итальянцы убиты в Кувейте: почему Иран снимает с себя ответственность?"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5",
+   "type": null,
+   "time": "2026-11-27T11:55:06Z",
+   "countries": [
+    "Kuwait",
+    "Iran"
+   ]
+  },
+  {
+   "id": "iran-says-oil-tanker-explodes-after-hitting-nava",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Иран заявил, что нефтяной танкер взорвался после наезда на морскую мину в Ормузском проливе",
+   "summary": "Иран заявил, что нефтяной танкер взорвался после наезда на морскую мину в Ормузском проливе",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран заявляет, что нефтяной танкер взорвался после того, как наткнулся на военно-морскую мину в Ормузском проливе."
+    }
+   ],
+   "source": "Anadolu Ajansı",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUVPUTlEQ05fLVA1MTNqa2tOejlucTkwaWZjZGxjWm9taWNneG12aFhKLXJqeEQ4QkdSWTYwcTBSX1VhcmlYclBkZXVOZnI3UFh1QThLeHJMbTBfU01Ia2FnTnRJb1NBcjg2c0pPeXRpNG1vejBUd2JoTGU2U2xTakp3UV9weHEzQy00RFZKS0M2bmUtMlpTWWUyWjF5NG1jZFloeUVnMEJrNWk1TVg4OXgydTYxLUFRZjBF?oc=5",
+   "type": null,
+   "time": "2026-11-27T11:39:59Z",
    "countries": [
     "Iran"
    ]
   },
   {
-   "id": "thirteen-dead-as-mine-disaster-highlights-illega",
-   "country": "Indonesia",
-   "label": "ИНДОНЕЗИЯ",
-   "lat": -0.8,
-   "lon": 113.9,
-   "flag": "🇮🇩",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Тринадцать погибших в результате катастрофы на шахте свидетельствуют о незаконной охоте за золотом",
-   "summary": "Индонезийские власти заявляют, что еще 13 человек пропали без вести на незаконном золотом руднике, который был затоплен в понедельник.",
+   "id": "pakistan-seeks-deeper-cooperation-with-iaea-on-n",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Пакистан стремится к более глубокому сотрудничеству с МАГАТЭ в области ядерной безопасности",
+   "summary": "Пакистан надеется на дальнейшее углубление сотрудничества с Международным агентством по атомной энергии (МАГАТЭ) и международными партнерами в поддержку устойчивой ядерной безопасности, заявило в пятницу министерство иностранных дел (FO).",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Тринадцать погибших в результате катастрофы на шахте свидетельствуют о незаконной охоте за золотом."
+     "text": "Пакистан стремится к более глубокому сотрудничеству с МАГАТЭ в области ядерной безопасности."
     },
     {
      "role": "COMMANDER",
-     "text": "Есть жертвы?"
+     "text": "Какова ситуация сейчас?"
     },
     {
      "role": "ANALYST",
-     "text": "Индонезийские власти заявляют, что еще 13 человек пропали без вести на незаконном золотом руднике, который был затоплен в понедельник."
+     "text": "Пакистан надеется на дальнейшее углубление сотрудничества с Международным агентством по атомной энергии (МАГАТЭ) и международными партнерами в поддержку устойчивой ядерной безопасности, заявило в пятницу министерство иностранных дел (FO)."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+   "type": null,
+   "time": "2026-11-27T11:14:28Z",
+   "countries": [
+    "Pakistan"
+   ]
+  },
+  {
+   "id": "ukraine-warns-of-a-black-sea-hormuz-as-attacks-t",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Украина предупреждает о Черноморском «Ормузе», поскольку нападения угрожают продовольственной помощи трем странам, которым грозит голод",
+   "summary": "Украина предупреждает о Черноморском «Ормузе», поскольку нападения угрожают продовольственной помощи трем странам, которым грозит голод",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Украина предупреждает о Черноморском «Ормузе», поскольку нападения угрожают продовольственной помощи трем странам, находящимся под угрозой голода."
+    }
+   ],
+   "source": "Kyiv Post",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUzRYNl9vWWx6emZudGJTREtUaTRINVczbzIydnF6WTBpTHEyQTZxVzhRamhzN1NxQjkxMFBhZ19mMWFNU2tVWm9rQQ?oc=5",
+   "type": null,
+   "time": "2026-11-27T16:20:48Z",
+   "countries": [
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "saudi-strike-kills-11-civilians-in-yemen-s-taiz-",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "В результате удара Саудовской Аравии в йеменском Таизе погибли «11 мирных жителей»: СМИ хуситов",
+   "summary": "В результате удара Саудовской Аравии в йеменском Таизе погибли «11 мирных жителей»: СМИ хуситов",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "В результате удара Саудовской Аравии в йеменском Таизе погибли «11 мирных жителей»: СМИ хуситов."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNuUFdtTUt3XzYtQXpoc0tKS1dHYzgyQ3lUVUpaOUhCQUpiZXRtOHY3VVlMMjNGdU12WWdpWk93Q0Y0dEh2T01zcTNueEJ6QVhUd2pIamllMko3SGhPYUdzS2ZkMlJEMGtuRzVzbGJkWGNQbWVTQXBtRDFvMElyS25meDlqejh6Rld0dzlRTkpJMUgtT2RJVm9reWFBVHczaUgw0gGoAUFVX3lxTFBGZmlMclJkbjEtNFgzNUtEc0V1RVJjU2F1ZTZWMFdKejhwa1h4aG5uSGlyRTdld1FhRS1kelJLeUxnUzVBQ2p1WjdYOTFKX3ZBeE5YcG5XcTNYdkVKVmN3MmpPd1RDLTRkODM3ME9qajZDd3Fpd0JPME5GRXRjVEhxZDh6T0g3c2hmZXVuNDFELXp1eTBkZlEyb2s4VVI1XzNQdWpfMkhETQ?oc=5",
+   "type": null,
+   "time": "2026-11-27T12:14:38Z",
+   "countries": [
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "uae-residents-update-us-iran-tensions-kuwait-att",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Обновленная информация жителей ОАЭ: напряженность между США и Ираном, атака в Кувейте, забастовка на саудовском нефтеперерабатывающем заводе и сбои в полетах",
+   "summary": "Обновленная информация жителей ОАЭ: напряженность между США и Ираном, атака в Кувейте, забастовка на саудовском нефтеперерабатывающем заводе и сбои в полетах",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Обновленная информация жителей ОАЭ: напряженность между США и Ираном, атака в Кувейте, забастовка на саудовском нефтеперерабатывающем заводе и сбои в полетах."
+    }
+   ],
+   "source": "Gulf News",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
+   "type": null,
+   "time": "2026-11-27T07:46:11Z",
+   "countries": [
+    "United Arab Emirates",
+    "United States of America",
+    "Iran",
+    "Kuwait",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "weary-of-war-but-with-no-sign-of-backing-down-ky",
+   "country": "Ukraine",
+   "label": "УКРАИНА",
+   "lat": 49.0,
+   "lon": 31.4,
+   "flag": "🇺🇦",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Уставший от войны, но не имеющий никаких признаков отступления, Киев ждет еще одна суровая зима",
+   "summary": "Украина готовится к еще одной опустошительной зиме, поскольку остается вопрос: чем все это закончится?",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Уставший от войны, но не имеющий никаких признаков отступления, Киев ждет еще одна суровая зима."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Украина готовится к еще одной опустошительной зиме, поскольку остается вопрос: чем все это закончится?"
     }
    ],
    "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
    "type": null,
-   "time": "2026-11-26T07:31:24Z",
+   "time": "2026-11-27T18:42:50Z",
    "countries": [
-    "Indonesia"
+    "Ukraine"
+   ]
+  },
+  {
+   "id": "iran-accused-of-deadly-drone-attack-in-kuwait-th",
+   "country": "Kuwait",
+   "label": "КУВЕЙТ",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Иран обвиняют в смертельной атаке беспилотников в Кувейте, что вызывает призыв ЕС усилить давление на Тегеран",
+   "summary": "Иран обвиняют в смертельной атаке беспилотников в Кувейте, что вызывает призыв ЕС усилить давление на Тегеран",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Иран обвиняют в смертельной атаке беспилотников в Кувейте, что вызывает призыв ЕС усилить давление на Тегеран."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
+   "type": null,
+   "time": "2026-11-27T10:07:00Z",
+   "countries": [
+    "Kuwait",
+    "Iran"
+   ]
+  },
+  {
+   "id": "dubai-s-stock-market-rises-14-per-cent-in-novemb",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "markets",
+   "category": "Markets",
+   "headline": "Фондовый рынок Дубая в ноябре вырос на 14 процентов",
+   "summary": "Фондовый рынок Дубая в ноябре вырос на 14 процентов",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Фондовый рынок Дубая в ноябре вырос на 14 процентов."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFVMGZDMUtSMzFIckdnVUViWmo5eEpVd24zanlTY2loOHRlcjNHclRkUWNkT1NIeGNKYzJKV0tLVUhXNkpLWnp0X2MwcjhPemZsMjB0WjRrOG9QSWY4aHZKbWo3d2VXcGgzODVvYS1fV0xCUGljTmdFU0g3U1lwblU1MHJmRjU3RnZLUkp3NkJqQXB2ZWg0Q2pkLUFQNXhwdThxWHJFRmdnWXUtSGJB?oc=5",
+   "type": null,
+   "time": "2026-11-27T17:15:00Z",
+   "countries": [
+    "United Arab Emirates"
    ]
   }
  ]
