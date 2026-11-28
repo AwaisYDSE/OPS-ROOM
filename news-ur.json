@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "ur",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "پاکستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "پاکستان مکہ معاہدے کے تحت سعودی عرب اور ترکی کے ساتھ دفاعی مذاکرات کی میزبانی کر رہا ہے۔",
-   "summary": "پاکستان مکہ معاہدے کے تحت سعودی عرب اور ترکی کے ساتھ دفاعی مذاکرات کی میزبانی کر رہا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "پاکستان مکہ معاہدے کے تحت سعودی عرب اور ترکی کے ساتھ دفاعی مذاکرات کی میزبانی کر رہا ہے۔"
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "ریاستہائے متحدہ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "امریکہ نے ایران کی ناکہ بندی کی خلاف ورزی کرنے والے جہاز کو ناکارہ بنا دیا۔",
-   "summary": "امریکی فوج کا کہنا ہے کہ اس نے ایک تجارتی بحری جہاز کو ایرانی بندرگاہ سے نکلنے اور رکنے کی وارننگ کو نظر انداز کرنے کے بعد ناکارہ بنا دیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "امریکہ نے ایران کی ناکہ بندی کی خلاف ورزی کرنے والے جہاز کو ناکارہ بنا دیا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "مجھے تفصیلات دیں۔"
-    },
-    {
-     "role": "ANALYST",
-     "text": "امریکی فوج کا کہنا ہے کہ اس نے ایک تجارتی بحری جہاز کو ایرانی بندرگاہ سے نکلنے اور رکنے کی وارننگ کو نظر انداز کرنے کے بعد ناکارہ بنا دیا۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "سعودی عرب",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "مکہ معاہدے کے اتحادیوں نے سعودی عرب پر 'گھناؤنے' حوثی حملوں کی مذمت کی ہے۔",
-   "summary": "پاکستان، سعودی عرب اور ترکی کے حکام نے اسلام آباد میں بات چیت کے دوران مملکت کی سلامتی کے تحفظ کا عہد کیا۔",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "مکہ معاہدہ ممالک نے علاقائی سلامتی کا جائزہ لیا، سعودی عرب پر حوثی حملوں کی مذمت کی۔",
+   "summary": "جمعہ کو مکہ مشترکہ دفاعی معاہدے کے اعلیٰ ترین فیصلہ ساز ادارے کے اجلاس میں علاقائی سلامتی کی صورتحال کا جائزہ لیا گیا اور سعودی عرب پر حوثیوں کے \"مسلسل اور گھناؤنے\" حملوں کی مذمت کی گئی۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "مکہ معاہدے کے اتحادیوں نے سعودی عرب پر 'گھناؤنے' حوثی حملوں کی مذمت کی ہے۔"
+     "text": "مکہ معاہدہ ممالک نے علاقائی سلامتی کا جائزہ لیا، سعودی عرب پر حوثی حملوں کی مذمت کی۔"
     },
     {
      "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
+     "text": "ٹھیک ہے، اور کیا؟"
     },
     {
      "role": "ANALYST",
-     "text": "پاکستان، سعودی عرب اور ترکی کے حکام نے اسلام آباد میں بات چیت کے دوران مملکت کی سلامتی کے تحفظ کا عہد کیا۔"
+     "text": "جمعہ کو مکہ مشترکہ دفاعی معاہدے کے اعلیٰ ترین فیصلہ ساز ادارے کے اجلاس میں علاقائی سلامتی کی صورتحال کا جائزہ لیا گیا اور سعودی عرب پر حوثیوں کے \"مسلسل اور گھناؤنے\" حملوں کی مذمت کی گئی۔"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "سعودی عرب کے اندر، حوثی حملے مملکت کی سلامتی کی تصویر کو جانچتے ہیں۔",
-   "summary": "ہڑتالوں کے باوجود، ریاض میں بازار اور ریستوراں مصروف رہتے ہیں کیونکہ مکین حکومت پر اعتماد کا اظہار کرتے ہیں کہ وہ ان کی حفاظت کر سکیں۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "سعودی عرب کے اندر، حوثی حملے مملکت کی سلامتی کی تصویر کو جانچتے ہیں۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اقدام کیوں؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ہڑتالوں کے باوجود، ریاض میں بازار اور ریستوراں مصروف رہتے ہیں کیونکہ مکین حکومت پر اعتماد کا اظہار کرتے ہیں کہ وہ ان کی حفاظت کر سکیں۔"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "متحدہ عرب امارات",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "ایشیا پیسیفک تجارتی بلاک نے متحدہ عرب امارات، فلپائن اور انڈونیشیا کے ساتھ الحاق کے مذاکرات کا آغاز کیا",
-   "summary": "ایشیا پیسیفک تجارتی بلاک نے متحدہ عرب امارات، فلپائن اور انڈونیشیا کے ساتھ الحاق کے مذاکرات کا آغاز کیا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایشیا پیسیفک تجارتی بلاک نے متحدہ عرب امارات، فلپائن اور انڈونیشیا کے ساتھ الحاق کے مذاکرات کا آغاز کیا۔"
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "ایران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ایران جنگ لائیو: اٹلی کا کہنا ہے کہ کویت پر مہلک حملے میں ڈرون ایران میں بنایا گیا تھا۔",
-   "summary": "اطالوی وزیر خارجہ انتونیو تاجانی کا کہنا ہے کہ کویت میں مہلک حملے کے پیچھے ڈرون ایران میں بنایا گیا تھا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ایران جنگ لائیو: اٹلی کا کہنا ہے کہ کویت پر مہلک حملے میں ڈرون ایران میں بنایا گیا تھا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "اطالوی وزیر خارجہ انتونیو تاجانی کا کہنا ہے کہ کویت میں مہلک حملے کے پیچھے ڈرون ایران میں بنایا گیا تھا۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "بنگلہ دیش",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "پاکستان شاہینز نے بنگلہ دیش اے کو پانچ وکٹوں سے شکست دے کر ایشیا کپ رائزنگ سٹارز کے فائنل میں جگہ بنالی",
-   "summary": "پاکستان شاہینز نے جمعہ کو ایشیا کپ رائزنگ سٹارز کے دوسرے سیمی فائنل میں بنگلہ دیش 'اے' کو پانچ وکٹوں سے شکست دے کر سری لنکا 'اے' کے خلاف اتوار کو ہونے والے فائنل میں جگہ بنانے کے لیے 28 گیندوں باقی رہ کر 233 رنز کے ہدف کا تعاقب کیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "پاکستان شاہینز نے بنگلہ دیش اے کو پانچ وکٹوں سے شکست دے کر ایشیا کپ رائزنگ سٹارز کے فائنل میں جگہ بنالی۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "سمجھ گیا چلو۔"
-    },
-    {
-     "role": "ANALYST",
-     "text": "پاکستان شاہینز نے جمعہ کو ایشیا کپ رائزنگ سٹارز کے دوسرے سیمی فائنل میں بنگلہ دیش 'اے' کو پانچ وکٹوں سے شکست دے کر سری لنکا 'اے' کے خلاف اتوار کو ہونے والے فائنل میں جگہ بنانے کے لیے 28 گیندوں باقی رہ کر 233 رنز کے ہدف کا تعاقب کیا۔"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "یمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "پاکستان، ترکی نے حوثیوں کے حملوں کے خلاف سعودی عرب کی حمایت بڑھانے کا عہد کیا۔",
-   "summary": "پاکستان، ترکی نے حوثیوں کے حملوں کے خلاف سعودی عرب کی حمایت بڑھانے کا عہد کیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "پاکستان، ترکی نے حوثیوں کے حملوں کے خلاف سعودی عرب کی حمایت بڑھانے کا عہد کیا۔"
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "فلسطین",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "حماس کے سربراہ کا آخری زندہ بچ جانے والا بیٹا غزہ میں اسرائیلی حملے سے بچ گیا۔",
-   "summary": "حماس کے رہنما خلیل الحیا کا آخری زندہ بچ جانے والا بیٹا عزالدین جمعہ کے روز ایک اسرائیلی قاتلانہ حملے میں بال بال بچ گیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "حماس کے سربراہ کا آخری زندہ بچ جانے والا بیٹا غزہ میں اسرائیلی حملے سے بچ گیا۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "حماس کے رہنما خلیل الحیا کا آخری زندہ بچ جانے والا بیٹا عزالدین جمعہ کے روز ایک اسرائیلی قاتلانہ حملے میں بال بال بچ گیا۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "پاکستان",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "پاکستان میں عمارت گرنے سے مرنے والوں کی تعداد 8 ہو گئی جب کہ 10 لاپتہ - ABC News",
-   "summary": "پاکستان میں عمارت گرنے سے مرنے والوں کی تعداد 8 ہو گئی جب کہ 10 لاپتہ - ABC News",
+   "headline": "پاکستان، ترکی اور سعودی عرب نے مکہ اتحاد کو وسعت دینے پر بات کی۔",
+   "summary": "پاکستان، ترکی اور سعودی عرب نے مکہ اتحاد کو وسعت دینے پر بات کی۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "پاکستان میں عمارت گرنے سے مرنے والوں کی تعداد 8 ہو گئی جب کہ 10 لاپتہ - ABC News"
+     "text": "پاکستان، ترکی اور سعودی عرب نے مکہ اتحاد کو وسعت دینے پر بات کی۔"
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "تائیوان",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "کیا تائیوان جوہری طاقت کو بحال کرنے کے لیے ووٹ دے گا – اور یہ AI کے لیے کیوں اہم ہے؟",
-   "summary": "ووٹرز ہفتے کو فیصلہ کریں گے کہ آیا ملک کی 'جوہری ہتھیاروں سے پاک وطن' کی پالیسی کو ختم کرنا ہے۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "کیا تائیوان جوہری طاقت کو بحال کرنے کے لیے ووٹ دے گا – اور یہ AI کے لیے کیوں اہمیت رکھتا ہے؟"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "اب کیا حال ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "ووٹرز ہفتے کو فیصلہ کریں گے کہ آیا ملک کی 'جوہری ہتھیاروں سے پاک وطن' کی پالیسی کو ختم کرنا ہے۔"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "آبنائے ہرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "سعودی عرب",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "آئی آر جی سی کا کہنا ہے کہ ہرمز کے قریب دو ٹینکر بارودی سرنگوں سے ٹکرا گئے۔",
-   "summary": "آئی آر جی سی کا کہنا ہے کہ ہرمز کے قریب دو ٹینکر بارودی سرنگوں سے ٹکرا گئے۔",
+   "headline": "سعودی عرب نے ریاض پر حوثی باغیوں کا کروز میزائل مار گرایا",
+   "summary": "سعودی عرب نے ریاض پر حوثی باغیوں کا کروز میزائل مار گرایا",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "آئی آر جی سی کا کہنا ہے کہ ہرمز کے قریب دو ٹینکر بارودی سرنگوں سے ٹکرا گئے۔"
+     "text": "سعودی عرب نے ریاض پر حوثی باغیوں کا کروز میزائل مار گرایا۔"
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "یوکرین",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "زیلنسکی نے بی بی سی کو انٹرویو میں ٹرمپ اور پوتن دوستی پر 'عجیب' تنقید کی۔",
-   "summary": "یوکرین کے صدر نے امریکہ سے مایوسی کا اظہار کرتے ہوئے کہا ہے کہ وہ جنگ کے خاتمے کے لیے امن مذاکرات میں روس پر اتنا زور نہیں دے رہا ہے۔",
+   "category": "Pakistan",
+   "headline": "بلوچ کالونی کی عمارت گرنے سے جاں بحق افراد کی تعداد 11 ہوگئی، امدادی کارکنوں نے مزید 3 لاشیں نکال لیں۔",
+   "summary": "کراچی: امدادی کارکنوں نے ہفتے کے روز کراچی کے علاقے بلوچ کالونی کے قریب منہدم ہونے والی 6 منزلہ عمارت کے ملبے سے مزید 3 لاشیں نکال لیں، جس کے بعد ہلاکتوں کی تعداد 11 ہوگئی۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "زیلنسکی نے بی بی سی کو انٹرویو میں ٹرمپ اور پوتن دوستی پر 'عجیب' تنقید کی۔"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "کیا یہ تصدیق شدہ ہے؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "یوکرین کے صدر نے امریکہ سے مایوسی کا اظہار کرتے ہوئے کہا ہے کہ وہ جنگ کے خاتمے کے لیے امن مذاکرات میں روس پر اتنا زور نہیں دے رہا ہے۔"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "تائیوان",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "2026 کے انتخابات تائیوان کے '9-ان-1' انتخابات، جوہری ریفرنڈم کے لیے پول کھل گئے",
-   "summary": "2026 کے انتخابات تائیوان کے '9-ان-1' انتخابات، جوہری ریفرنڈم کے لیے پول کھل گئے",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "2026 کے انتخابات تائیوان کے '9-in-1' انتخابات، جوہری ریفرنڈم کے لیے پول کھل گئے۔"
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "سپین",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "اسپین کے کینری جزائر کے قریب تارکین وطن کی کشتی پر کم از کم آٹھ مردہ پائے گئے۔",
-   "summary": "ہسپانوی ریسکیو سروس کا کہنا ہے کہ چھ افراد کو تشویشناک حالت میں ہسپتال منتقل کیا گیا۔",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "اسپین کے کینری جزائر کے قریب تارکین وطن کی کشتی پر کم از کم آٹھ مردہ پائے گئے۔"
+     "text": "بلوچ کالونی میں عمارت گرنے سے جاں بحق افراد کی تعداد 11 ہوگئی، امدادی کارکنوں نے مزید 3 لاشیں نکال لیں۔"
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "ہسپانوی ریسکیو سروس کا کہنا ہے کہ چھ افراد کو تشویشناک حالت میں ہسپتال منتقل کیا گیا۔"
+     "text": "کراچی: امدادی کارکنوں نے ہفتے کے روز کراچی کے علاقے بلوچ کالونی کے قریب منہدم ہونے والی 6 منزلہ عمارت کے ملبے سے مزید 3 لاشیں نکال لیں، جس کے بعد ہلاکتوں کی تعداد 11 ہوگئی۔"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "سعودی عرب",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "یمن پر سعودی زیرقیادت اتحاد کے حملے کے بعد حوثیوں نے سعودی تیل کی تنصیبات کو نشانہ بنایا – WISH-TV",
-   "summary": "یمن پر سعودی زیرقیادت اتحاد کے حملے کے بعد حوثیوں نے سعودی تیل کی تنصیبات کو نشانہ بنایا – WISH-TV",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "آسٹریلیا",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "ڈبلیو ڈبلیو ای اسٹار برونسن ریڈ کا 38 سال کی عمر میں انتقال ہوگیا۔",
+   "summary": "38 سالہ آسٹریلوی کے لیے خراج تحسین کا سیلاب آ گیا ہے جس کے پسماندگان میں ان کی حاملہ بیوی، پائیج، ان کی بیٹی ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "یمن پر سعودی زیرقیادت اتحاد کے حملے کے بعد حوثیوں نے سعودی تیل کی تنصیبات کو نشانہ بنایا - WISH-TV"
+     "text": "ڈبلیو ڈبلیو ای اسٹار برونسن ریڈ کا 38 سال کی عمر میں انتقال ہوگیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "اب کیا حال ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "38 سالہ آسٹریلوی کے لیے خراج تحسین کا سیلاب آ گیا ہے جس کے پسماندگان میں ان کی حاملہ بیوی، پائیج، ان کی بیٹی ہے۔"
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ایران جنگ کی تازہ ترین معلومات: امریکی افواج نے تجارتی جہاز کو غیر فعال کر دیا جس نے مبینہ طور پر ایرانی بندرگاہوں پر ناکہ بندی کی خلاف ورزی کی",
+   "summary": "ایران جنگ کی تازہ ترین معلومات: امریکی افواج نے تجارتی جہاز کو غیر فعال کر دیا جس نے مبینہ طور پر ایرانی بندرگاہوں پر ناکہ بندی کی خلاف ورزی کی",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایران جنگ کی تازہ ترین معلومات: امریکی افواج نے تجارتی جہاز کو غیر فعال کر دیا جس نے مبینہ طور پر ایرانی بندرگاہوں پر ناکہ بندی کی خلاف ورزی کی تھی۔"
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "پاکستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "پاکستان، سعودی عرب اور ترکی نے مشترکہ دفاعی عزم کا اعادہ کیا۔",
+   "summary": "پاکستان، سعودی عرب اور ترکی نے مشترکہ دفاعی عزم کا اعادہ کیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "پاکستان، سعودی عرب اور ترکی نے مشترکہ دفاعی عزم کا اعادہ کیا۔"
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "متحدہ عرب امارات",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "خلیجی منڈیوں کی قیادت کے لیے دبئی اسٹاک کی ریلی",
-   "summary": "خلیجی منڈیوں کی قیادت کے لیے دبئی اسٹاک کی ریلی",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "دبئی بین الاقوامی ہوائی اڈے کی روانگی",
+   "summary": "دبئی بین الاقوامی ہوائی اڈے کی روانگی",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "خلیجی منڈیوں کی قیادت کے لیے دبئی اسٹاک کی ریلی۔"
+     "text": "دبئی بین الاقوامی ہوائی اڈے کی روانگی۔"
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "کویت",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "متحدہ عرب امارات نے کویت پر جارحانہ ایرانی ڈرون حملے کی مذمت کی ہے۔",
-   "summary": "متحدہ عرب امارات نے کویت پر جارحانہ ایرانی ڈرون حملے کی مذمت کی ہے۔",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "تائیوان",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "تائیوان بلدیاتی انتخابات میں میئرز اور دیگر لیڈروں کے انتخاب کے لیے ووٹ دیتا ہے۔",
+   "summary": "تائی پے میں میئر کی کلیدی دوڑ، جو کہ حزب اختلاف کی جماعت Kuomintang کا گڑھ ہے، حکومت کرنے والی ڈیموکریٹک پروگریسو پارٹی کا امتحان لے رہی ہے۔",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "متحدہ عرب امارات نے کویت پر جارحانہ ایرانی ڈرون حملے کی مذمت کی ہے۔"
+     "text": "تائیوان بلدیاتی انتخابات میں میئرز اور دیگر لیڈروں کے انتخاب کے لیے ووٹ دیتا ہے۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "اثر کیا ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تائی پے میں میئر کی کلیدی دوڑ، جو کہ حزب اختلاف کی جماعت Kuomintang کا گڑھ ہے، حکومت کرنے والی ڈیموکریٹک پروگریسو پارٹی کا امتحان لے رہی ہے۔"
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "اسرائیل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ڈاکٹرز ودآؤٹ بارڈرز غزہ کے کلینک پر اسرائیلی ’براہ راست حملہ‘ 2 عملہ ہلاک",
+   "summary": "MSF کا کہنا ہے کہ احاطے کو اس کے لوگو کے ساتھ 'واضح طور پر نشان زد' کیا گیا ہے، وہ مقام جسے اسرائیلی فوج نے بتایا اور جانا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ڈاکٹرز ودآؤٹ بارڈرز غزہ کے کلینک پر اسرائیلی ’براہ راست حملہ‘ 2 عملہ ہلاک"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ہم اب تک کیا جانتے ہیں؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "MSF کا کہنا ہے کہ احاطے کو اس کے لوگو کے ساتھ 'واضح طور پر نشان زد' کیا گیا ہے، وہ مقام جسے اسرائیلی فوج نے بتایا اور جانا ہے۔"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "افغانستان",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "افغان اسکول کے قریب دھماکے میں متعدد طلبہ ہلاک",
+   "summary": "افغانستان کے شہر اسد آباد میں ایک مڈل سکول کے قریب ہونے والے دھماکے میں کم از کم چھ طالب علم ہلاک اور 97 زخمی ہو گئے ہیں۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "افغان اسکول کے قریب دھماکے میں متعدد طلبہ ہلاک۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "کوئی جانی نقصان؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "افغانستان کے شہر اسد آباد میں ایک مڈل سکول کے قریب ہونے والے دھماکے میں کم از کم چھ طالب علم ہلاک اور 97 زخمی ہو گئے ہیں۔"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "چین",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "چینی انجینئر ابوظہبی ڈرلنگ رگ لگانے کے لیے ہرمز کی ناکہ بندی سے انکار کر رہے ہیں۔",
+   "summary": "چینی انجینئر ابوظہبی ڈرلنگ رگ لگانے کے لیے ہرمز کی ناکہ بندی سے انکار کر رہے ہیں۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "چینی انجینئر ابوظہبی ڈرلنگ رگ لگانے کے لیے ہرمز کی ناکہ بندی سے انکار کر رہے ہیں۔"
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "اسرائیل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ایم ایس ایف کا کہنا ہے کہ غزہ کے طبی کلینک پر اسرائیلی حملے میں دو عملہ ہلاک ہوگیا۔",
+   "summary": "اسرائیلی فوج کا کہنا ہے کہ اس نے حملے میں \"حماس کے دہشت گردوں\" کو نشانہ بنایا جس کی عالمی ادارہ صحت نے مذمت کی ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ایم ایس ایف کا کہنا ہے کہ غزہ کے طبی کلینک پر اسرائیلی حملے میں دو عملہ ہلاک ہوگیا۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "کیا یہ تصدیق شدہ ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "اسرائیلی فوج کا کہنا ہے کہ اس نے حملے میں \"حماس کے دہشت گردوں\" کو نشانہ بنایا جس کی عالمی ادارہ صحت نے مذمت کی ہے۔"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "متحدہ عرب امارات تمام ساتوں امارات میں عید الاضحیٰ کی تقریبات کے ساتھ منائے گا۔",
+   "summary": "متحدہ عرب امارات تمام ساتوں امارات میں عید الاضحیٰ کی تقریبات کے ساتھ منائے گا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "متحدہ عرب امارات تمام ساتوں امارات میں عید الاضحیٰ کی تقریبات کے ساتھ منائے گا۔"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "متحدہ عرب امارات",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "بیوی کو خدشہ ہے کہ دبئی میں بھرتی ہونے والا OFW شوہر اب روس کے جنگی زون میں پھنس گیا ہے - ABS-CBN",
+   "summary": "بیوی کو خدشہ ہے کہ دبئی میں بھرتی ہونے والا OFW شوہر اب روس کے جنگی زون میں پھنس گیا ہے - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "بیوی کو خدشہ ہے کہ دبئی میں بھرتی ہونے والا OFW شوہر اب روس کے جنگی زون میں پھنس گیا ہے - ABS-CBN۔"
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "افغانستان",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "اہلکار کا کہنا ہے کہ افغانستان میں دھماکے میں سات طالب علم ہلاک اور تقریباً 100 زخمی ہوئے۔",
+   "summary": "افغانستان کی وزارت داخلہ کے ترجمان کا کہنا ہے کہ دھماکہ قریبی بارود کے ڈپو میں لاپرواہی کے باعث ہوا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "اہلکار کا کہنا ہے کہ افغانستان میں دھماکے میں سات طالب علم ہلاک اور تقریباً 100 زخمی ہوئے۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "کیا یہ تصدیق شدہ ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "افغانستان کی وزارت داخلہ کے ترجمان کا کہنا ہے کہ دھماکہ قریبی بارود کے ڈپو میں لاپرواہی کے باعث ہوا۔"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "یمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "یمن کی حکومتی فورسز نے حوثیوں کے ٹھکانوں کو ایسے ہی نشانہ بنایا جب اقوام متحدہ نے بھوک کے بحران سے خبردار کیا ہے۔",
+   "summary": "اقوام متحدہ کے مطابق، تقریباً 1.8 ملین افراد کو حکومت کے زیر قبضہ علاقوں میں بھوک کی ہنگامی سطح کا سامنا ہے۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "یمن کی حکومتی فورسز نے حوثیوں کے ٹھکانوں کو ایسے ہی نشانہ بنایا جب اقوام متحدہ نے بھوک کے بحران سے خبردار کیا ہے۔"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "اب کیا حال ہے؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "اقوام متحدہ کے مطابق، تقریباً 1.8 ملین افراد کو حکومت کے زیر قبضہ علاقوں میں بھوک کی ہنگامی سطح کا سامنا ہے۔"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "ایران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "سینٹ کام نے جنگی جہاز پر حملے، ہرمز شپنگ الزامات پر ایران کے دعووں کو مسترد کر دیا۔",
+   "summary": "سینٹ کام نے جنگی جہاز پر حملے، ہرمز شپنگ الزامات پر ایران کے دعووں کو مسترد کر دیا۔",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "سینٹ کام نے جنگی جہاز پر حملے، ہرمز شپنگ الزامات پر ایران کے دعووں کو مسترد کر دیا۔"
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }

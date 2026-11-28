@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "ru",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "ПАКИСТАН",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке",
-   "summary": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан проводит переговоры по обороне с Саудовской Аравией и Турцией в рамках пакта в Мекке."
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "СОЕДИНЕННЫЕ ШТАТЫ",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "США вывели из строя корабль, пытавшийся прорвать блокаду Ирана",
-   "summary": "Американские военные заявляют, что вывели из строя коммерческое судно после того, как оно покинуло иранский порт, и проигнорировали предупреждения об остановке.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "США вывели из строя корабль, пытавшийся прорвать блокаду Ирана."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Дайте мне подробности."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Американские военные заявляют, что вывели из строя коммерческое судно после того, как оно покинуло иранский порт, и проигнорировали предупреждения об остановке."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "САУДОВСКАЯ АРАВИЯ",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Союзники по Меккскому пакту осуждают «отвратительные» нападения хуситов на Саудовскую Аравию",
-   "summary": "Официальные лица Пакистана, Саудовской Аравии и Турции обещают защищать безопасность королевства во время переговоров в Исламабаде.",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Страны Меккского пакта пересматривают региональную безопасность и осуждают нападения хуситов на Саудовскую Аравию",
+   "summary": "Заседание высшего руководящего органа Соглашения о совместной обороне Мекки в пятницу рассмотрело ситуацию с региональной безопасностью и осудило «постоянные и отвратительные» нападения хуситов на Саудовскую Аравию.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Союзники по пакту в Мекке осуждают «отвратительные» нападения хуситов на Саудовскую Аравию."
+     "text": "Страны Меккского пакта пересматривают региональную безопасность и осуждают нападения хуситов на Саудовскую Аравию."
     },
     {
      "role": "COMMANDER",
-     "text": "Это подтверждено?"
+     "text": "Хорошо, что еще?"
     },
     {
      "role": "ANALYST",
-     "text": "Официальные лица Пакистана, Саудовской Аравии и Турции обещают защищать безопасность королевства во время переговоров в Исламабаде."
+     "text": "Заседание высшего руководящего органа Соглашения о совместной обороне Мекки в пятницу рассмотрело ситуацию с региональной безопасностью и осудило «постоянные и отвратительные» нападения хуситов на Саудовскую Аравию."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Нападения хуситов в Саудовской Аравии подвергают испытанию имидж безопасности королевства",
-   "summary": "Несмотря на забастовки, рынки и рестораны в Эр-Рияде остаются занятыми, поскольку жители выражают уверенность в том, что правительство их защитит.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Внутри Саудовской Аравии нападения хуситов подвергают испытанию имидж безопасности королевства."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Почему этот шаг?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Несмотря на забастовки, рынки и рестораны в Эр-Рияде остаются занятыми, поскольку жители выражают уверенность в том, что правительство их защитит."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией",
-   "summary": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Азиатско-Тихоокеанский торговый блок начинает переговоры о вступлении с ОАЭ, Филиппинами и Индонезией."
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "ИРАН",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Война в Иране в прямом эфире: Италия заявляет, что беспилотник, нанесший смертельный удар по Кувейту, был совершен в Иране",
-   "summary": "Министр иностранных дел Италии Антонио Таяни заявил, что дрон, нанесший смертельный удар по Кувейту, был изготовлен в Иране.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Война в Иране в прямом эфире: Италия заявляет, что беспилотник в смертельной атаке в Кувейте был совершен в Иране."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Это подтверждено?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Министр иностранных дел Италии Антонио Таяни заявил, что дрон, нанесший смертельный удар по Кувейту, был изготовлен в Иране."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "БАНГЛАДЕШ",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Пакистанские «Шахины» вышли в финал «Восходящих звезд» Кубка Азии, победив с пятью калитками бангладешскую «А»",
-   "summary": "Пакистан Шахинс одержал сложную победу с пятью калитками над бангладешской «А» во втором полуфинале Кубка Азии «Восходящие звезды» в пятницу, преследуя цель - 233 с 28 запасными мячами, чтобы забронировать себе место в воскресном финале против шри-ланкийской «А».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистанские «Шахины» вышли в финал «Восходящих звезд» Кубка Азии, одержав победу с пятью калитками над бангладешской командой «А»."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Понял. Продолжать."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Пакистан Шахинс одержал сложную победу с пятью калитками над бангладешской «А» во втором полуфинале Кубка Азии «Восходящие звезды» в пятницу, преследуя цель - 233 с 28 запасными мячами, чтобы забронировать себе место в воскресном финале против шри-ланкийской «А»."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "ЙЕМЕН",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Пакистан и Турция обещают усилить поддержку Саудовской Аравии в борьбе с нападениями хуситов",
-   "summary": "Пакистан и Турция обещают усилить поддержку Саудовской Аравии в борьбе с нападениями хуситов",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Пакистан и Турция обещают усилить поддержку Саудовской Аравии в борьбе с нападениями хуситов."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "ПАЛЕСТИНА",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Последний выживший сын главы ХАМАС избежал израильского удара по сектору Газа",
-   "summary": "Последний выживший сын лидера ХАМАС Халила аль-Хайи Иззельдин пережил покушение со стороны Израиля в пятницу.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Последний выживший сын главы ХАМАС избежал израильского удара в секторе Газа."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Это подтверждено?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Последний выживший сын лидера ХАМАС Халила аль-Хайи Иззельдин пережил покушение со стороны Израиля в пятницу."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "ПАКИСТАН",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News",
-   "summary": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News",
+   "headline": "Пакистан, Турция и Саудовская Аравия обсуждают расширение альянса в Мекке",
+   "summary": "Пакистан, Турция и Саудовская Аравия обсуждают расширение альянса в Мекке",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Число погибших в результате обрушения здания в Пакистане возросло до 8, около 10 пропали без вести - ABC News."
+     "text": "Пакистан, Турция и Саудовская Аравия обсуждают расширение альянса в Мекке."
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "ТАЙВАНЬ",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Проголосует ли Тайвань за возрождение ядерной энергетики – и почему это важно для ИИ?",
-   "summary": "В субботу избиратели решат, стоит ли отказываться от политики страны в отношении «безъядерной Родины».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Проголосует ли Тайвань за возрождение ядерной энергетики – и почему это важно для ИИ?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Какова ситуация сейчас?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "В субботу избиратели решат, стоит ли отказываться от политики страны в отношении «безъядерной Родины»."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "ОРМУЗСКИЙ ПРОЛИВ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "САУДОВСКАЯ АРАВИЯ",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Два танкера подорвались на минах возле Ормуза, сообщает КСИР",
-   "summary": "Два танкера подорвались на минах возле Ормуза, сообщает КСИР",
+   "headline": "Саудовская Аравия перехватила крылатую ракету хуситов, запущенную по Эр-Рияду",
+   "summary": "Саудовская Аравия перехватила крылатую ракету хуситов, запущенную по Эр-Рияду",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Два танкера подорвались на минах недалеко от Ормуза, сообщает КСИР."
+     "text": "Саудовская Аравия перехватила крылатую ракету хуситов, запущенную по Эр-Рияду."
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "УКРАИНА",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "Зеленский раскритиковал «странную» дружбу Трампа и Путина в интервью BBC",
-   "summary": "Президент Украины выражает разочарование по поводу США и говорит, что они недостаточно сильно подталкивают Россию на мирных переговорах, чтобы положить конец войне.",
+   "category": "Pakistan",
+   "headline": "Число погибших в результате обрушения здания колонии Белуджей возросло до 11: спасатели обнаружили еще три тела",
+   "summary": "КАРАЧИ: Спасатели извлекли еще три тела из-под обломков шестиэтажного здания, которое рухнуло недалеко от района колонии белуджей в Карачи в субботу, в результате чего число погибших достигло 11.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Зеленский раскритиковал «странную» дружбу Трампа и Путина в интервью BBC."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Это подтверждено?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Президент Украины выражает разочарование по поводу США и говорит, что они недостаточно сильно подталкивают Россию на мирных переговорах, чтобы положить конец войне."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "ТАЙВАНЬ",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "ВЫБОРЫ 2026 ГОДА Открыты избирательные участки для тайваньских выборов «9 к 1» и ядерного референдума",
-   "summary": "ВЫБОРЫ 2026 ГОДА Открыты избирательные участки для тайваньских выборов «9 к 1» и ядерного референдума",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ВЫБОРЫ 2026 ГОДА Открыты избирательные участки для тайваньских выборов «9 к 1» и ядерного референдума."
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "ИСПАНИЯ",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "По меньшей мере восемь человек найдены мертвыми на лодке с мигрантами у испанских Канарских островов",
-   "summary": "Шесть человек доставлены в больницу в тяжелом состоянии, сообщает испанская спасательная служба.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "По меньшей мере восемь человек найдены мертвыми на лодке с мигрантами у испанских Канарских островов."
+     "text": "Число погибших в результате обрушения здания колонии белуджей возросло до 11, поскольку спасатели обнаружили еще три тела."
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "Шесть человек доставлены в больницу в тяжелом состоянии, сообщает испанская спасательная служба."
+     "text": "КАРАЧИ: Спасатели извлекли еще три тела из-под обломков шестиэтажного здания, которое рухнуло недалеко от района колонии белуджей в Карачи в субботу, в результате чего число погибших достигло 11."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "САУДОВСКАЯ АРАВИЯ",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Удары хуситов по нефтяным объектам Саудовской Аравии, когда возглавляемая Саудовской Аравией коалиция атаковала Йемен - WISH-TV",
-   "summary": "Удары хуситов по нефтяным объектам Саудовской Аравии, когда возглавляемая Саудовской Аравией коалиция атаковала Йемен - WISH-TV",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "АВСТРАЛИЯ",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "Звезда WWE Бронсон Рид умер в 38 лет",
+   "summary": "Пошли дань памяти 38-летнему австралийцу, у которого осталась беременная жена Пейдж, их дочь.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Удары хуситов ударили по нефтяным объектам Саудовской Аравии, а возглавляемая Саудовской Аравией коалиция атаковала Йемен - WISH-TV."
+     "text": "Звезда WWE Бронсон Рид умер в возрасте 38 лет."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Какова ситуация сейчас?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Пошли дань памяти 38-летнему австралийцу, у которого осталась беременная жена Пейдж, их дочь."
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Новости о войне в Иране: силы США выводят из строя коммерческое судно, которое предположительно пыталось прорвать блокаду иранских портов",
+   "summary": "Новости о войне в Иране: силы США выводят из строя коммерческое судно, которое предположительно пыталось прорвать блокаду иранских портов",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Новости о войне в Иране: американские войска выводят из строя коммерческое судно, которое предположительно пыталось прорвать блокаду иранских портов."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "ПАКИСТАН",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Пакистан, Саудовская Аравия и Турция подтверждают обязательства по коллективной обороне",
+   "summary": "Пакистан, Саудовская Аравия и Турция подтверждают обязательства по коллективной обороне",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Пакистан, Саудовская Аравия и Турция подтверждают обязательства по коллективной обороне."
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Акции Дубая растут и лидируют на рынках Персидского залива",
-   "summary": "Акции Дубая растут и лидируют на рынках Персидского залива",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "Вылет из международного аэропорта Дубая",
+   "summary": "Вылет из международного аэропорта Дубая",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Акции Дубая растут и лидируют на рынках Персидского залива."
+     "text": "Вылет из международного аэропорта Дубая."
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "КУВЕЙТ",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ОАЭ осуждают агрессивную атаку иранских дронов на Кувейт",
-   "summary": "ОАЭ осуждают агрессивную атаку иранских дронов на Кувейт",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "ТАЙВАНЬ",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Тайвань голосует на местных выборах, чтобы выбрать мэров и других лидеров",
+   "summary": "Ключевая гонка за пост мэра в Тайбэе, оплоте оппозиционного Гоминьдана, подвергает испытанию правящую Демократическую прогрессивную партию.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ОАЭ осуждают агрессивную атаку иранских беспилотников на Кувейт."
+     "text": "Тайвань голосует на местных выборах, чтобы выбрать мэров и других лидеров."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Каков эффект?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Ключевая гонка за пост мэра в Тайбэе, оплоте оппозиционного Гоминьдана, подвергает испытанию правящую Демократическую прогрессивную партию."
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "ИЗРАИЛЬ",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Израильское «прямое нападение» на клинику «Врачи без границ» в Газе привело к гибели двух сотрудников",
+   "summary": "MSF утверждает, что помещения «четко обозначены» своими логотипами, а местоположение известно израильским военным.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Израильское «прямое нападение» на клинику «Врачей без границ» в Газе привело к гибели двух сотрудников."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Что мы знаем на данный момент?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "MSF утверждает, что помещения «четко обозначены» своими логотипами, а местоположение известно израильским военным."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "АФГАНИСТАН",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Несколько учеников погибли в результате взрыва возле афганской школы",
+   "summary": "По меньшей мере шесть учеников погибли и 97 получили ранения в результате взрыва возле средней школы в Асадабаде, Афганистан.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Несколько учеников погибли в результате взрыва возле афганской школы."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Есть жертвы?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "По меньшей мере шесть учеников погибли и 97 получили ранения в результате взрыва возле средней школы в Асадабаде, Афганистан."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "КИТАЙ",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "Китайские инженеры бросают вызов блокаде Ормуза и устанавливают буровые установки в Абу-Даби",
+   "summary": "Китайские инженеры бросают вызов блокаде Ормуза и устанавливают буровые установки в Абу-Даби",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Китайские инженеры бросают вызов блокаде Ормуза и устанавливают буровые установки в Абу-Даби."
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "ИЗРАИЛЬ",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Два сотрудника погибли в результате удара Израиля по медицинской клинике в секторе Газа, сообщает MSF",
+   "summary": "Израильские военные заявляют, что атака была направлена против «террористов ХАМАС», что было осуждено Всемирной организацией здравоохранения.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "По данным MSF, в результате удара Израиля по медицинской клинике в секторе Газа погибли два сотрудника."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Израильские военные заявляют, что атака была направлена ​​против «террористов ХАМАС», что было осуждено Всемирной организацией здравоохранения."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "ОАЭ отметят Курбан-байрам торжествами во всех семи эмиратах",
+   "summary": "ОАЭ отметят Курбан-байрам торжествами во всех семи эмиратах",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ОАЭ отметят Курбан-байрам торжествами во всех семи эмиратах."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "ОБЪЕДИНЕННЫЕ АРАБСКИЕ ЭМИРАТЫ",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "Жена опасается, что муж OFW, завербованный в Дубае, теперь оказался в зоне военных действий России - ABS-CBN",
+   "summary": "Жена опасается, что муж OFW, завербованный в Дубае, теперь оказался в зоне военных действий России - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Жена опасается, что муж OFW, завербованный в Дубае, теперь оказался в зоне боевых действий России - ABS-CBN."
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "АФГАНИСТАН",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Семь студентов погибли и около 100 получили ранения в результате взрыва в Афганистане, сообщил чиновник",
+   "summary": "Представитель министерства внутренних дел Афганистана заявил, что взрыв произошел из-за неосторожности на расположенном неподалеку складе взрывчатых веществ.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Семь студентов погибли и около 100 получили ранения в результате взрыва в Афганистане, сообщил чиновник."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Это подтверждено?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Представитель министерства внутренних дел Афганистана заявил, что взрыв произошел из-за неосторожности на расположенном неподалеку складе взрывчатых веществ."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "ЙЕМЕН",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Правительственные силы Йемена нанесли удары по позициям хуситов, поскольку ООН предупреждает о голодном кризисе",
+   "summary": "По данным ООН, около 1,8 миллиона человек сталкиваются с чрезвычайным уровнем голода в районах, контролируемых правительством.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Правительственные силы Йемена атаковали позиции хуситов, поскольку ООН предупреждает о голодном кризисе."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Какова ситуация сейчас?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "По данным ООН, около 1,8 миллиона человек сталкиваются с чрезвычайным уровнем голода в районах, контролируемых правительством."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "ИРАН",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Центком отвергает утверждения Ирана об атаке военного корабля и обвинениях в доставке в Ормуз",
+   "summary": "Центком отвергает утверждения Ирана об атаке военного корабля и обвинениях в доставке в Ормуз",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Центком отвергает обвинения Ирана в нападении на военный корабль и обвинения в судоходстве в Ормузе."
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }

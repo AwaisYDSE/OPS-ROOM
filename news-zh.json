@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "巴基斯坦根据麦加协议与沙特阿拉伯和土耳其举行防务会谈",
-   "summary": "巴基斯坦根据麦加协议与沙特阿拉伯和土耳其举行防务会谈",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦根据麦加协议主办与沙特阿拉伯和土耳其的防务会谈。"
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "美国禁用试图突破伊朗封锁的船只",
-   "summary": "美国军方表示，一艘商船离开伊朗港口后，他们对其进行了禁用，并且无视停止警告。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "美国禁止试图突破伊朗封锁的船只。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "给我详细信息。"
-    },
-    {
-     "role": "ANALYST",
-     "text": "美国军方表示，一艘商船离开伊朗港口后，他们对其进行了禁用，并且无视停止警告。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "沙特阿拉伯",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "麦加盟国谴责胡塞武装对沙特阿拉伯的“令人发指的”袭击",
-   "summary": "巴基斯坦、沙特阿拉伯和土耳其的官员承诺在伊斯兰堡会谈期间保护王国的安全。",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "麦加条约国家审查地区安全，谴责胡塞武装对沙特阿拉伯的袭击",
+   "summary": "麦加联合防御协议最高决策机构周五召开会议，审查了地区安全局势，并谴责胡塞武装对沙特阿拉伯进行“持续而令人发指的”袭击。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "麦加盟国谴责胡塞武装对沙特阿拉伯发动的“令人发指的”袭击。"
+     "text": "麦加条约国家审查地区安全，谴责胡塞武装对沙特阿拉伯的袭击。"
     },
     {
      "role": "COMMANDER",
-     "text": "确认了吗？"
+     "text": "好吧，还有什么？"
     },
     {
      "role": "ANALYST",
-     "text": "巴基斯坦、沙特阿拉伯和土耳其的官员承诺在伊斯兰堡会谈期间保护王国的安全。"
+     "text": "麦加联合防御协议最高决策机构周五召开会议，审查了地区安全局势，并谴责胡塞武装对沙特阿拉伯进行“持续而令人发指的”袭击。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "沙特阿拉伯境内胡塞武装袭击考验王国安全形象",
-   "summary": "尽管发生了罢工，利雅得的市场和餐馆仍然很繁忙，因为居民表示相信政府会保护他们。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "在沙特阿拉伯境内，胡塞武装的袭击考验着该国的安全形象。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "为什么要搬家？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "尽管发生了罢工，利雅得的市场和餐馆仍然很繁忙，因为居民表示相信政府会保护他们。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "亚太贸易集团与阿联酋、菲律宾和印度尼西亚开启入盟谈判",
-   "summary": "亚太贸易集团与阿联酋、菲律宾和印度尼西亚开启入盟谈判",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "亚太贸易集团与阿联酋、菲律宾和印度尼西亚开启入盟谈判。"
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗战争直播：意大利称科威特致命袭击中的无人机是在伊朗制造的",
-   "summary": "意大利外交部长安东尼奥·塔贾尼表示，科威特致命袭击背后的无人机是伊朗制造的。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗战争直播：意大利称科威特致命袭击中的无人机是在伊朗制造的。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "意大利外交部长安东尼奥·塔贾尼表示，科威特致命袭击背后的无人机是伊朗制造的。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "孟加拉国",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "巴基斯坦沙欣队以五项优势战胜孟加拉国A队，闯入亚洲杯新星决赛",
-   "summary": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦沙欣队以五项优势战胜孟加拉国A队，闯入亚洲杯新星决赛。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "明白了。继续。"
-    },
-    {
-     "role": "ANALYST",
-     "text": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "巴基斯坦和土耳其承诺加强对沙特阿拉伯打击胡塞武装袭击的支持",
-   "summary": "巴基斯坦和土耳其承诺加强对沙特阿拉伯打击胡塞武装袭击的支持",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦和土耳其承诺加大对沙特阿拉伯打击胡塞武装袭击的支持。"
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "巴勒斯坦",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "哈马斯首领最后一个幸存的儿子逃离以色列对加沙的袭击",
-   "summary": "哈马斯领导人哈利勒·哈亚最后一个幸存的儿子伊泽尔丁在周五的以色列暗杀行动中幸存。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "哈马斯首领最后一个幸存的儿子逃脱了以色列对加沙的袭击。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "哈马斯领导人哈利勒·哈亚最后一个幸存的儿子伊泽尔丁在周五的以色列暗杀行动中幸存。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "巴基斯坦",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "巴基斯坦建筑倒塌事故死亡人数上升至8人，约10人失踪 - ABC News",
-   "summary": "巴基斯坦建筑倒塌事故死亡人数上升至8人，约10人失踪 - ABC News",
+   "headline": "巴基斯坦、土耳其和沙特阿拉伯讨论扩大麦加联盟",
+   "summary": "巴基斯坦、土耳其和沙特阿拉伯讨论扩大麦加联盟",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "据美国广播公司 (ABC) 报道，巴基斯坦大楼倒塌事故造成的死亡人数上升至 8 人，约 10 人失踪。"
+     "text": "巴基斯坦、土耳其和沙特阿拉伯讨论扩大麦加联盟。"
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "台湾",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "台湾会投票恢复核电——为什么这对人工智能很重要？",
-   "summary": "选民将于周六决定是否废除该国的“无核家园”政策。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "台湾会投票恢复核电——为什么这对人工智能很重要？"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "现在情况如何？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "选民将于周六决定是否废除该国的“无核家园”政策。"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "霍尔木兹海峡",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "伊朗革命卫队称，两艘油轮在霍尔木兹附近被地雷击中",
-   "summary": "伊朗革命卫队称，两艘油轮在霍尔木兹附近被地雷击中",
+   "headline": "沙特阿拉伯拦截胡塞武装向利雅得发射的巡航导弹",
+   "summary": "沙特阿拉伯拦截胡塞武装向利雅得发射的巡航导弹",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "伊朗伊斯兰革命卫队称，两艘油轮在霍尔木兹附近被地雷击中。"
+     "text": "沙特阿拉伯拦截胡塞武装向利雅得发射的巡航导弹。"
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "泽伦斯基在 BBC 采访中批评特朗普与普京的友谊“奇怪”",
-   "summary": "乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。",
+   "category": "Pakistan",
+   "headline": "俾路支殖民地建筑倒塌死亡人数上升至 11 人，救援人员又找到三具尸体",
+   "summary": "卡拉奇：周六，卡拉奇俾路支殖民地附近一栋六层楼倒塌，救援人员从废墟中又找到了三具尸体，造成死亡人数达到 11 人。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "泽伦斯基在英国广播公司采访中批评特朗普与普京的“奇怪”友谊。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "台湾",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "2026 年选举 台湾“九合一”选举、核公投开放投票",
-   "summary": "2026 年选举 台湾“九合一”选举、核公投开放投票",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "2026 年选举 台湾“九合一”选举、核公投开放投票。"
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "西班牙",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "西班牙加那利群岛附近的移民船上发现至少八人死亡",
-   "summary": "西班牙救援部门称，六人已被空运至医院，伤势严重。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "西班牙加那利群岛附近的移民船上发现至少八人死亡。"
+     "text": "俾路支殖民地建筑倒塌造成的死亡人数上升至 11 人，救援人员又找到了三具尸体。"
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "西班牙救援部门称，六人已被空运至医院，伤势严重。"
+     "text": "卡拉奇：周六，卡拉奇俾路支殖民地附近一栋六层楼倒塌，救援人员从废墟中又找到了三具尸体，造成死亡人数达到 11 人。"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "沙特阿拉伯",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "沙特领导的联军袭击也门，胡塞武装袭击沙特石油设施 - WISH-TV",
-   "summary": "沙特领导的联军袭击也门，胡塞武装袭击沙特石油设施 - WISH-TV",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "澳大利亚",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "WWE 明星布朗森·里德去世，享年 38 岁",
+   "summary": "人们纷纷向这位 38 岁的澳大利亚人表示哀悼，他身后留下了怀孕的妻子、他们的女儿佩奇。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "沙特领导的联军袭击也门，胡塞武装袭击了沙特石油设施 - WISH-TV。"
+     "text": "WWE 明星布朗森·里德去世，享年 38 岁。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "现在情况如何？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "人们纷纷向这位 38 岁的澳大利亚人表示哀悼，他身后留下了怀孕的妻子、他们的女儿佩奇。"
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗战争最新消息：美军摧毁了据称试图突破伊朗港口封锁的商船",
+   "summary": "伊朗战争最新消息：美军摧毁了据称试图突破伊朗港口封锁的商船",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗战争最新动态：美军摧毁了据称试图突破伊朗港口封锁的商船。"
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "巴基斯坦",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "巴基斯坦、沙特阿拉伯和土耳其重申集体防御承诺",
+   "summary": "巴基斯坦、沙特阿拉伯和土耳其重申集体防御承诺",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦、沙特阿拉伯和土耳其重申集体防御承诺。"
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "迪拜股市上涨引领海湾市场",
-   "summary": "迪拜股市上涨引领海湾市场",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "迪拜国际机场出发",
+   "summary": "迪拜国际机场出发",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "迪拜股市上涨引领海湾市场。"
+     "text": "迪拜国际机场出发。"
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "科威特",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "阿联酋谴责伊朗无人机对科威特的侵略性袭击",
-   "summary": "阿联酋谴责伊朗无人机对科威特的侵略性袭击",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "台湾",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "台湾地方选举投票选出市长和其他领导人",
+   "summary": "台北市是反对党国民党的大本营，市长竞选的关键是考验执政的民进党。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "阿联酋谴责伊朗无人机对科威特的侵略性袭击。"
+     "text": "台湾在地方选举中投票选举市长和其他领导人。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有什么影响？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "台北市是反对党国民党的大本营，市长竞选的关键是考验执政的民进党。"
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "以色列",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "以色列对无国界医生加沙诊所的“直接袭击”导致两名工作人员死亡",
+   "summary": "无国界医生表示，该处所“清楚地标有”其标志，位置已传达给以色列军方并为以色列军方所知。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "以色列对无国界医生加沙诊所的“直接袭击”造成 2 名工作人员死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "到目前为止我们知道什么？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "无国界医生表示，该处所“清楚地标有”其标志，位置已传达给以色列军方并为以色列军方所知。"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "阿富汗",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "阿富汗学校附近发生爆炸，多名学生丧生",
+   "summary": "阿富汗阿萨达巴德一所中学附近发生爆炸，造成至少 6 名学生死亡、97 人受伤。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿富汗学校附近发生爆炸，数名学生丧生。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "有人员伤亡吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "阿富汗阿萨达巴德一所中学附近发生爆炸，造成至少 6 名学生死亡、97 人受伤。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "中国",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "中国工程师不顾霍尔木兹封锁安装阿布扎比钻井平台",
+   "summary": "中国工程师不顾霍尔木兹封锁安装阿布扎比钻井平台",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中国工程师不顾霍尔木兹封锁，安装阿布扎比钻井平台。"
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "以色列",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "无国界医生称，以色列袭击加沙医疗诊所两名工作人员丧生",
+   "summary": "以色列军方表示，这次袭击的目标是“哈马斯恐怖分子”，世界卫生组织对此表示谴责。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "无国界医生表示，以色列对加沙医疗诊所的袭击导致两名工作人员死亡。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "以色列军方表示，这次袭击的目标是“哈马斯恐怖分子”，世界卫生组织对此表示谴责。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "阿联酋将在所有七个酋长国庆祝开斋节",
+   "summary": "阿联酋将在所有七个酋长国庆祝开斋节",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋将在所有七个酋长国庆祝开斋节。"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "阿拉伯联合酋长国",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "妻子担心在迪拜招募的海外菲工丈夫现在被困在俄罗斯战区 - ABS-CBN",
+   "summary": "妻子担心在迪拜招募的海外菲工丈夫现在被困在俄罗斯战区 - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "妻子担心在迪拜招募的海外菲工丈夫现在被困在俄罗斯战区 - ABS-CBN。"
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "阿富汗",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "阿富汗官员称爆炸造成7名学生死亡、近100人受伤",
+   "summary": "阿富汗内政部发言人表示，爆炸是由于附近炸药库疏忽造成的。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿富汗官员称，爆炸造成 7 名学生死亡、近 100 人受伤。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "阿富汗内政部发言人表示，爆炸是由于附近炸药库疏忽造成的。"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "联合国警告饥饿危机，也门政府军袭击胡塞武装阵地",
+   "summary": "据联合国称，政府控制地区约有 180 万人面临紧急饥饿状况。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "在联合国警告饥饿危机之际，也门政府军袭击了胡塞武装阵地。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "现在情况如何？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "据联合国称，政府控制地区约有 180 万人面临紧急饥饿状况。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "中央司令部拒绝伊朗关于军舰袭击和霍尔木兹航运费用的指控",
+   "summary": "中央司令部拒绝伊朗关于军舰袭击和霍尔木兹航运费用的指控",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "中央司令部拒绝伊朗关于军舰袭击和霍尔木兹航运指控的指控。"
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }

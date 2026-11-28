@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "ar",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "باكستان",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "وتستضيف باكستان محادثات دفاعية مع السعودية وتركيا بموجب اتفاق مكة",
-   "summary": "وتستضيف باكستان محادثات دفاعية مع السعودية وتركيا بموجب اتفاق مكة",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "وتستضيف باكستان محادثات دفاعية مع السعودية وتركيا بموجب اتفاق مكة."
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "الولايات المتحدة",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "الولايات المتحدة تعطل سفينة تحاول اختراق الحصار المفروض على إيران",
-   "summary": "قال الجيش الأمريكي إنه عطل سفينة تجارية بعد أن غادرت ميناء إيرانيا وتجاهلت التحذيرات بالتوقف.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الولايات المتحدة تعطل سفينة تحاول اختراق الحصار المفروض على إيران."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "أعطني التفاصيل."
-    },
-    {
-     "role": "ANALYST",
-     "text": "قال الجيش الأمريكي إنه عطل سفينة تجارية بعد أن غادرت ميناء إيرانيا وتجاهلت التحذيرات بالتوقف."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "المملكة العربية السعودية",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "حلفاء حلف مكة يدينون هجمات الحوثيين “الشنيعة” على السعودية",
-   "summary": "مسؤولون من باكستان والمملكة العربية السعودية وتركيا يتعهدون بحماية أمن المملكة خلال المحادثات في إسلام آباد.",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "دول حلف مكة تراجع الأمن الإقليمي وتدين هجمات الحوثيين على السعودية",
+   "summary": "استعرض اجتماع لهيئة اتخاذ القرار في اتفاق مكة للدفاع المشترك، اليوم الجمعة، الوضع الأمني الإقليمي وأدان الهجمات الحوثية “المستمرة والشنيعة” على المملكة العربية السعودية.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "حلفاء حلف مكة يدينون هجمات الحوثيين “الشنيعة” على السعودية."
+     "text": "دول حلف مكة تراجع الأمن الإقليمي وتدين هجمات الحوثيين على السعودية."
     },
     {
      "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
+     "text": "حسنًا، ماذا أيضًا؟"
     },
     {
      "role": "ANALYST",
-     "text": "مسؤولون من باكستان والمملكة العربية السعودية وتركيا يتعهدون بحماية أمن المملكة خلال المحادثات في إسلام آباد."
+     "text": "استعرض اجتماع لهيئة اتخاذ القرار في اتفاق مكة للدفاع المشترك، اليوم الجمعة، الوضع الأمني ​​الإقليمي وأدان الهجمات الحوثية “المستمرة والشنيعة” على المملكة العربية السعودية."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "داخل المملكة العربية السعودية، تختبر هجمات الحوثيين صورة المملكة الأمنية",
-   "summary": "وعلى الرغم من الإضرابات، لا تزال الأسواق والمطاعم في الرياض مزدحمة حيث يعبر السكان عن ثقتهم في الحكومة لحمايتهم.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "داخل المملكة العربية السعودية، تختبر هجمات الحوثيين صورة المملكة الأمنية."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "لماذا هذه الخطوة؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وعلى الرغم من الإضرابات، لا تزال الأسواق والمطاعم في الرياض مزدحمة حيث يعبر السكان عن ثقتهم في الحكومة لحمايتهم."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "الإمارات العربية المتحدة",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "الكتلة التجارية لآسيا والمحيط الهادئ تبدأ محادثات الانضمام مع الإمارات والفلبين وإندونيسيا",
-   "summary": "الكتلة التجارية لآسيا والمحيط الهادئ تبدأ محادثات الانضمام مع الإمارات والفلبين وإندونيسيا",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "الكتلة التجارية لآسيا والمحيط الهادئ تبدأ محادثات الانضمام مع الإمارات والفلبين وإندونيسيا."
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "إيران",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "حرب إيران على الهواء مباشرة: إيطاليا تقول إن الطائرة بدون طيار في الهجوم القاتل على الكويت صنعت في إيران",
-   "summary": "قال وزير الخارجية الإيطالي أنطونيو تاجاني إن الطائرة بدون طيار التي نفذت الضربة القاتلة في الكويت صنعت في إيران.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "حرب إيران على الهواء مباشرة: إيطاليا تقول إن الطائرة بدون طيار في الهجوم القاتل على الكويت صنعت في إيران."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "قال وزير الخارجية الإيطالي أنطونيو تاجاني إن الطائرة بدون طيار التي نفذت الضربة القاتلة في الكويت صنعت في إيران."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "بنجلاديش",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "باكستان شاهين تتأهل إلى نهائي كأس آسيا للنجوم الصاعدة بفوزها بخمسة ويكيت على بنغلادش \"أ\"",
-   "summary": "حقق فريق باكستان شاهينز فوزًا مؤلفًا بخمسة ويكيت على بنغلادش \"أ\" في نصف نهائي كأس آسيا للنجوم الصاعدة يوم الجمعة، ملاحقًا هدفًا قدره 233 مع 28 كرة ليحجز مكانه في نهائي يوم الأحد ضد سريلانكا \"أ\".",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "تأهل باكستان شاهين إلى نهائي كأس آسيا للنجوم الصاعدة بفوزه بخمسة ويكيت على بنغلادش \"أ\"."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "مفهوم. استمر."
-    },
-    {
-     "role": "ANALYST",
-     "text": "حقق فريق باكستان شاهينز فوزًا مؤلفًا بخمسة ويكيت على بنغلادش \"أ\" في نصف نهائي كأس آسيا للنجوم الصاعدة يوم الجمعة، ملاحقًا هدفًا قدره 233 مع 28 كرة ليحجز مكانه في نهائي يوم الأحد ضد سريلانكا \"أ\"."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "اليمن",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "باكستان وتركيا تتعهدان بتعزيز الدعم للسعودية ضد هجمات الحوثيين",
-   "summary": "باكستان وتركيا تتعهدان بتعزيز الدعم للسعودية ضد هجمات الحوثيين",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "باكستان وتركيا تتعهدان بتعزيز الدعم للسعودية ضد هجمات الحوثيين."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "فلسطين",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "آخر أبناء زعيم حماس ينجو من غارة إسرائيلية في غزة",
-   "summary": "نجا عز الدين، آخر أبناء زعيم حركة حماس خليل الحية، من محاولة اغتيال إسرائيلية يوم الجمعة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "آخر أبناء زعيم حماس ينجو من غارة إسرائيلية في غزة."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "نجا عز الدين، آخر أبناء زعيم حركة حماس خليل الحية، من محاولة اغتيال إسرائيلية يوم الجمعة."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "باكستان",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "ارتفاع عدد قتلى انهيار مبنى في باكستان إلى 8 ونحو 10 في عداد المفقودين - ABC News",
-   "summary": "ارتفاع عدد قتلى انهيار مبنى في باكستان إلى 8 ونحو 10 في عداد المفقودين - ABC News",
+   "headline": "باكستان وتركيا والمملكة العربية السعودية تناقش توسيع تحالف مكة",
+   "summary": "باكستان وتركيا والمملكة العربية السعودية تناقش توسيع تحالف مكة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ارتفاع عدد قتلى انهيار مبنى في باكستان إلى 8 ونحو 10 في عداد المفقودين - ABC News."
+     "text": "باكستان وتركيا والمملكة العربية السعودية تناقش توسيع تحالف مكة."
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "تايوان",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "هل ستصوت تايوان لصالح إحياء الطاقة النووية، وما أهمية ذلك بالنسبة للذكاء الاصطناعي؟",
-   "summary": "وسيقرر الناخبون يوم السبت ما إذا كانوا سيلغون سياسة \"الوطن الخالي من الأسلحة النووية\" في البلاد.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "هل ستصوت تايوان لصالح إحياء الطاقة النووية - وما أهمية ذلك بالنسبة للذكاء الاصطناعي؟"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "ما هو الوضع الآن؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "وسيقرر الناخبون يوم السبت ما إذا كانوا سيلغون سياسة \"الوطن الخالي من الأسلحة النووية\" في البلاد."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "مضيق هرمز",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "المملكة العربية السعودية",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "الحرس الثوري الإيراني يقول إن ناقلتين أصيبتا بالألغام بالقرب من هرمز",
-   "summary": "الحرس الثوري الإيراني يقول إن ناقلتين أصيبتا بالألغام بالقرب من هرمز",
+   "headline": "السعودية تعترض صاروخ كروز أطلقه الحوثيون على الرياض",
+   "summary": "السعودية تعترض صاروخ كروز أطلقه الحوثيون على الرياض",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الحرس الثوري الإيراني يقول إن ناقلتين أصيبتا بالألغام بالقرب من هرمز."
+     "text": "السعودية تعترض صاروخ كروز أطلقه الحوثيون على الرياض."
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "أوكرانيا",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "زيلينسكي ينتقد الصداقة \"الغريبة\" بين ترامب وبوتين في مقابلة مع بي بي سي",
-   "summary": "أعرب الرئيس الأوكراني عن إحباطه من الولايات المتحدة، وقال إنها لا تضغط على روسيا بما يكفي في محادثات السلام لإنهاء الحرب.",
+   "category": "Pakistan",
+   "headline": "ارتفع عدد القتلى في انهيار مبنى مستعمرة بلوش إلى 11 بينما ينتشل رجال الإنقاذ ثلاث جثث أخرى",
+   "summary": "كراتشي: انتشل عمال الإنقاذ ثلاث جثث أخرى من تحت أنقاض مبنى من ستة طوابق انهار بالقرب من منطقة مستعمرة بلوش في كراتشي يوم السبت، مما رفع عدد القتلى إلى 11.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "زيلينسكي ينتقد الصداقة \"الغريبة\" بين ترامب وبوتين في مقابلة مع بي بي سي"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "هل تم تأكيد ذلك؟"
-    },
-    {
-     "role": "ANALYST",
-     "text": "أعرب الرئيس الأوكراني عن إحباطه من الولايات المتحدة، وقال إنها لا تضغط على روسيا بما يكفي في محادثات السلام لإنهاء الحرب."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "تايوان",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "انتخابات 2026: فتح صناديق الاقتراع لانتخابات \"9 في 1\" في تايوان والاستفتاء النووي",
-   "summary": "انتخابات 2026: فتح صناديق الاقتراع لانتخابات \"9 في 1\" في تايوان والاستفتاء النووي",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "انتخابات 2026: فتح صناديق الاقتراع لانتخابات \"9 في 1\" في تايوان، والاستفتاء النووي."
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "اسبانيا",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "العثور على ثمانية جثث على الأقل على متن قارب مهاجرين قبالة جزر الكناري الإسبانية",
-   "summary": "وقالت خدمة الإنقاذ الإسبانية إن ستة أشخاص نقلوا جوا إلى المستشفى في حالة خطيرة.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "العثور على ثمانية جثث على الأقل على متن قارب مهاجرين قبالة جزر الكناري الإسبانية."
+     "text": "ارتفع عدد القتلى في انهيار مبنى مستعمرة بلوش إلى 11 بينما ينتشل رجال الإنقاذ ثلاث جثث أخرى."
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "وقالت خدمة الإنقاذ الإسبانية إن ستة أشخاص نقلوا جوا إلى المستشفى في حالة خطيرة."
+     "text": "كراتشي: انتشل عمال الإنقاذ ثلاث جثث أخرى من تحت أنقاض مبنى من ستة طوابق انهار بالقرب من منطقة مستعمرة بلوش في كراتشي يوم السبت، مما رفع عدد القتلى إلى 11."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "المملكة العربية السعودية",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ضربات الحوثيين تضرب مواقع النفط السعودية بينما يهاجم التحالف الذي تقوده السعودية اليمن - WISH-TV",
-   "summary": "ضربات الحوثيين تضرب مواقع النفط السعودية بينما يهاجم التحالف الذي تقوده السعودية اليمن - WISH-TV",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "أستراليا",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "وفاة نجم WWE برونسون ريد عن عمر يناهز 38 عامًا",
+   "summary": "تدفقت التحية على الأسترالي البالغ من العمر 38 عامًا والذي نجا من زوجته الحامل، بيج، ابنتهما.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ضربات الحوثيين تضرب مواقع النفط السعودية بينما يهاجم التحالف الذي تقوده السعودية اليمن - WISH-TV."
+     "text": "وفاة نجم WWE برونسون ريد عن عمر يناهز 38 عامًا."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو الوضع الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "تدفقت التحية على الأسترالي البالغ من العمر 38 عامًا والذي نجا من زوجته الحامل، بيج، ابنتهما."
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "مستجدات حرب إيران: القوات الأمريكية تعطل سفينة تجارية يُزعم أنها حاولت اختراق الحصار المفروض على الموانئ الإيرانية",
+   "summary": "مستجدات حرب إيران: القوات الأمريكية تعطل سفينة تجارية يُزعم أنها حاولت اختراق الحصار المفروض على الموانئ الإيرانية",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مستجدات حرب إيران: القوات الأمريكية تعطل سفينة تجارية يُزعم أنها حاولت اختراق الحصار المفروض على الموانئ الإيرانية."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "باكستان",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "باكستان والمملكة العربية السعودية وتركيا تؤكد مجددا التزامها بالدفاع الجماعي",
+   "summary": "باكستان والمملكة العربية السعودية وتركيا تؤكد مجددا التزامها بالدفاع الجماعي",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "باكستان والمملكة العربية السعودية وتركيا تؤكد مجددا التزامها بالدفاع الجماعي."
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "الإمارات العربية المتحدة",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "أسهم دبي ترتفع لتقود أسواق الخليج",
-   "summary": "أسهم دبي ترتفع لتقود أسواق الخليج",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "مطار دبي الدولي المغادرة",
+   "summary": "مطار دبي الدولي المغادرة",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "أسهم دبي ترتفع لتقود أسواق الخليج."
+     "text": "مطار دبي الدولي المغادرة."
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "الكويت",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "الإمارات تدين الهجوم العدواني بطائرات مسيرة إيرانية على الكويت",
-   "summary": "الإمارات تدين الهجوم العدواني بطائرات مسيرة إيرانية على الكويت",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "تايوان",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "تايوان تصوت في الانتخابات المحلية لاختيار رؤساء البلديات والقادة الآخرين",
+   "summary": "ويشكل السباق الرئيسي على منصب رئاسة البلدية في تايبيه، معقل حزب الكومينتانغ المعارض، اختباراً للحزب التقدمي الديمقراطي الحاكم.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "الإمارات تدين الهجوم العدواني بطائرات مسيرة إيرانية على الكويت."
+     "text": "تايوان تصوت في الانتخابات المحلية لاختيار رؤساء البلديات والقادة الآخرين."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو التأثير؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويشكل السباق الرئيسي على منصب رئاسة البلدية في تايبيه، معقل حزب الكومينتانغ المعارض، اختباراً للحزب التقدمي الديمقراطي الحاكم."
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "إسرائيل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "\"القصف الإسرائيلي المباشر\" على عيادة أطباء بلا حدود في غزة يقتل اثنين من العاملين",
+   "summary": "وتقول منظمة أطباء بلا حدود إن المباني \"مميزة بشكل واضح\" بشعاراتها، كما تم إبلاغ الجيش الإسرائيلي بالموقع ويعرفه.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "\"القصف الإسرائيلي المباشر\" على عيادة أطباء بلا حدود في غزة يقتل اثنين من العاملين."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ماذا نعرف حتى الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وتقول منظمة أطباء بلا حدود إن المباني \"مميزة بشكل واضح\" بشعاراتها، كما تم إبلاغ الجيش الإسرائيلي بالموقع ويعرفه."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "أفغانستان",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "مقتل عدد من الطلاب في انفجار قرب مدرسة أفغانية",
+   "summary": "قُتل ما لا يقل عن ستة طلاب وأصيب 97 آخرون في انفجار وقع بالقرب من مدرسة متوسطة في مدينة أسد آباد بأفغانستان.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مقتل عدد من الطلاب في انفجار قرب مدرسة أفغانية."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل هناك ضحايا؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "قُتل ما لا يقل عن ستة طلاب وأصيب 97 آخرون في انفجار وقع بالقرب من مدرسة متوسطة في مدينة أسد آباد بأفغانستان."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "الصين",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "مهندسون صينيون يتحدون حصار هرمز لتركيب منصات حفر في أبوظبي",
+   "summary": "مهندسون صينيون يتحدون حصار هرمز لتركيب منصات حفر في أبوظبي",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مهندسون صينيون يتحدون حصار هرمز لتركيب منصات حفر في أبوظبي."
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "إسرائيل",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "قالت منظمة أطباء بلا حدود إن اثنين من موظفيها قُتلا في غارة إسرائيلية على عيادة طبية في غزة",
+   "summary": "ويقول الجيش الإسرائيلي إنه استهدف \"إرهابيي حماس\" في الضربة التي أدانتها منظمة الصحة العالمية.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "قالت منظمة أطباء بلا حدود إن اثنين من موظفيها قُتلا في غارة إسرائيلية على عيادة طبية في غزة."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويقول الجيش الإسرائيلي إنه استهدف \"إرهابيي حماس\" في الضربة التي أدانتها منظمة الصحة العالمية."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "الإمارات العربية المتحدة تحتفل بعيد الاتحاد باحتفالات في جميع الإمارات السبع",
+   "summary": "الإمارات العربية المتحدة تحتفل بعيد الاتحاد باحتفالات في جميع الإمارات السبع",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "الإمارات العربية المتحدة تحتفل بعيد الاتحاد باحتفالات في جميع الإمارات السبع."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "الإمارات العربية المتحدة",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "زوجة تخشى أن يكون زوج العمال الفلبينيين في الخارج الذين تم تجنيدهم في دبي محاصرًا الآن في منطقة الحرب الروسية - ABS-CBN",
+   "summary": "زوجة تخشى أن يكون زوج العمال الفلبينيين في الخارج الذين تم تجنيدهم في دبي محاصرًا الآن في منطقة الحرب الروسية - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "زوجة تخشى أن يكون زوج العمال الفلبينيين في الخارج الذين تم تجنيدهم في دبي محاصرًا الآن في منطقة الحرب الروسية - ABS-CBN."
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "أفغانستان",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "مسؤول: سبعة طلاب قتلوا وأصيب نحو 100 آخرين في انفجار بأفغانستان",
+   "summary": "وقال متحدث باسم وزارة الداخلية الأفغانية إن الانفجار نجم عن الإهمال في مستودع متفجرات قريب.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "مسؤول: سبعة طلاب قتلوا وأصيب نحو 100 آخرين في انفجار بأفغانستان"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "هل تم تأكيد ذلك؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "وقال متحدث باسم وزارة الداخلية الأفغانية إن الانفجار نجم عن الإهمال في مستودع متفجرات قريب."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "اليمن",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "قصفت قوات الحكومة اليمنية مواقع الحوثيين بينما تحذر الأمم المتحدة من أزمة الجوع",
+   "summary": "ويواجه حوالي 1.8 مليون شخص مستويات طارئة من الجوع في المناطق التي تسيطر عليها الحكومة، وفقاً للأمم المتحدة.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "قصفت قوات الحكومة اليمنية مواقع الحوثيين بينما تحذر الأمم المتحدة من أزمة الجوع."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "ما هو الوضع الآن؟"
+    },
+    {
+     "role": "ANALYST",
+     "text": "ويواجه حوالي 1.8 مليون شخص مستويات طارئة من الجوع في المناطق التي تسيطر عليها الحكومة، وفقاً للأمم المتحدة."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "إيران",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "القيادة المركزية ترفض مزاعم إيران بشأن الهجوم على السفينة الحربية وتهم الشحن في هرمز",
+   "summary": "القيادة المركزية ترفض مزاعم إيران بشأن الهجوم على السفينة الحربية وتهم الشحن في هرمز",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "القيادة المركزية ترفض مزاعم إيران بشأن الهجوم على السفينة الحربية وتهم الشحن في هرمز."
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }

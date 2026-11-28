@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "hi",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "पाकिस्तान",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "पाकिस्तान ने मक्का समझौते के तहत सऊदी अरब और तुर्की के साथ रक्षा वार्ता की मेजबानी की",
-   "summary": "पाकिस्तान ने मक्का समझौते के तहत सऊदी अरब और तुर्की के साथ रक्षा वार्ता की मेजबानी की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान ने मक्का समझौते के तहत सऊदी अरब और तुर्की के साथ रक्षा वार्ता की मेजबानी की।"
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "संयुक्त राज्य अमेरिका",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "अमेरिका ने ईरान की नाकाबंदी तोड़ने की कोशिश कर रहे जहाज को निष्क्रिय कर दिया",
-   "summary": "अमेरिकी सेना का कहना है कि उसने एक वाणिज्यिक जहाज को ईरानी बंदरगाह छोड़ने के बाद निष्क्रिय कर दिया और रुकने की चेतावनियों को नजरअंदाज कर दिया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "अमेरिका ने ईरान की नाकाबंदी तोड़ने की कोशिश कर रहे जहाज को निष्क्रिय कर दिया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "मुझे विवरण दीजिए."
-    },
-    {
-     "role": "ANALYST",
-     "text": "अमेरिकी सेना का कहना है कि उसने एक वाणिज्यिक जहाज को ईरानी बंदरगाह छोड़ने के बाद निष्क्रिय कर दिया और रुकने की चेतावनियों को नजरअंदाज कर दिया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "सऊदी अरब",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "मक्का संधि के सहयोगियों ने सऊदी अरब पर 'जघन्य' हौथी हमलों की निंदा की",
-   "summary": "पाकिस्तान, सऊदी अरब और तुर्किये के अधिकारियों ने इस्लामाबाद में वार्ता के दौरान राज्य की सुरक्षा की रक्षा करने की प्रतिज्ञा की।",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "मक्का संधि वाले देशों ने क्षेत्रीय सुरक्षा की समीक्षा की, सऊदी अरब पर हौथी हमलों की निंदा की",
+   "summary": "मक्का संयुक्त रक्षा समझौते के शीर्ष निर्णय लेने वाले निकाय की शुक्रवार को एक बैठक में क्षेत्रीय सुरक्षा स्थिति की समीक्षा की गई और सऊदी अरब पर \"लगातार और जघन्य\" हौथी हमलों की निंदा की गई।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "मक्का संधि के सहयोगियों ने सऊदी अरब पर 'जघन्य' हौथी हमलों की निंदा की।"
+     "text": "मक्का संधि वाले देशों ने क्षेत्रीय सुरक्षा की समीक्षा की, सऊदी अरब पर हौथी हमलों की निंदा की।"
     },
     {
      "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
+     "text": "ठीक है, और क्या?"
     },
     {
      "role": "ANALYST",
-     "text": "पाकिस्तान, सऊदी अरब और तुर्किये के अधिकारियों ने इस्लामाबाद में वार्ता के दौरान राज्य की सुरक्षा की रक्षा करने की प्रतिज्ञा की।"
+     "text": "मक्का संयुक्त रक्षा समझौते के शीर्ष निर्णय लेने वाले निकाय की शुक्रवार को एक बैठक में क्षेत्रीय सुरक्षा स्थिति की समीक्षा की गई और सऊदी अरब पर \"लगातार और जघन्य\" हौथी हमलों की निंदा की गई।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "सऊदी अरब के अंदर, हौथी हमले राज्य की सुरक्षा की छवि का परीक्षण करते हैं",
-   "summary": "हड़तालों के बावजूद, रियाद में बाज़ार और रेस्तरां व्यस्त हैं क्योंकि निवासियों ने उनकी सुरक्षा के लिए सरकार पर भरोसा जताया है।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "सऊदी अरब के अंदर, हौथी हमले राज्य की सुरक्षा की छवि का परीक्षण करते हैं।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "यह कदम क्यों?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "हड़तालों के बावजूद, रियाद में बाज़ार और रेस्तरां व्यस्त हैं क्योंकि निवासियों ने उनकी सुरक्षा के लिए सरकार पर भरोसा जताया है।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "संयुक्त अरब अमीरात",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "एशिया-प्रशांत व्यापार ब्लॉक ने संयुक्त अरब अमीरात, फिलीपींस और इंडोनेशिया के साथ विलय वार्ता शुरू की",
-   "summary": "एशिया-प्रशांत व्यापार ब्लॉक ने संयुक्त अरब अमीरात, फिलीपींस और इंडोनेशिया के साथ विलय वार्ता शुरू की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "एशिया-प्रशांत व्यापार ब्लॉक ने संयुक्त अरब अमीरात, फिलीपींस और इंडोनेशिया के साथ विलय वार्ता शुरू की।"
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "ईरान",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "ईरान युद्ध लाइव: इटली का कहना है कि घातक कुवैत हमले में ड्रोन ईरान में बनाया गया था",
-   "summary": "इटली के विदेश मंत्री एंटोनियो ताज़ानी का कहना है कि कुवैत पर घातक हमले के पीछे का ड्रोन ईरान में बनाया गया था।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ईरान युद्ध लाइव: इटली का कहना है कि घातक कुवैत हमले में ड्रोन ईरान में बनाया गया था।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "इटली के विदेश मंत्री एंटोनियो ताज़ानी का कहना है कि कुवैत पर घातक हमले के पीछे का ड्रोन ईरान में बनाया गया था।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "बांग्लादेश",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "बांग्लादेश 'ए' पर पांच विकेट से जीत के साथ पाकिस्तान शाहींस एशिया कप राइजिंग स्टार्स के फाइनल में पहुंचा",
-   "summary": "पाकिस्तान शाहीन ने शुक्रवार को एशिया कप राइजिंग स्टार्स के दूसरे सेमीफाइनल में बांग्लादेश 'ए' पर पांच विकेट से जीत दर्ज की और श्रीलंका 'ए' के खिलाफ रविवार को होने वाले फाइनल में अपनी जगह पक्की करने के लिए 28 गेंद शेष रहते 233 रन का लक्ष्य हासिल कर लिया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "बांग्लादेश 'ए' पर पांच विकेट से जीत के साथ पाकिस्तान शाहीन एशिया कप राइजिंग स्टार्स के फाइनल में पहुंच गया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "समझा। जारी रखें।"
-    },
-    {
-     "role": "ANALYST",
-     "text": "पाकिस्तान शाहीन ने शुक्रवार को एशिया कप राइजिंग स्टार्स के दूसरे सेमीफाइनल में बांग्लादेश 'ए' पर पांच विकेट से जीत दर्ज की और श्रीलंका 'ए' के ​​खिलाफ रविवार को होने वाले फाइनल में अपनी जगह पक्की करने के लिए 28 गेंद शेष रहते 233 रन का लक्ष्य हासिल कर लिया।"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "यमन",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "पाकिस्तान, तुर्किये ने हौथी हमलों के खिलाफ सऊदी अरब को समर्थन बढ़ाने की प्रतिज्ञा की",
-   "summary": "पाकिस्तान, तुर्किये ने हौथी हमलों के खिलाफ सऊदी अरब को समर्थन बढ़ाने की प्रतिज्ञा की",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "पाकिस्तान, तुर्किये ने हौथी हमलों के खिलाफ सऊदी अरब को समर्थन बढ़ाने की प्रतिज्ञा की।"
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "फ़िलिस्तीन",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "हमास प्रमुख का आखिरी जीवित बेटा गाजा में इजरायली हमले से बच गया",
-   "summary": "हमास नेता खलील अल-हया का आखिरी जीवित बेटा इज्जेल्डीन शुक्रवार को इजरायली हत्या के प्रयास में बच गया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "हमास प्रमुख का आखिरी जीवित बेटा गाजा में इजरायली हमले से बच गया।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "हमास नेता खलील अल-हया का आखिरी जीवित बेटा इज्जेल्डीन शुक्रवार को इजरायली हत्या के प्रयास में बच गया।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "पाकिस्तान",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "पाकिस्तान में इमारत ढहने से मरने वालों की संख्या बढ़कर 8 हो गई, लगभग 10 लापता - एबीसी न्यूज",
-   "summary": "पाकिस्तान में इमारत ढहने से मरने वालों की संख्या बढ़कर 8 हो गई, लगभग 10 लापता - एबीसी न्यूज",
+   "headline": "पाकिस्तान, तुर्की और सऊदी अरब ने मक्का गठबंधन को व्यापक बनाने पर चर्चा की",
+   "summary": "पाकिस्तान, तुर्की और सऊदी अरब ने मक्का गठबंधन को व्यापक बनाने पर चर्चा की",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "पाकिस्तान में इमारत ढहने से मरने वालों की संख्या बढ़कर 8 हो गई, लगभग 10 लापता - एबीसी न्यूज।"
+     "text": "पाकिस्तान, तुर्की और सऊदी अरब ने मक्का गठबंधन को व्यापक बनाने पर चर्चा की।"
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "ताइवान",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "क्या ताइवान परमाणु ऊर्जा को पुनर्जीवित करने के लिए मतदान करेगा - और यह AI के लिए क्यों मायने रखता है?",
-   "summary": "मतदाता शनिवार को फैसला करेंगे कि देश की 'परमाणु मुक्त मातृभूमि' नीति को खत्म किया जाए या नहीं।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "क्या ताइवान परमाणु ऊर्जा को पुनर्जीवित करने के लिए मतदान करेगा - और यह AI के लिए क्यों मायने रखता है?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "अब क्या स्थिति है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "मतदाता शनिवार को फैसला करेंगे कि देश की 'परमाणु मुक्त मातृभूमि' नीति को खत्म किया जाए या नहीं।"
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "होर्मुज़ जलडमरूमध्य",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "सऊदी अरब",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "आईआरजीसी का कहना है कि होर्मुज़ के पास दो टैंकर खदानों की चपेट में आ गए",
-   "summary": "आईआरजीसी का कहना है कि होर्मुज़ के पास दो टैंकर खदानों की चपेट में आ गए",
+   "headline": "सऊदी अरब ने रियाद में लॉन्च की गई हौथी क्रूज़ मिसाइल को रोक दिया",
+   "summary": "सऊदी अरब ने रियाद में लॉन्च की गई हौथी क्रूज़ मिसाइल को रोक दिया",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "आईआरजीसी का कहना है कि होर्मुज़ के पास दो टैंकर खदानों की चपेट में आ गए।"
+     "text": "सऊदी अरब ने रियाद में लॉन्च की गई हौथी क्रूज़ मिसाइल को रोक दिया।"
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "यूक्रेन",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "ज़ेलेंस्की ने बीबीसी साक्षात्कार में 'अजीब' ट्रम्प-पुतिन दोस्ती की आलोचना की",
-   "summary": "यूक्रेन के राष्ट्रपति ने अमेरिका के प्रति निराशा व्यक्त की और कहा कि वह युद्ध समाप्त करने के लिए शांति वार्ता में रूस पर पर्याप्त दबाव नहीं डाल रहा है।",
+   "category": "Pakistan",
+   "headline": "बलूच कॉलोनी में इमारत ढहने से मरने वालों की संख्या बढ़कर 11 हो गई है, बचाव दल ने तीन और शव बरामद किए हैं",
+   "summary": "कराची: बचावकर्मियों ने शनिवार को कराची के बलूच कॉलोनी इलाके के पास ढह गई छह मंजिला इमारत के मलबे से तीन और शव बरामद किए, जिससे मरने वालों की संख्या 11 हो गई।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "ज़ेलेंस्की ने बीबीसी साक्षात्कार में 'अजीब' ट्रम्प-पुतिन दोस्ती की आलोचना की।"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "क्या इसकी पुष्टि हो गई है?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "यूक्रेन के राष्ट्रपति ने अमेरिका के प्रति निराशा व्यक्त की और कहा कि वह युद्ध समाप्त करने के लिए शांति वार्ता में रूस पर पर्याप्त दबाव नहीं डाल रहा है।"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "ताइवान",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "2026 चुनाव ताइवान के '9-इन-1' चुनाव, परमाणु जनमत संग्रह के लिए मतदान शुरू",
-   "summary": "2026 चुनाव ताइवान के '9-इन-1' चुनाव, परमाणु जनमत संग्रह के लिए मतदान शुरू",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "2026 चुनाव ताइवान के '9-इन-1' चुनाव, परमाणु जनमत संग्रह के लिए मतदान शुरू।"
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "स्पेन",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "स्पेन के कैनरी द्वीप के पास प्रवासी नाव पर कम से कम आठ मृत पाए गए",
-   "summary": "स्पेनिश बचाव सेवा का कहना है कि छह लोगों को गंभीर हालत में अस्पताल पहुंचाया गया।",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "स्पेन के कैनरी द्वीप के पास प्रवासी नाव पर कम से कम आठ मृत पाए गए।"
+     "text": "बलूच कॉलोनी में इमारत ढहने से मरने वालों की संख्या बढ़कर 11 हो गई है, बचाव दल ने तीन और शव बरामद किए हैं।"
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "स्पेनिश बचाव सेवा का कहना है कि छह लोगों को गंभीर हालत में अस्पताल पहुंचाया गया।"
+     "text": "कराची: बचावकर्मियों ने शनिवार को कराची के बलूच कॉलोनी इलाके के पास ढह गई छह मंजिला इमारत के मलबे से तीन और शव बरामद किए, जिससे मरने वालों की संख्या 11 हो गई।"
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "सऊदी अरब",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "सऊदी के नेतृत्व वाले गठबंधन के यमन पर हमले के दौरान हौथी हमलों ने सऊदी तेल साइटों को प्रभावित किया - विश-टीवी",
-   "summary": "सऊदी के नेतृत्व वाले गठबंधन के यमन पर हमले के दौरान हौथी हमलों ने सऊदी तेल साइटों को प्रभावित किया - विश-टीवी",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "ऑस्ट्रेलिया",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "WWE स्टार ब्रॉनसन रीड का 38 साल की उम्र में निधन",
+   "summary": "38 वर्षीय ऑस्ट्रेलियाई को श्रद्धांजलि देने वालों की बाढ़ आ गई है, जिनके परिवार में उनकी गर्भवती पत्नी पेगे और उनकी बेटी हैं।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "सऊदी के नेतृत्व वाले गठबंधन के यमन पर हमले के दौरान हौथी हमलों ने सऊदी तेल साइटों को प्रभावित किया - विश-टीवी।"
+     "text": "WWE स्टार ब्रॉनसन रीड का 38 साल की उम्र में निधन।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "अब क्या स्थिति है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "38 वर्षीय ऑस्ट्रेलियाई को श्रद्धांजलि देने वालों की बाढ़ आ गई है, जिनके परिवार में उनकी गर्भवती पत्नी पेगे और उनकी बेटी हैं।"
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "ईरान युद्ध अपडेट: अमेरिकी सेना ने उस वाणिज्यिक जहाज को निष्क्रिय कर दिया जिसने कथित तौर पर ईरानी बंदरगाहों पर नाकाबंदी तोड़ने की कोशिश की थी",
+   "summary": "ईरान युद्ध अपडेट: अमेरिकी सेना ने उस वाणिज्यिक जहाज को निष्क्रिय कर दिया जिसने कथित तौर पर ईरानी बंदरगाहों पर नाकाबंदी तोड़ने की कोशिश की थी",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "ईरान युद्ध अपडेट: अमेरिकी सेना ने उस वाणिज्यिक जहाज को निष्क्रिय कर दिया जिसने कथित तौर पर ईरानी बंदरगाहों पर नाकाबंदी तोड़ने की कोशिश की थी।"
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "पाकिस्तान",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "पाकिस्तान, सऊदी अरब और तुर्किये ने सामूहिक रक्षा प्रतिबद्धता की पुष्टि की",
+   "summary": "पाकिस्तान, सऊदी अरब और तुर्किये ने सामूहिक रक्षा प्रतिबद्धता की पुष्टि की",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पाकिस्तान, सऊदी अरब और तुर्किये ने सामूहिक रक्षा प्रतिबद्धता की पुष्टि की।"
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "संयुक्त अरब अमीरात",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "खाड़ी बाजारों का नेतृत्व करने के लिए दुबई के शेयरों में तेजी",
-   "summary": "खाड़ी बाजारों का नेतृत्व करने के लिए दुबई के शेयरों में तेजी",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "दुबई अंतर्राष्ट्रीय हवाई अड्डा प्रस्थान",
+   "summary": "दुबई अंतर्राष्ट्रीय हवाई अड्डा प्रस्थान",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "खाड़ी बाजारों का नेतृत्व करने के लिए दुबई के शेयरों में तेजी।"
+     "text": "दुबई अंतर्राष्ट्रीय हवाई अड्डा प्रस्थान।"
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "कुवैत",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "यूएई ने कुवैत पर आक्रामक ईरानी ड्रोन हमले की निंदा की",
-   "summary": "यूएई ने कुवैत पर आक्रामक ईरानी ड्रोन हमले की निंदा की",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "ताइवान",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "ताइवान स्थानीय चुनावों में मेयर और अन्य नेताओं को चुनने के लिए मतदान करता है",
+   "summary": "विपक्षी कुओमितांग के गढ़ ताइपे में मेयर पद की प्रमुख दौड़ सत्ताधारी डेमोक्रेटिक प्रोग्रेसिव पार्टी की परीक्षा है।",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "यूएई ने कुवैत पर आक्रामक ईरानी ड्रोन हमले की निंदा की।"
+     "text": "ताइवान स्थानीय चुनावों में मेयर और अन्य नेताओं को चुनने के लिए मतदान करता है।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या असर है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "विपक्षी कुओमितांग के गढ़ ताइपे में मेयर पद की प्रमुख दौड़ सत्ताधारी डेमोक्रेटिक प्रोग्रेसिव पार्टी की परीक्षा है।"
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "इजराइल",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "डॉक्टर्स विदाउट बॉर्डर्स गाजा क्लिनिक पर इजरायली 'सीधे प्रहार' ने 2 कर्मचारियों को मार डाला",
+   "summary": "एमएसएफ का कहना है कि परिसर अपने लोगो के साथ 'स्पष्ट रूप से चिह्नित' है, स्थान इजरायली सेना द्वारा सूचित और जाना जाता है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "डॉक्टर्स विदाउट बॉर्डर्स गाजा क्लिनिक पर इजरायली 'सीधे प्रहार' ने 2 कर्मचारियों को मार डाला।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "हम अब तक क्या जानते हैं?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "एमएसएफ का कहना है कि परिसर अपने लोगो के साथ 'स्पष्ट रूप से चिह्नित' है, स्थान इजरायली सेना द्वारा सूचित और जाना जाता है।"
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "अफ़ग़ानिस्तान",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "अफगान स्कूल के पास विस्फोट में कई छात्रों की मौत",
+   "summary": "अफगानिस्तान के असदाबाद में एक मिडिल स्कूल के पास हुए विस्फोट में कम से कम छह छात्र मारे गए और 97 घायल हो गए।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अफगान स्कूल के पास विस्फोट में कई छात्रों की मौत."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "कोई हताहत?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अफगानिस्तान के असदाबाद में एक मिडिल स्कूल के पास हुए विस्फोट में कम से कम छह छात्र मारे गए और 97 घायल हो गए।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "चीन",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "चीनी इंजीनियरों ने अबू धाबी ड्रिलिंग रिग स्थापित करने के लिए होर्मुज नाकाबंदी को खारिज कर दिया",
+   "summary": "चीनी इंजीनियरों ने अबू धाबी ड्रिलिंग रिग स्थापित करने के लिए होर्मुज नाकाबंदी को खारिज कर दिया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "चीनी इंजीनियरों ने अबू धाबी ड्रिलिंग रिग स्थापित करने के लिए होर्मुज नाकाबंदी को खारिज कर दिया।"
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "इजराइल",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "एमएसएफ का कहना है कि गाजा मेडिकल क्लिनिक पर इजरायली हमले में दो कर्मचारी मारे गए",
+   "summary": "इज़रायली सेना का कहना है कि उसने हमले में \"हमास आतंकवादियों\" को निशाना बनाया, जिसकी विश्व स्वास्थ्य संगठन ने निंदा की है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "एमएसएफ का कहना है कि गाजा मेडिकल क्लिनिक पर इजरायली हमले में दो कर्मचारी मारे गए।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "इज़रायली सेना का कहना है कि उसने हमले में \"हमास आतंकवादियों\" को निशाना बनाया, जिसकी विश्व स्वास्थ्य संगठन ने निंदा की है।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "संयुक्त अरब अमीरात ईद अल एतिहाद को सभी सात अमीरातों में समारोह के साथ मनाएगा",
+   "summary": "संयुक्त अरब अमीरात ईद अल एतिहाद को सभी सात अमीरातों में समारोह के साथ मनाएगा",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "संयुक्त अरब अमीरात ईद अल एतिहाद को सभी सात अमीरातों में समारोह के साथ मनाएगा।"
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "संयुक्त अरब अमीरात",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "पत्नी को डर है कि दुबई में भर्ती OFW पति अब रूस के युद्ध क्षेत्र में फंस गया है - ABS-CBN",
+   "summary": "पत्नी को डर है कि दुबई में भर्ती OFW पति अब रूस के युद्ध क्षेत्र में फंस गया है - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "पत्नी को डर है कि दुबई में भर्ती OFW पति अब रूस के युद्ध क्षेत्र में फंस गया है - ABS-CBN।"
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "अफ़ग़ानिस्तान",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "अधिकारी का कहना है कि अफ़ग़ानिस्तान में विस्फोट में सात छात्रों की मौत हो गई और लगभग 100 घायल हो गए",
+   "summary": "अफ़ग़ानिस्तान के आंतरिक मंत्रालय के एक प्रवक्ता का कहना है कि विस्फोट पास के एक विस्फोटक डिपो में लापरवाही के कारण हुआ था।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "अधिकारी का कहना है कि अफ़ग़ानिस्तान में विस्फोट में सात छात्रों की मौत हो गई और लगभग 100 घायल हो गए।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "क्या इसकी पुष्टि हो गई है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "अफ़ग़ानिस्तान के आंतरिक मंत्रालय के एक प्रवक्ता का कहना है कि विस्फोट पास के एक विस्फोटक डिपो में लापरवाही के कारण हुआ था।"
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "यमन",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "संयुक्त राष्ट्र द्वारा भूख संकट की चेतावनी के बाद यमन सरकारी बलों ने हौथी ठिकानों पर हमला किया",
+   "summary": "संयुक्त राष्ट्र के अनुसार, सरकार के कब्जे वाले क्षेत्रों में लगभग 1.8 मिलियन लोगों को भूख के आपातकालीन स्तर का सामना करना पड़ता है।",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "संयुक्त राष्ट्र द्वारा भूख संकट की चेतावनी के बाद यमन सरकारी बलों ने हौथी ठिकानों पर हमला किया।"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "अब क्या स्थिति है?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "संयुक्त राष्ट्र के अनुसार, सरकार के कब्जे वाले क्षेत्रों में लगभग 1.8 मिलियन लोगों को भूख के आपातकालीन स्तर का सामना करना पड़ता है।"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "ईरान",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "सेंटकॉम ने युद्धपोत हमले, होर्मुज शिपिंग आरोपों पर ईरान के दावों को खारिज कर दिया",
+   "summary": "सेंटकॉम ने युद्धपोत हमले, होर्मुज शिपिंग आरोपों पर ईरान के दावों को खारिज कर दिया",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "सेंटकॉम ने युद्धपोत हमले, होर्मुज शिपिंग आरोपों पर ईरान के दावों को खारिज कर दिया।"
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }

@@ -1,299 +1,44 @@
 {
- "updated": "2026-11-28T02:01:46.903604Z",
+ "updated": "2026-11-28T10:35:15.995896Z",
  "generator": "rss",
  "lang": "fr",
  "stories": [
   {
-   "id": "pakistan-hosts-defense-talks-with-saudi-arabia-a",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
-   "severity": "watch",
-   "category": "Pakistan",
-   "headline": "Le Pakistan accueille des pourparlers de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de La Mecque",
-   "summary": "Le Pakistan accueille des pourparlers de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de La Mecque",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan accueille des négociations de défense avec l'Arabie saoudite et la Turquie dans le cadre de l'accord de La Mecque."
-    }
-   ],
-   "source": "Washington Times",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T15:16:39Z",
-   "countries": [
-    "Pakistan",
-    "Saudi Arabia",
-    "Turkey"
-   ]
-  },
-  {
-   "id": "us-disables-ship-attempting-to-breach-iran-block",
-   "country": "United States of America",
-   "label": "ÉTATS-UNIS",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "high",
-   "category": "Business",
-   "headline": "Les États-Unis neutralisent un navire qui tentait de violer le blocus iranien",
-   "summary": "L'armée américaine affirme avoir neutralisé un navire commercial après son départ d'un port iranien et ignoré les avertissements de s'arrêter.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les États-Unis neutralisent un navire qui tentait de violer le blocus iranien."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Donnez-moi les détails."
-    },
-    {
-     "role": "ANALYST",
-     "text": "L'armée américaine affirme avoir neutralisé un navire commercial après son départ d'un port iranien et ignoré les avertissements de s'arrêter."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:55:16Z",
-   "countries": [
-    "United States of America",
-    "Iran"
-   ]
-  },
-  {
-   "id": "mecca-pact-allies-condemn-heinous-houthi-attacks",
+   "id": "makkah-pact-nations-review-regional-security-con",
    "country": "Saudi Arabia",
    "label": "ARABIE SAOUDITE",
    "lat": 24.7,
    "lon": 46.7,
    "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Les alliés du pacte de La Mecque condamnent les attaques « odieuses » des Houthis contre l’Arabie saoudite",
-   "summary": "Des responsables du Pakistan, de l'Arabie saoudite et de la Turquie s'engagent à protéger la sécurité du royaume lors des négociations à Islamabad.",
+   "severity": "info",
+   "category": "Tech",
+   "headline": "Les pays du pacte de La Mecque examinent la sécurité régionale et condamnent les attaques des Houthis contre l'Arabie saoudite",
+   "summary": "Vendredi, une réunion du plus haut organe décisionnel de l’Accord de défense commune de La Mecque a examiné la situation sécuritaire régionale et a condamné les attaques « persistantes et odieuses » des Houthis contre l’Arabie saoudite.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les alliés du pacte de La Mecque condamnent les attaques « odieuses » des Houthis contre l’Arabie saoudite."
+     "text": "Les pays du pacte de La Mecque examinent la sécurité régionale et condamnent les attaques des Houthis contre l'Arabie saoudite."
     },
     {
      "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
+     "text": "D'accord, quoi d'autre ?"
     },
     {
      "role": "ANALYST",
-     "text": "Des responsables du Pakistan, de l'Arabie saoudite et de la Turquie s'engagent à protéger la sécurité du royaume lors des négociations à Islamabad."
+     "text": "Vendredi, une réunion du plus haut organe décisionnel de l’Accord de défense commune de La Mecque a examiné la situation sécuritaire régionale et a condamné les attaques « persistantes et odieuses » des Houthis contre l’Arabie saoudite."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047415/makkah-pact-nations-review-regional-security-condemn-houthi-attacks-on-saudi-arabia",
    "type": null,
-   "time": "2026-11-27T17:41:24Z",
-   "countries": [
-    "Saudi Arabia",
-    "Yemen",
-    "Pakistan"
-   ]
-  },
-  {
-   "id": "inside-saudi-arabia-houthi-attacks-test-kingdom-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "En Arabie Saoudite, les attaques des Houthis mettent à l’épreuve l’image de sécurité du royaume",
-   "summary": "Malgré les grèves, les marchés et les restaurants de Riyad restent animés, les habitants exprimant leur confiance dans le gouvernement pour les protéger.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "En Arabie saoudite, les attaques des Houthis mettent à l’épreuve l’image de sécurité du royaume."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Pourquoi ce déménagement ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Malgré les grèves, les marchés et les restaurants de Riyad restent animés, les habitants exprimant leur confiance dans le gouvernement pour les protéger."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T06:04:51Z",
+   "time": "2026-11-27T18:28:04Z",
    "countries": [
     "Saudi Arabia",
     "Yemen"
    ]
   },
   {
-   "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
-   "country": "United Arab Emirates",
-   "label": "ÉMIRATS ARABES UNIS",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie",
-   "summary": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le bloc commercial Asie-Pacifique ouvre des négociations d’adhésion avec les Émirats arabes unis, les Philippines et l’Indonésie."
-    }
-   ],
-   "source": "POLITICO.eu",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY0F4WHdrLTVCN3FhQndrY1dWOGgxeGtvQndQSHJ3eFo4S2pqZUt6UUxWU3NXbG5qQXVoa0dVb1prOTRmRng1aFJ2YV9JVWV5ZEZlWnZQdGp1TzlFcHV3SkpYVy12ZkJySGgtQVVQUl8tclppOXd0WlN5eFA3ajNnTmQ2SFBaaHR6ZDQyRS1DVlhoZnkwbVhScA?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:19:00Z",
-   "countries": [
-    "United Arab Emirates",
-    "Philippines",
-    "Indonesia"
-   ]
-  },
-  {
-   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
-   "country": "Iran",
-   "label": "L'IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Guerre en Iran en direct : l'Italie affirme que le drone utilisé dans l'attaque meurtrière au Koweït a été fabriqué en Iran",
-   "summary": "Le ministre italien des Affaires étrangères, Antonio Tajani, a déclaré que le drone derrière la frappe meurtrière au Koweït avait été fabriqué en Iran.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "La guerre en Iran en direct : l'Italie affirme que le drone utilisé dans l'attaque meurtrière au Koweït a été fabriqué en Iran."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le ministre italien des Affaires étrangères, Antonio Tajani, a déclaré que le drone derrière la frappe meurtrière au Koweït avait été fabriqué en Iran."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-28T00:00:00Z",
-   "countries": [
-    "Iran",
-    "Italy",
-    "Kuwait"
-   ]
-  },
-  {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "BANGLADESH",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Les Shaheens du Pakistan se qualifient pour la finale des Rising Stars de la Coupe d'Asie avec une victoire de cinq guichets contre le Bangladesh « A »",
-   "summary": "Les Pakistan Shaheens ont remporté une victoire composée de cinq guichets contre le Bangladesh « A » lors de la deuxième demi-finale de la Coupe d'Asie Rising Stars vendredi, poursuivant un objectif de 233 avec 28 balles à perdre pour réserver leur place pour la finale de dimanche contre le Sri Lanka « A ».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Les Pakistan Shaheens se qualifient pour la finale des Rising Stars de la Coupe d'Asie avec une victoire de cinq guichets contre le Bangladesh « A »."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Compris. Continue."
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les Pakistan Shaheens ont remporté une victoire composée de cinq guichets contre le Bangladesh « A » lors de la deuxième demi-finale de la Coupe d'Asie Rising Stars vendredi, poursuivant un objectif de 233 avec 28 balles à perdre pour réserver leur place pour la finale de dimanche contre le Sri Lanka « A »."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
-   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
-   "country": "Yemen",
-   "label": "YÉMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Le Pakistan et la Turquie s'engagent à renforcer leur soutien à l'Arabie saoudite contre les attaques des Houthis",
-   "summary": "Le Pakistan et la Turquie s'engagent à renforcer leur soutien à l'Arabie saoudite contre les attaques des Houthis",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le Pakistan et la Turquie s'engagent à renforcer leur soutien à l'Arabie saoudite contre les attaques des Houthis."
-    }
-   ],
-   "source": "Arab News PK",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
-   "type": null,
-   "time": "2026-11-27T23:01:12Z",
-   "countries": [
-    "Yemen",
-    "Pakistan",
-    "Turkey",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
-   "country": "Palestine",
-   "label": "PALESTINE",
-   "lat": 31.6,
-   "lon": 34.6,
-   "flag": "🇵🇸",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Le dernier fils survivant du chef du Hamas échappe à une frappe israélienne à Gaza",
-   "summary": "Le dernier fils survivant du chef du Hamas, Khalil al-Hayya, Izzeldeen, a survécu vendredi à une tentative d'assassinat israélienne.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Le dernier fils survivant du chef du Hamas échappe à l’attaque israélienne à Gaza."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le dernier fils survivant du chef du Hamas, Khalil al-Hayya, Izzeldeen, a survécu vendredi à une tentative d'assassinat israélienne."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T20:18:45Z",
-   "countries": [
-    "Palestine",
-    "Israel"
-   ]
-  },
-  {
-   "id": "death-toll-in-pakistan-building-collapse-rises-t",
+   "id": "pakistan-turkey-and-saudi-arabia-discuss-broaden",
    "country": "Pakistan",
    "label": "PAKISTAN",
    "lat": 30.4,
@@ -301,155 +46,65 @@
    "flag": "🇵🇰",
    "severity": "info",
    "category": "Pakistan",
-   "headline": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News",
-   "summary": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News",
+   "headline": "Le Pakistan, la Turquie et l'Arabie saoudite discutent de l'élargissement de leur alliance à La Mecque",
+   "summary": "Le Pakistan, la Turquie et l'Arabie saoudite discutent de l'élargissement de leur alliance à La Mecque",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Le bilan des morts dans l'effondrement d'un immeuble au Pakistan s'élève à 8 et environ 10 disparus - ABC News."
+     "text": "Le Pakistan, la Turquie et l'Arabie saoudite discutent de l'élargissement de l'alliance à La Mecque."
     }
    ],
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3VFZFdBelRpNEVoYXFXU1BGcHRkd1ZlVHZqN21RTzJfd0ZzdDB4dmpLMXlmUkE4TTRoVmlXU3JNeWFMT1hnWGxKRHd2N0NlVnVOelQ0TDZTS2Iza1EyTnpSX2tHY3VRVTIxbmt5SjJaSU55cE1VeDYyY0RWWnZOdEozbjVyOWdMZzExc25qd1JZRDY5OTlPVXBTbnE1MHlLSVY1etIBqgFBVV95cUxNWUpFb3FMV05LZmpWWjloT2hNWFg2VzdlcktjZlZ5MG9lcUxhc3JTNUtSSkRvcHk1OE5laEVlMHZVejFBNFF1aWlFMjBiUFN1ZUpZV193U293SjVmdVA5Rnd6aUJxZ054LUdrV2NoRHhOOU1BS2NGR2hGcGlVeWthVzNoNS14dmM0RVhURndCdlhJVjhjZElLdGdFLVdCSU82S3Q5WDVRNm5LQQ?oc=5",
+   "source": "The Arab Weekly",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0VoQmNGTVJwLVd1NmJ4bnNLLWZlZkl2Mk5CMkRUdDdZUVAzTmp0RzN2UFB1T1FaOHp3UTEzcE1fcVpJN3hIaHdlSFVXY20yWUpvazJvYk9ZUXFJX3A4ZjhkUFBMbktFeHNtS0lMMl9uUlhyemNIWHBuOXhFYk1aMWpBRnNUdWoyVnVienZOSjR5MkNFWXVr?oc=5",
    "type": null,
-   "time": "2026-11-27T14:21:55Z",
+   "time": "2026-11-28T08:54:55Z",
    "countries": [
-    "Pakistan"
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
    ]
   },
   {
-   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
-   "country": "Taiwan",
-   "label": "TAÏWAN",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "Tech",
-   "headline": "Taïwan votera-t-il pour relancer l’énergie nucléaire – et pourquoi est-ce important pour l’IA ?",
-   "summary": "Les électeurs décideront samedi s'ils abandonnent ou non la politique du pays en faveur d'une « patrie sans nucléaire ».",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Taïwan votera-t-il pour relancer l’énergie nucléaire – et pourquoi est-ce important pour l’IA ?"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Quelle est la situation maintenant ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Les électeurs décideront samedi s'ils abandonnent ou non la politique du pays en faveur d'une « patrie sans nucléaire »."
-    }
-   ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-   "type": null,
-   "time": "2026-11-27T23:09:04Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
-   "country": "Iran",
-   "label": "DÉTROIT D'HORMUZ",
-   "lat": 26.6,
-   "lon": 56.4,
-   "flag": "🇮🇷",
-   "severity": "critical",
+   "id": "saudi-arabia-intercepts-houthi-cruise-missile-la",
+   "country": "Saudi Arabia",
+   "label": "ARABIE SAOUDITE",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
+   "severity": "info",
    "category": "Middle East",
-   "headline": "Deux pétroliers touchés par des mines près d'Ormuz, selon le CGRI",
-   "summary": "Deux pétroliers touchés par des mines près d'Ormuz, selon le CGRI",
+   "headline": "L'Arabie Saoudite intercepte un missile de croisière Houthi lancé sur Riyad",
+   "summary": "L'Arabie Saoudite intercepte un missile de croisière Houthi lancé sur Riyad",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Deux pétroliers touchés par des mines près d'Ormuz, selon le CGRI."
+     "text": "L'Arabie saoudite intercepte un missile de croisière Houthi lancé sur Riyad."
     }
    ],
-   "source": "The Times of Israel",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
-   "type": null,
-   "time": "2026-11-28T00:05:55Z",
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT3ZyS1JmQzZjVFBiWkpZNnJoTkNBSlFkajR3THFUT0RieVFPTnVaOF9PdEU2aXU4LUFJUkExbks5dnp2WGFFRHFPVFpONEFZejVjWk1GUWdxSjBrZnlxb0JLUWZuR2x4MVdmb1R4TnhSSlpCS1N4c0p3TmZXbTdLU0V3MzFPVFV0cmxuUEtYVkNpQQ?oc=5",
+   "type": "LIVE",
+   "time": "2026-11-28T09:17:58Z",
    "countries": [
-    "Iran"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "zelensky-criticises-strange-trump-putin-friendsh",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
+   "id": "death-toll-in-baloch-colony-building-collapse-ri",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
    "severity": "critical",
-   "category": "World",
-   "headline": "Zelensky critique \"l'étrange\" amitié Trump-Poutine dans une interview à la BBC",
-   "summary": "Le président ukrainien exprime sa frustration à l'égard des États-Unis et affirme que ceux-ci ne poussent pas assez fort la Russie dans les pourparlers de paix pour mettre fin à la guerre.",
+   "category": "Pakistan",
+   "headline": "Le bilan des morts dans l'effondrement d'un bâtiment de la colonie Baloutche s'élève à 11 alors que les sauveteurs récupèrent trois autres corps",
+   "summary": "KARACHI : Les secouristes ont récupéré trois autres corps dans les décombres d'un immeuble de six étages qui s'est effondré samedi près de la zone de la colonie Baloutche de Karachi, portant le bilan à 11 morts.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Zelensky critique « l’étrange » amitié Trump-Poutine dans une interview à la BBC."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Est-ce confirmé ?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Le président ukrainien exprime sa frustration à l'égard des États-Unis et affirme que ceux-ci ne poussent pas assez fort la Russie dans les pourparlers de paix pour mettre fin à la guerre."
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:00:40Z",
-   "countries": [
-    "Ukraine",
-    "United States of America",
-    "Russia"
-   ]
-  },
-  {
-   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
-   "country": "Taiwan",
-   "label": "TAÏWAN",
-   "lat": 23.7,
-   "lon": 121.0,
-   "flag": "🇹🇼",
-   "severity": "high",
-   "category": "World",
-   "headline": "ÉLECTIONS 2026 Ouverture des bureaux de vote pour les élections « 9 en 1 » et le référendum nucléaire à Taiwan",
-   "summary": "ÉLECTIONS 2026 Ouverture des bureaux de vote pour les élections « 9 en 1 » et le référendum nucléaire à Taiwan",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "ÉLECTIONS 2026 Ouverture des bureaux de vote pour les élections « 9 en 1 » à Taiwan et le référendum nucléaire."
-    }
-   ],
-   "source": "Focus Taiwan",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
-   "type": null,
-   "time": "2026-11-28T01:32:00Z",
-   "countries": [
-    "Taiwan"
-   ]
-  },
-  {
-   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
-   "country": "Spain",
-   "label": "ESPAGNE",
-   "lat": 40.5,
-   "lon": -3.7,
-   "flag": "🇪🇸",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Au moins huit morts sur un bateau de migrants au large des îles Canaries, en Espagne",
-   "summary": "Six personnes ont été transportées par avion à l'hôpital dans un état grave, selon les secours espagnols.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Au moins huit personnes retrouvées mortes sur un bateau de migrants au large des îles Canaries espagnoles."
+     "text": "Le bilan des morts dans l'effondrement d'un bâtiment de la colonie Baloutche s'élève à 11 alors que les sauveteurs récupèrent trois autres corps."
     },
     {
      "role": "COMMANDER",
@@ -457,92 +112,427 @@
     },
     {
      "role": "ANALYST",
-     "text": "Six personnes ont été transportées par avion à l'hôpital dans un état grave, selon les secours espagnols."
+     "text": "KARACHI : Les secouristes ont récupéré trois autres corps dans les décombres d'un immeuble de six étages qui s'est effondré samedi près de la zone de la colonie Baloutche de Karachi, portant le bilan à 11 morts."
     }
    ],
-   "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047647/death-toll-in-baloch-colony-building-collapse-rises-to-11-as-rescuers-recover-three-more-bodies",
    "type": null,
-   "time": "2026-11-27T23:57:03Z",
+   "time": "2026-11-28T07:54:12Z",
    "countries": [
-    "Spain"
+    "Pakistan"
    ]
   },
   {
-   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
-   "country": "Saudi Arabia",
-   "label": "ARABIE SAOUDITE",
-   "lat": 24.7,
-   "lon": 46.7,
-   "flag": "🇸🇦",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Les frappes des Houthis frappent les sites pétroliers saoudiens alors que la coalition dirigée par l'Arabie saoudite attaque le Yémen - WISH-TV",
-   "summary": "Les frappes des Houthis frappent les sites pétroliers saoudiens alors que la coalition dirigée par l'Arabie saoudite attaque le Yémen - WISH-TV",
+   "id": "wwe-star-bronson-reed-dies-at-38",
+   "country": "Australia",
+   "label": "AUSTRALIE",
+   "lat": -25.3,
+   "lon": 133.8,
+   "flag": "🇦🇺",
+   "severity": "high",
+   "category": "World",
+   "headline": "La star de la WWE Bronson Reed est décédée à 38 ans",
+   "summary": "Les hommages ont afflué pour l'Australien de 38 ans qui laisse dans le deuil sa femme enceinte, Paige, leur fille.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les frappes des Houthis frappent les sites pétroliers saoudiens alors que la coalition dirigée par l'Arabie saoudite attaque le Yémen - WISH-TV."
+     "text": "La star de la WWE Bronson Reed est décédée à 38 ans."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quelle est la situation maintenant ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Les hommages ont afflué pour l'Australien de 38 ans qui laisse dans le deuil sa femme enceinte, Paige, leur fille."
     }
    ],
-   "source": "WISH-TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
+   "source": "Variety",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTU85SGhFUmpQUVpMaGxXcUpJZVV6MENYRllkUDloMGRHX1VZRXAxUnZ1OHUzRkdOSzFkNXJvbkl4ZXZyN2FuZjNPbzBxOUo2Mm9NRTJfQXRqTWJtaDFGUWpVT19HZ0stR3lZb053VzJ2UlhZVE96a2dUYVdQTm1mTE9rd0ljaFMtVnNWMldVQ3U0UGt5?oc=5",
    "type": null,
-   "time": "2026-11-27T19:12:00Z",
+   "time": "2026-11-28T04:27:00Z",
    "countries": [
-    "Saudi Arabia",
-    "Yemen"
+    "Australia"
    ]
   },
   {
-   "id": "dubai-stocks-rally-to-lead-gulf-markets",
+   "id": "iran-war-updates-u-s-forces-disable-commercial-s",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Mises à jour sur la guerre en Iran : les forces américaines neutralisent un navire commercial qui aurait tenté de briser le blocus des ports iraniens",
+   "summary": "Mises à jour sur la guerre en Iran : les forces américaines neutralisent un navire commercial qui aurait tenté de briser le blocus des ports iraniens",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Mises à jour sur la guerre en Iran : les forces américaines neutralisent un navire commercial qui aurait tenté de briser le blocus des ports iraniens."
+    }
+   ],
+   "source": "CBS News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0lGZ2x0YXZLeTRTdE1zN09yX3E5enVIX0ZnUmhUVDVfMlVNeVpqUmlxN3ZLZFM1X2hfZGl0MVZmV1ZQZTFoUkpFNDVMM3E5bVhpZTRWdWZ5SVQtTEx6UFBGRWRkNjM0b0hvbnRpNzJscmVLMG95Mk1vUGt0YW1DQmxxbTZzUEVVOFJWdTVGNThiLU9G?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:10:00Z",
+   "countries": [
+    "Iran",
+    "United States of America"
+   ]
+  },
+  {
+   "id": "pakistan-saudi-arabia-and-t-rkiye-reaffirm-colle",
+   "country": "Pakistan",
+   "label": "PAKISTAN",
+   "lat": 30.4,
+   "lon": 69.3,
+   "flag": "🇵🇰",
+   "severity": "info",
+   "category": "Pakistan",
+   "headline": "Le Pakistan, l'Arabie Saoudite et la Turquie réaffirment leur engagement en matière de défense collective",
+   "summary": "Le Pakistan, l'Arabie Saoudite et la Turquie réaffirment leur engagement en matière de défense collective",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Le Pakistan, l'Arabie Saoudite et la Turquie réaffirment leur engagement en matière de défense collective."
+    }
+   ],
+   "source": "thekabultribune.com",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZE5tbTN0TDVwMG9qbnVoNTRmREZSaEg5bjJwVXI3M1NyUDBnbXR4R2tWNHpmMEJIMGVKcjdKTTU3b1dDcTg4VHZCNUZ2MEE?oc=5",
+   "type": null,
+   "time": "2026-11-28T04:03:57Z",
+   "countries": [
+    "Pakistan",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "id": "dubai-international-airport-departures",
    "country": "United Arab Emirates",
    "label": "ÉMIRATS ARABES UNIS",
    "lat": 25.2,
    "lon": 55.3,
    "flag": "🇦🇪",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Les actions de Dubaï se rassemblent pour dominer les marchés du Golfe",
-   "summary": "Les actions de Dubaï se rassemblent pour dominer les marchés du Golfe",
+   "severity": "watch",
+   "category": "UAE",
+   "headline": "Aéroport international de Dubaï Départs",
+   "summary": "Aéroport international de Dubaï Départs",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les actions de Dubaï se rassemblent pour dominer les marchés du Golfe."
+     "text": "Départs de l'aéroport international de Dubaï."
     }
    ],
-   "source": "Briefs Finance",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
+   "source": "Flightradar24",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUppSzIzSTBIVTR4OW9Bb0EwV0tqc1BGcFctZHZaUEE3UGx2M09OYl9iaGY1Z3ZWdURfNGp1NlJYWENXNThMVGxtOXB1WDJLVDN3X29IN2RsM0swOVpLd0VGMEhHbUFGc0UzSC1QbVFJN1NBYXg0MjJpX2traHo5bGRwSmt1V2JE?oc=5",
    "type": null,
-   "time": "2026-11-27T14:15:00Z",
+   "time": "2026-11-28T10:06:22Z",
    "countries": [
     "United Arab Emirates"
    ]
   },
   {
-   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
-   "country": "Kuwait",
-   "label": "KOWEIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Les Émirats arabes unis condamnent l'attaque agressive de drones iraniens contre le Koweït",
-   "summary": "Les Émirats arabes unis condamnent l'attaque agressive de drones iraniens contre le Koweït",
+   "id": "taiwan-votes-in-local-elections-to-choose-mayors",
+   "country": "Taiwan",
+   "label": "TAÏWAN",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "watch",
+   "category": "World",
+   "headline": "Taiwan vote aux élections locales pour choisir les maires et d'autres dirigeants",
+   "summary": "La course à la mairie de Taipei, un bastion du parti d'opposition Kuomintang, met à l'épreuve le Parti démocrate progressiste au pouvoir.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Les Émirats arabes unis condamnent l’attaque agressive de drones iraniens contre le Koweït."
+     "text": "Taiwan vote aux élections locales pour choisir les maires et d'autres dirigeants."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quel est l'impact ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "La course à la mairie de Taipei, un bastion du parti d'opposition Kuomintang, met à l'épreuve le Parti démocrate progressiste au pouvoir."
     }
    ],
-   "source": "Global Arab Network",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T17:28:46Z",
+   "time": "2026-11-28T02:05:27Z",
    "countries": [
-    "Kuwait",
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "israeli-direct-hit-on-doctors-without-borders-ga",
+   "country": "Israel",
+   "label": "ISRAËL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Un « coup direct » israélien contre la clinique de Médecins sans frontières à Gaza tue 2 employés",
+   "summary": "MSF affirme que les locaux sont « clairement signalés » par ses logos, emplacement communiqué et connu de l'armée israélienne.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Un « coup direct » israélien contre la clinique de Médecins sans frontières à Gaza tue 2 membres du personnel."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Que savons-nous jusqu’à présent ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "MSF affirme que les locaux sont « clairement signalés » par ses logos, emplacement communiqué et connu de l'armée israélienne."
+    }
+   ],
+   "source": "Al Jazeera",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB?oc=5",
+   "type": null,
+   "time": "2026-11-28T10:11:29Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "several-students-killed-in-blast-beside-afghan-s",
+   "country": "Afghanistan",
+   "label": "AFGHANISTAN",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Plusieurs élèves tués dans une explosion près d'une école afghane",
+   "summary": "Au moins six étudiants ont été tués et 97 blessés dans une explosion à côté d'un collège à Asadabad, en Afghanistan.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Plusieurs étudiants tués dans une explosion à côté d'une école afghane."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Des victimes ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Au moins six étudiants ont été tués et 97 blessés dans une explosion à côté d'un collège à Asadabad, en Afghanistan."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T10:05:26Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "chinese-engineers-defy-hormuz-blockade-to-instal",
+   "country": "China",
+   "label": "CHINE",
+   "lat": 35.0,
+   "lon": 104.0,
+   "flag": "🇨🇳",
+   "severity": "info",
+   "category": "World",
+   "headline": "Des ingénieurs chinois défient le blocus d'Ormuz et installent des plates-formes de forage à Abou Dhabi",
+   "summary": "Des ingénieurs chinois défient le blocus d'Ormuz et installent des plates-formes de forage à Abou Dhabi",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Des ingénieurs chinois défient le blocus d'Ormuz pour installer des plates-formes de forage à Abu Dhabi."
+    }
+   ],
+   "source": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2M4WFJMbzctOEhLUkdDTXIzUVNNUGFkZHVOM2ItUjJBYUI4dDR2Qk84MThWWUpfN2Uya29MQ1YyZTlJaDZFM2RfcHlqVEpTam8tV0U5QTl3QjUyME1zNmFYU2lGLVZLdmZXRDRiUW9tNGtfbDlLcUZybWEycGRONWt4dDhwUTZ0RFJwTkgyVkdqU2hCZUlQZ241MHh4c3lWTEJEVVhKUmNUT29WdEExM0RZZlhXVTI1YXfSAboBQVVfeXFMT2kzeFIzcU5PWE1POWVTNkl1YW42VzV3VnZmeDFIS1NiSDhSa1JwTVk5VExNR1VVdXVMUjFaY2x4cW1HZW5KT210WGwwR0pSckN0Y0ltb0VlTk1FMjlYTll6anBZWVNhU0RjUkJRcWNrVlBvQ25FUDFCb3dHOUxqNlUtblJlYnZGTzVEb2Y1UDhxNDkwS3piMUxGUVVXRVlqWkIyLW9xZkFVR254SjhiSmdIZlJYd2YxaXVR?oc=5",
+   "type": null,
+   "time": "2026-11-28T06:00:13Z",
+   "countries": [
+    "China",
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "two-staff-killed-in-israeli-strike-on-gaza-medic",
+   "country": "Israel",
+   "label": "ISRAËL",
+   "lat": 31.4,
+   "lon": 35.0,
+   "flag": "🇮🇱",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Deux employés tués dans une frappe israélienne contre une clinique médicale à Gaza, selon MSF",
+   "summary": "L'armée israélienne affirme avoir ciblé des \"terroristes du Hamas\" lors de cette frappe qui a été condamnée par l'Organisation mondiale de la santé.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Deux membres du personnel ont été tués lors d'une frappe israélienne contre une clinique médicale à Gaza, indique MSF."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "L'armée israélienne affirme avoir ciblé des \"terroristes du Hamas\" lors de cette frappe qui a été condamnée par l'Organisation mondiale de la santé."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T06:52:05Z",
+   "countries": [
+    "Israel",
+    "Palestine"
+   ]
+  },
+  {
+   "id": "uae-to-mark-eid-al-etihad-with-celebrations-acro",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "info",
+   "category": "UAE",
+   "headline": "Les Émirats arabes unis marqueront l'Aïd Al Etihad avec des célébrations dans les sept émirats",
+   "summary": "Les Émirats arabes unis marqueront l'Aïd Al Etihad avec des célébrations dans les sept émirats",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les Émirats arabes unis marqueront l'Aïd Al Etihad avec des célébrations dans les sept émirats."
+    }
+   ],
+   "source": "The National",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb01IQk5wTW1DR0pLYUdsckJQeS1xUlZjMFJTajhKcTg3NjhpN2thell2YmhBeVhnYUF1czIxNklSYUVEbjQ4Y0hoWEwyOEQ3QkhTeUZjS3JjdUdTUmhyRExLSlJ2M0gxVF9QSFJLUDFGaUNtZEdyLW0yVUF2R2N1emdNWjlVR1RyVWVOSXJmM3hHTTYzSkVGbWRWenl0R1FnanJtN3pLbS1oWGF6Si1LNkFsc09YY3ZRTldHc1dJVQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T09:11:15Z",
+   "countries": [
+    "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "wife-fears-ofw-husband-recruited-in-dubai-is-now",
+   "country": "United Arab Emirates",
+   "label": "ÉMIRATS ARABES UNIS",
+   "lat": 25.2,
+   "lon": 55.3,
+   "flag": "🇦🇪",
+   "severity": "critical",
+   "category": "UAE",
+   "headline": "L'épouse craint que le mari de l'OFW recruté à Dubaï soit désormais piégé dans la zone de guerre en Russie - ABS-CBN",
+   "summary": "L'épouse craint que le mari de l'OFW recruté à Dubaï soit désormais piégé dans la zone de guerre en Russie - ABS-CBN",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "L'épouse craint que le mari de l'OFW recruté à Dubaï soit désormais piégé dans la zone de guerre russe - ABS-CBN."
+    }
+   ],
+   "source": "ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObFd6emV6M3p5U3ZmY2FOakhnTGktaEdtLTZON2pmRnB1RUdBUUZrcThtUkhDb05Dd2daMjl2MkVQenBpRTNJcGxXbjQtN3RxSi1LOW5UWmN4NUtuN0dDV05nNmtOUkVWMFFTUnRDZ0g1VnpXWG9PVlVKSEg0S1h3UVZNclN3clkwRThnVXVFMmNnTjVWMGVEUEppbm9IS1Zrc0xvSlF1WVVVcHJzVlQ1VkZSQ2V6QmQtLXdXcjgyTGNJYktrdVE?oc=5",
+   "type": null,
+   "time": "2026-11-28T07:18:06Z",
+   "countries": [
     "United Arab Emirates",
+    "Russia"
+   ]
+  },
+  {
+   "id": "seven-students-killed-and-nearly-100-injured-in-",
+   "country": "Afghanistan",
+   "label": "AFGHANISTAN",
+   "lat": 33.9,
+   "lon": 67.7,
+   "flag": "🇦🇫",
+   "severity": "critical",
+   "category": "World",
+   "headline": "Sept étudiants tués et près de 100 blessés dans une explosion en Afghanistan, selon un responsable",
+   "summary": "Un porte-parole du ministère afghan de l'Intérieur a déclaré que l'explosion avait été provoquée par la négligence d'un dépôt d'explosifs situé à proximité.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Sept étudiants tués et près de 100 blessés dans une explosion en Afghanistan, selon un responsable."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Est-ce confirmé ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Un porte-parole du ministère afghan de l'Intérieur a déclaré que l'explosion avait été provoquée par la négligence d'un dépôt d'explosifs situé à proximité."
+    }
+   ],
+   "source": "bbc.co.uk",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+   "type": null,
+   "time": "2026-11-28T10:14:37Z",
+   "countries": [
+    "Afghanistan"
+   ]
+  },
+  {
+   "id": "yemen-government-forces-hit-houthi-positions-as-",
+   "country": "Yemen",
+   "label": "YÉMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "high",
+   "category": "Middle East",
+   "headline": "Les forces gouvernementales du Yémen frappent les positions des Houthis alors que l'ONU met en garde contre une crise alimentaire",
+   "summary": "Selon l'ONU, environ 1,8 million de personnes sont confrontées à des niveaux d'urgence de faim dans les zones contrôlées par le gouvernement.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Les forces gouvernementales yéménites ont frappé les positions des Houthis alors que l'ONU met en garde contre une crise alimentaire."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Quelle est la situation maintenant ?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Selon l'ONU, environ 1,8 million de personnes sont confrontées à des niveaux d'urgence de faim dans les zones contrôlées par le gouvernement."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T09:35:15Z",
+   "countries": [
+    "Yemen"
+   ]
+  },
+  {
+   "id": "centcom-rejects-iran-s-claims-on-warship-attack-",
+   "country": "Iran",
+   "label": "L'IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Business",
+   "headline": "Centcom rejette les affirmations de l'Iran sur l'attaque d'un navire de guerre et les frais d'expédition d'Ormuz",
+   "summary": "Centcom rejette les affirmations de l'Iran sur l'attaque d'un navire de guerre et les frais d'expédition d'Ormuz",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Centcom rejette les affirmations de l'Iran concernant l'attaque d'un navire de guerre et les frais d'expédition d'Ormuz."
+    }
+   ],
+   "source": "Middle East Eye",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMUxCRVFPWDl6UmtyMTZldkZxS0VBRExHLVRTOFhWdXhCTl82UjczVDNZa1VGNjlLWVJwamczeUJCdHdFSHFRSXhOVXRyMk9lZVpxekJBY1AyOEdJVENaMVhwVktPak5zQ0tRUVVLNV9VdnhlZ1BCb0NVcnlXaS1JaVpJeGtFemZiUDZ6QW0wUzcySkUyc29qTndSSTBoajVtY3dZeFhKQ0dYUnFNNXpWekNxQ0pzS05GMDkxRS1Ud1BkZw?oc=5",
+   "type": null,
+   "time": "2026-11-28T05:12:00Z",
+   "countries": [
     "Iran"
    ]
   }
