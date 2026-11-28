@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:02:59.366887Z",
+ "updated": "2026-11-28T02:01:46.903604Z",
  "generator": "rss",
  "lang": "zh",
  "stories": [
@@ -20,14 +20,48 @@
      "text": "巴基斯坦根据麦加协议主办与沙特阿拉伯和土耳其的防务会谈。"
     }
    ],
-   "source": "Durango Herald",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGQwTGZwVWd3OWdya0pTMzkyckc4VWxlOThyREdtd2RJcUN1M3ZBNnRadWhneEVyOUVFT0FId2NOajdtT2lLZGdnc2dHNVhkRXcwc1JLcW1yWnlhT3ZhU21Selg4bmpsNWg4aDQxeGZnaDNVdWRGbUsta2VMVTdqbjFkUl9rTmJuM1l3TmFaTnlPX2d3ZWdVSzlGQnF0c0pnbDdmSG5YOGZIQXJ4OTN0Y0toX1AzbnVNODBkMkgxcXpwMXpLdDEzZnducUMwbUdSNFZGM3JzN1hydw?oc=5",
+   "source": "Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
    "type": null,
-   "time": "2026-11-27T15:16:00Z",
+   "time": "2026-11-27T15:16:39Z",
    "countries": [
     "Pakistan",
     "Saudi Arabia",
     "Turkey"
+   ]
+  },
+  {
+   "id": "us-disables-ship-attempting-to-breach-iran-block",
+   "country": "United States of America",
+   "label": "美国",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "美国禁用试图突破伊朗封锁的船只",
+   "summary": "美国军方表示，一艘商船离开伊朗港口后，他们对其进行了禁用，并且无视停止警告。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "美国禁止试图突破伊朗封锁的船只。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "给我详细信息。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "美国军方表示，一艘商船离开伊朗港口后，他们对其进行了禁用，并且无视停止警告。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T23:55:16Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -48,7 +82,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "到目前为止我们知道什么？"
+     "text": "确认了吗？"
     },
     {
      "role": "ANALYST",
@@ -100,41 +134,6 @@
    ]
   },
   {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "孟加拉国",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "巴基斯坦沙欣队以五柱门战胜孟加拉国“A”队进入亚洲杯新星决赛",
-   "summary": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "巴基斯坦沙欣队以五项优势战胜孟加拉国A队，闯入亚洲杯新星决赛。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "好吧，还有什么？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。"
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
    "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
@@ -159,6 +158,138 @@
     "United Arab Emirates",
     "Philippines",
     "Indonesia"
+   ]
+  },
+  {
+   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
+   "country": "Iran",
+   "label": "伊朗",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "伊朗战争直播：意大利称科威特致命袭击中的无人机是在伊朗制造的",
+   "summary": "意大利外交部长安东尼奥·塔贾尼表示，科威特致命袭击背后的无人机是伊朗制造的。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "伊朗战争直播：意大利称科威特致命袭击中的无人机是在伊朗制造的。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "意大利外交部长安东尼奥·塔贾尼表示，科威特致命袭击背后的无人机是伊朗制造的。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T00:00:00Z",
+   "countries": [
+    "Iran",
+    "Italy",
+    "Kuwait"
+   ]
+  },
+  {
+   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
+   "country": "Bangladesh",
+   "label": "孟加拉国",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "巴基斯坦沙欣队以五项优势战胜孟加拉国A队，闯入亚洲杯新星决赛",
+   "summary": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦沙欣队以五项优势战胜孟加拉国A队，闯入亚洲杯新星决赛。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "明白了。继续。"
+    },
+    {
+     "role": "ANALYST",
+     "text": "周五，巴基斯坦沙欣队在亚洲杯新星队第二场半决赛中以五场胜利击败孟加拉国队，以 28 个球追平了 233 分的目标，锁定了周日对阵斯里兰卡队的决赛席位。"
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
+   "type": null,
+   "time": "2026-11-27T18:56:18Z",
+   "countries": [
+    "Bangladesh",
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
+   "country": "Yemen",
+   "label": "也门",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "巴基斯坦和土耳其承诺加强对沙特阿拉伯打击胡塞武装袭击的支持",
+   "summary": "巴基斯坦和土耳其承诺加强对沙特阿拉伯打击胡塞武装袭击的支持",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "巴基斯坦和土耳其承诺加大对沙特阿拉伯打击胡塞武装袭击的支持。"
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
+   "type": null,
+   "time": "2026-11-27T23:01:12Z",
+   "countries": [
+    "Yemen",
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
+   "country": "Palestine",
+   "label": "巴勒斯坦",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "哈马斯首领最后一个幸存的儿子逃离以色列对加沙的袭击",
+   "summary": "哈马斯领导人哈利勒·哈亚最后一个幸存的儿子伊泽尔丁在周五的以色列暗杀行动中幸存。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "哈马斯首领最后一个幸存的儿子逃脱了以色列对加沙的袭击。"
+    },
+    {
+     "role": "COMMANDER",
+     "text": "确认了吗？"
+    },
+    {
+     "role": "ANALYST",
+     "text": "哈马斯领导人哈利勒·哈亚最后一个幸存的儿子伊泽尔丁在周五的以色列暗杀行动中幸存。"
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T20:18:45Z",
+   "countries": [
+    "Palestine",
+    "Israel"
    ]
   },
   {
@@ -187,63 +318,61 @@
    ]
   },
   {
-   "id": "trump-backs-iraqi-pm-s-oil-smuggling-crackdown",
-   "country": "United States of America",
-   "label": "美国",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "特朗普支持伊拉克总理打击石油走私",
-   "summary": "库尔德当局警告违反宪法并呼吁举行会议，巴格达关闭了边境口岸。",
+   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
+   "country": "Taiwan",
+   "label": "台湾",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "台湾会投票恢复核电——为什么这对人工智能很重要？",
+   "summary": "选民将于周六决定是否废除该国的“无核家园”政策。",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "特朗普支持伊拉克总理打击石油走私。"
+     "text": "台湾会投票恢复核电——为什么这对人工智能很重要？"
     },
     {
      "role": "COMMANDER",
-     "text": "为什么要搬家？"
+     "text": "现在情况如何？"
     },
     {
      "role": "ANALYST",
-     "text": "库尔德当局警告违反宪法并呼吁举行会议，巴格达关闭了边境口岸。"
+     "text": "选民将于周六决定是否废除该国的“无核家园”政策。"
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T16:13:07Z",
+   "time": "2026-11-27T23:09:04Z",
    "countries": [
-    "United States of America",
-    "Iraq"
+    "Taiwan"
    ]
   },
   {
-   "id": "donald-trump-tells-u-s-troops-they-ll-stay-in-ir",
+   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
    "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
+   "label": "霍尔木兹海峡",
+   "lat": 26.6,
+   "lon": 56.4,
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "唐纳德·特朗普告诉美国军队，他们将留在伊朗战争中，并宣称“只要我愿意”，胜利就会到来，引发全国范围内的强烈反对",
-   "summary": "唐纳德·特朗普告诉美国军队，他们将留在伊朗战争中，并宣称“只要我愿意”，胜利就会到来，引发全国范围内的强烈反对",
+   "headline": "伊朗革命卫队称，两艘油轮在霍尔木兹附近被地雷击中",
+   "summary": "伊朗革命卫队称，两艘油轮在霍尔木兹附近被地雷击中",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "唐纳德·特朗普告诉美国军队，他们将留在伊朗战争中，并宣称“只要我愿意”，胜利就会到来，这在全国范围内引发了强烈反对。"
+     "text": "伊朗伊斯兰革命卫队称，两艘油轮在霍尔木兹附近被地雷击中。"
     }
    ],
-   "source": "Yahoo Lifestyle Canada",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jS0pDdjc1LVNQTWxxNEVNRmhGM0NMVjlUQXVUR2xOLVF0Y0VoM3JpLWhyTFJiX3FjZ3k1NDE2MnVvMEJYUGFjallVZXdqdmtQOHgtOWVicHZ1VGRNREhpdllaMVhPNnN6SjRJMzdvY0RfOHRpWlo5dw?oc=5",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
    "type": null,
-   "time": "2026-11-27T15:53:39Z",
+   "time": "2026-11-28T00:05:55Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Iran"
    ]
   },
   {
@@ -256,7 +385,7 @@
    "severity": "critical",
    "category": "World",
    "headline": "泽伦斯基在 BBC 采访中批评特朗普与普京的友谊“奇怪”",
-   "summary": "乌克兰总统对美国表示失望，并表示美国在和平谈判中没有足够努力地推动俄罗斯结束战争。",
+   "summary": "乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。",
    "lines": [
     {
      "role": "OPERATOR",
@@ -264,11 +393,11 @@
     },
     {
      "role": "COMMANDER",
-     "text": "背后是谁？"
+     "text": "确认了吗？"
     },
     {
      "role": "ANALYST",
-     "text": "乌克兰总统对美国表示失望，并表示美国在和平谈判中没有足够努力地推动俄罗斯结束战争。"
+     "text": "乌克兰总统表达了对美国的失望，并表示美国没有在和平谈判中向俄罗斯施加足够的压力来结束战争。"
     }
    ],
    "source": "bbc.co.uk",
@@ -282,230 +411,91 @@
    ]
   },
   {
-   "id": "italians-killed-in-kuwait-why-is-iran-denying-re",
-   "country": "Kuwait",
-   "label": "科威特",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "意大利人在科威特被杀：伊朗为何否认责任？",
-   "summary": "意大利人在科威特被杀：伊朗为何否认责任？",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "意大利人在科威特被杀：伊朗为何否认责任？"
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:55:06Z",
-   "countries": [
-    "Kuwait",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-oil-tanker-explodes-after-hitting-nava",
-   "country": "Iran",
-   "label": "伊朗",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗称油轮在霍尔木兹海峡触雷后爆炸",
-   "summary": "伊朗称油轮在霍尔木兹海峡触雷后爆炸",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗称油轮在霍尔木兹海峡触雷后爆炸。"
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUVPUTlEQ05fLVA1MTNqa2tOejlucTkwaWZjZGxjWm9taWNneG12aFhKLXJqeEQ4QkdSWTYwcTBSX1VhcmlYclBkZXVOZnI3UFh1QThLeHJMbTBfU01Ia2FnTnRJb1NBcjg2c0pPeXRpNG1vejBUd2JoTGU2U2xTakp3UV9weHEzQy00RFZKS0M2bmUtMlpTWWUyWjF5NG1jZFloeUVnMEJrNWk1TVg4OXgydTYxLUFRZjBF?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:39:59Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-seeks-deeper-cooperation-with-iaea-on-n",
-   "country": "Pakistan",
-   "label": "巴基斯坦",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
+   "country": "Taiwan",
+   "label": "台湾",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
    "severity": "high",
-   "category": "Tech",
-   "headline": "巴基斯坦寻求与国际原子能机构在核安全方面深化合作",
-   "summary": "外交部（FO）周五表示，巴基斯坦期待进一步深化与国际原子能机构（IAEA）和国际伙伴的合作，以支持可持续的核安全。",
+   "category": "World",
+   "headline": "2026 年选举 台湾“九合一”选举、核公投开放投票",
+   "summary": "2026 年选举 台湾“九合一”选举、核公投开放投票",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "巴基斯坦寻求与国际原子能机构在核安全方面进行更深入的合作。"
+     "text": "2026 年选举 台湾“九合一”选举、核公投开放投票。"
+    }
+   ],
+   "source": "Focus Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:32:00Z",
+   "countries": [
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
+   "country": "Spain",
+   "label": "西班牙",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "西班牙加那利群岛附近的移民船上发现至少八人死亡",
+   "summary": "西班牙救援部门称，六人已被空运至医院，伤势严重。",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "西班牙加那利群岛附近的移民船上发现至少八人死亡。"
     },
     {
      "role": "COMMANDER",
-     "text": "现在情况如何？"
+     "text": "有人员伤亡吗？"
     },
     {
      "role": "ANALYST",
-     "text": "外交部（FO）周五表示，巴基斯坦期待进一步深化与国际原子能机构（IAEA）和国际伙伴的合作，以支持可持续的核安全。"
+     "text": "西班牙救援部门称，六人已被空运至医院，伤势严重。"
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T11:14:28Z",
+   "time": "2026-11-27T23:57:03Z",
    "countries": [
-    "Pakistan"
+    "Spain"
    ]
   },
   {
-   "id": "ukraine-warns-of-a-black-sea-hormuz-as-attacks-t",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "乌克兰警告黑海“霍尔木兹”袭击威胁到三个面临饥荒风险的国家的粮食援助",
-   "summary": "乌克兰警告黑海“霍尔木兹”袭击威胁到三个面临饥荒风险的国家的粮食援助",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "乌克兰警告黑海“霍尔木兹”袭击威胁到三个面临饥荒风险的国家的粮食援助。"
-    }
-   ],
-   "source": "Kyiv Post",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUzRYNl9vWWx6emZudGJTREtUaTRINVczbzIydnF6WTBpTHEyQTZxVzhRamhzN1NxQjkxMFBhZ19mMWFNU2tVWm9rQQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T16:20:48Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "saudi-strike-kills-11-civilians-in-yemen-s-taiz-",
-   "country": "Yemen",
-   "label": "也门",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
+   "country": "Saudi Arabia",
+   "label": "沙特阿拉伯",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "胡塞媒体：沙特空袭在也门塔伊兹造成“11名平民”死亡",
-   "summary": "胡塞媒体：沙特空袭在也门塔伊兹造成“11名平民”死亡",
+   "headline": "沙特领导的联军袭击也门，胡塞武装袭击沙特石油设施 - WISH-TV",
+   "summary": "沙特领导的联军袭击也门，胡塞武装袭击沙特石油设施 - WISH-TV",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "胡塞媒体称，沙特的空袭导致也门塔伊兹“11 名平民”死亡。"
+     "text": "沙特领导的联军袭击也门，胡塞武装袭击了沙特石油设施 - WISH-TV。"
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNuUFdtTUt3XzYtQXpoc0tKS1dHYzgyQ3lUVUpaOUhCQUpiZXRtOHY3VVlMMjNGdU12WWdpWk93Q0Y0dEh2T01zcTNueEJ6QVhUd2pIamllMko3SGhPYUdzS2ZkMlJEMGtuRzVzbGJkWGNQbWVTQXBtRDFvMElyS25meDlqejh6Rld0dzlRTkpJMUgtT2RJVm9reWFBVHczaUgw0gGoAUFVX3lxTFBGZmlMclJkbjEtNFgzNUtEc0V1RVJjU2F1ZTZWMFdKejhwa1h4aG5uSGlyRTdld1FhRS1kelJLeUxnUzVBQ2p1WjdYOTFKX3ZBeE5YcG5XcTNYdkVKVmN3MmpPd1RDLTRkODM3ME9qajZDd3Fpd0JPME5GRXRjVEhxZDh6T0g3c2hmZXVuNDFELXp1eTBkZlEyb2s4VVI1XzNQdWpfMkhETQ?oc=5",
+   "source": "WISH-TV",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
    "type": null,
-   "time": "2026-11-27T12:14:38Z",
+   "time": "2026-11-27T19:12:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "uae-residents-update-us-iran-tensions-kuwait-att",
-   "country": "United Arab Emirates",
-   "label": "阿拉伯联合酋长国",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "阿联酋居民的最新情况：美伊紧张局势、科威特袭击、沙特炼油厂罢工和航班中断",
-   "summary": "阿联酋居民的最新情况：美伊紧张局势、科威特袭击、沙特炼油厂罢工和航班中断",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "阿联酋居民的最新情况：美伊紧张局势、科威特袭击、沙特炼油厂罢工和航班中断。"
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
-   "type": null,
-   "time": "2026-11-27T07:46:11Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Iran",
-    "Kuwait",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "weary-of-war-but-with-no-sign-of-backing-down-ky",
-   "country": "Ukraine",
-   "label": "乌克兰",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "基辅厌倦了战争，但没有退缩的迹象，面临着另一个严酷的冬天",
-   "summary": "乌克兰即将迎来又一个毁灭性的冬天，但问题依然存在：这一切将如何结束？",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "基辅厌倦了战争，但没有退缩的迹象，面临着另一个严酷的冬天。"
-    },
-    {
-     "role": "COMMANDER",
-     "text": "确认了吗？"
-    },
-    {
-     "role": "ANALYST",
-     "text": "乌克兰即将迎来又一个毁灭性的冬天，但问题依然存在：这一切将如何结束？"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:42:50Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "iran-accused-of-deadly-drone-attack-in-kuwait-th",
-   "country": "Kuwait",
-   "label": "科威特",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "伊朗被指控在科威特发动致命无人机袭击，引发欧盟呼吁加大对德黑兰的压力",
-   "summary": "伊朗被指控在科威特发动致命无人机袭击，引发欧盟呼吁加大对德黑兰的压力",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "伊朗被指控在科威特发动致命无人机袭击，引发欧盟呼吁加大对德黑兰的压力。"
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-   "type": null,
-   "time": "2026-11-27T10:07:00Z",
-   "countries": [
-    "Kuwait",
-    "Iran"
-   ]
-  },
-  {
-   "id": "dubai-s-stock-market-rises-14-per-cent-in-novemb",
+   "id": "dubai-stocks-rally-to-lead-gulf-markets",
    "country": "United Arab Emirates",
    "label": "阿拉伯联合酋长国",
    "lat": 25.2,
@@ -513,20 +503,47 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "迪拜股市11月上涨14%",
-   "summary": "迪拜股市11月上涨14%",
+   "headline": "迪拜股市上涨引领海湾市场",
+   "summary": "迪拜股市上涨引领海湾市场",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "11 月份迪拜股市上涨 14%。"
+     "text": "迪拜股市上涨引领海湾市场。"
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFVMGZDMUtSMzFIckdnVUViWmo5eEpVd24zanlTY2loOHRlcjNHclRkUWNkT1NIeGNKYzJKV0tLVUhXNkpLWnp0X2MwcjhPemZsMjB0WjRrOG9QSWY4aHZKbWo3d2VXcGgzODVvYS1fV0xCUGljTmdFU0g3U1lwblU1MHJmRjU3RnZLUkp3NkJqQXB2ZWg0Q2pkLUFQNXhwdThxWHJFRmdnWXUtSGJB?oc=5",
+   "source": "Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
    "type": null,
-   "time": "2026-11-27T17:15:00Z",
+   "time": "2026-11-27T14:15:00Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
+   "country": "Kuwait",
+   "label": "科威特",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "阿联酋谴责伊朗无人机对科威特的侵略性袭击",
+   "summary": "阿联酋谴责伊朗无人机对科威特的侵略性袭击",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "阿联酋谴责伊朗无人机对科威特的侵略性袭击。"
+    }
+   ],
+   "source": "Global Arab Network",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "type": null,
+   "time": "2026-11-27T17:28:46Z",
+   "countries": [
+    "Kuwait",
+    "United Arab Emirates",
+    "Iran"
    ]
   }
  ]

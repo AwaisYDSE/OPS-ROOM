@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:02:59.366887Z",
+ "updated": "2026-11-28T02:01:46.903604Z",
  "generator": "rss",
  "stories": [
   {
@@ -19,14 +19,48 @@
      "text": "Pakistan hosts defense talks with Saudi Arabia and Turkey under Mecca pact."
     }
    ],
-   "source": "Durango Herald",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOGQwTGZwVWd3OWdya0pTMzkyckc4VWxlOThyREdtd2RJcUN1M3ZBNnRadWhneEVyOUVFT0FId2NOajdtT2lLZGdnc2dHNVhkRXcwc1JLcW1yWnlhT3ZhU21Selg4bmpsNWg4aDQxeGZnaDNVdWRGbUsta2VMVTdqbjFkUl9rTmJuM1l3TmFaTnlPX2d3ZWdVSzlGQnF0c0pnbDdmSG5YOGZIQXJ4OTN0Y0toX1AzbnVNODBkMkgxcXpwMXpLdDEzZnducUMwbUdSNFZGM3JzN1hydw?oc=5",
+   "source": "Washington Times",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVUtdVBNN3VEUHNmMG92S2tvZjZZcjVqVDRQanRLb09NdjV6emhIU1BzSUctR2JnZVlyaDdqQTBfSEhxcjlIV2tKa2lkZi1jQ215bkU4S2EtdlVvYkFJb0J3SFZuVVZGcXR4eWtEM0Q4OVhwT0ljb2RfaU03clhEcU9oQVdVeE00TkdGc1lQT1ZOMlUzQTd6N2pZSjVuLUdUUFppX2R1eGQ5Ui15cEJEMQ?oc=5",
    "type": null,
-   "time": "2026-11-27T15:16:00Z",
+   "time": "2026-11-27T15:16:39Z",
    "countries": [
     "Pakistan",
     "Saudi Arabia",
     "Turkey"
+   ]
+  },
+  {
+   "id": "us-disables-ship-attempting-to-breach-iran-block",
+   "country": "United States of America",
+   "label": "UNITED STATES",
+   "lat": 39.0,
+   "lon": -98.0,
+   "flag": "🇺🇸",
+   "severity": "high",
+   "category": "Business",
+   "headline": "US disables ship attempting to breach Iran blockade",
+   "summary": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "US disables ship attempting to breach Iran blockade."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Give me the details."
+    },
+    {
+     "role": "ANALYST",
+     "text": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T23:55:16Z",
+   "countries": [
+    "United States of America",
+    "Iran"
    ]
   },
   {
@@ -47,7 +81,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "What do we know so far?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -99,41 +133,6 @@
    ]
   },
   {
-   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
-   "country": "Bangladesh",
-   "label": "BANGLADESH",
-   "lat": 23.7,
-   "lon": 90.4,
-   "flag": "🇧🇩",
-   "severity": "info",
-   "category": "Sports",
-   "headline": "Pakistan Shaheens cruise into Asia Cup Rising Stars final with five-wicket win over Bangladesh ‘A’",
-   "summary": "Pakistan Shaheens produced a composed five-wicket victory over Bangladesh ‘A’ in the second semi-final of the Asia Cup Rising Stars on Friday, chasing down a target of 233 with 28 balls to spare to book their place in Sunday’s final against Sri Lanka ‘A’.",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Pakistan Shaheens cruise into Asia Cup Rising Stars final with five-wicket win over Bangladesh ‘A’."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Okay, what else?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Pakistan Shaheens produced a composed five-wicket victory over Bangladesh ‘A’ in the second semi-final of the Asia Cup Rising Stars on Friday, chasing down a target of 233 with 28 balls to spare to book their place in Sunday’s final against Sri Lanka ‘A’."
-    }
-   ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
-   "type": null,
-   "time": "2026-11-27T18:56:18Z",
-   "countries": [
-    "Bangladesh",
-    "Pakistan",
-    "Sri Lanka"
-   ]
-  },
-  {
    "id": "asia-pacific-trade-bloc-opens-accession-talks-wi",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
@@ -158,6 +157,138 @@
     "United Arab Emirates",
     "Philippines",
     "Indonesia"
+   ]
+  },
+  {
+   "id": "iran-war-live-italy-says-drone-in-deadly-kuwait-",
+   "country": "Iran",
+   "label": "IRAN",
+   "lat": 32.4,
+   "lon": 53.7,
+   "flag": "🇮🇷",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+   "summary": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-28T00:00:00Z",
+   "countries": [
+    "Iran",
+    "Italy",
+    "Kuwait"
+   ]
+  },
+  {
+   "id": "pakistan-shaheens-cruise-into-asia-cup-rising-st",
+   "country": "Bangladesh",
+   "label": "BANGLADESH",
+   "lat": 23.7,
+   "lon": 90.4,
+   "flag": "🇧🇩",
+   "severity": "info",
+   "category": "Sports",
+   "headline": "Pakistan Shaheens cruise into Asia Cup Rising Stars final with five-wicket win over Bangladesh ‘A’",
+   "summary": "Pakistan Shaheens produced a composed five-wicket victory over Bangladesh ‘A’ in the second semi-final of the Asia Cup Rising Stars on Friday, chasing down a target of 233 with 28 balls to spare to book their place in Sunday’s final against Sri Lanka ‘A’.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan Shaheens cruise into Asia Cup Rising Stars final with five-wicket win over Bangladesh ‘A’."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Understood. Go on."
+    },
+    {
+     "role": "ANALYST",
+     "text": "Pakistan Shaheens produced a composed five-wicket victory over Bangladesh ‘A’ in the second semi-final of the Asia Cup Rising Stars on Friday, chasing down a target of 233 with 28 balls to spare to book their place in Sunday’s final against Sri Lanka ‘A’."
+    }
+   ],
+   "source": "dawn.com",
+   "url": "https://www.dawn.com/news/2047510/pakistan-shaheens-cruise-into-asia-cup-rising-stars-final-with-five-wicket-win-over-bangladesh-a",
+   "type": null,
+   "time": "2026-11-27T18:56:18Z",
+   "countries": [
+    "Bangladesh",
+    "Pakistan",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "id": "pakistan-t-rkiye-pledge-to-step-up-support-for-s",
+   "country": "Yemen",
+   "label": "YEMEN",
+   "lat": 15.5,
+   "lon": 48.0,
+   "flag": "🇾🇪",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Pakistan, Türkiye pledge to step up support for Saudi Arabia against Houthi attacks",
+   "summary": "Pakistan, Türkiye pledge to step up support for Saudi Arabia against Houthi attacks",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Pakistan, Türkiye pledge to step up support for Saudi Arabia against Houthi attacks."
+    }
+   ],
+   "source": "Arab News PK",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmdtcnZDUEhkRUh5WnFVcm1ua3BMWi1fNnk4M0ZYU1pXSVl1bTdvSk8xVkVrdXI0OVRJdTd3NmFjbXR6NU9aYXNheU5lNXNSWVZFSmpuenlZdExxemR4RmZFRUJPekYwbU5xb1U4bS1RdE5STEVNSWRMYmc1U2RSQ1Ayamhab1dQT084OHNsWEFrLWhUdGRqZEN6ZTJneXNRbTh6RlFnVVltck5oS2RwdHZLQTRZVkwySFVxNUpvdlJFYW12SU93?oc=5",
+   "type": null,
+   "time": "2026-11-27T23:01:12Z",
+   "countries": [
+    "Yemen",
+    "Pakistan",
+    "Turkey",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "id": "hamas-chief-s-last-surviving-son-escapes-israeli",
+   "country": "Palestine",
+   "label": "PALESTINE",
+   "lat": 31.6,
+   "lon": 34.6,
+   "flag": "🇵🇸",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+   "summary": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "Hamas chief’s last surviving son escapes Israeli strike in Gaza."
+    },
+    {
+     "role": "COMMANDER",
+     "text": "Is it confirmed?"
+    },
+    {
+     "role": "ANALYST",
+     "text": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday."
+    }
+   ],
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "type": null,
+   "time": "2026-11-27T20:18:45Z",
+   "countries": [
+    "Palestine",
+    "Israel"
    ]
   },
   {
@@ -186,63 +317,61 @@
    ]
   },
   {
-   "id": "trump-backs-iraqi-pm-s-oil-smuggling-crackdown",
-   "country": "United States of America",
-   "label": "UNITED STATES",
-   "lat": 39.0,
-   "lon": -98.0,
-   "flag": "🇺🇸",
-   "severity": "markets",
-   "category": "Markets",
-   "headline": "Trump backs Iraqi PM’s oil smuggling crackdown",
-   "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+   "id": "will-taiwan-vote-to-revive-nuclear-power-and-why",
+   "country": "Taiwan",
+   "label": "TAIWAN",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
+   "severity": "high",
+   "category": "Tech",
+   "headline": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+   "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Trump backs Iraqi PM’s oil smuggling crackdown."
+     "text": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?."
     },
     {
      "role": "COMMANDER",
-     "text": "Why the move?"
+     "text": "What's the situation now?"
     },
     {
      "role": "ANALYST",
-     "text": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting."
+     "text": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy."
     }
    ],
    "source": "aljazeera.com",
-   "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T16:13:07Z",
+   "time": "2026-11-27T23:09:04Z",
    "countries": [
-    "United States of America",
-    "Iraq"
+    "Taiwan"
    ]
   },
   {
-   "id": "donald-trump-tells-u-s-troops-they-ll-stay-in-ir",
+   "id": "two-tankers-hit-by-mines-near-hormuz-irgc-says",
    "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
+   "label": "STRAIT OF HORMUZ",
+   "lat": 26.6,
+   "lon": 56.4,
    "flag": "🇮🇷",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Donald Trump Tells U.S. Troops They'll Stay in Iran War, Declares Victory Will Come 'Whenever I Want It to Be,' Sparking Backlash Nationwide",
-   "summary": "Donald Trump Tells U.S. Troops They'll Stay in Iran War, Declares Victory Will Come 'Whenever I Want It to Be,' Sparking Backlash Nationwide",
+   "headline": "Two tankers hit by mines near Hormuz, IRGC says",
+   "summary": "Two tankers hit by mines near Hormuz, IRGC says",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Donald Trump Tells U.S. Troops They'll Stay in Iran War, Declares Victory Will Come 'Whenever I Want It to Be,' Sparking Backlash Nationwide."
+     "text": "Two tankers hit by mines near Hormuz, IRGC says."
     }
    ],
-   "source": "Yahoo Lifestyle Canada",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jS0pDdjc1LVNQTWxxNEVNRmhGM0NMVjlUQXVUR2xOLVF0Y0VoM3JpLWhyTFJiX3FjZ3k1NDE2MnVvMEJYUGFjallVZXdqdmtQOHgtOWVicHZ1VGRNREhpdllaMVhPNnN6SjRJMzdvY0RfOHRpWlo5dw?oc=5",
+   "source": "The Times of Israel",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlsVUNNR3FCcVRmTFAtUEFjWWZXQld5UkdrRnVadnF0bzdFWGFNTDhRUU1UMjZ2QmI0bFpSNkZIT2VqZjF0bnBSdE44Rndnb0ZlUzdQQzlfWjVqR3pJV3JrRWtEOHpwdFpNU2Rncl9vNlVaRVF0WE5XNm5sLWFaVkdjU2N1MjVzZnpRX0J3cmJ3bmlNRThv?oc=5",
    "type": null,
-   "time": "2026-11-27T15:53:39Z",
+   "time": "2026-11-28T00:05:55Z",
    "countries": [
-    "Iran",
-    "United States of America"
+    "Iran"
    ]
   },
   {
@@ -263,7 +392,7 @@
     },
     {
      "role": "COMMANDER",
-     "text": "Who is behind it?"
+     "text": "Is it confirmed?"
     },
     {
      "role": "ANALYST",
@@ -281,230 +410,91 @@
    ]
   },
   {
-   "id": "italians-killed-in-kuwait-why-is-iran-denying-re",
-   "country": "Kuwait",
-   "label": "KUWAIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-   "summary": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Italians killed in Kuwait: Why is Iran denying responsibility?."
-    }
-   ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:55:06Z",
-   "countries": [
-    "Kuwait",
-    "Iran"
-   ]
-  },
-  {
-   "id": "iran-says-oil-tanker-explodes-after-hitting-nava",
-   "country": "Iran",
-   "label": "IRAN",
-   "lat": 32.4,
-   "lon": 53.7,
-   "flag": "🇮🇷",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
-   "summary": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran says oil tanker explodes after hitting naval mine in Strait of Hormuz."
-    }
-   ],
-   "source": "Anadolu Ajansı",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUVPUTlEQ05fLVA1MTNqa2tOejlucTkwaWZjZGxjWm9taWNneG12aFhKLXJqeEQ4QkdSWTYwcTBSX1VhcmlYclBkZXVOZnI3UFh1QThLeHJMbTBfU01Ia2FnTnRJb1NBcjg2c0pPeXRpNG1vejBUd2JoTGU2U2xTakp3UV9weHEzQy00RFZKS0M2bmUtMlpTWWUyWjF5NG1jZFloeUVnMEJrNWk1TVg4OXgydTYxLUFRZjBF?oc=5",
-   "type": null,
-   "time": "2026-11-27T11:39:59Z",
-   "countries": [
-    "Iran"
-   ]
-  },
-  {
-   "id": "pakistan-seeks-deeper-cooperation-with-iaea-on-n",
-   "country": "Pakistan",
-   "label": "PAKISTAN",
-   "lat": 30.4,
-   "lon": 69.3,
-   "flag": "🇵🇰",
+   "id": "2026-elections-polls-open-for-taiwan-s-9-in-1-el",
+   "country": "Taiwan",
+   "label": "TAIWAN",
+   "lat": 23.7,
+   "lon": 121.0,
+   "flag": "🇹🇼",
    "severity": "high",
-   "category": "Tech",
-   "headline": "Pakistan seeks deeper cooperation with IAEA on nuclear security",
-   "summary": "Pakistan looks forward to further deepening cooperation with the International Atomic Energy Agency (IAEA) and international partners in support of sustainable nuclear security, the Foreign Office (FO) said on Friday.",
+   "category": "World",
+   "headline": "2026 ELECTIONS Polls open for Taiwan's '9-in-1' elections, nuclear referendum",
+   "summary": "2026 ELECTIONS Polls open for Taiwan's '9-in-1' elections, nuclear referendum",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Pakistan seeks deeper cooperation with IAEA on nuclear security."
+     "text": "2026 ELECTIONS Polls open for Taiwan's '9-in-1' elections, nuclear referendum."
+    }
+   ],
+   "source": "Focus Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3a1gxVTVVSWJlY1JDdWZYdG4xOVlMbzFWejFxeGpYY2ZaS2UtdjRWN185bFB5bDFOWVlDa2lGd0pKR0U0VXQzQ3phVDB0MzNKVHNJY2RuQQ?oc=5",
+   "type": null,
+   "time": "2026-11-28T01:32:00Z",
+   "countries": [
+    "Taiwan"
+   ]
+  },
+  {
+   "id": "at-least-eight-found-dead-on-migrant-boat-off-sp",
+   "country": "Spain",
+   "label": "SPAIN",
+   "lat": 40.5,
+   "lon": -3.7,
+   "flag": "🇪🇸",
+   "severity": "critical",
+   "category": "World",
+   "headline": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+   "summary": "Six people airlifted to hospital in serious condition, Spanish rescue service says.",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "At least eight found dead on migrant boat off Spain’s Canary Islands."
     },
     {
      "role": "COMMANDER",
-     "text": "What's the situation now?"
+     "text": "Any casualties?"
     },
     {
      "role": "ANALYST",
-     "text": "Pakistan looks forward to further deepening cooperation with the International Atomic Energy Agency (IAEA) and international partners in support of sustainable nuclear security, the Foreign Office (FO) said on Friday."
+     "text": "Six people airlifted to hospital in serious condition, Spanish rescue service says."
     }
    ],
-   "source": "dawn.com",
-   "url": "https://www.dawn.com/news/2047472/pakistan-seeks-deeper-cooperation-with-iaea-on-nuclear-security",
+   "source": "aljazeera.com",
+   "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands?traffic_source=rss",
    "type": null,
-   "time": "2026-11-27T11:14:28Z",
+   "time": "2026-11-27T23:57:03Z",
    "countries": [
-    "Pakistan"
+    "Spain"
    ]
   },
   {
-   "id": "ukraine-warns-of-a-black-sea-hormuz-as-attacks-t",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Ukraine Warns of a Black Sea ‘Hormuz’ as Attacks Threaten Food Aid to 3 Countries at Risk of Famine",
-   "summary": "Ukraine Warns of a Black Sea ‘Hormuz’ as Attacks Threaten Food Aid to 3 Countries at Risk of Famine",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Ukraine Warns of a Black Sea ‘Hormuz’ as Attacks Threaten Food Aid to 3 Countries at Risk of Famine."
-    }
-   ],
-   "source": "Kyiv Post",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aUzRYNl9vWWx6emZudGJTREtUaTRINVczbzIydnF6WTBpTHEyQTZxVzhRamhzN1NxQjkxMFBhZ19mMWFNU2tVWm9rQQ?oc=5",
-   "type": null,
-   "time": "2026-11-27T16:20:48Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "saudi-strike-kills-11-civilians-in-yemen-s-taiz-",
-   "country": "Yemen",
-   "label": "YEMEN",
-   "lat": 15.5,
-   "lon": 48.0,
-   "flag": "🇾🇪",
+   "id": "houthi-strikes-hit-saudi-oil-sites-as-saudi-led-",
+   "country": "Saudi Arabia",
+   "label": "SAUDI ARABIA",
+   "lat": 24.7,
+   "lon": 46.7,
+   "flag": "🇸🇦",
    "severity": "critical",
    "category": "Middle East",
-   "headline": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
-   "summary": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+   "headline": "Houthi strikes hit Saudi oil sites as Saudi-led coalition attacks Yemen - WISH-TV",
+   "summary": "Houthi strikes hit Saudi oil sites as Saudi-led coalition attacks Yemen - WISH-TV",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media."
+     "text": "Houthi strikes hit Saudi oil sites as Saudi-led coalition attacks Yemen - WISH-TV."
     }
    ],
-   "source": "Al Jazeera",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTNuUFdtTUt3XzYtQXpoc0tKS1dHYzgyQ3lUVUpaOUhCQUpiZXRtOHY3VVlMMjNGdU12WWdpWk93Q0Y0dEh2T01zcTNueEJ6QVhUd2pIamllMko3SGhPYUdzS2ZkMlJEMGtuRzVzbGJkWGNQbWVTQXBtRDFvMElyS25meDlqejh6Rld0dzlRTkpJMUgtT2RJVm9reWFBVHczaUgw0gGoAUFVX3lxTFBGZmlMclJkbjEtNFgzNUtEc0V1RVJjU2F1ZTZWMFdKejhwa1h4aG5uSGlyRTdld1FhRS1kelJLeUxnUzVBQ2p1WjdYOTFKX3ZBeE5YcG5XcTNYdkVKVmN3MmpPd1RDLTRkODM3ME9qajZDd3Fpd0JPME5GRXRjVEhxZDh6T0g3c2hmZXVuNDFELXp1eTBkZlEyb2s4VVI1XzNQdWpfMkhETQ?oc=5",
+   "source": "WISH-TV",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXlhNkxod1RoSmZhR0p0Zm9iV2VKYUM2Skl6UnQ4aVk3eFBaOHFlVzhiTjA4MFczTkFELUlzSHB5bklKUTVNUElZOEdSYzJhYXRQSmk1NlNzWGtkOVkzU25GdnNaUG92UWhiMU5SYS1NVTFSbFpZU0pwY3pPVnhLbU9SdVhOdzVjdS1WNlRMZ21IT0ZRUFhVRzVxRDJFcE5kbFh4VmpWTi1sU3hrTDdFZEQxY2M?oc=5",
    "type": null,
-   "time": "2026-11-27T12:14:38Z",
+   "time": "2026-11-27T19:12:00Z",
    "countries": [
-    "Yemen",
-    "Saudi Arabia"
+    "Saudi Arabia",
+    "Yemen"
    ]
   },
   {
-   "id": "uae-residents-update-us-iran-tensions-kuwait-att",
-   "country": "United Arab Emirates",
-   "label": "UNITED ARAB EMIRATES",
-   "lat": 25.2,
-   "lon": 55.3,
-   "flag": "🇦🇪",
-   "severity": "critical",
-   "category": "UAE",
-   "headline": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions",
-   "summary": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "UAE residents' update: US-Iran tensions, Kuwait attack, Saudi refinery strike and flight disruptions."
-    }
-   ],
-   "source": "Gulf News",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUh6cVBnbW1MRC03azJIdW1yamlqR1IwY0RPSW9oc3JfcjVMeWo1QzVkT2VIbXlWQnpWZW5uRXNmb1pSZDBlNkV2QktxTWRKYmc2cmxsS3BOLUU0MWRud3FpTEw3ZXZaWTAzLTZOTmFDd19HUE5UWVBPTzE0Yk00R3JacUxfYWhRUkw0cEsyT0F2S1lZM0t0SDJJdE5OaTdpZm9uU3FMVUF3SU1aa2xrN0d6dUg5TlBUY3liXzNwN0tOV2dTdVg2T3VrcF9md0ZjdGdEWjlRQdIB6gFBVV95cUxPRlE3bDZDN3VVRmNwY3FoTjZwM0hnRW9NMHNjdW9iZVRLakZGY09VOGxlNUNCTmxodTctMks5Y3Yxdi1DbjVOdlJ3dnczOGxRZ2lSd0tGV09EWDNVV3I0RjhZQ0dWNEFwOHdtdUNwSkhubGFabGV1WmtDRjUxVGxTTjIzdzA0eUFXTmMwT3FkZlVtdHB5VFJGRnI1SlUtS0kzc2oxUG4xbzMxLV9jQlpIWjVQbnRsOGFtY3paMWtDNVBIeEtNeFFfN0UwaEMtWHJ4WVFzUU9WVG1JUjYyVl9HOVlfWWhLVnNRTnc?oc=5",
-   "type": null,
-   "time": "2026-11-27T07:46:11Z",
-   "countries": [
-    "United Arab Emirates",
-    "United States of America",
-    "Iran",
-    "Kuwait",
-    "Saudi Arabia"
-   ]
-  },
-  {
-   "id": "weary-of-war-but-with-no-sign-of-backing-down-ky",
-   "country": "Ukraine",
-   "label": "UKRAINE",
-   "lat": 49.0,
-   "lon": 31.4,
-   "flag": "🇺🇦",
-   "severity": "critical",
-   "category": "World",
-   "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter."
-    },
-    {
-     "role": "COMMANDER",
-     "text": "Is it confirmed?"
-    },
-    {
-     "role": "ANALYST",
-     "text": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
-    }
-   ],
-   "source": "bbc.co.uk",
-   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-   "type": null,
-   "time": "2026-11-27T18:42:50Z",
-   "countries": [
-    "Ukraine"
-   ]
-  },
-  {
-   "id": "iran-accused-of-deadly-drone-attack-in-kuwait-th",
-   "country": "Kuwait",
-   "label": "KUWAIT",
-   "lat": 29.3,
-   "lon": 47.7,
-   "flag": "🇰🇼",
-   "severity": "critical",
-   "category": "Middle East",
-   "headline": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
-   "summary": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran",
-   "lines": [
-    {
-     "role": "OPERATOR",
-     "text": "Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran."
-    }
-   ],
-   "source": "CBS News",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bmJOWEtxU1hnYmlGcXV2cHM2SzlfUnBhVUk3QklXMzFEd3Eyd1BhRmhORDBNM21BZmhfMnZObENxQTB4QWFDWnJwX0xhdnFUQmVkT1FSYnlBWUNsc0dtc1hVZTk5eDBMbEJDV2hNcl9qN2tEX2Q0RUl6N3pFdw?oc=5",
-   "type": null,
-   "time": "2026-11-27T10:07:00Z",
-   "countries": [
-    "Kuwait",
-    "Iran"
-   ]
-  },
-  {
-   "id": "dubai-s-stock-market-rises-14-per-cent-in-novemb",
+   "id": "dubai-stocks-rally-to-lead-gulf-markets",
    "country": "United Arab Emirates",
    "label": "UNITED ARAB EMIRATES",
    "lat": 25.2,
@@ -512,20 +502,47 @@
    "flag": "🇦🇪",
    "severity": "markets",
    "category": "Markets",
-   "headline": "Dubai's stock market rises 14 per cent in November",
-   "summary": "Dubai's stock market rises 14 per cent in November",
+   "headline": "Dubai Stocks Rally to Lead Gulf Markets",
+   "summary": "Dubai Stocks Rally to Lead Gulf Markets",
    "lines": [
     {
      "role": "OPERATOR",
-     "text": "Dubai's stock market rises 14 per cent in November."
+     "text": "Dubai Stocks Rally to Lead Gulf Markets."
     }
    ],
-   "source": "The National",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdXFVMGZDMUtSMzFIckdnVUViWmo5eEpVd24zanlTY2loOHRlcjNHclRkUWNkT1NIeGNKYzJKV0tLVUhXNkpLWnp0X2MwcjhPemZsMjB0WjRrOG9QSWY4aHZKbWo3d2VXcGgzODVvYS1fV0xCUGljTmdFU0g3U1lwblU1MHJmRjU3RnZLUkp3NkJqQXB2ZWg0Q2pkLUFQNXhwdThxWHJFRmdnWXUtSGJB?oc=5",
+   "source": "Briefs Finance",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZjdDa05sZEV1NVNsUnF1bDJFVzZoaFhDVGRCd0lZTHRWWENlcEhQMGkyY25BcFUtdWc2UHNQZnhYaFE5WDVLN1ZOd1hNcDFwa2F3ZzJaNHZLbmJXclE5VUEycm9kOWdvZm1WN2l4aVJOQXpRVjZrUk9VUmxFUnA2MkVHMkwwOXZkVUF4TUpRZng2UQ?oc=5",
    "type": null,
-   "time": "2026-11-27T17:15:00Z",
+   "time": "2026-11-27T14:15:00Z",
    "countries": [
     "United Arab Emirates"
+   ]
+  },
+  {
+   "id": "uae-condemns-aggressive-iranian-drone-attack-on-",
+   "country": "Kuwait",
+   "label": "KUWAIT",
+   "lat": 29.3,
+   "lon": 47.7,
+   "flag": "🇰🇼",
+   "severity": "critical",
+   "category": "Middle East",
+   "headline": "UAE Condemns Aggressive Iranian Drone Attack on Kuwait",
+   "summary": "UAE Condemns Aggressive Iranian Drone Attack on Kuwait",
+   "lines": [
+    {
+     "role": "OPERATOR",
+     "text": "UAE Condemns Aggressive Iranian Drone Attack on Kuwait."
+    }
+   ],
+   "source": "Global Arab Network",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGkzZEo4Mm5LdFNZQ29NOTV5WTZzWDRkY2xCblBTR3E0S19Xak5xeXdiVW5Tb0NaZzYxbjdaUDhMSWJJX2toNnVnQ3gwNzhPSGhvWi1QM2pLZFN4YUh4M0lqUDZ2MW9DWTBrQnc2cWdrT0lxdnM0RWgwZDZmLTc0bW1RY3AzYUhUaHRnY2VHblVZUkNjd0VkYXdHZzg0TGlqaEphcUoyYw?oc=5",
+   "type": null,
+   "time": "2026-11-27T17:28:46Z",
+   "countries": [
+    "Kuwait",
+    "United Arab Emirates",
+    "Iran"
    ]
   }
  ]
